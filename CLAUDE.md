@@ -57,7 +57,7 @@ Fiecare script are și `--loturi <folder>` (scrie textul de citit pentru analiz�
 - **Folderul Drive cu fișe tehnice:** ID `1awNY200Ee6N5V21YT50wkgHcwc7k4Oka` (`DEFAULT_DRIVE_FOLDER` din `genereaza.py`);
   trebuie să rămână partajat cu link. Folderul Drive cu resursele tichetelor:
   https://drive.google.com/drive/folders/1lOL17JmqOOkcBTjBL6rLv_EuvZGKLnXY
-- **Pachetul trimis clientului:** `C:\Users\rczxc\Downloads\AKRO_analiza_faze_1-4` (paginile + `atasamente/` doar cu
+- **Pachetul trimis clientului:** `C:\Users\rczxc\Downloads\AKRO_analiza_faze_1-5` (paginile + `atasamente/` doar cu
   fișierele spre care duc linkurile). Nu se actualizează singur: după regenerare se copiază paginile din nou.
 - Site-ul furnizorului ALAMO WATER POLAND: https://alamowaterpoland.com/products/ (doar categorii, fără produse
   individuale).
@@ -119,6 +119,6 @@ Fiecare script are și `--loturi <folder>` (scrie textul de citit pentru analiz�
 - Faza 5 (tichet 23023): pagina făcută; analizate 4 stații (pilotul KDC S02518, Airbus S02613, Proconcord S02575 +
   Rominserv S02769), răspunsurile la cele 3 întrebări în `componente/raspunsuri.json`. Din 17 stații vândute, 13 nu au
   încă analiza componentelor; următorul candidat: Șoarș S02430 (filtre FDC/FCC, legate în Odoo de P01372). Proconcord
-  rămâne cu lanț „parțial” (cererea clientului nu e în emailuri). Pachetul din Downloads nu conține încă Faza 5.
+  rămâne cu lanț „parțial” (cererea clientului nu e în emailuri). Pachetul din Downloads conține și Faza 5 (copiat 30.10).
 - Problemă cunoscută, preexistentă: în `raport_emailuri.csv` unele liste de numere de conversații ies în altă ordine la
   fiecare rulare (conținut identic).
