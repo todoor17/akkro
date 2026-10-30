@@ -1,0 +1,1603 @@
+[
+  {
+    "cod": "R01-01",
+    "titlu": "Membrane de schimb Cintropur NW500/650/800: seturi de câte 5, din stocul Brașov când există, cu livrare prin curier",
+    "explicatie": "Clientul cere membrane de schimb pentru un filtru de impurități Cintropur NW500, NW650 sau NW800, adică sitele din interiorul filtrului, care se curăță și se înlocuiesc. Le poate cere cu finețea scrisă sau doar cu o poză. AKRO ofertează seturi de câte cinci membrane, iar ce are în stocul din Brașov ajunge în una-două zile. Când o finețe lipsea, AKRO a ofertat cât avea, a cerut acordul pe termen, iar clientul a luat doar ce era pe stoc.",
+    "categorie": "01-Filtre impuritati",
+    "cand": "Clientul cere membrane filtrante de schimb (seturi) pentru filtrul de impurități Cintropur NW500, NW650 sau NW800, cu finețea scrisă (între 1 și 150 de microni) sau doar printr-o poză a articolului, singure sau împreună cu un filtru nou.",
+    "clarificari": [
+      "Dacă nu toate finețile sunt în stoc: sunt în regulă termenul de livrare și cantitățile ofertate?"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "01-011003",
+          "rol": "set 5 membrane nylon lavabile 150 microni"
+        },
+        {
+          "ref": "01-011004",
+          "rol": "set 5 membrane 100 microni"
+        },
+        {
+          "ref": "01-011040",
+          "rol": "set 5 membrane 25 microni"
+        },
+        {
+          "ref": "01-011002",
+          "rol": "set 5 membrane 10 microni"
+        },
+        {
+          "ref": "01-011011",
+          "rol": "set 5 membrane 5 microni"
+        },
+        {
+          "ref": "01-011010",
+          "rol": "set 5 membrane 1 micron"
+        }
+      ],
+      "servicii": [
+        "livrarea la beneficiar inclusă (conversația 15). Expediere prin FAN Courier (conversația 173)"
+      ],
+      "documente": [],
+      "conditii": [
+        "din stocul Brașov: livrare în 1-2 zile de la comandă",
+        "ce nu e în stoc vine mai târziu (o finețe în săptămâna următoare, alta abia peste 4-5 săptămâni)",
+        "împreună cu un filtru NW500 nou: 2-3 săptămâni pentru toate produsele (conversația 97)"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2097988",
+        "src": "m2134660",
+        "citat": "Desigur, avem la acest moment setul de 5 membrane in stocul din Brasov.",
+        "pentru": "ofertă",
+        "nota": "setul de 5 membrane de 150 microni ofertat direct din stoc"
+      },
+      {
+        "conv": "c2097988",
+        "src": "m2134660",
+        "citat": "Termen de livrare 1-2 zile din momentul transmiterii de comanda.",
+        "pentru": "ofertă",
+        "nota": "termen scurt pentru produsul din stoc, cu livrarea inclusă"
+      },
+      {
+        "conv": "c2141988",
+        "src": "m2141988",
+        "citat": "Va rog sa confirmati daca este in regula acest termen de livrare si cantitatile ofertate",
+        "pentru": "clarificare",
+        "nota": "lipseau unele fineți: la 1 micron AKRO ofertează doar setul din stoc, la 25 microni anunță sosirea în săptămâna următoare și cere confirmarea termenului și a cantităților"
+      },
+      {
+        "conv": "c2141988",
+        "src": "m2106084",
+        "citat": "am studiat oferta, va rog ,să-mi trimiteți ce aveți în stoc",
+        "pentru": "clarificare",
+        "nota": "clientul alege doar membranele din stoc"
+      },
+      {
+        "conv": "c2141988",
+        "src": "m2142372",
+        "citat": "Astazi le incarcam la FAN CURIER – ar trebui sa le primiti in cursul zilei de maine.",
+        "pentru": "ofertă",
+        "nota": "membranele din stoc pleacă prin curier a doua zi"
+      },
+      {
+        "conv": "c2137892",
+        "src": "m2137892",
+        "citat": "1 set de membrane de 100 microni[ 1 set contine 5 membrane de schimb]",
+        "pentru": "ofertă",
+        "nota": "setul de 100 microni, ofertat ca poziție separată împreună cu filtrul NW500, cu termen de 2-3 săptămâni"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R01-02",
+    "titlu": "Filtru de impurități Cintropur NW cerut pe nume: ofertă fără întrebări scrise, filtru complet echipat",
+    "explicatie": "Dacă clientul cere pe nume un filtru Cintropur NW, de exemplu NW500 sau NW800, AKRO trimite oferta fără întrebări scrise. Cererea de NW500 a fost lămurită întâi la telefon. Filtrul vine cu cheie, două manometre, robinet de purjare (pentru golirea impurităților) și o membrană de 25 microni. La NW500 AKRO a adăugat consola din inox pentru prinderea pe perete, iar finețea cerută de client a pus-o ca set separat de membrane.",
+    "categorie": "01-Filtre impuritati",
+    "cand": "Clientul cere explicit un filtru de impurități Cintropur după model (NW500, NW800 3\"), de pe site sau într-o listă de piese de schimb.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "01-008018",
+          "rol": "filtru de impurități NW500 2\", complet echipat (cheie, 2 manometre, robinet purjare, membrană 25 microni)"
+        },
+        {
+          "ref": "01-008015",
+          "rol": "consolă de prindere în perete din inox, adăugată de AKRO la NW500 (conversația 97)"
+        },
+        {
+          "ref": "01-011004",
+          "rol": "set de membrane de schimb cu finețea cerută de client (100 microni), poziție separată"
+        },
+        {
+          "ref": "01-008017",
+          "rol": "filtru de impurități NW800 3\", cerut și comandat ca piesă de schimb (conversația 526)"
+        }
+      ],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "NW500: livrare în 2-3 săptămâni de la comanda fermă (conversația 97)"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2137892",
+        "src": "m2137892",
+        "citat": "Solicit oferta de pret si termen de livrare pentru NV500 - 100 microni",
+        "pentru": "cerere",
+        "nota": "cerere de pe site pentru NW500 cu membrană de 100 microni (în formular, cantitatea 5)"
+      },
+      {
+        "conv": "c2137892",
+        "src": "m2137892",
+        "citat": "1 filtru de impuritati NW500 complet echipat [ cheie, 2 manometre, robinet purjare, membrana de 25 microni]",
+        "pentru": "ofertă",
+        "nota": "după discuția telefonică, AKRO ofertează un filtru complet echipat, iar finețea cerută vine ca set separat de membrane"
+      },
+      {
+        "conv": "c2137892",
+        "src": "m2137892",
+        "citat": "Consola de prindere in perete din inox",
+        "pentru": "ofertă",
+        "nota": "consola de perete adăugată de AKRO"
+      },
+      {
+        "conv": "c2137892",
+        "src": "m2137892",
+        "citat": "Produsele la acest moment se pot livra in termen de 2-3 saptamani de la comanda ferma",
+        "pentru": "ofertă",
+        "nota": "termenul de livrare comunicat"
+      },
+      {
+        "conv": "c2125636",
+        "src": "m2125636",
+        "citat": "-filtru impuritati nw800-3“ -2 buc",
+        "pentru": "cerere",
+        "nota": "NW800 3\" cerut într-o listă de piese. AKRO îl ofertează fără întrebări, iar clientul îl comandă"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R01-03",
+    "titlu": "Filtru de sedimente cerut fără model sau treaptă grosieră la debit mic: AKRO recomandă Cintropur NW400 cu element lavabil",
+    "explicatie": "Când clientul vrea un filtru de sedimente sau un desnisipator fără model, AKRO recomandă filtrul Cintropur NW400, cu element lavabil, și trimite linkul la fișa tehnică. Dacă cererea are doar denumirea filtrului, întreabă dacă îl vrea mecanic sau automat, cu masă filtrantă, ce debit are și cât de tulbure e apa. La un debit sub 1,2 metri cubi pe oră, AKRO a spus că nu are filtre automate atât de mici și a propus direct NW400. Tot NW400 a pus ca treaptă grosieră la o linie de îmbuteliere.",
+    "categorie": "01-Filtre impuritati",
+    "cand": "Clientul cere un filtru de sedimente, un desnisipator sau un ciclon fără model clar, pentru debit mic sau neprecizat, ori AKRO alege o treaptă grosieră înaintea unor carcase cu cartușe.",
+    "clarificari": [
+      "Doriți un filtru mecanic (prin sită sau cartuș) sau unul automat cu masă filtrantă (nisip, turbidex, zeolit)?",
+      "Care este debitul de tratat prin filtru?",
+      "Care este încărcarea cu turbiditate sau particule în apa brută?",
+      "Aveți o fișă tehnică a filtrului necesar?"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "01-008131",
+          "rol": "filtru NW400 1,5\" cu cartuș lavabil: în oferta din conversația 84 cu cartuș inox de 50 microni. În text, cu cartuș din PP dur și membrană de 150 sau 300 microni"
+        },
+        {
+          "ref": "01-008049",
+          "rol": "consolă de prindere pentru NW280/340/400 (conversația 84)"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "linkul la fișa tehnică NW280/340/400 de pe akro.ro (conversațiile 338 și 386)"
+      ],
+      "conditii": [
+        "în conversația 338, NW400 nu era în stoc: reaprovizionare în 2-3 săptămâni"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2154340",
+        "src": "m2154340",
+        "citat": "Doriti un filtru mecanic sau unul automat?",
+        "pentru": "clarificare",
+        "nota": "cererea era doar „filtru desnisipator PN6 DN40”. AKRO întreabă tipul de filtru"
+      },
+      {
+        "conv": "c2154340",
+        "src": "m2154340",
+        "citat": "Care este incarcarea de turbiditate/ particule fizice in apa bruta?",
+        "pentru": "clarificare",
+        "nota": "AKRO cere și debitul, turbiditatea și fișa tehnică"
+      },
+      {
+        "conv": "c2154340",
+        "src": "m2154340",
+        "citat": "Din punctul nostru de vedere un filtru de tipul NW400 – ar respecta toate cerintele de mai jos",
+        "pentru": "ofertă",
+        "nota": "în același mesaj, AKRO propune orientativ NW400, cu preț în text și link la fișa tehnică"
+      },
+      {
+        "conv": "c2115332",
+        "src": "m2152068",
+        "citat": "Variante de filtre cu spalare automata asa de mici nu avem in portofoliu.",
+        "pentru": "clarificare",
+        "nota": "debitul era dat (0,8-1,2 mc/h). AKRO nu are filtre automate atât de mici și nu pune întrebări, ci recomandă un decantor sau un filtru manual"
+      },
+      {
+        "conv": "c2115332",
+        "src": "m2152068",
+        "citat": "Noi lucram cu CINTROPUR – si as recomanda un filtru NW400",
+        "pentru": "ofertă",
+        "nota": "NW400 cu membrană de 150 sau 300 microni și purjare manuală, cu link la fișa tehnică"
+      },
+      {
+        "conv": "c2115332",
+        "src": "m2152068",
+        "citat": "Pret Filtru NW400 - pentru ICPE - complet echipat - 270 euro fara TVA",
+        "pentru": "ofertă",
+        "nota": "ofertă în text pentru filtrul complet echipat (carcasă, manometre, consolă, cheie, cartuș)"
+      },
+      {
+        "conv": "c2101060",
+        "src": "m2137124",
+        "citat": "O filtrare mecanica grosiera – aici am prins un filtru NW400 cu cartus din inox lavabil",
+        "pentru": "ofertă",
+        "nota": "NW400 cu cartuș inox, pus de AKRO ca treaptă grosieră înaintea carcaselor multicartuș"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R01-04",
+    "titlu": "Filtre DROP pentru irigații sau sită mai fină la un filtru DROP cu autocurățare: AKRO cere date, consultă producătorul și întreabă dacă clientul vrea ofertă comercială",
+    "explicatie": "La filtrele DROP pentru irigații, AKRO nu ofertează pe loc. DROP e producătorul filtrelor cu sită și cu autocurățare pe care AKRO le distribuie. AKRO întreabă întâi finețea de filtrare, de unde vine apa și cum sunt alimentate filtrele, apoi trimite datele la producător și transmite variantele lui, cu fișele tehnice. Când un client a vrut o sită mai fină pentru un filtru DROP deja cumpărat, AKRO a întrebat direct producătorul. În ambele cazuri, după variantele DROP, l-a întrebat pe client dacă vrea și o ofertă comercială.",
+    "categorie": "01-Filtre impuritati",
+    "cand": "Clientul cere filtre manuale sau automate pentru o instalație de irigații, fără finețe și fără date despre apă, sau o finețe mai mare la un filtru DROP cu autocurățare deja cumpărat. Nu se aplică atunci când proiectul dă toate datele (racord, debit, finețe): acolo AKRO a ofertat direct un filtru SUF.",
+    "clarificari": [
+      "La ce finețe de filtrare (mesh) se doresc filtrele? (se alege după duzele instalației. AKRO a propus apoi 1,5-2 mm)",
+      "Care este sursa de apă brută (canal, fântâni, râu)?",
+      "Cum se face alimentarea filtrelor (tip de pompe, presiuni de refulare)?",
+      "Ne puteți trimite un layout preliminar și detalii despre contaminanți?",
+      "Doriți o propunere comercială pe variantele recomandate de producător?"
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [
+        "fișele tehnice DROP seria O și seria SUF (conversația 424)"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2155972",
+        "src": "m2155972",
+        "citat": "La ce finete de filtrare se doresc filtrele manuale si cel automat ?",
+        "pentru": "clarificare",
+        "nota": "prima întrebare: finețea de filtrare"
+      },
+      {
+        "conv": "c2155972",
+        "src": "m2155972",
+        "citat": "Care este sursa de apa bruta? [ canal de irigare, fantani, rau ?]",
+        "pentru": "clarificare",
+        "nota": "AKRO cere sursa apei și modul de alimentare"
+      },
+      {
+        "conv": "c2155972",
+        "src": "m2157540",
+        "citat": "Am discutat cu producatorul si a revenit la noi cu urmatoarele propuneri de echipamente.",
+        "pentru": "clarificare",
+        "nota": "propunerea tehnică vine de la DROP"
+      },
+      {
+        "conv": "c2155972",
+        "src": "m2157540",
+        "citat": "Daca da va putem pregati o propunere comerciala in acest sens",
+        "pentru": "clarificare",
+        "nota": "oferta comercială se face doar după ce clientul validează varianta tehnică"
+      },
+      {
+        "conv": "c2109252",
+        "src": "m2146884",
+        "citat": "am trimis solicitarea dumneavoastra la producator",
+        "pentru": "clarificare",
+        "nota": "după discuția telefonică, AKRO trimite cererea pentru un cartuș mai fin la SUFV 4\" direct la producător"
+      },
+      {
+        "conv": "c2109252",
+        "src": "m2154532",
+        "citat": "va rog sa ne transmiteti daca doriti sa va prezentam o propunere comerciala",
+        "pentru": "clarificare",
+        "nota": "DROP nu are cartuș mai fin. AKRO prezintă variantele recomandate (discuri, nisip, cartușe sau, cel mai fezabil, două carcase cu saci mărimea 2 în paralel) și întreabă dacă vrea ofertă"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R01-05",
+    "titlu": "Cartușe de schimb cerute cu codul din gama AKRO (Proxis PRM, StarFine SFM): ofertă sau confirmare directă, fără clarificări",
+    "explicatie": "Când clientul dă codul cartușului din gama AKRO și cantitatea, AKRO trimite direct oferta sau confirmarea de comandă, fără întrebări. Cartușul este elementul filtrant care se pune în carcasă și se schimbă când se înfundă. Pe o ofertă pentru un cartuș Proxis, AKRO a scris și codul echivalent al altui producător, CUNO. În majoritatea ofertelor apare o linie separată pentru livrare și ambalare. Au fost și excepții: la o comandă venită în august, AKRO a cerut întâi acordul pentru cutia întreagă și pentru un termen de 7-8 săptămâni.",
+    "categorie": "01-Filtre impuritati",
+    "cand": "Clientul dă codul sau denumirea exactă a cartușului din gama vândută de AKRO (Proxis PRM, StarFine SFM) și cantitatea, cerând ofertă sau trimițând direct comanda. Dacă la comandă cantitatea scade sub minimul producătorului, vezi regula despre cartușele produse pe comandă.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "01-010081",
+          "rol": "cartuș StarFine SFM1K3P7S 1 µm 30\""
+        },
+        {
+          "ref": "01-010243",
+          "rol": "cartuș melt blown PRM1TX4C8S 1 µm 40\""
+        },
+        {
+          "ref": "01-010065",
+          "rol": "cartuș PRM1TX1 1 µm 10\""
+        },
+        {
+          "ref": "01-010202",
+          "rol": "cartuș Proxis PRM10TX2 10 µm 20\""
+        },
+        {
+          "ref": "01-010067",
+          "rol": "cartuș Proxis PRM5TX3"
+        },
+        {
+          "ref": "01-010031",
+          "rol": "cartuș Proxis PRNW050-29, 50 µm. Pe ofertă AKRO a scris echivalentul CUNO G78F8-3"
+        },
+        {
+          "ref": "16-003005",
+          "rol": "linie de livrare și ambalare (conversațiile 339 și 395)"
+        },
+        {
+          "ref": "16-002005",
+          "rol": "ambalare, livrare, asigurare, varianta liniei de transport (conversația 589)"
+        }
+      ],
+      "servicii": [
+        "livrare și ambalare pe linie separată în ofertă (conversațiile 339, 395 și 589)"
+      ],
+      "documente": [],
+      "conditii": [
+        "cartușele din stoc pleacă imediat",
+        "cele care nu sunt în stoc: de la aproximativ 25 de zile la 7 săptămâni (4 săptămâni în conversația 395, 7 săptămâni pe linia ofertei din conversația 589)"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2115460",
+        "src": "m2115460",
+        "citat": "SFM1K3P7S = 18 buc (30 inch)",
+        "pentru": "cerere",
+        "nota": "comandă directă cu codurile AKRO"
+      },
+      {
+        "conv": "c2115460",
+        "src": "m2152164",
+        "citat": "Va rog sa regasiti anexata confirmarea de comanda pentru cartusele obisnuite",
+        "pentru": "ofertă",
+        "nota": "AKRO trimite direct confirmarea de comandă, fără întrebări"
+      },
+      {
+        "conv": "c2117924",
+        "src": "m2154660",
+        "citat": "20 cartuse x PRM1TX1 – cartuse de 1 micron",
+        "pentru": "ofertă",
+        "nota": "ofertă directă după denumirile date de client (codul intern scris de client pentru PRM1TX1 era al altui cartuș, iar la 10 microni clientul nu era sigur de cod)"
+      },
+      {
+        "conv": "c2128868",
+        "src": "m2128868",
+        "citat": "Cartus filtrant proxis (filtru de apa UV)- PRM5TX3 - 18 buc.",
+        "pentru": "cerere",
+        "nota": "cerere cu cod și cantitate"
+      },
+      {
+        "conv": "c2128868",
+        "src": "m2163812",
+        "citat": "Va rog sa regasiti anexata oferta de pret actualizata pentru produsele solicitate.",
+        "pentru": "ofertă",
+        "nota": "oferta trimisă direct"
+      },
+      {
+        "conv": "c2114404",
+        "src": "m2114404",
+        "citat": "Element (cartus) filtrant apa condens, Cod: PRNW050-29",
+        "pentru": "cerere",
+        "nota": "clientul confirmă comanda pe codul din oferta din iunie, trimisă direct, fără întrebări"
+      },
+      {
+        "conv": "c2114404",
+        "src": "m2114404",
+        "citat": "Echivalent CUNO G78F8-3-Finete de filtrare 50 microni.",
+        "pentru": "ofertă",
+        "nota": "pe oferta pentru cartușul Proxis, AKRO scrie echivalența cu codul CUNO"
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "În conversația 272, la o comandă cu coduri (StarFine și Atlas), AKRO nu a confirmat direct: a cerut întâi acordul pentru cutia completă de 12 bucăți și pentru termenul de 7-8 săptămâni, din cauza închiderii fabricilor până la 31 august, și a trimis confirmarea după acceptul clientului.",
+        "dovezi": [
+          {
+            "conv": "c2111748",
+            "src": "m2148388",
+            "citat": "so we estimate a delivery time of 7-8 weeks if this can be accepted",
+            "pentru": "clarificare",
+            "nota": "AKRO cere acordul pentru termen (și propune cutia completă de 12) înainte de confirmare"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R01-06",
+    "titlu": "Cartușe pentru carcase sau instalații livrate anterior de AKRO: identificare din istoric și întrebare despre tip, prindere și utilizare",
+    "explicatie": "Uneori clientul cere cartușe doar cu finețea și cantitatea, fără cod, pentru carcase sau o instalație luate tot de la AKRO. AKRO caută în istoric ce carcasă a livrat și de acolo află lungimea cartușului și felul în care se fixează în carcasă, adică prinderea. Întreabă și ce tip de cartuș vrea, de exemplu pliat sau din fibre presate (melt blown), sau unde îl folosește. Când finețea cerută diferea de comenzile vechi, a întrebat dacă o păstrează pe cea nouă, iar clientul a revenit la cea din trecut.",
+    "categorie": "01-Filtre impuritati",
+    "cand": "Clientul cere cartușe doar prin finețe și cantitate (fără cod), pentru carcasele sau instalația cumpărate de la AKRO.",
+    "clarificari": [
+      "Ce tip de cartuș doriți: melt blown PRM, polipropilenă pliată StarFine SFM sau membrană MicroFine MF (absolut)?",
+      "Ce tip de prindere doriți și unde se utilizează cartușele?",
+      "Doriți finețile ofertate acum sau cele cumpărate în trecut?"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "01-010260",
+          "rol": "cartuș melt blown PRM10TX4C8S 10 µm 40\", prindere C8S, pentru carcasa MVB7S4D65C8L livrată anterior"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișele tehnice StarFine, MicroFine și Proxis"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2100900",
+        "src": "m2137316",
+        "citat": "Pentru toate carcasele achizitionate de la noi se potrivesc cartuse de 30",
+        "pentru": "clarificare",
+        "nota": "AKRO deduce dimensiunea și prinderea din carcasele vândute anterior"
+      },
+      {
+        "conv": "c2100900",
+        "src": "m2137316",
+        "citat": "Va rog sa ne specificati pentru ce tip de cartuse se doreste oferta oficiala?",
+        "pentru": "clarificare",
+        "nota": "AKRO prezintă cele trei game, cu preț orientativ, și cere alegerea tipului"
+      },
+      {
+        "conv": "c2100900",
+        "src": "m2137348",
+        "citat": "Va atasez si fisele tehnice la categoria de cartuse prezentate mai jos",
+        "pentru": "ofertă",
+        "nota": "fișele tehnice ale gamelor trimise odată cu variantele"
+      },
+      {
+        "conv": "c2115460",
+        "src": "m2152164",
+        "citat": "Oare ce tip de prindere doriti la acestea, si unde il utilizati?",
+        "pentru": "clarificare",
+        "nota": "la cererea de cartușe de 10 µm, 40\", fără alt detaliu, AKRO întreabă prinderea, tipul și utilizarea"
+      },
+      {
+        "conv": "c2115460",
+        "src": "m2152228",
+        "citat": "Carcasa cumparata in iulie 2025 – este model MVB7S4D65C8L",
+        "pentru": "ofertă",
+        "nota": "după telefon, oferta se face pe carcasa identificată din istoric (MVB7S4D65C8L, 7 cartușe de 40\" cu prindere C8S)"
+      },
+      {
+        "conv": "c2125636",
+        "src": "m2125636",
+        "citat": "In trecut se achizitionau cartuse de 50 microni respective 10 microni – acum s-au ofertat cartuse de 10 microni si de 5 microni.",
+        "pentru": "clarificare",
+        "nota": "AKRO compară cererea cu achizițiile anterioare și cere clarificare"
+      },
+      {
+        "conv": "c2125636",
+        "src": "m2125636",
+        "citat": "Am comandat 2 pungi bile de curatare a senzorului de clor si cartuse de 50 microni.",
+        "pentru": "clarificare",
+        "nota": "clientul revine la finețea din trecut"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R01-07",
+    "titlu": "Cartușe produse pe comandă: cantitatea se aliniază la minimul producătorului (cutie completă sau cantitatea ofertată)",
+    "explicatie": "Unele cartușe nu sunt pe stoc și se fabrică doar la comandă, iar producătorul nu pornește producția sub o anumită cantitate. Când clientul vrea mai puține, AKRO îi spune minimul, de exemplu o cutie întreagă, și cere acordul înainte să meargă mai departe. Un client și-a refăcut comanda la cantitatea din ofertă, iar altul a acceptat cutia întreagă. Al treilea a găsit cantitatea prea mare, iar în final producătorul nu a dat preț pentru unul dintre cartușe.",
+    "categorie": "01-Filtre impuritati",
+    "cand": "Clientul cere sau comandă cartușe care nu sunt în stoc și se fabrică pe comandă, într-o cantitate mai mică decât lotul acceptat de producător.",
+    "clarificari": [
+      "Acceptați cantitatea minimă a producătorului (cutie completă / cantitatea din ofertă)?"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "01-010205",
+          "rol": "cartuș cărbune bloc 0,3 µm (Atlas CA-SE-10-SX), ofertat la cutie completă de 12 buc"
+        },
+        {
+          "ref": "01-010067",
+          "rol": "cartuș Proxis PRM5TX3, comandă refăcută la cantitatea din ofertă (18 buc)"
+        }
+      ],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "cartușe pe comandă: termen de 4-8 săptămâni de la comandă (4-5, 7 sau 7-8 săptămâni)"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2128868",
+        "src": "m2167876",
+        "citat": "Din pacate doar 12 cartuse la acest moment nu mi se accepta pentru incepere productie de catre furnizor.",
+        "pentru": "clarificare",
+        "nota": "AKRO refuză comanda redusă și cere cantitatea din ofertă"
+      },
+      {
+        "conv": "c2128868",
+        "src": "m2133668",
+        "citat": "Am atasat comanda refacuta pentru 18 buc.",
+        "pentru": "clarificare",
+        "nota": "clientul reface comanda la cantitatea ofertată"
+      },
+      {
+        "conv": "c2111748",
+        "src": "m2148388",
+        "citat": "with a full box of CA-SE-10-SX 0.3. – 12 pcs",
+        "pentru": "ofertă",
+        "nota": "clientul scrisese 12 bucăți, de preferat 6. AKRO răspunde că lucrează cu cutia completă de 12"
+      },
+      {
+        "conv": "c2111748",
+        "src": "m2111812",
+        "citat": "I maintain my order, you can send all the filters together",
+        "pentru": "clarificare",
+        "nota": "clientul acceptă cutia completă și termenul"
+      },
+      {
+        "conv": "c2100292",
+        "src": "m2137476",
+        "citat": "insa comanda minima din fieca model este de minim 1 cutie [ 25 bucati]",
+        "pentru": "clarificare",
+        "nota": "pentru cartușe Atlas de 20\" AKRO anunță minimul de o cutie pe model"
+      },
+      {
+        "conv": "c2100292",
+        "src": "m2137476",
+        "citat": "Va rog sa confirmati daca se accepta aceste cantitati pentru a discuta cu producatorul.",
+        "pentru": "clarificare",
+        "nota": "AKRO cere acordul pe cantitatea minimă înainte de a cere preț. În final producătorul nu cotează unul dintre cartușe"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R01-08",
+    "titlu": "Consumabile parțial în stoc: AKRO spune ce e în stoc la Brașov, ce vine de la producător și propune livrare parțială sau doar stocul",
+    "explicatie": "Dacă o comandă de cartușe, membrane sau carcase are o parte în stocul din Brașov și o parte care vine de la producător, AKRO scrie în ofertă ce e pe stoc și ce sosește mai târziu. Apoi îl lasă pe client să aleagă între livrare parțială acum sau toată comanda odată. Când stocul nu acoperă cererea, AKRO propune ce are și cere confirmarea. Un client a luat doar ce era pe stoc, iar altul a refuzat cele două carcase disponibile, care aveau alt racord decât voia.",
+    "categorie": "01-Filtre impuritati",
+    "cand": "Comanda de cartușe, membrane sau carcase simplex amestecă produse din stoc cu produse care se comandă la producător (sau stocul nu acoperă configurația cerută).",
+    "clarificari": [
+      "Doriți livrare parțială a produselor din stoc sau livrarea întregii comenzi când sosesc toate produsele?",
+      "Vă confirm doar produsele și cantitățile disponibile acum în stoc?"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "01-010065",
+          "rol": "cartuș 10\" din stocul Brașov"
+        },
+        {
+          "ref": "01-010202",
+          "rol": "cartuș 20\" comandat la producător (aprox. 4 săptămâni)"
+        }
+      ],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "produsele din stoc pleacă imediat. Cele de la producător în aprox. 4 săptămâni de la comandă"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2117924",
+        "src": "m2154660",
+        "citat": "sunt in stocul din BRASOV [ putem face livrare partiala pentru acestea]",
+        "pentru": "ofertă",
+        "nota": "oferta separă cartușele din stoc de cele pe comandă"
+      },
+      {
+        "conv": "c2117924",
+        "src": "m2154660",
+        "citat": "trebuiesc comandate la producator – termen de livrare aprox 4 saptamani de la comanda.",
+        "pentru": "ofertă",
+        "nota": "termenul pentru partea care nu e în stoc"
+      },
+      {
+        "conv": "c2117924",
+        "src": "m2154756",
+        "citat": "va rog sa ne anuntati pentru a livra partial comanda din stoc",
+        "pentru": "clarificare",
+        "nota": "la confirmarea comenzii AKRO propune livrarea parțială"
+      },
+      {
+        "conv": "c2141988",
+        "src": "m2141988",
+        "citat": "Membrana 25 microni – 2 set [ nu am in stoc dar trebuie sa primesc saptamana urmatoare]",
+        "pentru": "ofertă",
+        "nota": "oferta marchează ce e în stoc și ce sosește mai târziu"
+      },
+      {
+        "conv": "c2141988",
+        "src": "m2106084",
+        "citat": "am studiat oferta, va rog ,să-mi trimiteți ce aveți în stoc",
+        "pentru": "clarificare",
+        "nota": "clientul alege doar stocul"
+      },
+      {
+        "conv": "c2098436",
+        "src": "m2135332",
+        "citat": "mai am disponibile numai 2 carcase simplex cu racord de 1",
+        "pentru": "clarificare",
+        "nota": "stocul nu acoperă cele 3 carcase cu racord de 3/4\"; AKRO propune cele 2 carcase cu racord de 1\" pe care le are"
+      },
+      {
+        "conv": "c2098436",
+        "src": "m2135332",
+        "citat": "Doriti sa va le confirm pe acestea?",
+        "pentru": "clarificare",
+        "nota": "AKRO cere acordul pe varianta din stoc. Clientul refuză"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R01-09",
+    "titlu": "Saci filtranți Allied Filters fabricați pe comandă: cantitatea sub minim se ridică la 50 de saci pe model, cu termen de aproximativ 30 de zile",
+    "explicatie": "Sacii filtranți Allied Filters, adică filtre textile în formă de sac care se aruncă după folosire, se fabrică doar la comandă. Când clientul cere mai puțini decât minimul, AKRO ofertează direct 50 de saci din fiecare model, cu un termen de aproximativ 30 de zile. Au fost și excepții: la o cerere de 100 de saci, AKRO a scris că producătorul cere din 2026 cel puțin 150 de saci pe comandă, iar clientul a comandat 150.",
+    "categorie": "01-Filtre impuritati",
+    "cand": "Clientul cere saci filtranți (pâslă PP, nylon monofilament, multistrat) într-o cantitate sub minimul de producție al Allied Filters.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "01-011092",
+          "rol": "sac filtrant WE25P2VWR 25 µm (echivalent LT-PPNF-025)"
+        },
+        {
+          "ref": "01-011035",
+          "rol": "sac filtrant WE50P2VWR 50 µm (echivalent LT-PPNF-050)"
+        },
+        {
+          "ref": "01-011102",
+          "rol": "sac filtrant multistrat WE25/5P2VWR 25/5 µm"
+        },
+        {
+          "ref": "16-003005",
+          "rol": "linie de livrare și ambalare (conversațiile 334 și 336)"
+        }
+      ],
+      "servicii": [
+        "livrare și ambalare pe linie separată"
+      ],
+      "documente": [
+        "fișa tehnică a sacilor Allied Filters (conversația 113)"
+      ],
+      "conditii": [
+        "minim 50 de saci pe model",
+        "termen de aproximativ 30 de zile (3-4 săptămâni) de la comandă"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2138660",
+        "src": "m2140036",
+        "citat": "Am cotat cate 50 de saci din fiecare model [ aceasta fiind si cantitatea minima de comanda].",
+        "pentru": "ofertă",
+        "nota": "20 de saci ceruți devin 50 în ofertă"
+      },
+      {
+        "conv": "c2151780",
+        "src": "m2151780",
+        "citat": "Comenzile pentru produse de tip sac filtrant sunt procesate doar la comanda – [comanda minima standard 50 saci]",
+        "pentru": "clarificare",
+        "nota": "AKRO anunță minimul standard și producția doar la comandă"
+      },
+      {
+        "conv": "c2151780",
+        "src": "m2151780",
+        "citat": "iar termenul de livrare standard este de 30 de zile de la comanda.",
+        "pentru": "clarificare",
+        "nota": "termenul standard pentru saci"
+      },
+      {
+        "conv": "c2151780",
+        "src": "m2151940",
+        "citat": "Comanda minima acceptata pentru acest produs este de 50 bucati.",
+        "pentru": "ofertă",
+        "nota": "30 de saci ceruți, ofertați 50"
+      },
+      {
+        "conv": "c2151908",
+        "src": "m2151908",
+        "citat": "Comanda minima acceptata pentru acest produs este de 50 bucati.",
+        "pentru": "ofertă",
+        "nota": "același sac multistrat, alt client: 30 de saci ceruți, 50 ofertați"
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "În conversația 112 (100 de saci dintr-un singur model), AKRO a lăsat cantitatea cerută în ofertă, dar a scris că producătorul cere din 2026 minimum 150 de saci pe comandă, indiferent de model, și minimum 50 pe model. Clientul a comandat 150. În celelalte cereri, 50 de saci pe comandă (conversațiile 334 și 336) sau două modele a câte 50 (conversația 113) au fost prezentați drept minimul acceptat.",
+        "dovezi": [
+          {
+            "conv": "c2102276",
+            "src": "m2138564",
+            "citat": "Din 2026, acest producator solicita comenzi de minim 150 de saci",
+            "pentru": "ofertă",
+            "nota": "minim 150 de saci pe comandă, nu doar 50 pe model. Oferta atașată păstrează 100 de saci"
+          },
+          {
+            "conv": "c2102276",
+            "src": "m2104164",
+            "citat": "01-011080 - Sac filtrant nylon monofilament 600NMO1S – 150 buc",
+            "pentru": "cerere",
+            "nota": "comanda fermă urcă de la 100 la 150 de saci"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R01-10",
+    "titlu": "Saci high capacity WE5P/WE10P (filtrare ulei motor): minim 40 de saci pe model, aprox. 30 de zile, fabricați în Anglia",
+    "explicatie": "Clientul cere câțiva saci dubli, de tip manșon, pentru filtrarea uleiului de motor, modelele WE5P și WE10P, de 5 și 10 microni. O dată i-a cerut urgent, cu poze cu sacii vechi. AKRO ofertează totuși cel puțin 40 de saci din fiecare model, pentru că sub această cantitate producătorul nu îi acceptă în producție. Sacii se fac în Anglia și sosesc în aproximativ 30 de zile de la comanda fermă.",
+    "categorie": "01-Filtre impuritati",
+    "cand": "Clientul cere câțiva saci filtranți dubli tip manșon (WE5P/1.4/7VWR/HC și similare, 5 sau 10 microni), identificați după cod sau poză, pentru filtrarea uleiului.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "01-011100",
+          "rol": "sac high capacity WE5P/1.4/7VWR/HC 5 microni"
+        },
+        {
+          "ref": "01-011101",
+          "rol": "sac high capacity WE10P/1.4/7VWR/HC 10 microni"
+        }
+      ],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "minim 40 de saci din fiecare model",
+        "termen aprox. 30 de zile de la comanda fermă"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2141636",
+        "src": "m2141636",
+        "citat": "Comanda minima pentru fiecare model de sac este de 40 bucati.",
+        "pentru": "ofertă",
+        "nota": "5 bucăți cerute, ofertate 40 din fiecare model"
+      },
+      {
+        "conv": "c2107428",
+        "src": "m2107428",
+        "citat": "avem urgent nevoie de 5 bucăți de filtre model WE5P/1.4/7VWR/HC",
+        "pentru": "cerere",
+        "nota": "cerere urgentă pentru 5 bucăți"
+      },
+      {
+        "conv": "c2107428",
+        "src": "m2144132",
+        "citat": "Comanda nminima de productie este de 40 de saci din fiecare model.",
+        "pentru": "ofertă",
+        "nota": "AKRO retrimite oferta dată deja departamentului de achiziții: 40 de saci din fiecare model, WE5P și WE10P"
+      },
+      {
+        "conv": "c2107428",
+        "src": "m2144132",
+        "citat": "Termenul de livrare este de aproximativ 30 de zile de la comanda ferma",
+        "pentru": "ofertă",
+        "nota": "termenul de producție (produse confecționate în Anglia)"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R01-11",
+    "titlu": "Sac filtrant cerut cu cod străin, descriere neclară sau doar poză: AKRO identifică tipul și cere echivalentul Allied Filters la producător",
+    "explicatie": "Uneori clientul cere saci filtranți cu codul altui producător, îi descrie vag, de exemplu „dual layer”, sau trimite doar poze cu sacul vechi. AKRO recunoaște întâi tipul de sac, iar dacă descrierea nu ajunge, cere codul cumpărat înainte. Pentru un cod străin cere apoi de la Allied Filters un echivalent și îl ofertează, o dată și cu fișa tehnică atașată, ca să se verifice potrivirea. Sacii din poze erau chiar Allied Filters, așa că AKRO a ofertat același model.",
+    "categorie": "01-Filtre impuritati",
+    "cand": "Clientul cere saci filtranți cu codul altui producător (LT-PPNF, GM-41102-BAG), cu o descriere neclară (de exemplu „dual layer”) sau trimite poze cu sacul folosit.",
+    "clarificari": [
+      "Dacă ați mai cumpărat astfel de saci, ne puteți trimite codul produsului ca să cerem echivalentul la producător?",
+      "Ce înțelegeți prin sac „dual layer” (două straturi de pâslă de finețe diferită)?"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "01-011092",
+          "rol": "echivalent Allied Filters pentru LT-PPNF-025-WS-2-PV"
+        },
+        {
+          "ref": "01-011035",
+          "rol": "echivalent Allied Filters pentru LT-PPNF-050-WS-2-PV"
+        },
+        {
+          "ref": "01-011102",
+          "rol": "echivalent Allied Filters pentru GM-41102-BAG-25/5"
+        },
+        {
+          "ref": "01-011100",
+          "rol": "sac identificat după poză: același producător, Allied Filters"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișa tehnică a sacilor ofertați, ca să se verifice echivalența (conversația 113)"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2138660",
+        "src": "m2138660",
+        "citat": "acestea par a fi saci filtranti standard din panza de PP",
+        "pentru": "clarificare",
+        "nota": "AKRO recunoaște tipul de sac după codul străin"
+      },
+      {
+        "conv": "c2138660",
+        "src": "m2138660",
+        "citat": "Am scris si la producatorul cu care lucram pentru ofertarea unui echivalent",
+        "pentru": "clarificare",
+        "nota": "echivalentul se cere la Allied Filters"
+      },
+      {
+        "conv": "c2138660",
+        "src": "m2140036",
+        "citat": "Am atasat si fisa tehnica la sacii ofertati Akro pentru a verifica echivalenta.",
+        "pentru": "ofertă",
+        "nota": "fișa tehnică trimisă pentru verificarea echivalenței"
+      },
+      {
+        "conv": "c2151780",
+        "src": "m2151780",
+        "citat": "Daca ati achizitionat in trecut astfel de saci, ne puteti transmite un cod de produs sa intrebam pentru o echivalenta la producator?",
+        "pentru": "clarificare",
+        "nota": "la descrierea neclară AKRO cere codul folosit anterior"
+      },
+      {
+        "conv": "c2151780",
+        "src": "m2151876",
+        "citat": "Am scris la producator si revin cu un raspuns in cel mai scurt timp",
+        "pentru": "clarificare",
+        "nota": "după primirea codului GM-41102 AKRO cere echivalentul"
+      },
+      {
+        "conv": "c2151908",
+        "src": "m2151908",
+        "citat": "30 PCS BAG, BAG FILTER, #2, DUAL LAYER 25/5 MIC PN GM-41102-BAG-25/5",
+        "pentru": "cerere",
+        "nota": "alt client, același cod străin: AKRO ofertează direct echivalentul WE25/5P2VWR, găsit în aceeași zi pentru cererea din conversația 334"
+      },
+      {
+        "conv": "c2141636",
+        "src": "m2141636",
+        "citat": "Producatorul sacilor ofertati este ALLIED FILTERS [ CLEANOVA] – la fel ca produsul fotografiat de dumneavoastra.",
+        "pentru": "ofertă",
+        "nota": "sacul identificat după fotografie"
+      },
+      {
+        "conv": "c2107428",
+        "src": "m2107492",
+        "citat": "Mentionez ca au fost achizitionate tot de la societatea pe care o reprezentati in Romania.",
+        "pentru": "clarificare",
+        "nota": "clientul trimite poze și spune că a cumpărat prin AKRO. Produsul se identifică așa"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R01-12",
+    "titlu": "Microfiltrare pentru îmbuteliere apă de izvor: carcase inox MVB cu cartușe pliate StarFine de 3 și 1 µm, UV ca ultimă treaptă",
+    "explicatie": "Pentru o linie de îmbuteliere a apei de izvor, clientul dă debitul liniei și uneori analiza apei. AKRO propune carcase din inox pentru mai multe cartușe, cu cartușe pliate StarFine în două trepte, de 3 și de 1 micron. Lampa UV, care dezinfectează apa cu lumină ultravioletă, a propus-o o dată ca opțiune, altă dată a inclus-o direct. Varianta mai ieftină, cu carcase din plastic Big Blue, AKRO n-o recomandă pentru o fabrică de îmbuteliere. Un client a comandat în final doar o carcasă cu cartușe de 1 micron.",
+    "categorie": "01-Filtre impuritati",
+    "cand": "Clientul cere filtrarea pentru o linie de îmbuteliere apă de izvor, cu debitul liniei (și eventual buletinul de analiză).",
+    "clarificari": [
+      "Se acceptă și o treaptă UV în proces, ca ultimă etapă? (întrebat în conversația 84. În conversația 251, UV a fost inclus direct)"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "01-009138",
+          "rol": "carcasă inox multicartuș MVB3S3G40P8L (3 cartușe 30\") pentru debit mic"
+        },
+        {
+          "ref": "01-009139",
+          "rol": "carcasă inox multicartuș MVB7S3D50P8L (7 cartușe 30\", DIN 11851) pentru debit mare"
+        },
+        {
+          "ref": "01-010086",
+          "rol": "cartuș StarFine SFM3K3P8S, treapta de 3 µm"
+        },
+        {
+          "ref": "01-010083",
+          "rol": "cartuș StarFine SFM1K3P8S, treapta de 1 µm"
+        },
+        {
+          "ref": "01-010081",
+          "rol": "cartuș StarFine SFM1K3P7S, treapta de 1 µm"
+        },
+        {
+          "ref": "27-001262",
+          "rol": "sistem UV in-line 12 m³/h, ultima treaptă"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișa tehnică a cartușelor pliate StarFine (SF pleated elements)",
+        "fișa tehnică a carcasei MVB",
+        "fișa tehnică UV"
+      ],
+      "conditii": [
+        "în conversația 84: un set de cartușe pentru pornire și seturi de rezervă",
+        "livrare în 6-10 săptămâni (producător italian, conversația 84)"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2101060",
+        "src": "m2137124",
+        "citat": "Urmate de inca doua carcase multicartus [ cu cate 3 cartuse fiecare",
+        "pentru": "ofertă",
+        "nota": "după un filtru grosier NW400, două carcase MVB cu câte 3 cartușe de 30\""
+      },
+      {
+        "conv": "c2101060",
+        "src": "m2137124",
+        "citat": "Cartuse pentru carcase 1 set pentru pornirea initiala, si inca doua schimburi de rezerva",
+        "pentru": "ofertă",
+        "nota": "trepte de 3 și 1 µm cu cartușe pliate SFM, plus două schimburi de rezervă"
+      },
+      {
+        "conv": "c2101060",
+        "src": "m2137124",
+        "citat": "In cazul in care se accepta si UV in process, atunci chiar recomandam instalarea unuia ca ultima etapa.",
+        "pentru": "clarificare",
+        "nota": "UV propus opțional, cu preț orientativ în text"
+      },
+      {
+        "conv": "c2101060",
+        "src": "m2137124",
+        "citat": "si nu as recomanda un astfel de sistem pentru o fabrica de imbuteliere",
+        "pentru": "ofertă",
+        "nota": "varianta ieftină cu carcase Big Blue și cartușe melt blown e descurajată pentru îmbuteliere"
+      },
+      {
+        "conv": "c2147108",
+        "src": "m2147108",
+        "citat": "Intentionam sa achizitionam un sistem de filtrare pentru o linie de imbuteliere cu apa de izvor",
+        "pentru": "cerere",
+        "nota": "cerere pentru o linie de 11000 l/h, fără alte date"
+      },
+      {
+        "conv": "c2147108",
+        "src": "m2147108",
+        "citat": "sistemul este usor supradimensionat pentru a avea o contrapresiune cat mai mica",
+        "pentru": "ofertă",
+        "nota": "2 carcase MVB cu câte 7 cartușe de 30\", ușor supradimensionate"
+      },
+      {
+        "conv": "c2147108",
+        "src": "m2147108",
+        "citat": "1 sistem UV pentru montat in-line – debitul maxim de tratat de 12 mc/h",
+        "pentru": "ofertă",
+        "nota": "UV inclus direct în ofertă, ca ultimă treaptă"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R01-13",
+    "titlu": "Carcasă inox multicartuș MVB: AKRO adaugă kitul cu manometru, ventil de aerisire și robinet de prelevare pe fiecare carcasă",
+    "explicatie": "Când ofertează o carcasă din inox pentru mai multe cartușe (modelele MVB), AKRO pune pe fiecare carcasă un manometru, un ventil de aerisire și un robinet pentru luat probe. Așa a făcut la două linii de îmbuteliere și la o instalație pentru etanol. Într-o ofertă le-a numit opționale, dar foarte practice. Au fost și excepții: în oferta revizuită pentru același client, cu o singură carcasă, kitul nu mai apare.",
+    "categorie": "01-Filtre impuritati",
+    "cand": "AKRO ofertează una sau mai multe carcase inox multicartuș MVB (îmbuteliere, etanol, procese industriale).",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "01-009078",
+          "rol": "manometru, ventil de aerisire și robinet de prelevare probe XGS-SS010BU-D63, câte unul pe carcasă"
+        }
+      ],
+      "servicii": [],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2101060",
+        "src": "m2137124",
+        "citat": "Am inclus si 2 ventile de aerisire la carcase + robinet de prelevare+ manometru",
+        "pentru": "ofertă",
+        "nota": "câte un kit pe fiecare din cele 2 carcase, prezentat ca opțional, dar practic"
+      },
+      {
+        "conv": "c2147108",
+        "src": "m2147108",
+        "citat": "2 ventile de aerisire cu manometru +robinet prelevare probe.",
+        "pentru": "ofertă",
+        "nota": "câte un kit pentru fiecare din cele 2 carcase"
+      },
+      {
+        "conv": "c2164612",
+        "src": "m2164612",
+        "citat": "1 manometru + ventil de aerisire si prelevare probe",
+        "pentru": "ofertă",
+        "nota": "kitul inclus la carcasa pentru etanol"
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "În oferta revizuită din conversația 84 (o singură carcasă și 6 cartușe de 1 micron, comandată apoi), kitul cu manometru și ventil de aerisire nu mai apare.",
+        "dovezi": [
+          {
+            "conv": "c2101060",
+            "src": "m2146468",
+            "citat": "O singura carcasa din inox [ pentru 3 cartuse]",
+            "pentru": "ofertă",
+            "nota": "oferta revizuită conține doar carcasa și cartușele, fără kit"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R01-14",
+    "titlu": "Carcase inox multicartuș MVB: fabricate pe comandă în Italia, termen de execuție de 5-10 săptămâni",
+    "explicatie": "Carcasele din inox pentru mai multe cartușe (modelele MVB) se fac pe comandă, la un producător din Italia. AKRO trece în ofertă termenul de execuție, care a fost între cinci și zece săptămâni. Într-un caz a amânat răspunsul ca să verifice întâi la producător termenul real. Unui client i-a spus că în august fabrica e închisă.",
+    "categorie": "01-Filtre impuritati",
+    "cand": "Oferta conține carcase inox multicartuș (MVB) fabricate pe comandă la producătorul italian.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "01-009079",
+          "rol": "carcasă MVB7S4D80P8L, 7 cartușe 40\" P8, racord DIN 11851 80 mm"
+        },
+        {
+          "ref": "01-010263",
+          "rol": "cartuș StarFine SFM5K4P8E 5 µm 40\", primul set"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișele tehnice MVB și StarFine"
+      ],
+      "conditii": [
+        "termen de execuție de aproximativ 5-10 săptămâni. În august fabrica e închisă"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2101060",
+        "src": "m2146468",
+        "citat": "Produsele se pot livra in termen de +- 6-8 saptamani",
+        "pentru": "ofertă",
+        "nota": "termen pentru carcasa inox și cartușe. Fabrica italiană e închisă în august"
+      },
+      {
+        "conv": "c2147108",
+        "src": "m2147108",
+        "citat": "Din pacate la acest moment, timpul estimate de livrare al echipamentelor este de 8-10 saptamani.",
+        "pentru": "ofertă",
+        "nota": "termen de 8-10 săptămâni pentru carcase și UV"
+      },
+      {
+        "conv": "c2164612",
+        "src": "m2164612",
+        "citat": "a trebuit sa verific cu producatorul timpul real de executie a carcasei",
+        "pentru": "ofertă",
+        "nota": "termenul real e cerut producătorului înainte de ofertă"
+      },
+      {
+        "conv": "c2164612",
+        "src": "m2164612",
+        "citat": "Estimarea de productie la acest moment este de aproximativ 5-8 saptamani.",
+        "pentru": "ofertă",
+        "nota": "termenul comunicat"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R01-15",
+    "titlu": "Cerințe tehnice sau de certificare care nu pot fi îndeplinite: AKRO ofertează varianta standard și spune explicit abaterea",
+    "explicatie": "Uneori cererea, mai ales la proiecte, licitații sau cereri cu specificații detaliate, cere lucruri pe care produsul AKRO nu le are, cum ar fi inox 316L, flanșe americane ASME, certificat ATEX pentru zone cu risc de explozie sau certificat de apă potabilă. AKRO ofertează varianta standard, spune în email unde nu respectă cerința și atașează fișa tehnică. Varianta conformă a oferit-o la cerere, cu alt preț și alt termen. Au fost și excepții: într-o ofertă, unele diferențe față de cerere nu au fost spuse în email.",
+    "categorie": "01-Filtre impuritati",
+    "cand": "Cererea (de proiect, licitație sau o specificație detaliată de cumpărare) cere material 316L, flanșe ASME, certificat ATEX sau de apă potabilă, temperatură ridicată și altele, pe care produsul din gama AKRO nu le are.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "01-008169",
+          "rol": "filtru Y inox CF8M (AISI 316) cu flanșe PN10/16 în loc de 316L/ASME"
+        },
+        {
+          "ref": "01-009079",
+          "rol": "carcasă standard cu racord DIN 11851, doar certificat CE (fără ATEX)"
+        },
+        {
+          "ref": "01-008099",
+          "rol": "filtru automat SUF 4\" cu temperatura maximă a apei de 40°C"
+        },
+        {
+          "ref": "01-008190",
+          "rol": "filtru automat FMA-1003E integral inox 304, fără certificat de apă potabilă"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișa tehnică, ca clientul să verifice abaterile"
+      ],
+      "conditii": [
+        "varianta conformă (de exemplu 316L) doar la cerere, cu alt preț și alt termen, de 8-12 săptămâni (conversația 426)"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2119620",
+        "src": "m2156260",
+        "citat": "Filtrele Y si sitele ofertate sunt din inox CF8M [AISI 316].",
+        "pentru": "ofertă",
+        "nota": "316 ofertat în loc de 316L cerut"
+      },
+      {
+        "conv": "c2119620",
+        "src": "m2156260",
+        "citat": "Daca se doreste inox 316L, atunci va rog sa imi scrieti pentru a solicita la producator",
+        "pentru": "ofertă",
+        "nota": "varianta 316L doar la cerere, cu alt termen"
+      },
+      {
+        "conv": "c2119620",
+        "src": "m2156260",
+        "citat": "Filtrele ofertate vin echipate cu flanse standard PN10/16 – va rog sa verificati fisa tehnica.",
+        "pentru": "ofertă",
+        "nota": "flanșe PN10/16 în loc de ASME B16.5"
+      },
+      {
+        "conv": "c2164612",
+        "src": "m2164612",
+        "citat": "Carcasele filtrante si filtrele nu prezinta acest certificat ATEX",
+        "pentru": "ofertă",
+        "nota": "ATEX cerut, doar CE disponibil"
+      },
+      {
+        "conv": "c2164612",
+        "src": "m2164612",
+        "citat": "Racord in/out – Din 11851 – 80mm [ acesta este standardul]",
+        "pentru": "ofertă",
+        "nota": "racord standard în loc de flanșe DN80"
+      },
+      {
+        "conv": "c2161956",
+        "src": "m2161956",
+        "citat": "singurul lucru pe care nu il respecta acest filtru este strict temperatura maxima a apei acceptate",
+        "pentru": "ofertă",
+        "nota": "filtrul SUF ofertat cu abaterea de temperatură spusă direct"
+      },
+      {
+        "conv": "c2099332",
+        "src": "m2138596",
+        "citat": "Este recomandat pentru apa potabila insa nu detine un certificat care sa ateste asta.",
+        "pentru": "ofertă",
+        "nota": "lipsa certificatului de apă potabilă spusă direct"
+      },
+      {
+        "conv": "c2099332",
+        "src": "m2138596",
+        "citat": "Va putem oferi garantie de la producator, ca intreg ansamblul este din inox 304",
+        "pentru": "ofertă",
+        "nota": "în locul certificatului, AKRO oferă garanția producătorului că tot ansamblul e din inox 304"
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "În conversația 608, AKRO a spus explicit doar abaterile la ATEX și la racord. Oferta a mai avut și alte diferențe față de cerere, nemenționate în email: doar cartușe de 5 microni (nu și de 10), fără varianta duplex cerută ca opțiune și livrare EXW Brașov în loc de DAP Chișinău.",
+        "dovezi": [
+          {
+            "conv": "c2164612",
+            "src": "m2164612",
+            "citat": "7 cartuse de 5 microni – PP pliata.",
+            "pentru": "ofertă",
+            "nota": "doar cartușe de 5 microni, deși cererea avea 5 și 10 microni și o variantă duplex"
+          },
+          {
+            "conv": "c2164612",
+            "src": "m2164612",
+            "citat": "Delivery: EXWORKS AKRO - BRASOV",
+            "pentru": "ofertă",
+            "nota": "livrare EXW Brașov în oferta atașată, deși cererea era DAP Chișinău"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R01-16",
+    "titlu": "Filtre Y din inox cu flanșe PN16: modelul Y 240 cu sită de 3 mm, site de rezervă de 250 microni",
+    "explicatie": "Când clientul cere filtre Y din inox cu flanșe, între DN50 și DN100, AKRO ofertează modelul Y 240 cu sită de 3 mm. Filtrul Y e un filtru simplu, montat pe țeavă, cu o sită care oprește impuritățile mari. Când clientul a cerut site de rezervă, AKRO a pus site de 250 microni. Oferta pleacă cu fișa tehnică, iar pentru apa potabilă a unui spital AKRO a precizat că filtrul are certificat de contact cu apa potabilă, inclus în preț.",
+    "categorie": "01-Filtre impuritati",
+    "cand": "Clientul cere filtre tip Y din inox (DN50 până la DN100, PN16), cu sau fără site de rezervă, sau o treaptă grosieră de filtrare pe apă potabilă.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "01-008169",
+          "rol": "filtru Y inox 240L DN50 PN16, mesh 3 mm"
+        },
+        {
+          "ref": "01-008159",
+          "rol": "filtru Y inox 240L DN100 PN16, mesh 3 mm"
+        },
+        {
+          "ref": "01-008171",
+          "rol": "sită inox de rezervă DN50, 250 microni"
+        },
+        {
+          "ref": "01-008191",
+          "rol": "sită inox de rezervă DN100, 250 microni"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișa tehnică a filtrului Y inox flanșat PN16",
+        "certificat CE1935 pentru contact cu apa potabilă, inclus în preț (conversația 51, apă potabilă pentru spital)"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2119620",
+        "src": "m2119620",
+        "citat": "3 buc. site filtrante de rezervă pentru filtrele DN50;",
+        "pentru": "cerere",
+        "nota": "clientul cere filtre Y DN50 și DN100 cu câte o sită de rezervă"
+      },
+      {
+        "conv": "c2119620",
+        "src": "m2156260",
+        "citat": "Va rog sa regasiti anexata propunerea noastra de filtre si fisa tehnica.",
+        "pentru": "ofertă",
+        "nota": "Y 240 DN50 și DN100 cu site de rezervă de 250 microni (câte două pe filtru, deși clientul ceruse una), plus fișa tehnică"
+      },
+      {
+        "conv": "c2099332",
+        "src": "m2138596",
+        "citat": "Un filtru Y DN100 – complet din inox cu mesh de 3mm",
+        "pentru": "ofertă",
+        "nota": "filtrul Y propus ca treaptă grosieră pentru apă potabilă de spital"
+      },
+      {
+        "conv": "c2099332",
+        "src": "m2138596",
+        "citat": "Detine certificat CE1935 [ inclus in costul produsului]",
+        "pentru": "ofertă",
+        "nota": "certificatul pentru contact cu apa potabilă inclus"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R01-17",
+    "titlu": "Filtru mecanic automat cu autocurățare la proiect sau licitație: SUF sau STF FMA, ofertat fără întrebări către client",
+    "explicatie": "La un proiect sau o licitație care cere un filtru mecanic industrial cu spălare automată, cu racordul, debitul și finețea date, AKRO ofertează fără întrebări un filtru cu autocurățare SUF sau STF FMA, adică un filtru cu sită care se spală singur. Pentru o licitație a trimis, cum se stabilise la telefon, cea mai ieftină variantă care respectă cerințele. Oferta pleacă cu fișa tehnică și, la FMA, cu desenul. La licitație livrarea a fost inclusă, dar montajul și PIF-ul, adică pornirea și reglarea la client, nu.",
+    "categorie": "01-Filtre impuritati",
+    "cand": "Clientul (proiectant, licitație) cere un filtru mecanic industrial cu spălare inversă automată, cu racord, debit și finețe date (de exemplu DN100, 100 microni).",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "01-008099",
+          "rol": "filtru automat cu coș, orizontal, sită inox 100 microni, SUF 4\" DN100"
+        },
+        {
+          "ref": "01-008190",
+          "rol": "filtru cu autocurățare STF FMA-1003E integral inox 304 DN80, executat doar pe comandă"
+        }
+      ],
+      "servicii": [
+        "livrare la beneficiar inclusă"
+      ],
+      "documente": [
+        "fișa tehnică a filtrului automat",
+        "desenul de execuție (FMA)"
+      ],
+      "conditii": [
+        "asamblarea, montajul și PIF-ul nu sunt incluse (conversația 556)",
+        "FMA-1003E integral din inox se execută doar pe comandă (conversația 51)"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2161956",
+        "src": "m2161956",
+        "citat": "1. Filtru mecanic industrial cu spălare inversă automată – 1 buc.",
+        "pentru": "cerere",
+        "nota": "cerere de licitație cu DN100, 85 m³/h, 100 microni"
+      },
+      {
+        "conv": "c2161956",
+        "src": "m2161956",
+        "citat": "Asa cum am discutat la telefon, va trimitem anexata cea mai ieftina varianta de oferta pentru sistemul de filtrare solicitat",
+        "pentru": "ofertă",
+        "nota": "pentru licitație se trimite, cum s-a stabilit la telefon, varianta cea mai ieftină care respectă cerințele"
+      },
+      {
+        "conv": "c2161956",
+        "src": "m2161956",
+        "citat": "Asamblarea produselor, montajul si PIF-ul nu sunt incluse.",
+        "pentru": "ofertă",
+        "nota": "montajul și PIF-ul excluse explicit. Livrarea inclusă"
+      },
+      {
+        "conv": "c2099332",
+        "src": "m2100452",
+        "citat": "Filtru mecanic autocurățitor după hidrofor",
+        "pentru": "cerere",
+        "nota": "treapta automată de 100 microni pentru maternitate"
+      },
+      {
+        "conv": "c2099332",
+        "src": "m2138596",
+        "citat": "Avem filtrul – model FMA 1003-E – complet din inox 304",
+        "pentru": "ofertă",
+        "nota": "varianta venită de la producător: filtru STF integral din inox 304, executat doar pe comandă"
+      },
+      {
+        "conv": "c2099332",
+        "src": "m2138596",
+        "citat": "Fisa tehnica si desen de executie anexate.",
+        "pentru": "ofertă",
+        "nota": "documentele trimise cu oferta"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R01-18",
+    "titlu": "Schemă de tratare a apei potabile pentru un spital: AKRO validează schema, cere clorinare pe recirculare și ofertează filtre inox, UV și panou de clor",
+    "explicatie": "Proiectantul unui spital a trimis schema de tratare a apei potabile și a cerut întâi ca AKRO s-o verifice. AKRO a validat-o, dar a cerut să se adauge măsurarea și dozarea clorului pe recirculare. Apoi proiectantul a cerut ofertă pentru două trepte de filtrare. AKRO a luat varianta de filtre de la producător și a ofertat filtre din inox, cerute așa de client deși apa era curată, împreună cu un sistem UV și panoul de control al clorului.",
+    "categorie": "01-Filtre impuritati",
+    "cand": "Proiectantul unui spital trimite schema de tratare (rezervor tampon, hidrofor, UV) și cere verificarea ei și apoi ofertă pentru trepte de filtrare pe apă potabilă.",
+    "clarificari": [
+      "Clientul: este schema corectă tehnic? (AKRO: da, dar trebuie completată cu monitorizarea și dozarea clorului pe recirculare)"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "01-008159",
+          "rol": "filtru Y inox DN100 mesh 3 mm, treapta grosieră înainte de rezervor"
+        },
+        {
+          "ref": "01-008190",
+          "rol": "filtru automat STF FMA-1003E inox 304, după hidrofor"
+        },
+        {
+          "ref": "27-001233",
+          "rol": "sistem UV 30 m³/h"
+        },
+        {
+          "ref": "11-002158",
+          "rol": "panou K800 pH/clor liber pentru monitorizare"
+        },
+        {
+          "ref": "11-002150",
+          "rol": "senzor de clor liber"
+        },
+        {
+          "ref": "11-002012",
+          "rol": "pompă dozatoare TPG 603 pentru clorinare"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișe tehnice și desen de execuție",
+        "certificat CE1935 pentru filtrul Y"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2099332",
+        "src": "m2135716",
+        "citat": "Trebuie completata partea de monitorizare si dozare de clor la nivel de recirculare.",
+        "pentru": "clarificare",
+        "nota": "AKRO validează schema, atrage atenția că filtrul are racord sub DN100 și cere clorinare pe recirculare"
+      },
+      {
+        "conv": "c2099332",
+        "src": "m2100452",
+        "citat": "Vă rugăm să ofertați două trepte de filtrare:",
+        "pentru": "cerere",
+        "nota": "după validare, proiectantul cere filtrul grosier și filtrul autocurățitor"
+      },
+      {
+        "conv": "c2099332",
+        "src": "m2138596",
+        "citat": "Am primit astazi raspuns de la producator cu urmatoarea varianta de filtrare:",
+        "pentru": "ofertă",
+        "nota": "varianta de filtre vine de la producător, ofertată cu UV și clorinare"
+      },
+      {
+        "conv": "c2103876",
+        "src": "m2140228",
+        "citat": "eu am discutat cu clientul si mi-a spus ca discutam de apa curata- dar vrea totusi sa fie din inox filtrele",
+        "pentru": "clarificare",
+        "nota": "intern, AKRO notează că apa e curată, dar clientul vrea totuși filtre din inox. Proiectul era deja ofertat de AKRO (oferta din conversația 51)"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R01-19",
+    "titlu": "Carcasă inox pentru sac filtrant de mărime dată: două variante de carcasă cu picioare reglabile și coș perforat",
+    "explicatie": "Un client a cerut o carcasă din inox pentru o anumită mărime de sac filtrant, mărimea 4, cu racordul, presiunea și dotările scrise. AKRO a răspuns direct cu două modele de carcasă potrivite pentru acea mărime. Ambele au picioare reglabile și coș perforat, iar desenele lor sunt atașate la ofertă.",
+    "categorie": "01-Filtre impuritati",
+    "cand": "Clientul cere o carcasă filtrantă din inox pentru o mărime de sac dată (de exemplu #4), cu racord, presiune și echipare specificate.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "01-009049",
+          "rol": "carcasă #4 RBFP14-2-1SAP (316L, 1\" BSP)"
+        },
+        {
+          "ref": "01-009141",
+          "rol": "carcasă #4 HD14-1-1SAP (316L, 1\" BSP), a doua variantă"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "desenele și fișele tehnice ale celor două carcase"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2097284",
+        "src": "m2097284",
+        "citat": "Doresc o ofertă de preț și termen de livrare pentru o carcasă filtrantă din oțel inoxidabil",
+        "pentru": "cerere",
+        "nota": "cerere pentru carcasă inox pentru sac #4, apă potabilă, 4 bar"
+      },
+      {
+        "conv": "c2097284",
+        "src": "m2157796",
+        "citat": "Va rog sa regasiti anexata cotatia de pret pentru doua propuneri de carcase – disponibile pentru marimea de sac #4;",
+        "pentru": "ofertă",
+        "nota": "două modele ofertate pentru aceeași mărime de sac"
+      },
+      {
+        "conv": "c2097284",
+        "src": "m2157796",
+        "citat": "Ambele variante de carcase vin cu picioare ajustabile + cos perforat 3mm",
+        "pentru": "ofertă",
+        "nota": "echiparea cerută (picioare, coș perforat) e confirmată"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R01-20",
+    "titlu": "Declarații de conformitate pentru filtrele și piesele livrate: AKRO trimite certificatele primite de la producători",
+    "explicatie": "După comandă sau după livrare, unii clienți cer declarații de conformitate, de calitate sau de garanție pentru filtrele, carcasele sau piesele cumpărate. Declarația de conformitate e documentul prin care producătorul spune că produsul respectă normele europene. AKRO trimite ce a primit de la producători, de exemplu certificatul de calitate Cintropur, declarația Clack, certificatul EN 10204 sau fișa tehnică. Pentru carcasele și cartușele fabricate pe comandă, certificatele vin abia după producție.",
+    "categorie": "01-Filtre impuritati",
+    "cand": "După comandă sau după livrare, clientul cere declarații de conformitate, de calitate sau de garanție pentru filtre, carcase, cartușe sau piese care nu sunt consumabile.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [
+        "certificat de calitate și origine Cintropur și certificat ACS Cintropur NW500/650/800 (conversația 526)",
+        "declarație de conformitate Clack (conversația 526)",
+        "certificat EN 10204 2.2 (conversațiile 526 și 102)",
+        "fișa tehnică Proxis (conversația 102)",
+        "declarația de conformitate și certificatele producătorului filtrului SUF (conversația 1)",
+        "certificatele Atlas Filtri, emise pentru toată gama (conversația 37)"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2125636",
+        "src": "m2130372",
+        "citat": "Va rog declaratie de conformitate/calitate/garantie pentru reperele /piesele care nu sunt consumabile.",
+        "pentru": "cerere",
+        "nota": "cererea de documente după livrare"
+      },
+      {
+        "conv": "c2125636",
+        "src": "m2165124",
+        "citat": "Va rog sa regasiti anexate certificatele la produsele comandate",
+        "pentru": "ofertă",
+        "nota": "AKRO trimite certificatele Cintropur, declarația Clack și certificatul EN 10204 2.2"
+      },
+      {
+        "conv": "c2101860",
+        "src": "m2138052",
+        "citat": "Va trimitem anexat documentatia pentru cartusele achizitionate la ultima comanda.",
+        "pentru": "clarificare",
+        "nota": "clientul cere declarații pentru contact cu alimentele. AKRO trimite fișa tehnică Proxis și certificatul EN 10204"
+      },
+      {
+        "conv": "c2134212",
+        "src": "m2143684",
+        "citat": "Va trimit anexat pentru moment certificatele de la Filtrul SUF",
+        "pentru": "clarificare",
+        "nota": "după comandă, AKRO trimite certificatele filtrului automat. Pentru carcasele și cartușele fabricate pe comandă certificatele vin după producție"
+      },
+      {
+        "conv": "c2098436",
+        "src": "m2098436",
+        "citat": "Va rog sa regasiti anexate certificatele de la producator",
+        "pentru": "clarificare",
+        "nota": "în 2024, la cererea unei declarații de conformitate pentru carcase cumpărate în 2022, AKRO trimite certificatele Atlas Filtri (mesaj vechi, citat în conversație)"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R01-21",
+    "titlu": "Recomandare de prefiltrare Big Blue 20\" pentru o osmoză mică: AKRO validează schema, dar nu propune un cartuș de cărbune anume",
+    "explicatie": "Un client a cerut sfaturi pentru prefiltrarea cu carcase Big Blue de 20 de țoli la o osmoză mică, adică o stație care trece apa prin membrane foarte fine, alimentată din rețea. AKRO i-a confirmat că schema lui ajunge pentru apă de rețea și i-a recomandat cărbunele bloc, care reține și particule. Nu a propus un model anume: a spus că nu are cartușe Big Blue de cărbune în stoc și că se potrivește orice cartuș cu diametrul de 114 mm și lungimea de 20 de țoli.",
+    "categorie": "01-Filtre impuritati",
+    "cand": "Clientul cere recomandări (carbon granular sau bloc, modele exacte) pentru prefiltrarea Big Blue 20\" a unei osmoze mici alimentate cu apă de rețea.",
+    "clarificari": [
+      "Clientul: recomandați carbon granular sau carbon bloc? (AKRO: oricare, dar cel bloc e mai bun, pentru că reține și particule)",
+      "Clientul: ce model exact de cartuș carbon bloc Big Blue 20\" recomandați? (AKRO: nu are în stoc; se potrivește orice cartuș de 114 mm pe 20\")"
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2130340",
+        "src": "m2130340",
+        "citat": "Recomandați carbon activ granular (GAC) sau carbon block pentru această aplicație?",
+        "pentru": "clarificare",
+        "nota": "întrebarea clientului despre tipul de cărbune"
+      },
+      {
+        "conv": "c2130340",
+        "src": "m2165156",
+        "citat": "dar consider ca mai bun este cel bloc dat fiind ca el asigura si o retinere a particulelor",
+        "pentru": "clarificare",
+        "nota": "AKRO recomandă cărbunele bloc"
+      },
+      {
+        "conv": "c2130340",
+        "src": "m2165732",
+        "citat": "Nu avem cartuse big blue de carbune in stoc",
+        "pentru": "clarificare",
+        "nota": "AKRO nu propune un model. Spune doar ce dimensiune de cartuș se potrivește"
+      }
+    ],
+    "contradictii": []
+  }
+]

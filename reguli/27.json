@@ -1,0 +1,747 @@
+[
+  {
+    "cod": "R27-01",
+    "titlu": "Sterilizator UV pentru apă potabilă în proiecte și licitații: model SITA din inox 316, ales după debitul maxim și doza cerute",
+    "explicatie": "Instalatorii, antreprenorii și firmele care participă la licitații cer uneori un sterilizator UV, adică o lampă cu ultraviolete care dezinfectează apa, pentru apă potabilă, cu debitul și doza date în caietul de sarcini. AKRO ofertează un model SITA cu reactor din inox 316, ales după debitul maxim și doza cerută, și trimite fișa tehnică. Când configurația impusă e neclară, întreabă dacă e obligatorie, de pildă patru lămpi de 80 W. Pentru un spital din Brașov a ales însă NUVONIC, producător specializat pe aplicații sanitare.",
+    "categorie": "27-Uv",
+    "cand": "Un instalator, un antreprenor sau un participant la licitație cere un sterilizator UV pentru apă potabilă, cu debitul și cerințele tehnice (doză UV, material al reactorului, racord) date în caietul de sarcini sau în fișa tehnică.",
+    "clarificari": [
+      "Care este debitul maxim care traversează reactorul UV (dimensionarea se face la debitul maxim)?",
+      "Configurația impusă (de exemplu „4 lămpi x 80 W”) este obligatorie sau se acceptă o soluție echivalentă?"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "27-001233",
+          "rol": "SITA UV 80/4 RACK LCD PLUS 316 RM, 30 m³/h, 40 mJ/cm², DN80"
+        },
+        {
+          "ref": "27-001270",
+          "rol": "SITA UV 80/3 RACK LCD PLUS 316, 20 m³/h, 40 mJ/cm², racord 2\""
+        },
+        {
+          "ref": "27-001254",
+          "rol": "SITA AM 60 RM, 60 m³/h la 25 mJ/cm², inox 316, curățare manuală"
+        },
+        {
+          "ref": "27-001300",
+          "rol": "SITA AM 96 ECO PLUS 316L, maximum 55 m³/h la 40 mJ/cm² și UVT 90%"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișa tehnică SITA a modelului ofertat (în engleză)",
+        "manualul echipamentului și informația despre apa caldă (conversația 226)"
+      ],
+      "conditii": [
+        "termen estimat de livrare pentru UV: 6-8 săptămâni de la confirmarea plății (conversația 140), respectiv 7-10 săptămâni (conversația 226)"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2103876",
+        "src": "m2106852",
+        "citat": "Sterilizator UV industrial SITA UV 80/3 PLUS, executie",
+        "pentru": "ofertă",
+        "nota": "prima ofertă pentru spitalul din Oradea: SITA 80/3 PLUS din inox 316L, revizuită apoi la UV 80/4 pentru 30 m³/h"
+      },
+      {
+        "conv": "c2103876",
+        "src": "m2106852",
+        "citat": "dimensionat pentru un debit de 20 m³/h, capabil sa asigure o doza UV de minimum",
+        "pentru": "ofertă",
+        "nota": "dimensionarea se face pe debit și pe doza minimă garantată la sfârșitul vieții lămpilor"
+      },
+      {
+        "conv": "c2103876",
+        "src": "m2105700",
+        "citat": "In atasament regasiti si fisa tehnica a echipamentului UV ofertat.",
+        "pentru": "ofertă",
+        "nota": "fișa tehnică UV 80/4 trimisă odată cu oferta revizuită"
+      },
+      {
+        "conv": "c2103876",
+        "src": "m2105700",
+        "citat": "Modul de livrare: In sarcina Akro, 6-8 saptamani, dupa confirmarea de plata.",
+        "pentru": "ofertă",
+        "nota": "termenul de livrare din oferta S02571-1"
+      },
+      {
+        "conv": "c2145540",
+        "src": "m2145540",
+        "citat": "1 sistem UV – DN 80 – producator SITA – Italia – 4 lampi x 80 W",
+        "pentru": "ofertă",
+        "nota": "propunere proprie, care face abstracție de caietul de sarcini: SITA 80/4 pentru 30 m³/h și 80/3 pentru 20 m³/h"
+      },
+      {
+        "conv": "c2145540",
+        "src": "m2145540",
+        "citat": "Fise tehnice + manual anexat + informatie despre protectia la apa calda",
+        "pentru": "ofertă",
+        "nota": "documentele trimise pentru fiecare sistem UV"
+      },
+      {
+        "conv": "c2145540",
+        "src": "m2145540",
+        "citat": "pentru UV indiferent de varianta – 7-10 saptamani",
+        "pentru": "ofertă",
+        "nota": "termen estimat de livrare pentru UV, mai lung decât la clorinare (2-3 săptămâni)"
+      },
+      {
+        "conv": "c2161956",
+        "src": "m2161956",
+        "citat": "debit de tratat 60m3/h considerand o doza de uv de 25mJ/cm2",
+        "pentru": "ofertă",
+        "nota": "licitația pentru spitalul din Timișoara: SITA AM 60 RM, dimensionat pe debitul și doza din caietul de sarcini"
+      },
+      {
+        "conv": "c2129828",
+        "src": "m2165636",
+        "citat": "Am ofertat modelul de la SITA – UV AM 96 ECO – PN16 si varianta PLUS",
+        "pentru": "ofertă",
+        "nota": "fișa F5-06 (40 m³/h, 40 mJ/cm², inox 316L) acoperită cu SITA AM 96 ECO PLUS"
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "Pentru spitalul din Brașov (apă potabilă, după distribuitorul general) AKRO nu a ofertat SITA, ci sisteme NUVONIC PureLine ECO cu ștergător automat al tecilor, motivând că producătorul e specializat pe aplicații sanitare.",
+        "dovezi": [
+          {
+            "conv": "c2157348",
+            "src": "m2157348",
+            "citat": "In aceasta directie vom merge tot cu o propunere de la NUVONIC",
+            "pentru": "clarificare",
+            "nota": "AKRO anunță producătorul NUVONIC pentru sistemele UV de apă potabilă"
+          },
+          {
+            "conv": "c2157348",
+            "src": "m2161924",
+            "citat": "2 bucati Pureline ECO 85 – cu autowiper – DN100",
+            "pentru": "ofertă",
+            "nota": "oferta S02853: PureLine ECO 85 și ECO 125 de la NUVONIC, în loc de SITA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R27-02",
+    "titlu": "Dimensionarea unui sistem UV: AKRO cere debitul maxim, UVT, analiza apei și datele instalației înainte de ofertă",
+    "explicatie": "Când clientul vrea dezinfecție UV, dar lipsesc debitul maxim, calitatea apei sau datele instalației, ori documentația se contrazice, AKRO pune întâi întrebări. Cere mai ales debitul maxim, pe care se face dimensionarea, și UVT-ul, adică cât de ușor trece lumina UV prin apă. Mai întreabă de doza impusă, de materialul camerei de iradiere, de temperatura și presiunea apei, de conductă, de curentul disponibil și de rostul instalației.",
+    "categorie": "27-Uv",
+    "cand": "Clientul cere un sistem de dezinfecție UV, dar debitul maxim, calitatea apei (UVT) sau datele instalației lipsesc ori sunt contradictorii în documentație.",
+    "clarificari": [
+      "Care este debitul maxim de exploatare (de proiect) pe fiecare traseu sau echipament?",
+      "Există un buletin de analiză a apei sau măcar valoarea UVT la 254 nm?",
+      "Există o doză UV impusă (mJ/cm²) sau o normă de respectat?",
+      "Ce material se dorește pentru camera de iradiere (inox 304 sau 316L)? Configurația impusă de lămpi e obligatorie?",
+      "Care sunt temperatura apei și presiunea de lucru în punctul de montaj?",
+      "Pe ce diametru și material de conductă se montează sistemul UV?",
+      "Ce alimentare electrică este disponibilă (230 V sau 400 V)?",
+      "Care este tipul instalației (alimentare continuă sau recirculare) și scopul UV-ului?"
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2103876",
+        "src": "m2103876",
+        "citat": "Va rugam sa confirmati debitul maxim care va traversa reactorul UV.",
+        "pentru": "clarificare",
+        "nota": "documentația avea trei debite diferite. Dimensionarea se face la debitul maxim"
+      },
+      {
+        "conv": "c2103876",
+        "src": "m2103876",
+        "citat": "Exista un buletin de analiza a apei sau cel putin valoarea UVT (UV Transmittance) la 254 nm?",
+        "pentru": "clarificare",
+        "nota": "UVT cerut pentru că de el depinde doza garantată"
+      },
+      {
+        "conv": "c2103876",
+        "src": "m2103876",
+        "citat": "Va rugam sa confirmati materialul dorit al camerei de iradiere.",
+        "pentru": "clarificare",
+        "nota": "cererea avea 316L, fișa tehnică avea inox 304"
+      },
+      {
+        "conv": "c2103876",
+        "src": "m2103876",
+        "citat": "Va rugam sa confirmati daca cerinta privind \"4 lampi UV x 80 W\" reprezinta o conditie obligatorie",
+        "pentru": "clarificare",
+        "nota": "AKRO întreabă dacă numărul de lămpi e impus sau se acceptă echivalent"
+      },
+      {
+        "conv": "c2140420",
+        "src": "m2105348",
+        "citat": "Valoarea transmitanței UV (UVT la 254 nm), dacă aceasta a fost determinată",
+        "pentru": "clarificare",
+        "nota": "lista de întrebări pentru UV în acvacultură, cu răspunsurile clientului transmise de colega de la Spectra"
+      },
+      {
+        "conv": "c2140420",
+        "src": "m2105348",
+        "citat": "Confirmarea că debitele de 40 m³/h și 80 m³/h reprezintă debitele maxime de exploatare",
+        "pentru": "clarificare",
+        "nota": "clientul corectează: debit maxim 90 m³/h"
+      },
+      {
+        "conv": "c2140420",
+        "src": "m2105348",
+        "citat": "Dacă există o doză UV impusă prin proiect sau de către proiectant/beneficiar",
+        "pentru": "clarificare",
+        "nota": "doza impusă face parte din întrebările standard"
+      },
+      {
+        "conv": "c2140420",
+        "src": "m2105348",
+        "citat": "Diametrul și materialul conductelor pe care vor fi montate sistemele UV",
+        "pentru": "clarificare",
+        "nota": "conducta de montaj"
+      },
+      {
+        "conv": "c2140420",
+        "src": "m2105348",
+        "citat": "Tipul instalației: alimentare continuă cu apă proaspătă sau sistem cu recirculare (RAS)",
+        "pentru": "clarificare",
+        "nota": "tipul instalației și scopul UV"
+      },
+      {
+        "conv": "c2157348",
+        "src": "m2157348",
+        "citat": "Presiunea maxima in punctele unde se vor monta sistemele UV",
+        "pentru": "clarificare",
+        "nota": "la proiectul de spital AKRO cere diametrele, debitul maxim pe trasee și presiunea"
+      },
+      {
+        "conv": "c2157348",
+        "src": "m2097380",
+        "citat": "Debitul maxim de proiect pentru fiecare echipament (m³/h)",
+        "pentru": "clarificare",
+        "nota": "întrebările producătorului NUVONIC, transmise clientului"
+      },
+      {
+        "conv": "c2157348",
+        "src": "m2097380",
+        "citat": "Cerinta de dezinfectie – fie doza RED necesara (mJ/cm²), fie standardul/norma",
+        "pentru": "clarificare",
+        "nota": "doza sau norma de dezinfecție cerută de proiect"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R27-03",
+    "titlu": "UVT necunoscut: AKRO oferă determinarea UVT la sediul său pe o probă de apă trimisă de client",
+    "explicatie": "Dacă clientul nu știe UVT-ul apei, adică cât de ușor trece lumina UV prin ea, și nu are nici buletin de analiză, AKRO se oferă să facă determinarea la sediul său. Clientul trimite o probă de circa 500 ml, într-un recipient curat și etanș, de exemplu prin curier. Fără această valoare, producătorul ar dimensiona sistemul pe o valoare presupusă.",
+    "categorie": "27-Uv",
+    "cand": "Clientul cere un sistem UV, dar nu are buletin de analiză sau valoarea UVT (transmitanța UV la 254 nm) a apei.",
+    "clarificari": [
+      "Puteți trimite o probă de apă (circa 500 ml, recipient curat și etanș) pentru determinarea UVT?"
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [
+        "determinarea UVT la sediul AKRO, pe proba trimisă de client"
+      ],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2103876",
+        "src": "m2103876",
+        "citat": "va putem oferi suport prin efectuarea determinarii UVT la sediul nostru",
+        "pentru": "clarificare",
+        "nota": "oferit clientului spitalului din Oradea, cu proba într-un recipient curat și etanș"
+      },
+      {
+        "conv": "c2140420",
+        "src": "m2105348",
+        "citat": "In cazul in care aceasta analiza nu este disponibila noi o putem realiza la sediul nostru",
+        "pentru": "clarificare",
+        "nota": "proba cerută e de 500 ml. Clientul păstrăvăriei răspunde că o trimite prin curier"
+      },
+      {
+        "conv": "c2157348",
+        "src": "m2097380",
+        "citat": "aici va putem ajuta noi, daca nu exista un buletin complet",
+        "pentru": "clarificare",
+        "nota": "pentru UVT-ul apei din rețeaua Brașovului. Altfel producătorul dimensionează pe o valoare presupusă"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R27-04",
+    "titlu": "UV de proiect cu cerințe peste modelul standard (apă caldă, PN16, racord DN100): model SITA standard plus opțiunea sau modificarea din fabrică",
+    "explicatie": "Uneori proiectul cere ceva ce modelul UV standard nu are, de pildă funcționare cu apă caldă, presiune de 16 bar sau racorduri DN100 cu flanșe. AKRO ofertează atunci modelul SITA standard și adaugă opțiunea SITA potrivită, cum e protecția termică pusă pe fiecare lampă. Racordurile DN100 se schimbă din fabrică, iar costul e inclus în preț. Într-un caz AKRO a trimis fișa modelului standard, în altul și documentul producătorului despre apa caldă.",
+    "categorie": "27-Uv",
+    "cand": "La o cerere de UV de proiect, fișa tehnică cere o caracteristică pe care modelul standard nu o are (presiune nominală de 16 bar, racorduri DN100 cu flanșe) sau sistemul trebuie să lucreze și cu apă caldă.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "27-005397",
+          "rol": "opțiunea SITA pentru gama LCD Rack, ofertată pentru funcționarea cu apă caldă, câte una pe lampă"
+        },
+        {
+          "ref": "27-001301",
+          "rol": "opțiune presiune 16 bar pentru SITA AM 96"
+        }
+      ],
+      "servicii": [
+        "înlocuirea din fabrică a racordurilor pe DN100, inclusă în preț"
+      ],
+      "documente": [
+        "fișa tehnică a modelului standard",
+        "informația producătorului despre protecția la apă caldă"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2103876",
+        "src": "m2105700",
+        "citat": "[27-005397] Optional SITA pentru gama LCD Rack protectie termica apa calda",
+        "pentru": "ofertă",
+        "nota": "opțiunea de protecție termică pusă de 4 ori la UV 80/4, la proiectul cu temperaturi mai mari"
+      },
+      {
+        "conv": "c2145540",
+        "src": "m2145540",
+        "citat": "cu protectie la supraincalzire [ sistemul poate lucra si cu apa calda]",
+        "pentru": "ofertă",
+        "nota": "opțiunea pentru apă caldă pe ambele sisteme (4 și 3 lămpi), cu documentul SITA despre apa caldă"
+      },
+      {
+        "conv": "c2129828",
+        "src": "m2165636",
+        "citat": "[27-001301] Optiune presiune 16_BAR_pentru sitem UV apa_AM96_SITA",
+        "pentru": "ofertă",
+        "nota": "fișa F5-06 cerea presiune nominală PN 10-16 bar"
+      },
+      {
+        "conv": "c2161956",
+        "src": "m2161956",
+        "citat": "pretul oferit include costul de inlocuire al conexiunilor din fabrica pe Dn100",
+        "pentru": "ofertă",
+        "nota": "fișa tehnică e pentru varianta standard DN80. Modificarea DN100 e inclusă în preț"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R27-05",
+    "titlu": "Sisteme UV de proiect pentru apă potabilă ofertate cu sistem de curățare a tecilor de cuarț",
+    "explicatie": "La sistemele UV pentru apă potabilă din proiecte, cum sunt spitalele și licitațiile, AKRO pune în ofertă și un sistem de curățare a tecilor de cuarț, tuburile de sticlă în care stau lămpile. La modelele SITA curățarea se face manual, iar la NUVONIC un ștergător automat curăță teaca fără ca instalația să fie scoasă de sub presiune. La spitalul din Brașov AKRO a anunțat-o din prima discuție. Au fost și excepții: la o licitație de spital și la un alt proiect a ofertat și modele fără curățare.",
+    "categorie": "27-Uv",
+    "cand": "Cerere de sistem UV pentru apă potabilă de proiect (spital, licitație), mai ales când fișa cere curățarea tecilor sau aplicația e sanitară.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "27-001254",
+          "rol": "SITA AM 60 RM cu curățare manuală a tecilor"
+        },
+        {
+          "ref": "27-001233",
+          "rol": "SITA UV 80/4 RACK LCD PLUS 316 RM cu curățare manuală"
+        },
+        {
+          "ref": "27-001232",
+          "rol": "NUVONIC PureLine ECO 85 cu ștergător automat (curățare în flux)"
+        },
+        {
+          "ref": "27-001235",
+          "rol": "NUVONIC PureLine ECO 125 cu ștergător automat"
+        }
+      ],
+      "servicii": [],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2103876",
+        "src": "m2105700",
+        "citat": "m3/h_Doza UV 40 mJ/cm2_Putere 355W_Racord DN80_SITA cu curatare",
+        "pentru": "ofertă",
+        "nota": "linia 27-001233 din S02571-1: SITA cu curățare manuală"
+      },
+      {
+        "conv": "c2161956",
+        "src": "m2161956",
+        "citat": "cu sistem de curatare al tecilor actionat manual, reactor din inox 316",
+        "pentru": "ofertă",
+        "nota": "caietul de sarcini cerea sistem de curățare a tecilor. S-a ofertat curățarea manuală"
+      },
+      {
+        "conv": "c2157348",
+        "src": "m2157348",
+        "citat": "Ca si recomandare , la aceste sisteme UV, cel mai probabil vom propune si sisteme de curatare a tecilor de quartz",
+        "pentru": "clarificare",
+        "nota": "recomandare făcută din prima discuție"
+      },
+      {
+        "conv": "c2157348",
+        "src": "m2163396",
+        "citat": "Toate sistemele ofertate includ si sistem de curatare a tecilor de quartz",
+        "pentru": "ofertă",
+        "nota": "PureLine ECO cu ștergător automat, curățare fără depresurizare"
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "La licitația pentru spitalul din Buftea (conversația 606), deși fișa F5-06 cerea curățarea manuală a manșoanelor de cuarț, AKRO a ofertat SITA AM 96 ECO PLUS, la care fișa tehnică arată curățarea doar ca opțiune, neofertată. La LICAM PREST (conversația 226) sistemul de 20 m³/h a fost ofertat fără varianta RM, cea cu curățare manuală.",
+        "dovezi": [
+          {
+            "conv": "c2129828",
+            "src": "m2165636",
+            "citat": "Automatic Available (RA version - U shape – Horizontal configuration)",
+            "pentru": "ofertă",
+            "nota": "în fișa AM 96 ECO trimisă cu oferta, curățarea manuală lipsește, iar cea automată e doar o variantă separată"
+          },
+          {
+            "conv": "c2145540",
+            "src": "m2145540",
+            "citat": "Sistem UV apa_80/3 RACK LCD PLUS 316_Debit 20 m3/h_Doza UV 40",
+            "pentru": "ofertă",
+            "nota": "modelul de 20 m³/h, ofertat fără varianta RM cu curățare manuală"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R27-06",
+    "titlu": "UV și clorinare pentru apă potabilă, mai ales la spitale: pachet cu sterilizator UV și stație de clorinare SEKO",
+    "explicatie": "Când proiectul cere pe lângă UV și clorinarea apei potabile, mai ales la spitale, AKRO ofertează un pachet. Lângă sterilizatorul UV pune o stație de clorinare SEKO, cu pompă dozatoare și rezervor de hipoclorit. Pe recircularea unui bazin adaugă un panou cu senzor pentru clorul liber, iar unde fișa cere dozare după debit, pompa e comandată de un contor cu impulsuri. AKRO a recomandat un rezervor de 100 de litri, pentru autonomie. Au fost și excepții: la un client a ofertat rezervorul de 50 de litri.",
+    "categorie": "27-Uv",
+    "cand": "Cererea sau caietul de sarcini cuprinde, pe lângă sterilizatorul UV, și clorinarea apei potabile (pe recircularea unui bazin sau rezervor, ori proporțional cu debitul), mai ales la proiecte de spital.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "11-002012",
+          "rol": "pompa dozatoare SEKO TPG 603 (cu kit de injecție)"
+        },
+        {
+          "ref": "11-002027",
+          "rol": "rezervor PE 100 L pentru hipoclorit"
+        },
+        {
+          "ref": "11-002026",
+          "rol": "lance de aspirație rigidă cu senzor de nivel pentru rezervorul de 100 L"
+        },
+        {
+          "ref": "11-002151",
+          "rol": "panou K800 KPW05 pentru clor liber"
+        },
+        {
+          "ref": "11-002158",
+          "rol": "panou K800 KPS06PM00000 pentru pH și clor (spitalul din Oradea)"
+        },
+        {
+          "ref": "11-002159",
+          "rol": "senzor de clor liber anorganic FCL5 0-2 ppm"
+        },
+        {
+          "ref": "11-002004",
+          "rol": "cablu senzor 1 m"
+        },
+        {
+          "ref": "23-001189",
+          "rol": "contor cu impulsuri DN100 pentru dozarea proporțională, în varianta fără panou"
+        },
+        {
+          "ref": "27-001233",
+          "rol": "sterilizatorul UV SITA din același pachet (în două conversații)"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișele tehnice ale pompei, rezervorului, panoului și senzorului (în conversațiile 226 și 453, ca linkuri Google Drive)"
+      ],
+      "conditii": [
+        "pe recircularea bazinului: dozare comandată de panoul de clor liber, câte un sistem pentru fiecare bazin",
+        "când fișa cere dozare proporțională (conversația 606): pompa comandată de contorul cu impulsuri, fără tablou separat"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2103876",
+        "src": "m2106852",
+        "citat": "Statie de clorinare SEKO, configurata pentru circuitul de recirculare al bazinului (30 m³/h)",
+        "pentru": "ofertă",
+        "nota": "oferta S02571 combină UV-ul SITA cu stația de clorinare SEKO pe recircularea bazinului"
+      },
+      {
+        "conv": "c2103876",
+        "src": "m2103876",
+        "citat": "am recomandat utilizarea unui rezervor de 100 L",
+        "pentru": "clarificare",
+        "nota": "fișa tehnică cerea 50 L. AKRO a recomandat 100 L pentru autonomie, iar beneficiarul a acceptat"
+      },
+      {
+        "conv": "c2145540",
+        "src": "m2145540",
+        "citat": "1 sistem de clorinare – pentru corectare nivel de clor in apa – pe recircularea unui bazin.",
+        "pentru": "ofertă",
+        "nota": "clorinare cu panoul K800 KPW05 și două sisteme UV SITA"
+      },
+      {
+        "conv": "c2129828",
+        "src": "m2165636",
+        "citat": "Pompa dozatoare TPG 603 [ cu kit de injectie inclus]",
+        "pentru": "ofertă",
+        "nota": "kitul de clorinare din fișa F5-07, ofertat lângă UV-ul din fișa F5-06"
+      },
+      {
+        "conv": "c2129828",
+        "src": "m2165636",
+        "citat": "Rezervor de 100L PE",
+        "pentru": "ofertă",
+        "nota": "rezervor de 100 L"
+      },
+      {
+        "conv": "c2129828",
+        "src": "m2165636",
+        "citat": "Sistemul propus nu are un tablou de automatizare separat",
+        "pentru": "ofertă",
+        "nota": "dozare proporțională cu contor cu impulsuri, reglată din meniul pompei, fără panou"
+      },
+      {
+        "conv": "c2157348",
+        "src": "m2161924",
+        "citat": "2 sisteme de clorinare [ cate una pentru fiecare recirculare de bazin] compuse din:",
+        "pentru": "ofertă",
+        "nota": "oferta S02853: câte o clorinare pe recircularea fiecărui bazin și trei sisteme UV"
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "La LICAM PREST (conversația 226) rezervorul de hipoclorit ofertat a fost de 50 L (11-002098), nu de 100 L.",
+        "dovezi": [
+          {
+            "conv": "c2145540",
+            "src": "m2145540",
+            "citat": "Rezervor 50L– Rezervoare Seko – Google Drive",
+            "pentru": "ofertă",
+            "nota": "rezervor PE 50 L în oferta S02634"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R27-07",
+    "titlu": "UV pe apă de foraj fără filtrare înainte: AKRO indică filtrul cu autocurățare SUF-4 pentru protecția sistemului UV",
+    "explicatie": "Se aplică unei ape de foraj pe care clientul vrea s-o dezinfecteze cu UV, fără nicio filtrare înainte. Lista de întrebări a cerut și schema instalației, cu poziția UV-ului față de filtrare, iar clientul a răspuns că nu există filtre. Colega de la Spectra a propus atunci un filtru mecanic cu autocurățare, care protejează sistemul UV, iar AKRO i-a indicat modelul SUF-4 și i-a trimis fișa tehnică.",
+    "categorie": "27-Uv",
+    "cand": "Clientul cere dezinfecție UV pe o apă de foraj și, întrebat de schema instalației, spune că înaintea UV-ului nu există nicio treaptă de filtrare.",
+    "clarificari": [
+      "Există o schemă a instalației din care să reiasă poziția UV-ului față de filtrarea și ozonizarea existente?"
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [
+        "fișa tehnică a filtrului cu autocurățare din oțel carbon (link), trimisă colegei de la Spectra"
+      ],
+      "conditii": [
+        "filtrul indicat pentru oferta Spectra: SUF 4\" cu coș filtrant, DN100, 100 µm (cod 01-008099)"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2140420",
+        "src": "m2105348",
+        "citat": "NU EXISTA SISTEME DE FILTRARE SAU OZONIZARE",
+        "pentru": "clarificare",
+        "nota": "clientul răspunde la întrebarea despre schemă că nu există filtrare sau ozonizare înaintea UV-ului"
+      },
+      {
+        "conv": "c2140420",
+        "src": "m2105348",
+        "citat": "Te rog daca poti sa ma ajuti cu recomandarea pentru o solutie de filtrare inainte de UV.",
+        "pentru": "clarificare",
+        "nota": "colega de la Spectra cere recomandarea și propune un filtru mecanic cu autocurățare"
+      },
+      {
+        "conv": "c2140420",
+        "src": "m2141604",
+        "citat": "Poti da un SUF-4 – Cod 01-008099",
+        "pentru": "clarificare",
+        "nota": "AKRO indică modelul, cu link la fișa tehnică"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R27-08",
+    "titlu": "Teacă de cuarț de schimb pentru un UV existent: AKRO ofertează direct teaca din stoc, cu O-ring-ul potrivit, și expediază prin curier",
+    "explicatie": "Clientul care are la un UV o teacă de cuarț crăpată, cu depuneri sau cu scurgeri la capete cere una nouă, uneori chiar cu codul AKRO. AKRO ofertează direct, fără întrebări, teaca din stoc, O-ring-ul potrivit și livrarea, apoi o trimite prin curier. Unei persoane fizice i-a cerut întâi dovada plății. O-ring-ul a fost o dată dat gratuit și altă dată facturat.",
+    "categorie": "27-Uv",
+    "cand": "Clientul are un sistem UV cu teaca crăpată, depuneri sau scurgeri la capete și cere o teacă de cuarț nouă (uneori cu codul AKRO deja indicat).",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "27-004595",
+          "rol": "teacă de cuarț 23 x 1,5 x 680 mm SO (exemplu)"
+        },
+        {
+          "ref": "27-004654",
+          "rol": "O-ring D23 pentru teacă"
+        },
+        {
+          "ref": "16-003005",
+          "rol": "livrare și ambalare"
+        }
+      ],
+      "servicii": [
+        "expediere prin curier (FAN Curier, în conversația 509)"
+      ],
+      "documente": [
+        "factură proformă (persoana fizică) sau confirmare de comandă (firma)"
+      ],
+      "conditii": [
+        "la persoana fizică, livrarea după dovada plății"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2105892",
+        "src": "m2142308",
+        "citat": "Please find attached the proforma invoice for 1 quartz sleeve.",
+        "pentru": "ofertă",
+        "nota": "teaca de 23 x 20 x 330 mm, cerută cu codul ei, pusă direct pe proformă, din stoc, fără întrebări"
+      },
+      {
+        "conv": "c2105892",
+        "src": "m2142308",
+        "citat": "I have added 2 O-rings D22 with 3 mm thickness [ this will be sent with no charge]",
+        "pentru": "ofertă",
+        "nota": "O-ring-urile adăugate gratuit, fiindcă furnizorul nu le livrează pe cele originale"
+      },
+      {
+        "conv": "c2124580",
+        "src": "m2160868",
+        "citat": "Anexata confirmarea – o punem astazi la FAN CURIER.",
+        "pentru": "ofertă",
+        "nota": "confirmarea S02879: teaca de 23 x 1,5 x 680 mm, O-ring D23 și livrare, expediate în aceeași zi"
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "O-ring-ul a fost dat gratuit în conversația 176 și facturat ca linie separată în conversația 509.",
+        "dovezi": [
+          {
+            "conv": "c2124580",
+            "src": "m2160868",
+            "citat": "[27-004654] O-ring D23 1,00 buc 6,22 6,22 RON",
+            "pentru": "ofertă",
+            "nota": "O-ring-ul apare ca linie plătită în confirmarea de comandă"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R27-09",
+    "titlu": "Client cu sistem UV livrat de AKRO: după un an, AKRO trimite din programul de service oferta de consumabile (lampa anual, teaca la 2-3 ani)",
+    "explicatie": "La un sistem de tratare livrat de AKRO, inițiativa a venit chiar de la AKRO. După un an de la ultima schimbare a lămpii UV, i-a trimis clientului, din programul de service, o ofertă actualizată de consumabile, adică cartușe filtrante, lampă și teacă de cuarț. Lampa se schimbă obligatoriu în fiecare an, iar teaca în mod normal la doi sau trei ani. AKRO a explicat și cum se verifică și se curăță teaca, cu oțet și o lavetă moale.",
+    "categorie": "27-Uv",
+    "cand": "A trecut un an de la ultima schimbare a lămpii UV la un sistem de tratare livrat de AKRO (inițiativa e a AKRO, nu a clientului).",
+    "clarificari": [],
+    "oferta": {
+      "produse": [],
+      "servicii": [
+        "instrucțiuni de verificare și curățare a tecii (oțet și lavetă moale)"
+      ],
+      "documente": [
+        "oferta actualizată de consumabile: cartușe filtrante, lampă UV, teacă de cuarț"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2105892",
+        "src": "m2105892",
+        "citat": "based on our service program, one year has passed from the last changing of the UV lamp",
+        "pentru": "ofertă",
+        "nota": "mesajul AKRO din ianuarie, citat în cererea clientului"
+      },
+      {
+        "conv": "c2105892",
+        "src": "m2105892",
+        "citat": "1 lamp for the UV system [mandatory to be changed each year",
+        "pentru": "ofertă",
+        "nota": "lampa se schimbă obligatoriu anual. Balastul are un temporizator care anunță sfârșitul duratei de viață"
+      },
+      {
+        "conv": "c2105892",
+        "src": "m2105892",
+        "citat": "1 quartz sleeve - for the UV [ normally this should be exchange every 2-3 years ]",
+        "pentru": "ofertă",
+        "nota": "teaca la 2-3 ani, cu verificare vizuală și curățare cu oțet"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R27-10",
+    "titlu": "UV pentru bazinele de rezervă de incendiu: lampă UV în perna de aer și UV scufundat, cu recirculare și fără clor. AKRO cere dimensiunile bazinelor și consultă producătorul",
+    "explicatie": "Pentru apa stocată în bazinele de rezervă de incendiu ale unui spital, AKRO și colegii de la Spectra au propus o lampă UV în perna de aer a fiecărui bazin, adică în aerul de deasupra apei, și un UV scufundat care merge continuu, cu apa recirculată și fără clor. AKRO a cerut dimensiunile exacte ale bazinelor și a consultat producătorul. Acesta a avut rezerve, pentru că în bazinele din beton, cu pereți poroși, sistemul nu mai dă rezultate. Oferta a rămas în așteptare.",
+    "categorie": "27-Uv",
+    "cand": "Clientul cere o soluție de menținere a calității apei stocate în bazinele de rezervă de incendiu, unde apa stă mult timp nefolosită.",
+    "clarificari": [
+      "Care sunt dimensiunile exacte ale bazinelor (lungime, lățime, înălțime și înălțimea utilă a apei)?"
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "recirculare obligatorie la bazine, ca apa să se miște în jurul lămpilor scufundate",
+        "fără dozare de clor. Instalațiile de clorinare de pe aceste bazine se scot"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2157348",
+        "src": "m2157348",
+        "citat": "O lampa UV ce se monteaza in perna de aer a fiecarui tank",
+        "pentru": "clarificare",
+        "nota": "recomandarea făcută împreună cu departamentul Spectra pentru bazinele de incendiu"
+      },
+      {
+        "conv": "c2157348",
+        "src": "m2157348",
+        "citat": "Un sistem UV – imersat in fiecare din cele doua bazine care vor functiona continuu",
+        "pentru": "clarificare",
+        "nota": "plus recirculare obligatorie și fără dozare de clor"
+      },
+      {
+        "conv": "c2157348",
+        "src": "m2157860",
+        "citat": "Va rog sa ne trimiteti dimensiunile exacte ale celor doua bazine",
+        "pentru": "clarificare",
+        "nota": "dimensiunile sunt datele cerute pentru dimensionare. AKRO anunță că păstrează recircularea și scoate clorinarea"
+      },
+      {
+        "conv": "c2157348",
+        "src": "m2161924",
+        "citat": "inca nu am primit un raspuns favorabil din partea producatorului",
+        "pentru": "clarificare",
+        "nota": "în bazinele de beton, cu pereți poroși, UV-ul devine ineficient. Fără ofertă până la răspunsul producătorului"
+      }
+    ],
+    "contradictii": []
+  }
+]

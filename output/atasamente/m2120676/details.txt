@@ -1,0 +1,7 @@
+Reporting-MTA: dns; s010.host-age.ro
+
+Action: failed
+Final-Recipient: rfc822;sales@euro-clear.eu
+Status: 5.0.0
+Remote-MTA: dns; euroclear-eu01b.mail.protection.outlook.com
+Diagnostic-Code: smtp; 550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors [AMS0EPF0000056D.eurprd02.prod.outlook.com 2026-09-11T08:50:34.589Z 08DF0B222E2C6C5A]

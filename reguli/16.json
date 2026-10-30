@@ -1,0 +1,1032 @@
+[
+  {
+    "cod": "R16-01",
+    "titlu": "Intervenție de verificare sau constatare la o instalație existentă: o singură linie de serviciu 16-002001",
+    "explicatie": "Se aplică atunci când un client cere verificarea, revizia sau repornirea unei instalații de tratare a apei pe care o are deja și nu cere piese noi. AKRO trimite o ofertă cu o singură linie de serviciu, în care scrie deplasarea la client, echipamentul și operațiile, de exemplu curățarea pompei dozatoare sau rezolvarea unei erori. Clienților cunoscuți le ofertează fără întrebări. Când nu știe instalația sau defectul, întreabă întâi ce nu merge, de unde a fost cumpărat sistemul și cere poze. După intervenție trimite procesul verbal de service.",
+    "categorie": "16-Prestari servicii",
+    "cand": "Clientul cere o verificare, revizie, inspecție tehnică sau repunere în funcțiune la o instalație existentă (dedurizare, clorinare, tratare apă potabilă, filtru), fără să indice piese sau materiale de schimbat.",
+    "clarificari": [
+      "Ce anume nu funcționează (descrierea problemei)? (pentru clorinare vezi regula R16-10)",
+      "Dacă clientul nu e în baza de date AKRO: sistemul a fost cumpărat de la AKRO prin altă firmă? Plus o fotografie, ca AKRO să vadă dacă poate interveni.",
+      "Fotografii cu echipamentul, dacă AKRO nu îl cunoaște (vezi regula RG-28)"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "16-002001",
+          "rol": "linia unică de serviciu (în nomenclator: deplasare la beneficiar, o persoană și diurnă), cu denumirea extinsă în ofertă: echipamentul și operațiile (verificare, constatare, mentenanță, repunere în funcțiune)"
+        }
+      ],
+      "servicii": [
+        "deplasare la beneficiar",
+        "constatare tehnică, verificare setări și etanșeități, curățare (sistemul de aspirație a saramurii, pompa dozatoare), reglaje, teste funcționale, rezolvarea erorii afișate"
+      ],
+      "documente": [
+        "proces verbal de service după intervenție (vezi regula R16-12)"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2111396",
+        "src": "m2148644",
+        "citat": "Va trimitem anexata propunerea noastra pentru deplasarea la locatie , verificare si repornirea statiei de clorinare.",
+        "pentru": "ofertă",
+        "nota": "stație de clorinare oprită: după întrebări, ofertă S02667 cu o singură linie 16-002001 (deplasare, constatare, repunere în funcțiune)"
+      },
+      {
+        "conv": "c2151492",
+        "src": "m2151588",
+        "citat": "Va trimitem anexata oferta de pret pentru o interventie de verificare a instalatiei actuale.",
+        "pentru": "ofertă",
+        "nota": "verificare clorinare și filtre, după întrebarea despre proveniența sistemului: ofertă S02707 cu o singură linie 16-002001"
+      },
+      {
+        "conv": "c2151492",
+        "src": "m2151492",
+        "citat": "Ati putea sa ne transmiteti daca sistemul a fost achizitionat de la AKRO prin intermediul unei terte parti?",
+        "pentru": "clarificare",
+        "nota": "clientul nu e în baza de date AKRO: AKRO întreabă de proveniența sistemului și cere o fotografie înainte de ofertă"
+      },
+      {
+        "conv": "c2117380",
+        "src": "m2154244",
+        "citat": "Va rog sa regasiti anexata oferta de pret pentru o deplasare de mentenanta/verificare a instalatiei existente.",
+        "pentru": "ofertă",
+        "nota": "verificare instalație apă potabilă, fără întrebări: ofertă S02756 cu o singură linie 16-002001"
+      },
+      {
+        "conv": "c2119652",
+        "src": "m2156164",
+        "citat": "Va rog sa regasiti anexata cotatia de pret pentru interventia de mentenanta la instalatia de dedurizare.",
+        "pentru": "ofertă",
+        "nota": "mentenanță dedurizare, fără întrebări: ofertă S02790 cu o singură linie 16-002001 (constatare, curățare aspirație saramură, reglaje)"
+      },
+      {
+        "conv": "c2128036",
+        "src": "m2162788",
+        "citat": "va trimitem anexata confirmarea de comanda pentru interventia de verificare si resetare a erorii.",
+        "pentru": "ofertă",
+        "nota": "inspecție dedurizare cu eroarea E102, stabilită la telefon: confirmare S02903 cu o singură linie 16-002001"
+      },
+      {
+        "conv": "c2138084",
+        "src": "m2138116",
+        "citat": "Oferta S02550 – pentru verificarea situatiei",
+        "pentru": "ofertă",
+        "nota": "filtru vechi nefuncțional: varianta de verificare la fața locului, linia 16-002001 (vezi regula R16-09)"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R16-02",
+    "titlu": "Reîncărcare butelii Gewapur (6 butelii de 25 L Mixed Bed) la comandă directă: linia 16-001004 și două transporturi Pallex 16-003003",
+    "explicatie": "Un client are șase butelii Gewapur de 25 de litri, umplute cu rășină de tip pat mixt, și trimite direct comanda de reîncărcare, cu transportul și manopera incluse în preț. AKRO confirmă comanda fără întrebări și organizează prin Pallex, o firmă de transport pe paleți, ridicarea paletului cu buteliile uzate și returul lor. Buteliile se reîncarcă la AKRO, iar clientul primește procesul verbal de service și avizul pentru rășină. Regula ține doar de aceste butelii. Pentru buteliile altei instalații, același client a primit refuz.",
+    "categorie": "16-Prestari servicii",
+    "cand": "Clientul trimite direct comanda de achiziție pentru înlocuirea masei filtrante în cele 6 butelii Gewapur, cu transport și manoperă incluse în preț, fără cerere de ofertă prealabilă. Nu se aplică la buteliile altor instalații: pentru buteliile unei instalații Decker, același client a primit răspunsul că AKRO nu poate interveni (conversația 100).",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "16-001004",
+          "rol": "linia de serviciu (în nomenclator: manoperă pentru montaj hidraulic) cu denumirea din ofertă «Înlocuire masă filtrantă - 6 x Butelie 25 L Mixed Bed - manoperă inclusă»"
+        },
+        {
+          "ref": "16-003003",
+          "rol": "livrare și ambalare Pallex intern, cantitate 2 (preluarea buteliilor uzate și returul celor reîncărcate)"
+        }
+      ],
+      "servicii": [
+        "AKRO comandă Pallex pentru preluarea paletului cu buteliile uzate (în conversațiile 263 și 563 trimite clientului eticheta și CMR-ul pentru ridicare)",
+        "reîncărcare la AKRO și retur prin Pallex, cu CMR-ul de livrare trimis clientului"
+      ],
+      "documente": [
+        "confirmare de comandă",
+        "proces verbal de service",
+        "aviz de expediție pentru rășina încărcată"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2101156",
+        "src": "m2101188",
+        "citat": "ESTE INCLUS TRANSPORT SI MANOPERA IN PRET.",
+        "pentru": "cerere",
+        "nota": "comanda clientului pentru reîncărcarea buteliilor Gewapur, cu transport și manoperă incluse"
+      },
+      {
+        "conv": "c2101156",
+        "src": "m2137284",
+        "citat": "Va rog sa ne anuntati cand putem trimite Pallex-ul pentru preluarea paletului.",
+        "pentru": "ofertă",
+        "nota": "confirmarea S02538 trimisă direct, fără clarificări. AKRO organizează preluarea prin Pallex"
+      },
+      {
+        "conv": "c2101156",
+        "src": "m2140772",
+        "citat": "Anexat avizul pentru rasina, procesul verbal de schimb si comanda dumneavoastra.",
+        "pentru": "ofertă",
+        "nota": "după reîncărcare: aviz pentru rășină și proces verbal. Eticheta și CMR-ul pentru retur vin de la colegi"
+      },
+      {
+        "conv": "c2111492",
+        "src": "m2111492",
+        "citat": "Va transmit atasat comanda de achizitie.",
+        "pentru": "cerere",
+        "nota": "a doua comandă directă pentru aceleași 6 butelii"
+      },
+      {
+        "conv": "c2111492",
+        "src": "m2147940",
+        "citat": "Astazi facem comanda de preluare a paletului si va anuntam de indata ce am inlocuit rasinile.",
+        "pentru": "ofertă",
+        "nota": "confirmarea S02662 identică (16-001004 și 2 transporturi 16-003003), cu eticheta și CMR-ul pentru ridicare trimise imediat"
+      },
+      {
+        "conv": "c2111492",
+        "src": "m2149348",
+        "citat": "Va trimitem anexat procesul verbal de service si avizul pentru rasina.",
+        "pentru": "ofertă",
+        "nota": "PV de service și aviz pentru rășină după schimb"
+      },
+      {
+        "conv": "c2127492",
+        "src": "m2127492",
+        "citat": "Rog confirmare , buteliile sunt pregatite .",
+        "pentru": "cerere",
+        "nota": "a treia comandă directă, buteliile pregătite de ridicare"
+      },
+      {
+        "conv": "c2127492",
+        "src": "m2162340",
+        "citat": "Asteptam sa ne trimiteti OK-ul pentru preluarea paletului cu buteliile uzate.",
+        "pentru": "ofertă",
+        "nota": "confirmarea S02897 identică, cu preluarea paletului de butelii uzate"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R16-03",
+    "titlu": "Revizie sau schimbare membrane la osmoză, cu membranele clientului: AKRO precizează lucrarea și ofertează doar deplasare și manoperă",
+    "explicatie": "Când clientul cere revizia sau „schimbarea filtrelor” la o instalație de osmoză, care curăță apa prin membrane, și are deja membranele noi pe stoc, AKRO întreabă întâi dacă e vorba strict de înlocuirea membranelor. Mai cere numărul de membrane și poze cu capetele vaselor de presiune, ca să vadă cum arată etanșările. Oferta cuprinde doar deplasarea și manopera, fără membrane, iar după comandă intervenția se programează cât mai repede.",
+    "categorie": "16-Prestari servicii",
+    "cand": "Clientul cere revizia sau „schimbarea filtrelor” la o instalație de osmoză (eventual ca „mentenanță anuală”) și are membranele de schimb pe stoc.",
+    "clarificari": [
+      "Se dorește strict înlocuirea membranelor la instalația de osmoză?",
+      "Câte membrane 4040 are instalația?",
+      "Fotografii cu capetele actuale ale vaselor de presiune (cum arată etanșările)"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "16-002001",
+          "rol": "linia de serviciu (în nomenclator: deplasare la beneficiar, o persoană și diurnă) cu denumirea din ofertă: deplasare, manoperă de înlocuire a 11 membrane 4040 și reglare, fără membrane"
+        }
+      ],
+      "servicii": [
+        "manoperă de înlocuire a membranelor furnizate de client"
+      ],
+      "documente": [],
+      "conditii": [
+        "programare cât mai repede după comandă (AKRO încearcă săptămâna următoare. Intervenția s-a făcut la 6 zile de la comanda fermă)",
+        "plată la 30 de zile"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2098916",
+        "src": "m2098916",
+        "citat": "Solicitam interventie pentru revizia acestora / schimbarea filtrelor de osmoza.",
+        "pentru": "cerere",
+        "nota": "cererea: revizie / schimbare filtre la osmoză"
+      },
+      {
+        "conv": "c2098916",
+        "src": "m2098916",
+        "citat": "Avem si elementrul filtrant pe stoc 11 buc",
+        "pentru": "cerere",
+        "nota": "membranele sunt pe stocul clientului"
+      },
+      {
+        "conv": "c2098916",
+        "src": "m2136228",
+        "citat": "Cate membrane osmotice 4040 primeste instalatia in cauza?",
+        "pentru": "clarificare",
+        "nota": "AKRO întreabă numărul de membrane"
+      },
+      {
+        "conv": "c2098916",
+        "src": "m2136228",
+        "citat": "Ati putea sa ne trimiteti cateva fotografii cu capatul actual a vaselor de presiune",
+        "pentru": "clarificare",
+        "nota": "AKRO cere poze cu capetele vaselor de presiune"
+      },
+      {
+        "conv": "c2098916",
+        "src": "m2138180",
+        "citat": "Va trimitem anexata cotatia de pret pentru manopera de inlocuire a membranelor osmotice.",
+        "pentru": "ofertă",
+        "nota": "ofertă S02555: doar manopera (linia 16-002001), fără membrane"
+      },
+      {
+        "conv": "c2139428",
+        "src": "m2143268",
+        "citat": "inlocuire membrane osmotice – la instalatia de osmoza -11 membrane 4040",
+        "pentru": "ofertă",
+        "nota": "comanda fermă pe aceeași ofertă S02555 de manoperă. Intervenția s-a făcut la 6 zile de la comandă"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R16-04",
+    "titlu": "Înlocuire masă filtrantă sau rășină la o stație existentă: materialele pe linii cu cod și o linie de manoperă",
+    "explicatie": "Se aplică la cererea de a schimba rășina sau masa filtrantă, adică nisipul și granulele din interior, într-o stație de dedurizare ori într-un filtru existent. AKRO pune fiecare material pe linia lui cu cod, plus o linie de manoperă, uneori împreună cu deplasarea. Dacă nu cunoaște vana, adică capul de comandă al stației, ofertează doar masa filtrantă și manopera. Au fost și excepții: într-o variantă propusă de AKRO masa și manopera au stat pe o singură linie, iar pentru filtrele mari ale unei uzine de apă AKRO a vândut doar nisipul.",
+    "categorie": "16-Prestari servicii",
+    "cand": "Clientul cere înlocuirea rășinii sau a masei filtrante (nisip, rășină, eventual crepine) într-o stație de dedurizare sau într-un filtru existent.",
+    "clarificari": [
+      "Dacă vana stației nu e cunoscută, AKRO limitează oferta la masa filtrantă și manoperă (vezi regula RG-28)"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "14-002033",
+          "rol": "nisip cuarțos 2-4 mm pentru stratul suport"
+        },
+        {
+          "ref": "14-002100",
+          "rol": "rășină de dedurizare PURE RESIN PC003"
+        },
+        {
+          "ref": "16-001004",
+          "rol": "linia de manoperă (în nomenclator: manoperă pentru montaj hidraulic), cu denumirea din ofertă «Manoperă de înlocuire rășină»"
+        },
+        {
+          "ref": "16-002001",
+          "rol": "variantă: linia de deplasare (în nomenclator: deplasare la beneficiar, o persoană și diurnă) extinsă cu transportul echipamentelor și înlocuirea masei filtrante și a componentelor"
+        },
+        {
+          "ref": "14-005055",
+          "rol": "distribuitor superior, când se cer și crepinele"
+        },
+        {
+          "ref": "14-005071",
+          "rol": "distribuitor inferior, când se cer și crepinele"
+        }
+      ],
+      "servicii": [
+        "golirea și reîncărcarea stației cu masă nouă",
+        "deplasare la beneficiar"
+      ],
+      "documente": [],
+      "conditii": [
+        "într-un caz (conversația 216) intervenția a fost anunțată la aproximativ 2-4 săptămâni de la finalizarea comenzii"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2144740",
+        "src": "m2144740",
+        "citat": "Doresc o ofertă pentru extragerea rasinii, încărcare rășină cationica noua,înlocuire strat pietriș cuartos",
+        "pentru": "cerere",
+        "nota": "cerere de înlocuire de rășină și strat de pietriș"
+      },
+      {
+        "conv": "c2144740",
+        "src": "m2144740",
+        "citat": "Manopera de golire + reincarcare cu rasina noua.",
+        "pentru": "ofertă",
+        "nota": "ofertă S02630: nisip 14-002033, rășină 14-002100 și manoperă 16-001004. Piese de vană nu, fiindcă AKRO nu cunoaște vana Lamborghini"
+      },
+      {
+        "conv": "c2109604",
+        "src": "m2109604",
+        "citat": "transmite o ofertă pentru înlocuirea rășinii schimbătoare de ioni și a crepinelor",
+        "pentru": "cerere",
+        "nota": "cerere de înlocuire rășină și crepine la stație duplex"
+      },
+      {
+        "conv": "c2109604",
+        "src": "m2146116",
+        "citat": "Va raspund anexat cu oferta de pret [ pentru crepine+nisip+manopera de schimb]",
+        "pentru": "ofertă",
+        "nota": "ofertă S02640: distribuitoare 14-005055 și 14-005071, nisip 14-002033 și linia 16-002001. Rășina separat (vezi regula R16-05)"
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "Când înlocuirea masei a fost o variantă propusă de AKRO pentru un filtru vechi (conversația 103), masa filtrantă și manopera au stat pe o singură linie 16-001004, fără linii cu cod pentru materiale.",
+        "dovezi": [
+          {
+            "conv": "c2138084",
+            "src": "m2138116",
+            "citat": "pentru furnizarea masei filtrante si pentru manopera de inlocuire [ doar masa]",
+            "pentru": "ofertă",
+            "nota": "ofertă S02551, una din cele trei variante propuse de AKRO pentru un filtru vechi: masa filtrantă și manopera pe o singură linie 16-001004, fără coduri de material"
+          }
+        ]
+      },
+      {
+        "text": "Pentru filtrele rapide atmosferice ale unei uzine de apă (conversația 82), AKRO a ofertat doar nisipul, fără serviciul de schimb, și a scris că înlocuirea nisipului nu cere o procedură specială.",
+        "dovezi": [
+          {
+            "conv": "c2136932",
+            "src": "m2136932",
+            "citat": "Din pacate pentru serviciul de schimb al masei, nu va putem prezenta o propunere de cost",
+            "pentru": "clarificare",
+            "nota": "AKRO refuză serviciul de schimb al nisipului și ofertează doar 37 de tone de nisip"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R16-05",
+    "titlu": "Rășină cu capacitate mai mare la reîncărcare: AKRO propune mai multe variante în text, cu fișe tehnice, iar clientul alege",
+    "explicatie": "Dacă la reîncărcare clientul vrea o rășină care reține mai mult decât cea din stație (cu capacitate de schimb ionic mai mare), AKRO îi propune în email mai multe tipuri. Fiecare variantă vine cu fișa tehnică și cu termenul de livrare. Clientul alege, iar AKRO actualizează apoi oferta. Dacă întreabă ce rășină are acum stația, AKRO îi răspunde din istoricul livrărilor.",
+    "categorie": "16-Prestari servicii",
+    "cand": "La o cerere de înlocuire a rășinii, clientul cere un tip de rășină cu capacitate de schimb ionic mai mare decât cea existentă.",
+    "clarificari": [
+      "Clientul alege tipul de rășină dintre variantele propuse, apoi AKRO actualizează oferta",
+      "Clientul poate întreba ce rășină are acum stația (AKRO răspunde din istoricul livrărilor)"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "14-002100",
+          "rol": "varianta PURE RESIN PC003 (cu care AKRO lucrează des), propusă în textul emailului"
+        },
+        {
+          "ref": null,
+          "nume": "Rasina Brightion SFC 90",
+          "rol": "variantă propusă în e-mail"
+        },
+        {
+          "ref": null,
+          "nume": "Rasina Lewatit S1567",
+          "rol": "variantă propusă în e-mail"
+        },
+        {
+          "ref": null,
+          "nume": "Rasina DOWEX HCRS",
+          "rol": "variantă propusă în e-mail"
+        }
+      ],
+      "servicii": [
+        "rășina cu livrare inclusă, cu termen de livrare scris pentru fiecare variantă"
+      ],
+      "documente": [
+        "fișele tehnice ale fiecărei variante de rășină"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2109604",
+        "src": "m2109604",
+        "citat": "Vă rog să ne recomandați o rășină cu o capacitate de schimb ionic mai ridicată",
+        "pentru": "cerere",
+        "nota": "clientul cere altă rășină, cu capacitate mai mare"
+      },
+      {
+        "conv": "c2109604",
+        "src": "m2146116",
+        "citat": "Las anexate si fisele tehnice de la fiecare.",
+        "pentru": "ofertă",
+        "nota": "patru variante de rășină în text, cu fișele tehnice"
+      },
+      {
+        "conv": "c2109604",
+        "src": "m2146116",
+        "citat": "Astept tipul de rasina ales – pentur a actualiza oferta.",
+        "pentru": "clarificare",
+        "nota": "alegerea rămâne la client, oferta se actualizează după alegere"
+      },
+      {
+        "conv": "c2109604",
+        "src": "m2110020",
+        "citat": "Ne puteti zice ce rasina avem acum in statie?",
+        "pentru": "clarificare",
+        "nota": "clientul întreabă ce rășină are acum"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R16-07",
+    "titlu": "Revizie periodică la echipamente deja deservite: deplasare cu cantitatea după distanță, cartușul 01-010136 la osmoză și manoperă de mentenanță pe fiecare echipament",
+    "explicatie": "Se aplică la reviziile periodice cerute de un constructor pentru stațiile de dedurizare și osmoză pe care AKRO le-a mai revizuit. AKRO trimite confirmarea cu deplasarea, a cărei cantitate crește cu distanța, cartușul de 5 microni de la osmoză și manopera de mentenanță pentru fiecare echipament sau locație. Când la ultima revizie nu au fost probleme, cartușul e singurul consumabil. Plata se face în avans, iar data se confirmă la telefon cu una-două săptămâni înainte. Membranele sau rășina epuizate se notează în procesul verbal și se ofertează separat.",
+    "categorie": "16-Prestari servicii",
+    "cand": "Clientul (un constructor care programează reviziile la clădirile lui) cere revizia periodică la stații de dedurizare sau osmoză pe care AKRO le-a mai revizuit și întreabă de disponibilitate și consumabile.",
+    "clarificari": [
+      "Informații sau fotografii despre echipamente, dacă nu sunt cunoscute (vezi regula RG-28)"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "16-002001",
+          "rol": "deplasare la beneficiar, o persoană și diurnă, cu cantitatea după distanță: 50 pentru Brașov, 600 pentru Iași"
+        },
+        {
+          "ref": "01-010136",
+          "rol": "cartușul de 5 microni, 20\" Big Blue, de la stația de osmoză (singurul consumabil când ultima revizie nu a semnalat probleme)"
+        },
+        {
+          "ref": "16-001011",
+          "rol": "linia de mentenanță (în nomenclator: constatare și analiză tehnică) pentru o stație de dedurizare, câte una pe locație"
+        },
+        {
+          "ref": "16-001010",
+          "rol": "linia de mentenanță (în nomenclator: manoperă pentru service și PIF) pentru o stație cu filtru de cărbune și dedurizare"
+        },
+        {
+          "ref": null,
+          "nume": "Mentenanta - filtru cu tank 10 x 44 , 2 x statii dedurizare Twin + statie de osmoza Aquatech 6 membrane - 4040.",
+          "rol": "linia de mentenanță pentru tot setul de echipamente"
+        }
+      ],
+      "servicii": [
+        "dacă la revizie membranele sau rășina sunt epuizate, se notează în PV și se ofertează separat (vezi regula R16-08)"
+      ],
+      "documente": [
+        "confirmare de comandă și factură proformă / de avans"
+      ],
+      "conditii": [
+        "plată 100% în avans, pe factură proformă sau de avans",
+        "programarea se confirmă telefonic cu 1-2 săptămâni înainte (conversația 378) sau se face în maximum 14 zile de la confirmarea plății (conversația 142)"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2103940",
+        "src": "m2103940",
+        "citat": "revizia pentru 2 statii dedurizare si 1 statie de osmoza, la proiectul Fuerda Brasov.",
+        "pentru": "cerere",
+        "nota": "cerere de programare a reviziei"
+      },
+      {
+        "conv": "c2103940",
+        "src": "m2140324",
+        "citat": "Anexata confirmarea [cu inlocuirea cartusului de la statia de osmoza] si a facturii proforme.",
+        "pentru": "ofertă",
+        "nota": "S01922: deplasare 16-002001 pe kilometru, cartuș 01-010136 și linia de mentenanță"
+      },
+      {
+        "conv": "c2117252",
+        "src": "m2117252",
+        "citat": "Imi puteti spune daca aveti disponibilitate si de asemenea, valoarea consumabilelor necesare pentru aceasta revizie?",
+        "pentru": "cerere",
+        "nota": "cerere de revizie cu întrebare despre consumabile"
+      },
+      {
+        "conv": "c2117252",
+        "src": "m2153892",
+        "citat": "singurul consumabil este cartusul de la statia de osmoza - cod 01-010136",
+        "pentru": "ofertă",
+        "nota": "S02746: cartuș 01-010136, deplasare cu cantitatea 600 și linii 16-001011 și 16-001010 pe fiecare locație. La ultima revizie nu au fost probleme"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R16-08",
+    "titlu": "Piese defecte sau masă epuizată găsite la verificare: se notează în PV și se emite ofertă nouă de materiale și manoperă",
+    "explicatie": "Când tehnicianul găsește la verificare piese defecte, membrane care nu mai funcționează sau masă filtrantă epuizată, înlocuirea nu se face în aceeași intervenție. Constatările intră în procesul verbal de service, apoi AKRO trimite o ofertă nouă pentru materiale și manopera de schimb. AKRO anunță acest lucru încă din oferta sau confirmarea de verificare. Într-un caz materialele au fost promise în două-trei săptămâni, iar înlocuirea în cel mult zece zile de la livrare.",
+    "categorie": "16-Prestari servicii",
+    "cand": "La o intervenție de verificare sau mentenanță se constată piese defecte, membrane nefuncționale sau masă filtrantă ori rășină epuizată.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "14-002008",
+          "rol": "masa filtrantă Turbidex pentru filtrele existente"
+        },
+        {
+          "ref": "14-002033",
+          "rol": "nisip cuarțos 2-4 mm pentru stratul suport"
+        },
+        {
+          "ref": "23-001219",
+          "rol": "contorul cu impulsuri de schimb"
+        },
+        {
+          "ref": "16-001015",
+          "rol": "linia de serviciu (în nomenclator: materiale pentru montaj) cu denumirea din ofertă: livrare materiale, înlocuire masă filtrantă și contor, reparametrizare, PIF"
+        }
+      ],
+      "servicii": [
+        "intervenția de verificare rămâne separată. Înlocuirea se programează ulterior"
+      ],
+      "documente": [
+        "proces verbal de service cu constatările",
+        "ofertă nouă pentru piese sau materiale și manopera de schimb"
+      ],
+      "conditii": [
+        "într-un caz: livrarea materialelor în 2-3 săptămâni, intervenția de înlocuire în maximum 10 zile de la livrare"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2103940",
+        "src": "m2140324",
+        "citat": "acestea se vor nota in procesul verbal de service si se va emite o alta oferta cu materialele necesare",
+        "pentru": "ofertă",
+        "nota": "în confirmarea reviziei: membranele sau rășina epuizate se notează în PV și se ofertează separat"
+      },
+      {
+        "conv": "c2151492",
+        "src": "m2151588",
+        "citat": "In cazul in care se vor gasi echipamente/piese care trebuiesc inlocuite, acestea se vor nota in procesul verbal de service",
+        "pentru": "ofertă",
+        "nota": "aceeași regulă anunțată în oferta de verificare"
+      },
+      {
+        "conv": "c2151492",
+        "src": "m2157732",
+        "citat": "Va trimit anexata cotatia de pret pentru materialele necesare pentru inlocuirea in cele doua filtre 24x72",
+        "pentru": "ofertă",
+        "nota": "după PV: ofertă S02814 cu Turbidex, nisip, contor și linia 16-001015"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R16-09",
+    "titlu": "„Repunere în funcțiune” a unui filtru vechi, cerere neclară: AKRO întreabă ce lucrare se vrea și trimite trei variante",
+    "explicatie": "Când clientul cere „repunerea în funcțiune” a unui filtru multistrat vechi, cu straturi de pietriș, nisip și antracit, fără să spună ce lucrare vrea, AKRO întreabă ce anume să oferteze. Întreabă și de cât timp stă filtrul oprit, pentru că masa se poate schimba doar dacă nu s-a întărit în bloc. Propune un filtru nou cu vană Clack, fiindcă producția unor vane Siata s-a oprit și o vană defectă nu prea s-ar mai putea repara. Apoi trimite deodată trei oferte, de la simpla verificare până la filtrul nou montat.",
+    "categorie": "16-Prestari servicii",
+    "cand": "Clientul cere repunerea în funcțiune a unui filtru multistrat vechi (de exemplu Nobel FCV 18/T, vană Siata) fără să spună ce lucrare dorește.",
+    "clarificari": [
+      "Ce anume să ofertăm? (AKRO explică: dacă filtrul e funcțional ajung câteva spălări inverse, altfel înlocuire de masă filtrantă sau filtru nou)",
+      "De cât timp a stat filtrul nefuncțional (masa se poate înlocui doar dacă nu s-a cimentat)?",
+      "Ar fi de interes un filtru nou Clack în locul celui existent (Pentair a oprit producția unor vane Siata, iar o vană defectă nu prea se mai poate repara)?"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "16-002001",
+          "rol": "varianta 1: linia de deplasare (în nomenclator: deplasare la beneficiar, o persoană și diurnă) pentru verificarea la fața locului"
+        },
+        {
+          "ref": "16-001004",
+          "rol": "varianta 2: linia de serviciu (în nomenclator: manoperă pentru montaj hidraulic) cu masa filtrantă și manopera de înlocuire în filtrul existent"
+        },
+        {
+          "ref": "13-001194",
+          "rol": "varianta 3: filtru nou FMC 400 echivalent, vană Clack"
+        },
+        {
+          "ref": "16-001015",
+          "rol": "varianta 3: linia de serviciu (în nomenclator: materiale pentru montaj) cu deplasare, asamblare și PIF, materiale de montaj PVC, adaptare cu by-pass"
+        }
+      ],
+      "servicii": [
+        "trei oferte separate trimise împreună, la o oră după întrebări, fără să se aștepte răspunsul clientului"
+      ],
+      "documente": [
+        "rețeta de masă filtrantă a producătorului, scrisă în e-mail"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2138084",
+        "src": "m2138084",
+        "citat": "Nu imi este foarte clar, ce doriti sa va ofertam?",
+        "pentru": "clarificare",
+        "nota": "AKRO cere precizarea lucrării"
+      },
+      {
+        "conv": "c2138084",
+        "src": "m2138084",
+        "citat": "De cat timp a stat nefunctional filtrul in cauza?",
+        "pentru": "clarificare",
+        "nota": "durata opririi decide dacă masa se mai poate schimba"
+      },
+      {
+        "conv": "c2138084",
+        "src": "m2138084",
+        "citat": "Oare ar fi de interes sa ofertam un filtru nou clack in locul celui existent?",
+        "pentru": "clarificare",
+        "nota": "AKRO propune un filtru nou"
+      },
+      {
+        "conv": "c2138084",
+        "src": "m2138116",
+        "citat": "Pentru furnizarea unui filtru nou complet echivalent celui existent",
+        "pentru": "ofertă",
+        "nota": "fără răspuns de la client, AKRO trimite trei oferte: verificare S02550, masă S02551, filtru nou FMC 400 cu PIF S02553"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R16-10",
+    "titlu": "Stație de clorinare oprită sau de verificat: AKRO cere descrierea defectului și poze cu panoul, apoi ofertează deplasare de constatare",
+    "explicatie": "Când clientul spune că stația de clorinare, care dozează clorul, s-a oprit sau are o problemă, AKRO cere o descriere a defectului și poze cu sistemul și cu ce afișează panoul. Uneori întreabă dacă problema e chiar acum și cere un telefon de contact. Apoi ofertează o deplasare de constatare și repornire. La o unitate militară, unde nu se pot face poze, oferta a plecat fără ele. Au fost și excepții: la o verificare fără defect descris, AKRO a întrebat doar de unde e sistemul și a cerut o poză.",
+    "categorie": "16-Prestari servicii",
+    "cand": "Clientul semnalează o stație de clorinare oprită sau defectă ori cere verificarea ei.",
+    "clarificari": [
+      "Ce este în neregulă cu sistemul (descriere)?",
+      "Fotografii cu sistemul actual și cu ce afișează panoul",
+      "Întâmpinați probleme cu sistemul în acest moment?",
+      "Un număr de contact pentru intervenție"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "16-002001",
+          "rol": "linia de serviciu (în nomenclator: deplasare la beneficiar, o persoană și diurnă) cu denumirea din ofertă: deplasare, verificare instalație de clorinare (și filtre), constatare, repunere în funcțiune"
+        }
+      ],
+      "servicii": [
+        "verificare etanșeități și setări, curățare pompă dozatoare, verificarea spălărilor la filtre, reglaje"
+      ],
+      "documente": [
+        "proces verbal de service"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2111396",
+        "src": "m2147812",
+        "citat": "va rog sa trimiteti inclusiv poze cu sistemul actual",
+        "pentru": "clarificare",
+        "nota": "AKRO cere descrierea defectului și poze cu sistemul și cu ce afișează panoul înainte de propunere"
+      },
+      {
+        "conv": "c2111396",
+        "src": "m2148644",
+        "citat": "Va trimitem anexata propunerea noastra pentru deplasarea la locatie , verificare si repornirea statiei de clorinare.",
+        "pentru": "ofertă",
+        "nota": "clientul nu poate trimite poze (unitate militară): AKRO trimite oferta de deplasare și constatare S02667"
+      },
+      {
+        "conv": "c2151492",
+        "src": "m2151588",
+        "citat": "Verificare setari, curatare pompa dozatoare",
+        "pentru": "ofertă",
+        "nota": "operațiile incluse în verificarea stației de clorinare (oferta S02707)"
+      },
+      {
+        "conv": "c2134788",
+        "src": "m2134788",
+        "citat": "Ati putea sa ne transmiteti daca la acest moment intampinati probleme cu sistemul.",
+        "pentru": "clarificare",
+        "nota": "AKRO întreabă dacă sistemul are probleme acum (verificare cerută de o primărie)"
+      },
+      {
+        "conv": "c2134788",
+        "src": "m2134788",
+        "citat": "Va rog sa ne transmiteti un numar de contact !",
+        "pentru": "clarificare",
+        "nota": "AKRO cere persoana de contact pentru intervenție"
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "La o cerere de verificare a clorinării fără defect descris (conversația 331), AKRO nu a cerut descrierea defectului și nici poze cu panoul: a întrebat dacă sistemul a fost cumpărat prin altă firmă și a cerut o fotografie, ca să vadă dacă poate interveni.",
+        "dovezi": [
+          {
+            "conv": "c2151492",
+            "src": "m2151492",
+            "citat": "Ati putea sa ne transmiteti daca sistemul a fost achizitionat de la AKRO prin intermediul unei terte parti?",
+            "pentru": "clarificare",
+            "nota": "clientul nu e în baza de date AKRO. AKRO întreabă de proveniența sistemului și cere fotografia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R16-11",
+    "titlu": "Programarea intervenției: în ofertă, termen de 1-2 săptămâni de la comanda fermă sau de la plată. După comandă, data și tehnicianul delegat",
+    "explicatie": "După o ofertă de service, AKRO scrie de obicei că intervenția se poate programa în una-două săptămâni de la comanda fermă sau de la plata facturii proforme, adică factura de avans. O lucrare cu materiale de adus a primit un termen de două-patru săptămâni. Când data e stabilită, AKRO o comunică împreună cu numele și telefonul tehnicianului. Au fost și excepții: unor clienți intervenția li s-a făcut în una-trei zile de la comandă sau plată, la cerere de urgentare sau după o discuție la telefon.",
+    "categorie": "16-Prestari servicii",
+    "cand": "Clientul acceptă o ofertă de service sau cere data intervenției.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [],
+      "servicii": [
+        "AKRO comunică data intervenției și tehnicianul de service delegat, cu nume și telefon"
+      ],
+      "documente": [],
+      "conditii": [
+        "termenul scris în ofertă: 7-14 zile (1-2 săptămâni) sau 7-10 zile de la comanda fermă ori de la confirmarea plății proformei",
+        "o lucrare cu materiale de aprovizionat: aproximativ 2-4 săptămâni de la comandă (conversația 216)"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2111396",
+        "src": "m2148644",
+        "citat": "putem programa interventia in maxim 7-14 zile din momentul in care primim confirmarea de plata.",
+        "pentru": "ofertă",
+        "nota": "termen 7-14 zile de la plată, menținut și când clientul cere urgent. Plata pe 19.08, intervenția pe 26.08"
+      },
+      {
+        "conv": "c2117380",
+        "src": "m2154244",
+        "citat": "In principiu interventia se poate programa in termen de 1-2 saptamani de la comanda dumneavoastra ferma.",
+        "pentru": "ofertă",
+        "nota": "termen 1-2 săptămâni de la comanda fermă. Comanda pe 04.09, intervenția pe 15.09"
+      },
+      {
+        "conv": "c2119652",
+        "src": "m2156164",
+        "citat": "In principiu putem programa interventia in 7-10 zile din momentul in care ne trimiteti comanda ferma.",
+        "pentru": "ofertă",
+        "nota": "termen 7-10 zile de la comanda fermă (intervenția s-a făcut mai repede, vezi contradicția)"
+      },
+      {
+        "conv": "c2103940",
+        "src": "m2140324",
+        "citat": "Putem programa deplasarea pentru mentenanta, in termen de maxim 14 zile de la transmiterea confirmarii de plata.",
+        "pentru": "ofertă",
+        "nota": "termen de maximum 14 zile de la confirmarea plății (intervenția s-a făcut a doua zi, vezi contradicția)"
+      },
+      {
+        "conv": "c2144740",
+        "src": "m2144740",
+        "citat": "Interventia se poate programa in termen de aproximativ 2-4 saptamani din momentul in care s-a finalizat procedura de comanda.",
+        "pentru": "ofertă",
+        "nota": "lucrare cu materiale: aproximativ 2-4 săptămâni"
+      },
+      {
+        "conv": "c2139428",
+        "src": "m2140676",
+        "citat": "Am programat interventia de inlocuire a membranelor osmotice pentru data de LUNI 27.07.2026 .",
+        "pentru": "ofertă",
+        "nota": "data și tehnicianul delegat comunicate a doua zi după comandă. Intervenția la 6 zile de la comandă"
+      },
+      {
+        "conv": "c2151492",
+        "src": "m2155268",
+        "citat": "a fost programata pentru data de 10.09.2026",
+        "pentru": "ofertă",
+        "nota": "comanda din SICAP pe 01.09, intervenția pe 10.09, cu tehnicianul delegat comunicat"
+      },
+      {
+        "conv": "c2111396",
+        "src": "m2148356",
+        "citat": "Din pacate mai repede de 1-2 saptamani nu putem interveni.",
+        "pentru": "clarificare",
+        "nota": "la cererea de urgență AKRO păstrează termenul"
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "La unii clienți AKRO a făcut intervenția în una-trei zile, nu în termenul scris în ofertă: a doua zi după cererea de urgentare (conversația 428), lunea următoare confirmării stabilite la telefon (conversația 575) și a doua zi după plată, deși oferta spunea maximum 14 zile (conversația 142).",
+        "dovezi": [
+          {
+            "conv": "c2119652",
+            "src": "m2156420",
+            "citat": "Va informam ca am reusit sa programam interventia de mentenanta pentru data de 10.09.2026",
+            "pentru": "ofertă",
+            "nota": "clientul cere urgentare pe 09.09, intervenția se face pe 10.09"
+          },
+          {
+            "conv": "c2128036",
+            "src": "m2162788",
+            "citat": "Am programat interventia pentru luni",
+            "pentru": "ofertă",
+            "nota": "inspecție programată pentru lunea următoare, odată cu confirmarea"
+          },
+          {
+            "conv": "c2103940",
+            "src": "m2141092",
+            "citat": "Va confirm ca maine ajunge colegul meu pentru service.",
+            "pentru": "ofertă",
+            "nota": "plata pe 23.07, intervenția pe 24.07, deși confirmarea anunța maximum 14 zile de la plată"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R16-12",
+    "titlu": "Intervenția de service se încheie cu proces verbal trimis clientului, iar factura vine separat",
+    "explicatie": "După deplasările de service din emailuri, AKRO trimite clientului procesul verbal de service, adică fișa scrisă de tehnician cu ce a găsit și ce a făcut, de multe ori cu un rezumat al constatărilor. Factura nu vine în același mesaj. Colegii o trimit separat, ca răspuns la acel email. Unui client AKRO i-a scris chiar că orice deplasare se încheie cu proces verbal. Au fost și excepții: după o înlocuire de membrane AKRO a anunțat doar că lucrarea s-a terminat, fără proces verbal atașat.",
+    "categorie": "16-Prestari servicii",
+    "cand": "După o deplasare de service AKRO (verificare, mentenanță, înlocuire masă filtrantă, înlocuire membrane).",
+    "clarificari": [],
+    "oferta": {
+      "produse": [],
+      "servicii": [
+        "email de finalizare, de multe ori cu constatările și recomandările tehnicianului"
+      ],
+      "documente": [
+        "proces verbal de service (formularul 2.0.F23)",
+        "factura fiscală, trimisă separat, de obicei ca răspuns la emailul cu procesul verbal"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2111396",
+        "src": "m2148676",
+        "citat": "Ca si informatie , orice deplasare executata de AKRO se incheie cu un process verbal de service!",
+        "pentru": "ofertă",
+        "nota": "AKRO formulează regula explicit"
+      },
+      {
+        "conv": "c2103940",
+        "src": "m2142564",
+        "citat": "Va trimitem anexat procesul verbal de service pentru interventia de vineri de la FUERDA.",
+        "pentru": "ofertă",
+        "nota": "PV după revizie"
+      },
+      {
+        "conv": "c2151492",
+        "src": "m2157700",
+        "citat": "Colegii mei vor reveni cu un reply la acest e-mail in care vor anexa factura pentru interventia de joi.",
+        "pentru": "ofertă",
+        "nota": "PV trimis, factura separat"
+      },
+      {
+        "conv": "c2117380",
+        "src": "m2159524",
+        "citat": "Va rog sa regasiti anexat procesul verbal de service pentru interventia de marti -15.09.2026.",
+        "pentru": "ofertă",
+        "nota": "PV după intervenție"
+      },
+      {
+        "conv": "c2119652",
+        "src": "m2157508",
+        "citat": "Colegii mei vor reveni cu un reply la acest e-mail in care vor anexa si factura pentru interventie.",
+        "pentru": "ofertă",
+        "nota": "PV cu constatări, factura separat"
+      },
+      {
+        "conv": "c2128036",
+        "src": "m2164388",
+        "citat": "Va trimit anexat, copia scanata a procesului verbal de service pentru interventia de ieri.",
+        "pentru": "ofertă",
+        "nota": "PV după inspecție"
+      },
+      {
+        "conv": "c2111492",
+        "src": "m2149348",
+        "citat": "Va trimitem anexat procesul verbal de service si avizul pentru rasina.",
+        "pentru": "ofertă",
+        "nota": "PV după reîncărcarea buteliilor"
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "După înlocuirea membranelor la osmoză (conversația 131), AKRO a anunțat doar că intervenția s-a încheiat cu succes, fără proces verbal atașat (atașamentul era comanda clientului). Factura a venit separat.",
+        "dovezi": [
+          {
+            "conv": "c2139428",
+            "src": "m2143268",
+            "citat": "Colegii mei vor reveni cu factura pentru interventie.",
+            "pentru": "ofertă",
+            "nota": "emailul de finalizare nu are proces verbal atașat, doar comanda clientului"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R16-14",
+    "titlu": "Acces în incinta clientului: AKRO trimite copia buletinului tehnicianului și numărul mașinii de service",
+    "explicatie": "Unele fabrici și unități militare au nevoie, înainte de intervenție, de datele pentru accesul tehnicianului în incintă. AKRO trimite atunci copia buletinului fiecărui tehnician și numărul de înmatriculare al mașinii de service. O fabrică le-a cerut în scris, iar la unitatea militară AKRO a anunțat singur că le trimite, după o discuție la telefon.",
+    "categorie": "16-Prestari servicii",
+    "cand": "Clientul (fabrică, unitate militară) are nevoie de date pentru accesul tehnicianului în incintă înainte de intervenție, cerute în scris sau stabilite la telefon.",
+    "clarificari": [
+      "Clientul cere seria și numărul cărții de identitate și numărul de înmatriculare al mașinii"
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [
+        "copia cărții de identitate a fiecărui tehnician delegat",
+        "numărul de înmatriculare al mașinii de service"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2117380",
+        "src": "m2120580",
+        "citat": "Va rog sa trimiteti date carte de identitate (serie , nr.)si nr. inmatriculare AUTO pentru a solicita accesul",
+        "pentru": "clarificare",
+        "nota": "clientul cere datele de acces"
+      },
+      {
+        "conv": "c2117380",
+        "src": "m2157060",
+        "citat": "Masina cu care va ajunge in locatie colegul, are numarul de inmatriculare BV-93-ECO",
+        "pentru": "ofertă",
+        "nota": "AKRO trimite numărul mașinii și copia buletinului tehnicianului"
+      },
+      {
+        "conv": "c2151492",
+        "src": "m2163044",
+        "citat": "Va trimitem anexate copii dupa buletinele colegilor de service.",
+        "pentru": "ofertă",
+        "nota": "unitate militară: după o discuție la telefon, AKRO trimite copiile buletinelor și numărul mașinii pentru acces"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R16-15",
+    "titlu": "Lucrare de instalare (pompe și traseu de alimentare la înălțime): AKRO clarifică proiectarea, izolația și utilajele, ofertează separat produsele și execuția",
+    "explicatie": "La o fabrică, lucrarea cerută la stațiile de osmoză cuprindea pompe noi legate în automatizare și un traseu nou de țeavă, la înălțime. În prima ofertă AKRO a pus doar pompele cu PIF-ul, adică pornirea și reglarea lor la client, și a spus că nu face traseul. Mai târziu a ofertat și execuția, prin colaborator, după ce a întrebat de proiectare, izolație, traseu și utilajele pentru lucrul la înălțime. Produsele și execuția au oferte separate, ambele cu plata la 30 de zile și o reducere de 2 la sută.",
+    "categorie": "16-Prestari servicii",
+    "cand": "Clientul trimite o cerere pentru o lucrare de instalare la o stație de osmoză: pompe noi de alimentare, integrare în automatizare și un traseu nou de alimentare la înălțime.",
+    "clarificari": [
+      "Solicitarea e doar pentru execuția traseului sau și pentru proiectare?",
+      "Ce izolație se dorește pe traseu și sunt necesare marcaje?",
+      "Configurația traseului, termenul de începere și cine asigură utilajele pentru lucrul la înălțime",
+      "Clientul poate cere grăbirea execuției și convenția EHS (de securitate și sănătate în muncă) semnată, ca anexă la comandă",
+      "După PIF, AKRO anunță în scris modificările față de comandă (rezervor mai mic, senzori returnați, vase și traseu suplimentar) și că factura se schimbă față de ofertă"
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [
+        "la prima ofertă: doar pompele, cuplajele și senzorii, cu PIF inclus. Execuția traseului refuzată",
+        "ulterior: o ofertă pentru furnizarea produselor și o ofertă separată pentru execuția traseului la înălțime",
+        "montaj prin colaborator, cu coordonator de montaj comunicat"
+      ],
+      "documente": [
+        "convenția EHS a clientului, semnată și ștampilată"
+      ],
+      "conditii": [
+        "la cererea de reducere de 10%: discount general de 2% pe ambele oferte",
+        "produsele se facturează cu scadență la 30 de zile de la livrare, execuția traseului la 30 de zile de la finalizarea lucrărilor"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2140964",
+        "src": "m2140964",
+        "citat": "Imi puteti confirma daca solicitarea vine doar pentru executia traseului sau daca se doreste si parte de proiectare?",
+        "pentru": "clarificare",
+        "nota": "AKRO întreabă dacă se cere și proiectare"
+      },
+      {
+        "conv": "c2140964",
+        "src": "m2140964",
+        "citat": "O izolatie minima este necesara ( gen Armaflex)",
+        "pentru": "clarificare",
+        "nota": "răspunsul clientului despre izolație"
+      },
+      {
+        "conv": "c2140964",
+        "src": "m2140964",
+        "citat": "nu dorim sa ofertam si partea de executie trasee",
+        "pentru": "ofertă",
+        "nota": "la prima ofertă (martie) AKRO pune doar pompele cu PIF și refuză execuția traseului"
+      },
+      {
+        "conv": "c2140964",
+        "src": "m2140964",
+        "citat": "Oferta S01986 – furnizare produse – se va factura cu scadenta de 30 de zile de la livrarea produselor",
+        "pentru": "ofertă",
+        "nota": "produse (S01986) și execuție traseu (S02214) în oferte separate, fiecare cu plata la 30 de zile"
+      },
+      {
+        "conv": "c2140964",
+        "src": "m2140964",
+        "citat": "se va factura cu scadenta de 30 de zile de la finalizarea lucrarilor",
+        "pentru": "ofertă",
+        "nota": "execuția traseului se plătește la 30 de zile de la finalizare"
+      },
+      {
+        "conv": "c2140964",
+        "src": "m2140964",
+        "citat": "S-a acordat un discount general de 2% la ambele oferte",
+        "pentru": "ofertă",
+        "nota": "la cererea de 10% reducere, AKRO acordă 2%"
+      },
+      {
+        "conv": "c2137636",
+        "src": "m2137636",
+        "citat": "as vrea sa verificati daca nu putem realiza mai repede traseul de alimentare.",
+        "pentru": "clarificare",
+        "nota": "clientul cere grăbirea execuției traseului"
+      },
+      {
+        "conv": "c2102468",
+        "src": "m2102468",
+        "citat": "Rog sa ne transmiteti conventia din atasament - anexa la comanda 4501270935/09.06.2026- semnata si stampilata.",
+        "pentru": "clarificare",
+        "nota": "clientul cere convenția EHS semnată pentru lucrare"
+      },
+      {
+        "conv": "c2146820",
+        "src": "m2146820",
+        "citat": "Au existat si cateva modificari la comanda PO4501270935",
+        "pentru": "clarificare",
+        "nota": "după PIF-ul pompelor, AKRO anunță în scris modificările față de comandă și schimbarea facturii"
+      }
+    ],
+    "contradictii": []
+  }
+]

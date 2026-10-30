@@ -1,0 +1,2133 @@
+CATEGORIA 12-Chimicale pentru conditionare si intretinere
+
+####################################################################################################
+RÂND c2134404 (nr. 8) | stare: Completă | categorie: 12-Chimicale pentru conditionare si intretinere | cerere: Antiscalant pentru stație de osmoză
+CERINȚA: Cere colaborare pentru antiscalant pentru o stație de osmoză Vifra Italia. [m2134404] «Mă interesează și pe mine de la dumneavoastră o colaborare pentru Antiscalant»
+CERINȚĂ FINALĂ (aplicație): Stație de osmoză Vifra Italia [m2134404] «Am achiziționat o statie de osmoza de la Vifra Italia»
+FIȘĂ DE SECURITATE (odată cu oferta): AKRO trimite din proprie inițiativă fișa de securitate (EN și RO) pentru GEL ANTISCALANT RO1, împreună cu oferta și fișele tehnice SP0222. [m2134404] «Las anexata si fisa de securitate a produsului nostru.»
+REZULTAT: necunoscut
+PREȚURI Ofertă S02477 v1 (2026-07-01), total 3144.32 RON:
+  [12-002026] ANTISCALANT PENTRU INTRETINEREA INSTALATIILOR DE OSMOZA - GEL ANTISCALANT RO1 - 25KG | 2.0 buc × 1443.67 RON (reducere 10.0%) | referință
+  termen: Modul de livrare: In sarcina Akro
+  termen: Termen de plata: 100% in avans
+
+====================================================================================================
+CONVERSAȚIA c2134404 (nr. 8) | subiect: RE: Cerere oferta Enni Ecologic SRL
+Partener (după adrese): rosiidebuzau.ro Mihail Enache - Rosii de Buzau | grupare nesigură: nu
+OFERTĂ S02477 v1 trimisă 2026-07-01 13:30 în m2134404 (Odoo: Ofertă trimisă): [12-002026] ANTISCALANT PENTRU INTRETINEREA INSTALATIILOR DE OSMOZA - GEL ANTISCALANT RO1 -  x2.0 buc
+
+--- MESAJ m2134404 | 2026-07-01 13:30 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Mihail Enache - Rosii de Buzau <achizitii@rosiidebuzau.ro>
+Cc: office@akro.ro
+Subiect: RE: Cerere oferta Enni Ecologic SRL
+Buna ziua Dl Enache,
+
+Va multumim pentru solicitarea dumneavoastra!
+
+Va trimitem anexata oferta de pret pentru antiscalantul universal GEL RO – pe care il avem disponibil in stoc. Acesta este un antiscalant recomandat pentru inhibarea ionilor metalici si duritate – dozaj 2-5ppm antiscalant/ 1m3 de apa bruta – pe alimentarea osmozei.
+
+Las anexata si fisa de securitate a produsului nostru.
+
+Asteptam cu interes raspunsul dumneavoastra!
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Mihail Enache - Rosii de Buzau achizitii@rosiidebuzau.ro
+Sent: Wednesday, July 1, 2026 12:41 PM
+To: sales@akro.ro
+Subject: Cerere oferta Enni Ecologic SRL
+
+Buna ziua !
+Am achiziționat o statie de osmoza de la Vifra Italia. Mă interesează și pe mine de la dumneavoastră o colaborare pentru Antiscalant Antiscalant.
+
+Va mulțumim anticipat,
+Cu stimă,
+Mihail Enache
+0744322799
+
+Obține BlueMail pentru Mobil
+[ATAȘAMENT: Oferta - S02477 - ENNI Ecologic - 01.07.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: EN_Scheda di sicurezza N_SS 222_CLP_14_GEL ANTISCALANT RO1.pdf | text extras]
+[ATAȘAMENT: SP0222-gel antiscalant ro1_eng.pdf | text extras]
+[ATAȘAMENT: SP0222-GEL ANTISCALANT RO 1-GB.pdf | text extras]
+[ATAȘAMENT: RM_Scheda di sicurezza N_SS 222_CLP_14_GEL ANTISCALANT RO1.pdf | text extras]
+
+####################################################################################################
+RÂND c2135076 (nr. 30) | stare: Completă | categorie: 12-Chimicale pentru conditionare si intretinere | cerere: Antiscalant bidon 25 kg
+CERINȚA: Cere ofertă de preț și disponibilitate pentru agent antiscalant, plus fișa tehnică. [m2135076] «Va rog sa ma ajutati cu o oferta de pret si disponibilitate pentru articolul de mai jos»
+CERINȚĂ FINALĂ (cantitate): 1 bidon de 25 kg [m2098692] «Va confirm comanda pentru un bidon de 25kg.»
+CERINȚĂ FINALĂ (loc livrare): Pro Piping Products, Parcul Industrial Artemis, Sânandrei, Timiș, cu transport inclus [m2098692] «Rog sa includeti si transportul pana la locatia noastra»
+CERINȚĂ FINALĂ (altele): Fișa tehnică a produsului [m2135076] «Va rog deasemenea sa imi trimiteti si fisa tehnica a acestui produs»
+CLARIFICARE: întrebare La confirmarea comenzii, clientul cere includerea transportului și o estimare de livrare. [m2098692] «Va rog confirmare si o estimare de livrare precum si alte mentiuni» → răspuns AKRO trimite confirmarea și proforma, iar după plată livrează prin Pallex. [m2099236] «Am facut comanda la Pallex in vederea livrarii produsului catre dumneavoastra, la adresa mentionata.» | schimbare: Transport inclus până la sediul clientului din Sânandrei, prin Pallex, după plata proformei.
+FIȘĂ DE SECURITATE (odată cu oferta): Clientul cere doar fișa tehnică; AKRO trimite și fișa de securitate (EN și RO) pentru GEL ANTISCALANT RO1, împreună cu oferta și fișele tehnice SP0222. [m2135076] «Las anexata si fisa de securitate a produsului nostru.»
+REZULTAT: acceptată — Clientul confirmă comanda pentru un bidon de 25 kg, plătește și confirmă livrarea. [m2098692] «Va confirm comanda pentru un bidon de 25kg.»
+PREȚURI Ofertă S02487 v1 (2026-07-03), total 333.13 EUR:
+  [12-002026] ANTISCALANT PENTRU INTRETINEREA INSTALATIILOR DE OSMOZA - GEL ANTISCALANT RO1 - 25KG | 1.0 buc × 275.31 EUR | referință
+  termen: Modul de livrare: In sarcina Akro
+  termen: Termen de plata: 100% in avans
+PREȚURI Confirmare de comandă S02487 v1 (2026-07-03), total 1746.57 RON:
+  [12-002026] ANTISCALANT PENTRU INTRETINEREA INSTALATIILOR DE OSMOZA - GEL ANTISCALANT RO1 - 25KG | 1.0 buc × 1443.45 RON | referință
+  termen: Modul de livrare: In sarcina Akro
+  termen: Termen de plata: 100% in avans
+
+====================================================================================================
+CONVERSAȚIA c2135076 (nr. 30) | subiect: RE: Necesar Oferta de Pret Antiscalant Bidon 25kg
+Partener (după adrese): propipingproducts.com Cristian Martinescu, Daniela Cozorici | grupare nesigură: nu
+OFERTĂ S02487 v1 trimisă 2026-07-03 09:10 în m2135076 (Odoo: Comandă de vânzare): [12-002026] ANTISCALANT PENTRU INTRETINEREA INSTALATIILOR DE OSMOZA - GEL ANTISCALANT RO1 -  x1.0 buc
+OFERTĂ S02487 v1 trimisă 2026-07-03 16:33 în m2135428 (Odoo: Comandă de vânzare): [12-002026] ANTISCALANT PENTRU INTRETINEREA INSTALATIILOR DE OSMOZA - GEL ANTISCALANT RO1 -  x1.0 buc
+
+--- MESAJ m2135076 | 2026-07-03 09:10 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Cristian Martinescu <cristian.martinescu@propipingproducts.com>
+Cc: daniela.cozorici@propipingproducts.com, office@akro.ro
+Subiect: RE: Necesar Oferta de Pret Antiscalant Bidon 25kg
+Buna ziua Dl Martinescu,
+
+Va multumim pentru solicitarea dumneavoastra!
+
+Va trimitem anexata oferta de pret pentru antiscalantul universal GEL RO – pe care il avem disponibil in stoc. Acesta este un antiscalant recomandat pentru inhibarea ionilor metalici si duritate – dozaj 2-5ppm antiscalant/ 1m3 de apa bruta – pe alimentarea osmozei.
+
+Las anexata si fisa de securitate a produsului nostru.
+
+La comanda a minim 2 bidoane – se acorda si un discount general de 8 % .
+
+Asteptam cu interes raspunsul dumneavoastra!
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Cristian Martinescu <cristian.martinescu@propipingproducts.com>
+Sent: Friday, July 3, 2026 8:36 AM
+To: sales@akro.ro
+Cc: Daniela Cozorici <Daniela.cozorici@propipingproducts.com>
+Subject: Necesar Oferta de Pret Antiscalant Bidon 25kg
+
+Buna dimineata,
+
+Va rog sa ma ajutati cu o oferta de pret si disponibilitate pentru articolul de mai jos
+
+Agent antiscalant
+
+Va rog deasemenea sa imi trimiteti si fisa tehnica a acestui produs
+
+Multumesc!
+
+Cristian Martinescu
+
+Responsabil Logistic
+
+• M: +40 787 404 176
+cristian.martinescu@propipingproducts.com
+
+Pro Piping Products srl | RO46044803 | Artemis Industrial Park, DN 69 Km 10+510, Sânandrei, Timiș| Romania |www.propipingproducts.com
+[ATAȘAMENT: Oferta - S02487 - PRO PIPRING PRODUCTS - 03.07.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: EN_Scheda di sicurezza N_SS 222_CLP_14_GEL ANTISCALANT RO1.pdf | text extras]
+[ATAȘAMENT: SP0222-gel antiscalant ro1_eng.pdf | text extras]
+[ATAȘAMENT: SP0222-GEL ANTISCALANT RO 1-GB.pdf | text extras]
+[ATAȘAMENT: RM_Scheda di sicurezza N_SS 222_CLP_14_GEL ANTISCALANT RO1.pdf | text extras]
+
+--- MESAJ m2098692 | 2026-07-03 16:06 | Inbox | EXTERN
+De la: Cristian Martinescu <cristian.martinescu@propipingproducts.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: daniela.cozorici@propipingproducts.com, office@akro.ro
+Subiect: RE: Necesar Oferta de Pret Antiscalant Bidon 25kg
+Buna ziua,
+
+Va confirm comanda pentru un bidon de 25kg.Las atasat formularul de comanda
+
+Rog sa includeti si transportul pana la locatia noastra:
+
+Pro Piping Products SRL
+
+Parcul Industrial Artemis, Calea Aradului DN69
+
+307375 Sanandrei Timis
+
+CUI:RO46044803
+
+Va rog confirmare si o estimare de livrare precum si alte mentiuni
+
+Multumesc!
+
+Cristian Martinescu
+
+Responsabil Logistic
+
+•
+M: +40 787 404 176
+
+cristian.martinescu@propipingproducts.com
+
+<![if !vml]><![endif]>
+
+Pro Piping Products srl
+|
+RO46044803 |
+Artemis Industrial Park, DN 69 Km 10+510, Sânandrei, Timiș|
+Romania |www.propipingproducts.com
+[ATAȘAMENT: PO-20260703-CM.pdf | text extras]
+Purchase Order
+Doc. Number Date
+PO-20260703-CM 03.07.2026
+
+Supplier: AKRO SRL
+PRO PIPING PRODUCTS SRL address: Str. Zizinului Nr. 110
+Artemis Industrial Park, Aradului Street no. 69 Brașov BV 500407
+Sanandrei Village, Sanandrei Commune, România
+Timis County - ROMANIA VAT: RO14205979
+tel: +40 711 93 94 35
+Contact: Alexandru Soare
+VAT: RO46044803 AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+CUI - 46044803 0728994472
+
+Articol Cantitate Pret/bucata Total
+ANTISCALANT PENTRU INTRETINEREA INSTALATIILOR DE
+1 € 275.31 € 275.31
+OSMOZA - GEL
+ANTISCALANT RO1 - 25KG
+
+Total excl. VAT € 275.31 RON 1,443.45
+
+Shipment conditions: DAP Timisoara VAT 21% € 57.82 RON 303.12
+
+Total € 333.13 RON 1,746.57
+
+1
+
+--- MESAJ m2135428 | 2026-07-03 16:33 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Cristian Martinescu <cristian.martinescu@propipingproducts.com>
+Cc: daniela.cozorici@propipingproducts.com, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Necesar Oferta de Pret Antiscalant Bidon 25kg
+Buna ziua,
+
+Va multumim pentru comanda !
+
+Va rog sa regasiti anexata confirmarea AKRO, si factura proforma de avans.
+
+Produsul se va da la pregatit pentru livrare, va rugam sa ne transmiteti confirmarea de plata pentru a demara procedura de livrare a produsului.
+
+O zi cu spor!
+[ATAȘAMENT: Factură Proforma - PRO PIPING PRODUCTS - 03.07.2026.pdf | text extras]
+[ATAȘAMENT: Comanda - S02487 - PRO PIPING PRODUCTS - 03.07.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2099044 | 2026-07-07 08:35 | Inbox | EXTERN
+De la: Cristian Martinescu <cristian.martinescu@propipingproducts.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: daniela.cozorici@propipingproducts.com, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Necesar Oferta de Pret Antiscalant Bidon 25kg
+Buna dimineata,
+
+Atasat confirmarea de plata.
+
+Asteptam detalii cu privire la livrare
+
+Multumesc!
+
+Cristian Martinescu
+
+Responsabil Logistic
+
+•
+M: +40 787 404 176
+
+cristian.martinescu@propipingproducts.com
+
+<![if !vml]><![endif]>
+
+Pro Piping Products srl
+|
+RO46044803 |
+Artemis Industrial Park, DN 69 Km 10+510, Sânandrei, Timiș|
+Romania |www.propipingproducts.com
+[ATAȘAMENT: Confirmare_Tranzactie_7780_07-07-26.pdf | text extras]
+ING Bank N.V. Amsterdam Sucursala Bucuresti,
+Str. Aviator Popisteanu, nr. 54A, Cladirea nr. 3, sector 1, 012095 Bucuresti, Romania
+RC: J1994016100409, CIF: RO6151100, RIC: RB-PJS-40-024/18.02.1999 Confirmare tranzactie
+Tel: +40 21 222 16 00, Fax: +40 21 222 14 01, www.ing.ro
+BIC code (SWIFT): INGBROBU
+
+Titular cont Beneficiar/Ordonator
+
+Nume PRO PIPING PRODUCTS S.R.L. Nume AKRO SRL
+Numar cont RO36INGB0000999912818619 Numar cont RO98INGB0000999902843963
+CUI 46044803
+Adresa CALEA ARADULUI,NR 69,PARC
+INDUSTRIAL ART EMIS,
+307375 SANANDREI
+
+Detalii tranzactie
+
+Data procesarii Tip tranzactie Suma Valuta
+Referinta bancii Detalii
+
+06.07.2026 Transfer ING Business 1,746.57 RON
+7780 GEL ANTISCALANT - factura S02487
+Referinta bancii 9aa3e7a6-2e46-39d8-add6-9ec8580611b1
+
+Acest document a fost emis printr-un instrument de plata electronica. Informatii despre schema de garantare a depozitelor si tipurile de conturi eligibile sunt disponibile pe
+www.ing.ro/dgs si in locatiile bancii. Valabil fara semnatura si stampila. 1\1
+
+--- MESAJ m2099236 | 2026-07-07 10:39 | Inbox | AKRO
+De la: andrei.dobrei@akro.ro <andrei.dobrei@akro.ro>
+Către: Cristian Martinescu <cristian.martinescu@propipingproducts.com>
+Cc: daniela.cozorici@propipingproducts.com, office@akro.ro, alexandru.soare@akro.ro
+Subiect: RE: Necesar Oferta de Pret Antiscalant Bidon 25kg
+Buna ziua,
+
+Va multumim pentru confirmarea de plata!
+
+Am facut comanda la Pallex in vederea livrarii produsului catre dumneavoastra, la adresa mentionata.
+
+Va rog sa regasiti in atasament, CMR si etichita in vederea ridicarii produsului de la noi.
+
+Cu stima,
+[ATAȘAMENT: PRO PIPING PRODUCTS_07.07.2026.pdf | text extras]
+[ATAȘAMENT: PRO PIPING PRODUCTS_07.07.2026_563399.pdf | text extras]
+
+--- MESAJ m2099940 | 2026-07-09 09:26 | Inbox | EXTERN
+De la: Cristian Martinescu <cristian.martinescu@propipingproducts.com>
+Către: andrei.dobrei@akro.ro <andrei.dobrei@akro.ro>, Akro Filtrare <office@akro.ro>, AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: daniela.cozorici@propipingproducts.com
+Subiect: RE: Necesar Oferta de Pret Antiscalant Bidon 25kg
+Buna dimineata,
+
+Va rog un status cu privire la aceasta comanda
+
+Multumesc!
+
+Cristian Martinescu
+
+Responsabil Logistic
+
+•
+M: +40 787 404 176
+
+cristian.martinescu@propipingproducts.com
+
+<![if !vml]><![endif]>
+
+Pro Piping Products srl
+|
+RO46044803 |
+Artemis Industrial Park, DN 69 Km 10+510, Sânandrei, Timiș|
+Romania |www.propipingproducts.com
+
+--- MESAJ m2099876 | 2026-07-09 09:35 | Inbox | AKRO
+De la: andrei.dobrei@akro.ro <andrei.dobrei@akro.ro>
+Către: Cristian Martinescu <cristian.martinescu@propipingproducts.com>
+Cc: office@akro.ro, alexandru.soare@akro.ro, daniela.cozorici@propipingproducts.com
+Subiect: RE: Necesar Oferta de Pret Antiscalant Bidon 25kg
+Buna dimineata,
+
+Bidonul de antiscalant, a plecat ieri de la noi din depozit prin intermediul Pallex cu serviciu premium. Astazi ar trebui sa ajunga la dumneavoastra.
+
+Va rog sa regasiti in atasament CMR in vederea livrarii produsului catre dumneavoastra.
+
+Cu stima,
+[ATAȘAMENT: PRO PIPING PRODUCTS_07.07.2026_563399.pdf | text extras]
+
+--- MESAJ m2099716 | 2026-07-09 11:26 | Inbox | EXTERN
+De la: Cristian Martinescu <cristian.martinescu@propipingproducts.com>
+Către: andrei.dobrei@akro.ro <andrei.dobrei@akro.ro>, Akro Filtrare <office@akro.ro>, AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: daniela.cozorici@propipingproducts.com
+Subiect: RE: Necesar Oferta de Pret Antiscalant Bidon 25kg
+Buna ziua,
+
+Confirmam livrarea
+
+Multumesc!
+
+Cristian Martinescu
+
+Responsabil Logistic
+
+•
+M: +40 787 404 176
+
+cristian.martinescu@propipingproducts.com
+
+<![if !vml]><![endif]>
+
+Pro Piping Products srl
+|
+RO46044803 |
+Artemis Industrial Park, DN 69 Km 10+510, Sânandrei, Timiș|
+Romania |www.propipingproducts.com
+
+--- MESAJ m2099652 | 2026-07-09 11:45 | Inbox | AKRO
+De la: andrei.dobrei@akro.ro <andrei.dobrei@akro.ro>
+Către: Cristian Martinescu <cristian.martinescu@propipingproducts.com>
+Cc: alexandru.soare@akro.ro
+Subiect: RE: Necesar Oferta de Pret Antiscalant Bidon 25kg
+Buna ziua,
+
+Va multumim pentru confirmare!
+
+Numai bine,
+
+####################################################################################################
+RÂND c2105156 (nr. 162) | stare: Completă | categorie: 12-Chimicale pentru conditionare si intretinere | cerere: Sare pentru dedurizare, 115 saci
+CERINȚA: Clientul confirmă comanda pentru 115 saci de sare, facturați 58 în iulie și 57 în august. [m2105156] «Confirm comanda pentru 115 saci sare»
+CERINȚĂ FINALĂ (cantitate): 120 de saci (3 paleți întregi) [m2141348] «Voi putea confirma comanda pentru 120 de saci [ 3 paleti intregi]»
+CERINȚĂ FINALĂ (altele): 60 saci facturați pe iulie [m2141476] «60 saci – cu factura pe Iulie»
+CERINȚĂ FINALĂ (altele): 60 saci facturați pe august [m2141476] «60 saci cu factura pe August»
+CLARIFICARE: întrebare AKRO poate confirma doar 120 de saci (3 paleți întregi) și întreabă cum se împarte facturarea pe luni. [m2141348] «te rog sa imi transmiti in ce cantitati se doresc a se factura /fiecare luna» → răspuns AKRO trimite două confirmări de comandă: 60 saci pe iulie și 60 saci pe august. [m2141476] «Trimit anexate cele doua confirmari de comanda:» | schimbare: Cantitatea crește de la 115 la 120 de saci (3 paleți), împărțiți 60/60 pe iulie și august.
+REZULTAT: acceptată — Clientul confirmă comanda, AKRO emite confirmările S02586/S02587 și încarcă sarea. [m2105156] «Confirm comanda pentru 115 saci sare»
+PREȚURI Confirmare de comandă S02586 v1 (2026-07-24), total 2996.93 RON:
+  [12-002006] Sare tablete AKRO - dedurizare 25 kg | 60.0 buc × 41.28 RON | referință
+  termen: Modul de livrare: In sarcina Akro
+PREȚURI Confirmare de comandă S02587 v1 (2026-07-24), total 2996.93 RON:
+  [12-002006] Sare tablete AKRO - dedurizare 25 kg | 60.0 buc × 41.28 RON | referință
+  termen: Modul de livrare: In sarcina Akro
+
+====================================================================================================
+CONVERSAȚIA c2105156 (nr. 162) | subiect: Comanda sare dedurizare
+Partener (după adrese): kasper-development.ro Achizitii KDCTermice | grupare nesigură: nu
+OFERTĂ S02586 v1 trimisă 2026-07-24 10:52 în m2141476 (Odoo: Comandă de vânzare): [12-002006] Sare tablete AKRO - dedurizare 25 kg x60.0 buc
+OFERTĂ S02587 v1 trimisă 2026-07-24 10:52 în m2141476 (Odoo: Comandă de vânzare): [12-002006] Sare tablete AKRO - dedurizare 25 kg x60.0 buc
+
+--- MESAJ m2105156 | 2026-07-24 08:31 | Inbox | EXTERN
+De la: Achizitii KDCTermice <achizitii.kdctermice@kasper-development.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Comanda sare dedurizare
+Buna dimineata,
+
+Confirm comanda pentru 115 saci sare
+
+Factura pentru luna Iulie-58 saci
+
+Factura pentru luna August-57 saci
+
+Multumesc frumos!
+
+EUGENIA GRIGORE
+
+SPECIALIST ACHIZITII
+
+KDC TERMICE BRASOV SRL
+
+Str. Zaharia Stancu nr. 6, BRASOV
+
+Tel:
++40734303478
+
+Mail:
+achizitii.kdctermice@kasper-development.ro
+
+Achizitii KDCTermice
+
+E:
+achizitii.kdctermice@kasper-development.ro
+
+M:
+
+Str. Zaharia Stancu nr.6, Brașov - România
+
+www.kasper-development.ro
+
+Prezentul e-mail nu constituie acceptarea unei oferte, iar continutul acestui e-mail nu reprezinta în niciun caz
+o oferta de a contracta ori un acord obligatoriu. Nicio propunere comerciala cuprinsa în prezentul mesaj nu va fi considerata oferta, cu exceptia cazului în care este semnata în mod valabil de catre un reprezentant autorizat al dezvoltatorului. Informatiile
+din prezentul email precum si informatiile cuprinse in atasamentele acestuia sunt confidentiale si sunt destinate exclusiv destinatarului. Orice divulgare, a informatiilor primite, catre terte persoane poate atrage consecinte grave, respectiv plata de daune
+interese care vor fi cuantificate in functie de prejudiciul cauzat.
+
+--- MESAJ m2141316 | 2026-07-24 09:09 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: Comanda sare dedurizare
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Achizitii KDCTermice <achizitii.kdctermice@kasper-development.ro>
+Sent: Friday, July 24, 2026 8:31 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: Comanda sare dedurizare
+
+Buna dimineata,
+
+Confirm comanda pentru 115 saci sare
+
+Factura pentru luna Iulie-58 saci
+
+Factura pentru luna August-57 saci
+
+Multumesc frumos!
+
+EUGENIA GRIGORE
+
+SPECIALIST ACHIZITII
+
+KDC TERMICE BRASOV SRL
+
+Str. Zaharia Stancu nr. 6, BRASOV
+
+Tel: +40734303478
+
+Mail: achizitii.kdctermice@kasper-development.ro
+
+Achizitii KDCTermice
+
+E: achizitii.kdctermice@kasper-development.ro
+M:
+
+Str. Zaharia Stancu nr.6, Brașov - România
+www.kasper-development.ro
+
+Prezentul e-mail nu constituie acceptarea unei oferte, iar continutul acestui e-mail nu reprezinta în niciun caz o oferta de a contracta ori un acord obligatoriu. Nicio propunere comerciala cuprinsa în prezentul mesaj nu va fi considerata oferta, cu exceptia cazului în care este semnata în mod valabil de catre un reprezentant autorizat al dezvoltatorului. Informatiile din prezentul email precum si informatiile cuprinse in atasamentele acestuia sunt confidentiale si sunt destinate exclusiv destinatarului. Orice divulgare, a informatiilor primite, catre terte persoane poate atrage consecinte grave, respectiv plata de daune interese care vor fi cuantificate in functie de prejudiciul cauzat.
+
+--- MESAJ m2141348 | 2026-07-24 09:14 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Achizitii KDCTermice <achizitii.kdctermice@kasper-development.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Comanda sare dedurizare
+Buna dimineata,
+
+Iti multumim pentru comanda!
+
+Voi putea confirma comanda pentru 120 de saci [ 3 paleti intregi] – te rog sa imi transmiti in ce cantitati se doresc a se factura /fiecare luna.
+
+Astept raspuns!
+
+Numai bine,
+
+--- MESAJ m2141476 | 2026-07-24 10:52 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Achizitii KDCTermice <achizitii.kdctermice@kasper-development.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Comanda sare dedurizare
+Buna ziua,
+
+Trimit anexate cele doua confirmari de comanda:
+
+60 saci – cu factura pe Iulie
+
+60 saci cu factura pe August
+
+Va anunt de indata ce am incarcat marfa din cariera.
+
+O zi cu spor!
+[ATAȘAMENT: Comanda - S02586 - Factura pe Iulie - KDC - 24.07.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: Comanda - S02587 - Factura pe August - KDC - 24.07.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2141892 | 2026-07-27 08:33 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Achizitii KDCTermice <achizitii.kdctermice@kasper-development.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Comanda sare dedurizare
+Buna dimineata,
+
+Am incarcat cele 3 tone de sare din cariera astazi. Ar trebui sa ajunga la dumneavoastra maine sau cel tarziu miercuri.
+
+Colegii mei vor trimite imediat factura pentru 60 de saci pe iulie, urmand ca diferenta sa se factureze in 2-3 august.
+
+O zi cu spor!
+[ATAȘAMENT: Operațiuni de ridicare - _Viorel Mititica - WH_OUT_01104.pdf | text extras]
+[ATAȘAMENT: Operațiuni de ridicare - _Viorel Mititica - WH_OUT_01105.pdf | text extras]
+
+####################################################################################################
+RÂND c2142852 (nr. 187) | stare: Completă | categorie: 12-Chimicale pentru conditionare si intretinere | cerere: Pompă pentru spălare chimică PROMAX 20
+CERINȚA: Cere prin formularul de pe site ofertă pentru 1 bucată pompă de spălare chimică PROMAX 20. [m2142852] «Mesaj: Solicit o oferta pentru 1 bucata Pompa PROMAX 20»
+CERINȚĂ FINALĂ (cantitate): 1 bucată [m2142852] «Solicit o oferta pentru 1 bucata Pompa PROMAX 20»
+OFERTĂ ÎN TEXT: Pompa nu mai e în portofoliu; AKRO oferă doar soluția de dezincrustare BOILER CLEANER pulbere, găleată 10 kg, 570 lei fără TVA. [m2142852] «BOILER CLEANER Pulbere – galeata de 10 kg - cost 570 lei fara TVA»
+REZULTAT: necunoscut
+
+
+====================================================================================================
+CONVERSAȚIA c2142852 (nr. 187) | subiect: RE: AKRO :: Cerere oferta
+Partener (după adrese): startsell.ro  | grupare nesigură: nu
+
+--- MESAJ m2142852 | 2026-07-29 09:50 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: marian.dumitriu@startsell.ro <marian.dumitriu@startsell.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: AKRO :: Cerere oferta
+Buna ziua Dl Marian,
+
+Va multumim pentru solicitarea dumneavoastra!
+
+Din pacate produsul la care faceti referire nu mai face parte din portofoliul de produse AKRO.
+
+Din partea de spalare chimica – va putem oferta strict solutia de dezincrustare. – BOILER CLEANER Pulbere – galeata de 10 kg - cost 570 lei fara TVA
+
+https://akro.ro/produse/produs/boiler-cleaner-p-10-kg/
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Akro <office@akro.ro>
+Sent: Wednesday, July 29, 2026 8:48 AM
+To: sales@akro.ro
+Subject: AKRO :: Cerere oferta
+
+O noua cerere a fost trimisa de pe site:
+
+Denumire produs: Pompa pentru spalare chimica PROMAX 20
+Link produs: https://akro.ro/produse/produs/pompa-pentru-spalare-chimica-promax-20/
+
+Nume: Dumitriu
+Prenume: Marian
+Adresa de email: marian.dumitriu@startsell.ro
+Numar de telefon: 0754481762
+Cantitate: 1
+Companie: SC START SELL SRL
+Mesaj: Solicit o oferta pentru 1 bucata Pompa PROMAX 20
+
+UTM Parameters: {"utm_campaign":"","utm_source":"","utm_medium":"","utm_term":"","utm_content":"","gclid":"","gad_source":"","gad_campaignid":"","gbraid":""}
+
+Akro © 2026
+
+####################################################################################################
+RÂND c2111044 (nr. 248) | stare: Completă | categorie: 12-Chimicale pentru conditionare si intretinere | cerere: Un palet de sare tablete pentru dedurizare
+CERINȚA: Comandă fermă pentru un palet de sare de dedurizare, cu livrare în aceeași săptămână. [m2111044] «Prin prezenta aveti comanda ferma de un palet de sare dedurizare»
+CERINȚĂ FINALĂ (cantitate): 40 saci sare tablete AKRO 25 kg (un palet) [m2111108] «Sare tablete AKRO - dedurizare 25 kg 40,00 buc»
+CERINȚĂ FINALĂ (termen): Livrare în cursul săptămânii; Pallex estimează cel târziu 14.08.2026 [m2147268] «Platforma pallex estimeaza livrarea la dumneavoastra cel tarziu in data de 14.08.2026»
+CERINȚĂ FINALĂ (loc livrare): Mănăștiur, jud. Timiș [m2111108] «MANASTIUR TM 307275»
+REZULTAT: acceptată — Comandă fermă confirmată de AKRO (confirmare S02654), clientul este de acord. [m2111044] «Prin prezenta aveti comanda ferma de un palet de sare dedurizare cu livrare in cursul acestei saptamani»
+PREȚURI Confirmare de comandă S02654 v1 (2026-08-10), total 1996.5 RON:
+  [12-002006] Sare tablete AKRO - dedurizare 25 kg | 40.0 buc × 41.25 RON | referință
+  termen: Modul de livrare: In sarcina Akro
+
+====================================================================================================
+CONVERSAȚIA c2111044 (nr. 248) | subiect: Comanda 10.08.2026
+Partener (după adrese): cornuboulangerie.ro Eugen Popa | grupare nesigură: nu
+OFERTĂ S02654 v1 trimisă 2026-08-10 16:24 în m2147140 (Odoo: Comandă de vânzare): [12-002006] Sare tablete AKRO - dedurizare 25 kg x40.0 buc
+
+--- MESAJ m2111044 | 2026-08-10 15:00 | Inbox | EXTERN
+De la: Eugen Popa <eugen.popa@cornuboulangerie.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro
+Subiect: Comanda 10.08.2026
+Buna ziua
+
+Prin prezenta aveti comanda ferma de un palet de sare dedurizare cu livrare in cursul acestei saptamani
+
+Meilleurs salutation / Best regards
+
+Eugen Popa
+
+Responsable d'exploitation
+
+Cornu Boulangerie SRL
+
+No.433, Manastiur
+
+Timis, 307275
+
+Romania
+
+www.cornu.ch
+
+Tel. +41 (0)24 436 15 42
+
+Fax. +41 (0)24 436 15 43
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+
+Sent: Friday, 05 June 2026 08:34:31
+
+To: Eugen Popa <eugen.popa@cornuboulangerie.ro>
+
+Cc: 'Akro Filtrare' <office@akro.ro>
+
+Subject: RE: Comanda 04.06.2026
+
+Buna ziua Dl Popa,
+
+Astazi am incarcat paletul de sare si ar trebui sa ajunga la dumneavoastra luni sau cel tarziu marti saptamana urmatoare.
+
+Va trimitem anexat avizul de expeditie.
+
+Cu respect,
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+
+Sent: Thursday, June 4, 2026 8:36 AM
+
+To: 'Eugen Popa' <eugen.popa@cornuboulangerie.ro>
+
+Cc: 'Akro Filtrare' <office@akro.ro>
+
+Subject: RE: Comanda 04.06.2026
+
+Buna ziua Dl Popa,
+
+Va multumim pentru comanda dumneavoastra!
+
+Anexat va rog sa regasiti confirmarea!
+
+Vom livra paletul de sare saptamana viitoare .
+
+Cu respect,
+
+From: Eugen Popa <eugen.popa@cornuboulangerie.ro>
+
+Sent: Thursday, June 4, 2026 7:39 AM
+
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+
+Subject: Comanda 04.06.2026
+
+Buna ziua
+
+Prin prezenta aveti comanda ferma de un palet de sare dedurizare cu livrare in cursul
+saptamanii viitoare
+
+Meilleurs salutations / Best regards
+
+Eugen Popa
+
+Responsable d'exploitation
+
+Cornu Boulangerie SRL
+
+No. 433, Mănăștiur
+
+Timis, 307725
+
+Romania
+
+--- MESAJ m2147076 | 2026-08-10 16:12 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: Comanda 10.08.2026
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Eugen Popa <eugen.popa@cornuboulangerie.ro>
+Sent: Monday, August 10, 2026 3:00 PM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: 'Akro Filtrare' <office@akro.ro>
+Subject: Comanda 10.08.2026
+
+Buna ziua
+
+Prin prezenta aveti comanda ferma de un palet de sare dedurizare cu livrare in cursul acestei saptamani
+
+Meilleurs salutation / Best regards
+
+Eugen Popa
+
+Responsable d'exploitation
+
+Cornu Boulangerie SRL
+
+No.433, Manastiur
+
+Timis, 307275
+
+Romania
+
+www.cornu.ch
+
+Tel. +41 (0)24 436 15 42
+
+Fax. +41 (0)24 436 15 43
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Friday, 05 June 2026 08:34:31
+To: Eugen Popa <eugen.popa@cornuboulangerie.ro>
+Cc: 'Akro Filtrare' <office@akro.ro>
+Subject: RE: Comanda 04.06.2026
+
+Buna ziua Dl Popa,
+
+Astazi am incarcat paletul de sare si ar trebui sa ajunga la dumneavoastra luni sau cel tarziu marti saptamana urmatoare.
+
+Va trimitem anexat avizul de expeditie.
+
+Cu respect,
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Thursday, June 4, 2026 8:36 AM
+To: 'Eugen Popa' <eugen.popa@cornuboulangerie.ro>
+Cc: 'Akro Filtrare' <office@akro.ro>
+Subject: RE: Comanda 04.06.2026
+
+Buna ziua Dl Popa,
+
+Va multumim pentru comanda dumneavoastra!
+
+Anexat va rog sa regasiti confirmarea!
+
+Vom livra paletul de sare saptamana viitoare .
+
+Cu respect,
+
+From: Eugen Popa <eugen.popa@cornuboulangerie.ro>
+Sent: Thursday, June 4, 2026 7:39 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: Comanda 04.06.2026
+
+Buna ziua
+
+Prin prezenta aveti comanda ferma de un palet de sare dedurizare cu livrare in cursul saptamanii viitoare
+
+Meilleurs salutations / Best regards
+
+Eugen Popa
+
+Responsable d'exploitation
+
+Cornu Boulangerie SRL
+
+No. 433, Mănăștiur
+
+Timis, 307725
+
+Romania
+
+--- MESAJ m2147140 | 2026-08-10 16:24 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Eugen Popa <eugen.popa@cornuboulangerie.ro>
+Cc: office@akro.ro
+Subiect: RE: Comanda 10.08.2026
+Buna ziua,
+
+Va multumim pentru comanda!
+
+Va rog sa regasiti anexata confirmarea .
+
+Va anunt de indata ce am ok-ul de incarcare din cariera de sare.
+
+O zi cu spor!
+[ATAȘAMENT: Comanda - S02654 - CORNU BOULANGERIE - 10.08.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2111108 | 2026-08-10 18:02 | Inbox | EXTERN
+De la: Eugen Popa <eugen.popa@cornuboulangerie.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro
+Subiect: RE: Comanda 10.08.2026
+De acord.
+
+Va rog sa ma anuntati cand pleaca paletul spre noi.
+
+Meilleurs salutations
+/
+Best regards
+
+Eugen Popa
+
+Responsable d’exploitation
+
+Cornu Boulangerie SRL
+
+No.433, Manastiur,
+
+Timis, 307275
+
+Romania
+
+www.cornu.ch
+
+Tel +41 (0)24 436 15 42 | Fax +41 (0)24 436 12 43
+
+Cet e-mail est à l'intention exclusive de la personne à laquelle il est adressé, et peut contenir des informations privilégiées et/ou confidentielles.
+Si vous recevez ce message par erreur, il vous est strictement interdit de le garder, de le distribuer, de le faire suivre ou de le copier. Merci d'en avertir immédiatement l'expéditeur par téléphone (+41 24 436 15 42) ou par un e-mail en retour et de supprimer
+la transmission originale ainsi que toute copie.
+
+This e-mail is intended only for the person to which it is addressed and may contain information that is privileged and/or confidential.
+If you are not the intended recipient, you are hereby notified that any dissemination or copying of this communication is prohibited. Please notify us of the error in communication by telephone (+41 24 436 15 42) or by return e-mail and destroy all copies
+of this communication
+[ATAȘAMENT: Comanda - S02654 - CORNU BOULANGERIE - 10.08.2026.pdf | text extras]
+AKRO SRL
+RO14205979
+J2001000977088
+
+Furnizor Client:
+AKRO SRL CORNU BOULANGERIE S.R.L., Eugen
+Str. Zizinului Nr. 110 Popa
+Brașov BV 500407 433
+România MANASTIUR TM 307275
+VAT: RO14205979 România
+TVA: RO34930555
+
+În atenția
+Eugen Popa,
+director@cornuboulangerie.ro
+Phone: 0799.992.298 +40 268 413 180
+
+Confirmare de comandă S02654
+Data comenzii: Agent de vânzări:
+10.08.2026 Alexandru Soare , +40 268 413 180
+
+DESCRIERE CANTITATE P.U. SUMĂ
+
+[12-002006] Sare tablete AKRO - dedurizare 25 kg 40,00 buc 41,25 1.650,00 RON
+
+Valoare fără taxe 1.650,00 RON
+
+TVA 21% 346,50 RON
+
+Total 1.996,50 RON
+
+Termeni:
+
+Modul de livrare: In sarcina Akro
+
+Termeni de plată: 15 zile
+
+Str. Zizinului Nr. 110; Brașov; Cod 500407; ROMANIA
+Tel: +40 268 413 180; E-mail: contact@akro.ro; http://www.akro.ro; www.kalyxx.ro; www.spectra.ro
+
+Pagina: 1 / 1
+
+--- MESAJ m2147268 | 2026-08-11 09:37 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Eugen Popa <eugen.popa@cornuboulangerie.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Comanda 10.08.2026
+Buna ziua Dl Popa,
+
+Astazi am facut comanda de incarcare din cariera.
+
+Platforma pallex estimeaza livrarea la dumneavoastra cel tarziu in data de 14.08.2026
+[ATAȘAMENT: Operațiuni de ridicare - Eugen Popa - WH_OUT_01145.pdf | text extras]
+
+####################################################################################################
+RÂND c2153156 (nr. 363) | stare: Completă | categorie: 12-Chimicale pentru conditionare si intretinere | cerere: Soluție tratare apă GELPHOS L 25 kg
+CERINȚA: Cere ofertă pentru 10 bidoane soluție de tratare apă GELPHOS L 25 kg pentru locația Codlea. [m2153156] «10 buc Solutie tratare apa GELPHOS L25 Kg»
+CERINȚĂ FINALĂ (cantitate): 12 bidoane x 25 kg GELPHOS L (minimul de producție) [m2153284] «cotatia de pret pentru 12 bidoane x 25 kg»
+CERINȚĂ FINALĂ (loc livrare): Locația Draxlmaier din Codlea [m2153156] «Pentru locația noastră Draxlmaier din Codlea vă solicităm oferta pentru»
+CLARIFICARE: întrebare - → răspuns AKRO nu are produsul pe stoc și cere producătorului termen, cantitate minimă și preț actualizat. [m2153156] «Din pacate pe stoc nu tinem acest produs.» | schimbare: Produsul se aduce la comandă de la producător.
+CLARIFICARE: întrebare - → răspuns Producătorul acceptă minim 12 bucăți; discount 10% pentru palet întreg de 40 bucăți; livrare 2-4 săptămâni. [m2153284] «Aceasta este minimul de bucati pe care producatorul il poate accepta in productie.» | schimbare: Cantitatea crește de la 10 la 12 bidoane (minim de producție); opțiune palet de 40 buc cu 10% discount.
+REZULTAT: necunoscut
+PREȚURI Ofertă S02735 v1 (2026-08-28), total 6489.18 RON:
+  [12-002023] GELPHOS L 25 KG | 12.0 buc × 414.83 RON | referință
+  [16-003006] Transport marfa | None  × None RON | serviciu
+  termen: Modul de livrare: In sarcina Akro
+  termen: Condiții de plată: 30 de zile
+
+====================================================================================================
+CONVERSAȚIA c2153156 (nr. 363) | subiect: RE: COD 1328780 solutie tratare apa
+Partener (după adrese): draexlmaier.com Scurtu Simona-Nicoleta PN22 | grupare nesigură: nu
+OFERTĂ S02735 v1 trimisă 2026-08-28 09:07 în m2153284 (Odoo: Ofertă trimisă): [12-002023] GELPHOS L 25 KG x12.0 buc; [-] Transport marfa xNone 
+
+--- MESAJ m2153156 | 2026-08-27 16:01 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Scurtu Simona-Nicoleta PN22 <simona-nicoleta.scurtu@draexlmaier.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: COD 1328780 solutie tratare apa
+Buna ziua Doamna Scurtu,
+
+Va multumim pentru solicitare!
+
+Din pacate pe stoc nu tinem acest produs.
+
+Am trimis la producator sa ne transmita un termen de livrare estimat, cantitatatea minima pentru a putea fi data in productie si un cost actualizat – si revenim la dumneavoastra in cel mai scurt timp cu un raspuns!
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Scurtu Simona-Nicoleta PN22 <Simona-Nicoleta.Scurtu@draexlmaier.com>
+Sent: Thursday, August 27, 2026 3:06 PM
+To: sales@akro.ro
+Subject: FW: COD 1328780 solutie tratare apa
+
+Bună ziua,
+
+Pentru locația noastră Draxlmaier din Codlea vă solicităm oferta pentru:
+
+10 buc Solutie tratare apa GELPHOS L25 Kg
+
+Mit freundlichen Grussen
+Best regards,
+
+Simona-Nicoleta Scurtu
+Proc. Logistics & Plant Services RO/PS21
+Draxlmaier Procese de Productie Romania S.R.L.
+T +40 372 686-392 | M +40725705934 | www.draexlmaier.com
+
+Diese E-Mail und alle ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼bermittelten Daten sind grundsÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¤tzlich vertraulich zu behandeln und einzig und allein fÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼r den beabsichtigten Adressaten bestimmt. Falls Sie diese E-Mail irrtÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼mlich erhalten haben, bitten wir um Mitteilung und darum, sie vollstÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¤ndig von Ihrem Computer zu lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶schen. Vielen Dank fÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼r Ihre BemÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼hungen.
+This email and any transmitted data are generally confidential and solely for the intended addressee determined. If you have received this email in error, please notify and delete completely from your computer. Thank you for your efforts.
+
+Internal
+
+--- MESAJ m2153284 | 2026-08-28 09:07 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Scurtu Simona-Nicoleta PN22 <simona-nicoleta.scurtu@draexlmaier.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: COD 1328780 solutie tratare apa
+Buna ziua Doamna Scurtu,
+
+Va trimitem anexata cotatia de pret pentru 12 bidoane x 25 kg – solutie GELPHOS L25kg .
+
+Aceasta este minimul de bucati pe care producatorul il poate accepta in productie.
+
+De asemenea precizez ca daca se poate comanda palet intreg [ 40 bucati] – putem acorda si un discount de 10% la comanda
+
+Termen estimat de livrare 2-4 saptamani
+
+Asteptam cu interes raspuns!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02735 -  DRAXL MAIER - 28.08.2026.pdf | ofertă Odoo, parsată mai sus]
+
+####################################################################################################
+RÂND c2157380 (nr. 454) | stare: Completă | categorie: 12-Chimicale pentru conditionare si intretinere | cerere: Antiscalant pentru instalație de osmoză
+CERINȚA: Cere ofertă de preț și termen de livrare pentru produsul din atașament (antiscalant). [m2157380] «Vă rugăm să ne transmiteți oferta de preț, precum și termenul estimat de livrare»
+CERINȚĂ FINALĂ (tip echipament): Antiscalant GEL RO1 (singurul comercializat de AKRO) [m2157380] «Singurul antiscalant pe care il comercializam este antiscalantul GEL – RO1»
+CERINȚĂ FINALĂ (cantitate): 1 bidon (inițial ofertat 2) [m2158596] «Va rog sa regasiti anexata cotatia pentru un singur bidon de antiscalant.»
+CERINȚĂ FINALĂ (termen): Livrare în 2-3 zile de la comanda fermă, produs în stoc [m2157380] «putem livra in termen de 2-3 zile de la comanda dumneavoastra ferma!»
+CLARIFICARE: întrebare Clientul întreabă dacă poate cumpăra doar 1 bucată în loc de 2. [m2122532] «Vad ca in oferta apar 2 buc, se poate achizitiona si numai 1 ?» → răspuns Se poate comanda 1 bidon, dar fără discountul de 6% dacă transportul e asigurat de AKRO. [m2158596] «Se poate comanda numai 1 bidon, insa nu mai putem acorda discountul de 6%» | schimbare: Cantitatea scade la 1 bidon, fără discount de 6%; ofertă revizuită S02810 v2.
+FIȘĂ DE SECURITATE (odată cu oferta): AKRO trimite clientului, odată cu oferta, fișa de securitate (Scheda di sicurezza, EN și RO) pentru Gel Antiscalant RO1, împreună cu fișa tehnică SP0222. [m2157380] «Scheda di sicurezza N.SS 222 - GEL ANTISCALANT RO1»
+REZULTAT: necunoscut
+PREȚURI Ofertă S02810 v1 (2026-09-11), total 3290.27 RON:
+  [12-002026] ANTISCALANT PENTRU INTRETINEREA INSTALATIILOR DE OSMOZA - GEL ANTISCALANT RO1 - 25KG | 2.0 buc × 1446.4 RON (reducere 6.0%) | referință
+  termen: Modul de livrare: In sarcina Akro
+  termen: Termen de plata: 100% in avans
+PREȚURI Ofertă S02810 v2 (2026-09-17), total 1750.14 RON:
+  [12-002026] ANTISCALANT PENTRU INTRETINEREA INSTALATIILOR DE OSMOZA - GEL ANTISCALANT RO1 - 25KG | 1.0 buc × 1446.4 RON | referință
+  termen: Modul de livrare: In sarcina Akro
+  termen: Termen de plata: 100% in avans
+
+====================================================================================================
+CONVERSAȚIA c2157380 (nr. 454) | subiect: RE: Oferta de pret
+Partener (după adrese): kuka.com Dana-Ioana Tarnavean, Ada-Rahela Barac | grupare nesigură: nu
+OFERTĂ S02810 v1 trimisă 2026-09-11 16:31 în m2157380 (Odoo: Ofertă trimisă): [12-002026] ANTISCALANT PENTRU INTRETINEREA INSTALATIILOR DE OSMOZA - GEL ANTISCALANT RO1 -  x2.0 buc
+OFERTĂ S02810 v2 trimisă 2026-09-17 08:53 în m2158596 (Odoo: Ofertă trimisă): [12-002026] ANTISCALANT PENTRU INTRETINEREA INSTALATIILOR DE OSMOZA - GEL ANTISCALANT RO1 -  x1.0 buc
+
+--- MESAJ m2157380 | 2026-09-11 16:31 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Ada-Rahela Barac <ada-rahela.barac@kuka.com>
+Cc: dana.tili@kuka.com, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Oferta de pret
+Buna ziua ,
+Va multumim pentru solicitarea dumneavoastra!
+
+Singurul antiscalant pe care il comercializam este antiscalantul GEL – RO1
+
+Va rog sa regasiti anexata oferta de pret si fisa de date pentru acesta.
+
+La acest moment avem produsul disponibil in stoc si putem livra in termen de 2-3 zile de la comanda dumneavoastra ferma!
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Ada-Rahela Barac <Ada-Rahela.Barac@kuka.com>
+Sent: Friday, September 11, 2026 12:55 PM
+Cc: Dana-Ioana Tarnavean <Dana.Tili@kuka.com>
+Subject: Oferta de pret
+
+Bună ziua,
+
+Vă rugăm să ne transmiteți oferta de preț, precum și termenul estimat de livrare pentru următoarele produs din atasament .
+
+Vă mulțumim anticipat și așteptăm oferta dumneavoastră.
+
+Cu stimă,
+
+Rahela Barac
+
+Functia / Function: Achizitor / Buyer
+
+Departamentul / Department: Achizitii / Purchasing
+
+KUKA AUTOMATIZARE ROMANIA SRL Str. Stefan cel Mare 197A , 550316 Sibiu / Romania www.kuka.com
+
+Ada-Rahela.Barac @kuka.com T. +40 721 365 269
+
+Geschäftsführung / Board of Directors: Torsten Jörges Sitz und Registergericht / Registered Office: Sibiu CUI 28262575
+
+Diese E-Mail kann vertrauliche und/oder rechtlich geschützte Informationen enthalten. Wenn Sie nicht der richtige Adressat sind oder diese E-Mail irrtümlich erhalten haben, informieren Sie bitte sofort den Absender und vernichten Sie diese Mail. Das unerlaubte Kopieren sowie die unbefugte Weitergabe dieser Mail ist nicht gestattet.
+
+Acest e-mail poate contine informatii confidentiale si/sau informatii privilegiate. Daca nu sunteti destinatarul ( sau ati primit acest e-mail din eroare ), va rugam sa instiintati expeditorul imediat si sa distrugeti acest e-mail. Ori ce copiere neautorizata, divulgarea sau distribuirea de materiale din acest e-mail este strict interzisa.
+
+This e-mail may contain confidential and/or privileged information. If you are not the intended recipient (or have received this e-mail in error) please notify the sender immediately and destroy this e-mail. Any unauthorized copying, disclosure or distribution of contents of this e-mail is strictly forbidden.
+
+Internal
+[ATAȘAMENT: Oferta - S02810 - KUKA AUTOMATIZARE - 11.09.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: EN_Scheda di sicurezza N_SS 222_CLP_14_GEL ANTISCALANT RO1.pdf | text extras]
+[ATAȘAMENT: SP0222-gel antiscalant ro1_eng.pdf | text extras]
+[ATAȘAMENT: SP0222-GEL ANTISCALANT RO 1-GB.pdf | text extras]
+[ATAȘAMENT: RM_Scheda di sicurezza N_SS 222_CLP_14_GEL ANTISCALANT RO1.pdf | text extras]
+
+--- MESAJ m2122532 | 2026-09-17 07:47 | Inbox | EXTERN
+De la: Dana-Ioana Tarnavean <dana.tili@kuka.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Re: Oferta de pret
+Buna ziua,
+
+Vad ca in oferta apar 2 buc, se poate achizitiona si numai 1 ?
+
+Dana TILI
+
+Functia / Function: Achizitor / Buyer
+
+Departamentul / Department:
+Achizitii /
+Purchasing
+
+KUKA AUTOMATIZARE ROMANIA SRL Str. Stefan cel Mare 197A , 550316 Sibiu / Romania
+www.kuka.com
+
+Dana.Tili@kuka.com T.
++40 724 596 310
+
+Geschäftsführung / Board of Directors:
+Torsten Jörges Sitz und Registergericht / Registered
+Office: Sibiu CUI 28262575
+
+Diese E-Mail kann vertrauliche und/oder rechtlich geschützte Informationen enthalten. Wenn Sie nicht der richtige Adressat sind oder diese E-Mail irrtümlich erhalten
+haben, informieren Sie bitte sofort den Absender und vernichten Sie diese Mail. Das unerlaubte Kopieren sowie die unbefugte Weitergabe dieser Mail ist nicht gestattet.
+
+Acest e-mail poate contine informatii confidentiale si/sau informatii privilegiate. Daca nu sunteti destinatarul ( sau ati primit acest e-mail din eroare ), va rugam sa
+instiintati expeditorul imediat si sa distrugeti acest e-mail. Ori ce copiere neautorizata, divulgarea sau distribuirea de materiale din acest e-mail este strict interzisa.
+
+This e-mail may contain confidential and/or privileged information. If you are not the intended recipient (or have received this e-mail in error) please notify the sender
+immediately and destroy this e-mail. Any unauthorized copying, disclosure or distribution of contents of this e-mail is strictly forbidden.
+
+--- MESAJ m2158596 | 2026-09-17 08:53 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dana-Ioana Tarnavean <dana.tili@kuka.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Oferta de pret
+Buna dimineata,
+
+Se poate comanda numai 1 bidon, insa nu mai putem acorda discountul de 6% in masura in care transportul este asigurat de AKRO.
+
+Va rog sa regasiti anexata cotatia pentru un singur bidon de antiscalant.
+
+Asteptam raspuns!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02810 - KUKA AUTOMATIZARE - 17.09.2026.pdf | ofertă Odoo, parsată mai sus]
+
+####################################################################################################
+RÂND c2125668 (nr. 527) | stare: Completă | categorie: 12-Chimicale pentru conditionare si intretinere | cerere: Sare pentru septembrie și octombrie – 120 saci
+CERINȚA: Confirmă comanda pentru 120 de saci, facturați câte 60 în septembrie și octombrie. [m2125668] «Confirm comanda pentru 120 saci»
+CERINȚĂ FINALĂ (cantitate): 120 saci [m2125668] «Confirm comanda pentru 120 saci»
+CERINȚĂ FINALĂ (altele): Facturare: 60 saci în septembrie și 60 saci în octombrie [m2125668] «Factura septembrie- 60saci Factura octombrie- 60saci»
+REZULTAT: acceptată — Clientul confirmă comanda; AKRO trimite două confirmări de comandă (S02873, S02874). [m2125668] «Confirm comanda pentru 120 saci»
+PREȚURI Confirmare de comandă S02874 v1 (2026-09-25), total 2996.93 RON:
+  [12-002006] Sare tablete AKRO - dedurizare 25 kg | 60.0 buc × 41.28 RON | referință
+  termen: Modul de livrare: In sarcina Akro
+PREȚURI Confirmare de comandă S02873 v1 (2026-09-25), total 2996.93 RON:
+  [12-002006] Sare tablete AKRO - dedurizare 25 kg | 60.0 buc × 41.28 RON | referință
+  termen: Modul de livrare: In sarcina Akro
+
+====================================================================================================
+CONVERSAȚIA c2125668 (nr. 527) | subiect: Comanda sare Septembrie si Octombrie
+Partener (după adrese): kasper-development.ro Achizitii KDCTermice | grupare nesigură: nu
+OFERTĂ S02874 v1 trimisă 2026-09-25 12:02 în m2160324 (Odoo: Comandă de vânzare): [12-002006] Sare tablete AKRO - dedurizare 25 kg x60.0 buc
+OFERTĂ S02873 v1 trimisă 2026-09-25 12:02 în m2160324 (Odoo: Comandă de vânzare): [12-002006] Sare tablete AKRO - dedurizare 25 kg x60.0 buc
+
+--- MESAJ m2125668 | 2026-09-25 11:50 | Inbox | EXTERN
+De la: Achizitii KDCTermice <achizitii.kdctermice@kasper-development.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Comanda sare Septembrie si Octombrie
+Buna ,
+
+Confirm comanda pentru 120 saci
+
+Factura septembrie- 60saci
+
+Factura octombrie- 60saci
+
+Multumesc frumos!
+
+EUGENIA GRIGORE
+
+SPECIALIST ACHIZITII
+
+KDC TERMICE BRASOV SRL
+
+Str. Zaharia Stancu nr. 6, BRASOV
+
+Tel:
++40734303478
+
+Mail:
+achizitii.kdctermice@kasper-development.ro
+
+Achizitii KDCTermice
+
+E:
+achizitii.kdctermice@kasper-development.ro
+
+M:
+
+Str. Zaharia Stancu nr.6, Brașov - România
+
+www.kasper-development.ro
+
+Prezentul e-mail nu constituie acceptarea unei oferte, iar continutul acestui e-mail nu reprezinta în niciun caz
+o oferta de a contracta ori un acord obligatoriu. Nicio propunere comerciala cuprinsa în prezentul mesaj nu va fi considerata oferta, cu exceptia cazului în care este semnata în mod valabil de catre un reprezentant autorizat al dezvoltatorului. Informatiile
+din prezentul email precum si informatiile cuprinse in atasamentele acestuia sunt confidentiale si sunt destinate exclusiv destinatarului. Orice divulgare, a informatiilor primite, catre terte persoane poate atrage consecinte grave, respectiv plata de daune
+interese care vor fi cuantificate in functie de prejudiciul cauzat.
+
+--- MESAJ m2160164 | 2026-09-25 11:53 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: Comanda sare Septembrie si Octombrie
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Achizitii KDCTermice <achizitii.kdctermice@kasper-development.ro>
+Sent: Friday, September 25, 2026 11:50 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: Comanda sare Septembrie si Octombrie
+
+Buna ,
+
+Confirm comanda pentru 120 saci
+
+Factura septembrie- 60saci
+
+Factura octombrie- 60saci
+
+Multumesc frumos!
+
+EUGENIA GRIGORE
+
+SPECIALIST ACHIZITII
+
+KDC TERMICE BRASOV SRL
+
+Str. Zaharia Stancu nr. 6, BRASOV
+
+Tel: +40734303478
+
+Mail: achizitii.kdctermice@kasper-development.ro
+
+Achizitii KDCTermice
+
+E: achizitii.kdctermice@kasper-development.ro
+M:
+
+Str. Zaharia Stancu nr.6, Brașov - România
+www.kasper-development.ro
+
+Prezentul e-mail nu constituie acceptarea unei oferte, iar continutul acestui e-mail nu reprezinta în niciun caz o oferta de a contracta ori un acord obligatoriu. Nicio propunere comerciala cuprinsa în prezentul mesaj nu va fi considerata oferta, cu exceptia cazului în care este semnata în mod valabil de catre un reprezentant autorizat al dezvoltatorului. Informatiile din prezentul email precum si informatiile cuprinse in atasamentele acestuia sunt confidentiale si sunt destinate exclusiv destinatarului. Orice divulgare, a informatiilor primite, catre terte persoane poate atrage consecinte grave, respectiv plata de daune interese care vor fi cuantificate in functie de prejudiciul cauzat.
+
+--- MESAJ m2160324 | 2026-09-25 12:02 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Achizitii KDCTermice <achizitii.kdctermice@kasper-development.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Comanda sare Septembrie si Octombrie
+Salutari,
+
+Te rog sa regasesti anexate cele doua confirmari de comanda.
+
+Va anunt de indata cand putem livra !
+
+O zi cu spor!
+[ATAȘAMENT: Comanda - S02874 - KDC - OCTOMBRIE.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: Comanda - S02873 - KDC - SEPTEMBRIE.pdf | ofertă Odoo, parsată mai sus]
+
+####################################################################################################
+RÂND c2162180 (nr. 560) | stare: Completă | categorie: 12-Chimicale pentru conditionare si intretinere | cerere: Antiscalant pentru osmoză inversă – 500 kg
+CERINȚA: Cere ofertă pentru 500 kg antiscalant pentru instalațiile de osmoză inversă. [m2162180] «antiscalant (antiincrustant, protectie continua impotriva depunerilor pe membrane si echipamente din instalatiile de osmoza inversa) – 500 kg»
+CERINȚĂ FINALĂ (cantitate): 500 kg [m2162180] «din instalatiile de osmoza inversa) – 500 kg»
+CERINȚĂ FINALĂ (aplicație): Protecția membranelor instalațiilor de osmoză inversă [m2162180] «protectie continua impotriva depunerilor pe membrane si echipamente din instalatiile de osmoza inversa»
+CERINȚĂ FINALĂ (loc livrare): Transport inclus la Roșiori [m2162180] «Acesta include toate taxele si transportul la Rosiori.»
+CERINȚĂ FINALĂ (altele): Preț în lei fără TVA, plată OP la 30 de zile, achiziție prin SEAP [m2162180] «Pretul va fi exprimat in lei (fara TVA). Plata se va face cu OP la 30 de zile»
+CERINȚĂ FINALĂ (termen): Termen de răspuns 01.10.2026 ora 14 [m2162180] «Termen de raspuns 01.10.2026 ora 14»
+CLARIFICARE: întrebare Clientul cere avizul sanitar valabil pentru produsul ofertat. [m2127652] «Va rog transmiteti si avizul sanitar valabil in termen pentru produsul ofertat.» → răspuns AKRO explică că antiscalantul nu are aviz sanitar, nefiind aditiv pentru apa de băut. [m2162468] «Antiscalantul nu detine aviz sanitar.» | schimbare: Clientul cere aviz sanitar; produsul nu are, deoarece nu se dozează în apa potabilă.
+FIȘĂ DE SECURITATE (odată cu oferta): AKRO trimite fișa de securitate pentru GEL ANTISCALANT RO1 (EN și RO) împreună cu oferta și fișa tehnică SP0222. [m2162180] «Las anexata si fisa de securitate a produsului nostru.»
+REZULTAT: necunoscut
+PREȚURI Ofertă S02894 v1 (2026-09-30), total 26633.01 RON:
+  [12-002026] ANTISCALANT PENTRU INTRETINEREA INSTALATIILOR DE OSMOZA - GEL ANTISCALANT RO1 - 25KG Termen livrare: 15 zile | 20.0 buc × 1294.75 RON (reducere 15.0%) | referință
+  termen: Modul de livrare: In sarcina Akro
+  termen: Condiții de plată: 30 de zile
+
+====================================================================================================
+CONVERSAȚIA c2162180 (nr. 560) | subiect: RE: Cerere oferta
+Partener (după adrese): apabraila.ro  | grupare nesigură: nu
+OFERTĂ S02894 v1 trimisă 2026-09-30 14:38 în m2162180 (Odoo: Ofertă trimisă): [12-002026] ANTISCALANT PENTRU INTRETINEREA INSTALATIILOR DE OSMOZA - GEL ANTISCALANT RO1 -  x20.0 buc
+
+--- MESAJ m2162180 | 2026-09-30 14:38 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: bcoada@apabraila.ro <bcoada@apabraila.ro>
+Cc: coprisan@apabraila.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Cerere oferta
+Buna ziua,
+
+Va multumim pentru solicitarea dumneavoastra!
+
+Va trimitem anexata oferta de pret pentru antiscalantul universal GEL RO [ cantitate 500kg] .
+
+Acesta este un antiscalant recomandat pentru inhibarea ionilor metalici si duritate – dozaj 2-5ppm antiscalant/ 1m3 de apa bruta – pe alimentarea osmozei.
+
+Las anexata si fisa de securitate a produsului nostru.
+
+Pentru orice alte intrebari sau informatii va stau cu placere la dispozitie!
+
+Cu respect,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: bcoada@apabraila.ro <bcoada@apabraila.ro>
+Sent: Wednesday, September 30, 2026 1:46 PM
+To: contact@akro.ro
+Cc: coprisan@apabraila.ro
+Subject: Cerere oferta
+
+Buna ziua!
+
+Prin prezenta va solicitam oferta de preturi pentru urmatoarele:
+
+- antiscalant (antiincrustant, protectie continua impotriva depunerilor pe membrane si echipamente din instalatiile de osmoza inversa) – 500 kg
+
+Precizati termenul de livrare!
+
+Pretul va fi exprimat in lei (fara TVA). Plata se va face cu OP la 30 de zile
+
+Acesta include toate taxele si transportul la Rosiori.
+
+Termen de raspuns 01.10.2026 ora 14
+
+Achizitia se va face prin SEAP
+
+Cu stima,
+
+Ing. Bogdan Coada
+
+Serviciul Achizitii, Aprovizionare, Administrativ
+
+S.C. Compania de Utilitati Publice Dunarea Braila S.A.
+
+ROMANIA, 810140 BRAILA, Str. Piata Uzinei nr.1
+
+Tel.: 0731.555.104
+
+E-mail: bcoada@apabraila.ro
+
+Acest mesaj electronic și orice fișiere atașate sunt confidențiale și destinate exclusiv persoanei sau entității căreia îi sunt adresate. Dacă ați primit acest mesaj din greșeală, vă rugăm să ne anunțați imediat prin răspuns la acest e-mail și să ștergeți mesajul din sistemul dumneavoastră fără a-l distribui, copia sau utiliza în orice mod. Prelucrarea datelor dumneavoastra cu caracter personal este o prioritate pentru noi. Pentru informații detaliate despre modul în care colectăm, utilizăm și protejăm datele dumneavoastră personale, vă rugăm să consultați https://apabraila.ro/ sectiune P.D.C.P. sau să ne contactați la e-mail cpdp@apabraila.ro.
+[ATAȘAMENT: Oferta - S02894  - Compania de Utilitati Publice Dunarea Braila - 30.09.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: EN_Scheda di sicurezza N_SS 222_CLP_14_GEL ANTISCALANT RO1.pdf | text extras]
+[ATAȘAMENT: SP0222-gel antiscalant ro1_eng.pdf | text extras]
+[ATAȘAMENT: SP0222-GEL ANTISCALANT RO 1-GB.pdf | text extras]
+[ATAȘAMENT: RM_Scheda di sicurezza N_SS 222_CLP_14_GEL ANTISCALANT RO1.pdf | text extras]
+
+--- MESAJ m2127652 | 2026-10-01 12:56 | Inbox | EXTERN
+De la: bcoada@apabraila.ro <bcoada@apabraila.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: coprisan@apabraila.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Cerere oferta
+Buna ziua!
+
+Va rog transmiteti si avizul sanitar valabil in termen pentru produsul ofertat.
+
+--- MESAJ m2162468 | 2026-10-01 13:12 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: bcoada@apabraila.ro <bcoada@apabraila.ro>
+Cc: coprisan@apabraila.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Cerere oferta
+Buna ziua,
+
+Antiscalantul nu detine aviz sanitar.
+
+Antiscalantii nu se dozeaza ca aditivi la apa de baut!
+
+Scopul dozarii de antiscalanti este ca membranele osmotice sa fie protejate impotriva depunerilor. [ asta inseamna ca tot antiscalantul este retinut in membranele osmotice si regasit in apa evacuata la canal].
+
+Numai bine,
+
+####################################################################################################
+RÂND c2163492 (nr. 585) | stare: Completă | categorie: 12-Chimicale pentru conditionare si intretinere | cerere: Antiscalant RO1 pentru osmoză, 40 litri
+CERINȚA: Cerere de ofertă de pe site pentru agent antiscalant RO1, 40 litri. [m2163492] «Denumire produs: Agent antiscalant RO1»
+CERINȚĂ FINALĂ (cantitate): 40 litri [m2163492] «Cantitate: 40 litri Companie: Her&stra cyprinus»
+FIȘĂ DE SECURITATE (odată cu oferta): AKRO trimite fișa de date de securitate (Scheda di sicurezza SS 222) pentru Gel Antiscalant RO1 împreună cu oferta și cu fișa tehnică SP0222. [m2163492] «Va rog sa regasiti anexata oferta de pret si fisa de date pentru acesta.»
+REZULTAT: necunoscut
+PREȚURI Ofertă S02908 v1 (2026-10-05), total 3005.04 RON:
+  [12-002026] ANTISCALANT PENTRU INTRETINEREA INSTALATIILOR DE OSMOZA - GEL ANTISCALANT RO1 - 25KG | 2.0 buc × 1364.56 RON (reducere 9.0%) | referință
+  termen: Modul de livrare: In sarcina Akro
+  termen: Termen de plata: 100% in avans
+
+====================================================================================================
+CONVERSAȚIA c2163492 (nr. 585) | subiect: RE: AKRO :: Cerere oferta
+Partener (după adrese): ferma6martie@yahoo.com  | grupare nesigură: nu
+OFERTĂ S02908 v1 trimisă 2026-10-05 09:45 în m2163492 (Odoo: nu e în lista Odoo): [12-002026] ANTISCALANT PENTRU INTRETINEREA INSTALATIILOR DE OSMOZA - GEL ANTISCALANT RO1 -  x2.0 buc
+
+--- MESAJ m2163492 | 2026-10-05 09:45 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: ferma6martie@yahoo.com <ferma6martie@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: AKRO :: Cerere oferta
+Buna ziua ,
+Va multumim pentru solicitarea dumneavoastra!
+
+Singurul antiscalant pe care il comercializam este antiscalantul GEL – RO1
+
+Va rog sa regasiti anexata oferta de pret si fisa de date pentru acesta.
+
+La acest moment avem produsul disponibil in stoc si putem livra in termen de 2-3 zile de la comanda dumneavoastra ferma!
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Akro <office@akro.ro>
+Sent: Sunday, October 4, 2026 7:43 AM
+To: sales@akro.ro
+Subject: AKRO :: Cerere oferta
+
+O noua cerere a fost trimisa de pe site:
+
+Denumire produs: Agent antiscalant RO1
+Link produs: https://akro.ro/produse/produs/agent-antiscalant-ro1/
+
+Nume: Tanase
+Prenume: Tudor
+Adresa de email: ferma6martie@yahoo.com
+Numar de telefon: 0792176198
+Cantitate: 40 litri
+Companie: Her&stra cyprinus
+Mesaj:
+
+UTM Parameters: {"utm_campaign":"","utm_source":"","utm_medium":"","utm_term":"","utm_content":"","gclid":"","gad_source":"","gad_campaignid":"","gbraid":""}
+
+Akro © 2026
+[ATAȘAMENT: Oferta - S02908 - HER & STRA CYPRINUS - 05.10.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: EN_Scheda di sicurezza N_SS 222_CLP_14_GEL ANTISCALANT RO1.pdf | text extras]
+[ATAȘAMENT: SP0222-gel antiscalant ro1_eng.pdf | text extras]
+[ATAȘAMENT: SP0222-GEL ANTISCALANT RO 1-GB.pdf | text extras]
+[ATAȘAMENT: RM_Scheda di sicurezza N_SS 222_CLP_14_GEL ANTISCALANT RO1.pdf | text extras]
+
+####################################################################################################
+RÂND c2130436 (nr. 613) | stare: Completă | categorie: 12-Chimicale pentru conditionare si intretinere | cerere: Un palet de sare pentru dedurizare
+CERINȚA: Comandă fermă pentru un palet de sare pentru dedurizare, cu livrare la începutul săptămânii următoare. [m2130436] «Prin prezenta aveti comanda ferma de un palet de sare dedurizare cu livrare la inceputul»
+CERINȚĂ FINALĂ (cantitate): 1 palet de sare (40 saci de 25 kg tablete) [m2165252] «Sare tablete AKRO - dedurizare 25 kg 40,00 buc»
+CERINȚĂ FINALĂ (termen): Livrare la începutul săptămânii următoare [m2130436] «cu livrare la inceputul saptamanii viitoare»
+REZULTAT: acceptată — Comandă fermă confirmată de AKRO; livrare prin Pallex. [m2130436] «Prin prezenta aveti comanda ferma de un palet de sare dedurizare»
+PREȚURI Confirmare de comandă S02931 v1 (2026-10-08), total 1996.5 RON:
+  [12-002006] Sare tablete AKRO - dedurizare 25 kg | 40.0 buc × 41.25 RON | referință
+  termen: Modul de livrare: In sarcina Akro
+
+====================================================================================================
+CONVERSAȚIA c2130436 (nr. 613) | subiect: Comanda sare dedurizare 08.10.2026
+Partener (după adrese): cornuboulangerie.ro Eugen Popa | grupare nesigură: nu
+OFERTĂ S02931 v1 trimisă 2026-10-08 09:28 în m2165252 (Odoo: nu e în lista Odoo): [12-002006] Sare tablete AKRO - dedurizare 25 kg x40.0 buc
+
+--- MESAJ m2130436 | 2026-10-08 09:23 | Inbox | EXTERN
+De la: Eugen Popa <eugen.popa@cornuboulangerie.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Comanda sare dedurizare 08.10.2026
+Buna ziua
+
+Prin prezenta aveti comanda ferma de un palet de sare dedurizare cu livrare la inceputul
+saptamanii viitoare
+
+Meilleures salutations et bonne journée / Mit freundlichen Grüssen / Kind regards
+
+Eugen Popa
+
+Responsable exploitation
+
+Cornu Boulangerie SRL
+
+cornu.ch
+
+Cet e-mail est ŕ l'intention exclusive de la personne ŕ laquelle il est adressé, et peut contenir des informations privilégiées et/ou confidentielles. Si vous
+recevez ce message par erreur, il vous est strictement interdit de le garder, de le distribuer, de le faire suivre ou de le copier. Merci d'en avertir immédiatement l'expéditeur par téléphone (+41 24 436 15 42) ou par un e-mail en retour et de supprimer la
+transmission originale ainsi que toute copie.
+
+This e-mail is intended only for the person to which it is addressed and may contain information that is privileged and/or confidential. If you
+are not the intended recipient, you are hereby notified that any dissemination or copying of this communication is prohibited. Please notify us of the error in communication by telephone (+41 24 436 15 42) or by return e-mail and destroy all copies of this
+communication.
+
+--- MESAJ m2165220 | 2026-10-08 09:24 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: Comanda sare dedurizare 08.10.2026
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Eugen Popa <eugen.popa@cornuboulangerie.ro>
+Sent: Thursday, October 8, 2026 9:23 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: Comanda sare dedurizare 08.10.2026
+
+Buna ziua
+
+Prin prezenta aveti comanda ferma de un palet de sare dedurizare cu livrare la inceputul saptamanii viitoare
+
+Meilleures salutations et bonne journée / Mit freundlichen Grüssen / Kind regards
+
+Eugen Popa
+
+Responsable exploitation
+
+Cornu Boulangerie SRL
+
+cornu.ch
+
+Cet e-mail est ŕ l'intention exclusive de la personne ŕ laquelle il est adressé, et peut contenir des informations privilégiées et/ou confidentielles. Si vous recevez ce message par erreur, il vous est strictement interdit de le garder, de le distribuer, de le faire suivre ou de le copier. Merci d'en avertir immédiatement l'expéditeur par téléphone (+41 24 436 15 42) ou par un e-mail en retour et de supprimer la transmission originale ainsi que toute copie.
+
+This e-mail is intended only for the person to which it is addressed and may contain information that is privileged and/or confidential. If you are not the intended recipient, you are hereby notified that any dissemination or copying of this communication is prohibited. Please notify us of the error in communication by telephone (+41 24 436 15 42) or by return e-mail and destroy all copies of this communication.
+
+--- MESAJ m2165252 | 2026-10-08 09:28 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Eugen Popa <eugen.popa@cornuboulangerie.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Comanda sare dedurizare 08.10.2026
+Buna ziua Dl Popa,
+
+Va multumim pentru comanda!
+
+Va rog sa regasiti anexata confirmarea.
+
+Revin de indata ce am incarcat paletul din cariera.
+
+Cu respect,
+[ATAȘAMENT: Comanda - S02931 - Cornu Boulangerie - 08.10.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2165540 | 2026-10-08 10:57 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Eugen Popa <eugen.popa@cornuboulangerie.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Comanda sare dedurizare 08.10.2026
+Buna ziua Dl Popa,
+
+Avem OK-ul pentru incarcarea paletului in aceasta dupa masa .
+
+Produsele se vor livra la dumneavoastra in acest caz luni sau cel tarziu marti prin Pallex.
+
+Anexat va rog sa regasiti avizul de expeditie.
+
+Colegii vor reveni cu detaliile de livrare si factura fiscala!
+
+Cu respect,
+[ATAȘAMENT: Operațiuni de ridicare - EUGEN POPA - WH_OUT_01279.pdf | text extras]
+
+--- MESAJ m2130724 | 2026-10-08 11:12 | Inbox | AKRO
+De la: andrei.dobrei@akro.ro <andrei.dobrei@akro.ro>
+Către: eugen.popa@cornuboulangerie.ro <eugen.popa@cornuboulangerie.ro>
+Cc: office@akro.ro, alexandru.soare@akro.ro
+Subiect: FW: Comanda sare dedurizare 08.10.2026
+Buna ziua,
+
+Va rog sa regasiti in atasament CMR in vederea livrarii paletului de sare catre dumneavoastra.
+
+Estimarea de livrare conform CMR este 12-13 octombrie.
+
+Va multumim!
+
+Cu stima,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Thursday, October 8, 2026 10:57 AM
+To: 'Eugen Popa' <eugen.popa@cornuboulangerie.ro>
+Cc: office@akro.ro; andrei.dobrei@akro.ro
+Subject: RE: Comanda sare dedurizare 08.10.2026
+
+Buna ziua Dl Popa,
+
+Avem OK-ul pentru incarcarea paletului in aceasta dupa masa .
+
+Produsele se vor livra la dumneavoastra in acest caz luni sau cel tarziu marti prin Pallex.
+
+Anexat va rog sa regasiti avizul de expeditie.
+
+Colegii vor reveni cu detaliile de livrare si factura fiscala!
+
+Cu respect,
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Thursday, October 8, 2026 9:28 AM
+To: 'Eugen Popa' <eugen.popa@cornuboulangerie.ro>
+Cc: 'office@akro.ro' <office@akro.ro>; 'andrei.dobrei@akro.ro' <andrei.dobrei@akro.ro>
+Subject: RE: Comanda sare dedurizare 08.10.2026
+
+Buna ziua Dl Popa,
+
+Va multumim pentru comanda!
+
+Va rog sa regasiti anexata confirmarea.
+
+Revin de indata ce am incarcat paletul din cariera.
+
+Cu respect,
+
+From: Eugen Popa <eugen.popa@cornuboulangerie.ro>
+Sent: Thursday, October 8, 2026 9:23 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: Comanda sare dedurizare 08.10.2026
+
+Buna ziua
+
+Prin prezenta aveti comanda ferma de un palet de sare dedurizare cu livrare la inceputul saptamanii viitoare
+
+Meilleures salutations et bonne journée / Mit freundlichen Grüssen / Kind regards
+
+Eugen Popa
+
+Responsable exploitation
+
+Cornu Boulangerie SRL
+
+cornu.ch
+
+Cet e-mail est à l'intention exclusive de la personne à laquelle il est adressé, et peut contenir des informations privilégiées et/ou confidentielles. Si vous recevez ce message par erreur, il vous est strictement interdit de le garder, de le distribuer, de le faire suivre ou de le copier. Merci d'en avertir immédiatement l'expéditeur par téléphone (+41 24 436 15 42) ou par un e-mail en retour et de supprimer la transmission originale ainsi que toute copie.
+
+This e-mail is intended only for the person to which it is addressed and may contain information that is privileged and/or confidential. If you are not the intended recipient, you are hereby notified that any dissemination or copying of this communication is prohibited. Please notify us of the error in communication by telephone (+41 24 436 15 42) or by return e-mail and destroy all copies of this communication.
+[ATAȘAMENT: CORNU BOULANGERIE_08.10.2026_900285.pdf | text extras]
+
+####################################################################################################
+RÂND c2151748 (nr. 333) | stare: Fără ofertă | categorie: 12-Chimicale pentru conditionare si intretinere | cerere: Soluție de curățare / hipoclorit pentru osmoză casnică
+CERINȚA: Caută o soluție de curățat sau hipoclorit de sodiu pentru rezervorul și conductele unui sistem casnic de osmoză inversă cu biofilm. [m2151748] «Ma intereseaza o solutie de curatat sau hipoclorit de sodiu.»
+CERINȚĂ FINALĂ (aplicație): Curățarea rezervorului de 5 L și a conductelor unui sistem de osmoză inversă cu 5 filtre (Sistema 5, Dedeman) [m2151748] «am un sistem de filtrare apa cu osmoza inversa compus din 5 filtre + rezervor 5L.»
+REZULTAT: AKRO nu a ofertat — AKRO refuză: nu are soluții/chimicale în portofoliu și lucrează în special pe instalații industriale. [m2151748] «Din pacate nu avem disponibile in portofoliu produse de tipul solutii/chimicale»
+
+
+====================================================================================================
+CONVERSAȚIA c2151748 (nr. 333) | subiect: RE: Biofilm
+Partener (după adrese): cristian.balan@outlook.com Cristian Balan | grupare nesigură: nu
+
+--- MESAJ m2151748 | 2026-08-24 13:35 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Cristian Balan <cristian.balan@outlook.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Biofilm
+Buna ziua Dl Balan,
+Va multumim pentru solicitarea dumneavoastra!
+Din pacate nu avem disponibile in portofoliu produse de tipul solutii/chimicale .
+
+De asemenea va aducem in vedere ca firma AKRO activeaza in special in cazul instalatiilor industriale.
+
+Pentru orice alte intrebari sau informatii din domeniul tratarii apelor, va stam la dispozitie !
+Numai bine,
+
+Alexandru SOARE
+Manager tehnic | AKRO SRL
+
+(+40) 728 994472 | (+40) 268 413180
+alexandru.soare@akro.ro
+
+Strada Zizinului, Nr 110, Brașov, 500407, România
+www.akro.ro | contact@akro.ro | www.spectra.ro
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+-----Original Message-----
+From: Cristian Balan <cristian.balan@outlook.com>
+Sent: Monday, August 24, 2026 12:32 PM
+To: sales@akro.ro
+Subject: Biofilm
+
+Buna,
+
+Cristi Balan ma numesc,
+
+am un sistem de filtrare apa cu osmoza inversa compus din 5 filtre + rezervor 5L. Achizitionat de la Dedeman, Sistema 5 se numeste.
+Plec destul de des cate 1-2 saptamani de acasa si cand revin apa are un gust neplacut si observ biofilm la robinet. Am luat filtre de schimb dar as vrea sa curat cat de bine pot rezervorul de apa si conductele inainte sa le pun.
+Ma intereseaza o solutie de curatat sau hipoclorit de sodiu.
+
+Multumesc mult,
+
+Cristi Balan
+
+####################################################################################################
+RÂND c2156036-2 (nr. 425.2) | stare: Fără ofertă | categorie: 12-Chimicale pentru conditionare si intretinere | cerere: Analiza și tratarea apei din turnurile de răcire
+CERINȚA: Cere analiza și tratarea apei pentru două turnuri de răcire. [m2156036] «avem si doua turnuri de racire pentru care avem nevoie de analiza si tratarea apei.»
+CLARIFICARE: întrebare - → răspuns AKRO nu poate prezenta o propunere pentru tratarea turnurilor de răcire; poate furniza doar pretratarea apei de completare. [m2156036] «din pacate nu va putem prezenta o propunere comerciala si tehnica» | schimbare: AKRO declină tratarea turnurilor de răcire; rămâne posibilă doar pretratarea apei de adaos.
+REZULTAT: necunoscut
+
+
+====================================================================================================
+CONVERSAȚIA c2156036 (nr. 425) | subiect: RE: Propunere colaborare service
+Partener (după adrese): aenova-group.com Dumitrascu Octavian, Brinza Catalin, Sovaiala Alin | grupare nesigură: da
+
+--- MESAJ m2156036 | 2026-09-08 14:54 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dumitrascu Octavian <octavian.dumitrascu@aenova-group.com>, sales@akro.ro <sales@akro.ro>
+Cc: catalin.brinza@aenova-group.com, alin.sovaiala@aenova-group.com, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Propunere colaborare service
+Buna ziua Dl Dumitrascu,
+
+Va multumim pentru solicitarea dumneavoastra!
+
+Pentru partea de analiza a apei din turnurile de racire si adoptarea unei instalatii de tratare – din pacate nu va putem prezenta o propunere comerciala si tehnica. In special in acest tip de instalatie furnizorii de chimicale sunt cei care recomanda tratamentele iar pompele de dozare sunt alese in functie de tipul de solutie. In cazul in care nu exista, putem furniza pretratarea apelor de completare – dar utilajele se recomanda in functie de calitatea apei primare si calitatea la care se doreste a se ajunge cu apa tratata – specificatiile pentru apa de adaos.
+
+Pentru mentenanta sistemelor Herco, am fi interesati de o posibila colaborare, dat fiind ca Herco face parte din grupul PWG pe care il reprezentam .
+
+Totusi, daca aveti disponibilitate, am avea nevoie si de cateva fotografii de ansamblu cu cele doua linii de tratare existente [ dorim sa vedem tipul de vane existente si gabaritul echipamentelor]
+
+De asemenea ne-ar ajuta fotografii cu placutele statiilor de osmoza respectiv a modulelor EDI. Pentru a ne face o idee despre modelul instalat in locatie – spre exemplu - [ UO 3000BW]
+
+Din ce an sunt montate cele doua linii?
+
+A fost executata vreo mentenanta la acestea ?
+
+La sistemele de osmoza s-au mai inlocuit in trecut membranele , daca da, ar ajuta sa stim modelul de membrane. [ in trecut Herco furniza statiile cu membrane hydranautics , intre timp au schimbat cu membrane Oltremare , iar in ultimii ani -au inceput sa introduca membrane LG] – trebuie sa stim exact modelul din instalatie in ideea de a veni ori cu originalul ori cu echivalent [ dupa caz ]
+
+Asteptam cu interes raspunsul dumneavoastra!
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Dumitrascu Octavian <Octavian.Dumitrascu@aenova-group.com>
+Sent: Tuesday, September 8, 2026 1:38 PM
+To: contact@akro.ro; sales@akro.ro
+Cc: Brinza Catalin <Catalin.Brinza@aenova-group.com>; Sovaiala Alin <Alin.Sovaiala@aenova-group.com>
+Subject: Propunere colaborare service
+
+Buna ziua,
+
+Va contactez din partea companiei Aenova Romania din Cornu, PH, producator de capsule gelatinoase moi in industria food/pharma.
+
+Avem instalate doua sisteme de producere a apei purificate marca Herco, care includ dedurizatoare cu rasina si bazine saramura pentru regenerare, filtre cu carbune activ, lampi UV si module pentru osmoza inversa si EDI. De asemenea, avem si doua turnuri de racire pentru care avem nevoie de analiza si tratarea apei.
+
+Pentru a intretine aceste sisteme ne dorim o colaborare pentru mentenanta echipamentelor (interventii rapide si piese de schimb) si pentru analize de calitate a apei.
+
+Va rog sa ne spuneti daca oferiti aceste servicii, daca aveti experienta cu echipamente si standarde pharma (EU/FDA) si daca sunteti interesati de o colaborare in acest sens. Daca aveti nevoie de mai multe informatii pentru a lua o decizie in vederea colaborarii, va invitam la fabrica noastra pentru a vedea echipamentele mentionate anterior.
+
+Multumesc!
+
+Cu stima,
+
+Octavian Dumitrascu
+Maintenance Engineer
+
+Aenova Romania S.r.l.
+Member of the Aenova Group
+
+#20 Carol I Street
+107180 Cornu PH
+Romania
+
+Phone
+Email
+Web
+
++40 244 306-520
+octavian.dumitrascu@aenova-group.com
+www.aenova-group.com
+
+Members of the Aenova Group
+
+C.P.M. · CPR · Dragenopharm · Haupt Pharma · Swiss Caps · SwissCo · Temmler
+
+SWISSCAPS ROMANIA SRL
+Carol I No 20 // 107180 Cornu-PH // Romania
+Registered: Trade Registry Prahova J29/555/1999
+President: Michael Ammann
+
+For details about what personal information we collect and why, please see our Privacy Notice on our website.
+
+P Please consider the environment before printing this email
+
+Disclaimer
+
+This e-mail is confidential and may be privileged or otherwise protected from disclosure. It may be read, copied and used only by the intended recipient. If you have received it in error, please notify the sender immediately by reply e-mail and then delete this message from your system; you are kindly requested not to copy or use it for any purpose or disclose its contents to any person. E-mail is not a secure method of communication, and e-mails may be interfered with or intercepted, or contain defects, and may not be successfully replicated on other systems. Aenova and the Members of the Aenova Group do not warrant that this e-mail, and any attachments, are virus free. You should take full responsibility for virus checking. If you have any doubts about the authenticity of an e-mail purportedly sent by us, please contact us immediately. We would also like to point out that the content of the e-mails we receive is regularly checked by us using screening software and spam filters. Unless otherwise stated any views or opinions presented are solely those of the author and do not represent those of Aenova and the Members of the Aenova Group.
+
+--- MESAJ m2121028 | 2026-09-14 09:12 | Inbox | EXTERN
+De la: Dumitrascu Octavian <octavian.dumitrascu@aenova-group.com>
+Către: sales@akro.ro <sales@akro.ro>, AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: catalin.brinza@aenova-group.com, alin.sovaiala@aenova-group.com, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Propunere colaborare service
+I'm using Mimecast to share large files with you. Please see the attached instructions.
+
+Buna ziua,
+
+Revin cu informatiile solicitate legat de mentenanta sistemelor de apa purificata. Am atasat cateva poze cu cele doua instalatii, etichetele modulelor RO si EDI si schema P&ID pentru a putea vedea mai multe detalii despre fiecare componenta.
+
+Cele doua statii sunt denumite intern Step1 si Step2 in functie de zona de productie deservita. Statia Step2 (UO-D 2000 FU) a fost instalata in 2018 si are un consum mic, motiv pentru care membranele nu au fost schimbate niciodata. Statia Step1 (UP-S7 2000 FU) este noua, a fost instalata in vara 2025 si are consum constant. In prezent folosim membrane TGM10D de la Toray, gasiti fisa tehnica in Arhiva->Step1. Legat de mentenanta, firma care a pus in functiune statiile de PW verifica periodic functionarea statiilor si ne asigura suportul atunci cand ele nu functioneaza corespunzator. Pana acum au fost schimbate membrane si cateva filtre, nu au avut defectiuni.
+
+Daca doriti sa aflati mai multe informatii, va stau la dispozitie.
+
+Cu stima,
+
+Octavian Dumitrascu
+Maintenance Engineer
+
+Phone
+
++40 244 306-520
+[ATAȘAMENT: atașament 2 | fără extensie]
+
+####################################################################################################
+RÂND c2123044 (nr. 486) | stare: Fără ofertă | categorie: 12-Chimicale pentru conditionare si intretinere | cerere: Biocid Vinkocide DBNPA 20
+CERINȚA: Întreabă dacă AKRO are în portofoliu Vinkocide DBNPA 20 pentru echipamentul lor. [m2123044] «Pentru echipamentul nostru achizitionam si Vinkocide DBNPA 20.»
+CERINȚĂ FINALĂ (tip echipament): Vinkocide DBNPA 20 (sau echivalent) [m2123044] «Pentru echipamentul nostru achizitionam si Vinkocide DBNPA 20.»
+CERINȚĂ FINALĂ (cantitate): Consum cca 100-125 kg/an [m2123076] «Consumul e cca 100-125kg/an.»
+CERINȚĂ FINALĂ (altele): Ambalare în canistre mici de 25 kg [m2123076] «Achizitia e la canister mici-25kg»
+CLARIFICARE: întrebare AKRO cere consumul anual estimat și modul de achiziție (canistre sau cuburi). [m2158916] «Imi puteti transmite si un consum estimat pe /an pentru acest reper?» → răspuns Clientul răspunde: cca 100-125 kg/an, în canistre de 25 kg. [m2123076] «Consumul e cca 100-125kg/an.» | schimbare: S-au precizat consumul anual și ambalarea.
+REZULTAT: AKRO nu a ofertat — AKRO nu are un produs echivalent (producătorul GEL nu are echivalent autorizat). [m2159428] «Revin cu un raspuns negativ in ceea ce priveste solicitarea dumneavoastra.»
+
+
+====================================================================================================
+CONVERSAȚIA c2123044 (nr. 486) | subiect: solicitare oferta
+Partener (după adrese): vrancart-recycling.com Gabriela Contofan, Liviu Ignat | grupare nesigură: nu
+
+--- MESAJ m2123044 | 2026-09-17 14:59 | Inbox | EXTERN
+De la: Gabriela Contofan <gabriela.contofan@vrancart-recycling.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: liviu.ignat@vrancart-recycling.com
+Subiect: solicitare oferta
+Buna ziua,
+
+Pentru echipamentul nostru achizitionam si Vinkocide DBNPA 20.
+
+Aveti in portofoliu acest produs?
+
+Cu stima,
+
+GABRIELA CONTOFAN
+
+M: +40
+745 149 806
+
+Email: gabriela.contofan@vrancart-recycling.com
+
+Str. Ecaterina Teodoroiu 17
+
+625100 Adjud-Vrancea, Romania
+
+Web: www.vrancart.ro
+
+--- MESAJ m2158916 | 2026-09-17 15:09 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Gabriela Contofan <gabriela.contofan@vrancart-recycling.com>
+Cc: liviu.ignat@vrancart-recycling.com, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: solicitare oferta
+Buna ziua,
+
+Trebuie sa fac o intrebare la producatorul Italian GEL pentru o echivalare.
+
+Imi puteti transmite si un consum estimat pe /an pentru acest reper?
+
+Cum faceti de obicei achizitia pentru aceasta substanta? [ la canistre mici sau cuburi de solutie?
+
+Astept raspuns!
+
+Numai bine,
+
+--- MESAJ m2123076 | 2026-09-17 15:12 | Inbox | EXTERN
+De la: Gabriela Contofan <gabriela.contofan@vrancart-recycling.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: liviu.ignat@vrancart-recycling.com, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: solicitare oferta
+Buna ziua,
+
+Consumul e cca 100-125kg/an.
+
+Achizitia e la canister mici-25kg
+
+Cu stima,
+
+GABRIELA CONTOFAN
+
+M: +40
+745 149 806
+
+Email: gabriela.contofan@vrancart-recycling.com
+
+Str. Ecaterina Teodoroiu 17
+
+625100 Adjud-Vrancea, Romania
+
+Web: www.vrancart.ro
+
+--- MESAJ m2159172 | 2026-09-18 14:20 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Gabriela Contofan <gabriela.contofan@vrancart-recycling.com>
+Cc: liviu.ignat@vrancart-recycling.com, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: solicitare oferta
+Buna ziua,
+
+Trimit acest e-mail ca si informare.
+
+Inca nu am un raspuns favorabil din partea producatorului cu care lucram in aceasta directie. [ AKRO nu comercializeaza chimicale de regula – singurele produse pe care le avem in stoc sunt antiscalantii pentru instalatiile de osmoza si solutiile de dezincrustare].
+
+Revin cu nouati in functie de ce ni se raspunde!
+
+Numai bine,
+
+--- MESAJ m2159428 | 2026-09-21 10:34 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Gabriela Contofan <gabriela.contofan@vrancart-recycling.com>
+Cc: liviu.ignat@vrancart-recycling.com, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: solicitare oferta
+Buna ziua,
+
+Revin cu un raspuns negativ in ceea ce priveste solicitarea dumneavoastra. Din pacate nu avem un produs echivalent Vinkocide DBNPA 20.
+
+Las mai jos si raspunsul oficial al producatorului:
+
+“Dear Alexandru,
+
+Thank you for your inquiry .
+
+Unfortunately, we do not currently have an equivalent product to Vinkocide DBNPA 20 that is authorized under the applicable EU Biocidal Products Regulation for the required application.
+
+For this reason, we are not able to offer a suitable equivalent for this specific application at the moment.
+
+Please feel free to come back to me for any further details you might require. “
+
+--- MESAJ m2123844 | 2026-09-21 10:36 | Inbox | EXTERN
+De la: Gabriela Contofan <gabriela.contofan@vrancart-recycling.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: liviu.ignat@vrancart-recycling.com, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: solicitare oferta
+Multumim,
+
+Cu stima,
+
+GABRIELA CONTOFAN
+
+M: +40
+745 149 806
+
+Email: gabriela.contofan@vrancart-recycling.com
+
+Str. Ecaterina Teodoroiu 17
+
+625100 Adjud-Vrancea, Romania
+
+Web: www.vrancart.ro
+
+####################################################################################################
+RÂND c2125988 (nr. 541) | stare: Fără ofertă | categorie: 12-Chimicale pentru conditionare si intretinere | cerere: Antiscalant echivalent Veolia MDC 704I / SUPERCHEM A11
+CERINȚA: Cere ofertă tehnico-economică pentru un antiscalant echivalent cu Veolia MDC 704I sau SUPERCHEM A11 (Buzău). [m2125988] «solutiile de antiscalant ca un inlocuitor/echivalent pentru tipul de antisclant Veolia MDC 704I sau SUPERCHEM A11»
+CERINȚĂ FINALĂ (cantitate): Consum estimat 4.800 kg/an [m2126276] «pentru antiscalantul solicitat? – un estimat de 4.800 kg.»
+CERINȚĂ FINALĂ (buget): Maxim 2 EUR/kg [m2126276] «pentru produsul echivalent? – maxim 2 euro/kg.»
+CERINȚĂ FINALĂ (aplicație): Alimentarea stațiilor de osmoză [m2163172] «utilizat pe alimentarea statiilor de osmoza»
+CLARIFICARE: întrebare AKRO întreabă consumul anual estimat. [m2160900] «Ne puteti transmite si care este consumul estimat pe an pentru antiscalantul solicitat?» → răspuns Aproximativ 4.800 kg pe an. [m2126276] «pentru antiscalantul solicitat? – un estimat de 4.800 kg.» | schimbare: Se precizează cantitatea anuală: 4.800 kg.
+CLARIFICARE: întrebare AKRO întreabă costul/kg așteptat; produsul se face pe comandă, minim 1 palet. [m2160900] «Care este costul/kg solutie pe care il asteptati pentru produsul echivalent?» → răspuns Maxim 2 EUR/kg. [m2126276] «pentru produsul echivalent? – maxim 2 euro/kg.» | schimbare: Se precizează bugetul: maxim 2 EUR/kg.
+CLARIFICARE: întrebare - → răspuns AKRO propune GEL RO 1 ca echivalent, dar prețul real ar fi cel puțin dublu. [m2163172] «echivalentul nostru pentru acest antiscalant este GEL RO 1» | schimbare: Produs echivalent propus: GEL RO 1; prețul cerut nu poate fi atins.
+FIȘĂ DE SECURITATE (fără ofertă): AKRO trimite fișa de securitate (Scheda di sicurezza) pentru GEL ANTISCALANT RO1, împreună cu fișa tehnică SP0222, fără propunere comercială. [m2163172] «echivalentul nostru pentru acest antiscalant este GEL RO 1 – fisa de date anexata»
+REZULTAT: AKRO nu a ofertat — AKRO nu mai trimite ofertă: prețul cerut (max 2 EUR/kg) nu poate fi atins. [m2163172] «iar in aceasta situatie probabil nu are sens sa trimitem o propunere comerciala»
+
+
+====================================================================================================
+CONVERSAȚIA c2125988 (nr. 541) | subiect: Cerere oferta antisclant Buzau
+Partener (după adrese): coralconstructii.ro Scripniciuc Mihai | grupare nesigură: nu
+
+--- MESAJ m2125988 | 2026-09-25 16:13 | Inbox | EXTERN
+De la: alex.dima@coralconstructii.ro <alex.dima@coralconstructii.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: alexandra.dinica@neobral.ro, nicolaie.jipianu@coralconstructii.ro, mihai.scripniciuc@coralconstructii.ro
+Subiect: Cerere oferta antisclant Buzau
+Buna ziua,
+
+Va rugam sa ne transmiteti oferta dvs tehnico-economica pentru solutiile de antiscalant ca un inlocuitor/echivalent pentru tipul de antisclant Veolia MDC 704I sau SUPERCHEM A11.
+
+Best regards,
+
+Alexandru Dima
+
+S.C. CORAL S.R.L.
+Bulevardul Maresal Averescu nr.15B/C, sector 1, Bucuresti
+
+Cladirea Triumph Business Center, Etaj 4, cod postal 011455
+
+alex.dima@coralconstructii.ro
+Mobil: +4 0799 732 125
+
+www.coralconstructii.ro
+
+--- MESAJ m2160900 | 2026-09-28 09:27 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: alex.dima@coralconstructii.ro <alex.dima@coralconstructii.ro>
+Cc: alexandra.dinica@neobral.ro, nicolaie.jipianu@coralconstructii.ro, office@akro.ro, mihai.scripniciuc@coralconstructii.ro, andrei.dobrei@akro.ro
+Subiect: RE: Cerere oferta antisclant Buzau
+Buna ziua Dl Dima,
+
+Ne puteti transmite si care este consumul estimat pe an pentru antiscalantul solicitat?
+
+Care este costul/kg solutie pe care il asteptati pentru produsul echivalent?
+
+Standard nu avem acest produs in portofoliu. Furnizorul nostru de chimicale il poate produce pe comanda, insa putem onora comanda numai pentru minim 1 palet.
+
+Asteptam raspuns!
+
+Numai bine,
+
+--- MESAJ m2126276 | 2026-09-28 09:31 | Inbox | EXTERN
+De la: alex.dima@coralconstructii.ro <alex.dima@coralconstructii.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: alexandra.dinica@neobral.ro, nicolaie.jipianu@coralconstructii.ro, office@akro.ro, mihai.scripniciuc@coralconstructii.ro, andrei.dobrei@akro.ro
+Subiect: RE: Cerere oferta antisclant Buzau
+Buna ziua,
+
+Mai jos raspunsurile solicitate:
+
+Ne puteti transmite si care este consumul estimat pe an pentru antiscalantul solicitat? – un estimat de 4.800 kg.
+
+Care este costul/kg solutie pe care il asteptati pentru produsul echivalent? – maxim 2 euro/kg.
+
+Best regards,
+
+Alexandru Dima
+
+S.C. CORAL S.R.L.
+Bulevardul Maresal Averescu nr.15B/C, sector 1, Bucuresti
+
+Cladirea Triumph Business Center, Etaj 4, cod postal 011455
+
+alex.dima@coralconstructii.ro
+Mobil: +4 0799 732 125
+
+www.coralconstructii.ro
+
+--- MESAJ m2161060 | 2026-09-28 10:02 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: Cerere oferta antisclant Buzau
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: alex.dima@coralconstructii.ro <alex.dima@coralconstructii.ro>
+Sent: Monday, September 28, 2026 9:36 AM
+To: 'AKRO Romania , Alexandru Soare' <alexandru.soare@akro.ro>
+Cc: 'alexandra.dinica' <alexandra.dinica@neobral.ro>; nicolaie.jipianu@coralconstructii.ro; office@akro.ro; 'Scripniciuc Mihai' <mihai.scripniciuc@coralconstructii.ro>; andrei.dobrei@akro.ro
+Subject: RE: Cerere oferta antisclant Buzau
+
+Buna ziua,
+
+Mai jos raspunsurile solicitate:
+
+Ne puteti transmite si care este consumul estimat pe an pentru antiscalantul solicitat? – un estimat de 4.800 kg.
+
+Care este costul/kg solutie pe care il asteptati pentru produsul echivalent? – maxim 2 euro/kg.
+
+Best regards,
+
+Alexandru Dima
+
+S.C. CORAL S.R.L.
+Bulevardul Maresal Averescu nr.15B/C, sector 1, Bucuresti
+
+Cladirea Triumph Business Center, Etaj 4, cod postal 011455
+
+alex.dima@coralconstructii.ro
+Mobil: +4 0799 732 125
+
+www.coralconstructii.ro
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: 28 September 2026 09:28
+To: alex.dima@coralconstructii.ro
+Cc: 'alexandra.dinica' <alexandra.dinica@neobral.ro>; nicolaie.jipianu@coralconstructii.ro; office@akro.ro; 'Scripniciuc Mihai' <mihai.scripniciuc@coralconstructii.ro>; andrei.dobrei@akro.ro
+Subject: RE: Cerere oferta antisclant Buzau
+
+Buna ziua Dl Dima,
+
+Ne puteti transmite si care este consumul estimat pe an pentru antiscalantul solicitat?
+
+Care este costul/kg solutie pe care il asteptati pentru produsul echivalent?
+
+Standard nu avem acest produs in portofoliu. Furnizorul nostru de chimicale il poate produce pe comanda, insa putem onora comanda numai pentru minim 1 palet.
+
+Asteptam raspuns!
+
+Numai bine,
+
+From: alex.dima@coralconstructii.ro <alex.dima@coralconstructii.ro>
+Sent: Friday, September 25, 2026 4:18 PM
+To: 'AKRO Romania , Alexandru Soare' <alexandru.soare@akro.ro>
+Cc: 'alexandra.dinica' <alexandra.dinica@neobral.ro>; nicolaie.jipianu@coralconstructii.ro; 'Scripniciuc Mihai' <mihai.scripniciuc@coralconstructii.ro>
+Subject: Cerere oferta antisclant Buzau
+
+Buna ziua,
+
+Va rugam sa ne transmiteti oferta dvs tehnico-economica pentru solutiile de antiscalant ca un inlocuitor/echivalent pentru tipul de antisclant Veolia MDC 704I sau SUPERCHEM A11.
+
+Best regards,
+
+Alexandru Dima
+
+S.C. CORAL S.R.L.
+Bulevardul Maresal Averescu nr.15B/C, sector 1, Bucuresti
+
+Cladirea Triumph Business Center, Etaj 4, cod postal 011455
+
+alex.dima@coralconstructii.ro
+Mobil: +4 0799 732 125
+
+www.coralconstructii.ro
+
+--- MESAJ m2163172 | 2026-10-02 15:38 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: alex.dima@coralconstructii.ro <alex.dima@coralconstructii.ro>
+Cc: alexandra.dinica@neobral.ro, nicolaie.jipianu@coralconstructii.ro, office@akro.ro, mihai.scripniciuc@coralconstructii.ro, andrei.dobrei@akro.ro
+Subiect: RE: Cerere oferta antisclant Buzau
+Buna ziua Dl Dima,
+
+Am discutat cu producatorul de chimicale.
+
+Antiscalantul Veolia MDC 704I este un antiscalant de inhibare a ionilor metalici utilizat pe alimentarea statiilor de osmoza.
+
+Chiar daca difera din punct de vedere chimic, echivalentul nostru pentru acest antiscalant este GEL RO 1 – fisa de date anexata.
+
+Pretul cerut insa nu poate fi atins chiar si pentru aceasta cantatiate comandata intr-o singura transa. Estimez ca un cost real ar fi de cel putin dublu sumei unitare solicitate, iar in aceasta situatie probabil nu are sens sa trimitem o propunere comerciala.
+
+Pentru orice alte informatii sau intrebari, va stau cu placere la dispozitie!
+
+Numai bine,
+[ATAȘAMENT: EN_Scheda di sicurezza N_SS 222_CLP_17_GEL ANTISCALANT RO1.pdf | text extras]
+[ATAȘAMENT: SP0222-gel antiscalant ro1_eng.pdf | text extras]
+
+####################################################################################################
+RÂND c2132708-1 (nr. 643.1) | stare: Fără ofertă | categorie: 12-Chimicale pentru conditionare si intretinere | cerere: Reactivi chimici pentru stații de tratare
+CERINȚA: Cere ofertă pentru reactivi (acid hidrocloric, dioxid de clor, acid clorhidric, BOPAC/MOPAC) pentru stații de tratare din jud. Alba. [m2132708] «am rugamintea de a ne comunica oferta de pret pentru urmatorii reactivi, pentru obiectivul Statii tratare in jud. Alba»
+CERINȚĂ FINALĂ (aplicație): Obiectivul Stații tratare în jud. Alba [m2132708] «pentru obiectivul Statii tratare in jud. Alba»
+REZULTAT: AKRO nu a ofertat — AKRO nu furnizează reactivi/chimicale în afară de antiscalanți, deci nu poate oferta. [m2167108] «Prin urmare pentru solicitarea dumneavoastra, nu va putem prezenta o propunere tehnica si comerciala!»
+
+
+====================================================================================================
+CONVERSAȚIA c2132708 (nr. 643) | subiect: Solicitare oferta reactivi
+Partener (după adrese): dimex2000.ro Elisabeta Itu | grupare nesigură: nu
+
+--- MESAJ m2132708 | 2026-10-13 15:01 | Inbox | EXTERN
+De la: Elisabeta Itu <itu.elisabeta@dimex2000.ro>
+Către: alexandru.soare@akro.ro <alexandru.soare@akro.ro>
+Subiect: Solicitare oferta reactivi
+Buna ziua,
+am rugamintea de a ne comunica oferta de pret pentru urmatorii reactivi, pentru obiectivul Statii tratare in jud. Alba:
+
+* CAG
+
+* acid hidrocloric
+
+* dioxid de clor
+
+* acid clorhidric
+
+* BOPAC/MOPAC
+
+Am fi recunoscatori pentru un raspuns prompt.
+
+Cele bune,
+
+Itu Elisabeta
+
+Manager financiar
+
+Dimex 2000 Company
+
+0747/250250
+
+--- MESAJ m2167108 | 2026-10-13 15:05 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Elisabeta Itu <itu.elisabeta@dimex2000.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Solicitare oferta reactivi
+Buna ziua ,
+
+Va multumim pentru solicitare!
+
+Firma AKRO din pacate nu furnizeaza si reactive/ chimicale – altceva in afara de antiscalanti pentru sistemele de osmoza.
+
+Prin urmare pentru solicitarea dumneavoastra, nu va putem prezenta o propunere tehnica si comerciala!
+
+Pentru orice alte informatii sau intrebari din domeniul tratarii apelor, va stam la dispozitie!
+
+Numai bine,
+
+--- MESAJ m2132740 | 2026-10-13 15:10 | Inbox | EXTERN
+De la: Elisabeta Itu <itu.elisabeta@dimex2000.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Re: Solicitare oferta reactivi
+Buna ziua, nici CAG?
+
+--- MESAJ m2167140 | 2026-10-13 15:26 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Elisabeta Itu <itu.elisabeta@dimex2000.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Solicitare oferta reactivi
+Buna ziua,
+
+GAC am putea oferta, insa avem nevoie sa stim:
+
+Ce tip de carbune activ granular se doreste? Origine bituminoasa sau coaja de nuca de cocos?
+
+Aveti o fisa tehnica pentru carbunele cautat? [ ne intereseaza in special numarul de iod]
+
+Se doreste ca produsul sa detina aviz sanitar de la MS Romania sau se accepta si un aviz sanitar emis de o tara membra UE?
+
+Despre ce cantitate discutam si cum se doreste livrarea la beneficiar – big bag de 500kg sau la saci individuali de 20 kg ?
+
+Sunt mai multe locatii de descarcare sau transportul se organizeaza intr-un singur loc?
+
+Astept cu interes raspunsul dumneavoastra!
+
+Numai bine,

@@ -1,0 +1,1693 @@
+[
+  {
+    "cod": "R13-01",
+    "titlu": "Stație de dedurizare fără date de dimensionare: AKRO cere întâi debitul orar, consumul zilnic, racordul, presiunea și duritatea",
+    "explicatie": "Se aplică atunci când cineva cere o stație de dedurizare, adică o stație care scoate calcarul din apă, fără să spună cât consumă sau ce țeavă are. AKRO nu trimite încă oferta. Întreabă întâi debitul maxim pe oră, consumul pe 24 de ore, racordul, presiunea și duritatea apei brute, iar uneori cere și o fotografie cu locul de montaj, ca să dimensioneze corect stația. Au fost și excepții: la o licitație cu caiet de sarcini a ofertat direct stația echivalentă și a cerut datele după aceea.",
+    "categorie": "13-Filtre multistrat diferite medii",
+    "cand": "Clientul cere o stație de dedurizare (sau un „filtru de dedurizare”) și nu dă debitul orar, consumul zilnic, racordul sau duritatea apei brute. Nu acoperă clientul care comandă din nou o configurație cumpărată anterior (regula R13-05).",
+    "clarificari": [
+      "Care este debitul maxim orar necesar la instalația de dedurizare?",
+      "Care este consumul de apă tratată în 24 h?",
+      "Ce dimensiune are racordul (țeava) în locul de montaj?",
+      "Ce presiune este în conductă în locul de montaj?",
+      "Care este duritatea apei brute (eventual sodiul și conductivitatea)?",
+      "Există un spațiu destinat montajului? (o fotografie ajută)"
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2163940",
+        "src": "m2163940",
+        "citat": "Care este debitul maxim orar necesar la instalatia de dedurizare?",
+        "pentru": "clarificare",
+        "nota": "Înainte de ofertă AKRO cere debitul orar, consumul în 24 h, racordul, presiunea și duritatea."
+      },
+      {
+        "conv": "c2158052",
+        "src": "m2158052",
+        "citat": "Dimensiunea de teava [ principala] prin care se alimenteaza cuptoarele",
+        "pentru": "clarificare",
+        "nota": "Pentru dedurizarea apei la cuptoare AKRO cere doar țeava principală, consumul zilnic și o fotografie a spațiului de montaj."
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "La o licitație cu caiet de sarcini (conversația 73), AKRO a ofertat direct o stație simplex de 350 L, echivalentă dimensional cu cea din caiet, și abia după ofertă a enumerat datele după care se dimensionează corect stația.",
+        "dovezi": [
+          {
+            "conv": "c2136068",
+            "src": "m2136068",
+            "citat": "oferta noastra de pret pentru o statie de dedurizare echivalenta celei din caietul de sarcini",
+            "pentru": "ofertă",
+            "nota": "Oferta pleacă direct, după dimensiunile din caietul de sarcini."
+          },
+          {
+            "conv": "c2136068",
+            "src": "m2136388",
+            "citat": "Dimensionarea corecta a acestor instalatii se face in functie de :",
+            "pentru": "clarificare",
+            "nota": "Datele de dimensionare sunt enumerate abia după ofertă, la discuția despre debit."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R13-02",
+    "titlu": "Dedurizare pentru o locuință cu debit instant de aprox. 3 mc/h: DEC 75/V simplex cu vană Clack, uneori în două variante de racord",
+    "explicatie": "Pentru o locuință unde consumatorii care merg în același timp cer în jur de 3 metri cubi pe oră, AKRO ofertează direct dedurizatorul DEC 75/V, o stație cu o singură coloană de 75 de litri de rășină. La acest debit, spune AKRO, coloana trebuie să aibă cel puțin 330 de milimetri diametru, ca apa să stea destul în contact cu rășina. O dată a trimis două variante de racord. Fișa tehnică a plecat cu oferta sau la cererea clientului, iar plata s-a cerut integral în avans.",
+    "categorie": "13-Filtre multistrat diferite medii",
+    "cand": "Clientul cere o stație de dedurizare pentru o locuință (apartament, penthouse) și dă consumatorii care merg simultan, adică un debit instant de aprox. 3 mc/h.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "13-001179",
+          "rol": "dedurizator simplex 75 L rășină, vană Clack CI 1.25\""
+        },
+        {
+          "ref": "13-001237",
+          "rol": "variantă cu vană Clack CI 1\" (aceeași stație, alt racord)"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișa tehnică a stației de 75 L, atașată la ofertă sau trimisă la cererea clientului"
+      ],
+      "conditii": [
+        "stația se dimensionează la butelia 13x54 (coloană de minimum 330 mm) pentru timpul de contact",
+        "plată 100% în avans"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2116964",
+        "src": "m2153636",
+        "citat": "atunci suntem obligati sa mergem pe o butelie de presiune cu dimensiunile de 13x54",
+        "pentru": "ofertă",
+        "nota": "La 3,2 mc/h AKRO dimensionează butelia 13x54 (75 L) și trimite două variante, cu vană de 1.25\" și de 1\". Fișele tehnice pleacă după ce le cere clientul."
+      },
+      {
+        "conv": "c2153828",
+        "src": "m2153828",
+        "citat": "va recomandam un dedurizator de 75 L rasina simplex",
+        "pentru": "ofertă",
+        "nota": "Pentru 3,1 mc/h AKRO ofertează DEC 75/V cu vană Clack 1.25\" și atașează fișa tehnică."
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R13-03",
+    "titlu": "Dedurizare cu apă 24 din 24 la debite între aprox. 5 și 15 mc/h: stație duplex alternant dimensionată pe debit",
+    "explicatie": "Clienții care au nevoie de apă dedurizată fără întrerupere, cum sunt fabricile, hotelurile sau restaurantele, primesc o stație duplex alternant. Are două coloane care lucrează pe rând, așa că apa nu se oprește cât timp una se regenerează, adică își spală rășina cu apă sărată. AKRO alege mărimea după debitul cerut, între aproximativ 5 și 15 metri cubi pe oră, și trimite fișa tehnică. Dacă lipsesc debitul sau duritatea, le cere înainte. Montajul și PIF-ul, adică pornirea la client, nu intră în ofertă.",
+    "categorie": "13-Filtre multistrat diferite medii",
+    "cand": "Un client industrial sau comercial (fabrică, hotel, restaurant, constructor cu specificație de proiect) cere dedurizare duplex sau apă dedurizată 24 din 24, cu debit dat între aprox. 5 și 15 mc/h. Nu acoperă stațiile mici cu racord de 1 țol (regula R13-04), licitațiile cu stație duplex de 700 L (regula R13-19) și reofertarea unei configurații cumpărate anterior (regula R13-05).",
+    "clarificari": [
+      "Debitul maxim orar și duritatea apei brute, dacă lipsesc (regula R13-01). Uneori se lămuresc la telefon."
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "13-001246",
+          "rol": "DEC 100-1.25/duplex, pentru aprox. 4,8 mc/h"
+        },
+        {
+          "ref": "13-001297",
+          "rol": "DEC 150 duplex alternant, vane Clack ABS 1.25\" (aprox. 5 mc/h)"
+        },
+        {
+          "ref": "13-001278",
+          "rol": "DEC 150 duplex, vane Clack alamă 1.5\" (variantă)"
+        },
+        {
+          "ref": "13-001307",
+          "rol": "DEC 175-1.5/duplex, 5 mc/h"
+        },
+        {
+          "ref": "13-001302",
+          "rol": "DEC 250-1.5/duplex, 10 mc/h la 10 °G"
+        },
+        {
+          "ref": "13-001176",
+          "rol": "DEC 450-2/duplex, 10 mc/h"
+        },
+        {
+          "ref": "13-001164",
+          "rol": "duplex cu 2 coloane de 700 L, vană Runxin RX99 2\" (11–12 mc/h)"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișa tehnică a stației duplex ofertate (atașată sau ca link)"
+      ],
+      "conditii": [
+        "montajul, asamblarea și PIF-ul nu sunt incluse în ofertă. AKRO le poate estima separat"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2107716",
+        "src": "m2107716",
+        "citat": "o instalatia de dedurizare model DUPLEX cu 450L pe fiecare coloana",
+        "pentru": "ofertă",
+        "nota": "Duplex alternant de 10 mc/h cerut: DEC 450 duplex, cu filtru NW500."
+      },
+      {
+        "conv": "c2155364",
+        "src": "m2155364",
+        "citat": "o instalatia de dedurizare dimensionata sa trateze cu un debit maxim de 10mc/h",
+        "pentru": "ofertă",
+        "nota": "Apă caldă, 10 mc/h la 10 °G, după o discuție telefonică: DEC 250-1.5 duplex, apă 24/24."
+      },
+      {
+        "conv": "c2153764",
+        "src": "m2153764",
+        "citat": "O statie de dedurizare duplex alternant cu vane clack de 1.25",
+        "pentru": "ofertă",
+        "nota": "Restaurant, 4,8 mc/h 24/24: duplex cu 100 L pe coloană, gabaritul minim pentru acest debit."
+      },
+      {
+        "conv": "c2163940",
+        "src": "m2163940",
+        "citat": "o statie de dedurizare duplex alternant de 150L cu MAV",
+        "pentru": "ofertă",
+        "nota": "Hotel 5 mc/h, 30 mc/zi: duplex 150 L, două variante de vane."
+      },
+      {
+        "conv": "c2127748",
+        "src": "m2162724",
+        "citat": "Statie duplex alternant cu 175 L rasina pe fiecare coloana",
+        "pentru": "ofertă",
+        "nota": "Specificație de proiectant 5 mc/h: DEC 175-1.5 duplex alternant."
+      },
+      {
+        "conv": "c2117124",
+        "src": "m2153956",
+        "citat": "Statia de dedurizare de 700L duplex cu vana RX 99",
+        "pentru": "ofertă",
+        "nota": "11–12 mc/h din foraje: duplex cu 2 coloane de 700 L RX99, același sistem ca la altă lucrare."
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R13-04",
+    "titlu": "Dedurizare duplex mică (racord 1\", până la aprox. 5 mc/h): AKRO ofertează stația duplex twin Clack TT, chiar dacă se cere „alternant”",
+    "explicatie": "Dacă se cere o stație duplex mică, cu racord de 1 țol și până la 100 de litri de rășină pe coloană, AKRO ofertează direct varianta twin cu vană Clack. Twin înseamnă două coloane comandate de o singură vană, care lucrează pe rând. AKRO o propune chiar și atunci când clientul a scris „duplex alternant” în cerere. Fișa tehnică pleacă odată cu oferta, iar livrarea durează de la circa 10 zile la 3 săptămâni.",
+    "categorie": "13-Filtre multistrat diferite medii",
+    "cand": "Clientul cere o stație duplex mică, cu racord de 1 țol și 16–100 L rășină pe coloană (debit de până la aprox. 5 mc/h), uneori numită „duplex alternant”.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "13-001173",
+          "rol": "DEC 16-1/duplex twin, 16 L rășină"
+        },
+        {
+          "ref": "13-001263",
+          "rol": "DEC 50-1/duplex twin, 50 L rășină"
+        },
+        {
+          "ref": "13-001174",
+          "rol": "DEC 75-1/duplex twin, 75 L rășină"
+        },
+        {
+          "ref": "13-001248",
+          "rol": "DEC 100-1/duplex twin, 100 L rășină"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișa tehnică a stației duplex twin"
+      ],
+      "conditii": [
+        "livrare în aprox. 10 zile până la 3 săptămâni de la comandă",
+        "stația twin de 100 L pleacă preasamblată, dar fără rășina încărcată"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2155236",
+        "src": "m2155236",
+        "citat": "va trimitem anexata cotatia de pret pentru o instalatie de dedurizare duplex twin cu vana Clack TT1CI",
+        "pentru": "ofertă",
+        "nota": "Cerut DEC 75 duplex cu racord 1\": ofertat twin TT1CI cu două vase de 75 L, după o discuție telefonică."
+      },
+      {
+        "conv": "c2163524",
+        "src": "m2163524",
+        "citat": "oferta de pret pentru dedurizatorul solicitat [ twin x 100L pe fiecare coloana]",
+        "pentru": "ofertă",
+        "nota": "Cerut EWS 100 duplex alternant 1\": ofertat twin 100 L pe coloană."
+      },
+      {
+        "conv": "c2129476",
+        "src": "m2164260",
+        "citat": "cotatia de pret pentru 1 statie duplex alternant cu vana Clack twin",
+        "pentru": "ofertă",
+        "nota": "Licitație 3 mc/h, 2x150 mc·°G: DEC 50 twin 1\"."
+      },
+      {
+        "conv": "c2127748",
+        "src": "m2162724",
+        "citat": "Statie duplex twin cu 16 L rasina pe fiecare coloana",
+        "pentru": "ofertă",
+        "nota": "Stația mică de 1,3 mc/h din specificație: twin 16 L, racord 1\"."
+      },
+      {
+        "conv": "c2133284",
+        "src": "m2167556",
+        "citat": "DEC 75-1/duplex, Statie dedurizare duplex twin, 75L rasina",
+        "pentru": "ofertă",
+        "nota": "Comanda fermă (PO) pentru stația twin de 75 L ofertată anterior, confirmată cu livrare în aprox. 2 săptămâni."
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R13-05",
+    "titlu": "Client care a mai cumpărat stații: AKRO reofertează exact configurația anterioară (DEC 250/V cu vana NHWBP), livrată paletizat",
+    "explicatie": "Un client care a mai cumpărat stații de dedurizare de la AKRO primește din nou exact configurația de data trecută, de exemplu stații simplex de 250 L cu câte o vană by-pass anti apă dură. Când a cerut pe e-mail altceva, o stație duplex, AKRO a lămurit la telefon ce s-a livrat înainte și a ofertat tot configurația veche. Stațiile pleacă paletizate și dezasamblate. Termenul de livrare e explicat prin faptul că produsele Clack sunt de obicei în stocul furnizorului.",
+    "categorie": "13-Filtre multistrat diferite medii",
+    "cand": "Un client recurent cere din nou stații de dedurizare (chiar formulat diferit, de exemplu „duplex 6,5 mc”) pentru care există o configurație livrată anterior.",
+    "clarificari": [
+      "Discuție telefonică pentru confirmarea configurației folosite anterior, când cererea vine formulată altfel."
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "13-001258",
+          "rol": "DEC 250/V simplex 250 L, vană Clack CI 2\" alamă, câte una pe stație"
+        },
+        {
+          "ref": "14-001056",
+          "rol": "vană by-pass anti apă dură NHWBP 2\" pe ieșire, câte una pe stație"
+        }
+      ],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "stațiile se livrează paletizat la beneficiar, dezasamblate",
+        "termen de 2–4 săptămâni în ofertă (2–3 estimat în e-mail), explicat prin faptul că produsele Clack sunt de regulă în stocul furnizorului",
+        "plată 30% în avans și 70% la 30 de zile de la livrare"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2098980",
+        "src": "m2135620",
+        "citat": "cotatia de pret pentru doua sisteme de dedurizare simplex [ in configuratia achizitionata si in 2025 ]",
+        "pentru": "ofertă",
+        "nota": "Cerere de duplex 6,5 mc transformată, după telefon, în două simplex ca în 2025."
+      },
+      {
+        "conv": "c2098980",
+        "src": "m2135620",
+        "citat": "In mod normal produsele clack sunt in stocul furnizor",
+        "pentru": "ofertă",
+        "nota": "Termenul de livrare motivat prin stocul furnizorului Clack."
+      },
+      {
+        "conv": "c2107620",
+        "src": "m2144164",
+        "citat": "4 statii de dedurizare [ exact la fel ca cele de anul trecut",
+        "pentru": "ofertă",
+        "nota": "Același client: 4 stații identice cu cele de anul trecut, plus 4 vane anti apă dură."
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R13-06",
+    "titlu": "Filtru de impurități înaintea stației: NW500 sau NW400 cu consolă, pus în ofertă sau recomandat în e-mail",
+    "explicatie": "Când AKRO propune o stație de dedurizare, de demineralizare sau un dedurizator galvanic, adaugă de obicei și un filtru de impurități montat înaintea ei. Uneori pune în ofertă un filtru NW cu consola lui, alteori doar îl recomandă în e-mail, des cu un preț estimativ. Motivul scris de AKRO este ca impuritățile să nu ajungă în vanele stației și să le blocheze. Au fost și excepții: în mai multe oferte de dedurizare, unele făcute după specificații de proiect sau de licitație, filtrul nu a fost pomenit deloc.",
+    "categorie": "13-Filtre multistrat diferite medii",
+    "cand": "AKRO propune o stație de dedurizare, de demineralizare sau un dedurizator galvanic, cu sau fără prefiltrare cerută de client. Nu acoperă reofertarea unei configurații cumpărate anterior (regula R13-05).",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "01-008018",
+          "rol": "filtru de impurități Cintropur NW500 2\", la debitele mai mari"
+        },
+        {
+          "ref": "01-008015",
+          "rol": "consola de prindere NW500/650/800"
+        },
+        {
+          "ref": "01-008048",
+          "rol": "filtru de impurități NW400 1.5\" cu purjare manuală, membrană 150 µm"
+        },
+        {
+          "ref": "01-008049",
+          "rol": "consola de prindere NW280/340/400"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișa tehnică a filtrului NW (atașată sau ca link)"
+      ],
+      "conditii": [
+        "dacă filtrul nu e pus în ofertă, AKRO îl recomandă în e-mail (NW400, filtru Y sau filtru de 10 țoli cu cartuș inox), de multe ori cu un preț estimativ"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2107716",
+        "src": "m2107716",
+        "citat": "solutia sa aibe si prefiltrare mecanica (50-100 microni)",
+        "pentru": "cerere",
+        "nota": "Prefiltrare cerută: AKRO pune NW500 cu membrană 150 µm lângă stația duplex."
+      },
+      {
+        "conv": "c2153764",
+        "src": "m2153764",
+        "citat": "acesta este montat preventiv pentru a preveni posibile impuritati sa ajunga in vanele dedurizatorului",
+        "pentru": "ofertă",
+        "nota": "NW400 adăugat din proprie inițiativă pentru protecția vanelor."
+      },
+      {
+        "conv": "c2163940",
+        "src": "m2163940",
+        "citat": "Un filtru de impuritati Cintropur NW400",
+        "pentru": "ofertă",
+        "nota": "NW400 cu purjare manuală ofertat înaintea stației duplex."
+      },
+      {
+        "conv": "c2117124",
+        "src": "m2153956",
+        "citat": "Un filtru de impuritati de 2",
+        "pentru": "ofertă",
+        "nota": "NW500 de 2\" la începutul fluxului Parklane."
+      },
+      {
+        "conv": "c2153828",
+        "src": "m2153828",
+        "citat": "sa montati si un filtru de impuritati inaintea statiei de dedurizare",
+        "pentru": "ofertă",
+        "nota": "Recomandat NW400, cu preț dat doar în text."
+      },
+      {
+        "conv": "c2155236",
+        "src": "m2155236",
+        "citat": "De preferat ar fi sa montati si un filtru grosier [ daca nu exista]",
+        "pentru": "ofertă",
+        "nota": "Filtru grosier recomandat în text pentru protecția stației twin, fără preț."
+      },
+      {
+        "conv": "c2158276",
+        "src": "m2158276",
+        "citat": "recomandam sa existe si un filtru grosier inainte de alimentarea acestui echipament",
+        "pentru": "ofertă",
+        "nota": "La dedurizatorul galvanic: măcar un filtru Y, sau un filtru de 10\" cu cartuș inox, cu preț estimativ."
+      },
+      {
+        "conv": "c2159780",
+        "src": "m2159780",
+        "citat": "Este intr-adevar foarte bine sa montati si un filtru inainte",
+        "pentru": "ofertă",
+        "nota": "La demineralizator, unde clientul a cerut o recomandare: filtru de 10\" cu cartuș inox, cu preț estimativ."
+      },
+      {
+        "conv": "c2155364",
+        "src": "m2155364",
+        "citat": "Filtru impuritati nw500 - 2\"",
+        "pentru": "ofertă",
+        "nota": "NW500 cu consolă pus în ofertă lângă stația duplex de 250 L."
+      },
+      {
+        "conv": "c2158052",
+        "src": "m2158180",
+        "citat": "la care as mai recomanda un filtru de +-60 euro",
+        "pentru": "ofertă",
+        "nota": "Pe lângă stația de 25 L pentru cuptoare, AKRO recomandă un filtru, cu preț estimativ."
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "În mai multe oferte de dedurizare AKRO nu a pus și nici nu a recomandat un filtru de impurități: apartamentul din conversația 372, stația twin de 100 L din conversația 586, cele două stații din specificația proiectantului (conversația 569), licitația UMF Timișoara (conversația 601) și licitația Regimentul 46 (conversația 73).",
+        "dovezi": [
+          {
+            "conv": "c2116964",
+            "src": "m2153636",
+            "citat": "Va trimitem anexate doua dedurizatoare simplex cu 75 L",
+            "pentru": "ofertă",
+            "nota": "Doar cele două variante de stație, fără filtru."
+          },
+          {
+            "conv": "c2163524",
+            "src": "m2163524",
+            "citat": "oferta de pret pentru dedurizatorul solicitat",
+            "pentru": "ofertă",
+            "nota": "Doar stația twin de 100 L."
+          },
+          {
+            "conv": "c2127748",
+            "src": "m2162724",
+            "citat": "Va rog sa regasiti anexata oferta de pret pentru doua sisteme de dedurizare",
+            "pentru": "ofertă",
+            "nota": "Doar cele două stații din specificație."
+          },
+          {
+            "conv": "c2129476",
+            "src": "m2164260",
+            "citat": "cotatia de pret pentru 1 statie duplex alternant cu vana Clack twin",
+            "pentru": "ofertă",
+            "nota": "Doar stația twin de 50 L."
+          },
+          {
+            "conv": "c2136068",
+            "src": "m2136068",
+            "citat": "oferta noastra de pret pentru o statie de dedurizare echivalenta celei din caietul de sarcini",
+            "pentru": "ofertă",
+            "nota": "Doar stația simplex de 350 L."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R13-07",
+    "titlu": "Stație mică (până la aprox. 75 L rășină pe coloană): se livrează gata asamblată și presetată, cu schemă de montaj și instrucțiuni de PIF",
+    "explicatie": "Stațiile mici de dedurizare sau de tratare pentru o casă, de până la circa 75 de litri de rășină pe coloană, pleacă de la AKRO gata asamblate. Vanele sunt reglate deja pe apa și consumul clientului. De obicei vin odată cu stația schema de montaj și instrucțiunile de PIF, adică de pornire, ca orice instalator să o poată monta. Montajul și pornirea nu intră în preț. Au fost și excepții: la o stație twin de 16 L, ofertată împreună cu una mare, asamblarea a fost exclusă.",
+    "categorie": "13-Filtre multistrat diferite medii",
+    "cand": "AKRO ofertează o stație mică: simplex sau twin cu până la aprox. 75 L rășină pe coloană, ori un sistem pentru o casă (filtru, stație Ecomix de 50 L, UV, filtru de arsen de 50 L). Nu acoperă stațiile mari (duplex alternant, simplex de 200 L sau mai mult, filtre de 200 L), la care ofertele văzute nu includ asamblarea.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [],
+      "servicii": [
+        "presetarea vanelor pe aplicația clientului (duritate, debit)"
+      ],
+      "documente": [
+        "schema de montaj",
+        "instrucțiuni de PIF (fișa de prima pornire)"
+      ],
+      "conditii": [
+        "livrare gata asamblată și presetată",
+        "montajul și PIF-ul nu sunt incluse. AKRO poate recomanda un instalator sau estima separat serviciul"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2138692",
+        "src": "m2138852",
+        "citat": "Oferta anexata include livrarea produselor gata asamblate si presetate pe aplicatia client.",
+        "pentru": "ofertă",
+        "nota": "Filtru, Ecomix de 50 L și UV pentru o casă, livrate asamblate și presetate."
+      },
+      {
+        "conv": "c2115972",
+        "src": "m2115972",
+        "citat": "Oferta anexata include livrarea echipamentelor gata asamblate si presetate pe aplicatia client la beneficiar.",
+        "pentru": "ofertă",
+        "nota": "Filtru cu nisip de 60 L, Ecomix de 50 L și UV, livrate asamblate și presetate."
+      },
+      {
+        "conv": "c2153828",
+        "src": "m2153828",
+        "citat": "Oferta anexata include livrarea statiei gata asamblata si presetata pe aplicatia client.",
+        "pentru": "ofertă",
+        "nota": "DEC 75/V livrat asamblat, cu instrucțiuni de montaj și PIF."
+      },
+      {
+        "conv": "c2155236",
+        "src": "m2155332",
+        "citat": "insotita de schema de montaj + foaie de instructaj de PIF",
+        "pentru": "ofertă",
+        "nota": "Stația twin vine asamblată, presetată, cu schemă și fișă de prima pornire."
+      },
+      {
+        "conv": "c2158052",
+        "src": "m2158180",
+        "citat": "Statia in forma ofertata vine preasamblata si presetata pe aplicatia client",
+        "pentru": "ofertă",
+        "nota": "Stația de 25 L pentru cuptoare, cu schemă de montaj și instrucțiuni de PIF."
+      },
+      {
+        "conv": "c2162436",
+        "src": "m2162436",
+        "citat": "Oferta anexata include livrarea gata asamblata a sistemului de tratare la beneficiar.",
+        "pentru": "ofertă",
+        "nota": "Filtrul de arsen de 50 L livrat gata asamblat. Montajul hidraulic nu e inclus."
+      },
+      {
+        "conv": "c2129476",
+        "src": "m2164260",
+        "citat": "Oferta include livrarea statiei la beneficiar – gata asamblate.",
+        "pentru": "ofertă",
+        "nota": "Stația twin de 50 L pentru licitație, livrată gata asamblată."
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "La oferta cu două stații din specificația proiectantului (conversația 569), AKRO a scris că oferta nu include asamblarea, deși una dintre stații era una twin mică, de 16 L pe coloană.",
+        "dovezi": [
+          {
+            "conv": "c2127748",
+            "src": "m2162724",
+            "citat": "Oferta nu include montajul echipamentelor, asamblarea lor",
+            "pentru": "ofertă",
+            "nota": "Asamblarea e exclusă pentru ambele stații. Motivul dat este stația de 175 L, livrată dezasamblat."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R13-09",
+    "titlu": "Apă de puț sau foraj pentru o casă, fermă sau anexe sanitare (fier, mangan, amoniu, duritate, bacterii): filtru, stație Ecomix simplex și UV Viqua",
+    "explicatie": "Clientul are o casă, o fermă sau anexe sanitare alimentate din puț ori foraj și trimite buletinul de analiză al apei. De regulă AKRO propune un filtru de impurități, o stație Ecomix, adică o rășină care scoate deodată calcarul, fierul, manganul și amoniul, și o lampă UV Viqua contra bacteriilor. Dacă buletinul nu e de la un laborator acreditat, o spune și continuă discuția la telefon. Montajul nu e inclus. Au fost și excepții: la apă cu multe probleme sau la o casă izolată, AKRO a recomandat osmoză.",
+    "categorie": "13-Filtre multistrat diferite medii",
+    "cand": "Clientul trimite buletinul de analiză al apei dintr-un puț sau foraj și cere tratarea ei pentru o casă, o fermă sau anexe sanitare (dușuri, toalete).",
+    "clarificari": [
+      "Dacă buletinul nu vine de la un laborator acreditat, AKRO o spune și cere un număr de telefon. Discuția continuă la telefon."
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "01-009002",
+          "rol": "carcasă filtrantă 10\" (filtru de impurități cu cartuș inox lavabil)"
+        },
+        {
+          "ref": "01-010016",
+          "rol": "cartuș inox 70 µm lavabil"
+        },
+        {
+          "ref": "13-001217",
+          "rol": "FNC60 filtru cu nisip 60 L, opțional la turbiditate"
+        },
+        {
+          "ref": "13-001272",
+          "rol": "FECM 50/V stație Ecomix simplex 50 L (duritate, Fe, Mn, amoniu)"
+        },
+        {
+          "ref": "13-001295",
+          "rol": "FECM 200/V stație Ecomix 200 L pentru debite mari (aprox. 4 mc/h)"
+        },
+        {
+          "ref": "27-001168",
+          "rol": "UV Viqua VH200"
+        },
+        {
+          "ref": "27-001155",
+          "rol": "UV Viqua VH410"
+        },
+        {
+          "ref": "27-001156",
+          "rol": "UV Viqua VP950 la încărcare microbiologică mare"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișa tehnică a stației Ecomix (ca link)",
+        "fotografii cu sisteme similare"
+      ],
+      "conditii": [
+        "montajul și PIF-ul nu sunt incluse",
+        "sistemele mici (Ecomix de 50 L) se livrează gata asamblate și presetate"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2138692",
+        "src": "m2138852",
+        "citat": "O statie cu rasina speciala pentru retinerea duritatii, a fierului, a manganului si a amoniului",
+        "pentru": "ofertă",
+        "nota": "Casă cu puț de 14 m: filtru 10\" cu cartuș inox, FECM 50 și Viqua VH200, după o discuție telefonică."
+      },
+      {
+        "conv": "c2115972",
+        "src": "m2115972",
+        "citat": "O statie cu rasina ecomix simplex",
+        "pentru": "ofertă",
+        "nota": "Fermă cu foraj, amoniu 2 mg/l, 3 mc/zi: FNC60 opțional, FECM 50 și Viqua VH410."
+      },
+      {
+        "conv": "c2140804",
+        "src": "m2140804",
+        "citat": "1 statie cu ecomix de 200L rasina",
+        "pentru": "ofertă",
+        "nota": "Foraj de 3,9 mc/h pentru dușuri și toalete: NW500, două filtre multimedia, FECM 200 și VP950."
+      },
+      {
+        "conv": "c2134372",
+        "src": "m2134372",
+        "citat": "sa montati un filtru de impuritati + o statie cu ecomix + dezinfectie UV pe alimentarea cu apa a intregii case",
+        "pentru": "ofertă",
+        "nota": "Puț cu amoniu folosit pentru băut: AKRO spune că nu are un produs care să facă apa potabilă și propune în text același flux, cu preț estimativ."
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "Pentru o locuință off-grid cu apă de puț (fier, mangan, amoniu, bacterii), AKRO nu a propus fluxul, ci a spus că nu are echipamente rezidențiale și a recomandat osmoză sub chiuvetă (conversația 156).",
+        "dovezi": [
+          {
+            "conv": "c2140932",
+            "src": "m2140932",
+            "citat": "Credem ca solutia cea mai buna pentru o casa pasiva este sa montati o instalatie de osmoza sub chiuveta",
+            "pentru": "clarificare",
+            "nota": "Doar recomandarea de osmoză sub chiuvetă, fără ofertă."
+          }
+        ]
+      },
+      {
+        "text": "La o apă de foraj cu multe probleme (cloruri, plumb, fier, mangan, sulfați), pentru uz casnic, AKRO a estimat alt flux: deferizare, dozare de antiscalant, osmoză, stocare și dezinfecție (conversația 57).",
+        "dovezi": [
+          {
+            "conv": "c2099844",
+            "src": "m2136292",
+            "citat": "Daca clientul doreste o tratare la nivel de locuinta",
+            "pentru": "ofertă",
+            "nota": "Doar o estimare de cost în text, cu osmoză în flux."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R13-10",
+    "titlu": "La stațiile Ecomix și la întrebări despre întreținere, AKRO spune la ce volum se regenerează stația și cât consumă (sare, apă aruncată)",
+    "explicatie": "Când ofertează o stație Ecomix sau când clientul întreabă cât costă întreținerea, AKRO scrie în e-mail cât de des se regenerează stația. Regenerarea înseamnă că rășina se spală cu apă sărată după un anumit volum de apă tratată. Adesea spune și câtă sare se consumă la o regenerare și câtă apă ajunge la canal. La ofertele pentru stații de dedurizare obișnuite nu a dat aceste cifre.",
+    "categorie": "13-Filtre multistrat diferite medii",
+    "cand": "AKRO ofertează o stație Ecomix (pentru fier, mangan, amoniu și duritate) sau clientul întreabă de costurile de întreținere ale unei stații cu rășină. În ofertele văzute pentru stații de dedurizare obișnuite AKRO nu a dat aceste cifre.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "în e-mail: după câți mc de apă tratată se regenerează stația și, de cele mai multe ori, câtă sare consumă și câtă apă aruncă la canal la o regenerare"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2138692",
+        "src": "m2138852",
+        "citat": "Statia propusa se va regenera la fiecare 4 mc de apa tratati",
+        "pentru": "ofertă",
+        "nota": "Plus aprox. 8 kg sare și 300–400 L apă sărată aruncată la fiecare regenerare."
+      },
+      {
+        "conv": "c2140804",
+        "src": "m2140804",
+        "citat": "Statia cu ecomix se va regenera la fiecare 15 mc de apa tratati",
+        "pentru": "ofertă",
+        "nota": "Plus 2–2,5 mc apă și 30 kg sare pe regenerare. Consumabile UV aprox. 300 €/an."
+      },
+      {
+        "conv": "c2115972",
+        "src": "m2115972",
+        "citat": "Statia cu ecomix se va regenera la fiecare 6 mc de apa tratati.",
+        "pentru": "ofertă",
+        "nota": "Doar frecvența de regenerare, dată odată cu oferta."
+      },
+      {
+        "conv": "c2135012",
+        "src": "m2135012",
+        "citat": "Aceasta statie se va regenera la fiecare 75 mc de apa tratati",
+        "pentru": "ofertă",
+        "nota": "La întrebarea despre întreținere (stație pentru nitrați): 70 kg sare la regenerare și costul sării pe mc."
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R13-11",
+    "titlu": "Cerere pentru o casă sau un apartament: AKRO spune că lucrează industrial și nu are echipamente casnice sau tip cabinet",
+    "explicatie": "AKRO lucrează mai ales pentru industrie și nu are echipamente casnice, cum sunt dedurizatoarele tip cabinet. Când o persoană fizică sau o licitație cere așa ceva, AKRO spune deschis că nu are produsul, iar o dată a întrebat întâi dacă aplicația e pentru o casă. Uneori oferă în loc o variantă semi-industrială, cu vasul de saramură separat de coloană. Pentru apa de băut recomandă osmoza sub chiuvetă, pe care nu o vinde. Au fost și excepții, la care a ofertat direct pentru o locuință.",
+    "categorie": "13-Filtre multistrat diferite medii",
+    "cand": "O persoană fizică, o firmă care cere pentru o locuință sau o fișă de licitație cere un echipament casnic (dedurizator tip cabinet, tratarea apei pentru o casă, apă de băut la o locuință).",
+    "clarificari": [
+      "Aplicația este pentru alimentarea unei case sau este industrială? (întrebare văzută o dată, împreună cu cererea de buletin și de telefon)"
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "AKRO oferă în loc varianta semi-industrială (vas de saramură și coloană separate) sau recomandă osmoză sub chiuvetă pentru apa de băut, care nu e în portofoliul AKRO"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2134372",
+        "src": "m2134372",
+        "citat": "insa lucram in proportie de 95% in domeniul industrial",
+        "pentru": "ofertă",
+        "nota": "Puț pentru băut: AKRO nu are un produs potrivit și dă doar o estimare pentru apă tehnică."
+      },
+      {
+        "conv": "c2153828",
+        "src": "m2153828",
+        "citat": "Nu tinem pe stoc dedurizatoare casnice si nici alte echipamente rezidentiale.",
+        "pentru": "ofertă",
+        "nota": "Penthouse: se oferă un dedurizator semi-industrial."
+      },
+      {
+        "conv": "c2158052",
+        "src": "m2158180",
+        "citat": "produs care nu face parte din portofoliul AKRO",
+        "pentru": "ofertă",
+        "nota": "Varianta cabinet nu e în portofoliu. Se oferă 25 L semi-industrial."
+      },
+      {
+        "conv": "c2138692",
+        "src": "m2138692",
+        "citat": "Ca si informatie firma AKRO activeaza in special in aplicatiile industriale si mai putin pe rezidential.",
+        "pentru": "clarificare",
+        "nota": "Precizare făcută înainte de a cere detalii."
+      },
+      {
+        "conv": "c2140932",
+        "src": "m2140932",
+        "citat": "nu avem echipamente rezidentiale in portofoliul AKRO",
+        "pentru": "clarificare",
+        "nota": "Locuință off-grid: AKRO recomandă osmoză sub chiuvetă."
+      },
+      {
+        "conv": "c2102116",
+        "src": "m2138628",
+        "citat": "Nu avem in portofoliu astfel de statii",
+        "pentru": "clarificare",
+        "nota": "Fișa de licitație cere stație cabinet de 10 L, refuzată."
+      },
+      {
+        "conv": "c2148100",
+        "src": "m2148100",
+        "citat": "Aplicatia la care faceti referire este pentru alimentarea unei case sau este o aplicatie industriala?",
+        "pentru": "clarificare",
+        "nota": "AKRO întreabă tipul aplicației și cere buletinul de analiză și un telefon."
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "La unele cereri pentru locuințe AKRO a ofertat direct, fără să spună că lucrează industrial: filtrul de arsen pentru o casă (conversația 565) și stația de dedurizare pentru un apartament (conversația 372).",
+        "dovezi": [
+          {
+            "conv": "c2162436",
+            "src": "m2162436",
+            "citat": "oferta de pret pentru un filtru care este capabil sa retina arsenul",
+            "pentru": "ofertă",
+            "nota": "Ofertă directă pentru apa de băut a unei case."
+          },
+          {
+            "conv": "c2116964",
+            "src": "m2153636",
+            "citat": "Va trimitem anexate doua dedurizatoare simplex cu 75 L",
+            "pentru": "ofertă",
+            "nota": "Ofertă directă pentru un apartament."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R13-12",
+    "titlu": "Filtru de deferizare-demanganizare cu debit dat: AKRO cere valorile de fier, mangan și hidrogen sulfurat și modul de spălare, apoi trimite două variante cu Pyrolux 42x72",
+    "explicatie": "Dacă cineva cere un filtru de deferizare și demanganizare, care scoate fierul și manganul din apă, și dă debitul dar nu și analiza apei, AKRO întreabă cât fier, mangan și hidrogen sulfurat are apa. Mai întreabă la ce filtru s-a gândit clientul și dacă vrea spălarea cu apă din altă sursă. După ce primește buletinul, trimite două variante de filtru Pyrolux de mărimea 42x72 și spune ce debit trebuie să dea sursa la spălare.",
+    "categorie": "13-Filtre multistrat diferite medii",
+    "cand": "Clientul cere un filtru de deferizare-demanganizare cu debit și racord, dar fără buletin de analiză.",
+    "clarificari": [
+      "Care sunt concentrațiile de fier, mangan și hidrogen sulfurat în apa brută?",
+      "La ce filtru v-ați orientat (dimensiuni, material filtrant)?",
+      "Doriți spălarea cu apă din altă sursă?"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "13-001159",
+          "rol": "filtru Pyrolux 800 L, vană Runxin 2.5\" (4272PA/112)"
+        },
+        {
+          "ref": "13-001143",
+          "rol": "filtru Pyrolux 42x72 cu skid de vane acționate electric (4272PA/RV)"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișele tehnice ale ambelor filtre"
+      ],
+      "conditii": [
+        "sursa trebuie să asigure debitul de spălare (aprox. 30 mc/h)",
+        "circuit de spălare din altă sursă doar la skid, cu cost extra"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2099844",
+        "src": "m2136324",
+        "citat": "Care sunt concentratiile de fier, mangan si hidrogen sulfurat in apa bruta ?",
+        "pentru": "clarificare",
+        "nota": "AKRO cere analiza, tipul filtrului și dacă spălarea e din altă sursă."
+      },
+      {
+        "conv": "c2099844",
+        "src": "m2136580",
+        "citat": "De aici imi rezulta un filtru cu coloana 42x72, si avem doua variante de filtre in buget redus:",
+        "pentru": "ofertă",
+        "nota": "După buletin: două variante, Runxin 2.5\" și skid de vane."
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R13-13",
+    "titlu": "Filtre cu masă filtrantă: AKRO avertizează asupra debitului și a apei de spălare și a înălțimii necesare. Automatizarea spălării din altă sursă nu e inclusă",
+    "explicatie": "La filtrele cu masă filtrantă, cum sunt cele multimedia, cu nisip, Pyrolux, greensand sau cărbune activ, AKRO îi spune de obicei clientului ce trebuie să asigure el. Sursa trebuie să dea destulă apă când se spală filtrul, iar apa de la spălare are nevoie de scurgere la canal. Uneori atrage atenția că filtrele au nevoie de o cameră tehnică destul de înaltă. Spălarea automată cu apă din altă sursă nu intră în ofertă. Au fost și excepții: la unele filtre, din licitații sau pentru o fermă, avertismentul lipsește.",
+    "categorie": "13-Filtre multistrat diferite medii",
+    "cand": "AKRO ofertează filtre cu masă filtrantă (multimedia, nisip, Pyrolux, greensand, cărbune activ).",
+    "clarificari": [],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "clientul asigură debitul de spălare în sursă și scurgerea la canal",
+        "spațiu tehnic suficient de înalt (minimum 2,3 m la filtrele de 80 L)",
+        "fără automatizare de spălare din altă sursă"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2099844",
+        "src": "m2136580",
+        "citat": "trebuie sa asigurati un debit in sursa pentru perioada de spalare de - 30mc/h",
+        "pentru": "ofertă",
+        "nota": "Filtrul de 10 mc/h are nevoie de 30 mc/h la spălare."
+      },
+      {
+        "conv": "c2131716",
+        "src": "m2166372",
+        "citat": "Aveti nevoie de un spatiu tehnic de minim 2.3 m inaltime",
+        "pentru": "ofertă",
+        "nota": "Plus spălare la 6–7 zile, cu 500–700 L apă aruncată de fiecare filtru."
+      },
+      {
+        "conv": "c2140804",
+        "src": "m2140804",
+        "citat": "se vor spala o data la 3 zile si fiecare din echipamente va arunca la canalizare",
+        "pentru": "ofertă",
+        "nota": "Multimedia de 200 L: spălare la 3 zile, 1,5 mc apă aruncată la fiecare spălare."
+      },
+      {
+        "conv": "c2134308",
+        "src": "m2134308",
+        "citat": "Nu include automatizare de spalare din alta sursa",
+        "pentru": "ofertă",
+        "nota": "La filtrele greensand și cărbune duplex din licitație."
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "În unele oferte cu filtre cu masă filtrantă AKRO nu a scris niciun avertisment despre spălare sau spațiu: filtrele Turbidex din licitația spitalului IROT, unde fișa clientului dădea deja debitul de spălare (conversația 556), și filtrul cu nisip de 60 L pentru ferma cu foraj (conversația 347).",
+        "dovezi": [
+          {
+            "conv": "c2161956",
+            "src": "m2161956",
+            "citat": "Doua filtre cu turbidex cu 792 kg material fiecare",
+            "pentru": "ofertă",
+            "nota": "Filtrele Turbidex ofertate fără avertismente despre spălare."
+          },
+          {
+            "conv": "c2115972",
+            "src": "m2115972",
+            "citat": "Un filtru de nisip cu 60L",
+            "pentru": "ofertă",
+            "nota": "Filtrul cu nisip ofertat fără avertismente despre spălare."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R13-14",
+    "titlu": "Turbiditate în apă de foraj: filtru grosier NW și două filtre multimedia montate în paralel, cu dezinfecție recomandată",
+    "explicatie": "Clientul are apă de foraj tulbure sau cu substanțe oxidate și trimite buletinul de analiză. AKRO ofertează un filtru grosier NW și două filtre multimedia, adică umplute cu mai multe straturi de materiale filtrante, montate în paralel. Recomandă și o dezinfecție, prin clorinare sau UV, pe care fie o estimează în e-mail, fie o pune în ofertă. Au fost și excepții: la o turbiditate mică a propus un singur filtru cu nisip, ca produs opțional.",
+    "categorie": "13-Filtre multistrat diferite medii",
+    "cand": "Clientul are apă de foraj cu turbiditate sau substanțe oxidate și trimite buletinul.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "01-008048",
+          "rol": "filtru grosier NW400 cu purjare"
+        },
+        {
+          "ref": "01-008049",
+          "rol": "consolă NW400"
+        },
+        {
+          "ref": "01-008018",
+          "rol": "filtru grosier NW500 la debite mai mari"
+        },
+        {
+          "ref": "13-001309",
+          "rol": "FMC 80 filtru multimedia 80 L, 2 bucăți în paralel"
+        },
+        {
+          "ref": "13-001294",
+          "rol": "FMC 200 filtru multimedia 200 L, 2 bucăți în paralel"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișa tehnică a filtrelor multimedia"
+      ],
+      "conditii": [
+        "dezinfecție recomandată: estimată doar în text (clorinare sau UV) sau pusă în ofertă ca sistem UV când apa are multe bacterii"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2131716",
+        "src": "m2166372",
+        "citat": "ce vor trebui montate in paralel",
+        "pentru": "ofertă",
+        "nota": "NW400 și două filtre FMC 80 montate în paralel."
+      },
+      {
+        "conv": "c2131716",
+        "src": "m2166372",
+        "citat": "Poate ar trebui sa aveti in vedere integrarea unui sistem de dezinfectie:",
+        "pentru": "ofertă",
+        "nota": "Clorinare sau UV de 1\", estimate doar în text."
+      },
+      {
+        "conv": "c2140804",
+        "src": "m2140804",
+        "citat": "ce vor trebui montate in paralel pentru retinere turbiditate si substante oxidate",
+        "pentru": "ofertă",
+        "nota": "NW500 și două FMC 200 în paralel, urmate de Ecomix și de un UV VP950 pus în ofertă."
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "La o apă de foraj cu turbiditate ușor crescută (conversația 347), AKRO a propus un singur filtru cu nisip de 60 L, ca produs opțional, înaintea stației Ecomix.",
+        "dovezi": [
+          {
+            "conv": "c2115972",
+            "src": "m2115972",
+            "citat": "acesta este un produs optional dat fiind ca turbiditatea este usor crescuta",
+            "pentru": "ofertă",
+            "nota": "Un singur FNC60, opțional, în loc de NW și două filtre multimedia."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R13-16",
+    "titlu": "Licitație cu aviz sanitar MS sau producător cerut: AKRO spune că nu are aviz pentru filtre și notează producătorul fiecărui echipament",
+    "explicatie": "Unele licitații cer aviz sanitar, adică aprobarea Ministerului Sănătății pentru materialele în contact cu apa potabilă. AKRO spune clar că nu are un astfel de aviz pentru echipamentele de filtrare, iar într-un caz a întrebat dacă oferta se acceptă și fără el. Are aviz doar pentru nisipul cuarțos, debitmetrele electromagnetice și analizorul de clor. La cerere, notează producătorul fiecărui echipament și o durată de funcționare estimată din experiență la 10 ani.",
+    "categorie": "13-Filtre multistrat diferite medii",
+    "cand": "Licitația cere aviz sanitar pentru materialele în contact cu apa potabilă, producătorul fiecărui echipament (în fișa tehnică sau în formularul FAM) sau durata de viață a stației.",
+    "clarificari": [
+      "Se acceptă oferta fără certificat sanitar MS pentru echipamentele de filtrare?"
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [
+        "lista producătorilor pe echipamente (Cintropur/Airwatec, Zenner, SEKO, Euro-Clear etc.)"
+      ],
+      "conditii": [
+        "aviz sanitar MS doar pentru nisipul cuarțos, debitmetrele electromagnetice și analizorul de clor",
+        "durată de funcționare estimată din experiență: 10 ani"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2134308",
+        "src": "m2134308",
+        "citat": "Cu siguranta nu se pot prezenta avize sanitare de la MS din Romania pentru acestea.",
+        "pentru": "ofertă",
+        "nota": "AKRO avertizează din oferta de licitație."
+      },
+      {
+        "conv": "c2134308",
+        "src": "m2134500",
+        "citat": "Am notat mai jos producatorul la fiecare din echipamente",
+        "pentru": "clarificare",
+        "nota": "La cererea clientului: producătorii și durata de viață de 10 ani."
+      },
+      {
+        "conv": "c2117124",
+        "src": "m2155012",
+        "citat": "Pentru FAM va las mai jos producatorii la toate produsele din oferta prezentata",
+        "pentru": "clarificare",
+        "nota": "Producătorii pe fiecare poziție pentru FAM."
+      },
+      {
+        "conv": "c2141732",
+        "src": "m2141732",
+        "citat": "Nu detinem certificat sanitar de la MS pentru echipamentele de filtrare",
+        "pentru": "clarificare",
+        "nota": "Avizul fiind eliminatoriu, AKRO nu ofertează."
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R13-18",
+    "titlu": "Caiet de sarcini cu echipamente nestandard (permanganat, filtre cu spălare cu aer, PN16/PN20, automatizare impusă): AKRO refuză să oferteze",
+    "explicatie": "Când caietul de sarcini al unei licitații cere echipamente pe care AKRO nu le are standard, AKRO nu trimite ofertă și explică de ce. Așa s-a întâmplat la cereri cu dozare de permanganat, filtre spălate cu aer, presiuni nominale PN16 sau PN20 ori automatizare impusă. Despre permanganat AKRO a scris că nu se mai folosește de ceva vreme în tratarea apei. Dacă presiunea sau tipul filtrului nu sunt clare, cere întâi fișa tehnică.",
+    "categorie": "13-Filtre multistrat diferite medii",
+    "cand": "Licitația impune un flux sau o construcție pe care AKRO nu o are standard (dozare permanganat, filtre presurizate cu spălare cu aer, PN16/PN20, automatizare specifică).",
+    "clarificari": [
+      "AKRO cere fișa tehnică detaliată când presiunea sau tipul filtrului nu sunt clare (filtre cu masă filtrantă nu se fac la PN20)."
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "nu se trimite ofertă. AKRO explică de ce"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2137188",
+        "src": "m2137188",
+        "citat": "Sistemele de preparare si dozare ale permanganatului nu se mai utilizeaza de ceva vreme in fluxurile de tratare",
+        "pentru": "clarificare",
+        "nota": "Licitația Plopu: permanganat și spălare cu aer, refuzat."
+      },
+      {
+        "conv": "c2138980",
+        "src": "m2138980",
+        "citat": "Sistemele de preparare si dozare ale permanganatului nu se mai utilizeaza de ceva vreme in fluxurile de tratare",
+        "pentru": "clarificare",
+        "nota": "Altă firmă, aceeași licitație, același refuz."
+      },
+      {
+        "conv": "c2138308",
+        "src": "m2138308",
+        "citat": "Nu avem in portofoliu produse conform caietului de sarcini, sa fie PN16 si cu automatizarea solicitata.",
+        "pentru": "clarificare",
+        "nota": "Spitalul Gerota: PN16 și automatizare impusă."
+      },
+      {
+        "conv": "c2105188",
+        "src": "m2141284",
+        "citat": "Nu avem in portofoliu produse conform caietului de sarcini, sa fie PN16 si cu automatizarea solicitata.",
+        "pentru": "clarificare",
+        "nota": "Același proiect, alt ofertant."
+      },
+      {
+        "conv": "c2139556",
+        "src": "m2139972",
+        "citat": "Nu avem in portofoliu din pacate un produs PN 20 de acest tip.",
+        "pentru": "clarificare",
+        "nota": "Filtre rapide PN20 (hidrociclon): AKRO are maxim PN8."
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R13-19",
+    "titlu": "Stație duplex de 700 L pentru licitație: două variante, Clack DEC 700-2QC și Runxin RX99, cu diferențele de calitate explicate",
+    "explicatie": "Pentru licitațiile care cer o stație de dedurizare duplex mare, de aproximativ 15 metri cubi pe oră, AKRO trimite două variante cu câte 700 de litri de rășină pe coloană. Una are vane Clack din SUA, cu corp din alamă, care se pot repara. Cealaltă are vane Runxin din China, din plastic, și e mai ieftină. Clientul trebuie să aleagă una dintre ele.",
+    "categorie": "13-Filtre multistrat diferite medii",
+    "cand": "Licitația cere o stație de dedurizare duplex mare (aprox. 15 mc/h).",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "13-001308",
+          "rol": "DEC 700-2QC/duplex, vane Clack (SUA), corp alamă, servisabile"
+        },
+        {
+          "ref": "13-001164",
+          "rol": "duplex cu 2 coloane de 700 L, vană Runxin RX99 (China), variantă mai ieftină"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișa tehnică DEC 700-2QC",
+        "fișa tehnică RX99",
+        "fișa tehnică dedurizare duplex"
+      ],
+      "conditii": [
+        "clientul alege una din cele două variante",
+        "montajul și PIF-ul nu sunt incluse",
+        "garanție standard de 12 luni, extensibilă până la 5 ani contra 5% din valoare pe an"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2129828",
+        "src": "m2165636",
+        "citat": "trebuie sa alegeti o varianta din cele doua propuse de statii de dedurizare",
+        "pentru": "ofertă",
+        "nota": "Spital Buftea, fișa F5-23."
+      },
+      {
+        "conv": "c2129828",
+        "src": "m2165636",
+        "citat": "Vanele Clack au corp din alama",
+        "pentru": "ofertă",
+        "nota": "Diferența de calitate explicată: vanele chinezești sunt din plastic."
+      },
+      {
+        "conv": "c2165604",
+        "src": "m2165604",
+        "citat": "trebuie sa alegeti o varianta din cele doua propuse de statii de dedurizare",
+        "pentru": "ofertă",
+        "nota": "Același proiect, alt constructor."
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R13-20",
+    "titlu": "Stație de tratare sau dedurizare pentru operatori sau industrie: AKRO adaugă clorinare volumetrică (pompă TPG 603, rezervor și contor cu impuls)",
+    "explicatie": "La stațiile de tratare pentru foraje, gospodării de apă sau licitații, unde apa trebuie oxidată ori dezinfectată cu clor, AKRO adaugă o clorinare volumetrică. Ea constă din pompa dozatoare TPG 603, un rezervor pentru soluție și un contor Zenner cu impuls, care îi trimite pompei semnal după câtă apă a trecut. La o licitație AKRO a precizat că sistemul nu are tablou de automatizare separat și se reglează din meniul pompei.",
+    "categorie": "13-Filtre multistrat diferite medii",
+    "cand": "Clientul cere o stație de tratare (foraje, licitații, gospodării de apă) în care e nevoie de oxidare sau dezinfecție cu clor.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "11-002012",
+          "rol": "pompă dozatoare TPG 603, dozare proporțională"
+        },
+        {
+          "ref": "11-002098",
+          "rol": "rezervor PE 50 L pentru soluție"
+        },
+        {
+          "ref": "11-002027",
+          "rol": "rezervor PE 100 L (variantă)"
+        },
+        {
+          "ref": "11-002026",
+          "rol": "lance de aspirație cu senzor de nivel"
+        },
+        {
+          "ref": "23-001219",
+          "rol": "contor Zenner 2\" cu generator de impuls"
+        },
+        {
+          "ref": "23-001188",
+          "rol": "contor Zenner WPD DN80 cu impuls"
+        },
+        {
+          "ref": "23-001189",
+          "rol": "contor Zenner WPD DN100 cu impuls"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișa tehnică pompă TPG",
+        "fișa tehnică vas de stocare chimicale",
+        "fișa tehnică contor WPD"
+      ],
+      "conditii": [
+        "la licitația spitalului Buftea AKRO a precizat că sistemul nu are tablou de automatizare separat: dozarea se reglează din pompă"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2117124",
+        "src": "m2153956",
+        "citat": "O statie de clorinare volumetrica:",
+        "pentru": "ofertă",
+        "nota": "Parklane: TPG 603, rezervor de 50 L și contor de 2\" înaintea dedurizării."
+      },
+      {
+        "conv": "c2134308",
+        "src": "m2134308",
+        "citat": "Contor Dn 80 cu generator de impuls",
+        "pentru": "ofertă",
+        "nota": "Preoxidare în licitația Hârtiești: TPG 603, rezervor de 100 L și contor DN80 cu impuls."
+      },
+      {
+        "conv": "c2129828",
+        "src": "m2165636",
+        "citat": "cu modul inductiv 1/100 [ care sa trimita semnal la pompa]",
+        "pentru": "ofertă",
+        "nota": "Kit de clorinare DN100 pentru spital."
+      },
+      {
+        "conv": "c2165604",
+        "src": "m2165604",
+        "citat": "cu modul inductiv 1/100 [ care sa trimita semnal la pompa]",
+        "pentru": "ofertă",
+        "nota": "Același kit pentru alt constructor."
+      },
+      {
+        "conv": "c2128260",
+        "src": "m2163140",
+        "citat": "Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil",
+        "pentru": "ofertă",
+        "nota": "Stația pentru comuna Drăgănești: TPG 603, rezervor de 100 L și contor WPD DN80 cu impuls."
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R13-21",
+    "titlu": "Dedurizator galvanic KalyxX BlueLine: mărimea după țeava de alimentare (3/4\" standard), din stoc, livrat prin curier în 1–2 zile",
+    "explicatie": "La dedurizatorul galvanic KalyxX BlueLine, mărimea se alege după țeava de alimentare a locuinței, egală sau mai mare decât ea. Varianta de trei sferturi de țol e cea obișnuită la case și apartamente. AKRO fie ofertează ambele mărimi și explică regula, fie lămurește mărimea la telefon. Produsul e în stoc și pleacă prin curier în una sau două zile, cu plata integral în avans. Transportul a fost uneori inclus în preț, alteori trecut separat în ofertă.",
+    "categorie": "13-Filtre multistrat diferite medii",
+    "cand": "Clientul cere (de pe site sau pe e-mail) un dedurizator galvanic IPS KalyxX, cu sau fără mărime.",
+    "clarificari": [
+      "Mărimea se lămurește uneori la telefon. Altfel AKRO ofertează ambele mărimi și explică regula de alegere."
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "13-001107",
+          "rol": "KalyxX BlueLine G3/4\" (standard pentru case și apartamente)"
+        },
+        {
+          "ref": "13-001108",
+          "rol": "KalyxX BlueLine G1\""
+        },
+        {
+          "ref": "16-003005",
+          "rol": "livrare și ambalare"
+        }
+      ],
+      "servicii": [
+        "livrare prin curier în 1–2 zile, din stoc"
+      ],
+      "documente": [
+        "fișa tehnică IPS KalyxX Blue Line"
+      ],
+      "conditii": [
+        "plată 100% în avans",
+        "transportul e fie inclus în preț, fie trecut în ofertă ca linie separată „Livrare și ambalare”",
+        "uneori AKRO recomandă un filtru grosier sau un filtru Y înainte"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2158276",
+        "src": "m2158276",
+        "citat": "trebuie ales un produs de diminesiuni egale sau mai mari fata de teava de alimentarea a gospodariei.",
+        "pentru": "ofertă",
+        "nota": "Ambele mărimi ofertate. Clientul alege 3/4\"."
+      },
+      {
+        "conv": "c2158276",
+        "src": "m2158276",
+        "citat": "costul transportului este inclus",
+        "pentru": "ofertă",
+        "nota": "Produse în stoc, transport inclus în preț."
+      },
+      {
+        "conv": "c2152612",
+        "src": "m2152612",
+        "citat": "Produsul este in stoc si putem organiza livrarea in termen de maxim 1-2 zile",
+        "pentru": "ofertă",
+        "nota": "După o discuție telefonică: ofertă pe 3/4\" cu linie separată de livrare; după alt telefon, proforma pe 1\"."
+      },
+      {
+        "conv": "c2130468",
+        "src": "m2165348",
+        "citat": "Produsele sunt in stoc si se vor incarca astazi la FAN CURIER.",
+        "pentru": "ofertă",
+        "nota": "Comandă directă de 3 bucăți, confirmată și expediată în aceeași zi."
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R13-22",
+    "titlu": "Demineralizator manual cu rășină pat mixt: butelie de 30 L, conductivmetru on-line și un sac de rășină de schimb",
+    "explicatie": "Clientul vrea apă demineralizată de tot pentru un utilaj, de exemplu o mașină de spălat sticlă. AKRO ofertează o butelie de 30 de litri cu rășină pat mixt, care scoate și ultimele săruri din apă, plus un conductivmetru on-line care arată când s-a epuizat rășina. Pune în ofertă și un sac de rășină de schimb, ca clientul să știe cât îl costă consumabilele.",
+    "categorie": "13-Filtre multistrat diferite medii",
+    "cand": "Clientul cere apă complet demineralizată (0 ppm) pentru un utilaj (de exemplu mașină de spălat sticlă) cu o butelie cu rășină pat mixt.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "13-001071",
+          "rol": "butelie de demineralizare 30 L, rășină mixtă, racord 1/2\""
+        },
+        {
+          "ref": "13-001079",
+          "rol": "conductivmetru on-line care arată epuizarea rășinii"
+        },
+        {
+          "ref": "14-002101",
+          "rol": "sac de rășină pat mixt 25 L, ca reper pentru costul consumabilelor"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișa tehnică a buteliei de demineralizare",
+        "schema de flux recomandată"
+      ],
+      "conditii": [
+        "debit maxim recomandat 500 L/h prin butelie",
+        "rășina e în stoc, buteliile în aprox. 2 săptămâni"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2159780",
+        "src": "m2159780",
+        "citat": "1 conductivmetru on-line pentru verificare calitate apa obtinuta",
+        "pentru": "ofertă",
+        "nota": "Butelie, conductivmetru și rășină de schimb, cu schema de flux."
+      },
+      {
+        "conv": "c2159780",
+        "src": "m2159780",
+        "citat": "sa stiti cam care sunt costurile consumabilelor",
+        "pentru": "ofertă",
+        "nota": "Sacul de rășină e pus în ofertă ca reper pentru consumabile."
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R13-23",
+    "titlu": "Piesă de schimb Clack trimisă în poză (debitmetru): ansamblul contor, turbină și o-ring pentru vana de 1–1.25\"",
+    "explicatie": "Când clientul trimite doar o fotografie cu o piesă de la vana stației de dedurizare, AKRO o identifică după poză și ofertează direct, fără întrebări. În cazul văzut, piesa era debitmetrul vanei Clack de 1 până la 1,25 țoli, ofertat ca ansamblu de contor, turbină și garnitură. Oferta pleacă împreună cu poza piesei.",
+    "categorie": "13-Filtre multistrat diferite medii",
+    "cand": "Clientul trimite o fotografie cu o piesă a vanei de dedurizare și cere ofertă.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "13-001304",
+          "rol": "WS1 Meter Asy"
+        },
+        {
+          "ref": "13-001305",
+          "rol": "WS1 Turbine Asy"
+        },
+        {
+          "ref": "13-001306",
+          "rol": "O-ring 215"
+        },
+        {
+          "ref": "16-003005",
+          "rol": "livrare și ambalare"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fotografia piesei ofertate"
+      ],
+      "conditii": [
+        "în stocul furnizorului, livrare în 2–3 săptămâni"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2125092",
+        "src": "m2159940",
+        "citat": "Iti trimit anexata cotatia de pret pentru un debitmetru ca cel din poza",
+        "pentru": "ofertă",
+        "nota": "Identificată după poză ca piesă pentru vana Clack de 1–1.25\"."
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R13-24",
+    "titlu": "Arsen în apa de puț: filtru 50 L cu masă AQUA AS (vană Clack 1\"), cu debit maxim impus și cu filtru și UV recomandate",
+    "explicatie": "Clientul are arsen peste limită în apa de puț și vrea apă de băut pentru casă. AKRO ofertează un filtru de 50 de litri cu masa AQUA AS și vană Clack de 1 țol, care reține arsenul. Condiția pusă de AKRO este să nu treacă prin el mai mult de 1000 de litri pe oră, altfel apar scăpări. Recomandă și un filtru pentru turbiditate și un UV. Montajul nu e inclus.",
+    "categorie": "13-Filtre multistrat diferite medii",
+    "cand": "Clientul trimite buletine cu arsen peste limită (aprox. 60 µg/L) și cere apă potabilă pentru casă.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": null,
+          "nume": "Filtru - 50L - cu rasina AQUA AS - Vana clack CI -time - 1\"",
+          "rol": "reține As3 și As5 sub 10 µg/L"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișa tehnică filtre eliminare As",
+        "fișa masei AQUA AS"
+      ],
+      "conditii": [
+        "debit maxim 1000 L/h, altfel apar scăpări",
+        "spălare inversă la 1–2 săptămâni. Rășina ține >10 ani la consum casnic",
+        "montajul hidraulic nu este inclus"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2162436",
+        "src": "m2162436",
+        "citat": "este sa se respecte debitul maxim cu care este exploatat",
+        "pentru": "ofertă",
+        "nota": "Condiția de funcționare: maxim 1000 L/h."
+      },
+      {
+        "conv": "c2162436",
+        "src": "m2162436",
+        "citat": "Recomandarea noastra ar fi sa mai instalati si urmatoarele piese pentru o tratare completa:",
+        "pentru": "ofertă",
+        "nota": "Filtru de turbiditate și UV Viqua VH410 recomandate în plus."
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R13-25",
+    "titlu": "Foraj cu nitrați la un operator mic: AKRO recomandă întâi diluția, apoi dă doar o estimare pentru o stație de 450 L",
+    "explicatie": "Un operator mic are un foraj cu nitrați și cere un filtru care să-i scoată, împreună cu costurile de întreținere. AKRO discută cu el la telefon și îi recomandă întâi să folosească forajul cu probleme cât mai puțin, ca nitrații să se dilueze. Nu face o ofertă propriu-zisă, ci dă în e-mail doar o estimare pentru o stație de cel puțin 450 de litri de rășină.",
+    "categorie": "13-Filtre multistrat diferite medii",
+    "cand": "Clientul cere un filtru de eliminare a nitraților (FDEC) pentru un foraj și costurile de întreținere.",
+    "clarificari": [
+      "Discuție telefonică despre exploatarea forajelor."
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "estimare în e-mail: stație simplex de minim 450 L cu vană 2\", aprox. 10000 € fără TVA, plus costul sării pe mc"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2135012",
+        "src": "m2135012",
+        "citat": "solutia in cazul dumneavoastra este sa incercati sa exploatati cat mai putin forajul cu probleme",
+        "pentru": "ofertă",
+        "nota": "Diluția prin exploatare redusă a forajului cu 80 mg/L nitrați."
+      },
+      {
+        "conv": "c2135012",
+        "src": "m2135012",
+        "citat": "ar trebui pentru acest foraj o statie de minim 450L rasina simplex",
+        "pentru": "ofertă",
+        "nota": "Doar estimare de cost, fără ofertă Odoo."
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R13-27",
+    "titlu": "La unele oferte de stații de tratare AKRO atașează fotografii cu sisteme similare montate",
+    "explicatie": "La unele oferte pentru stații de dedurizare sau de tratare, AKRO pune lângă ofertă câteva fotografii cu stații asemănătoare deja montate, ca clientul să-și facă o idee despre cum arată sistemul. A făcut asta pentru o casă, pentru o fermă, cu poze de la o brutărie, și pentru o fabrică. În multe alte oferte de stații nu a trimis fotografii.",
+    "categorie": "13-Filtre multistrat diferite medii",
+    "cand": "AKRO trimite oferta pentru o stație de dedurizare sau de tratare (casă, fermă, fabrică).",
+    "clarificari": [],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [
+        "fotografii cu stații similare montate"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2138692",
+        "src": "m2138852",
+        "citat": "Trimit anexate si cateva fotografii cu sisteme similare",
+        "pentru": "ofertă",
+        "nota": "Fotografii cu stații de tratare casnice."
+      },
+      {
+        "conv": "c2115972",
+        "src": "m2115972",
+        "citat": "va trimit anexata o fotografie cu produse similare",
+        "pentru": "ofertă",
+        "nota": "Fotografie cu sisteme similare montate la o brutărie, trimisă unei ferme."
+      },
+      {
+        "conv": "c2107716",
+        "src": "m2107716",
+        "citat": "Trimit de asemenea si cateva fotografii cu o statie similara.",
+        "pentru": "ofertă",
+        "nota": "Fotografii cu o stație duplex similară, trimise cu prima ofertă."
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "În multe alte oferte de stații AKRO nu a trimis fotografii, de exemplu la restaurantul din conversația 376, la hotelul din conversația 595 și la stația de 10 mc/h din conversația 407.",
+        "dovezi": [
+          {
+            "conv": "c2153764",
+            "src": "m2153764",
+            "citat": "recomandam urmatorul flux de tratare dimensionat sa poata furniza apa 24/24",
+            "pentru": "ofertă",
+            "nota": "Oferta are linkuri spre fișe tehnice, fără fotografii."
+          },
+          {
+            "conv": "c2163940",
+            "src": "m2163940",
+            "citat": "Va las anexate ambele fise tehnice ale sistemelor de dedurizare",
+            "pentru": "ofertă",
+            "nota": "Atașate doar fișele tehnice și oferta."
+          },
+          {
+            "conv": "c2155364",
+            "src": "m2155364",
+            "citat": "Las anexate si fisele tehnice la produsele ofertate.",
+            "pentru": "ofertă",
+            "nota": "Atașate doar fișele tehnice și oferta."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R13-28",
+    "titlu": "Certificate pentru stații de dedurizare: declarații de conformitate pe componente (vană Clack, tank Canature, rășină Pure Resin) și manualul seriei DEC",
+    "explicatie": "Când clientul cere certificate CE, de calitate sau declarații de conformitate pentru o stație de dedurizare, AKRO trimite actele pe fiecare componentă. Sunt declarația și certificatul pentru vana Clack, certificatul rezervorului Canature și cel al rășinii Pure Resin. Pentru un client industrial a trimis și manualul de utilizare al seriei DEC, în română. Au fost și excepții: la o cerere de fișe tehnice și certificate de calitate, AKRO a trimis doar fișele tehnice.",
+    "categorie": "13-Filtre multistrat diferite medii",
+    "cand": "Clientul (firmă, licitație sau după cumpărare) cere explicit certificate CE, de calitate sau declarație de conformitate pentru stația de dedurizare.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [
+        "declarație de conformitate vană Clack",
+        "certificat NSF (WQA Gold Seal) vane Clack",
+        "certificat WQA rășină Pure Resin",
+        "certificat tank Canature",
+        "manual utilizator dedurizare seria DEC (trimis o dată, în română)"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2107716",
+        "src": "m2107716",
+        "citat": "certificate CE si declaratii de conformitate pentru elementele componente ale statiei",
+        "pentru": "cerere",
+        "nota": "Clientul cere certificate CE, declarații de conformitate și manual în română."
+      },
+      {
+        "conv": "c2107716",
+        "src": "m2144292",
+        "citat": "Anexat trimitem toate certificarile disponibile pentru gama aceasta de produs",
+        "pentru": "ofertă",
+        "nota": "AKRO trimite certificatele disponibile pe componente și manualul seriei DEC în română."
+      },
+      {
+        "conv": "c2106116",
+        "src": "m2142500",
+        "citat": "Regasiti anexate declaratiile de conformitate pentru toate elementele in contact cu apa:",
+        "pentru": "clarificare",
+        "nota": "După cumpărare: declarații pentru Clack, Canature și Pure Resin."
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "La o cerere de fișe tehnice și certificate de calitate pentru două stații (conversația 569), AKRO a trimis doar fișele tehnice, fără certificate.",
+        "dovezi": [
+          {
+            "conv": "c2127748",
+            "src": "m2127748",
+            "citat": "Pentru aprobarea beneficiarului avem nevoie de fise tehnice si certificatele de calitate.",
+            "pentru": "cerere",
+            "nota": "Clientul cere și certificatele de calitate."
+          },
+          {
+            "conv": "c2127748",
+            "src": "m2162724",
+            "citat": "Las anexate si fisele tehnice ale produselor .",
+            "pentru": "ofertă",
+            "nota": "Răspunsul AKRO are atașate doar oferta și fișele tehnice."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R13-29",
+    "titlu": "Stație la cheie pentru un beneficiar public sau industrial: AKRO enumeră ce asigură beneficiarul și exclude analizele de laborator și proiectarea amplasării",
+    "explicatie": "Unii beneficiari publici sau industriali vor ca oferta pentru stația de tratare să includă și branșarea, analizele de laborator sau o schiță de amplasare. AKRO precizează că face montajul în camera tehnică și PIF-ul, adică pornirea la fața locului, când sunt comandate. Analizele de laborator și proiectarea amplasării rămân în afara ofertei. Beneficiarul pregătește conductele, camera tehnică încălzită, canalizarea, curentul și accesul. Au fost și excepții: aceluiași client industrial i-a trimis o dată un desen de mână pentru bazin.",
+    "categorie": "13-Filtre multistrat diferite medii",
+    "cand": "Clientul cere ca oferta pentru stația de tratare să includă branșarea, analizele de laborator/DSP sau o schiță de amplasare.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [],
+      "servicii": [
+        "montaj în camera tehnică și PIF, deci și conectarea la rețea, când sunt comandate"
+      ],
+      "documente": [
+        "schema de flux a stației"
+      ],
+      "conditii": [
+        "beneficiarul asigură conductele, spațiul tehnic încălzit, canalizarea de debit mare, curent monofazic sau trifazic, acces",
+        "analizele de laborator nu sunt incluse",
+        "AKRO nu furnizează schemă de amplasare sau proiectare"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2128260",
+        "src": "m2163460",
+        "citat": "Oferta de pret NU include serviciul de analize la un laborator autorizat",
+        "pentru": "clarificare",
+        "nota": "Verificarea calității apei rămâne în sarcina beneficiarului."
+      },
+      {
+        "conv": "c2128260",
+        "src": "m2163460",
+        "citat": "BENEFICIARUL trebuie sa asigure in camera tehnica",
+        "pentru": "ofertă",
+        "nota": "Listă de condiții: DN80, spațiu, încălzire, canal, curent."
+      },
+      {
+        "conv": "c2166660",
+        "src": "m2166660",
+        "citat": "Ce trebuie sa mai asigurati in cladire ar fi:",
+        "pentru": "clarificare",
+        "nota": "La stația Șoarș: canal, ușă dublă, pardoseală. Plus hipoclorit."
+      },
+      {
+        "conv": "c2120612",
+        "src": "m2157092",
+        "citat": "Din pacate o schema de amplasare",
+        "pentru": "clarificare",
+        "nota": "AKRO refuză schița de amplasare sau proiectarea."
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "Pentru același client industrial, într-o etapă anterioară a proiectului (conversația 26), AKRO a trimis totuși un desen de mână cu recomandarea de amplasare a bazinului.",
+        "dovezi": [
+          {
+            "conv": "c2098244",
+            "src": "m2135044",
+            "citat": "Va las anexat un desen de mana pentru recomandarea de bazin.",
+            "pentru": "clarificare",
+            "nota": "Desen orientativ pentru poziția și racordurile bazinului de 20 mc."
+          }
+        ]
+      }
+    ]
+  }
+]

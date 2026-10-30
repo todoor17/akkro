@@ -1,0 +1,549 @@
+
+####################################################################################################
+OFERTA S02769 | client: ROMINSERV SRL | trimisă: 2026-09-04 10:14 | Odoo: Comandă de vânzare | conversații: c2155236, c2133284 (nr. 404, 649)
+
+####################################################################################################
+RÂND c2155236 (nr. 404) | stare: Completă | categorie: 13-Filtre multistrat diferite medii | cerere: Stație de dedurizare duplex DEC 75
+CERINȚA: Cere stația de dedurizare DEC 75 duplex, racord 1 țol, cu 75 L rășină pe fiecare coloană. [m2155236] «Interesul este pentru statia de dedurizare : DEC 75»
+CERINȚĂ FINALĂ (tip echipament): Stație de dedurizare duplex twin cu vană Clack TT1CI și 2 vase de presiune de câte 75 L rășină [m2155236] «si 2 tankuri de presiune de cate 75 L rasina»
+CERINȚĂ FINALĂ (calitate apă): Duritate la intrare 5 grade germane [m2155236] «duritate pe intrare 5 grade G»
+CERINȚĂ FINALĂ (termen): Livrare în 2-3 săptămâni de la comanda fermă [m2155236] «Instalatia se poate livra in termen de 2-3 saptamani de la comanda dumneavoastra ferma.»
+CERINȚĂ FINALĂ (loc livrare): Sediul din loc. Vladimirescu, jud. Arad [m2118692] «punerea in functiune la sediul nostru din loc Vladimirescu,»
+CERINȚĂ FINALĂ (altele): Montaj, deplasare și manoperă estimate la ±4200 lei fără TVA (opțional) [m2155332] «estimam un cost de +- 4200 de lei fara TVA»
+CLARIFICARE: întrebare Clientul întreabă dacă AKRO poate asigura montajul, racordarea și punerea în funcțiune la Vladimirescu. [m2118692] «puteti asigura si montajul, racordarea si punerea in functiune la sediul nostru» → răspuns AKRO poate oferta serviciile, dar costul e mare (±4200 lei fără TVA); stația vine asamblată și presetată, cu schemă de montaj și fișă de prima pornire. [m2155332] «Putem oferta si partea de servicii insa costul este relativ mare daca trimitem noi un instalator din BRASOV.» | schimbare: Se adaugă opțional montajul și PIF, estimate la ±4200 lei fără TVA.
+TELEFON: Discuție telefonică înainte de ofertă, pe baza căreia s-a trimis cotația pentru stația duplex twin. [m2155236] «Conform discutiei telefonice, va trimitem anexata cotatia de pret»
+OFERTĂ ÎN TEXT: Montaj, deplasare și manoperă: ±4200 lei fără TVA [m2155332] «Ca si estimare de cost pentru materiale de montaj, deplasare + manopera»
+REZULTAT: necunoscut
+
+####################################################################################################
+RÂND c2133284 (nr. 649) | stare: Completă | categorie: 13-Filtre multistrat diferite medii | cerere: Stație dedurizare duplex DEC 75-1 (comandă PO)
+CERINȚA: Trimite comanda PO 4501870934 și cere retrimiterea ei semnată și data estimată de livrare. [m2133284] «Atasat gasiti comanda PO 4501870934. Te rog sa mi-o retrimiti semnata si sa imi comunici data estimata pentru livrare»
+CERINȚĂ FINALĂ (tip echipament): DEC 75-1/duplex, stație dedurizare duplex twin, 75 L rășină, vană Clack CITT 1" [m2167556] «DEC 75-1/duplex, Statie dedurizare duplex twin, 75L rasina»
+CERINȚĂ FINALĂ (cantitate): 1 bucată [m2167556] «75L rasina, 1,00 buc»
+CERINȚĂ FINALĂ (altele): Termen de plată discutat: 15 zile de la livrarea stației [m2167556] «Termenul de plata discutat este de 15 zile – de la livrarea statiei.»
+REZULTAT: acceptată — Clientul trimite comanda PO 4501870934; AKRO confirmă comanda (S02769), livrare în aproximativ 2 săptămâni. [m2167556] «Va rog sa regasiti anexata confirmarea AKRO si comanda dumneavoastra semnata.»
+PREȚURI Ofertă S02769 v1 (2026-09-04), total 10652.59 RON:
+  [13-001174] DEC 75-1/duplex, Statie dedurizare duplex twin, 75L rasina, vana Clack CITT - 1" Termen livrare: 15 zile | 1.0 buc × 9781.99 RON (reducere 10.0%) | referință
+  termen: Metoda de plata: O.P. - 40% in avans, 60 % la 15 zile de la livrare
+  termen: Modul de livrare: In sarcina Akro /
+  termen: Garantie: 12 luni de la livrare
+PREȚURI Confirmare de comandă S02769 v1 (2026-10-14), total 10652.59 RON:
+  [13-001174] DEC 75-1/duplex, Statie dedurizare duplex twin, 75L rasina, vana Clack CITT - 1" Termen livrare: 15 zile | 1.0 buc × 9781.99 RON (reducere 10.0%) | referință
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12 luni de la livrare
+VÂNDUTĂ 2026-10-14 13:17 | lanț: complet | lipsește: []
+COMANDA P01575 (numită în PDF-ul comenzii) | ALAMO WATER POLAND | 2026-10-14 13:22 | sursa în Odoo: - | stare: nu e în lista Odoo | total: None
+  Comandă AKRO P01575 trimisă 2026-10-14 13:22 în m2167588 (conversația 651):
+    [14-001010] [V3186EU-PL] TRANSFORMER 230/12V 50HZ | 1.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-001011] [D1203] TOP BASKET 1" | 2.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-001012] [V3007-06] FITTING 1" BSPT SET | 1.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-001013] [V3162] DLFC RESTRICTOR 3/4" (0.7-10 GPM) | 1.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-001065] [V1TT1CIDM-X] WS1 CI TWIN ALTERNATING TM | 1.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-002100] [10761000008] Pure Resin PC003 strong cation | 150.0 L | 14-002 Medii filtrante
+    [14-003072] [CN-1354-2.5] 13x54-2.5 | 2.0 Units | 14-003 Coloane de presiune pentru filtrare, accesorii vase
+    [14-004009] [CN-BTR-200-K] BRINE TANK ROUND 200 L | 1.0 Units | 14-004 Vase de saramura si accesorii
+    [14-005025] [D1212-18-1.05] DISTRIBUTOR 1.05" WITH BOTTOM BASKET D1212-18 | 2.0 Units | 14-005 Crepine, distribuitoare si componente
+    [14-001066] [V169] PIPING FOR TANKS 12"-21" | 1.0 Units | 14-001 Vane automate programabile, accesorii
+    notă: S02769 | ROMINSERV SRL | Solicitare Statie de dedurizare - DEC 75 duplex - ROMPETROL GAS
+  Confirmare ALAMO SO2606864-1400-1 trimisă 2026-10-14 15:15 în m2133604 (conversația 654):
+    [-] [-] PC003 Gel type | 150.0 LTR | 1.55 EUR | 
+    [-] [VTT1CIDMI-29] Clack TT CI Valve DF Vol - No Interconnectors | 1.0 PCS | 391.5 EUR | 
+    [-] [D1203] 287F TOP DIST 1.050 | 2.0 PCS | 1.22 EUR | 
+    [-] [V3186EU-06] WS1 DC Power Supply EU 15V DC | 1.0 PCS | 9.69 EUR | 
+    [-] [V3007-06] WS1 Ftg 1'' Plastic Male BSPT Asy | 1.0 PCS+ | 7.0 EUR | 
+    [-] [V3162-042] WS1 DLFC 042 (4,2 gpm) For 3/4'' | 1.0 PCS | 1.08 EUR | 
+    [-] [-] Piping for Twin 1" ( tanks 12" - 21" ) | 1.0 PCS | 22.34 EUR | 
+    [-] [-] BRINE TANK 190 L-PC027 | 1.0 PCS | 106.5 EUR | 
+    [-] [-] WELL WITH COVER 190 L-PA015 | 1.0 PCS | 11.0 EUR | 
+    [-] [-] GRID 140-190 L (200 MM)-PC032 | 1.0 PCS | 21.0 EUR | 
+    [-] [60067-03] Sbv 2310 Without Air Check | 1.0 PCS | 13.4 EUR | 
+    [-] [18168] Air Check 500A 915 Mm (36") - ST | 1.0 PCS | 3.55 EUR | 
+    [-] [-] Polytube PE 6.35 X 9.52 Natural | 2.0 M | 0.53 EUR | 
+    [-] [-] 2 PC overflow set white - set | 1.0 PCS | 1.17 EUR | 
+    [-] [D1236] 932 Bottom Distributor 1.050 | 2.0 PCS | 1.34 EUR | 
+    [-] [-] PIPE-3/4" | 3.0 PCS+ | 3.0 EUR | 
+COMANDA P01502 (indiciu din perioadă) | ALAMO WATER POLAND | 2026-09-23 10:44 | sursa în Odoo: - | stare: Comandă de achiziție | total: 501.47
+  (nu e în emailuri: doar rândul din lista Odoo)
+COMANDA P01565 (indiciu din perioadă) | ALAMO WATER POLAND | 2026-10-13 10:01 | sursa în Odoo: - | stare: nu e în lista Odoo | total: None
+  Comandă AKRO P01565 trimisă 2026-10-13 10:01 în m2166852 (conversația 640):
+    [14-002100] [10761000008] Pure Resin PC003 strong cation | 200.0 L | 14-002 Medii filtrante
+    [14-002038] [10870000013] Anthracite 0,8 – 1,6 mm | 100.0 L | 14-002 Medii filtrante
+    [14-001082] [V3430-01] WS1.25/WS1.5 Spacer Stack | 1.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-001081] [V3407] WS1.25/WS1.5 Piston Downflow Asy | 1.0 Units | 14-001 Vane automate programabile, accesorii
+
+====================================================================================================
+CONVERSAȚIA c2155236 (nr. 404) | subiect: RE: Va multumim pentru cererea dvs. - Echipa akro.ro
+Partener (după adrese): rompetrol.com Pasca, Cristian | grupare nesigură: nu
+OFERTĂ S02769 v1 trimisă 2026-09-04 10:14 în m2155236 (Odoo: Comandă de vânzare): [13-001174] DEC 75-1/duplex, Statie dedurizare duplex twin, 75L rasina, vana Clack CITT - 1" x1.0 buc
+OFERTĂ S02769 v1 trimisă 2026-10-06 15:00 în m2164356 (Odoo: Comandă de vânzare): [13-001174] DEC 75-1/duplex, Statie dedurizare duplex twin, 75L rasina, vana Clack CITT - 1" x1.0 buc
+
+--- MESAJ m2155236 | 2026-09-04 10:14 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Pasca, Cristian <cristian.pasca@rompetrol.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Va multumim pentru cererea dvs. - Echipa akro.ro
+Buna dimineata Dl Pasca,
+
+Va multumim pentru solicitarea dumneavoastra!
+
+Conform discutiei telefonice, va trimitem anexata cotatia de pret pentru o instalatie de dedurizare duplex twin cu vana Clack TT1CI – si 2 tankuri de presiune de cate 75 L rasina.
+
+Oferta anexata include livrarea statiei gata asamblate si presetate pe aplicatia client [ atentie – greutatea unui vas va ajunge la +- 80 kg – grija la manipulare ] -duritate pe intrare 5 grade G.
+
+Instalatia se poate livra in termen de 2-3 saptamani de la comanda dumneavoastra ferma.
+
+De preferat ar fi sa montati si un filtru grosier [ daca nu exista] – pe alimentarea cu apa a statiei pentru protectia acesteia.
+
+Pentru orice alte informatii sau intrebari, va stau cu placere la dispozitie!
+
+Cu respect,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Pasca, Cristian <Cristian.Pasca@rompetrol.com>
+Sent: Friday, September 4, 2026 9:05 AM
+To: office@akro.ro; sales@akro.ro
+Subject: RE: Va multumim pentru cererea dvs. - Echipa akro.ro
+
+Buna dimineata,
+
+Interesul este pentru statia de dedurizare : DEC 75 – statie de dedurizare duplex, racord 1″, 75L de rasina pe fiecare coloanal.
+
+Multumesc,
+
+Cristian Pașca
+
+Filling Plant Supervisor
+
+Rompetrol Gas S.R.L.
+
+Punct de lucru Vladimirescu,Arad
+----------------------------------
+
+Loc. Vladimirescu, Str. Jandarmeriei,Nr. 15
+
+Jud. Arad
+
+Mobile: +40 (0)742 265 406
+E-mail: cristian.pasca@rompetrol.com
+
+Fax: 0372 879 591
+
+www.rompetrol.com
+
+Please consider the environment before printing.
+
+From: Akro <office@akro.ro>
+Sent: Friday, September 4, 2026 9:02 AM
+To: Pasca, Cristian <Cristian.Pasca@rompetrol.com>
+Subject: Va multumim pentru cererea dvs. - Echipa akro.ro
+
+You don't often get email from office@akro.ro. Learn why this is important
+
+ATTENTION! This email comes from a sender outside the company. Do not click on links or download attachments unless you recognize the sender or know that the email is secure. If you are suspicious about this email, use the "Report Phishing" button.
+
+Buna ziua, dle/dna Cristian Pasca,
+
+Va multumim pentru interesul acordat produselor si serviciilor noastre!
+
+Solicitarea dumneavoastra este in lucru.
+Revenim in curand cu mai multe detalii.
+
+- pentru filtre industriale apa, manuale si automate, click aici
+
+- pentru filtre impuritati apa cu membrana filtranta NW, click aici
+
+- pentru dedurizatoare apa, click aici
+
+- pentru osmoza inversa si butelii pentru demineralizare, click aici
+
+- pentru echipamente pentru dezinfectie - clor, UV, ozon, click aici
+
+- pentru carcase de inox si filtre de proces, click aici
+
+Cu stima,
+Echipa
+
+The information contained herein is intended for its addressee(s) only and it is privileged or otherwise confidential. Any unauthorized distribution, amendment or disclosure hereof is strictly forbidden by the law.
+[ATAȘAMENT: Oferta - S02769 - ROMPETROL - 04.09.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: Fisa tehnica - Statie de dedurizare - duplex, 1 TTCI - 75L.pdf | text extras]
+[ATAȘAMENT: Statie dedurizare twin.jpg | imagine]
+
+--- MESAJ m2118628 | 2026-09-04 11:00 | Inbox | EXTERN
+De la: Pasca, Cristian <cristian.pasca@rompetrol.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Va multumim pentru cererea dvs. - Echipa akro.ro
+Buna ziua,
+
+Multumim pt promtitudine. Vom reveni prin deprtamentul nostru de achizitiii in perioada urmatoare.
+
+Multumesc,
+
+Cristian Pașca
+
+Filling Plant Supervisor
+
+Rompetrol Gas S.R.L.
+
+Punct de lucru Vladimirescu,Arad
+
+----------------------------------
+
+Loc. Vladimirescu, Str. Jandarmeriei,Nr. 15
+
+Jud. Arad
+
+Mobile: +40 (0)742 265 406
+
+E-mail: cristian.pasca@rompetrol.com
+
+Fax: 0372 879 591
+
+www.rompetrol.com
+
+Please consider the environment before printing.
+
+--- MESAJ m2118692 | 2026-09-04 12:24 | Inbox | EXTERN
+De la: Pasca, Cristian <cristian.pasca@rompetrol.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Va multumim pentru cererea dvs. - Echipa akro.ro
+Buna ziua din nou,
+
+Va rog sa-mi comunicati daca pentru statia de dedurizare ofertata puteti asigura si montajul, racordarea si punerea in functiune la sediul nostru din loc Vladimirescu,
+jud. Arad.
+
+Multumesc,
+
+Cristian Pașca
+
+Filling Plant Supervisor
+
+Rompetrol Gas S.R.L.
+
+Punct de lucru Vladimirescu,Arad
+
+----------------------------------
+
+Loc. Vladimirescu, Str. Jandarmeriei,Nr. 15
+
+Jud. Arad
+
+Mobile: +40 (0)742 265 406
+
+E-mail: cristian.pasca@rompetrol.com
+
+Fax: 0372 879 591
+
+www.rompetrol.com
+
+Please consider the environment before printing.
+
+--- MESAJ m2155332 | 2026-09-04 12:56 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Pasca, Cristian <cristian.pasca@rompetrol.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Va multumim pentru cererea dvs. - Echipa akro.ro
+Buna ziua Dl Pasca,
+
+Putem oferta si partea de servicii insa costul este relativ mare daca trimitem noi un instalator din BRASOV.
+
+Ca si estimare de cost pentru materiale de montaj, deplasare + manopera – estimam un cost de +- 4200 de lei fara TVA
+
+Va reamintesc insa ca statia in forma in care a fost ofertata la dumneavoastra, se livreaza gata asamblat si presetata.[ insotita de schema de montaj + foaie de instructaj de PIF[prima pornire]]
+
+Orice instalator va putea face montajul instalatiei, iar pornirea inseamna doar respectarea pasilor din fisa de prima pornire - o succesiune clara de actiuni [check list ].
+
+Cu respect,
+
+--- MESAJ m2164356 | 2026-10-06 15:00 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: georgeemilian.tudorie@rompetrol.com <georgeemilian.tudorie@rompetrol.com>
+Subiect: FW: Va multumim pentru cererea dvs. - Echipa akro.ro
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Friday, September 4, 2026 10:14 AM
+To: 'Pasca, Cristian' <Cristian.Pasca@rompetrol.com>
+Cc: 'office@akro.ro' <office@akro.ro>; 'andrei.dobrei@akro.ro' <andrei.dobrei@akro.ro>
+Subject: RE: Va multumim pentru cererea dvs. - Echipa akro.ro
+
+Buna dimineata Dl Pasca,
+
+Va multumim pentru solicitarea dumneavoastra!
+
+Conform discutiei telefonice, va trimitem anexata cotatia de pret pentru o instalatie de dedurizare duplex twin cu vana Clack TT1CI – si 2 tankuri de presiune de cate 75 L rasina.
+
+Oferta anexata include livrarea statiei gata asamblate si presetate pe aplicatia client [ atentie – greutatea unui vas va ajunge la +- 80 kg – grija la manipulare ] -duritate pe intrare 5 grade G.
+
+Instalatia se poate livra in termen de 2-3 saptamani de la comanda dumneavoastra ferma.
+
+De preferat ar fi sa montati si un filtru grosier [ daca nu exista] – pe alimentarea cu apa a statiei pentru protectia acesteia.
+
+Pentru orice alte informatii sau intrebari, va stau cu placere la dispozitie!
+
+Cu respect,
+
+From: Pasca, Cristian <Cristian.Pasca@rompetrol.com>
+Sent: Friday, September 4, 2026 9:05 AM
+To: office@akro.ro; sales@akro.ro
+Subject: RE: Va multumim pentru cererea dvs. - Echipa akro.ro
+
+Buna dimineata,
+
+Interesul este pentru statia de dedurizare : DEC 75 – statie de dedurizare duplex, racord 1″, 75L de rasina pe fiecare coloanal.
+
+Multumesc,
+
+Cristian Pașca
+
+Filling Plant Supervisor
+
+Rompetrol Gas S.R.L.
+
+Punct de lucru Vladimirescu,Arad
+----------------------------------
+
+Loc. Vladimirescu, Str. Jandarmeriei,Nr. 15
+
+Jud. Arad
+
+Mobile: +40 (0)742 265 406
+E-mail: cristian.pasca@rompetrol.com
+
+Fax: 0372 879 591
+
+www.rompetrol.com
+
+Please consider the environment before printing.
+
+From: Akro <office@akro.ro>
+Sent: Friday, September 4, 2026 9:02 AM
+To: Pasca, Cristian <Cristian.Pasca@rompetrol.com>
+Subject: Va multumim pentru cererea dvs. - Echipa akro.ro
+
+You don't often get email from office@akro.ro. Learn why this is important
+
+ATTENTION! This email comes from a sender outside the company. Do not click on links or download attachments unless you recognize the sender or know that the email is secure. If you are suspicious about this email, use the "Report Phishing" button.
+
+Buna ziua, dle/dna Cristian Pasca,
+
+Va multumim pentru interesul acordat produselor si serviciilor noastre!
+
+Solicitarea dumneavoastra este in lucru.
+Revenim in curand cu mai multe detalii.
+
+- pentru filtre industriale apa, manuale si automate, click aici
+
+- pentru filtre impuritati apa cu membrana filtranta NW, click aici
+
+- pentru dedurizatoare apa, click aici
+
+- pentru osmoza inversa si butelii pentru demineralizare, click aici
+
+- pentru echipamente pentru dezinfectie - clor, UV, ozon, click aici
+
+- pentru carcase de inox si filtre de proces, click aici
+
+Cu stima,
+Echipa
+
+The information contained herein is intended for its addressee(s) only and it is privileged or otherwise confidential. Any unauthorized distribution, amendment or disclosure hereof is strictly forbidden by the law.
+[ATAȘAMENT: Oferta - S02769 - ROMPETROL - 04.09.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: Fisa tehnica - Statie de dedurizare - duplex, 1 TTCI - 75L.pdf | text extras]
+[ATAȘAMENT: Statie dedurizare twin.jpg | imagine]
+
+====================================================================================================
+CONVERSAȚIA c2133284 (nr. 649) | subiect: PO 4501870934
+Partener (după adrese): rompetrol.com Tudorie, George Emilian, Dodisi, Florin | grupare nesigură: nu
+OFERTĂ S02769 v1 trimisă 2026-10-14 13:17 în m2167556 (Odoo: Comandă de vânzare): [13-001174] DEC 75-1/duplex, Statie dedurizare duplex twin, 75L rasina, vana Clack CITT - 1" x1.0 buc
+
+--- MESAJ m2133284 | 2026-10-14 12:13 | Inbox | EXTERN
+De la: Tudorie, George Emilian <georgeemilian.tudorie@rompetrol.com>
+Către: alexandru.soare@akro.ro <alexandru.soare@akro.ro>
+Cc: florin.dodisi@rompetrol.com
+Subiect: PO 4501870934
+Buna ziua,
+
+Atasat gasiti comanda PO 4501870934. Te rog sa mi-o retrimiti semnata si sa imi comunici data estimata pentru livrare
+
+Cu stima,
+
+George Tudorie
+
+Project Manager
+
+S.C. Rominserv S.R.L.
+
+3-5 Piata Presei Libere, City Gate, North Tower
+
+3rd floor, 013702 Bucharest, Romania
+
+Mobile: 0724 034 533
+
+E-mail:
+georgeemilian.tudorie@rompetrol.com
+
+www.rominserv.com
+
+The information contained herein is intended for its addressee(s) only and it is privileged or otherwise confidential. Any unauthorized distribution, amendment or disclosure hereof is strictly forbidden by the law.
+[ATAȘAMENT: PO 4501870934 AKRO.pdf | text extras]
+Docusign Envelope ID: 9D76E5F5-2B32-84A8-805F-520F8D05F235
+Docusign Envelope ID: 9D76E5F5-2B32-84A8-805F-520F8D05F235
+
+--- MESAJ m2167556 | 2026-10-14 13:17 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Tudorie, George Emilian <georgeemilian.tudorie@rompetrol.com>
+Cc: florin.dodisi@rompetrol.com, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: PO 4501870934
+Buna ziua,
+Va multumim pentru comanda!
+
+Va rog sa regasiti anexata confirmarea AKRO si comanda dumneavoastra semnata.
+
+Termenul de livrare la acest moment este de aproximativ 2 saptamani
+
+Termenul de plata discutat este de 15 zile – de la livrarea statiei.
+
+Pentru orice alte informatii sau intrebari, va stau cu placere la dispozitie!
+
+Numai bine,
+[ATAȘAMENT: 1349_-940602140630_001.pdf | PDF fără text (scanat)]
+[ATAȘAMENT: Comanda - S02769.pdf | ofertă Odoo, parsată mai sus]
+
+====================================================================================================
+CONVERSAȚIA c2167588 (nr. 651) | subiect: Order - P01575  - AKRO - 14.10.2026
+Partener (după adrese): alamowaterpoland.com Dominik Mirowski, Alamo Water Poland | grupare nesigură: da
+
+--- MESAJ m2167588 | 2026-10-14 13:22 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Cc: alamo@alamowaterpoland.com, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Order - P01575  - AKRO - 14.10.2026
+Dear Dominik,
+
+Please find attached our order for a complete softener unit – twin 1CITT – with 75 liters of resin on each column.
+
+Please also send us the OC for this – and maybe this can also be prepared for collection this week.
+
+In this case we might collect both orders with the same transporter on Friday [ Order P01575 ] + the already prepared order [Order P1565] 80x80x80 -243 kg pallet.
+
+I am looking forward in receiving your response!
+
+Best regards,
+[ATAȘAMENT: Comandă de achiziție - P01575 - ALAMO WATER POLAND - 14.10.2026.pdf | text extras]
+
+--- MESAJ m2133380 | 2026-10-14 13:32 | Inbox | EXTERN
+De la: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: alamo@alamowaterpoland.com, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: ODP: Order - P01575  - AKRO - 14.10.2026
+Hello Alexandru,
+
+currently we don't have in stock:
+
+1354 tanks (I don't have alternative product)
+
+200 Canature brine tanks (I can offer Eurotrol 190 or Pentair 200)
+
+D12128-18 bottom baskets (I can offer standaard D1236 bottom basket)
+
+Please ocnfirm how to proceed?
+
+Pozdrawiam/Best regards,
+
+Dominik Mirowski
+
+Alamo Water Poland Sp. Z o.o.
+
+Ul. Gen. Tadeusza Kutrzeby 17
+
+05-082 Stare Babice, Poland
+
+T. +48 22 270 13 82
+
+dom@alamowaterpoland.com
+
+www.alamowaterpoland.com
+
+--- MESAJ m2167748 | 2026-10-14 14:56 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Cc: alamo@alamowaterpoland.com, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Order - P01575  - AKRO - 14.10.2026
+Hello Dominik,
+
+In this case please prepare this order with the following:
+
+Without the 1354 tanks
+
+With eurotrol 190 – brine tank [ complete please – with brine valve , polytube, overflow grid and well]
+
+2 standard D1236 – for 54” tanks.
+
+Thank you in advance!
+
+Best regards,
+
+====================================================================================================
+CONVERSAȚIA c2133604 (nr. 654) | subiect: Order confirmation: SO2606864-1400-1
+Partener (după adrese): alamowaterpoland.com Alamo | grupare nesigură: nu
+
+--- MESAJ m2133604 | 2026-10-14 15:15 | Inbox | EXTERN
+De la: Alamo <dominik.mirowski@alamowaterpoland.com>
+Către: office@akro.ro <office@akro.ro>, contact@spectra.ro <contact@spectra.ro>, alexandru.soare@akro.ro <alexandru.soare@akro.ro>
+Cc: dominik.mirowski@alamowaterpoland.com
+Subiect: Order confirmation: SO2606864-1400-1
+Dear SC AKRO SRL,
+
+Thank you very much for your new order.
+Enclosed you will find the confirmation of your order SO2606864-1400-1 with customer reference #P01575
+
+We kindly ask you to carefully check the article references, quantities, prices and the delivery address. If you have any further questions or comments, please do not hesitate to contact us.
+
+Kind regards,
+
+Alamo Water Poland Sp. z o.o.
+ul. Gen. Tadeusza Kutrzeby 17
+05-082 Stare Babice, Poland
+T: +48 22 270 13 81
+www.alamowaterpoland.com
+[ATAȘAMENT: Order SO2606864-1400-1.pdf | text extras]
+Alamo Water Poland Sp. z o.o. Telephone +48 22 270 13 81
+ul. Gen. Tadeusza Kutrzeby 17 Email alamo@alamowaterpoland.com
+05-082 STARE BABICE
+Poland
+
+0041090 SC AKRO SRL
+Str. Zizinului Nr. 110, etaj 2
+500407 BRASOV
+Romania
+
+Confirmation
+Confirmation........................: SO2606864-1400-1 Telephone .................................: +40.268.413180
+Sales order..........................: SO2606864-1400 Fax… : +40.268.413183
+Date.....................................: 14/10/2026 Email ........................................: office@akro.ro; contact@spectra.ro;
+Customer reference ............: #P01575 alexandru.soare@akro.ro
+VAT number .............................: RO14205979
+Terms of delivery .......................: Ex Works, Stare Babice, Poland
+Payment conditions ...................: 30 days invoice date
+
+Item number Description Qty. Unit. Ship date Net UP Amount
+10761000008 PC003 Gel type 150.00 LTR to be defined €1.55 €232.50
+
+10340000094 (VTT1CIDMI-29) 1.00 PCS to be defined €391.50 €391.50
+Clack TT CI Valve DF Vol - No Interconnectors
+
+10240000001 (D1203) 2.00 PCS to be defined €1.22 €2.44
+287F TOP DIST 1.050
+
+10440000184 (V3186EU-06) 1.00 PCS to be defined €9.69 €9.69
+WS1 DC Power Supply EU 15V DC
+
+10440000248 (V3007-06) 1.00 PCS+ to be defined €7.00 €7.00
+WS1 Ftg 1'' Plastic Male BSPT Asy
+
+10440000090 (V3162-042) 1.00 PCS to be defined €1.08 €1.08
+WS1 DLFC 042 (4,2 gpm) For 3/4''
+
+15524000025 Piping for Twin 1" ( tanks 12" - 21" ) 1.00 PCS to be defined €22.34 €22.34
+

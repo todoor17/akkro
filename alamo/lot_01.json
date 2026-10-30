@@ -1,0 +1,359 @@
+[
+  {
+    "conv": "c2135972",
+    "etichete": ["cerere de ofertă"],
+    "rezumat": {"text": "AKRO cere preț și disponibilitate pentru 10 tone de Pyrolox Regular 8x20; ALAMO trimite oferta SQ000833, dar după două zile AKRO anunță că clientul a cumpărat materialul din altă parte.",
+                "src": "m2135972", "citat": "Could you please help me with a quantity price and availability of"},
+    "cereri": [
+      {"text": "Preț pe cantitate și disponibilitate pentru 10 tone de Pyrolox Regular 8x20 mesh", "src": "m2135972", "citat": "10 tons - PYROLOX REGULAR 8x20mesh"}
+    ],
+    "raspunsuri": [
+      {"text": "Oferta SQ000833: 400 de saci Pyrolox 08x20 (25 kg) la 43,17 EUR sacul, total 17.268 EUR, ex works Stare Babice, plată la 30 de zile, cu un discount suplimentar inclus", "src": "m2100484", "citat": "10871000022 Pyrolox 08x20 (25kg) 400.00 BAG €43,17 €17268.00"},
+      {"text": "Stocul de 600 de saci e rezervat, dar ALAMO îl poate vinde la nevoie; are și o comandă deschisă de 400 de saci, cu livrare în 2 săptămâni", "src": "m2100484", "citat": "All material which we have in stock (600 bags) is reserved. But if needed I can sell it to you."}
+    ],
+    "legaturi": [
+      {"oferta": "S02525", "text": "AKRO cere de la ALAMO exact ce cere APAVITAL (10 tone de Pyrolox Regular 8x20), la câteva minute după ce redirecționează cererea clientului; oferta S02525 cu Pyrolox Regular 8x20 (două livrări de câte 2.820 L) se trimite în aceeași zi, după oferta ALAMO. Pe 15 iulie AKRO îi spune lui ALAMO că clientul a cumpărat din altă parte.",
+       "dovezi": [
+         {"src": "m2135972", "citat": "10 tons - PYROLOX REGULAR 8x20mesh", "nota": "ce cere AKRO de la ALAMO"},
+         {"src": "m2135940", "citat": "Pirolux pentru oxidarea Fe-Mn (PYROLOX REGULAR) – 10 tone", "nota": "cererea APAVITAL, redirecționată de AKRO cu câteva minute înainte"},
+         {"src": "m2136420", "citat": "Mediu filtrant deferizare pyrolox regular mno2 (8x20)", "nota": "produsul din oferta S02525 către APAVITAL"},
+         {"src": "m2137732", "citat": "Unfortunately the client decided to buy this media from somewhere else.", "nota": "AKRO anunță ALAMO că clientul a renunțat"}
+       ]}
+    ]
+  },
+  {
+    "conv": "c2139044",
+    "etichete": ["cerere de ofertă", "comandă", "confirmare de comandă"],
+    "rezumat": {"text": "AKRO caută 6 butelii FRP 24x65 sau 24x69, mai scurte decât cele standard, pentru un proiect cu sală joasă; după ce ALAMO găsește în Italia 6 butelii 24x65, AKRO trimite comanda P01372, iar ALAMO trimite confirmarea SO2605178.",
+                "src": "m2139044", "citat": "Is there a chance to find in your warehouse 6pcs x Vessels 24”x 65 or 69?"},
+    "cereri": [
+      {"text": "6 butelii 24x65 sau 24x69 din stoc, pentru o sală înaltă de circa 235 cm, unde buteliile standard de 72\" nu lasă loc de umplere", "src": "m2139044", "citat": "We won a project where the total height of the room is around 235cm"},
+      {"text": "Să întrebe în Belgia de încă o butelie 24x69 și să dea termenele reale de livrare împreună cu restul echipamentelor", "src": "m2139076", "citat": "Please ask Belgium if they have 1 more 24x69."},
+      {"text": "Dacă a întrebat și la Euraqua, și la AQUACom", "src": "m2140452", "citat": "Could you please tell me if you asked both in Euraqua or AQUACom?"},
+      {"text": "Să mai păstreze rezervarea buteliilor structurale; altfel AKRO comandă doar 4 structurale și 2 Canature", "src": "m2142948", "citat": "is it possible to keep a little longer the reservation for the structural tanks?"},
+      {"text": "Preț net pentru cele 6 butelii 24x65 din Italia, ca să le introducă în sistem înainte de comandă", "src": "m2145700", "citat": "Could you please give me also a net price for them"},
+      {"text": "Comanda P01372: 2 filtre cu vană WS2CI pentru Pyrolox și 4 filtre cu vană WS1.5CI pentru cărbune activ, toate cu butelii 24x65, fără nisip și fără cărbune (în comandă apar 170 L Pyrolox), de ridicat după 24 august", "src": "m2145732", "citat": "2 x Ws2Ci[brass]– pyrolux filters with tank 24x65 – [ without sand]"}
+    ],
+    "raspunsuri": [
+      {"text": "În stoc are 5 butelii C-2469-A3; butelii 24x65 nu ține în stoc", "src": "m2102756", "citat": "currently we have in stock 5x C-2469-A3."},
+      {"text": "Din Belgia nu primește a 6-a butelie C-2469-A3; rămân doar 5 din stoc", "src": "m2104196", "citat": "unfortunately, we won't receive 1x C-2469-A3 from Belgium."},
+      {"text": "A întrebat doar la Euraqua", "src": "m2104324", "citat": "I asked only Euraqua."},
+      {"text": "Cât a fost în concediu, colegii au vândut 2 butelii, deci au rămas 3; așteaptă răspuns de la firma soră din Germania", "src": "m2108004", "citat": "During my holiday absence, my colleagues sold 2 tanks."},
+      {"text": "Italia poate vinde 6 butelii 24x65, dar le expediază abia după 24 august; prețul buteliilor și al transportului încă nu e cunoscut", "src": "m2109060", "citat": "Italy gave a green light to purchase from them 6x 24x65 pressure tanks."},
+      {"text": "Confirmarea SO2605178 pentru P01372, ex works (de ex. 2 vane WS2CI la 904,58 EUR, 4 vane WS1.5CI la 657 EUR); prețul buteliilor din Italia vine într-o confirmare nouă", "src": "m2109220", "citat": "10340000142 (V2CIBTZ-05) 2.00 PCS to be defined €904.58 €1809.16"}
+    ],
+    "legaturi": [
+      {"oferta": "S02430", "text": "P01372 are configurația din oferta S02430, anexa la contractul cu Comuna Șoarș: 2 filtre de deferizare-demanganizare cu vană Clack CI și 4 filtre cu cărbune cu vană Clack CI. AKRO cere buteliile în ziua în care trimite contractul semnat cu Șoarș și scrie că tocmai a semnat contractul. Diferă: în ofertă filtrele au racord 2\", iar la ALAMO filtrele cu cărbune se comandă cu vane WS1.5CI și toate cu butelii 24x65.",
+       "dovezi": [
+         {"src": "m2145732", "citat": "2 x Ws2Ci[brass]– pyrolux filters with tank 24x65 – [ without sand]", "nota": "ce comandă AKRO de la ALAMO (filtrele cu Pyrolox)"},
+         {"src": "m2145732", "citat": "4 x WS1.5CI [ brass] – activated carbon filters with tanks 24x65 [ without media at all]", "nota": "ce comandă AKRO de la ALAMO (filtrele cu cărbune)"},
+         {"src": "m2134820", "citat": "FDC 250 - filtru deferizare demanganizare, vana Clack CI, racord 2\" 2,00 buc", "nota": "2 filtre de deferizare în oferta S02430 către Comuna Șoarș"},
+         {"src": "m2134820", "citat": "FCC 250 Filtru cu carbune, 250L mediu filtrant, vana Clack CI, racord 4,00 buc", "nota": "4 filtre cu cărbune în oferta S02430"},
+         {"src": "m2139076", "citat": "just signed the contract with the client", "nota": "AKRO către ALAMO, în dimineața de 21 iulie"},
+         {"src": "m2139012", "citat": "Va las anexat contractul semnat si din partea AKRO.", "nota": "contractul cu Șoarș se trimite semnat în aceeași dimineață"}
+       ]}
+    ]
+  },
+  {
+    "conv": "c2144100",
+    "etichete": ["comandă", "confirmare de comandă"],
+    "rezumat": {"text": "AKRO comandă (P01360) o stație de dedurizare simplex completă cu 300 L rășină și vană Clack 1.5\", plus rășină și distribuitoare; ALAMO confirmă (SO2605099) cu rășina PC002 în loc de PC003.",
+                "src": "m2144100", "citat": "1 complete softener unit -300L ofresin + clack valve 1.5”"},
+    "cereri": [
+      {"text": "Comanda P01360: o stație de dedurizare simplex completă cu 300 L rășină și vană WS1.5CI, plus rășină, un distribuitor inferior și unul superior (în total 600 L rășină PC003, butelie 24x72, vas de saramură 350 L)", "src": "m2144100", "citat": "Softener resin+ 1 bottom and 1 top distributor"},
+      {"text": "Acceptă PC002 în loc de PC003, cere încă un transformator și pregătirea comenzii pentru ridicare cât mai repede", "src": "m2144580", "citat": "Please add 1 transformer [ I think you missed it ]."},
+      {"text": "Dacă ALAMO poate găsi de altundeva a 6-a butelie structurală pentru comanda următoare", "src": "m2144580", "citat": "Is it possible for you to be able to provide it from somewhere else?"}
+    ],
+    "raspunsuri": [
+      {"text": "Confirmarea SO2605099, ex works: PC003 nu e în stoc, se pune PC002 (600 L la 1,43 EUR/L); vana WS1.5CI la 666,55 EUR", "src": "m2107940", "citat": "Please note change of the resin PC003 (no stock) -> PC002."}
+    ],
+    "legaturi": [
+      {"oferta": "S02575", "text": "P01360 se trimite la ALAMO la mai puțin de o oră după confirmarea de comandă S02575 către PROCONCORD (Viișoara) și are aceeași configurație: o stație DEC 300/V simplex cu 300 L rășină și vană Clack CI 1.5\", plus încă 300 L rășină PC003, un top basket și un distribuitor D1197-09 pentru înlocuirea rășinii în stația veche (oferta S02576, intrată în confirmarea S02575). Diferă: AKRO îi spune lui ALAMO că rășina și distribuitoarele sunt pentru depozit.",
+       "dovezi": [
+         {"src": "m2144100", "citat": "1 complete softener unit -300L ofresin + clack valve 1.5”", "nota": "ce comandă AKRO de la ALAMO"},
+         {"src": "m2144100", "citat": "[10761000008] Pure Resin PC003 strong cation [14-002100] 07/20/2026 10:02:17 600.00 L", "nota": "600 L rășină PC003 în P01360 (300 L pentru stație + 300 L în plus)"},
+         {"src": "m2144068", "citat": "DEC 300/V - Statie dedurizare simplex, 300L rasina, vana Clack CI - 1.5\"", "nota": "stația din confirmarea S02575 către PROCONCORD"},
+         {"src": "m2144068", "citat": "[14-002100] Rasina dedurizare PURE RESIN PC003 300,00 L", "nota": "rășina pentru stația veche, în aceeași confirmare"},
+         {"src": "m2144068", "citat": "[14-005065] DISTRIBUTOR 50MM WITH BOTTOM BASKET D1197-09", "nota": "distribuitorul cu același cod ca în P01360"}
+       ]}
+    ]
+  },
+  {
+    "conv": "c2145316",
+    "etichete": ["comandă", "livrare", "factură"],
+    "rezumat": {"text": "AKRO comandă (P01368) 42 de saci de Pyrolox Regular, organizează ridicarea cu RABEN împreună cu P01360 și cere apoi factura pentru ambele comenzi.",
+                "src": "m2145316", "citat": "Please find attached another order for 42 bags of pyrolux regular."},
+    "cereri": [
+      {"text": "Comanda P01368: 42 de saci de Pyrolox Regular 8x20 (592 L), de ridicat în aceeași săptămână cu P01360", "src": "m2145316", "citat": "Do you think it is possible to collect this order + P01360 – this week?"},
+      {"text": "Dimensiunile paletului pentru P01368 și vești despre buteliile structurale cerute în Germania", "src": "m2145412", "citat": "any news from Germany about the Structural Pressure vessels?"},
+      {"text": "Să încerce să obțină 6 butelii 24x65", "src": "m2145444", "citat": "Could you please see if you can get 6 of them?"},
+      {"text": "Anunță că transportatorul pentru cei 3 paleți e RABEN și trimite etichetele", "src": "m2145860", "citat": "Our forwarder for the 3 pallets that are ready will be RABEN."},
+      {"text": "Factura pentru marfa din ultima livrare (P01368 și P01360)", "src": "m2150660", "citat": "I will also need for the accounting department the invoice for the goods from last delivery"}
+    ],
+    "raspunsuri": [
+      {"text": "Pyrolox e în stoc; P01360 e deja gata de expediere pe 2 paleți", "src": "m2108612", "citat": "We have this material available in stock."},
+      {"text": "Germanii refuză să vândă buteliile C-2469-A3; ALAMO propune butelii 24x65 de la PWG Italia", "src": "m2108644", "citat": "Regarding to C-2469-A3 Germans rejected to sell us these tanks."},
+      {"text": "P01368 e gata: 1 palet 100x100x100 cm, 1120 kg", "src": "m2108740", "citat": "order P01368 is ready for shipment."}
+    ],
+    "legaturi": []
+  },
+  {
+    "conv": "c2147556",
+    "etichete": ["comandă", "livrare"],
+    "rezumat": {"text": "AKRO comandă (P01380) 4 stații de dedurizare simplex de 250 L cu vane WS2CI și by-pass NHWBP 2\"; ALAMO nu are buteliile 21x62, iar AKRO alege să le aștepte.",
+                "src": "m2147556", "citat": "Please find attached our order for 4 x simplex softeners 250L – with WS2CI clack Valves + 4 NHWBP 2”."},
+    "cereri": [
+      {"text": "Comanda P01380: 4 stații de dedurizare simplex de 250 L cu vane WS2CI CI, 4 by-pass NHWBP 2\", 1000 L rășină PC003, butelii 21x62 și vase de saramură de 350 L, fără nisip", "src": "m2147556", "citat": "4 x simplex softeners - 250L each, with NHWBP and Clack Valve 2\" CI [ without sand]"},
+      {"text": "Confirmarea comenzii, ca să o poată ridica până la sfârșitul săptămânii", "src": "m2150628", "citat": "Is it possible to send me the OC for the order attached"},
+      {"text": "AKRO alege să aștepte buteliile 21x62, pentru că marja nu permite butelii structurale", "src": "m2151140", "citat": "In this case we need to wait for the tanks to arrive for order 1380"},
+      {"text": "Anunță că marfa pentru P01411 se încarcă cu Dachser pe 26/27 august", "src": "m2114884", "citat": "The goods will be loaded by the carrier Dachser on 26/27 August 2026."}
+    ],
+    "raspunsuri": [
+      {"text": "Buteliile CN-21x62 lipsesc, sosesc la sfârșitul săptămânii viitoare; are doar butelii structurale C-2160, mai scumpe; comanda P01411 e deja pregătită pe 4 paleți", "src": "m2114052", "citat": "Currently we don't have CN-21x62 pressure tanks."}
+    ],
+    "legaturi": [
+      {"oferta": "S02518", "text": "P01380 are exact configurația din confirmarea de comandă S02518 către KDC TERMICE BRASOV (7 august): 4 stații DEC 250/V simplex cu 250 L rășină și vană Clack CI 2\" plus 4 by-pass NHWBP 2\"; comanda către ALAMO se trimite 4 zile mai târziu. Prima versiune a ofertei, din 13 iulie, avea doar 2 stații.",
+       "dovezi": [
+         {"src": "m2147556", "citat": "4 x simplex softeners - 250L each, with NHWBP and Clack Valve 2\" CI", "nota": "ce comandă AKRO de la ALAMO"},
+         {"src": "m2146404", "citat": "[13-001258] DEC 250/V - Statie dedurizare simplex, 250L rasina, vana Clack CI 4,00 buc", "nota": "cele 4 stații din confirmarea S02518 către KDC TERMICE"},
+         {"src": "m2146404", "citat": "4 x statii dedurizare Dec 250 + 4 vane NHWBP", "nota": "proforma către KDC TERMICE, trimisă cu confirmarea"}
+       ]}
+    ]
+  },
+  {
+    "conv": "c2148068",
+    "etichete": ["cerere de ofertă", "comandă"],
+    "rezumat": {"text": "AKRO cere ofertă pentru 12 membrane 4040ND pentru o unitate de osmoză Herco UO 3000 BW; ALAMO oferă membrane PWG 4040ND (SQ000992), iar în septembrie AKRO le comandă (P01461).",
+                "src": "m2148068", "citat": "Do you think you can offer me 12 x membranes 4040ND"},
+    "cereri": [
+      {"text": "Ofertă pentru 12 membrane 4040ND (furnizate de obicei de Herco) pentru unitatea de osmoză UO 3000 BW", "src": "m2148068", "citat": "They are required for UO 3000 BW [ Herco RO Unit.]"},
+      {"text": "Confirmă că cererea e încă valabilă, dacă ALAMO are membranele în portofoliu", "src": "m2151460", "citat": "Yes it is still valid."},
+      {"text": "Comanda P01461: 12 membrane PWG 4040ND, după oferta din august", "src": "m2156580", "citat": "Please find attached our order for the 12 membranes PWG 4040ND – offered in August"}
+    ],
+    "raspunsuri": [
+      {"text": "Oferta SQ000992: 12 membrane PWG 4040ND la 161 EUR bucata, total 1.932 EUR, ex works, termen de livrare 6-8 săptămâni", "src": "m2115044", "citat": "11062000007 PWG membrane 4040ND 12.00 PCS €161,00 €1932.00"},
+      {"text": "Confirmarea comenzii vine după ce ALAMO primește informații de la furnizorul său", "src": "m2119908", "citat": "I will proceed with confirmation when I receive information from our supplier."}
+    ],
+    "legaturi": [
+      {"oferta": "S02713", "text": "Comanda P01461 (12 membrane PWG 4040ND) se trimite la ALAMO în aceeași zi cu confirmarea de comandă S02713 către A.J.T. FARMING, care are exact 12 membrane PWG 4040ND plus manopera de înlocuire. Cererea de ofertă din august nu numește clientul, deci legătura se sprijină pe comanda din septembrie.",
+       "dovezi": [
+         {"src": "m2156580", "citat": "Please find attached our order for the 12 membranes PWG 4040ND", "nota": "ce comandă AKRO de la ALAMO"},
+         {"src": "m2156356", "citat": "[08-002232] Membrana osmotica PWG 4040ND 12,00 buc", "nota": "aceleași membrane, în aceeași cantitate, în confirmarea S02713"}
+       ]}
+    ]
+  },
+  {
+    "conv": "c2150884",
+    "etichete": ["comandă", "confirmare de comandă"],
+    "rezumat": {"text": "AKRO comandă (P01411) o stație de dedurizare duplex cu vane Clack 2\" CI și 450 L rășină pe fiecare coloană; ALAMO confirmă imediat (SO2605470), totul fiind în stoc.",
+                "src": "m2150884", "citat": "Please find a new order for a duplex softener unit with 2” CI clack valves, with 450L of resin on each column."},
+    "cereri": [
+      {"text": "Comanda P01411: stație duplex alternantă WS2CI, 900 L rășină PC003, 2 butelii 30x72, vas de saramură de 750 L cu accesorii", "src": "m2150884", "citat": "WS2 CI Duplex Alternating TM (without DLFC) - BOM"},
+      {"text": "Să adauge restrictoarele DLFC necesare, uitate în comandă", "src": "m2150980", "citat": "add me please also the DLFC restrictors required"}
+    ],
+    "raspunsuri": [
+      {"text": "Confirmarea SO2605470, toate articolele în stoc (de ex. 2 vane WS2CI la 909,49 EUR, rășină PC003 la 1,49 EUR/L)", "src": "m2113732", "citat": "10340000097 (V2CIDTD-05) 2.00 PCS to be defined €909.49 €1818.98"},
+      {"text": "Adaugă 2 restrictoare V3190-250", "src": "m2113764", "citat": "No problem I will add"}
+    ],
+    "legaturi": [
+      {"oferta": "S02613", "text": "P01411 se trimite la ALAMO la câteva minute după confirmarea de comandă S02613 către AIRBUS AEROSTRUCTURES, care are o stație DEC 450-2/duplex cu racord 2\", 450 L rășină pe fiecare coloană și vană Clack CI 2\": aceeași configurație. Pe 11 august AKRO anunțase deja ALAMO că așteaptă undă verde pentru un duplex de 450 L cu vane WS2CI.",
+       "dovezi": [
+         {"src": "m2150884", "citat": "a duplex softener unit with 2” CI clack valves, with 450L of resin on each column", "nota": "ce comandă AKRO de la ALAMO"},
+         {"src": "m2150852", "citat": "DEC 450-2/duplex, Statie dedurizare - duplex, racord 2\", 450L rasina pe", "nota": "stația din confirmarea S02613 către AIRBUS"},
+         {"src": "m2147556", "citat": "Normally I am waiting greenlight for one more duplex softener 450L also with WS2Ci Valves", "nota": "AKRO anunță ALAMO din 11 august că urmează un duplex de 450 L"}
+       ]}
+    ]
+  },
+  {
+    "conv": "c2152452",
+    "etichete": ["livrare"],
+    "rezumat": {"text": "AKRO întreabă de stadiul comenzilor P01380 și P01372; ALAMO răspunde că P01372 așteaptă buteliile de 24\", iar P01380 va fi gata până vineri.",
+                "src": "m2152452", "citat": "Is there a chance the order P01380 to be ready for collection by the end of the week"},
+    "cereri": [
+      {"text": "Dacă P01380 poate fi ridicată până la sfârșitul săptămânii", "src": "m2152452", "citat": "Is there a chance the order P01380 to be ready for collection by the end of the week"},
+      {"text": "Dacă totul e în regulă cu P01372, singura comandă care mai lipsește pentru pornirea stației de tratare", "src": "m2152452", "citat": "Actually we are only waiting for this order to arrive in order to start the treatment plant in location."},
+      {"text": "Dimensiunile paleților pentru P01380, ca să organizeze transportul", "src": "m2152964", "citat": "Please let me know as soon as possible the dimensions of the pallets for order P01380"}
+    ],
+    "raspunsuri": [
+      {"text": "P01372 e în așteptare, buteliile de 24\" n-au sosit; P01380 e gata până vineri, buteliile de 21\" au sosit", "src": "m2115908", "citat": "order P01380 - will be ready till Friday (today we received 21\" tanks)"}
+    ],
+    "legaturi": []
+  },
+  {
+    "conv": "c2152932",
+    "etichete": ["comandă"],
+    "rezumat": {"text": "AKRO comandă (P01436) 350 L de rășină pat mixt PMB101-2, pentru stoc.",
+                "src": "m2152932", "citat": "I am sending you our order for some media we need for stock."},
+    "cereri": [
+      {"text": "Comanda P01436: 350 L rășină pat mixt Pure Resin PMB101-2, pentru stoc; AKRO speră că ALAMO a primit-o în stoc", "src": "m2152932", "citat": "[10761000004] Pure Resin PMB101-2 mixed bed [14-002101]"}
+    ],
+    "raspunsuri": [],
+    "legaturi": []
+  },
+  {
+    "conv": "c2116516",
+    "etichete": ["livrare"],
+    "rezumat": {"text": "ALAMO întreabă dacă P01436 merge cu transportul curent; AKRO spune că e o comandă separată și cere stadiul P01380, iar ALAMO confirmă că P01380 e gata și că PMB101-2 e în stoc.",
+                "src": "m2116516", "citat": "Do you want to add it to an actual shipment or it’s a separate order?"},
+    "cereri": [
+      {"text": "Dacă P01380 e gata de ridicat și dimensiunile paleților, comanda fiind urgentă", "src": "m2153188", "citat": "if you could check if our order P01380 – is ready for collection"},
+      {"text": "Să nu grăbească PMB101-2: se ridică împreună cu comanda care așteaptă cele 6 butelii 24x65", "src": "m2153252", "citat": "Please do not rush with the PMB101-2 as it will not be collected this week"},
+      {"text": "Anunță ridicarea mărfii cu Raben și trimite etichetele", "src": "m2116740", "citat": "the goods will be picked up today by the transport company Raben."}
+    ],
+    "raspunsuri": [
+      {"text": "Sunt gata două comenzi: 3 paleți din săptămâna trecută și 4 paleți din săptămâna aceasta", "src": "m2116548", "citat": "I’ve got information that there are two orders for you ready:"},
+      {"text": "Cei 3 paleți sunt comanda P01380", "src": "m2116580", "citat": "I’ve checked, it is P01380."},
+      {"text": "PMB101-2 e în stoc; o împachetează și revine cu dimensiunile", "src": "m2116612", "citat": "I’ll ask to pack it and get back with dimensions."}
+    ],
+    "legaturi": []
+  },
+  {
+    "conv": "c2154820",
+    "etichete": ["livrare"],
+    "rezumat": {"text": "AKRO întreabă când sunt gata P01372 și P01436; ALAMO trimite dimensiunile paletului cu PMB101-2, iar AKRO anunță ridicarea lui cu Raben.",
+                "src": "m2154820", "citat": "Do you have any news about the readiness of the orders:"},
+    "cereri": [
+      {"text": "Stadiul P01372 (cu buteliile speciale de 24\") și P01436 (350 L PMB101-2), ca să comande transportul", "src": "m2154820", "citat": "If any of this are ready for collection please let us know to make the transport order."},
+      {"text": "Anunță ridicarea cu Raben a doua zi și trimite etichetele", "src": "m2118468", "citat": "the goods will be collected by Raben tomorrow."}
+    ],
+    "raspunsuri": [
+      {"text": "PMB101-2 e pe un palet de 80x120x68 cm, 280 kg", "src": "m2118308", "citat": "PMB101-2 was paked onto 1 Pallet:"}
+    ],
+    "legaturi": []
+  },
+  {
+    "conv": "c2155908",
+    "etichete": ["livrare"],
+    "rezumat": {"text": "AKRO cere vești despre P01372; ALAMO nu are încă răspuns din Italia, apoi anunță că buteliile s-au expediat și ajung în Polonia săptămâna următoare.",
+                "src": "m2155908", "citat": "Can you tell us more info about order P01372"},
+    "cereri": [
+      {"text": "Când va fi gata de ridicat P01372, cu buteliile mai scurte de 24\"", "src": "m2155908", "citat": "When do you estimate it will be ready for collection?"}
+    ],
+    "raspunsuri": [
+      {"text": "ALAMO încă nu are niciun răspuns din Italia", "src": "m2119588", "citat": "I'm trying to get any information from Italy - unfortunately no answer yet."},
+      {"text": "Buteliile s-au expediat din Italia și ajung în Polonia săptămâna viitoare", "src": "m2119972", "citat": "I was informed that pressure tanks were shipped from Italy."}
+    ],
+    "legaturi": []
+  },
+  {
+    "conv": "c2157124",
+    "etichete": ["comandă", "confirmare de comandă", "livrare"],
+    "rezumat": {"text": "AKRO comandă (P01473) 3 vane Clack 1.25\" cu accesorii și un System Controller pentru refacerea unei stații de dedurizare triplex; ALAMO confirmă (SO2606096) și pregătește marfa împreună cu P01372 și câteva restanțe.",
+                "src": "m2157124", "citat": "Please find attached for 3 clack 1.25” valves + all the accessories required for a refurbishing a softener unit"},
+    "cereri": [
+      {"text": "Comanda P01473: 3 vane WS1.25CI cu accesorii pentru o stație triplex cu 200 L pe coloană, fără mase filtrante, vase de saramură și butelii (clientul le are deja)", "src": "m2157124", "citat": "triplex with 200 L each column [ without media, brine tanks and pressure tanks"},
+      {"text": "Ajutor la completarea comenzii pentru Clack System Controller (3 cabluri de alimentare AC de 36 ft și 3 cabluri de comunicație de 6-8 m)", "src": "m2157124", "citat": "As I do not usually order Clack System controller, I will need your support for completing the order."},
+      {"text": "Să ridice P01372 și P01473 împreună, până la sfârșitul săptămânii, și dimensiunile paleților", "src": "m2157604", "citat": "Than we will prefer to collect everything"}
+    ],
+    "raspunsuri": [
+      {"text": "Confirmarea SO2606096, marfa în stoc (de ex. 3 vane WS125CI la 242,74 EUR, System Controller la 640,17 EUR)", "src": "m2121380", "citat": "10340000132 (V125CIDME-08) 3.00 PCS to be defined €242.74 €728.22"},
+      {"text": "Totul se poate încărca într-un singur transport", "src": "m2121412", "citat": "Of course, we can put everything in one load."},
+      {"text": "Comenzile sunt gata (1 palet + 4 paleți), cu lista mărfii, inclusiv restanțe și cele 6 butelii 24x65 din SO2605178", "src": "m2121988", "citat": "below you can find a list of goods which are prepared for shipment."}
+    ],
+    "legaturi": []
+  },
+  {
+    "conv": "c2159076",
+    "etichete": ["comandă", "confirmare de comandă", "livrare"],
+    "rezumat": {"text": "AKRO comandă (P01478) 22 de saci de Turbidex; ALAMO confirmă din greșeală doar 2 saci, corectează și pregătește paletul, ridicat cu Raben.",
+                "src": "m2159076", "citat": "Please find attached our order for 22 bags of turbidex"},
+    "cereri": [
+      {"text": "Comanda P01478: 22 de saci de Turbidex (622 L)", "src": "m2159076", "citat": "[10870000010] Turbidex [14-002008] 09/16/2026 10:49:09 622.00 L"},
+      {"text": "Corectarea confirmării: sunt necesari 22 de saci, 622,6 L", "src": "m2159396", "citat": "Please be aware we need in total 22 BAGS – 622.6L"},
+      {"text": "Anunță ridicarea cu Raben și trimite etichetele", "src": "m2124292", "citat": "We would like to inform you that the goods will be collected by Raben."}
+    ],
+    "raspunsuri": [
+      {"text": "Confirmarea SO2606232 are doar 2 saci de Turbidex (28,18 EUR sacul); marfa e în stoc", "src": "m2123716", "citat": "10870000010 Turbidex Filter Medio 50LB/Bag 2.00 CFT to be defined €28.18 €56.36"},
+      {"text": "Recunoaște greșeala și corectează la 22 de saci", "src": "m2123748", "citat": "Sorry - I will change it of course."},
+      {"text": "Comanda e gata: 1 palet de 105x122x70 cm, 540 kg", "src": "m2123972", "citat": "your order is ready for shipment."}
+    ],
+    "legaturi": [
+      {"oferta": "S02814", "text": "P01478 cere exact 622 L de Turbidex, cantitatea din oferta S02814 către Unitatea Militară 01829 pentru înlocuirea masei filtrante Turbidex din cele două filtre, trimisă cu 4 zile înainte. Oferta mai are nisip cuarțos și un contor, care nu se cer de la ALAMO.",
+       "dovezi": [
+         {"src": "m2159076", "citat": "[10870000010] Turbidex [14-002008] 09/16/2026 10:49:09 622.00 L", "nota": "ce comandă AKRO de la ALAMO"},
+         {"src": "m2157732", "citat": "[14-002008] Turbidex 622,00 L", "nota": "aceeași cantitate în oferta S02814"},
+         {"src": "m2157732", "citat": "ar fi sa se inlocuiasca si masa filtranta din cele doua filtre [ turbidexul ]", "nota": "de ce cere clientul Turbidex"}
+       ]}
+    ]
+  },
+  {
+    "conv": "c2159908",
+    "etichete": ["cerere de ofertă"],
+    "rezumat": {"text": "AKRO cere preț pentru contorul din poza atașată; ALAMO răspunde cu V3003 la 34,46 EUR bucata, EXW.",
+                "src": "m2159908", "citat": "Is it possible to offer me the meter attached?"},
+    "cereri": [
+      {"text": "Preț pentru contorul (debitmetrul) din poza atașată", "src": "m2159908", "citat": "Is it possible to offer me the meter attached?"}
+    ],
+    "raspunsuri": [
+      {"text": "V3003 la 34,46 EUR bucata, preț final EXW depozitul ALAMO", "src": "m2126404", "citat": "V3003 - 34,46 euro/pc"}
+    ],
+    "legaturi": [
+      {"oferta": "S02869", "text": "AKRO trimite la ALAMO aceeași poză (WhatsApp Image 2026-09-24 at 14.31.58) pe care KDC TERMICE BRASOV i-o trimisese cu circa 20 de minute înainte, cerând ofertă pentru piesa din poză; în aceeași zi AKRO trimite oferta S02869 cu un debitmetru WS1 Meter Asy pentru vană Clack de 1-1.25\". Oferta către client s-a trimis înainte de răspunsul ALAMO.",
+       "dovezi": [
+         {"src": "m2159908", "citat": "Is it possible to offer me the meter attached?", "nota": "cererea AKRO către ALAMO, cu poza clientului atașată"},
+         {"src": "m2125092", "citat": "Va rugam sa ne ajutati cu o oferta pentru piesa din poza atasata.", "nota": "cererea KDC TERMICE, cu aceeași poză"},
+         {"src": "m2159940", "citat": "Iti trimit anexata cotatia de pret pentru un debitmetru ca cel din poza", "nota": "AKRO trimite oferta S02869"},
+         {"src": "m2159940", "citat": "[13-001304] WS1 Meter Asy 1,00 buc", "nota": "debitmetrul din oferta S02869"}
+       ]}
+    ]
+  },
+  {
+    "conv": "c2160548",
+    "etichete": ["comandă", "livrare", "altele"],
+    "rezumat": {"text": "AKRO comandă (P01513) piese pentru vane Clack 2\" QC-CI și 4 rezervoare de chimicale de 50 L; ALAMO nu are rezervoarele, AKRO renunță la ele, coletul se ridică cu FedEx, iar AKRO cere apoi certificatele de calitate și sanitare.",
+                "src": "m2160548", "citat": "Please find attached another order for some parts we need for some 2”QC -CI clack valves and some chemical tanks."},
+    "cereri": [
+      {"text": "Comanda P01513: 3 drive cap WS2, 10 spacer stack WS2, 10 pistoane WS2, 10 pistoane de saramură și 4 rezervoare de chimicale de 50 L", "src": "m2160548", "citat": "WS2 Spacer Stack Downflow [13-001166]"},
+      {"text": "Nu acceptă rezervoare de 80 L: comanda se pregătește fără rezervoare, pentru ridicare prin curier", "src": "m2161124", "citat": "We cannot accept other dimension of chemical tanks."},
+      {"text": "Anunță ridicarea cu FedEx și trimite etichetele", "src": "m2126660", "citat": "the goods will be collected by FedEx."},
+      {"text": "Certificate de calitate valabile pentru piesele Clack și toate certificatele de calitate și sanitare la zi pentru butelii, vane Clack și masele filtrante (Pure Resin, Pyrolox, Turbidex, Aqua As, Birm, Ecomix), din cauza legii noi din 1 ianuarie", "src": "m2161860", "citat": "from 1 January, the law in Romania will change."}
+    ],
+    "raspunsuri": [
+      {"text": "Rezervoarele de 50 L lipsesc până la începutul lui noiembrie; ALAMO propune rezervoare de 80 L", "src": "m2126340", "citat": "Currently we don't have Chemical tanks - 50 l (delivery at the beginning of November)."},
+      {"text": "Comanda e gata: o cutie de 35x35x20 cm, 3,2 kg", "src": "m2126628", "citat": "your order is ready for shipment."}
+    ],
+    "legaturi": [
+      {"oferta": "S02863", "text": "Piesele Clack din P01513 (3 drive cap WS2, 10 spacer stack, 10 pistoane, 10 pistoane de saramură) sunt exact cele din confirmarea de comandă S02863 către ARTROM STEEL TUBES, trimisă în aceeași zi, cu mai puțin de o oră înainte. Rezervoarele de chimicale de 50 L din comandă nu apar în S02863.",
+       "dovezi": [
+         {"src": "m2160548", "citat": "WS2 Spacer Stack Downflow [13-001166] 09/25/2026 12:38:53 10.00 Units", "nota": "ce comandă AKRO de la ALAMO"},
+         {"src": "m2160420", "citat": "[13-001166] WS2 Spacer Stack Downflow 10,00 buc", "nota": "aceeași piesă și cantitate în confirmarea S02863"},
+         {"src": "m2160420", "citat": "[14-001128] WS2 Drive Cap Assembly 3,00 buc", "nota": "cele 3 drive cap din confirmarea S02863"}
+       ]}
+    ]
+  },
+  {
+    "conv": "c2166852",
+    "etichete": ["comandă", "confirmare de comandă", "livrare"],
+    "rezumat": {"text": "AKRO comandă (P01565) 200 L rășină PC003, 100 L antracit, un spacer stack și un piston pentru vane WS1.25/1.5; ALAMO confirmă (SO2606803) și pregătește un palet.",
+                "src": "m2166852", "citat": "Please find attached our order for some materials we need."},
+    "cereri": [
+      {"text": "Comanda P01565: 200 L rășină PC003, 100 L antracit 0,8-1,6 mm, un spacer stack și un piston downflow WS1.25/WS1.5", "src": "m2166852", "citat": "[10761000008] Pure Resin PC003 strong cation [14-002100] 10/13/2026 12:15:31 200.00 L"},
+      {"text": "Totul pe un palet, cu dimensiunile finale", "src": "m2166916", "citat": "Please prepare everything on a pallet and announce us the final dimensions!"}
+    ],
+    "raspunsuri": [
+      {"text": "Confirmarea SO2606803, marfa în stoc: rășină PC003 la 1,54 EUR/L și hidroantracit 0,6-1,6 mm la 1,09 EUR/L", "src": "m2132420", "citat": "10870000034 Hydroantracyt NI 0.6-1.6 mm (50 L) 100.00 LTR to be defined €1.09 €109.00"},
+      {"text": "Comanda e gata: 1 palet de 80x80x80 cm, 243 kg", "src": "m2133252", "citat": "your order is ready for shipment."}
+    ],
+    "legaturi": []
+  },
+  {
+    "conv": "c2167588",
+    "etichete": ["comandă"],
+    "rezumat": {"text": "AKRO comandă (P01575) o stație de dedurizare twin 1CITT cu 75 L rășină pe coloană; ALAMO nu are buteliile 13x54, vasul de saramură de 200 L și coșurile D1212-18, iar AKRO o cere fără butelii, cu vas Eurotrol 190 și coșuri D1236.",
+                "src": "m2167588", "citat": "Please find attached our order for a complete softener unit – twin 1CITT – with 75 liters of resin on each column."},
+    "cereri": [
+      {"text": "Comanda P01575: stație twin WS1 CI alternantă, 150 L rășină PC003, 2 butelii 13x54, vas de saramură de 200 L, de ridicat vineri împreună cu P01565", "src": "m2167588", "citat": "we might collect both orders with the same transporter on Friday"},
+      {"text": "Varianta acceptată: fără buteliile 1354, cu vas de saramură Eurotrol 190 complet și 2 coșuri D1236 standard", "src": "m2167748", "citat": "With eurotrol 190 – brine tank"}
+    ],
+    "raspunsuri": [
+      {"text": "Nu sunt în stoc buteliile 1354 (fără alternativă), vasele de saramură Canature de 200 L (propune Eurotrol 190 sau Pentair 200) și coșurile D12128-18 (propune D1236)", "src": "m2133380", "citat": "1354 tanks (I don't have alternative product)"}
+    ],
+    "legaturi": [
+      {"oferta": "S02769", "text": "Comanda P01575 numește chiar oferta S02769 pentru ROMINSERV (DEC 75 duplex, Rompetrol Gas). Configurația se potrivește: S02769 are o stație DEC 75-1/duplex twin cu 75 L rășină și vană Clack CITT 1\", iar confirmarea de comandă S02769 s-a trimis cu câteva minute înainte de P01575.",
+       "dovezi": [
+         {"src": "m2167588", "citat": "S02769 | ROMINSERV SRL | Solicitare Statie de dedurizare - DEC 75 duplex - ROMPETROL GAS", "nota": "comanda către ALAMO numește oferta clientului"},
+         {"src": "m2167556", "citat": "DEC 75-1/duplex, Statie dedurizare duplex twin, 75L rasina,", "nota": "stația din confirmarea S02769 către ROMINSERV"}
+       ]}
+    ]
+  }
+]

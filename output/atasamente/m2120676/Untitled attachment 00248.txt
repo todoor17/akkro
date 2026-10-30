@@ -1,0 +1,24 @@
+Return-path: <alexandru.soare@akro.ro>
+Received: from [82.78.174.40] (port=56092 helo=AKR100)
+	by s010.host-age.ro with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.100)
+	(envelope-from <alexandru.soare@akro.ro>)
+	id 1x4wxt-0000000HZSS-210H;
+	Fri, 11 Sep 2026 11:50:33 +0300
+From: "AKRO Romania , Alexandru Soare" <alexandru.soare@akro.ro>
+To: "'Petra Horvath'" <sales@euro-clear.eu>
+Cc: =?utf-8?Q?'Andor_Bal=C3=A1zs-F=C3=BCl=C3=B6p'?= <vanzari@euro-clear.eu>,
+	"'Harasza Zsolt'" <zs.harasza@euro-clear.eu>,
+	<office@akro.ro>,
+	<andrei.dobrei@akro.ro>
+Subject: ORDER - P01472 - AKRO ROMANIA - 11.09.2026
+Date: Fri, 11 Sep 2026 11:50:32 +0300
+Message-ID: <00ec01dd41ca$9b3b58e0$d1b20aa0$@akro.ro>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_00ED_01DD41E3.C08AB3C0"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: Ad1BymDht9sEAgpnScOJWvpgSBbxtw==
+Content-Language: en-us
+X-Exim-DSN-Information: Due to administrative limits only headers are returned
+

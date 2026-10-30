@@ -1,0 +1,97 @@
+[
+  {
+    "cod": "R21-01",
+    "titlu": "Debitmetru electromagnetic cu DN dat: Aplisens PEM1000 modular, ofertat direct, fără întrebări",
+    "explicatie": "Când clientul cere un debitmetru electromagnetic pentru apă, adică un aparat care măsoară debitul prin inducție magnetică, și dă diametrul țevii (DN), AKRO nu pune întrebări. Ofertează direct modelul Aplisens PEM1000 în varianta modulară, cu senzorul separat de transmițător, și atașează fișa tehnică. Pentru o cerere de DN75 a ofertat mărimea DN80, fără să explice alegerea. Aparatul vine din stocul furnizorului, în câteva zile de la comandă și plată.",
+    "categorie": "21-Aparatura de analiza si control",
+    "cand": "Clientul cere un debitmetru electromagnetic pentru apă și dă diametrul (DN), eventual domeniul de debit, ieșirea (4-20 mA, transmitere date) și alimentarea (230 V).",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "23-001166",
+          "rol": "debitmetrul ofertat pe DN80 cu flanșe PN16, la o cerere de DN75"
+        },
+        {
+          "ref": "23-001172",
+          "rol": "debitmetrul ofertat pentru DN65"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișa tehnică a debitmetrului electromagnetic PEM (Aplisens)"
+      ],
+      "conditii": [
+        "variantă modulară: senzor separat de transmițător, cu cablu de 8 m între ele",
+        "precizie 0,5%, ieșiri 4-20 mA, Modbus și puls, alimentare 90-260 Vac (specificația scrisă în emailul din conversația 471)",
+        "din stocul furnizorului: livrare în 5-10 zile (conversația 471) sau 5-7 zile (conversația 379) de la comandă și confirmarea plății",
+        "plată 100% în avans",
+        "garanție 24 de luni de la livrare"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2158244",
+        "src": "m2158244",
+        "citat": "Doresc sa achizitionez un debitmetru electromagnetic , pentru apa potabila,DN75,domeniul maxim de masurare 30mc/h",
+        "pentru": "cerere",
+        "nota": "clientul dă aplicația, DN75 și debitul maxim, fără model"
+      },
+      {
+        "conv": "c2158244",
+        "src": "m2158244",
+        "citat": "Debitmetru electromagnetic modular Aplisens PEM1000",
+        "pentru": "ofertă",
+        "nota": "AKRO ofertează direct, fără întrebări, modelul Aplisens PEM1000 pe DN80, cu specificația scrisă în email"
+      },
+      {
+        "conv": "c2117348",
+        "src": "m2117348",
+        "citat": "debitmetru electromagnetic dn 65,cu urmatoarele caracteristici:",
+        "pentru": "cerere",
+        "nota": "clientul dă DN65, ieșire 4-20 mA și alimentare 230 V"
+      },
+      {
+        "conv": "c2117348",
+        "src": "m2154020",
+        "citat": "Anexata oferta de pret si fisa tehnica pentru debitmetrul electromagnetic.",
+        "pentru": "ofertă",
+        "nota": "ofertă directă în aceeași zi, cu fișa tehnică PEM atașată și livrare în 5-7 zile din stocul furnizorului"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R21-02",
+    "titlu": "Benzi de test cu indicatori chimici UV: AKRO nu le are în portofoliu și trimite clientul la Hanna Instruments",
+    "explicatie": "Dacă un client cere benzi de testare cu indicatori chimici, de exemplu pentru verificarea dezinfecției UV, AKRO răspunde că nu are astfel de teste în portofoliu și nu face ofertă. Îi sugerează în schimb că s-ar putea să le producă Hanna Instruments.",
+    "categorie": "21-Aparatura de analiza si control",
+    "cand": "Clientul cere benzi de testare / indicatori chimici (de exemplu pentru fazele de dezinfecție UV) cu documente.",
+    "clarificari": [
+      "AKRO răspunde că nu are astfel de teste în portofoliu și indică un producător posibil (Hanna Instruments)."
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2135364",
+        "src": "m2135364",
+        "citat": "Din pacate nu avem astfel de teste in portofoliul AKRO.",
+        "pentru": "clarificare",
+        "nota": "AKRO refuză cererea: produsul nu e în portofoliu"
+      },
+      {
+        "conv": "c2135364",
+        "src": "m2135364",
+        "citat": "S-ar putea cei de la Hanna Instruments sa produca astfel de benzi.",
+        "pentru": "clarificare",
+        "nota": "AKRO redirecționează clientul către Hanna Instruments"
+      }
+    ],
+    "contradictii": []
+  }
+]

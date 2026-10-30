@@ -1,0 +1,142 @@
+CATEGORIA 25-Produse ocazionale unicate
+
+####################################################################################################
+RÂND c2158724 (nr. 483) | stare: După vânzare | categorie: 25-Produse ocazionale unicate | cerere: Ansambluri metalice SUA și blocuri crepine Canada
+CERINȚA: -
+CERINȚĂ FINALĂ (tip echipament): Ansambluri metalice din SUA și blocuri (crepine) din Canada, proiect Cahul/LEOPOLD [m2158724] «urmand sa ne reglam cu diferenta de plata la emiterea facturii finale pentru blocurile din Canada [ crepine].»
+CERINȚĂ FINALĂ (termen): ETA marfă SUA 01.10.2026 [m2158724] «ETA – pentru marfa este 01.10.2026»
+CERINȚĂ FINALĂ (loc livrare): Import în Republica Moldova [m2162532] «acestea vor fi facturile finale pentru importul in Republica Moldova»
+CLARIFICARE: întrebare Departamentul financiar al clientului întreabă ce reprezintă codul SO2798 de pe factura AKF 260562. [m2123556] «Ce reprezinta acest cod, mai ales ca in comanda ferma cât și in contract figureaza codul SO1586» → răspuns AKRO explică faptul că SO1586 e comanda client, iar SO2798 și SO2847 sunt referințe interne pe transporturi. [m2159300] «Valoric, SO2798+SO2847 = SO1586 .» | schimbare: Facturarea s-a împărțit pe două transporturi (SUA și Canada), cu referințe interne separate.
+TELEFON: După o discuție telefonică, AKRO trimite facturile finale și storno-urile de avans pentru proiectul LEOPOLD. [m2162532] «Conform discutiei telefonice, va rog sa regasiti anexate facturile pentru produsele aferente proiectului LEOPOLD.»
+REZULTAT: acceptată — Există comandă fermă și contract (SO1586); AKRO emite facturile finale. [m2123556] «mai ales ca in comanda ferma cât și in contract figureaza codul SO1586»
+
+
+====================================================================================================
+CONVERSAȚIA c2158724 (nr. 483) | subiect: Ansambluri metalice
+Partener (după adrese): cocirlaserghei@yahoo.com Serghei Cocirla | grupare nesigură: da
+
+--- MESAJ m2158724 | 2026-09-17 10:20 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Serghei Cocirla <cocirlaserghei@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Ansambluri metalice
+Buna ziua Dl Cocirla,
+
+Va trimitem anexata factura finala pentru produsele ce ajung din SUA [ ansambluri metalice] – avizul emis de AKRO si Bill of landing de la producator .
+
+Marfa este ambalata pe 3 paleti:
+
+120x80x54cm – 377kg
+
+110x110x90cm – 180kg
+
+256x60x45cm – 160kg
+
+ETA – pentru marfa este 01.10.2026
+
+Pentru aceasta factura se va emite o factura de storno la avansul deja achitat si o vom inchide integral din acesta, urmand sa ne reglam cu diferenta de plata la emiterea facturii finale pentru blocurile din Canada [ crepine].
+
+P.S. – suntem in discutie cu comisionarul vamal recomandat de Dl Sergiu de la SERGETRANS – si revin de indata ce avem liberul de incarcat.
+
+Cu respect,
+[ATAȘAMENT: AVIZ AKRO -WH_OUT_01225 -  Polimer Gaz - 16.09.2026.pdf | text extras]
+[ATAȘAMENT: Factura AKRO - AKF 260562 - POLIMER GAZ - Metal Assy - 16.09.2026.pdf | text extras]
+[ATAȘAMENT: Detalii transport - US.pdf | PDF fără text (scanat)]
+
+--- MESAJ m2123556 | 2026-09-18 17:20 | Inbox | EXTERN
+De la: Serghei Cocirla <cocirlaserghei@yahoo.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Re: Ansambluri metalice
+Buna ziua
+
+Va mulțumim pentru informație și clarificare.
+
+A parvenit o întrebare din partea departamentului financiar cu privire la informația indicată in factura fiscala AKF 260562, si anume:
+
+SOURCE: SO2798
+
+Ce reprezinta acest cod, mai ales ca in comanda ferma cât și in contract figureaza codul SO1586
+
+Mulțumesc anticipat și weekend frumos va dorim.
+
+Best regards/Cu respect,
+
+Serghei Cocîrla
+
+Director Polimer Gaz Conducte SRL
+
+tel./fax +373 22 009 001
+
+mob. +373 691-31-0-32
+
+e-mail:cocirlaserghei@yahoo.com
+
+--- MESAJ m2159300 | 2026-09-21 08:46 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Serghei Cocirla <cocirlaserghei@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Ansambluri metalice
+Buna dimineata Dl Cocirla,
+
+Codul SO1586 – reprezinta numarul de comanda client pentru proiectul in desfasurare de la CAHUL . [SO1586 este practic confirmarea de comanda pentru intreg pachetul de produse comandat la finalul lui 2025]
+
+Pentru ca marfurile vor ajunge in 2 transporturi diferite si pentru a exista o transparenta la import/vama, a fost nevoie sa trimitem facturile detaliate pentru fiecare incarcatura. Din aceasta motiv au aparut codurile interne S02798 [ pentru care deja s-a trimis factura- piesele din SUA], respectiv SO2847- blocurile din Canada[ se va trimite factura finala in urmatoarele doua saptamani]. Mentionez ca aceste doua coduri reprezinta doar niste numere de referinta pentru urmariea facturarii complete si detaliate in cadrul aplicatiei AKRO.
+
+Valoric, SO2798+SO2847 = SO1586 .
+
+Cu siguranta dupa ce vom emite toate facturile [ inclusiv storno avans], totul se va clarifica.
+
+Pentru orice alte informatii sau intrebari, va stau cu placere la dispozitie!
+
+Numai bine,
+
+--- MESAJ m2162148 | 2026-09-30 13:03 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Serghei Cocirla <cocirlaserghei@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Ansambluri metalice
+Buna ziua Dl Cocirla,
+
+Va trimitem anexate facturile finale pentru inchiderea achizitiei:
+
+Factura de storno – partial din avansul achitat initial [ cval – factura 260562] – pentru a inchide factura de produse emisa in 16.09[ marfa din SUA] – care ar trebui sa ajunga in zilele urmatoare;
+
+Factura finala pe produse din Canada – storno avans ramas. Aceast transport ar trebui sa ajunga la final de Octombrie in port
+
+Va rog sa trimiteti la contabilitate documentele si sa confirmati ca totul este in regula.
+
+De asemenea va rugam sa ne ajutati cu plata pentru diferenta de 74961 euro pentru a inchide achizita.
+
+O zi cu spor!
+[ATAȘAMENT: AKF 260599 - Factura storno avans partial conf factura AKF260562 - 30.09.2026.pdf | text extras]
+[ATAȘAMENT: AKF 260600 - Factura finala - produse - Canada - 30.09.2026.pdf | text extras]
+
+--- MESAJ m2162532 | 2026-10-01 15:06 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Serghei Cocirla <cocirlaserghei@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, aurel.caras@akro.ro
+Subiect: RE: Ansambluri metalice
+Buna ziua Dl Cocirla,
+
+Conform discutiei telefonice, va rog sa regasiti anexate facturile pentru produsele aferente proiectului LEOPOLD.
+
+Factura cu valoare produse – marfa din Canada
+
+Factura cu valoare produse – marfa din SUA
+
+Storno din avans achitat in conformitate cu valoarea marfa Canada.
+
+Storno din avans achitat – rest de 105562.40 euro
+
+Speram ca este in regula pentru contabilitate si va rog daca sunt mentiuni sa reveniti.
+
+Legat de modul in care sunt emise facturile [ detaliat] – va confirm ca acestea vor fi facturile finale pentru importul in Republica Moldova. Acestea s-au emis 1:1 cu cele primite de la XYLEM.
+
+Voi reveni cu un mail separat in care voi anexa toata documentatia pentru importul din SUA.
+
+Cu respect,
+[ATAȘAMENT: AKF 260605 - Factura storno avans ramas achitat - 01.10.2026.pdf | text extras]
+[ATAȘAMENT: AKF 260600 - Factura Produse CANADA - 30.09.2026.pdf | text extras]
+[ATAȘAMENT: AKF 260599 - Factura storno avans - Cval Produse SUA - 30.09.2026.pdf | text extras]
+[ATAȘAMENT: AKF 260562 - Factura Produse - SUA - 16.09.2026.pdf | text extras]

@@ -1,0 +1,390 @@
+[
+  {
+    "fisier": "_quote housing questions.docx",
+    "nota": "Nu e o fișă tehnică. E chestionarul Allied Filter cu întrebările puse clientului (ce lichid filtrează, ce debit, ce finețe, ce racorduri) ca să se aleagă carcasa de saci potrivită din seriile HD, RBFP, RBFD sau RBFV.",
+    "potriviri": []
+  },
+  {
+    "fisier": "aqua AS.pdf",
+    "potriviri": [
+      {
+        "nume": "\\bAQUA AS\\b",
+        "tip": "exact"
+      }
+    ]
+  },
+  {
+    "fisier": "BAG CONSTRUCTION AND RING TYPES EXAMPLES.docx",
+    "nota": "Document general Allied Filter: arată cum sunt făcuți sacii (cusuți sau sudați) și ce tipuri de inel pot avea. Nu e fișa acestui sac, nu spune ce finețe, debit sau dimensiuni are el.",
+    "potriviri": [
+      {
+        "nume": "\\bsac|filter bag|^WE\\d",
+        "subcategorie": "^01-011",
+        "tip": "de confirmat"
+      }
+    ]
+  },
+  {
+    "fisier": "calcite_en.pdf",
+    "potriviri": [
+      {
+        "nume": "calcite",
+        "tip": "exact"
+      }
+    ]
+  },
+  {
+    "fisier": "Ecomix TDS 2023_compressed.pdf",
+    "potriviri": [
+      {
+        "nume": "^Mediu filtrant ecomix [acp]$",
+        "tip": "exact"
+      },
+      {
+        "nume": "^FECM\\b",
+        "tip": "de confirmat",
+        "nota": "Fișa descrie materialul filtrant Ecomix pus în stație, nu stația. Despre stație (vană, coloană, dimensiuni) nu spune nimic."
+      }
+    ]
+  },
+  {
+    "fisier": "Filter Bags - Product Training PDF.pdf",
+    "nota": "Prezentare generală Allied Filter despre toți sacii lor: materiale, finețe, tipuri de inel, debit maxim pe mărime. Ajută doar dacă sacul e de la Allied Filter și nu e fișa acestui sac anume.",
+    "potriviri": [
+      {
+        "nume": "\\bsac|filter bag|^WE\\d",
+        "subcategorie": "^01-011",
+        "tip": "de confirmat"
+      }
+    ]
+  },
+  {
+    "fisier": "Filter Housings - Product Training PDF.pdf",
+    "nota": "Prezentare generală Allied Filter despre seriile lor de carcase (HD, RBF, RBFP, RBFD, TRBF, mini, cu mai mulți saci) și filtrele cu coș IBF/SBF. Descrie seria în general (material, presiune, temperatură), nu modelul exact al acestui produs.",
+    "potriviri": [
+      {
+        "nume": "\\b(HD|RBFP?|RBFD|RBFV|TRBF|IBF|SBF)(\\d|\\b)",
+        "subcategorie": "^01-00[89]",
+        "tip": "de confirmat"
+      }
+    ]
+  },
+  {
+    "fisier": "filtermedia-greensand_CR&IR.pdf",
+    "nota": "Fișa e pentru Manganese Greensand, materialul mai vechi. GreensandPlus îl înlocuiește și se folosește la fel, dar e alt produs, deci valorile din fișă pot fi diferite.",
+    "potriviri": [
+      {
+        "nume": "^Greensand Plus$|^Filtru cu greensand",
+        "tip": "de confirmat"
+      }
+    ]
+  },
+  {
+    "fisier": "Fisa tehnica - Statii de dedurizare - duplex, 1.25.pdf",
+    "potriviri": [
+      {
+        "nume": "^DEC (50|65|75|100|125|150|175|200|225|250)-1\\.25/duplex",
+        "tip": "exact"
+      },
+      {
+        "nume": "^DEC \\d+-1\\.25/duplex",
+        "tip": "de confirmat",
+        "nota": "Fișa e pentru stațiile duplex cu racord 1,25\" și are date doar pentru stațiile cu 50–250 L de rășină. Volumul din numele acestei stații nu e în tabel, așa că debitul, consumul de sare și dimensiunile ei nu se pot lua din fișă."
+      }
+    ]
+  },
+  {
+    "fisier": "Fisa tehnica - Statii de dedurizare - duplex, 1.5.pdf",
+    "potriviri": [
+      {
+        "nume": "^DEC (75|100|125|150|200|250|300|350|400|450|500)-1\\.5/duplex",
+        "tip": "exact"
+      },
+      {
+        "nume": "^DEC \\d+-1\\.5/duplex",
+        "tip": "de confirmat",
+        "nota": "Fișa e pentru stațiile duplex cu racord 1,5\" și are date doar pentru stațiile cu 75–500 L (fără 175 L) de rășină. Volumul din numele acestei stații nu e în tabel, așa că debitul, consumul de sare și dimensiunile ei nu se pot lua din fișă."
+      }
+    ]
+  },
+  {
+    "fisier": "Fisa tehnica - Statii de dedurizare - duplex, 1.pdf",
+    "potriviri": [
+      {
+        "nume": "^DEC (25|35|50|65|75|85|100|115|125|135|150|175|200|250)-1/duplex",
+        "tip": "exact"
+      },
+      {
+        "nume": "^DEC \\d+-1/duplex",
+        "tip": "de confirmat",
+        "nota": "Fișa e pentru stațiile duplex cu racord 1\" și are date doar pentru stațiile cu 25–250 L de rășină. Volumul din numele acestei stații nu e în tabel, așa că debitul, consumul de sare și dimensiunile ei nu se pot lua din fișă."
+      }
+    ]
+  },
+  {
+    "fisier": "Fisa tehnica - Statii de dedurizare - duplex, 2.pdf",
+    "potriviri": [
+      {
+        "nume": "^DEC (100|125|150|200|250|300|350|400|450|500)-2/duplex",
+        "tip": "exact"
+      },
+      {
+        "nume": "^DEC \\d+-2/duplex",
+        "tip": "de confirmat",
+        "nota": "Fișa e pentru stațiile duplex cu racord 2\" și are date doar pentru stațiile cu 100–500 L de rășină. Volumul din numele acestei stații nu e în tabel, așa că debitul, consumul de sare și dimensiunile ei nu se pot lua din fișă."
+      }
+    ]
+  },
+  {
+    "fisier": "Fisa tehnica - Statii de dedurizare - duplex, 2QC.pdf",
+    "potriviri": [
+      {
+        "nume": "^DEC (300|350|400|450|500|550|600|650|700|750|800|850|900|950|1000)-2QC/duplex",
+        "tip": "exact"
+      },
+      {
+        "nume": "^DEC \\d+-2QC/duplex",
+        "tip": "de confirmat",
+        "nota": "Fișa e pentru stațiile duplex cu racord 2\" QC și are date doar pentru stațiile cu 300–1000 L (din 50 în 50 L) de rășină. Volumul din numele acestei stații nu e în tabel, așa că debitul, consumul de sare și dimensiunile ei nu se pot lua din fișă."
+      }
+    ]
+  },
+  {
+    "fisier": "Fisa tehnica - Statii de dedurizare - simplex, 1.25.pdf",
+    "potriviri": [
+      {
+        "nume": "^DEC (50|65|75|100|125|150|175|200|225|250)/V .*simplex.* - 1\\.25\"$",
+        "tip": "exact"
+      },
+      {
+        "nume": "^DEC \\d+/V .*simplex.* - 1\\.25\"$",
+        "tip": "de confirmat",
+        "nota": "Fișa e pentru stațiile simplex cu racord 1,25\" și are date doar pentru stațiile cu 50–250 L de rășină. Volumul din numele acestei stații nu e în tabel, așa că debitul, consumul de sare și dimensiunile ei nu se pot lua din fișă."
+      }
+    ]
+  },
+  {
+    "fisier": "Fisa tehnica - Statii de dedurizare - simplex, 1.5.pdf",
+    "potriviri": [
+      {
+        "nume": "^DEC (75|100|125|150|200|250|300|350|400|450|500)/V .*simplex.* - 1\\.5\"$",
+        "tip": "exact"
+      },
+      {
+        "nume": "^DEC \\d+/V .*simplex.* - 1\\.5\"$",
+        "tip": "de confirmat",
+        "nota": "Fișa e pentru stațiile simplex cu racord 1,5\" și are date doar pentru stațiile cu 75–500 L de rășină. Volumul din numele acestei stații nu e în tabel, așa că debitul, consumul de sare și dimensiunile ei nu se pot lua din fișă."
+      }
+    ]
+  },
+  {
+    "fisier": "Fisa tehnica - Statii de dedurizare - simplex, 1.pdf",
+    "potriviri": [
+      {
+        "nume": "^DEC (25|35|50|65|75|85|100|115|125|135|150|175|200|250)/V .*simplex.* - 1\"$",
+        "tip": "exact"
+      },
+      {
+        "nume": "^DEC \\d+/V .*simplex.* - 1\"$",
+        "tip": "de confirmat",
+        "nota": "Fișa e pentru stațiile simplex cu racord 1\" și are date doar pentru stațiile cu 25–250 L de rășină. Volumul din numele acestei stații nu e în tabel, așa că debitul, consumul de sare și dimensiunile ei nu se pot lua din fișă."
+      }
+    ]
+  },
+  {
+    "fisier": "Fisa tehnica - Statii de dedurizare - simplex, 2.pdf",
+    "potriviri": [
+      {
+        "nume": "^DEC (100|125|150|200|250|300|350|400|450|500)/V .*simplex.* - 2\"$",
+        "tip": "exact"
+      },
+      {
+        "nume": "^DEC \\d+/V .*simplex.* - 2\"$",
+        "tip": "de confirmat",
+        "nota": "Fișa e pentru stațiile simplex cu racord 2\" și are date doar pentru stațiile cu 100–500 L de rășină. Volumul din numele acestei stații nu e în tabel, așa că debitul, consumul de sare și dimensiunile ei nu se pot lua din fișă."
+      }
+    ]
+  },
+  {
+    "fisier": "Fisa tehnica - Statii de dedurizare - simplex, 2QC.pdf",
+    "potriviri": [
+      {
+        "nume": "^DEC (300|350|400|450|500|550|600|650|700|750|800|850|900|950|1000)/V .*simplex.* - 2\"QC$",
+        "tip": "exact"
+      },
+      {
+        "nume": "^DEC \\d+/V .*simplex.* - 2\"QC$",
+        "tip": "de confirmat",
+        "nota": "Fișa e pentru stațiile simplex cu racord 2\" QC și are date doar pentru stațiile cu 300–1000 L (din 50 în 50 L) de rășină. Volumul din numele acestei stații nu e în tabel, așa că debitul, consumul de sare și dimensiunile ei nu se pot lua din fișă."
+      }
+    ]
+  },
+  {
+    "fisier": "Fisa tehnica - Statii de dedurizare triplex - BS-T2 - Industrial.pdf",
+    "potriviri": [
+      {
+        "nume": "BS-\\d+T2|^Statie dedurizare triplex (800|1000|1200|1400|1600|2000)L/fiecare coloana",
+        "tip": "exact"
+      },
+      {
+        "nume": "^Statie dedurizare triplex \\d+L/fiecare coloana",
+        "tip": "de confirmat",
+        "nota": "Fișa e pentru stațiile triplex industriale BS-T2, cu 3 coloane de 800–2000 L de rășină fiecare. Volumul pe coloană din numele acestei stații nu e în tabel, așa că debitul, consumul de sare și dimensiunile ei nu se pot lua din fișă."
+      }
+    ]
+  },
+  {
+    "fisier": "Fisa tehnica - Statii dedurizare duplex - BS-D2, industrial.pdf",
+    "potriviri": [
+      {
+        "nume": "BS-\\d+D2|^Statie dedurizare duplex (800|1000|1200|1400|1600|2000)L/fiecare coloana",
+        "tip": "exact"
+      },
+      {
+        "nume": "^Statie dedurizare duplex \\d+L/fiecare coloana",
+        "tip": "de confirmat",
+        "nota": "Fișa e pentru stațiile duplex industriale BS-D2, cu 2 coloane de 800–2000 L de rășină fiecare. Volumul pe coloană din numele acestei stații nu e în tabel, așa că debitul, consumul de sare și dimensiunile ei nu se pot lua din fișă."
+      }
+    ]
+  },
+  {
+    "fisier": "Fisa tehnica Cabinet 12.5.pdf",
+    "potriviri": [
+      {
+        "nume": "cabinet maxi crystal 12\\.5",
+        "tip": "exact"
+      }
+    ]
+  },
+  {
+    "fisier": "FISA TEHNICA CR100.pdf",
+    "potriviri": [
+      {
+        "nume": "crystal right cr ?100\\b",
+        "tip": "exact"
+      },
+      {
+        "nume": "crystal right cr ?200\\b",
+        "tip": "de confirmat",
+        "nota": "Fișa e pentru CR-100. Are și câteva date despre CR-200 (câtă presiune pierde apa când trece prin el, certificarea NSF, fișa de securitate), dar nu toate caracteristicile lui."
+      }
+    ]
+  },
+  {
+    "fisier": "Fisa tehnica-Carbune activ Sorbotech LG 85.pdf",
+    "potriviri": [
+      {
+        "nume": "\\bLG ?85 \\(0\\.6-2\\.4",
+        "tip": "exact"
+      },
+      {
+        "nume": "\\bLG ?85\\b",
+        "tip": "de confirmat",
+        "nota": "Fișa e pentru cărbunele LG 85 cu granule de 0,6–2,36 mm. Dacă în numele produsului scrie altă granulație, e alt sortiment și datele din fișă pot să nu i se potrivească."
+      }
+    ]
+  },
+  {
+    "fisier": "Fisa tehnica-Carbune activ Sorbotech LG 95.pdf",
+    "potriviri": [
+      {
+        "nume": "\\bLG ?95\\b",
+        "tip": "exact"
+      }
+    ]
+  },
+  {
+    "fisier": "fisa-tehnica-rasina-eliminare-nitrati-pa202.pdf",
+    "potriviri": [
+      {
+        "nume": "\\bPA ?202\\b",
+        "tip": "exact"
+      }
+    ]
+  },
+  {
+    "fisier": "GreenSand Plus Tehnical_Data.pdf",
+    "potriviri": [
+      {
+        "nume": "^Greensand Plus$",
+        "tip": "exact"
+      },
+      {
+        "nume": "^Filtru cu greensand",
+        "tip": "de confirmat",
+        "nota": "Fișa descrie materialul GreensandPlus pus în filtru, nu filtrul. Despre filtru (vană, coloană, debit) nu spune nimic."
+      }
+    ]
+  },
+  {
+    "fisier": "Iron_&_Manganese_by_Crystal_Right.pdf",
+    "potriviri": [
+      {
+        "nume": "crystal right cr ?[12]00\\b",
+        "tip": "exact"
+      }
+    ]
+  },
+  {
+    "fisier": "Micron ratings 2021.xlsx",
+    "nota": "Tabel Allied Filter cu finețile (în microni) în care se face fiecare material de sac. Arată doar ce se poate comanda, nu e fișa acestui sac.",
+    "potriviri": [
+      {
+        "nume": "\\bsac|filter bag|^WE\\d",
+        "subcategorie": "^01-011",
+        "tip": "de confirmat"
+      }
+    ]
+  },
+  {
+    "fisier": "PC 003 - DATA SHEET.pdf",
+    "potriviri": [
+      {
+        "nume": "\\bPC ?003\\b",
+        "tip": "exact"
+      }
+    ]
+  },
+  {
+    "fisier": "PC 003 - DS - EUROTROL.pdf",
+    "potriviri": [
+      {
+        "nume": "\\bPC ?003\\b",
+        "tip": "exact"
+      }
+    ]
+  },
+  {
+    "fisier": "PURE-RESIN-PA202-DATA SHEET.pdf",
+    "potriviri": [
+      {
+        "nume": "\\bPA ?202\\b",
+        "tip": "exact"
+      }
+    ]
+  },
+  {
+    "fisier": "Pyrolox_EN.pdf",
+    "potriviri": [
+      {
+        "nume": "pyrolox regular",
+        "tip": "exact"
+      },
+      {
+        "nume": "^Filtru .*pyrolox",
+        "tip": "de confirmat",
+        "nota": "Fișa descrie materialul Pyrolox pus în filtru, nu filtrul. Despre filtru (vană, coloană, debit) nu spune nimic."
+      }
+    ]
+  },
+  {
+    "fisier": "Turbidex_SDS_US_072721_REV1.pdf",
+    "nota": "E fișa de securitate a materialului Turbidex: cum se manipulează și se depozitează fără risc. Nu are datele de filtrare (granulație, debit, spălare). Fișa tehnică Turbidex lipsește din folder.",
+    "potriviri": [
+      {
+        "nume": "^Turbidex( filter media)?$",
+        "tip": "de confirmat"
+      }
+    ]
+  }
+]

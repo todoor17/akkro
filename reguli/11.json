@@ -1,0 +1,1026 @@
+[
+  {
+    "cod": "R11-01",
+    "titlu": "Pompă SEKO cerută cu modelul exact: ofertă directă pe codul echivalent, de obicei cu termenul de livrare în email",
+    "explicatie": "Când clientul cere o pompă dozatoare SEKO și dă modelul exact, de pildă TPG 603 sau AKL 800, AKRO nu mai pune întrebări și trimite oferta pe codul corespunzător. De obicei scrie în email și termenul de livrare, între 5 și 10 zile de la comandă, iar uneori spune că pompa e în stocul furnizorului. O dată a precizat că, dacă stocul se termină, livrarea durează cam trei săptămâni și că în august fabrica SEKO e închisă.",
+    "categorie": "11-Pompe de dozare",
+    "cand": "Clientul cere una sau mai multe pompe dozatoare SEKO și dă modelul exact (de exemplu Tekna Evo TPG 600, TPG 603, TPG 803, AKL 600 sau AKL 800), cu sau fără cantitate, fără alte date despre aplicație.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "11-002058",
+          "rol": "TPG 600 digitală, când se cere TPG600"
+        },
+        {
+          "ref": "11-002012",
+          "rol": "TPG 603 digitală, când se cere TPG 603"
+        },
+        {
+          "ref": "11-002013",
+          "rol": "TPG 803 digitală, când se cere TPG 803"
+        },
+        {
+          "ref": "11-002166",
+          "rol": "AKL600 analogică, când se cere AKL 600"
+        },
+        {
+          "ref": "11-002074",
+          "rol": "AKL800 analogică, când se cere AKL 800 N"
+        }
+      ],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "în patru din cele cinci conversații AKRO scrie în email termenul de livrare, între 5 și 10 zile de la comandă, iar în două spune și că pompa e în stocul furnizorului",
+        "într-o conversație AKRO adaugă că, dacă stocul furnizorului se epuizează, termenul urcă la aproximativ 3 săptămâni, fără luna august, când fabrica SEKO e închisă"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2100196",
+        "src": "m2100196",
+        "citat": "POMPA DOZAJ TEKNAEVO TPG600NHH0000 /100 2 BUC",
+        "pentru": "cerere",
+        "nota": "clientul dă doar codul de model și cantitatea"
+      },
+      {
+        "conv": "c2100196",
+        "src": "m2135684",
+        "citat": "Va trimitem anexata oferta de pret pentru doua pompe TPG 600",
+        "pentru": "ofertă",
+        "nota": "ofertă directă, fără nicio întrebare, la 18 minute după cerere. Emailul nu spune nimic de stoc sau termen"
+      },
+      {
+        "conv": "c2139620",
+        "src": "m2139620",
+        "citat": "Va rog sa regasiti anexata cotatia de pret pentru doua pompe AKL600NHH0000.",
+        "pentru": "ofertă",
+        "nota": "AKL 600 cerut din imagine, ofertat direct pe codul AKL600NHH0000"
+      },
+      {
+        "conv": "c2139620",
+        "src": "m2139620",
+        "citat": "In cazul in care se epuizeaza stocul actual, termenul de livrare este de +- 3 saptamani",
+        "pentru": "ofertă",
+        "nota": "termenul urcă dacă se epuizează stocul furnizorului, cu excepția lunii august"
+      },
+      {
+        "conv": "c2149060",
+        "src": "m2149060",
+        "citat": "Va rog sa regasiti anexata oferta de pret pentru o pompa AKL800NHH0000.",
+        "pentru": "ofertă",
+        "nota": "cerere de pe site pentru AKL 800 N, ofertată direct"
+      },
+      {
+        "conv": "c2149060",
+        "src": "m2149060",
+        "citat": "Produsul este in stoc furnizor si estimam livrarea in termen de 6-10 zile de la comanda ferma.",
+        "pentru": "ofertă",
+        "nota": "stocul și termenul de livrare spuse în email"
+      },
+      {
+        "conv": "c2126308",
+        "src": "m2160996",
+        "citat": "Va rog sa regasiti anexata cotatia de pret pentru o pompa dozatoare TPG 803 [ cu kitul de injectie inclus]",
+        "pentru": "ofertă",
+        "nota": "TPG 803 cerut de o companie de apă, ofertat direct, cu termen 5-10 zile"
+      },
+      {
+        "conv": "c2132932",
+        "src": "m2167300",
+        "citat": "Va rog sa regasiti anexata oferta de pret pentru cele 4 pompe de dozare solicitate.",
+        "pentru": "ofertă",
+        "nota": "4 pompe TPG 603 «cum am mai luat», ofertate direct, cu aceleași condiții comerciale ca în 2022 și termen de 5-10 zile"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R11-02",
+    "titlu": "Stație de clorinare cu hipoclorit dozat după debit: pompă TPG, rezervor, lance cu senzor de nivel și contor Zenner cu impulsuri",
+    "explicatie": "Se aplică atunci când un constructor cere, pentru o lucrare de apă potabilă, o stație care adaugă hipoclorit de sodiu (soluție de clor) după câtă apă trece prin conductă. AKRO ofertează de regulă pompa TPG 603, un rezervor de 100 de litri, o lance de aspirație cu senzor de nivel și un contor Zenner care trimite impulsuri pompei. Mărimea contorului o ia de obicei din documentație, iar la conducta DN150 a pus pompa TPG 803. Montajul și PIF-ul, adică pornirea și reglarea instalației, nu intră în ofertă.",
+    "categorie": "11-Pompe de dozare",
+    "cand": "Clientul, de obicei un constructor pentru o lucrare sau o licitație de apă potabilă, cere o stație sau un kit de clorinare cu hipoclorit de sodiu dozat proporțional cu debitul de apă, de obicei pe baza unei fișe tehnice sau a unui caiet de sarcini.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "11-002012",
+          "rol": "pompa dozatoare TPG 603 digitală, primește impulsurile contorului"
+        },
+        {
+          "ref": "11-002013",
+          "rol": "TPG 803 în locul TPG 603, la conducta DN150"
+        },
+        {
+          "ref": "11-002027",
+          "rol": "rezervorul de hipoclorit de 100 L din PE"
+        },
+        {
+          "ref": "11-002026",
+          "rol": "lancea de aspirație rigidă cu senzor de nivel pentru rezervorul de 100 L (lipsește din oferta pentru Focuri)"
+        },
+        {
+          "ref": "23-001188",
+          "rol": "contor Zenner WPD DN80 cu modul EDC, la conductă DN80"
+        },
+        {
+          "ref": "23-001189",
+          "rol": "contor Zenner WPD DN100 cu modul EDC, la conductă DN100"
+        },
+        {
+          "ref": "23-001191",
+          "rol": "contor Zenner WPD DN150 cu modul EDC, la conductă DN150"
+        },
+        {
+          "ref": "11-002005",
+          "rol": "supapa multifuncțională pentru reglajul presiunii de injecție, inclusă la licitația Amnaș"
+        }
+      ],
+      "servicii": [
+        "livrarea la beneficiar inclusă în ofertă (la stația pentru apă menajeră transportul prin Pallex s-a adăugat contra cost)",
+        "montajul și PIF-ul nu sunt incluse (la stația pentru apă menajeră PIF-ul a fost propus separat, contra cost)"
+      ],
+      "documente": [
+        "fișa tehnică a pompei TPG",
+        "fișa tehnică a vasului de stocare chimicale de 100 L",
+        "fișa tehnică a contorului Zenner WPD",
+        "fișa tehnică a sondei de aspirație cu senzor de nivel"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2135108",
+        "src": "m2135108",
+        "citat": "Va las anexata oferta noastra pentru 2 sisteme de clorinare conform caietului de sarcini",
+        "pentru": "ofertă",
+        "nota": "licitația Amnaș: TPG 603, contor Zenner DN80 cu modul EDC legat direct în pompă, rezervor 100 L, supapă multifuncțională, lance cu senzor de nivel"
+      },
+      {
+        "conv": "c2140548",
+        "src": "m2140548",
+        "citat": "Trimit anexata cotatia de pret pentru statia de clorinare [ care este inca valabila]",
+        "pentru": "ofertă",
+        "nota": "stație NaOCl pentru apă menajeră: TPG 603, rezervor 100 L, sondă cu senzor de nivel, contor Zenner DN100 cu modul EDC"
+      },
+      {
+        "conv": "c2146532",
+        "src": "m2146564",
+        "citat": "Va rog sa regasiti anexata oferta noastra de pret pentru instalatia de clorinare cu hipoclorit de sodiu",
+        "pentru": "ofertă",
+        "nota": "lucrarea Focuri: TPG 803, contor Zenner DN150 cu modul EDC și rezervor 100 L, fără lance"
+      },
+      {
+        "conv": "c2149028",
+        "src": "m2149028",
+        "citat": "Contor DN100 cu emitator de impul inductiv / sau reed la cerere",
+        "pentru": "ofertă",
+        "nota": "rezervor 100 L, lance rigidă cu senzor de nivel, TPG 603 și contor DN100 cu emițător de impulsuri"
+      },
+      {
+        "conv": "c2129828",
+        "src": "m2165636",
+        "citat": "Aici nu sunt detalii despre gabarit , insa am considerat teava de montaj DN100 si presiune in teava nu mai mare de 10bar.",
+        "pentru": "ofertă",
+        "nota": "kitul de clorinare F5-07: rezervor 100 L, lance cu senzor de nivel, TPG 603, contor DN100 cu modul 1/100"
+      },
+      {
+        "conv": "c2118116",
+        "src": "m2157316",
+        "citat": "Un contor DN100 mecanic cu generator de impuls",
+        "pentru": "ofertă",
+        "nota": "stația Regie-UPB dozează tot pe debit, cu contor Zenner DN100 (aici cu 2 pompe TPG 500 și rezervor de 250 L)"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R11-04",
+    "titlu": "Stație de clorinare: asistență telefonică la PIF gratuită sau PIF făcut de AKRO contra cost, pompă reglată în depozit",
+    "explicatie": "Clientul care cere o stație de clorinare întreabă cât costă transportul și PIF-ul, adică pornirea și reglarea instalației la fața locului. AKRO îi dă două variante: asistență la telefon, gratuită, sau PIF făcut de echipa sa, contra cost, programat după ce clientul arată în poze că pe țeavă sunt montate contorul și robinetul de injecție. Clientul văzut a ales asistența telefonică. Pompa a fost reglată în depozit, iar stația a plecat prin Pallex, cu schema de montaj.",
+    "categorie": "11-Pompe de dozare",
+    "cand": "Clientul care cere o stație de clorinare (pompă, rezervor și contor) întreabă cât costă transportul și punerea în funcțiune.",
+    "clarificari": [
+      "AKRO prezintă două variante, asistență telefonică gratuită la PIF sau PIF făcut de echipa AKRO contra cost, iar clientul alege."
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "16-003003",
+          "rol": "livrare și ambalare prin Pallex, adăugată în confirmarea de comandă"
+        }
+      ],
+      "servicii": [
+        "transport la beneficiar prin Pallex, cost suplimentar",
+        "asistență tehnică telefonică la PIF gratuită",
+        "setarea pompei în depozitul AKRO înainte de livrare",
+        "PIF executat de AKRO contra cost, programat după ce clientul confirmă prin fotografii că contorul și robinetul de injecție sunt montate pe țeavă"
+      ],
+      "documente": [
+        "schema de montaj livrată odată cu stația"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2140548",
+        "src": "m2140548",
+        "citat": "Asistenta tehnica telefonica la PIF – se face gratuit",
+        "pentru": "ofertă",
+        "nota": "după discuția telefonică, AKRO prezintă variantele: PIF-ul făcut de AKRO se plătește separat, iar transportul prin Pallex costă în plus"
+      },
+      {
+        "conv": "c2140548",
+        "src": "m2105604",
+        "citat": "Ramane comanda ferma pentru aceasta statie, cu asistenta tehnica prin telefon la punerea in functiune.",
+        "pentru": "ofertă",
+        "nota": "clientul alege asistența telefonică gratuită"
+      },
+      {
+        "conv": "c2140548",
+        "src": "m2144996",
+        "citat": "Statia s-a presetat pe aplicatia client si va fi insotita de schema de montaj.",
+        "pentru": "ofertă",
+        "nota": "pompa reglată în depozit și schema de montaj trimisă cu stația"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R11-05",
+    "titlu": "Caiet de sarcini cu stație containerizată: AKRO nu ofertează containerul și întreabă dacă se acceptă doar echipamentele",
+    "explicatie": "Unele caiete de sarcini cer stația de clorinare livrată gata montată într-un container, cu țevi și instalație hidraulică. AKRO nu poate oferi containerul, așa că întreabă întâi dacă se acceptă o ofertă doar pentru echipamentele de clorinare. Când clientul acceptă, oferta lasă deoparte containerul, țevile și montajul. Au fost și excepții: la licitația pentru Amnaș, AKRO a trimis direct oferta fără container, fără să mai întrebe.",
+    "categorie": "11-Pompe de dozare",
+    "cand": "Fișa tehnică sau caietul de sarcini al licitației cere stația de clorinare livrată în container (cu țevi și montaj hidraulic în container).",
+    "clarificari": [
+      "Se acceptă ofertarea doar pentru echipamentele de clorinare, fără container?"
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [
+        "fără container, fără țevi și fără montaj hidraulic în container"
+      ],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2146532",
+        "src": "m2146532",
+        "citat": "Se accepta ofertare doar pentru echipamente?",
+        "pentru": "clarificare",
+        "nota": "AKRO spune că nu poate propune soluția cu livrare containerizată"
+      },
+      {
+        "conv": "c2146532",
+        "src": "m2110532",
+        "citat": "Da, va rog sa transmiteti propunerea dvs separat pentru echipamente.",
+        "pentru": "clarificare",
+        "nota": "clientul acceptă. Urmează oferta fără partea de container"
+      },
+      {
+        "conv": "c2138148",
+        "src": "m2138148",
+        "citat": "Se accepta furnizarea de echipamente de clorinare fara acesta?",
+        "pentru": "clarificare",
+        "nota": "containerul de clorinare din fișă nu poate fi ofertat"
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "La licitația pentru Amnaș (orașul Săliște), AKRO nu a mai întrebat: a scris direct că nu ofertează containerul și montajul hidraulic și a trimis oferta doar pentru sistemele de clorinare, către doi constructori diferiți (conversațiile 31 și 54).",
+        "dovezi": [
+          {
+            "conv": "c2099460",
+            "src": "m2099460",
+            "citat": "Container nu vom oferta la aceasta lucrare si nici montajul hidraulic in cadrul acestuia.",
+            "pentru": "clarificare",
+            "nota": "licitația Amnaș, orașul Săliște: AKRO scrie direct că nu ofertează containerul, fără să întrebe"
+          },
+          {
+            "conv": "c2135108",
+            "src": "m2135108",
+            "citat": "mai putin partea de container, tevi si robinet",
+            "pentru": "ofertă",
+            "nota": "aceeași licitație, alt constructor: oferta exclude direct containerul și țevile"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R11-07",
+    "titlu": "Fișă de clorinare incompletă: AKRO cere datele lipsă (conductă, debitmetru, pompă, vas, trasee, poze)",
+    "explicatie": "Se aplică atunci când fișa tehnică a unei instalații de clorinare nu are datele de dimensionare sau are nepotriviri. AKRO cere ce lipsește: diametrul și materialul conductei, tipul și mărimea debitmetrului (aparatul care măsoară debitul), datele pompei, volumul vasului și poze din camera tehnică pentru montaj și pentru PIF, adică pornirea instalației. Uneori întreabă și în ce stadiu e proiectul. Au fost și excepții: la un kit pentru un spital a presupus o țeavă DN100 și cel mult 10 bar și a ofertat direct.",
+    "categorie": "11-Pompe de dozare",
+    "cand": "Cererea de instalație de clorinare vine cu o fișă tehnică fără datele de dimensionare (diametru și material conductă, tip și mărime debitmetru, debit și contrapresiune pompă, volum vas) sau cu neconcordanțe tehnice.",
+    "clarificari": [
+      "În ce stadiu se află proiectul (licitație, ofertare, achiziție)?",
+      "Ce diametru și ce material are conducta pe care se montează?",
+      "Care sunt traseele? Puteți trimite fotografii din camera tehnică? (pentru calculul montajului și PIF)",
+      "Debitmetrul e mecanic sau electromagnetic și ce dimensiune are?",
+      "Ce capacitate de pompare și ce contrapresiune are pompa dozatoare? Ce dimensiuni are vasul de stocare?",
+      "Puteți trimite fișele tehnice ale componentelor și explica modul de funcționare dorit?"
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2141700",
+        "src": "m2141700",
+        "citat": "Care este diametrul conductei pe care se monteaza?",
+        "pentru": "clarificare",
+        "nota": "plus materialul conductei, traseele și fotografii din camera tehnică, pentru montaj și PIF"
+      },
+      {
+        "conv": "c2141700",
+        "src": "m2141700",
+        "citat": "In ce stadiu se afla acest proiect ? [ licitatie, ofertare, achizitie s.a]",
+        "pentru": "clarificare",
+        "nota": "AKRO întreabă întâi stadiul proiectului și dacă există o fișă tehnică clară"
+      },
+      {
+        "conv": "c2138148",
+        "src": "m2138148",
+        "citat": "nu exista informatii despre dimensiunile debitmetrului, daca este mecanic sau electromagnetic",
+        "pentru": "clarificare",
+        "nota": "lipsesc și capacitatea, contrapresiunea pompei și dimensiunile vasului"
+      },
+      {
+        "conv": "c2141572",
+        "src": "m2141572",
+        "citat": "Nu cunoastem caracteristicile de pompare la pompa dozatoare si nici daca debitmetrul solicitat este unul electromagnetic sau unul mecanic.",
+        "pentru": "clarificare",
+        "nota": "AKRO semnalează și DN15 și plaja 0-200 ppm ca neconcordanțe"
+      },
+      {
+        "conv": "c2118116",
+        "src": "m2154948",
+        "citat": "Va rog sa ne furnizati mai multe detalii despre proiect",
+        "pentru": "clarificare",
+        "nota": "AKRO întreabă modul de automatizare și dacă în conductă sunt chiar 20 bar"
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "La kitul de clorinare F5-07 (spitalul Buftea), fișa nu avea gabarit, dar AKRO nu a întrebat: a presupus țeavă DN100 și maximum 10 bar și a ofertat direct.",
+        "dovezi": [
+          {
+            "conv": "c2129828",
+            "src": "m2165636",
+            "citat": "Aici nu sunt detalii despre gabarit , insa am considerat teava de montaj DN100 si presiune in teava nu mai mare de 10bar.",
+            "pentru": "ofertă",
+            "nota": "presupuneri în loc de clarificări"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R11-08",
+    "titlu": "O pompă dozatoare e comandată de un singur semnal: analizor de clor sau contor, nu amândouă",
+    "explicatie": "O pompă dozatoare ascultă de un singur semnal, fie de analizorul de clor (aparatul care măsoară clorul rămas în apă), fie de contorul de apă. Când o cerere le vrea pe amândouă pentru aceeași pompă, AKRO explică asta și de obicei întreabă cum ar trebui să meargă instalația, propunând câte o pompă pentru fiecare senzor sau o automatizare separată. În oferte a ales un singur semnal. O dată pompa a mers doar după panoul de clor, altă dată după contor, cu panoul doar pentru verificare.",
+    "categorie": "11-Pompe de dozare",
+    "cand": "Fișa tehnică sau cererea vrea ca aceeași pompă să fie comandată și de analizorul de clor, și de contor sau debitmetru.",
+    "clarificari": [
+      "Cum trebuie să funcționeze instalația, când pompa are două semnale de comandă, analizorul și contorul?"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "11-002158",
+          "rol": "panoul K800 KPS06 pentru pH și clor liber, montat doar pentru verificarea clorului când pompele dozează după contor"
+        },
+        {
+          "ref": "11-002159",
+          "rol": "senzorul de clor liber FCL5 al acestui panou"
+        }
+      ],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "pompa e comandată fie de panoul de clor (fără contor), fie de contor",
+        "pentru ambele semnale, AKRO propune o pompă separată pentru fiecare senzor sau o automatizare externă",
+        "când pompele merg după contor, panoul K800 doar verifică clorul, iar AKRO avertizează că aruncă apă la canal tot timpul"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2141572",
+        "src": "m2141572",
+        "citat": "Pompa dozatoare nu poate fi controlata in acelasi timp de analizor si de debitmetru",
+        "pentru": "clarificare",
+        "nota": "AKRO propune pompă separată pentru fiecare senzor sau automatizare externă"
+      },
+      {
+        "conv": "c2141700",
+        "src": "m2141796",
+        "citat": "Contor de apa nu este cerut prin urmare nu s-a ofertat!",
+        "pentru": "ofertă",
+        "nota": "AKRO nu întreabă: alege comanda din panoul care măsoară clorul rezidual și nu ofertează contor"
+      },
+      {
+        "conv": "c2118116",
+        "src": "m2154948",
+        "citat": "vanzand ca avem 2 parametrii de control al pompelor dozatoare [ analizor + contor]",
+        "pentru": "clarificare",
+        "nota": "în oferta finală pompele dozează pe debit, iar panoul K800 doar verifică clorul"
+      },
+      {
+        "conv": "c2118116",
+        "src": "m2157316",
+        "citat": "atentie acest panou arunca apa la canal constant",
+        "pentru": "ofertă",
+        "nota": "pompele dozează după contor, panoul K800 e montat la grupul de pompare doar pentru verificare"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R11-09",
+    "titlu": "Clorinare automată pe clorul rezidual: pompă TPG 603, rezervor și panou K800 cu senzor de clor liber care comandă pompa",
+    "explicatie": "Se aplică la cererile de clorinare automată, în care doza se reglează după clorul rămas în apă, de exemplu la recircularea unui bazin. AKRO ofertează pompa TPG 603, un rezervor și panoul K800 cu senzor de clor liber, care comandă pompa. La o cerere a întrebat întâi în ce stadiu e proiectul. Hipocloritul nu intră în ofertă, fiind consumabil, și nici montajul. Au fost și excepții: la o stație cerută cu analizor și contor, pompele au mers după contor, iar panoul doar verifica clorul.",
+    "categorie": "11-Pompe de dozare",
+    "cand": "Clientul cere o stație de clorinare automatizată, cu analizor sau controler de clor, ori corecția clorului într-un bazin.",
+    "clarificari": [
+      "În ce stadiu se află proiectul și există o fișă tehnică clară?",
+      "Pentru montaj și PIF: ce diametru și ce material are conducta, care sunt traseele și puteți trimite poze din camera tehnică?"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "11-002012",
+          "rol": "pompa dozatoare TPG 603 comandată de panou"
+        },
+        {
+          "ref": "11-002005",
+          "rol": "supapa multifuncțională, la stația automată de 14 m³/h"
+        },
+        {
+          "ref": "11-002027",
+          "rol": "rezervor 100 L PE"
+        },
+        {
+          "ref": "11-002098",
+          "rol": "rezervor 50 L PE, la sistemul pe recirculare de bazin"
+        },
+        {
+          "ref": "11-002026",
+          "rol": "lance de aspirație cu senzor de nivel, la stația automată de 14 m³/h"
+        },
+        {
+          "ref": "11-002125",
+          "rol": "panou K800 KPW05 complet cu sondă de clor liber anorganic 0-2 ppm"
+        },
+        {
+          "ref": "11-002151",
+          "rol": "panou K800 KPW05 pentru clor liber (ofertat separat de senzor)"
+        },
+        {
+          "ref": "11-002150",
+          "rol": "senzor de clor liber K-FCL"
+        },
+        {
+          "ref": "11-002004",
+          "rol": "cablul senzorului, la sistemul pe recirculare de bazin"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișa tehnică a panoului K800 (aplicație de potabilizare, cu certificat sanitar)",
+        "fișa tehnică a senzorului de clor"
+      ],
+      "conditii": [
+        "hipocloritul de sodiu nu e inclus (e consumabil)",
+        "livrarea e inclusă, montajul și PIF-ul nu sunt incluse"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2141700",
+        "src": "m2141700",
+        "citat": "In ce stadiu se afla acest proiect ? [ licitatie, ofertare, achizitie s.a]",
+        "pentru": "clarificare",
+        "nota": "înainte de ofertă AKRO întreabă stadiul proiectului, fișa tehnică și datele pentru montaj"
+      },
+      {
+        "conv": "c2141700",
+        "src": "m2141796",
+        "citat": "Panou K800 complet cu senzor de clor liber anorganic [ plaja0-2ppm ]",
+        "pentru": "ofertă",
+        "nota": "TPG 603, supapă multifuncțională, rezervor 100 L, lance cu senzor de nivel, panou K800"
+      },
+      {
+        "conv": "c2141700",
+        "src": "m2141796",
+        "citat": "instalatia se dozeaza pe recircularile bazinelor pentru corectia clorului rezidual liber din apa",
+        "pentru": "ofertă",
+        "nota": "AKRO explică aplicația tipică a acestei configurații"
+      },
+      {
+        "conv": "c2141700",
+        "src": "m2141828",
+        "citat": "Hipocloritul de sodiu [ solutia] – NU este inclus in oferta !",
+        "pentru": "ofertă",
+        "nota": "soluția de hipoclorit cerută de client nu se ofertează, e consumabil"
+      },
+      {
+        "conv": "c2145540",
+        "src": "m2145540",
+        "citat": "Panou K800 complet cu senzor de clor liber anorganic [ plaja0-2ppm ]",
+        "pentru": "ofertă",
+        "nota": "după o discuție telefonică, sistem pe recircularea unui bazin: TPG 603, rezervor 50 L, panou K800, senzor și cablu"
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "La stația pentru complexul Regie-UPB, unde caietul de sarcini cerea și analizor, și contor, pompele dozează după contor, iar panoul K800 KPS06 cu senzor FCL5 e montat la grupul de pompare doar ca să verifice clorul. AKRO a avertizat că panoul aruncă apă la canal în mod constant.",
+        "dovezi": [
+          {
+            "conv": "c2118116",
+            "src": "m2157316",
+            "citat": "Statia functionala va doza in functie de debitul de apa",
+            "pentru": "ofertă",
+            "nota": "pompa lucrează după debit, nu după panou"
+          },
+          {
+            "conv": "c2118116",
+            "src": "m2157316",
+            "citat": "Un panou K800 cu masuratoare de pH, temperatura, si clor liber rezidual anorganic",
+            "pentru": "ofertă",
+            "nota": "panoul K800 doar verifică clorul"
+          },
+          {
+            "conv": "c2118116",
+            "src": "m2157316",
+            "citat": "atentie acest panou arunca apa la canal constant",
+            "pentru": "ofertă",
+            "nota": "avertisment privind apa aruncată la canal de celula de măsură"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R11-10",
+    "titlu": "Dozare 1A+1R: două pompe pe un singur rezervor, cu vas de retenție și placă de ranforsare, sau skid cu 2 pompe",
+    "explicatie": "Când caietul de sarcini cere două pompe dozatoare, una care lucrează și una de rezervă, AKRO le ofertează pe amândouă. Într-o variantă a pus două pompe TPG 500 pe un singur rezervor de 250 de litri, cu vas de retenție și o placă de ranforsare pe care se prind pompele. Când licitația a cerut skid, adică pompele gata montate pe un cadru comun, a oferit skiduri cu câte două pompe MS1.",
+    "categorie": "11-Pompe de dozare",
+    "cand": "Caietul de sarcini cere pompe dozatoare în configurație 1A+1R (una activă, una de rezervă).",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "11-002053",
+          "rol": "2 pompe TPG 500 (1A+1R) pentru hipoclorit"
+        },
+        {
+          "ref": "11-002007",
+          "rol": "câte o lance de aspirație cu senzor de nivel pentru fiecare pompă (rezervor 250 L)"
+        },
+        {
+          "ref": "23-003020",
+          "rol": "un singur rezervor de 250 L pe care se montează ambele pompe"
+        },
+        {
+          "ref": "11-002168",
+          "rol": "vasul de retenție (siguranță) pentru rezervorul de 250 L"
+        },
+        {
+          "ref": "11-002169",
+          "rol": "placa de ranforsare, suport pentru montajul pompelor pe rezervor"
+        },
+        {
+          "ref": "11-002163",
+          "rol": "skid cu 2 pompe MS1 cu convertizor (1A+1R) de 5,5 l/h, când se cere skid"
+        },
+        {
+          "ref": "11-002165",
+          "rol": "skid cu 2 pompe MS1 cu convertizor (1A+1R) de 230 l/h, pentru polimer"
+        }
+      ],
+      "servicii": [],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2118116",
+        "src": "m2157316",
+        "citat": "2 pompe de dozare TPG 500 – [1 A+1R]",
+        "pentru": "ofertă",
+        "nota": "pompele montate pe un singur rezervor de 250 L, cu vas de retenție și platan de întărire"
+      },
+      {
+        "conv": "c2099396",
+        "src": "m2099396",
+        "citat": "pompe dozare in skid 0…5 l/h (1A+1R)",
+        "pentru": "cerere",
+        "nota": "cerința de skid 1A+1R din licitație"
+      },
+      {
+        "conv": "c2099396",
+        "src": "m2137860",
+        "citat": "Skid de dozare cu pompe MS1 de 5.5L/h",
+        "pentru": "ofertă",
+        "nota": "răspunsul AKRO: skid cu 2 pompe MS1 cu convertizor"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R11-11",
+    "titlu": "Stație de preparare și dozare NaOH și polimer pentru licitație: PLM1000SP, Polycendos și skiduri MS1, cu rezervă privind reacția exotermă",
+    "explicatie": "La licitațiile de stații de tratare care cer prepararea și dozarea de sodă caustică (NaOH) din fulgi sau de polimer, AKRO a ofertat instalația PLM1000SP pentru sodă, Polycendos PL10 pentru polimer și skiduri cu câte două pompe MS1, adică pompe gata montate pe un cadru. Clientul a atras atenția că amestecul de sodă se încălzește până la 80 de grade. AKRO a răspuns că nu are altă variantă și că nu știe cât vor fi afectate materialele.",
+    "categorie": "11-Pompe de dozare",
+    "cand": "Licitație de stație de tratare care cere preparare și dozare de NaOH (din fulgi) sau de polimer, cu pompe în skid și senzori de nivel.",
+    "clarificari": [
+      "Clientul atrage atenția că amestecul de NaOH degajă până la 80 °C, iar AKRO răspunde că are o singură variantă de preparare și nu știe în ce măsură vor fi afectate materialele."
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "23-003009",
+          "rol": "instalația de preparare PLM1000SP pentru soluția de NaOH"
+        },
+        {
+          "ref": "11-002162",
+          "rol": "traductor de nivel ultrasonic cu ecran LCD, 4-20 mA"
+        },
+        {
+          "ref": "11-002163",
+          "rol": "skid cu 2 pompe MS1 cu convertizor, 5,5 l/h, pentru NaOH"
+        },
+        {
+          "ref": "11-002164",
+          "rol": "Polycendos PL10 Dual pentru prepararea polimerului"
+        },
+        {
+          "ref": "11-002165",
+          "rol": "skid cu 2 pompe MS1 cu convertizor, 230 l/h, pentru polimer"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișele tehnice ale echipamentelor trimise ca linkuri Google Drive"
+      ],
+      "conditii": [
+        "debitmetrul electromagnetic cerut în plus a fost ofertat doar în textul emailului, fără inele de împământare, cu livrare de aproximativ 8 săptămâni (nu era în stoc)",
+        "livrarea e inclusă, montajul și PIF-ul nu sunt incluse",
+        "în ofertă garanția e de 12 luni de la livrare, deși clientul ceruse 3 ani"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2099396",
+        "src": "m2136196",
+        "citat": "se poate degaja o caldura de pana la 80 grade Celsius",
+        "pentru": "clarificare",
+        "nota": "clientul completează cererea cu debitmetrul DN32 și avertismentul termic"
+      },
+      {
+        "conv": "c2099396",
+        "src": "m2137860",
+        "citat": "La partea de preparare NaOH, nu avem alta varianta decat instalatia PLM1000SP",
+        "pentru": "ofertă",
+        "nota": "AKRO ofertează PLM1000SP și spune că nu știe în ce măsură vor fi afectate materialele"
+      },
+      {
+        "conv": "c2099396",
+        "src": "m2137860",
+        "citat": "Dar la acest moment nu este in stoc [ estimam livrare de +-8 saptamani]",
+        "pentru": "ofertă",
+        "nota": "debitmetrul PEM1000 DN32 ofertat în text, fără inele de împământare"
+      },
+      {
+        "conv": "c2099396",
+        "src": "m2099396",
+        "citat": "Va rugam sa includeti in oferta garantia pentru 3 ani (36 luni)",
+        "pentru": "cerere",
+        "nota": "clientul cere garanție de 3 ani, oferta are 12 luni (vezi termenii ofertei)"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R11-12",
+    "titlu": "Pompă cerută de altă marcă: AKRO propune echivalent SEKO (TPG800 sau TPG603) și întreabă dacă se acceptă",
+    "explicatie": "Dacă clientul cere o pompă dozatoare de altă marcă, de exemplu Verder Microdos, AKRO îi spune deschis că modelul nu e în portofoliu. Propune două pompe SEKO, TPG 800 ca echivalent direct și TPG 603, care ajunge pentru dozarea hipocloritului, și atașează fișa tehnică. Cere acordul clientului și alegerea modelului înainte să facă cotația.",
+    "categorie": "11-Pompe de dozare",
+    "cand": "Clientul cere o pompă dozatoare de altă marcă, care nu e în portofoliul AKRO (de exemplu Verder Microdos ME1-I).",
+    "clarificari": [
+      "Se acceptă varianta alternativă SEKO? Dacă da, pentru care din cele două modele doriți cotație?"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "11-002040",
+          "rol": "TPG 800, propusă ca echivalent direct (7 L/h la 16 bar), fără cotație"
+        },
+        {
+          "ref": "11-002012",
+          "rol": "TPG 603, propusă ca suficientă pentru dozarea hipocloritului (4 L/h la 12 bar), fără cotație"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișa tehnică Tekna Evo TPG (RO), pentru ambele pompe"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2115140",
+        "src": "m2151812",
+        "citat": "Pompa MICRODOS ME1-I – Verder – nu face parte din portofoliul AKRO.",
+        "pentru": "clarificare",
+        "nota": "AKRO spune deschis că modelul cerut nu e în portofoliu"
+      },
+      {
+        "conv": "c2115140",
+        "src": "m2151812",
+        "citat": "Va rog sa ne transmiteti daca se accepta varianta alternativa, iar in caz afirmativ pentru care din cele doua modele doriti cotatie.",
+        "pentru": "clarificare",
+        "nota": "cotația se face doar după acceptul alternativei"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R11-13",
+    "titlu": "Dozare proporțională pe conductă mică: pompă care primește impulsuri și contor Zenner de 1 țol cu impuls reed la 10 L",
+    "explicatie": "Pentru dozarea proporțională pe o conductă mică, adică o doză care urmează debitul de apă, AKRO alege o pompă care primește impulsuri de la contor, ca APG 603 sau TPG 603. Lângă pompă ofertează un contor Zenner de un țol care trimite un impuls la fiecare 10 litri. Când clientul compară pompele analogice, AKRO explică că AKL 603 doar pornește și se oprește, pe când APG 603 poate urma contorul.",
+    "categorie": "11-Pompe de dozare",
+    "cand": "Clientul vrea dozare proporțională cu debitul pe o conductă mică (de exemplu alimentarea unei osmoze, de jumătate de țol până la un țol) sau compară pompe analogice SEKO (AKL sau APG).",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "11-002023",
+          "rol": "APG603, analogică, acceptă semnalul contorului pentru dozare proporțională"
+        },
+        {
+          "ref": "11-002022",
+          "rol": "AKL603, ofertată comparativ: lucrează doar start/stop cu reglaj % pe doză"
+        },
+        {
+          "ref": "11-002012",
+          "rol": "TPG 603 digitală, cu intrare de impulsuri"
+        },
+        {
+          "ref": "23-001216",
+          "rol": "contor Zenner de 1 țol cu generator de impuls la 10 L (reed)"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișa tehnică Tekna APG (trimisă odată cu confirmarea comenzii)"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2158212",
+        "src": "m2158212",
+        "citat": "aceasta pompa poate primi semnal de la contor pentru dozare proportionala",
+        "pentru": "ofertă",
+        "nota": "APG 603 față de AKL 603, care știe doar start/stop"
+      },
+      {
+        "conv": "c2158212",
+        "src": "m2158212",
+        "citat": "Am inclus in oferta si un contor de 1” – cu impuls reed 1/10 L",
+        "pentru": "ofertă",
+        "nota": "clientul a cerut un apometru cu impulsuri de 1/2 sau 3/4 țol, AKRO a inclus unul de 1 țol"
+      },
+      {
+        "conv": "c2120100",
+        "src": "m2120100",
+        "citat": "1/10L - cu racorduri (o-landezi) si garnituri incluse MTKD-N + releu Reed",
+        "pentru": "ofertă",
+        "nota": "comandă din oferta S02795, în care AKRO pusese pompa TPG 603 împreună cu contorul Zenner de 1 țol cu impuls la 10 L"
+      },
+      {
+        "conv": "c2125796",
+        "src": "m2125796",
+        "citat": "Contor apa rece axial cu cadran uscat - 1\"-ZENNER - cu generator de impuls",
+        "pentru": "ofertă",
+        "nota": "a doua comandă din aceeași ofertă S02795, același client: pompă TPG 603 și contor de 1 țol"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R11-14",
+    "titlu": "Pompa SEKO se ofertează cu kitul de injecție inclus (sorb, injector, furtunuri). Senzorul de nivel nu e inclus",
+    "explicatie": "Pompele dozatoare SEKO ofertate de AKRO vin cu kitul de injecție inclus, adică sorbul, injectorul și furtunurile de aspirație și refulare, iar în mai multe oferte AKRO scrie asta. Senzorul de nivel, care anunță că s-a golit rezervorul, nu face parte din kit. La stații AKRO pune separat o lance de aspirație cu senzor de nivel, iar unui client care a întrebat ce conține pachetul i-a spus că senzorul se plătește separat.",
+    "categorie": "11-Pompe de dozare",
+    "cand": "AKRO ofertează o pompă dozatoare SEKO (TPG, AKL sau APG), singură sau într-o stație, sau clientul întreabă ce include pachetul.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "11-002026",
+          "rol": "lancea de aspirație cu senzor de nivel, adăugată separat la stații (kitul nu are senzor de nivel)"
+        }
+      ],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "kitul de injecție inclus: sorb, injector (la AKL și APG supapă de injecție de 1/2 și 3/4 țol), furtun de aspirație de 4 m și furtun de refulare de 2 m",
+        "senzorul de nivel nu face parte din kit și se plătește separat"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2135108",
+        "src": "m2135108",
+        "citat": "Pompa TPG 603 [ are in furnitura: sorb, injector, furtun aspiratie 4 m, furtun refulare 2 m]",
+        "pentru": "ofertă",
+        "nota": "furnitura pompei explicată în oferta de licitație"
+      },
+      {
+        "conv": "c2140548",
+        "src": "m2140548",
+        "citat": "Toata furnitura de montaj [ injector/sorb/furtune/ mufe connectica la pompa/ cablu semnal]",
+        "pentru": "ofertă",
+        "nota": "furnitura de montaj e inclusă în produse"
+      },
+      {
+        "conv": "c2126308",
+        "src": "m2160996",
+        "citat": "pompa dozatoare TPG 803 [ cu kitul de injectie inclus]",
+        "pentru": "ofertă",
+        "nota": "pompă singură, cu kitul inclus"
+      },
+      {
+        "conv": "c2129828",
+        "src": "m2165636",
+        "citat": "Pompa dozatoare TPG 603 [ cu kit de injectie inclus]",
+        "pentru": "ofertă",
+        "nota": "pompa din kitul de clorinare F5-07"
+      },
+      {
+        "conv": "c2158212",
+        "src": "m2158212",
+        "citat": "Kitul de injectie nu include senzor de nivel pentru lichid",
+        "pentru": "clarificare",
+        "nota": "răspuns la întrebarea clientului despre conținutul pachetului standard"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R11-15",
+    "titlu": "AKRO nu ofertează fitingurile pentru punctul de injecție (teu, niplu, robinet, țevi). Clientul le montează",
+    "explicatie": "Când clientul cere și fitingurile pentru punctul de injecție, cum sunt teul, niplul, robinetul sau țevile, AKRO nu le ofertează. Unui client i-a scris că nu vinde elemente de hidraulică și i-a explicat ce să monteze singur: un niplu de jumătate de țol și un robinet pe țeavă, în care se prinde injectorul. La o licitație a scos din ofertă țevile, robinetul și niplul injectorului, dar a pus robineți și filtre pe conducta principală, luați din desenul de amplasament.",
+    "categorie": "11-Pompe de dozare",
+    "cand": "Clientul cere și accesoriile hidraulice pentru punctul de injecție (teu, niplu, robinet) sau caietul de sarcini include țevi și robinetul injectorului.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [],
+      "servicii": [
+        "AKRO explică ce trebuie montat de client: un niplu de 1/2 țol și un robinet în fluxul de apă, în care se conectează injectorul"
+      ],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2158212",
+        "src": "m2158212",
+        "citat": "Accesorii - nu comercializam elemente de hidraulica",
+        "pentru": "clarificare",
+        "nota": "teul de 1/2\" cerut nu se ofertează"
+      },
+      {
+        "conv": "c2135108",
+        "src": "m2135108",
+        "citat": "mai putin partea de container, tevi si robinet",
+        "pentru": "ofertă",
+        "nota": "oferta exclude țevile, robinetul de 1/2 țol și niplul pentru injector"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R11-16",
+    "titlu": "Licitație cu desen de amplasament: AKRO adaugă și echipamentele necesare la montaj, necerute în fișe",
+    "explicatie": "Când documentația unei licitații de clorinare are, pe lângă fișele tehnice, și un desen de amplasament, AKRO citește și desenul. De acolo adaugă în ofertă armăturile necesare la montaj care nu apar în fișe, adică piesele montate pe conductă. Într-o licitație a pus câte doi robineți sertar DN80 și un filtru Y pentru fiecare locație, împreună cu fișele lor tehnice.",
+    "categorie": "11-Pompe de dozare",
+    "cand": "Documentația licitației de clorinare are, pe lângă fișele tehnice, un desen de amplasament din care reies armături necesare la montaj.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "23-006045",
+          "rol": "2 robineți sertar (pană) DN80 pentru fiecare locație"
+        },
+        {
+          "ref": "01-008153",
+          "rol": "un filtru Y DN80 pentru fiecare locație"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișele tehnice ale filtrului Y și ale robinetului sertar"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2135108",
+        "src": "m2135108",
+        "citat": "In plus la fisa tehnica, la aceasta lucrare exista si un desen de amplasament",
+        "pentru": "ofertă",
+        "nota": "din desen AKRO adaugă robineți DN80 și filtre Y DN80"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R11-17",
+    "titlu": "Clorinare cu clor gazos sau electroclorinare: AKRO refuză ofertarea",
+    "explicatie": "AKRO nu ofertează stații de clorinare cu clor gazos, pentru că nu le are în catalog, și refuză imediat. Nici electroclorinarea, adică producerea clorului direct la fața locului, nu o ofertează când caietul de sarcini cere certificare biocid și aviz sanitar de la Ministerul Sănătății. Motivul e că nu are aceste certificări, așa că trimite cel mult broșura producătorului, informativ.",
+    "categorie": "11-Pompe de dozare",
+    "cand": "Clientul cere stații de clorinare cu clor gazos sau stații de electroclorinare on-site, pentru care caietul de sarcini cere certificare biocid și aviz sanitar.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [],
+      "servicii": [
+        "nu se ofertează: clorul gazos nu e în catalog, iar la electroclorinare lipsesc certificarea biocid și avizul sanitar de la Ministerul Sănătății"
+      ],
+      "documente": [
+        "la electroclorinare, broșura producătorului (informativ)"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2134340",
+        "src": "m2134340",
+        "citat": "nu are disponibil in catalogul de produse- statiile de clorinare cu clor gazos",
+        "pentru": "clarificare",
+        "nota": "refuz imediat la cererea pentru Cosoba și Săbăreni"
+      },
+      {
+        "conv": "c2121316",
+        "src": "m2157636",
+        "citat": "nu avem certificarile solicitate in acest caiet de sarcini pentru instalatiile de electroclorinare",
+        "pentru": "clarificare",
+        "nota": "refuz motivat prin certificările cerute (biocid, aviz sanitar MS)"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R11-18",
+    "titlu": "Pompă APG cu contor cu impulsuri: AKRO calculează raportul dintre doze și impulsuri pentru setarea inițială",
+    "explicatie": "Când clientul care a cumpărat sau comandă o pompă APG cu contor cu impulsuri întreabă cum o setează pentru doza dorită, AKRO face calculul. Pornește de la doza țintă, de la cât împinge pompa la fiecare cursă și de la contor, care trimite un impuls la 10 litri. Din ele scoate câte doze dă pompa la un anumit număr de impulsuri. Într-un caz primul calcul a fost greșit și AKRO l-a corectat.",
+    "categorie": "11-Pompe de dozare",
+    "cand": "Clientul care a cumpărat (sau comandă) o pompă APG cu contor cu impulsuri întreabă cum se setează pompa pentru o doză țintă.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "11-002023",
+          "rol": "pompa APG603 setată în modul 1:n"
+        },
+        {
+          "ref": "23-001216",
+          "rol": "contorul care trimite 1 impuls la 10 L"
+        }
+      ],
+      "servicii": [
+        "calculul setării pornește de la doza țintă, de la volumul pe cursă la contrapresiunea din punctul de injecție și de la impulsurile contorului și dă raportul dintre doze și impulsuri"
+      ],
+      "documente": [
+        "fișa tehnică Tekna APG"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2158212",
+        "src": "m2163108",
+        "citat": "Contorul trimite 1 impuls la fiecare 10 L de apa tranzitati",
+        "pentru": "clarificare",
+        "nota": "calculul trimis odată cu confirmarea de comandă (inițial greșit: 1 doză la 9 impulsuri)"
+      },
+      {
+        "conv": "c2130340",
+        "src": "m2165796",
+        "citat": "Da , 1 doza la 18 impulsuri in stare pura de antiscalant",
+        "pentru": "clarificare",
+        "nota": "AKRO corectează raportul și dă setarea pentru diluția de o parte antiscalant la nouă părți apă (1 doză la 2 impulsuri)"
+      }
+    ],
+    "contradictii": []
+  }
+]

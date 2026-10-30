@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Răspunsuri întrebări</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #f6f7f9; --surface: #ffffff; --text: #1d232b; --muted: #5f6b7a; --border: #dfe3e8;
+    --accent: #1f6feb; --ok: #1a7f37; --warn: #9a6700;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #11151a; --surface: #191f26; --text: #e6e9ed; --muted: #9aa5b1; --border: #2b333d; --accent: #5b9dff; --ok: #5cc27a; --warn: #e6b450; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 14px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 900px; margin: 0 auto; padding: 24px 16px 48px; }
+  h1 { font-size: 22px; margin: 0 0 4px; }
+  .sub { color: var(--muted); font-size: 12px; margin-bottom: 20px; }
+  section { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 16px 20px; margin-bottom: 20px; }
+  h2 { font-size: 17px; margin: 0 0 8px; }
+  h3 { font-size: 14px; margin: 16px 0 6px; }
+  p { margin: 6px 0; }
+  .answer { font-size: 15px; font-weight: 600; }
+  ul { margin: 6px 0; padding-left: 20px; }
+  li { margin: 3px 0; }
+  a { color: var(--accent); text-underline-offset: 2px; }
+  .table-wrap { overflow-x: auto; }
+  table { border-collapse: collapse; width: 100%; font-size: 13px; margin-top: 6px; }
+  th, td { padding: 5px 8px; border-bottom: 1px solid var(--border); text-align: left; vertical-align: top; }
+  th { color: var(--muted); font-size: 12px; font-weight: 600; }
+  td.num { text-align: right; font-variant-numeric: tabular-nums; }
+  .note { color: var(--muted); font-size: 12px; }
+  .check { border-left: 3px solid var(--warn); padding-left: 10px; color: var(--text); }
+</style>
+</head>
+<body>
+<main>
+  <h1>Răspunsuri la întrebările din tichetul 22976</h1>
+  <div class="sub">Sursa: exportAI.pst (2.205 mesaje, 01.07–15.10.2026, 660 de conversații). „Conv. N” deschide conversația
+    în <a href="emailuri.html">emailuri.html</a> (fișierul trebuie să fie în același folder). Document intern.</div>
+
+  <section>
+    <h2>Întrebarea 1: Ce este fișa de securitate? Diferă de fișa tehnică?</h2>
+    <p class="answer">Da, sunt două documente diferite, iar ipoteza de pornire se confirmă, cu o precizare.</p>
+    <ul>
+      <li><strong>Fișa tehnică</strong> descrie produsul: destinația, dozarea, avantajele și depozitarea. Exemplu: pentru GEL ANTISCALANT RO1, fișa tehnică <em>SP0222</em> are o pagină.</li>
+      <li><strong>Fișa cu date de securitate</strong> (SDS, MSDS, FDS) e documentul cerut de REACH (Regulamentul CE 1907/2006, Anexa II). Are 8–12 pagini și mereu aceleași 16 secțiuni: identificare, pericole, compoziție, prim ajutor, incendiu, dispersie accidentală, manipulare și depozitare, protecție personală, proprietăți fizico-chimice, stabilitate, toxicologie, ecologie, eliminare, transport, reglementări și alte informații. În emailuri apare și sub alte nume: „Scheda di sicurezza” (italiană, de la GEL) și „kch_” (karta charakterystyki, poloneză, de la Sorbotech).</li>
+      <li><strong>Precizarea:</strong> fișa nu apare doar la chimicale și medii filtrante. AKRO a trimis și un MSDS pentru polietilena unui rezervor de presiune (HDPE), în dosarul de calitate al unei stații de dedurizare (<a href="emailuri.html#c2106916">conv. 194</a>).</li>
+    </ul>
+
+    <h3>Câte conversații și ce produse</h3>
+    <p>Fișa de securitate apare în <strong>11 din 660</strong> de conversații: 10 cu clienți și 1 cu furnizorul GEL. Căutarea a mers după „fișă de securitate”, SDS, MSDS, FDS și „safety data sheet”, atât în text cât și în numele și conținutul atașamentelor.</p>
+    <div class="table-wrap"><table>
+      <thead><tr><th>Produs</th><th>Tip</th><th>Conversații</th></tr></thead>
+      <tbody>
+        <!-- 11 conversations found by the generator's search; the 2 below were found when reading the attached documents -->
+        <tr><td>GEL ANTISCALANT RO1</td><td>chimical pentru osmoză</td><td>
+          <a href="emailuri.html#c2134404">8</a>, <a href="emailuri.html#c2135076">30</a>, <a href="emailuri.html#c2157380">454</a>,
+          <a href="emailuri.html#c2158212">470</a>, <a href="emailuri.html#c2125988">541</a>, <a href="emailuri.html#c2162180">560</a>,
+          <a href="emailuri.html#c2163492">585</a>; furnizorul GEL: <a href="emailuri.html#c2128132">576</a></td></tr>
+        <tr><td>Cărbune activ Sorbotech LG 85/95</td><td>mediu filtrant</td><td><a href="emailuri.html#c2138884">121</a>, <a href="emailuri.html#c2162660">571</a></td></tr>
+        <tr><td>Polietilenă HDPE (rezervor de presiune)</td><td>material al unui echipament</td><td><a href="emailuri.html#c2106916">194</a></td></tr>
+      </tbody>
+    </table></div>
+    <p>Fișa mai e pomenită în 2 conversații, dar numai în documente atașate de client, fără să fie cerută sau trimisă:</p>
+    <ul>
+      <li>manualul unei instalații Pfeiffer: „Respectați indicațiile de siguranță și fișa cu date de siguranță!” (<a href="emailuri.html#c2101796">conv. 100</a>);</li>
+      <li>acordul EHS de la Stabilus, care cere AKRO, ca prestator, fișele de securitate ale chimicalelor folosite de oamenii săi pe șantier (<a href="emailuri.html#c2102468">conv. 117</a>).</li>
+    </ul>
+
+    <h3>Cine o cere, când și cum se trimite</h3>
+    <ul>
+      <li><strong>De obicei AKRO o trimite din proprie inițiativă.</strong> La antiscalant, textul e mereu același: „Las anexata si fisa de securitate a produsului nostru” (conv. 8, 30, 560).</li>
+      <li><strong>Un singur client a cerut-o explicit:</strong> licitația pentru cărbune activ din <a href="emailuri.html#c2138884">conv. 121</a>. Clientul a observat că fișa primită acoperă seria „Sorbotech LG 95; 95 AW; 85; R”, iar AKRO a confirmat: „Fisa de securitate nu acopera si LGCO85”. Fișa trebuie deci să corespundă exact produsului ofertat.</li>
+      <li><strong>Momentul:</strong>
+        <ul>
+          <li>odată cu oferta, în același email cu PDF-ul ofertei: conv. 8, 30, 454, 470, 560, 571, 585;</li>
+          <li>odată cu oferta scrisă direct în email: conv. 121 (cotația pentru Sorbotech LG 85 a fost trimisă pe 28.07, împreună cu documentația); clientul a revenit după ofertă (30.07);</li>
+          <li>înainte de ofertă, cu documentația tehnică: conv. 194 (pe 30.07; oferta S02644 a urmat pe 06.08);</li>
+          <li>fără ofertă: conv. 541 (AKRO a renunțat la ofertare).</li>
+        </ul></li>
+      <li><strong>Fișa de securitate e mereu un atașament separat, dar pleacă în același email cu fișa tehnică.</strong> La GEL se trimit 2 fișe de securitate (EN și RO, „EN_/RM_Scheda di sicurezza N_SS 222”) plus 2 fișe tehnice (SP0222). La Sorbotech pleacă kch_… plus fișa tehnică LGCO 85 și atestatul PZH. La rezervor, MSDS-ul vine împreună cu declarațiile CE, REACH și NSF.</li>
+    </ul>
+
+    <h3>Folderul Drive cu fișe tehnice</h3>
+    <p>Din cele 33 de fișiere din folder, unul singur e fișă de securitate: <em>Turbidex_SDS_US_072721_REV1.pdf</em>, amestecat cu cele tehnice. Fișele de securitate care circulă în emailuri (GEL, Sorbotech) nu sunt în folder.</p>
+
+    <h3>Concluzie</h3>
+    <p>Da, trebuie tratate ca două tipuri de documente separate, atât în nomenclator (câmp sau link separat „Fișă de securitate”, cel puțin la categoriile 12-Chimicale și 14-mase filtrante) cât și în cunoștințele agentului. Agentul ar trebui să trimită fișa de securitate odată cu oferta la chimicale, cum face AKRO acum, și să verifice că acoperă exact produsul ofertat. Fișierul Turbidex_SDS trebuie marcat ca fișă de securitate, nu ca fișă tehnică.</p>
+    <p class="check">De verificat cu băieții (cum cere tichetul): dacă există și alte produse pentru care clienții cer fișa de securitate pe alte canale (telefon, licitații), care nu apar în aceste emailuri.</p>
+  </section>
+
+  <section>
+    <h2>Întrebarea 2: Sunt produse ofertate care nu apar în nomenclator?</h2>
+    <p class="answer">Da: 14 produse distincte, adică 13 fără nicio potrivire și 1 potrivire de confirmat. Apar pe 17 linii din 690.</p>
+    <p>Documentele de vânzare AKRO din Odoo găsite în emailuri au 162 de numere distincte, în 208 documente: 141 de oferte (inclusiv cele în engleză), 57 de confirmări de comandă și 10 proforme. Au în total 690 de linii de produs. Dintre aceste linii:</p>
+    <ul>
+      <li>586 (85%) au o Referință internă care există în nomenclator. Toate referințele de forma [xx-xxxxxx] din oferte se găsesc în nomenclator.</li>
+      <li>87 sunt linii de serviciu fără referință (reduceri, deplasare, manoperă de montaj, materiale de montaj, PIF, transport, avans). Sunt legate după nume de produsele de tip service, deci marcate „de confirmat”; cele 47 de denumiri distincte sunt în raport, la „Linii de serviciu legate după nume”.</li>
+      <li>17 (14 produse distincte) nu se leagă sigur de nomenclator și sunt listate mai jos.</li>
+    </ul>
+    <p>Liniile nepotrivite sunt aproape toate fără referință, adică text liber scris în Odoo. Lista completă e și în raport, la „Produse ofertate în afara nomenclatorului”, și în pagină, prin filtrul „cu produse în afara nomenclatorului”.</p>
+    <div class="table-wrap"><table>
+      <thead><tr><th>Nume din ofertă</th><th class="num">Linii</th><th>Conversații</th><th>Încadrare</th></tr></thead>
+      <tbody>
+        <tr><td>Cartuș filtrant 10 microni 5" – pachet de 10 bucăți</td><td class="num">2</td><td><a href="emailuri.html#c2124804">510</a>, <a href="emailuri.html#c2125636">526</a></td><td>Lipsește din nomenclator (nu există cartușe de 5")</td></tr>
+        <tr><td>Cartuș filtrant 5 microni 5" – pachet de 10 bucăți</td><td class="num">1</td><td><a href="emailuri.html#c2124804">510</a></td><td>Lipsește din nomenclator</td></tr>
+        <tr><td>Cartuș filtrant 50 microni 5" – pachet de 10 bucăți</td><td class="num">1</td><td><a href="emailuri.html#c2125636">526</a></td><td>Lipsește din nomenclator (potrivirea automată cu [01-010258], cartuș de 50", e greșită)</td></tr>
+        <tr><td>DEC 350 – Dedurizator cu 350L rășină – simplex, vană Clack 2" CI, coloană 24x72, vas saramură 750L</td><td class="num">1</td><td><a href="emailuri.html#c2136068">73</a></td><td>Există sub alt nume, de confirmat: [13-001285] DEC 350/V (simplex, 350L, Clack CI); racordul diferă (1.5" în nomenclator)</td></tr>
+        <tr><td>Filtru – 50L – cu rășină AQUA AS – vană Clack CI time – 1"</td><td class="num">1</td><td><a href="emailuri.html#c2162436">565</a></td><td>Produs compus: rășina [14-002007] AQUA AS + coloană + vană Clack</td></tr>
+        <tr><td>Baterie filtrare din 3 × filtre Skid 4872 FRP cu 1000L cărbune Sorbotech LGCO100 fiecare</td><td class="num">1</td><td><a href="emailuri.html#c2114756">330</a></td><td>Produs compus: filtre FRP 48x72 (ex. [13-001097]) + [14-002076] LGCO 100</td></tr>
+        <tr><td>Masă filtrantă, vană Clack CI 1.5" și componente interne – reabilitare filtru Nobel FCV 07/T</td><td class="num">1</td><td><a href="emailuri.html#c2150756">321</a></td><td>Produs compus (masă + vană + componente)</td></tr>
+        <tr><td>Masă filtrantă, vană Clack TT 1" și componente interne – reabilitare stație dedurizare AS 450/V</td><td class="num">1</td><td><a href="emailuri.html#c2150756">321</a></td><td>Produs compus</td></tr>
+        <tr><td>Displacement to the beneficiary, assembly of the unit and commissioning</td><td class="num">2</td><td><a href="emailuri.html#c2106916">194</a> (2 versiuni ale S02644)</td><td>Serviciu (ofertă în engleză)</td></tr>
+        <tr><td>Materials + manwork – mounting system</td><td class="num">2</td><td><a href="emailuri.html#c2106916">194</a> (2 versiuni ale S02644)</td><td>Serviciu</td></tr>
+        <tr><td>Schimb rășină demineralizare × 2 butelii standard</td><td class="num">1</td><td><a href="emailuri.html#c2099492">55</a></td><td>Serviciu</td></tr>
+        <tr><td>Schimb rășină demineralizare × 1 butelie P42</td><td class="num">1</td><td><a href="emailuri.html#c2099492">55</a></td><td>Serviciu</td></tr>
+        <tr><td>Mentenanță – filtru cu tank 10x44, 2 × stații dedurizare Twin + stație de osmoză Aquatech 6 membrane 4040</td><td class="num">1</td><td><a href="emailuri.html#c2103940">142</a></td><td>Serviciu</td></tr>
+        <tr><td>Intervenție schimb membrane osmoză</td><td class="num">1</td><td><a href="emailuri.html#c2156356">431</a></td><td>Serviciu</td></tr>
+      </tbody>
+    </table></div>
+    <p><strong>Pe încadrări:</strong> 3 lipsesc din nomenclator, 1 există sub alt nume sau cod, 4 sunt produse compuse și 6 sunt servicii sau linii speciale.</p>
+    <p class="note">Liniile se numără pe documente distincte: o ofertă retrimisă cu același conținut nu se numără de două ori. Liniile de serviciu legate de produsele generice de service (de ex. „Deplasare la beneficiar o persoana + diurna”) nu sunt incluse în cele 14: au un produs de tip service corespunzător, dar legătura e după nume și trebuie confirmată.</p>
+    <p class="check">Decizia de adăugare în nomenclator nu o iau dezvoltatorii: lista merge la voi pentru decizie.</p>
+  </section>
+</main>
+</body>
+</html>

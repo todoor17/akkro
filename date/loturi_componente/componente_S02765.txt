@@ -1,0 +1,94 @@
+
+####################################################################################################
+OFERTA S02765 | client: BLEJAN DAN P.F. | trimisă: 2026-09-03 13:12 | Odoo: Comandă de vânzare | conversații: c2154788 (nr. 398)
+
+####################################################################################################
+RÂND c2154788 (nr. 398) | stare: Fără cerință clară | categorie: 27-Uv | cerere: Sterilizator UV + filtru dublu + filtru simplex
+CERINȚA: -
+CERINȚĂ FINALĂ (tip echipament): Carcasă filtrantă dublă Atlasfiltri cu 2 cartușe [m2154788] «O carcasa dubla [ cu 2 cartuse] – Atlasfiltri»
+CERINȚĂ FINALĂ (tip echipament): Cartuș inox lavabil 70 microni și 3 cartușe PP 10 microni [m2154788] «1 cartus din inox lavabil manual – 70 microni»
+CERINȚĂ FINALĂ (tip echipament): Sistem UV complet (inițial Viqua VH200, alternativ SITA) [m2154788] «Un sistem UV complet Viqua VH200.»
+CERINȚĂ FINALĂ (aplicație): Montaj pe ieșirea din bazinul de stocare apă (apă din foraj) [m2154788] «Aceasta statie trebuie montata pe iesirea din bazinul de stocare apa.»
+CLARIFICARE: întrebare - → răspuns AKRO trimite oferta cu UV alternativ produs de SITA (Italia). [m2154788] «Va trimit anexata oferta de pret cu alternativa UV [ productie SITA -Italia].» | schimbare: UV SITA în loc de Viqua VH200.
+CLARIFICARE: întrebare - → răspuns Oferta finală după discuția din 03.09.2026, cu livrare ramburs sau plată prin bancă. [m2154788] «Va rog sa regasiti anexata oferta de pret finala in baza discutiei din 03.09.2026.» | schimbare: Ofertă finală cu filtru simplex adăugat și reducere 8%.
+REZULTAT: necunoscut
+PREȚURI Ofertă S02765 v1 (2026-09-03), total 3627.66 RON:
+  [01-009002] Carcasa filtranta simplex 10", doua manometre, racord 1" | 1.0 buc × 220.07 RON | referință
+  [01-009001] Consola de prindere pt carcasa simplex | 1.0 buc × 5.12 RON | referință
+  [01-010016] Cartus filtrant 10&quot; inox 70 mcr, prindere sx -doe | 1.0 buc × 177.31 RON | referință
+  [01-009081] Carcasa filtranta duplex 10, racord 1" | 1.0 buc × 239.09 RON | referință
+  [01-010011] Consola de prindere pt carcasa duplex | 1.0 buc × 16.95 RON | referință
+  [01-009054] Cheie carcasa filtranta - U | 1.0 buc × 9.97 RON | referință
+  [01-010058] Cartus filtrant proxis prm25tx247 | 3.0 buc × 14.08 RON | referință
+  [01-010068] Cartus filtrant prm1tx247 | 3.0 buc × 15.2 RON | referință
+  [27-001229] Sistem UV apa_405C AL2_Debit 1,8 m3/h_Doza UV 30mJ/cm2_Putere_33W_Racord 3/4"_SITA | 1.0 buc × 2502.41 RON | referință
+  [-] Reducere: 8.00% | 1.0 buc × -260.7 RON | serviciu
+  termen: Modul de livrare: In sarcina Akro - PRIN FAN CURIER
+  termen: Garantie: 24 luni de la livrare [ exclus consumabilele - cartuse, lampa, teaca , balast]
+  termen: Termen de plata: 100% in avans
+VÂNDUTĂ 2026-09-03 13:12 | lanț: fără comandă | lipsește: ['cerința clientului nu apare în emailuri', 'nicio comandă către furnizor nu e legată sigur (în Odoo sau în PDF-ul comenzii) de această vânzare']
+
+====================================================================================================
+CONVERSAȚIA c2154788 (nr. 398) | subiect: RE: Oferta pret sterilizator + filtru dublu + filtru simplex
+Partener (după adrese): ble_vd@yahoo.com  | grupare nesigură: nu
+OFERTĂ S02765 v1 trimisă 2026-09-03 13:12 în m2154788 (Odoo: Comandă de vânzare): [01-009002] Carcasa filtranta simplex 10", doua manometre, racord 1" x1.0 buc; [01-009001] Consola de prindere pt carcasa simplex x1.0 buc; [01-010016] Cartus filtrant 10&quot; inox 70 mcr, prindere sx -doe x1.0 buc; [01-009081] Carcasa filtranta duplex 10, racord 1" x1.0 buc; [01-010011] Consola de prindere pt carcasa duplex x1.0 buc; [01-009054] Cheie carcasa filtranta - U x1.0 buc; [01-010058] Cartus filtrant proxis prm25tx247 x3.0 buc; [01-010068] Cartus filtrant prm1tx247 x3.0 buc; [27-001229] Sistem UV apa_405C AL2_Debit 1,8 m3/h_Doza UV 30mJ/cm2_Putere_33W_Racord 3/4"_SI x1.0 buc; [-] Reducere: 8.00% x1.0 buc
+
+--- MESAJ m2154788 | 2026-09-03 13:12 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: ble_vd@yahoo.com <ble_vd@yahoo.com>, ble_bd@yahoo.com <ble_bd@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Oferta pret sterilizator + filtru dublu + filtru simplex
+Buna ziua Dl Blejan,
+
+Va rog sa regasiti anexata oferta de pret finala in baza discutiei din 03.09.2026.
+
+Putem face livrarea fie cu ramburs la curier, fi cu plata prin banca inainte de livrarea produselor la dumneavoastra.
+
+Cu respect,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Wednesday, August 26, 2026 11:29 AM
+To: 'ble_vd@yahoo.com' <ble_vd@yahoo.com>; 'ble_bd@yahoo.com' <ble_bd@yahoo.com>
+Cc: 'Akro Filtrare' <office@akro.ro>; 'andrei.dobrei@akro.ro' <andrei.dobrei@akro.ro>
+Subject: RE: Oferta pret sterilizator + filtru dublu
+
+Ziua Buna Dl Blejan,
+
+Va trimit anexata oferta de pret cu alternativa UV [ productie SITA -Italia].
+
+Las anexata si fisa tehnica a sistemului alternativ.
+
+Asteptam decizia dumneavoastra!
+
+Cu respect,
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Thursday, August 6, 2026 12:58 PM
+To: 'ble_vd@yahoo.com' <ble_vd@yahoo.com>; 'ble_bd@yahoo.com' <ble_bd@yahoo.com>
+Cc: 'Akro Filtrare' <office@akro.ro>; 'andrei.dobrei@akro.ro' <andrei.dobrei@akro.ro>
+Subject: Oferta pret sterilizator + filtru dublu
+
+Buna ziua Dl Blejan,
+
+Conform discutiei de astazi, va trimitem anexata cotatia de pret pentru:
+
+O carcasa dubla [ cu 2 cartuse] – Atlasfiltri - https://akro.ro/produse/produs/carcase-filtrante-din-polipropilena-duplex/
+
+1 cartus din inox lavabil manual – 70 microni
+
+3 cartuse [ 2 de schimb] – de 10 microni PP
+
+Un sistem UV complet Viqua VH200. - https://www.spectra.ro/public/produse_files/viqua_dezinfectare-apa_spectra.pdf
+
+Toate produsele sunt pe stoc si se pot pregati pentru livrarea prin FAN CURIER.
+
+Montajul nu este inclus.
+
+Aceasta statie trebuie montata pe iesirea din bazinul de stocare apa.
+
+Ce va mai recomand, ar fi sa incercati[ daca nu s-a facut deja] – si o dezinfectie a forajului actual prin adaugarea de cloramina direct in foraj si pompat in urmatoarele 24 h [ asa dezinfectiati si posibila contaminare].
+
+Pentru orice alte intrebari sau informatii, va stau cu placere la dispozitie!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02765 - BLEJAN DAN - 03.09.2026.pdf | ofertă Odoo, parsată mai sus]

@@ -1,0 +1,567 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Reguli de ofertare</title>
+<style>
+  /* same palette as emailuri.html: light by default, "Temă întunecată" in the header switches */
+  :root {
+    color-scheme: light;
+    --bg: #f6f7f9; --surface: #ffffff; --text: #1d232b; --muted: #5f6b7a; --border: #dfe3e8;
+    --title: #6d28d9; --step-bg: #e4edfc; --offer-bg: #e1f3e6;
+    --accent: #1860d6; --accent-soft: #e7f0ff; --row-hover: #f2f6fc;
+    --ok: #16752f; --ok-soft: #e6f4ea; --bad: #b42318; --bad-soft: #fdecea; --warn: #875a00; --warn-soft: #fff4d6;
+    --mark: #ffe58a;
+    /* outlines of fields and buttons: 3:1 against the surface, so the controls stay recognisable */
+    --control-border: #858f9b;
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --bg: #11151a; --surface: #191f26; --text: #e6e9ed; --muted: #9aa5b1; --border: #2b333d;
+    --title: #c4b5fd; --step-bg: #1c2a3f; --offer-bg: #182f22;
+    --accent: #5b9dff; --accent-soft: #1b2a40; --row-hover: #1f2731;
+    --ok: #5cc27a; --ok-soft: #173322; --bad: #ff8577; --bad-soft: #3a1c1a; --warn: #e6b450; --warn-soft: #362b12;
+    --mark: #6b5a12;
+    --control-border: #636e7b;
+  }
+  * { box-sizing: border-box; }
+  ::selection { background: var(--accent-soft); color: var(--text); }
+  :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  html { scrollbar-color: var(--border) transparent; }
+  /* desktop: the page fills the viewport and each column scrolls on its own */
+  body { margin: 0; background: var(--bg); color: var(--text); font: 14px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    display: flex; flex-direction: column; height: 100vh; height: 100dvh; }
+  header { padding: 16px 20px 8px; }
+  h1 { margin: 0; font-size: 20px; line-height: 1.25; }
+  .title-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+  .theme { flex: none; font-size: 12px; padding: 3px 10px; }
+  .theme[aria-pressed=true] { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+  .summary { margin-top: 6px; font-size: 12px; color: var(--muted); }
+  .summary > summary { display: flex; align-items: baseline; gap: 6px; width: fit-content; max-width: 100%; cursor: pointer; list-style: none; border-radius: 4px; }
+  .summary > summary::-webkit-details-marker { display: none; }
+  .summary > summary::before { content: ""; flex: none; align-self: center; width: 0; height: 0; border-left: 5px solid currentColor; border-block: 4px solid transparent; transition: transform .15s ease-out; }
+  .summary[open] > summary::before { transform: rotate(90deg); }
+  .summary > summary:hover .summary-title { color: var(--text); }
+  .summary-title { font-weight: 600; }
+  .summary-line { font-variant-numeric: tabular-nums; }
+  .summary-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, max-content)); gap: 8px 32px; margin-top: 8px; }
+  .summary h2 { margin: 0 0 4px; font-size: 12px; font-weight: 600; color: var(--text); }
+  .summary dl { display: grid; grid-template-columns: auto auto; gap: 2px 16px; margin: 0; }
+  .summary dt { margin: 0; }
+  .summary dd { margin: 0; text-align: right; font-weight: 600; color: var(--text); font-variant-numeric: tabular-nums; }
+  .help { max-width: 820px; margin-top: 8px; color: var(--text); font-size: 13px; }
+  /* desktop: the page is as tall as the window, so an open section scrolls inside itself instead of
+     pushing the rule columns out of view (the glossary alone is several screens long) */
+  .summary[open] > .help { max-height: 40vh; max-height: 40dvh; overflow-y: auto; overscroll-behavior: contain; padding-right: 12px; }
+  .help p { margin: 6px 0; }
+  .help dl { grid-template-columns: max-content 1fr; gap: 4px 14px; margin: 6px 0 10px; }
+  .help dt { font-weight: 600; }
+  .help dd { text-align: left; font-weight: 400; }
+  @media (prefers-reduced-motion: reduce) { .summary > summary::before { transition: none; } }
+  .panel { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; margin: 8px 20px 12px; padding: 12px; }
+  .filters { display: grid; grid-template-columns: minmax(220px, 2fr) repeat(4, minmax(130px, 1fr)); gap: 10px 12px; }
+  .filters label { display: flex; flex-direction: column; justify-content: flex-end; gap: 4px; min-width: 0; font-size: 12px; color: var(--muted); }
+  input[type=search], select { font: inherit; color: var(--text); background: var(--surface); border: 1px solid var(--control-border); border-radius: 6px; height: 32px; padding: 0 8px; width: 100%; min-width: 0; }
+  input[type=search]::placeholder { color: var(--muted); }
+  input[type=search]:hover, select:hover { border-color: var(--text); }
+  button { font: inherit; color: var(--text); background: var(--surface); border: 1px solid var(--control-border); border-radius: 6px; padding: 5px 10px; cursor: pointer; }
+  button:hover:not(:disabled) { border-color: var(--accent); }
+  .bar { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--border); }
+  .counter { font-weight: 600; white-space: nowrap; font-variant-numeric: tabular-nums; }
+
+  /* two columns: rules | the selected rule */
+  main { flex: 1 1 auto; min-height: 360px; display: grid; --c1: minmax(320px, 440px); grid-template-columns: var(--c1) minmax(0, 1fr); gap: 12px; margin: 0 20px 16px; }
+  .col { min-height: 0; display: flex; flex-direction: column; background: var(--surface); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+  .col-head { padding: 10px 12px; border-bottom: 1px solid var(--border); font-size: 12px; color: var(--muted); }
+  .col-head h2 { margin: 0; font-size: 13px; color: var(--text); }
+  .col-body { flex: 1 1 auto; min-height: 0; overflow: auto; }
+  /* the side lists collapse, one at a time, to a strip so the open item gets the width */
+  main:has(> .col:nth-child(1).collapsed) { --c1: 40px; }
+  main:has(> .col:nth-child(2).collapsed) { --c2: 40px; }
+  .col-head { position: relative; }
+  .col-head h2 { padding-right: 30px; }
+  .col-toggle { position: absolute; top: 5px; right: 6px; width: 26px; height: 26px; padding: 0; display: grid; place-items: center; color: var(--muted); background: transparent; border-color: transparent; }
+  .col-toggle:hover:not(:disabled) { color: var(--text); border-color: var(--border); }
+  .col-toggle svg { width: 14px; height: 14px; }
+  .col.collapsed .col-body, .col.collapsed .col-head > :not(h2, .col-toggle) { display: none; }
+  .col.collapsed .col-head { flex: 1 1 auto; border-bottom: 0; cursor: pointer; }
+  .col.collapsed .col-toggle svg { transform: rotate(180deg); }
+  @media (min-width: 901px) {
+    .col.collapsed .col-head { padding: 40px 0 12px; }
+    .col.collapsed .col-head h2 { writing-mode: vertical-rl; margin: 0 auto; padding: 0; white-space: nowrap; }
+  }
+  @media (max-width: 900px) {
+    .col-toggle svg { transform: rotate(90deg); }
+    .col.collapsed .col-toggle svg { transform: rotate(-90deg); }
+  }
+  .item { all: unset; box-sizing: border-box; display: block; width: 100%; padding: 10px 12px; border-bottom: 1px solid var(--border); cursor: pointer; }
+  .item:hover { background: var(--row-hover); }
+  .item:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
+  .item[aria-current=true] { background: var(--accent-soft); }
+  .item-top { display: flex; align-items: baseline; gap: 8px; }
+  .code { flex: none; font-size: 12px; font-weight: 600; color: var(--muted); font-variant-numeric: tabular-nums; }
+  .item-title { flex: 1 1 auto; min-width: 0; font-weight: 600; overflow-wrap: anywhere; }
+  /* list titles and the open item's title in purple, so they stand out from the details under them */
+  .item-title, .detail-head h2 { color: var(--title); }
+  .field { display: block; margin-top: 2px; font-size: 12px; color: var(--text); overflow-wrap: anywhere; }
+  .k { color: var(--muted); font-weight: 400; }
+  .ev-head .field { display: inline; margin-left: 10px; }
+  .item-count { flex: none; color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .item-sub { display: block; color: var(--muted); font-size: 12px; margin-top: 2px; overflow-wrap: anywhere; }
+  .item-badges { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; margin-top: 6px; }
+  .empty { padding: 32px 16px; text-align: center; color: var(--muted); }
+
+  .badge { display: inline-block; border-radius: 999px; padding: 1px 8px; font-size: 12px; white-space: nowrap; background: var(--bg); color: var(--muted); border: 1px solid var(--border); }
+  .b-ok { background: var(--ok-soft); color: var(--ok); border-color: transparent; }
+  .b-bad { background: var(--bad-soft); color: var(--bad); border-color: transparent; }
+  .b-warn { background: var(--warn-soft); color: var(--warn); border-color: transparent; }
+  .b-info { background: var(--accent-soft); color: var(--accent); border-color: transparent; }
+
+  /* the selected rule */
+  #detail { padding: 0 20px 32px; }
+  #detail > .empty { margin-top: 16px; }
+  .detail-head { position: sticky; top: 0; z-index: 2; margin: 0 -20px 12px; padding: 14px 20px 10px; background: var(--surface); border-bottom: 1px solid var(--border); }
+  .detail-head h2 { margin: 0 0 6px; font-size: 18px; line-height: 1.3; overflow-wrap: anywhere; text-wrap: balance; }
+  .detail-head h2:focus { outline: none; }
+  .detail-head h2:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .to-list { display: none; margin-bottom: 8px; font-size: 12px; }
+  .sr-only { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+  .meta { color: var(--muted); font-size: 12px; display: flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; }
+  /* minmax(0, 1fr): a wide table scrolls inside its own box instead of widening the whole column */
+  .blocks { display: grid; grid-template-columns: minmax(0, 1fr); gap: 10px; }
+  .block { border: 1px solid var(--border); border-radius: 8px; padding: 10px 12px; }
+  .block h3 { margin: 0 0 6px; font-size: 13px; display: flex; align-items: center; gap: 8px; }
+  .block h3 .n { display: inline-grid; place-items: center; width: 20px; height: 20px; border-radius: 50%; background: var(--accent-soft); color: var(--accent); font-size: 12px; }
+  .block h4 { margin: 10px 0 4px; font-size: 12px; color: var(--muted); font-weight: 600; }
+  .block.contra { border-color: var(--bad); }
+  .none { color: var(--muted); font-style: italic; }
+  .quote { display: block; margin-top: 2px; padding-left: 8px; border-left: 3px solid var(--border); color: var(--muted); font-size: 12px; overflow-wrap: anywhere; }
+  a { color: var(--accent); text-underline-offset: 2px; }
+  ul.plain { margin: 0; padding-left: 18px; }
+  ul.plain li { margin: 3px 0; }
+  .table-wrap { overflow-x: auto; }
+  table { border-collapse: collapse; width: 100%; font-size: 12px; }
+  th, td { padding: 4px 6px; border-bottom: 1px solid var(--border); text-align: left; vertical-align: top; }
+  th { color: var(--muted); font-weight: 600; white-space: nowrap; }
+  td.num, th.num { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
+  td.nowrap { white-space: nowrap; }
+  .ev { padding: 8px 0; border-top: 1px dashed var(--border); }
+  .ev:first-of-type { border-top: 0; }
+  .ev-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 2px 10px; }
+  .ev-head strong { overflow-wrap: anywhere; }
+  .ev-sub { color: var(--muted); font-size: 12px; overflow-wrap: anywhere; }
+  .ev-item { margin-top: 6px; }
+  .ev-item .note { font-size: 13px; }
+  .ev-item .when { color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; }
+  .contra-text { margin: 0 0 6px; font-weight: 600; }
+  /* the plain-language explanation leads the rule; a readable measure, slightly larger than the blocks */
+  .explain p { margin: 0; max-width: 72ch; font-size: 15px; line-height: 1.5; }
+  /* a trade term or abbreviation from the glossary: dotted underline, explanation on hover */
+  abbr.term { text-decoration: underline dotted; text-underline-offset: 3px; cursor: help; }
+  .terms dt { font-weight: 600; }
+  .terms dd { margin: 0 0 6px; }
+
+  @media (max-width: 1100px) {
+    .filters { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .filters label:first-child { grid-column: 1 / -1; }
+  }
+  @media (max-width: 900px) {
+    /* phone and small tablets: the page scrolls, the columns stack */
+    body { display: block; height: auto; }
+    header, .panel, main { margin-left: 16px; margin-right: 16px; }
+    header { padding-left: 0; padding-right: 0; }
+    main { display: flex; flex-direction: column; }
+    .col { max-height: 70dvh; }
+    #detail-col { max-height: none; }
+    .summary[open] > .help { max-height: none; overflow: visible; padding-right: 0; }
+    .to-list { display: inline-block; }
+  }
+  /* touch screens: every control at least 44px high (the list rows already are) */
+  @media (pointer: coarse) {
+    input[type=search], select, button:not(.item) { min-height: 44px; }
+    .theme { padding: 0 14px; }
+    .summary > summary { min-height: 44px; align-items: center; }
+  }
+</style>
+</head>
+<body>
+<header>
+  __NAV__
+  <div class="title-row">
+    <h1>Reguli de ofertare din conversații</h1>
+    <button type="button" class="theme" id="theme" aria-pressed="false">Temă întunecată</button>
+  </div>
+  <details class="summary">
+    <summary><span class="summary-title">Rezumat</span> <span class="summary-line">__SUMMARY_LINE__</span></summary>
+    <div class="summary-grid">__SUMMARY__</div>
+  </details>
+  <details class="summary">
+    <summary><span class="summary-title">Cum se citește pagina</span></summary>
+    <div class="help">
+      <p>Pagina adună regulile după care AKRO face ofertele, așa cum se văd în emailurile cu clienții analizate în pagina
+        <code>emailuri.html</code>. O regulă are forma: „când clientul cere X, AKRO întreabă Y și trimite oferta Z”.
+        De exemplu: când un client cere antiscalant pentru o stație de osmoză, AKRO ofertează din stoc bidonul de 25 kg
+        și atașează fișa de securitate.</p>
+      <p>Regulile vin numai din emailuri, nu din ce știm noi despre tratarea apei. Fiecare regulă are cel puțin o dovadă:
+        conversația de email în care se vede, cu fragmentul copiat exact din email (citatul). Linkul „conv. N” deschide
+        conversația cu numărul N în <code>emailuri.html</code>; cele două fișiere trebuie să stea în același folder.</p>
+      <dl>
+        <dt>sigură</dt><dd>Se vede în conversații despre cel puțin 3 afaceri diferite și nicio conversație nu arată altceva.</dd>
+        <dt>indiciu</dt><dd>Se vede în 1 sau 2 afaceri. Poate fi o regulă, dar exemplele sunt prea puține ca să fie sigură.</dd>
+        <dt>contradictorie</dt><dd>Unele conversații arată altceva (alt produs, altă întrebare, alt termen de plată). Ambele variante sunt păstrate, fiecare cu emailurile ei; nu am ales între ele.</dd>
+        <dt>Frecvență</dt><dd>În câte afaceri diferite apare regula. Două conversații despre aceeași afacere (de exemplu oferta și, separat, comanda care o confirmă, legate prin același număr de document AKRO) se numără o dată.</dd>
+        <dt>Referință internă</dt><dd>Codul produsului în nomenclatorul AKRO, de exemplu 13-001285.</dd>
+      </dl>
+      <p>Prețurile sunt cele din fiecare ofertă trimisă, în moneda ofertei (EUR sau RON). Nu facem medii și nu transformăm
+        lei în euro.</p>
+      <p>Unele conversații nu au ofertă (clientul a cerut ceva, dar AKRO nu a trimis ofertă) sau sunt despre o comandă deja
+        făcută. Pe acestea le folosim doar ca exemple de întrebări puse de AKRO, nu ca dovadă pentru ce oferă AKRO.</p>
+      <p>Termenii tehnici și prescurtările sunt subliniați cu puncte: țineți mouse-ul pe ei ca să vedeți explicația.
+        Lista întreagă e la „Termeni și prescurtări”, iar la fiecare regulă sunt explicați termenii ei.</p>
+    </div>
+  </details>
+  <details class="summary">
+    <summary><span class="summary-title">Termeni și prescurtări</span></summary>
+    <div class="help"><dl class="terms" id="glossary"></dl></div>
+  </details>
+</header>
+
+<section class="panel">
+  <div class="filters">
+    <label>Caută în reguli (produs, cod, client, cuvinte din emailuri)
+      <input type="search" id="search" placeholder="de ex. dedurizare, analiza apei sau 13-001285" autocomplete="off">
+    </label>
+    <label>Categorie produs <select id="f-category"></select></label>
+    <label>Cât de sigură e regula <select id="f-confidence"></select></label>
+    <label>În câte afaceri apare
+      <select id="f-frequency">
+        <option value="">Oricâte</option>
+        <option value="1-1">1 afacere</option>
+        <option value="2-2">2 afaceri</option>
+        <option value="3-5">3–5 afaceri</option>
+        <option value="6-9999">6 sau mai multe</option>
+      </select>
+    </label>
+    <label>Sortare
+      <select id="sort">
+        <option value="frequency">Frecvență (cele mai dese)</option>
+        <option value="code">Cod</option>
+        <option value="category">Categorie</option>
+      </select>
+    </label>
+  </div>
+  <div class="bar">
+    <div class="counter" id="counter" aria-live="polite"></div>
+    <div class="sr-only" id="announce" aria-live="polite"></div>
+    <button id="reset" type="button">Șterge filtrele</button>
+  </div>
+</section>
+
+<main>
+  <section class="col" id="list-col" aria-label="Reguli">
+    <div class="col-head"><h2>Reguli</h2></div>
+    <div class="col-body" id="list"></div>
+  </section>
+  <section class="col" id="detail-col" aria-label="Regula selectată">
+    <div class="col-body" id="detail-scroll"><div id="detail"><div class="empty">Alege o regulă din listă.</div></div></div>
+  </section>
+</main>
+
+<script>
+const DATA = /*__DATA__*/{};
+const CONFIDENCE_CLASS = { "sigură": "b-ok", "indiciu": "b-warn", "contradictorie": "b-bad" };
+const CONFIDENCE_HELP = {
+  "sigură": "Se vede în cel puțin 3 afaceri diferite și nicio conversație nu arată altceva.",
+  "indiciu": "Se vede în 1 sau 2 afaceri: prea puține exemple ca să fie sigură.",
+  "contradictorie": "Unele conversații arată altceva; ambele variante sunt păstrate.",
+};
+const STATE_CLASS = { "Completă": "b-ok", "Fără ofertă": "b-bad", "După vânzare": "b-info" };
+// what a quote proves, and who wrote the email it comes from
+const FOR_LABEL = { "cerere": "ce a cerut clientul", "clarificare": "o întrebare sau un răspuns", "ofertă": "ce a oferit AKRO" };
+const FROM_LABEL = { "AKRO": "scris de AKRO", "client": "scris de client" };
+
+const nf = new Intl.NumberFormat("ro-RO", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+const qf = new Intl.NumberFormat("ro-RO", { maximumFractionDigits: 3 });
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const fold = s => String(s ?? "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+const $ = id => document.getElementById(id);
+const byText = (a, b) => String(a).localeCompare(String(b), "ro", { numeric: true });
+const shortDate = d => d ? `${d.slice(8, 10)}.${d.slice(5, 7)}.${d.slice(0, 4)}` : "";
+const badge = (text, cls = "", help = "") => `<span class="badge ${cls}"${help ? ` title="${esc(help)}"` : ""}>${esc(text)}</span>`;
+const convLink = (id, nr) => `<a href="emailuri.html#${esc(id)}" target="_blank" rel="noopener" title="Deschide conversația în emailuri.html">conversația nr. ${esc(nr)}</a>`;
+const rulesN = n => `${n} ${n === 1 ? "regulă" : (n % 100 === 0 || n % 100 >= 20) ? "de reguli" : "reguli"}`;
+// every value shown with its label in front
+const field = (label, value) => `<span class="field"><span class="k">${esc(label)}:</span> ${value}</span>`;
+const plural = (n, one, many) => `${n} ${n === 1 ? one : many}`;
+// where a rule is seen: conversations, and the distinct deals when two conversations are about the same one
+const seenIn = r => `apare în ${plural(r.conversations, "conversație", "conversații")}` +
+  (r.frequency < r.conversations ? (r.frequency === 1 ? ", toate despre aceeași afacere" : `, ${r.frequency} afaceri diferite`) : "");
+
+// glossary: each form is a regular expression; \w is widened to letters with diacritics (ă, ș, ț...)
+const GLOSSARY = (DATA.glossary || []).map(g => ({
+  ...g,
+  re: new RegExp(`(?<![\\p{L}\\p{N}])(?:${g.forms.map(f => f.replace(/\\w/g, "[\\p{L}\\p{N}_]")).join("|")})(?![\\p{L}\\p{N}])`, g.exact ? "gu" : "giu"),
+}));
+// where glossary terms occur in a text: the earliest and, at the same place, the longest match wins
+function termSpans(text) {
+  const spans = [];
+  for (const g of GLOSSARY) for (const m of String(text ?? "").matchAll(g.re)) if (m[0]) spans.push({ start: m.index, end: m.index + m[0].length, g });
+  spans.sort((a, b) => a.start - b.start || b.end - a.end);
+  const kept = [];
+  for (const sp of spans) if (!kept.length || sp.start >= kept[kept.length - 1].end) kept.push(sp);
+  return kept;
+}
+// escaped text with the glossary terms underlined and explained on hover; inside one rule only the first
+// occurrence of each term is underlined (underlinedTerms is reset for every rule shown)
+let underlinedTerms = new Set();
+function hl(text) {
+  text = String(text ?? "");
+  let out = "", pos = 0;
+  for (const sp of termSpans(text)) {
+    if (underlinedTerms.has(sp.g)) continue;
+    underlinedTerms.add(sp.g);
+    out += esc(text.slice(pos, sp.start)) + `<abbr class="term" title="${esc(sp.g.text)}">${esc(text.slice(sp.start, sp.end))}</abbr>`;
+    pos = sp.end;
+  }
+  return out + esc(text.slice(pos));
+}
+const byTerm = (a, b) => a.term.localeCompare(b.term, "ro", { sensitivity: "base" });
+
+// per rule: the text the search looks in, computed once
+const RULES = DATA.rules.map(r => {
+  const evidence = r.evidence.concat(r.contradictions.flatMap(c => c.evidence));
+  return {
+    ...r,
+    hay: fold([r.code, r.title, r.explanation, r.category, r.when, ...r.clarifications, ...r.services, ...r.documents, ...r.conditions,
+      ...r.products.flatMap(p => [p.ref, p.name, p.role]), ...r.contradictions.map(c => c.text),
+      ...evidence.flatMap(e => [e.quote, e.note, e.client, e.subject, ...e.titles])].join(" \u0001 ")),
+  };
+});
+
+const state = { q: "", category: "", confidence: "", frequency: "", sort: "frequency", code: "" };
+
+// the options in the generator's order, each with its number of rules; values without rules are left out
+function fillSelect(id, label, field, order) {
+  const counts = RULES.reduce((m, r) => m.set(r[field], (m.get(r[field]) || 0) + 1), new Map());
+  $(id).innerHTML = `<option value="">${esc(label)}</option>` +
+    order.filter(v => counts.has(v)).map(v => `<option value="${esc(v)}">${esc(v)} (${rulesN(counts.get(v))})</option>`).join("");
+}
+function initFilters() {
+  fillSelect("f-category", "Toate categoriile de produse", "category", DATA.categories);
+  fillSelect("f-confidence", "Oricare", "confidence", DATA.confidences);
+}
+
+function filtered() {
+  const words = fold(state.q).split(/\s+/).filter(Boolean);
+  const [lo, hi] = state.frequency ? state.frequency.split("-").map(Number) : [0, Infinity];
+  const rows = RULES.filter(r =>
+    (!state.category || r.category === state.category) &&
+    (!state.confidence || r.confidence === state.confidence) &&
+    r.frequency >= lo && r.frequency <= hi &&
+    words.every(w => r.hay.includes(w)));
+  const sorters = {
+    frequency: (a, b) => b.frequency - a.frequency || byText(a.code, b.code),
+    code: (a, b) => byText(a.code, b.code),
+    category: (a, b) => DATA.categories.indexOf(a.category) - DATA.categories.indexOf(b.category) || byText(a.code, b.code),
+  };
+  return rows.sort(sorters[state.sort]);
+}
+
+function renderList(rows) {
+  $("list").innerHTML = rows.length ? rows.map(r => `
+    <button type="button" class="item" data-code="${esc(r.code)}" aria-current="${r.code === state.code}">
+      <span class="item-top"><span class="code" title="Codul regulii">${esc(r.code)}</span><span class="item-title">${esc(r.title)}</span></span>
+      ${field("Categorie de produse", esc(r.category))}
+      ${field("Cât de sigură e", badge(r.confidence, CONFIDENCE_CLASS[r.confidence], CONFIDENCE_HELP[r.confidence]))}
+      ${field("Unde se vede", esc(seenIn(r)))}
+    </button>`).join("") : `<div class="empty">Nicio regulă nu se potrivește filtrelor.</div>`;
+}
+
+function list(items) {
+  return items.length ? `<ul class="plain">${items.map(i => `<li>${hl(i)}</li>`).join("")}</ul>` : `<span class="none">Nu apar în emailuri.</span>`;
+}
+
+// evidence grouped by conversation: who, what was asked, the state, then each quote with what it shows
+function evidenceHtml(items) {
+  const byConv = new Map();
+  for (const e of items) {
+    if (!byConv.has(e.conv)) byConv.set(e.conv, []);
+    byConv.get(e.conv).push(e);
+  }
+  return [...byConv.values()].map(group => {
+    const e = group[0];
+    return `<div class="ev">
+      <div class="ev-head"><strong>${convLink(e.conv, e.nr)}</strong> ${field("Client", esc(e.client || "client necunoscut"))}
+        ${e.state ? field("Stare", badge(e.state, STATE_CLASS[e.state])) : ""}</div>
+      <div class="ev-sub">Ce a cerut clientul: ${hl(e.titles.join(" · ") || e.subject)}</div>
+      ${group.map(i => `<div class="ev-item">
+        <div class="note">${hl(i.note || `Arată ${FOR_LABEL[i.for]}.`)}
+          <span class="when">· arată ${esc(FOR_LABEL[i.for])} · ${esc(FROM_LABEL[i.from] || i.from)}, ${esc(shortDate(i.date))}</span></div>
+        <span class="quote">„${esc(i.quote)}”</span></div>`).join("")}
+    </div>`;
+  }).join("");
+}
+
+function pricesHtml(r) {
+  if (!r.lines.length) {
+    return `<span class="none">${r.products.some(p => p.known) ? "Produsele regulii nu apar în ofertele PDF din aceste conversații (prețul a fost dat în textul emailului sau oferta nu e atașată)." : "Regula nu are produse cu cod din nomenclator, deci nu are prețuri de arătat."}</span>`;
+  }
+  return `<div class="table-wrap"><table>
+    <thead><tr><th>Conversație</th><th>Document</th><th>Data</th><th>Cod</th><th>Produs din ofertă</th><th class="num">Cantitate</th><th class="num">Preț unitar fără TVA</th><th>Monedă</th></tr></thead>
+    <tbody>${r.lines.map(l => `<tr>
+      <td class="nowrap">${convLink(l.conv, l.nr)}</td><td class="nowrap">${esc(l.kind)} ${esc(l.offer)}</td><td class="nowrap">${esc(shortDate(l.date))}</td>
+      <td class="nowrap">${esc(l.ref)}</td><td>${esc(l.name)}</td>
+      <td class="num">${l.qty == null ? "" : `${qf.format(l.qty)} ${esc(l.uom)}`}</td>
+      <td class="num">${l.price == null ? "" : nf.format(l.price)}${l.discount ? ` <span title="reducere">(−${qf.format(l.discount)}%)</span>` : ""}</td>
+      <td>${esc(l.currency)}</td></tr>`).join("")}</tbody></table></div>`;
+}
+
+function renderDetail() {
+  const r = RULES.find(x => x.code === state.code);
+  if (!r) { $("detail").innerHTML = `<div class="empty">Alege o regulă din listă.</div>`; return; }
+  underlinedTerms = new Set();
+  // built where it is shown, so the first underline of a term lands in reading order
+  const products = () => r.products.length ? `<div class="table-wrap"><table>
+      <thead><tr><th>Referință internă</th><th>Produs (numele din nomenclator)</th><th>Ce rol are în ofertă</th></tr></thead>
+      <tbody>${r.products.map(p => `<tr><td class="nowrap">${p.known ? esc(p.ref) : badge("în afara nomenclatorului", "b-bad", "Produsul nu are cod în nomenclatorul AKRO.")}</td>
+        <td>${hl(p.name)}</td><td>${hl(p.role)}</td></tr>`).join("")}</tbody></table></div>`
+    : `<span class="none">Regula nu se referă la un produs anume.</span>`;
+  // the glossary terms of this rule, explained once at the end (hover does not work on a phone)
+  const ruleText = [r.title, r.explanation, r.when, ...r.clarifications, ...r.services, ...r.documents, ...r.conditions,
+    ...r.products.flatMap(p => [p.name, p.role]), ...r.contradictions.map(c => c.text),
+    ...r.evidence.concat(r.contradictions.flatMap(c => c.evidence)).flatMap(e => [e.note, e.quote, ...e.titles])].join(" \u0001 ");
+  const terms = [...new Set(termSpans(ruleText).map(sp => sp.g))].sort(byTerm);
+  $("detail").innerHTML = `
+    <div class="detail-head">
+      <button type="button" class="to-list" id="to-list">Înapoi la listă</button>
+      <h2 id="detail-title" tabindex="-1">Regula ${esc(r.code)}: ${hl(r.title)}</h2>
+      <div class="meta"><span><span class="k">Categorie de produse:</span> ${esc(r.category)}</span>
+        <span><span class="k">Cât de sigură e:</span> ${badge(r.confidence, CONFIDENCE_CLASS[r.confidence], CONFIDENCE_HELP[r.confidence])}</span>
+        <span><span class="k">Unde se vede:</span> ${seenIn(r)}</span></div>
+    </div>
+    <div class="blocks">
+      ${r.explanation ? `<section class="block explain"><h3>Pe scurt</h3><p>${hl(r.explanation)}</p></section>` : ""}
+      <section class="block"><h3><span class="n">1</span>Când se aplică: ce cere clientul</h3><div>${hl(r.when)}</div></section>
+      <section class="block"><h3><span class="n">2</span>Ce întreabă AKRO înainte să trimită oferta</h3>${r.clarifications.length ? list(r.clarifications) : `<span class="none">Nimic: AKRO trimite oferta direct, fără întrebări.</span>`}</section>
+      <section class="block"><h3><span class="n">3</span>Ce oferă AKRO</h3>
+        <h4>Produse ofertate</h4>${products()}
+        <h4>Servicii adăugate de AKRO (transport, montaj, punere în funcțiune etc.)</h4>${list(r.services)}
+        <h4>Documente trimise odată cu oferta</h4>${list(r.documents)}
+        <h4>Condiții (plată, livrare, termen, garanție)</h4>${list(r.conditions)}
+        <h4>Prețurile din ofertele trimise în aceste conversații</h4>${pricesHtml(r)}
+      </section>
+      ${r.contradictions.map(c => `<section class="block contra"><h3>Contradicție: aici conversațiile arată altceva</h3>
+        <p class="contra-text">${hl(c.text)}</p>${evidenceHtml(c.evidence)}</section>`).join("")}
+      <section class="block"><h3><span class="n">4</span>Dovezi: emailurile din care vine regula</h3>${evidenceHtml(r.evidence)}</section>
+      ${terms.length ? `<section class="block"><h3>Termeni din această regulă</h3>
+        <dl class="terms">${terms.map(g => `<dt>${esc(g.term)}</dt><dd>${esc(g.text)}</dd>`).join("")}</dl></section>` : ""}
+    </div>`;
+  $("detail-scroll").scrollTop = 0;
+}
+
+function render() {
+  const rows = filtered();
+  $("counter").textContent = `Afișate: ${rows.length} din ${rulesN(RULES.length)}`;
+  renderList(rows);
+}
+
+let timer;
+const debounced = fn => { clearTimeout(timer); timer = setTimeout(fn, 150); };
+const bind = (id, key, ev = "change") => $(id).addEventListener(ev, e => { state[key] = e.target.value; ev === "input" ? debounced(render) : render(); });
+bind("search", "q", "input");
+bind("f-category", "category");
+bind("f-confidence", "confidence");
+bind("f-frequency", "frequency");
+bind("sort", "sort");
+$("reset").addEventListener("click", () => {
+  Object.assign(state, { q: "", category: "", confidence: "", frequency: "" });
+  ["search", "f-category", "f-confidence", "f-frequency"].forEach(id => { $(id).value = ""; });
+  render();
+});
+const isPhone = () => matchMedia("(max-width: 900px)").matches;
+// the row is marked in place, not redrawn, so keyboard focus stays on it; the change is announced
+function select(code) {
+  state.code = code;
+  for (const x of $("list").querySelectorAll("[data-code]")) {
+    const current = x.dataset.code === code;
+    x.setAttribute("aria-current", String(current));
+    if (current) x.scrollIntoView({ block: "nearest" });
+  }
+  history.replaceState(null, "", `#${encodeURIComponent(code)}`);
+  renderDetail();
+  const r = RULES.find(x => x.code === code);
+  if (r) $("announce").textContent = `Regula ${r.code}: ${r.title}`;
+}
+$("list").addEventListener("click", e => {
+  const item = e.target.closest("[data-code]");
+  if (!item) return;
+  select(item.dataset.code);
+  // phones: the columns are stacked, so bring the rule into view and put focus on its title
+  if (isPhone()) {
+    $("detail-col").scrollIntoView();
+    $("detail-title")?.focus({ preventScroll: true });
+  }
+});
+$("list").addEventListener("keydown", e => {
+  if (e.key !== "ArrowDown" && e.key !== "ArrowUp") return;
+  const items = [...$("list").querySelectorAll("[data-code]")];
+  const at = items.indexOf(document.activeElement);
+  const next = items[at + (e.key === "ArrowDown" ? 1 : -1)];
+  if (at < 0 || !next) return;
+  e.preventDefault();
+  next.focus();
+  select(next.dataset.code);
+});
+$("detail").addEventListener("click", e => {
+  if (!e.target.closest("#to-list")) return;
+  const current = $("list").querySelector('[aria-current="true"]');
+  if (!current) return;
+  current.scrollIntoView({ block: "center" });
+  current.focus({ preventScroll: true });
+});
+
+// theme: light unless the viewer chose dark; the choice is remembered in this browser only
+function applyTheme(dark) {
+  document.documentElement.toggleAttribute("data-theme", dark);
+  if (dark) document.documentElement.dataset.theme = "dark";
+  $("theme").setAttribute("aria-pressed", String(dark));
+}
+let savedTheme = "";
+try { savedTheme = localStorage.getItem("emailuri-tema") || ""; } catch (e) { /* storage blocked: stay light */ }
+applyTheme(savedTheme === "dark");
+$("theme").addEventListener("click", () => {
+  const dark = document.documentElement.dataset.theme !== "dark";
+  applyTheme(dark);
+  try { localStorage.setItem("emailuri-tema", dark ? "dark" : "light"); } catch (e) { /* not remembered */ }
+});
+
+initFilters();
+$("glossary").innerHTML = [...GLOSSARY].sort(byTerm).map(g => `<dt>${esc(g.term)}</dt><dd>${esc(g.text)}</dd>`).join("");
+// reguli.html#R13-01 opens that rule
+state.code = decodeURIComponent(location.hash.slice(1));
+render();
+renderDetail();
+$("list").querySelector('[aria-current="true"]')?.scrollIntoView({ block: "nearest" });
+
+// collapse buttons on the side lists; a collapsed strip also opens with a click anywhere on it
+document.querySelectorAll("main > .col:not(#detail-col)").forEach(col => {
+  const head = col.querySelector(".col-head");
+  const btn = document.createElement("button");
+  btn.type = "button";
+  btn.className = "col-toggle";
+  btn.innerHTML = '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3.5 5.5 8l4.5 4.5"/></svg>';
+  const sync = () => {
+    const collapsed = col.classList.contains("collapsed");
+    btn.setAttribute("aria-expanded", String(!collapsed));
+    btn.title = (collapsed ? "Extinde: " : "Restrânge: ") + col.getAttribute("aria-label");
+    btn.setAttribute("aria-label", btn.title);
+  };
+  btn.addEventListener("click", e => { e.stopPropagation(); col.classList.toggle("collapsed"); sync(); });
+  head.addEventListener("click", () => { if (col.classList.contains("collapsed")) btn.click(); });
+  head.append(btn);
+  sync();
+});
+</script>
+</body>
+</html>

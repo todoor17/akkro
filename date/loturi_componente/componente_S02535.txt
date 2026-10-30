@@ -1,0 +1,251 @@
+
+####################################################################################################
+OFERTA S02535 | client: PRESIDENT MINERAL WATER SOCIETATE CU RASPUNDERE LIMITATĂ | trimisă: 2026-07-14 16:36 | Odoo: Comandă de vânzare | conversații: c2101060 (nr. 84)
+
+####################################################################################################
+RÂND c2101060 (nr. 84) | stare: Completă | categorie: 01-Filtre impuritati | cerere: Filtrare pentru linie de îmbuteliere apă de izvor
+CERINȚA: Cere informații despre o instalație pentru îmbutelierea apei de izvor, linie de 4000 l/h, cu buletinul de analiză atașat. [m2101060] «Doresc informatii cu privire la o instalatie de imbuteliere apa de izvor.»
+CERINȚĂ FINALĂ (debit): 4000 l/h [m2101060] «Capacitatea liniei este de 4000 litri /ora.»
+CERINȚĂ FINALĂ (aplicație): Îmbuteliere apă de izvor (President Mineral Water) [m2101060] «instalatie de imbuteliere apa de izvor»
+CERINȚĂ FINALĂ (tip echipament): O singură carcasă inox pentru 3 cartușe [m2146468] «O singura carcasa din inox [ pentru 3 cartuse]»
+CERINȚĂ FINALĂ (cantitate): 6 cartușe pliate 1 micron (1 set montaj + 1 set rezervă) [m2146468] «6 bucati cartuse [ 1 set pentru montaj + 1 set de rezerva]»
+CERINȚĂ FINALĂ (termen): Clientul cere scurtarea termenului de livrare (ofertat 6-8 săptămâni) [m2110500] «Vă rog dacă avem posibilitatea de a scurta timpul de livrare»
+CLARIFICARE: întrebare - → răspuns AKRO recomandă filtru NW400 cu cartuș inox, apoi două carcase multicartuș MVB cu cartușe SFM de 3 și 1 micron; UV opțional. [m2137124] «Urmate de inca doua carcase multicartus [ cu cate 3 cartuse fiecare» | schimbare: Propunerea inițială AKRO (S02535 v1) după discuția telefonică.
+CLARIFICARE: întrebare - → răspuns Oferta revizuită pentru President conține o singură carcasă inox și 6 cartușe de 1 micron. [m2146468] «Va las anexata oferta pentru President ce include:» | schimbare: Configurație redusă (S02535 v2): o carcasă inox și 6 cartușe 1 µm, în loc de NW400 + două carcase + 18 cartușe.
+TELEFON: Discuție telefonică: apa din buletin nu are probleme de consum; AKRO recomandă totuși filtrare mecanică. [m2137124] «Asa cum am discutat la telefon, apa din buletinul pus la dispozitie nu prezinta nicio problema de consum.»
+OFERTĂ ÎN TEXT: Sistem UV de 70-80 W cu racord 1,5": aprox. 1500 euro fără TVA (opțional) [m2137124] «ajunge la 1500 euro fara TVA»
+REZULTAT: acceptată — Clientul confirmă comanda pe oferta revizuită; AKRO trimite confirmarea și proforma de 50%. [m2110500] «Avem OK pentru comanda.»
+PREȚURI Ofertă S02535 v1 (2026-07-14), total 6494.1 EUR:
+  [01-008131] Filtru impuritati NW400 - 1.5" - cu cartus din inox 50 microni | 1.0 buc × 471.24 EUR | referință
+  [01-008049] Consola de prindere pentru carcasa cintropur NW 280/340/400 | 1.0 buc × 29.1 EUR | referință
+  [01-009138] Carcasa filtranta inox multicartus - MVB3S3G40P8L | 2.0 buc × 1309.64 EUR | referință
+  [01-009078] Manometru,ventil de aerisire si prelevare probe-pentru carcase SV si MVB XGS-SS010BU-D63 | 2.0 buc × 260.0 EUR | referință
+  [01-010086] Cartus filtrant StarFine SFM3K3P8S | 9.0 buc × 121.8 EUR | referință
+  [01-010081] Cartus filtrant star fine SFM1K3P7S | 9.0 buc × 121.99 EUR | referință
+  [-] Reducere: 8.00% | 1.0 buc × -466.7 EUR | serviciu
+  termen: Metoda de plata: O.P. - 50% in avans; 50% la livrare
+  termen: Modul de livrare: D In sarcina Akro
+  termen: Garantie: 24 luni de la livrare
+PREȚURI Ofertă S02535 v2 (2026-08-07), total 2272.68 EUR:
+  [01-009138] Carcasa filtranta inox multicartus - MVB3S3G40P8L | 1.0 buc × 1309.64 EUR | referință
+  [01-010081] Cartus filtrant star fine SFM1K3P7S | 6.0 buc × 121.99 EUR | referință
+  [-] Reducere: 8.00% | 1.0 buc × -163.33 EUR | serviciu
+  termen: Metoda de plata: O.P. - 50% in avans; 50% la livrare
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 24 luni de la livrare
+PREȚURI Confirmare de comandă S02535 v1 (2026-08-07), total 2272.68 EUR:
+  [01-009138] Carcasa filtranta inox multicartus - MVB3S3G40P8L | 1.0 buc × 1309.64 EUR | referință
+  [01-010081] Cartus filtrant star fine SFM1K3P7S | 6.0 buc × 121.99 EUR | referință
+  [-] Reducere: 8.00% | 1.0 buc × -163.33 EUR | serviciu
+  termen: Metoda de plata: O.P. - 50% in avans; 50% la livrare
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 24 luni de la livrare
+PREȚURI Factură proformă S02535 v1 (2026-08-07), total 5964.57 RON:
+VÂNDUTĂ 2026-08-07 11:51 | lanț: fără comandă | lipsește: ['nicio comandă către furnizor nu e legată sigur (în Odoo sau în PDF-ul comenzii) de această vânzare']
+
+====================================================================================================
+CONVERSAȚIA c2101060 (nr. 84) | subiect: Instalatie de filtrare
+Partener (după adrese): maspex.ro Karina Zimcea, Valentin Cupsan | grupare nesigură: nu
+OFERTĂ S02535 v1 trimisă 2026-07-14 16:36 în m2137124 (Odoo: Comandă de vânzare): [01-008131] Filtru impuritati NW400 - 1.5" - cu cartus din inox 50 microni x1.0 buc; [01-008049] Consola de prindere pentru carcasa cintropur NW 280/340/400 x1.0 buc; [01-009138] Carcasa filtranta inox multicartus - MVB3S3G40P8L x2.0 buc; [01-009078] Manometru,ventil de aerisire si prelevare probe-pentru carcase SV si MVB XGS-SS0 x2.0 buc; [01-010086] Cartus filtrant StarFine SFM3K3P8S x9.0 buc; [01-010081] Cartus filtrant star fine SFM1K3P7S x9.0 buc; [-] Reducere: 8.00% x1.0 buc
+OFERTĂ S02535 v2 trimisă 2026-08-07 09:34 în m2146468 (Odoo: Comandă de vânzare): [01-009138] Carcasa filtranta inox multicartus - MVB3S3G40P8L x1.0 buc; [01-010081] Cartus filtrant star fine SFM1K3P7S x6.0 buc; [-] Reducere: 8.00% x1.0 buc
+OFERTĂ S02535 v1 trimisă 2026-08-07 11:51 în m2146500 (Odoo: Comandă de vânzare): [01-009138] Carcasa filtranta inox multicartus - MVB3S3G40P8L x1.0 buc; [01-010081] Cartus filtrant star fine SFM1K3P7S x6.0 buc; [-] Reducere: 8.00% x1.0 buc
+OFERTĂ S02535 v1 trimisă 2026-08-07 11:51 în m2146500 (Odoo: Comandă de vânzare): 
+
+--- MESAJ m2101060 | 2026-07-14 13:24 | Inbox | EXTERN
+De la: Karina Zimcea <k.zimcea@maspex.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Instalatie de filtrare
+Buna ziua,
+
+Doresc informatii cu privire la o instalatie de imbuteliere apa de izvor.
+
+Capacitatea liniei este de 4000 litri /ora.
+
+Atasaz buletinul de analiza cu specificatiile apei brute.
+
+Multumesc
+
+Karina Zimcea
+
+Quality Officer | Quality Departament
+
+k.zimcea@maspex.ro
+
+Maspex Romania SRL | Valenii de Munte, 38-40 Stefan
+cel Mare St, PH, Romania
+
+Timisoara branch: Constantin Silvestri St. 7C, Timisoara, postal code 300538, county Timis, Romania
+
+phone +40 374 409 539 | fax. +40 244 282 366 | mobile: 0747 121 036
+
+Com. Reg. Prahova J2005001275297| Fiscal / VAT code: RO 3451510
+
+www.maspex.ro
+
+This message is confidential and a business secret.
+
+The contents may not be disclosed to third parties.
+
+Please consider the environment before printing this email.
+[ATAȘAMENT: Raport de incercare nr. 185_President Mineral Water.pdf | PDF fără text (scanat)]
+
+--- MESAJ m2137092 | 2026-07-14 15:30 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: Instalatie de filtrare
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Karina Zimcea <k.zimcea@maspex.ro>
+Sent: Tuesday, July 14, 2026 1:24 PM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: Instalatie de filtrare
+
+Buna ziua,
+
+Doresc informatii cu privire la o instalatie de imbuteliere apa de izvor.
+
+Capacitatea liniei este de 4000 litri /ora.
+
+Atasaz buletinul de analiza cu specificatiile apei brute.
+
+Multumesc
+
+Karina Zimcea
+
+Quality Officer | Quality Departament
+k.zimcea@maspex.ro
+
+Maspex Romania SRL | Valenii de Munte, 38-40 Stefan cel Mare St, PH, Romania
+
+Timisoara branch: Constantin Silvestri St. 7C, Timisoara, postal code 300538, county Timis, Romania
+
+phone +40 374 409 539 | fax. +40 244 282 366 | mobile: 0747 121 036
+Com. Reg. Prahova J2005001275297| Fiscal / VAT code: RO 3451510
+
+www.maspex.ro
+
+This message is confidential and a business secret.
+
+The contents may not be disclosed to third parties.
+
+Please consider the environment before printing this email.
+[ATAȘAMENT: Raport de incercare nr. 185_President Mineral Water.pdf | PDF fără text (scanat)]
+
+--- MESAJ m2137124 | 2026-07-14 16:36 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Karina Zimcea <k.zimcea@maspex.ro>
+Cc: v.cupsan@maspex.ro, andrei.dobrei@akro.ro, office@akro.ro
+Subiect: RE: Instalatie de filtrare
+Buna ziua Doamna Karina,
+
+Asa cum am discutat la telefon, apa din buletinul pus la dispozitie nu prezinta nicio problema de consum.
+
+Ca si parte de tratare as recomanda totusi:
+
+O filtrare mecanica grosiera – aici am prins un filtru NW400 cu cartus din inox lavabil - https://akro.ro/produse/produs/filtru-impuritati-cu-membrana-filtranta-nw280340400/
+
+Urmate de inca doua carcase multicartus [ cu cate 3 cartuse fiecare – de 30”] – model MVB3S3G40P8L - https://akro.ro/produse/produs/carcasa-multi-cartus/
+
+Am inclus si 2 ventile de aerisire la carcase + robinet de prelevare+ manometru [ produsele sunt optionale -dar foarte practice]
+
+Cartuse pentru carcase 1 set pentru pornirea initiala, si inca doua schimburi de rezerva [ la 3 microni si 1 micron – varianta de cartuse pliate SFM ] – fisa tehnica anexata
+
+In cazul in care se accepta si UV in process, atunci chiar recomandam instalarea unuia ca ultima etapa. Un sistem de nivel mediu – de 70-80 W – cu racord de 1.5” ajunge la 1500 euro fara TVA
+
+Daca bugetul este depasit cu aceasta propunere, atunci se poate merge cu niste carcase big blue in serie[ din plastic] – cu filtrare prin cartuse meltblown [ dar acest tip de filtrare nu este la fel de eficient ] – si nu as recomanda un astfel de sistem pentru o fabrica de imbuteliere [ bugetul aici ar ajunge la 1500- 2000 euro in functie de cartuse – fara UV]
+
+Pentru orice alte intrebari sau informatii va stau cu placere la dispozitie!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02535 - President Mineral Water - 14.07.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: SF_pleated elements.pdf | text extras]
+
+--- MESAJ m2146468 | 2026-08-07 09:34 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Karina Zimcea <k.zimcea@maspex.ro>
+Cc: v.cupsan@maspex.ro, andrei.dobrei@akro.ro, office@akro.ro
+Subiect: RE: Instalatie de filtrare
+Buna ziua Doamna Karina,
+
+Va las anexata oferta pentru President ce include:
+
+O singura carcasa din inox [ pentru 3 cartuse]
+
+6 bucati cartuse [ 1 set pentru montaj + 1 set de rezerva] – de 1 micron – polipropilena pliata.
+
+Produsele se pot livra in termen de +- 6-8 saptamani [ in luna AUGUST Fabrica Italiana este inchisa – vacanta de vara]
+
+Speram ca oferta sa fie acceptata!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02535 President Mineral - 07.08.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2110468 | 2026-08-07 09:38 | Inbox | EXTERN
+De la: Karina Zimcea <k.zimcea@maspex.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: v.cupsan@maspex.ro, andrei.dobrei@akro.ro, office@akro.ro
+Subiect: RE: Instalatie de filtrare
+Multumesc pentru promtitudine.
+
+Revin repede cu raspunsul ferm.
+
+Multumesc
+
+Karina Zimcea
+
+Quality Officer | Quality Departament
+
+k.zimcea@maspex.ro
+
+Maspex Romania SRL | Valenii de Munte, 38-40 Stefan
+cel Mare St, PH, Romania
+
+Timisoara branch: Constantin Silvestri St. 7C, Timisoara, postal code 300538, county Timis, Romania
+
+phone +40 374 409 539 | fax. +40 244 282 366 | mobile: 0747 121 036
+
+Com. Reg. Prahova J2005001275297| Fiscal / VAT code: RO 3451510
+
+www.maspex.ro
+
+This message is confidential and a business secret.
+
+The contents may not be disclosed to third parties.
+
+Please consider the environment before printing this email.
+
+--- MESAJ m2110500 | 2026-08-07 11:04 | Inbox | EXTERN
+De la: Karina Zimcea <k.zimcea@maspex.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: v.cupsan@maspex.ro, andrei.dobrei@akro.ro, office@akro.ro
+Subiect: Re: Instalatie de filtrare
+Bună,
+
+Avem OK pentru comanda.
+
+Vă rog dacă avem posibilitatea de a scurta timpul de livrare,să o facem.
+
+Ne ar ajuta foarte mult!
+
+Mulțumesc frumos
+
+--- MESAJ m2146500 | 2026-08-07 11:51 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Karina Zimcea <k.zimcea@maspex.ro>
+Cc: v.cupsan@maspex.ro, andrei.dobrei@akro.ro, office@akro.ro
+Subiect: RE: Instalatie de filtrare
+Buna ziua Doamna Karina,
+
+Va multumim pentru comanda!
+
+Va rog sa regasiti anexata confirmarea AKRO si factura proforma pentru 50% pentru care va rog sa se faca plata
+
+Legat de timpul de livrare, facem tot posibilul sa urgentam – insa tine foarte mult de producator.
+
+Revin cu feedback cat de repede.
+
+Asteptam reply-ul dumneavoastra!
+
+Numai bine,
+[ATAȘAMENT: Comanda - S02535 - President Mineral - 07.08.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: Factură proforma - President Mineral - 07.08.2026.pdf | ofertă Odoo, parsată mai sus]

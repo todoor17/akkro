@@ -1,0 +1,232 @@
+
+####################################################################################################
+OFERTA S02400 | client: ARTROM STEEL TUBES S.A. | trimisă: 2026-08-24 09:36 | Odoo: nu e în lista Odoo | conversații: c2114756 (nr. 330)
+
+####################################################################################################
+RÂND c2114756 (nr. 330) | stare: După vânzare | categorie: 13-Filtre multistrat diferite medii | cerere: Instalație filtrare apă cu cărbune activ, clorinare și grup de pompare
+CERINȚA: -
+CERINȚĂ FINALĂ (tip echipament): Filtru BS4872AT/RV cu 1000 L cărbune Sorbotech LGCO100 și stație de clorinare finală [m2114756] «FILTRU BS4872AT/RV CU 1000LCARBUNE SORBOTECH»
+CERINȚĂ FINALĂ (tip echipament): Grup de pompare Grundfos Hydro F 2xCM25, 2x20 mc/h, 400 V [m2114756] «GRUP DE POMPARE GRUNDFOS TIP HYDROF2XCM25»
+CERINȚĂ FINALĂ (tip echipament): Contor Zenner WPD DN100 cu modul M-Bus [m2114756] «CONTOR ZENNER ,WPD ,DN100, CU MODUL EDC MBus»
+CERINȚĂ FINALĂ (termen): Termen de livrare în comandă: 27.10.2026 [m2114756] «10,544.0 10,544.00 EUR 27.10.2026 CA-00038834-S_1»
+CERINȚĂ FINALĂ (calitate apă): Tetracloretenă 213,01 µg/l înainte de filtru, 0,63 µg/l după filtrul pilot cu cărbune activ [m2114756] «la 213,01 µg/l(inainte de filtru ) la 0,63 µg/l (dupa filtru cu carbune activ).»
+CLARIFICARE: întrebare Clientul cere un termen aproximativ de livrare a echipamentelor înainte de a emite comanda. [m2114756] «Pentru a emite comanda va rog un termen aproximativ de livrare a echipamentelor.» → răspuns AKRO estimează 8 săptămâni (posibil +1-2 săptămâni din cauza lunii august). [m2114756] «termenul estimat de livrare pentru echipamente este de 8 saptamani» | schimbare: S-a precizat termenul de livrare: aproximativ 8 săptămâni.
+REZULTAT: acceptată — Clientul trimite comanda nr. 38834 semnată (contract 40043); AKRO confirmă comanda S02400. [m2114756] «Atachat va transmit comanda nr. 38834 semnata.»
+PREȚURI Confirmare de comandă S02400 v1 (2026-08-24), total 75019.99 EUR:
+  [23-001211] HYDRO F 2xCM25-2 DN80 400V - 2 x 20mc/h Grup de pompare, Grundfos, 1A+1R, functionare in cascada, alternare, functionare | 1.0 buc × 10544.0 EUR | referință
+  [-] Baterie filtrare compusa din 3 x Filtre Skid 4872 FRP cu 1000L carbune Sorbotech LGCO100 /fiecare | None  × None EUR | în afara nomenclatorului
+  [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 | 1.0 buc × 501.2 EUR | referință
+  [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie de un semn | 1.0 buc × 414.69 EUR | referință
+  [11-002026] LANCE DE ASPIRATIE CU SENZOR DE NIVEL PENTRU REZERVOR 100L, CONEXIUNI 4x6mm | 1.0 buc × 105.98 EUR | referință
+  [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 | 1.0 buc × 131.63 EUR | referință
+  [16-001010] Deplasari echipe service, transport echipamente, Automatizare - senzor de nivel cu vana de comanda electrica pentru inch | None  × None EUR | serviciu
+  termen: Metoda de plata: O.P. 30% in avans, 30% la livrare, 40% la 30 de zille de la livrare
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12 luni de la livrare
+VÂNDUTĂ 2026-08-24 09:36 | lanț: fără comandă | lipsește: ['cerința clientului nu apare în emailuri', 'nicio comandă către furnizor nu e legată sigur (în Odoo sau în PDF-ul comenzii) de această vânzare']
+COMANDA P01436 (indiciu din perioadă) | ALAMO WATER POLAND | 2026-08-27 13:52 | sursa în Odoo: - | stare: Comandă de achiziție | total: 1053.5
+  Comandă AKRO P01436 trimisă 2026-08-27 13:54 în m2152932 (conversația 359):
+    [14-002101] [10761000004] Pure Resin PMB101-2 mixed bed | 350.0 L | 14-002 Medii filtrante
+COMANDA P01502 (indiciu din perioadă) | ALAMO WATER POLAND | 2026-09-23 10:44 | sursa în Odoo: - | stare: Comandă de achiziție | total: 501.47
+  (nu e în emailuri: doar rândul din lista Odoo)
+COMANDA P01565 (indiciu din perioadă) | ALAMO WATER POLAND | 2026-10-13 10:01 | sursa în Odoo: - | stare: nu e în lista Odoo | total: None
+  Comandă AKRO P01565 trimisă 2026-10-13 10:01 în m2166852 (conversația 640):
+    [14-002100] [10761000008] Pure Resin PC003 strong cation | 200.0 L | 14-002 Medii filtrante
+    [14-002038] [10870000013] Anthracite 0,8 – 1,6 mm | 100.0 L | 14-002 Medii filtrante
+    [14-001082] [V3430-01] WS1.25/WS1.5 Spacer Stack | 1.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-001081] [V3407] WS1.25/WS1.5 Piston Downflow Asy | 1.0 Units | 14-001 Vane automate programabile, accesorii
+
+====================================================================================================
+CONVERSAȚIA c2114756 (nr. 330) | subiect: comanda nr 38834_ AKRO_semnata
+Partener (după adrese): artrom.com Dinca Ionela, Nitu Remus, Galben Petrica | grupare nesigură: nu
+OFERTĂ S02400 v1 trimisă 2026-08-24 09:36 în m2151524 (Odoo: nu e în lista Odoo): [23-001211] HYDRO F 2xCM25-2 DN80 400V - 2 x 20mc/h Grup de pompare, Grundfos, 1A+1R, functi x1.0 buc; [-] Baterie filtrare compusa din 3 x Filtre Skid 4872 FRP cu 1000L carbune Sorbotech xNone ; [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 x1.0 buc; [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual x1.0 buc; [11-002026] LANCE DE ASPIRATIE CU SENZOR DE NIVEL PENTRU REZERVOR 100L, CONEXIUNI 4x6mm x1.0 buc; [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 x1.0 buc; [-] Deplasari echipe service, transport echipamente, Automatizare - senzor de nivel  xNone 
+
+--- MESAJ m2114756 | 2026-08-21 11:58 | Inbox | EXTERN
+De la: Dinca Ionela <ionela.dinca@artrom.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: remus.nitu@artrom.com, petrica.galben@artrom.com, office@akro.ro, andrei.dobrei@akro.ro, aurel.caras@akro.ro
+Subiect: comanda nr 38834_ AKRO_semnata
+Buna ziua,
+
+Atachat va transmit comanda nr. 38834 semnata.
+
+O zi placuta!
+
+Cu stima,
+
+Ioana Dinca
+
+Serviciul Management Resurse Energetice
+
+ARTROM STEEL TUBES S.A.
+
+Draganesti street no. 30, 230119, Slatina, Olt, Romania,
+
+Phone:+40 372 498 192;
+
+Fax: +40 249 431 144
+
+E-mail:
+ionela.dinca@artrom.com
+
+www.artrom.com
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: AKRO Romania , Alexandru Soare [mailto:alexandru.soare@akro.ro]
+
+Sent: Tuesday, August 11, 2026 2:07 PM
+
+To: Dinca Ionela <ionela.dinca@artrom.com>
+
+Cc: Neacsu Constantin <constantin.neacsu@artrom.com>; Nitu Remus <remus.nitu@artrom.com>; Galben Petrica <petrica.galben@artrom.com>; 'Akro Filtrare' <office@akro.ro>; andrei.dobrei@akro.ro; 'Aurel CARAS - AKRO' <aurel.caras@akro.ro>
+
+Subject: RE: Contract nr.40043 AKRO_semnat
+
+Buna ziua Doamna Dinca,
+
+La acest moment, termenul estimat de livrare pentru echipamente este de 8 saptamani [ poate +1-2 saptamani – dat fiind ca Augustul se lucreaza cu efectiv mai mic la majoritatea furnizorilor].
+
+O zi cu spor!
+
+From: Dinca Ionela <ionela.dinca@artrom.com>
+
+Sent: Tuesday, August 11, 2026 1:25 PM
+
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+
+Cc: Neacsu Constantin <constantin.neacsu@artrom.com>; Nitu Remus <remus.nitu@artrom.com>; Galben Petrica <petrica.galben@artrom.com>;
+'Akro Filtrare' <office@akro.ro>;
+andrei.dobrei@akro.ro; 'Aurel CARAS - AKRO' <aurel.caras@akro.ro>
+
+Subject: Contract nr.40043 AKRO_semnat
+
+Buna ziua,
+
+Atachat gasiti Contractul semnat.
+
+Maine trimit un exemplar prin FAN CURIER.
+
+Pentru a emite comanda va rog un termen aproximativ de livrare a echipamentelor.
+
+Zi buna!
+
+Cu stima,
+
+Ioana Dinca
+
+Serviciul Management Resurse Energetice
+
+ARTROM STEEL TUBES S.A.
+
+Draganesti street no. 30, 230119, Slatina, Olt, Romania,
+
+Phone:+40 372 498 192;
+
+Fax: +40 249 431 144
+
+E-mail:
+ionela.dinca@artrom.com
+
+www.artrom.com
+
+From: AKRO Romania , Alexandru Soare [mailto:alexandru.soare@akro.ro]
+
+Sent: Wednesday, August 5, 2026 9:37 AM
+
+To: Dinca Ionela <ionela.dinca@artrom.com>
+
+Cc: Neacsu Constantin <constantin.neacsu@artrom.com>; Nitu Remus <remus.nitu@artrom.com>; Galben Petrica <petrica.galben@artrom.com>;
+'Akro Filtrare' <office@akro.ro>;
+andrei.dobrei@akro.ro; 'Aurel CARAS - AKRO' <aurel.caras@akro.ro>
+
+Subject: RE: ref contract AKRO
+
+Buna ziua Doamna Dinca,
+
+Va rog sa regasiti anexat contractul semnat.
+
+Ramane sa tinem legatura pentru a da ok-ul pentru productia filtrelor mari.
+
+O zi cu spor!
+
+From: Dinca Ionela <ionela.dinca@artrom.com>
+
+Sent: Thursday, July 30, 2026 12:00 PM
+
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+
+Cc: Neacsu Constantin <constantin.neacsu@artrom.com>; Nitu Remus <remus.nitu@artrom.com>; Galben Petrica <petrica.galben@artrom.com>
+
+Subject: ref contract AKRO
+
+Buna ziua,
+
+Atachat gasiti draft contract “proiectarea solutiei tehnice, furnizarea echipamentelor, asistenta la montaj, punerea in functiune a unei
+Instalatii de Filtare Apa”,oferta SO 2400 anexa la contract, si rapoartele de incercare pentru probele de apa potabila prelevate inainte si dupa filtru cu carbune activ.
+
+Din rapoartele atachate se observa ca valoarea determinata a parametrului”tetracloretena “a scazut de
+la 213,01 µg/l(inainte de filtru ) la 0,63 µg/l (dupa filtru cu carbune activ).
+
+La inceputul saptamanii viitoare vom primi rapoarte de la un laborator acreditat de MINISTERUL SANATATII,cu care colaboram,pentru inca un set de probe prelevate inainte si dupa filtru cu carbune activ.
+
+Asteptam punctul dumneavoastra de vedere privind draft contract atachat pentru a putea demara procedura de semnare.
+
+Cu stima,
+
+Ioana Dinca
+
+Serviciul Management Resurse Energetice
+
+ARTROM STEEL TUBES S.A.
+
+Draganesti street no. 30, 230119, Slatina, Olt, Romania,
+
+Phone:+40 372 498 192;
+
+Fax: +40 249 431 144
+
+E-mail:
+ionela.dinca@artrom.com
+
+www.artrom.com
+
+Acest mesaj și orice fișiere sau documente anexate conțin informații destinate doar persoanei căreia îi sunt adresate. În cazul în care dumneavoastră nu sunteți în această situație,
+prin aceasta vă informăm că orice dezvăluire, copiere, distribuire sau orice altă acțiune bazată pe conținutul acestor informații este strict interzisă și pot fi aplicate sancțiuni, potrivit legii. Dacă ați primit acest email din greșeală, vă rugăm să ne informați
+imediat și să ștergeți mesajul din sistemul dumneavoastră.
+
+This message and
+[ATAȘAMENT: c-da38834 AKRO BRASOV-signed.pdf | text extras]
+COMANDA ACHIZITIE CA-00038834-S / 18.08.2026
+Contract ART40043 / 06.08.2026
+Semnat digital de ARTROM STEEL TUBES SA
+Se certifica acest document ca fiind controlat si aprobat electronic.
+Semnatura solicitata de Ioana Dinca
+in data 2026-08-21 11:53:37.056+03:00
+CA-00038834-S-1 / 18.08.2026 Pagina 1 din 2
+&ĄWUH AKRO BRASOV Adresa STR. ZIZINULUI,NR.110,ETAJ 2 BRASOV, Romania
+In atentia Nr. inregistrare TVA RO14205979
+Nr. Reg. Comertului J08/977/01.10.2001
+Va rugam livrati catre/executati pentru/preluati de la ARTROM STEEL TUBES SA, UZINA PRODUCTIE METALURGICA, Draganesti 30 SLATINA, OT,230119 Romania, materialele/serviciile enumerate mai jos.
+Societatea ARTROM STEEL TUBES SA este inregistrata in Registrul Comertului la J1991000009283, cod unic de inregistrare RO1510210, Draganesti 30 SLATINA,, OT,230119, Romania. Plata se face din contul
+bancar RO66CECEB00030RON2770770 deschis la CEC BANK.. Marfurile vor fi insotite de certificate de calitate si garantie. Receptia se va face conform legislatiei in vigoare. Rugam confirmati.
+
+Nr Descriere Unitate Cantitate Pret Valoare Valuta Termen Concentratie Nr Referinta Obs
+crt livrare (%)
+1 GRUP DE POMPARE GRUNDFOS TIP HYDROF2XCM25- buc 1.000 10,544.0 10,544.00 EUR 27.10.2026 CA-00038834-S_1
+2DN80 400V-2X20 mc/ora 0
+2 FILTRU BS4872AT/RV CU 1000LCARBUNE SORBOTECH buc 1.000 42,622.5 42,622.50 EUR 27.10.2026 CA-00038834-S_3
+LGCO100 SI STATIE CLORINARE FINALA 0
+3 CONTOR ZENNER ,WPD ,DN100, CU MODUL EDC MBus- buc 1.000 501.20 501.20 EUR 27.10.202
+
+--- MESAJ m2151524 | 2026-08-24 09:36 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dinca Ionela <ionela.dinca@artrom.com>
+Cc: remus.nitu@artrom.com, petrica.galben@artrom.com, office@akro.ro, andrei.dobrei@akro.ro, aurel.caras@akro.ro
+Subiect: RE: comanda nr 38834_ AKRO_semnata
+Buna dimineata doamna Dinca,
+
+Va multumim pentru comanda!
+
+Va rog sa regasiti anexata confirmarea oficiala AKRO.
+
+O zi cu spor!
+[ATAȘAMENT: Comanda - S02400 - ARTROM STEEL TUBES - 24.08.2026.pdf | ofertă Odoo, parsată mai sus]

@@ -1,0 +1,229 @@
+CATEGORIA 21-Aparatura de analiza si control
+
+####################################################################################################
+RÂND c2158244 (nr. 471) | stare: Completă | categorie: 21-Aparatura de analiza si control | cerere: Debitmetru electromagnetic DN80 pentru apă potabilă
+CERINȚA: Dorește un debitmetru electromagnetic pentru apă potabilă, DN75, max. 30 mc/h, cu controller care trimite date la distanță. [m2158244] «Doresc sa achizitionez un debitmetru electromagnetic , pentru apa potabila,DN75,domeniul maxim de masurare 30mc/h»
+CERINȚĂ FINALĂ (tip echipament): Debitmetru electromagnetic modular Aplisens PEM1000, precizie 0,5%, ieșiri 4-20mA/Modbus/puls [m2158244] «Debitmetru electromagnetic modular Aplisens PEM1000»
+CERINȚĂ FINALĂ (racord): DN80 cu flanșe PN16 [m2158244] «Senzor cu corp otel DN80 cu flanse PN16, etansari PTFE, electrozi inox 316L»
+CERINȚĂ FINALĂ (tensiune): Alimentare 90-260 Vac [m2158244] «Transmiter cu alimentare 90-260 Vac, montaj remote cu cablu de 8m»
+CERINȚĂ FINALĂ (termen): Livrare în 5-10 zile de la comandă și confirmarea avansului [m2158244] «il putem livra in termen de 5-10 zile din momentul in care se face comanda»
+REZULTAT: necunoscut
+PREȚURI Ofertă S02828 v1 (2026-09-16), total 1897.28 EUR:
+  [23-001166] Debitmetru electromagnetic APLISENS - DN 80 - cu elemente separate [ modular] Termen livrare: 10 zile | 1.0 buc × 1568.0 EUR | referință
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 24 luni de la livrare
+  termen: Termen de plata: 100% in avans
+
+====================================================================================================
+CONVERSAȚIA c2158244 (nr. 471) | subiect: RE: cerere oferta - Debitmetru electromagnetic
+Partener (după adrese): radumugureldan@gmail.com Radu Mugurel Dan | grupare nesigură: nu
+OFERTĂ S02828 v1 trimisă 2026-09-16 09:59 în m2158244 (Odoo: Comandă de vânzare): [23-001166] Debitmetru electromagnetic APLISENS - DN 80 - cu elemente separate [ modular] Te x1.0 buc
+
+--- MESAJ m2158244 | 2026-09-16 09:59 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Radu Mugurel Dan <radumugureldan@gmail.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: cerere oferta - Debitmetru electromagnetic
+Buna ziua Dl Radu,
+
+Va las anexata cotatia de pret pentru un debitmetru electromagnetic – standard, precizie 0.5% - DN 80.
+
+Debitmetru electromagnetic modular Aplisens PEM1000
+
+Cod PEM1000/NW/DN80PN16/PTFE/316L/Modbus RTU/90-260Vac/IP68/k=8m
+Senzor cu corp otel DN80 cu flanse PN16, etansari PTFE, electrozi inox 316L, grad de protectie IP68
+Transmiter cu alimentare 90-260 Vac, montaj remote cu cablu de 8m intre senzor si transmiter, carcasa aluminiu IP66, cu display LCD si butoane de configurare
+Iesiri 1 x 4-20mA, 1 x Modbus, 1 x puls / frecventa, 2 x alarme setabile, logger intern, precizie 0,5%
+
+Produsul la acest moment este in stoc furnizor si il putem livra in termen de 5-10 zile din momentul in care se face comanda si se transmite confirmarea pentru factura de avans.
+
+Asteptam cu interes raspunsul dumneavoastra!
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Radu Mugurel Dan radumugureldan@gmail.com
+Sent: Tuesday, September 15, 2026 4:25 PM
+To: sales@akro.ro
+Subject: cerere oferta
+
+Doresc sa achizitionez un debitmetru electromagnetic , pentru apa potabila,DN75,domeniul maxim de masurare 30mc/h, controller cu posibilitatea de trimitere a datelor la distanta. Multumesc
+
+Radu DAN (0721229486)
+
+Virus-free.www.avast.com
+[ATAȘAMENT: Oferta - S02828 - MILTERMIC - 16.09.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: Debitmetru-electromagnetic-PEM (2).pdf | text extras]
+
+####################################################################################################
+RÂND c2135364 (nr. 40) | stare: Fără ofertă | categorie: 21-Aparatura de analiza si control | cerere: Benzi de test cu indicatori chimici UV
+CERINȚA: Întreabă dacă AKRO are benzi de testare cu indicatori chimici UV pentru fazele de dezinfecție (bacterii, viruși) și cere ofertă și documente. [m2135364] «benzi de testare sub forma de indicatori chimici UV cu diagrama de culori corespunzatoare fazelor de dezinfectie»
+CERINȚĂ FINALĂ (altele): Fișă sau broșură și declarație de conformitate CE [m2135364] «o oferta de pret si documente (fisa sau brosura, ce aveti, decl de conformitate CE)»
+REZULTAT: AKRO nu a ofertat — AKRO nu are astfel de teste în portofoliu; recomandă Hanna Instruments. [m2135364] «Din pacate nu avem astfel de teste in portofoliul AKRO.»
+
+
+====================================================================================================
+CONVERSAȚIA c2135364 (nr. 40) | subiect: RE: cerere oferta
+Partener (după adrese): bivaria.ro Ioanela Ciubotaru | grupare nesigură: nu
+
+--- MESAJ m2135364 | 2026-07-03 16:24 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Ioanela Ciubotaru <ioanela.ciubotaru@bivaria.ro>
+Cc: office@akro.ro
+Subiect: RE: cerere oferta
+Buna ziua,
+
+Va multumim pentru solicitare!
+
+Din pacate nu avem astfel de teste in portofoliul AKRO.
+
+S-ar putea cei de la Hanna Instruments sa produca astfel de benzi.
+
+Pentru orice alte intrebari, sau informatii din domeniul tratarii apelor, vas tau la dispozitie!
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Ioanela Ciubotaru <ioanela.ciubotaru@bivaria.ro>
+Sent: Friday, July 3, 2026 3:35 PM
+To: contact@akro.ro
+Subject: cerere oferta
+
+Buna ziua,
+
+as dori sa-mi comunicati daca aveti in portofoliul dvs de produse benzi de testare sub forma de indicatori chimici UV cu diagrama de culori corespunzatoare fazelor de dezinfectie, respectiv pt bacterii si virusi.
+
+Daca da, va rog o oferta de pret si documente (fisa sau brosura, ce aveti, decl de conformitate CE)
+
+Va multumesc anticipat.
+
+--
+Cu stima/Best Regards,
+
+Ioanela Ciubotaru
+Consilier Juridic
+
+Adresa: Hunedoara, B-dul. Dacia, Nr. 28A, Romania
+Tel/Fax: 0254 740 680
+Mobil: +40 745 511 358
+Email: ioanela.ciubotaru@bivaria.ro Website: www.bivaria.ro
+
+--- MESAJ m2098756 | 2026-07-06 08:38 | Inbox | EXTERN
+De la: Ioanela Ciubotaru <ioanela.ciubotaru@bivaria.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Re: cerere oferta
+multumesc
+
+Cu
+stima/Best Regards,
+
+Ioanela
+Ciubotaru
+
+Consilier Juridic
+
+Adresa: Hunedoara,
+B-dul. Dacia, Nr. 28A, Romania
+
+Tel/Fax: 0254 740
+680
+
+Mobil: +40 745 511
+358
+
+Email: ioanela.ciubotaru@bivaria.ro
+Website: www.bivaria.ro
+
+####################################################################################################
+RÂND c2143588-3 (nr. 197.3) | stare: Fără ofertă | categorie: 21-Aparatura de analiza si control | cerere: Sistem monitorizare oxigen dizolvat
+CERINȚA: În aceeași cerere: un sistem de monitorizare și control cu 22 senzori de oxigen dizolvat și 3 controlere. [m2143588] «Senzori oxigen dizolvat: 22 bucăți»
+CERINȚĂ FINALĂ (cantitate): 22 senzori de oxigen dizolvat (ex. HACH LXV416.99.20001), 3 panouri/controlere [m2143588] «Senzori recomati : LXV416.99.20001, model HACH,sau produs similar de senzori care nu necesita calibrare.»
+CERINȚĂ FINALĂ (altele): Automatizare cu transmitere date și alarme pe telefon [m2143588] «Automatizare cu transmitere date și alarme pe telefon: 1 set»
+REZULTAT: necunoscut
+
+
+====================================================================================================
+CONVERSAȚIA c2143588 (nr. 197) | subiect: RE: cerere oferta generator de ozon
+Partener (după adrese): threepharm.ro Office Hidro | grupare nesigură: nu
+
+--- MESAJ m2143588 | 2026-07-30 10:30 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Office Hidro <office.hidro@threepharm.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: cerere oferta generator de ozon
+Buna ziua,
+
+Va informam ca din pacate pana la acest moment, nu am primit un raspuns favorabil de la WEDECO.
+
+De indata ce avem un feedback in platforma pentru cererea dumenavoastra, revenim cu noi informaiti!
+
+O zi cu spor!
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Office Hidro <office.hidro@threepharm.ro>
+Sent: Tuesday, July 21, 2026 1:39 PM
+To: sales@akro.ro
+Subject: cerere oferta generator de ozon
+
+Buna ziua,
+
+Firma AQUAFARM NIRAJ SRL urmeaza sa implementeze un proiect de infiintare a unei ferme piscicole pentru crestere intensiva a pastravalui curcubeu, in sistem RAS, finantat prin MADR.
+
+Denumirea proiectului este „ÎNFIINȚARE FERMĂ ACVACULTURĂ AQUAFARM NIRAJ SRL”.
+
+In caietul de sarcini din cadrul proiectului sunt prevazute achizitia urmatoarelor echipamente:
+
+e) Generator de oxigen – 1 bucata
+
+Capacitate: 100 l/min/bucată
+
+Rezervor 400kg
+
+Presiune iesire 3 bar
+
+Concentrație O₂: 90–95%
+
+Recomandări: uscător aer, filtru particule/ulei, rezervor tampon, supape de reținere
+
+Putere instalata: 14kw/buc
+
+Tensiune lucru:400v
+
+f) Generatoare de ozon – 1 bucața
+
+Capacitate: 80 g/h/bucată
+
+Dotat cu inst racire cu apa
+
+Concentratie de max 10% in amestec cu gaz
+
+Notă: utilizare pe circuit dedicat conform instrucțiunilor producătorului
+
+Generatorul de ozon (pe circuit dedicat) asigură oxidarea compușilor organici și favorizează coalescența particulelor fine în agregate mai mari, ce pot fi reținute eficient de filtrul mecanic. în vasul de amestec, cu măsuri de siguranță conform instrucțiunilor producătorului.
+
+g) Sistem monitorizare și control – 1 set
+
+Senzori oxigen dizolvat: 22 bucăți . Senzori recomati : LXV416.99.20001, model HACH,sau produs similar de senzori care nu necesita calibrare.
+
+Panouri/afișaje locale = 3 bucati( fiecare panou(controler) are opt iesiri pentru racordare senzor oxigen
+
+Automatizare cu transmitere date și alarme pe telefon: 1 set (logare, trenduri, praguri alarmă)
+
+Specificatii tehnice:
+
+sondele de masurare a oxigenului dizolvat sunt sonde redox( nu trebuiesc calibrate cu lichid)
+
+sistemul de monitorizare este dotat cu automatizari care permit oprirea si pornirea echipamentelor de la distanta prin comenzi online
+
+Va rog sa ne faceti o oferta de pret pentru echipamentele pe care le puteti furniza.
+
+Cu stima,
+
+Liviu Beresescu
+
+Mobile (+4) 0736.888.484
+
+Phone | Fax (+4) 0365.409.049
+
+Phone | Fax (+4) 0265.268.670
+
+Address 4th, C17/1 Evreilor Martiri street, 540545 Tirgu Mures, Romania
+
+E-mail | Web office.hidro@threepharm.ro | www.threepharm.ro

@@ -1,0 +1,92 @@
+
+####################################################################################################
+OFERTA S02469 | client: CARPATHIAN SPRINGS S.A. | trimisă: 2026-07-29 12:17 | Odoo: nu e în lista Odoo | conversații: c2143108 (nr. 192)
+
+####################################################################################################
+RÂND c2143108 (nr. 192) | stare: După vânzare | categorie: 10-Ozonatoare | cerere: Generator de ozon pentru preclătire sticle
+CERINȚA: -
+CERINȚĂ FINALĂ (aplicație): Preclătire sticle [m2143108] «Generator ozon _preclatire sticle»
+CERINȚĂ FINALĂ (tip echipament): Generator G-P30 (30 g/h) în loc de GP20, la același preț [m2143108] «am convenit cu acesta sa livram un sistem putin mai mare g-p 30 [ 30g/h]»
+CERINȚĂ FINALĂ (termen): Livrare în 2-4 săptămâni [m2143108] «livrabil in 2-4 saptamani – la acelasi pret»
+CLARIFICARE: întrebare - → răspuns AKRO anunță că GP20 are termen de 3-4 luni și livrează un G-P30 la același preț, trimițând confirmarea de comandă. [m2143108] «producatorul are un termen de livrare de 3-4 luni pentru generatorul Gp-20» | schimbare: Modelul se schimbă din GP20 în G-P30, cu livrare în 2-4 săptămâni, la același preț.
+REZULTAT: acceptată — Clientul trimite oferta S02469 confirmată drept comandă fermă. [m2143108] «Va rog sa gasiti in atasament oferta confirmata , este comanda ferma»
+PREȚURI Confirmare de comandă S02469 v1 (2026-07-29), total 32415.9 EUR:
+  [10-001080] Generator de ozon g-p30 (30 g/h). contine generator de oxigen | 1.0 buc × 26790.0 EUR | referință
+  termen: Metoda de plata: O.P. / Cash / CEC / B.O.
+  termen: Modul de livrare: DPD / TNT / Curieri rapid / In sarcina Akro / In sarcina beneficiarului
+  termen: Garantie: 12/24 luni de la livrare
+VÂNDUTĂ 2026-07-29 12:17 | lanț: fără comandă | lipsește: ['cerința clientului nu apare în emailuri', 'nicio comandă către furnizor nu e legată sigur (în Odoo sau în PDF-ul comenzii) de această vânzare']
+
+====================================================================================================
+CONVERSAȚIA c2143108 (nr. 192) | subiect: RE: Generator de ozon_Ofertă (Ref S02469)
+Partener (după adrese): valvis-holding.com Mihai Saramet | grupare nesigură: nu
+OFERTĂ S02469 v1 trimisă 2026-07-29 12:17 în m2143108 (Odoo: nu e în lista Odoo): [10-001080] Generator de ozon g-p30 (30 g/h). contine generator de oxigen x1.0 buc
+
+--- MESAJ m2143108 | 2026-07-29 12:17 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Mihai Saramet <mihai.saramet@valvis-holding.com>
+Cc: aurel.caras@akro.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Generator de ozon_Ofertă (Ref S02469)
+Buna ziua,
+
+Va multumim pentru comanda dumneavoastra!
+
+Am discutat astazi cu producatorul si am verificat timul de livrare la generator.
+
+Pentru ca la acest moment, producatorul are un termen de livrare de 3-4 luni pentru generatorul Gp-20 , am convenit cu acesta sa livram un sistem putin mai mare g-p 30 [ 30g/h] – livrabil in 2-4 saptamani – la acelasi pret .
+
+Acestea fiind spuse, va rog sa regasiti anexata confirmarea de comanda cu generatorul G-P-30.
+
+Colegul meu va reveni la dumneavoastra cu contractul si factura proforma incepand de saptamana urmatoare!
+
+O zi cu spor!
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Mihai Saramet <mihai.saramet@valvis-holding.com>
+Sent: Tuesday, July 28, 2026 1:29 PM
+To: contact@akro.ro
+Cc: Aurel CARAS - AKRO <aurel.caras@akro.ro>
+Subject: RE: Generator de ozon_Ofertă (Ref S02469)
+
+Stimati domni ,
+
+Va rog sa gasiti in atasament oferta confirmata , este comanda ferma .
+
+Multumesc .
+
+Cu stima/Best regards ,
+
+Mihail Gavril Saramet
+
++40 740 307653
+
+From: Aurel Caraș <contact@akro.ro>
+Sent: luni, 29 iunie 2026 18:07
+To: Mihai Saramet <mihai.saramet@valvis-holding.com>
+Subject: Generator de ozon_Ofertă (Ref S02469)
+
+Buna ziua Mihai Saramet (CARPATHIAN SPRINGS S.A.), Atasat regasiti oferta noastra comerciala pentru S02469 (cu referința: Generator ozon [...] ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+
+S02469
+32.415,90 €
+Expiră la 29.07.2026
+
+Buna ziua Mihai Saramet (CARPATHIAN SPRINGS S.A.),
+
+Atasat regasiti oferta noastra comerciala pentru S02469 (cu referința: Generator ozon _preclatire sticle ) în valoare de 26.790 € + TVA
+
+Am atasat brosura echipamentului din seria GP ( modelul ofertat este GP20) + Manualul echipamentului in limba romana.
+Ozonatorul G-P20 este cel mai mic generator de ozon care are inclus generator de oxigen
+
+Va rog sa ne contactati daca aveti nevoie de informatii suplimentare.
+
+Va multumesc si astept cu interes raspunsul dumneavoastra.
+
+Cu consideratie,
+Aurel CARAS
+
+AKRO SRL
+
++40 268 413 180 | contact@akro.ro | https://www.akro.ro; www.kalyxx.ro; www.spectra.ro
+
+Cu sprijinul Odoo
+[ATAȘAMENT: Comanda - S02469 - Carpathian Springs - 29.07.2026.pdf | ofertă Odoo, parsată mai sus]

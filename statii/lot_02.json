@@ -1,0 +1,411 @@
+[
+  {
+    "oferta": "S01872",
+    "statii": [
+      {
+        "tip": "Stație de clorinare sau dozare",
+        "text": "Stație de clorinare cu hipoclorit de sodiu pentru apă menajeră: pompă dozatoare TPG 603 (dozare proporțională), rezervor de 100 L, sondă de aspirație cu senzor de nivel și contor Zenner DN100 cu impuls; presetată în depozitul AKRO",
+        "src": "m2140548",
+        "citat": "Trimit anexata cotatia de pret pentru statia de clorinare"
+      }
+    ],
+    "continut": null
+  },
+  {
+    "oferta": "S02577",
+    "statii": [],
+    "continut": "Piese de schimb pentru vana unei stații de dedurizare existente (WS1 spacer stack, valvă de saramură) și deplasarea pentru înlocuire și verificarea instalației"
+  },
+  {
+    "oferta": "S02578",
+    "statii": [
+      {
+        "tip": "Filtru multistrat sau cu nisip",
+        "text": "2 filtre multimedia cu câte 200 L mediu filtrant și vană Clack CI de 1,5\", montate în paralel pentru reținerea turbidității și a substanțelor oxidate din apa de foraj",
+        "src": "m2140804",
+        "citat": "FMC 200 - Filtru multimedia, 200L mediu filtrant, vana Clack CI"
+      },
+      {
+        "tip": "Stație de dedurizare + Ecomix",
+        "text": "Stație simplex cu 200 L masă Ecomix A, racord 1,5\", care reține duritatea și restul de fier și mangan; se regenerează cu sare",
+        "src": "m2140804",
+        "citat": "FECM 200/V, Statie ecomix A - simplex, 200L mediu filtrant"
+      },
+      {
+        "tip": "Sistem UV",
+        "text": "Sistem UV VIQUA VP950, 8 m³/h, doză 40 mJ/cm², ales mai mare din cauza încărcării mari cu E. coli și coliformi",
+        "src": "m2140804",
+        "citat": "Sistem UV apa_VP 950_Debit 8 m3/h_Doza UV 40 mJ/cm2_Putere"
+      }
+    ],
+    "continut": null
+  },
+  {
+    "oferta": "email-c2140964-1",
+    "statii": [],
+    "continut": "Pompe Grundfos de alimentare (două noi și una de rezervă) cu senzori de presiune, tanc de 3 mc și execuția traseului de alimentare de 70 m spre stația de osmoză"
+  },
+  {
+    "oferta": "email-c2140964-2",
+    "statii": [
+      {
+        "tip": "Filtru multistrat sau cu nisip",
+        "text": "2 filtre cu nisip de câte 150 L, identice cu cele din linia veche, în prefiltrarea instalației de apă demineralizată de 3 mc/h",
+        "src": "m2140964",
+        "citat": "2 filtre cu nisip cu 150L fiecare – identice cu ce exista deja in vechea linie"
+      },
+      {
+        "tip": "Filtru cu cărbune activ",
+        "text": "2 filtre cu cărbune activ de câte 150 L, identice cu cele din linia veche, pentru reținerea clorului",
+        "src": "m2140964",
+        "citat": "2 filtre cu carbune cu 150L fiecare - identice cu ce exista deja in vechea linie"
+      },
+      {
+        "tip": "Stație de dedurizare + Ecomix",
+        "text": "Stație de dedurizare duplex cu 150 L rășină pe fiecare coloană, identică cu cea existentă",
+        "src": "m2140964",
+        "citat": "1 statie de dedurizare duplex cu 150L rasina pe fiecare coloana- identica cu cea existenta"
+      },
+      {
+        "tip": "Instalație de osmoză inversă",
+        "text": "Instalație de osmoză inversă ROMO-3 din inox (Ecosoft) pentru 3 mc/h apă demineralizată, cu bazin de stocare PAFS de 10 mc",
+        "src": "m2140964",
+        "citat": "1 instalatie de osmoza – ROMO-3-inox"
+      },
+      {
+        "tip": "Sistem UV",
+        "text": "2 sisteme UV VIQUA VH 410, la fel ca cele existente",
+        "src": "m2140964",
+        "citat": "2 sisteme UV VIQUA VH 410 [la fel ca cele existente]"
+      }
+    ],
+    "continut": null
+  },
+  {
+    "oferta": "email-c2104804",
+    "statii": [
+      {
+        "tip": "Stație de clorinare sau dozare",
+        "text": "Ofertă de bugetare: filtrare și clorinare pentru 12 mc/h la sursa Stadion (aprox. 1500 EUR fără TVA); în varianta Moara Arsă, o clorinare generală după osmoză",
+        "src": "m2141060",
+        "citat": "Buget pentru filtru + clorinare 12 mc/h – aproximativ 1500 euro fara TVA"
+      },
+      {
+        "tip": "Stație de dedurizare + Ecomix",
+        "text": "Variante de bugetare: stație de dedurizare duplex cu 200 L rășină și vane de 1,5\" pe 1/3 din debit la sursa Stadion (aprox. 6500 EUR); în fluxul cu osmoză de la Moara Arsă, o stație duplex de 600 L",
+        "src": "m2141060",
+        "citat": "mai trebuie montata in paralel o statie de 200L rasina duplex"
+      },
+      {
+        "tip": "Filtru multistrat sau cu nisip",
+        "text": "2 filtre multimedia de 400 L în fluxul cu osmoză pentru sursa Moara Arsă (buget total aprox. 59.000 EUR)",
+        "src": "m2141060",
+        "citat": "flux ce include: 2 filtre multimedia 400L"
+      },
+      {
+        "tip": "Instalație de osmoză inversă",
+        "text": "Stație de osmoză inversă de 6 mc/h pentru sursa Moara Arsă, cu amestec cu apă brută filtrată până la 12 mc/h apă potabilă",
+        "src": "m2141060",
+        "citat": "O statie de osmoza 6mc/h"
+      }
+    ],
+    "continut": null
+  },
+  {
+    "oferta": "S02584",
+    "statii": [],
+    "continut": "O pompă dozatoare APG603 de schimb pentru stația de clorinare existentă, cu montaj și punere în funcțiune"
+  },
+  {
+    "oferta": "S02586",
+    "statii": [],
+    "continut": "60 de saci de sare tablete pentru dedurizare (25 kg), facturați pe iulie"
+  },
+  {
+    "oferta": "S02587",
+    "statii": [],
+    "continut": "60 de saci de sare tablete pentru dedurizare (25 kg), facturați pe august"
+  },
+  {
+    "oferta": "S02590",
+    "statii": [],
+    "continut": "Saci filtranți Cleanova WE5P și WE10P (5 și 10 microni), câte 40 de bucăți, pentru filtrarea uleiului de motor"
+  },
+  {
+    "oferta": "S02592",
+    "statii": [
+      {
+        "tip": "Stație de clorinare sau dozare",
+        "text": "Stație de clorinare automată pentru 14 m³/h: panou K800 cu sondă de clor liber 0-2 ppm care comandă pompa dozatoare TPG 603, rezervor de 100 L, lance de aspirație cu senzor de nivel și supapă multifuncțională; fără montaj și hipoclorit",
+        "src": "m2141796",
+        "citat": "Panou K800 (KPW05PM00000) cu sonda de clor liber anorganic"
+      }
+    ],
+    "continut": null
+  },
+  {
+    "oferta": "S02571",
+    "statii": [
+      {
+        "tip": "Stație de clorinare sau dozare",
+        "text": "Stație de clorinare SEKO pentru recircularea bazinului (30 m³/h): pompă TPG 603, rezervor de 100 L, lance cu senzor de nivel, panou K800 pentru pH/clor și senzor de clor liber FCL5",
+        "src": "m2105700",
+        "citat": "Panou K800 model KPS06PM00000, pentru pH/Clor liber"
+      },
+      {
+        "tip": "Sistem UV",
+        "text": "Sistem UV SITA din inox 316L pentru spital; versiunea inițială UV 80/3 PLUS de 20 m³/h, apoi varianta cu 4 lămpi UV 80/4 RACK LCD PLUS de 30 m³/h, cu protecție la apă caldă",
+        "src": "m2105700",
+        "citat": "Sistem UV apa_UV 80/4 RACK LCD PLUS - 316 RM_Debit 30"
+      }
+    ],
+    "continut": null
+  },
+  {
+    "oferta": "S02594",
+    "statii": [],
+    "continut": "Seturi de membrane filtrante de 1, 5, 10 și 25 microni pentru filtrul NW500"
+  },
+  {
+    "oferta": "S02596",
+    "statii": [],
+    "continut": "O teacă de cuarț de schimb pentru sistemul UV existent, cu două garnituri O-ring gratuite"
+  },
+  {
+    "oferta": "email-c2138884-1",
+    "statii": [],
+    "continut": "28,5 t de cărbune activ granular Sorbotech LG 85, în granulația standard sau în sort special, pentru o stație de tratare a apei potabile"
+  },
+  {
+    "oferta": "email-c2142852",
+    "statii": [],
+    "continut": "Soluție de dezincrustare Boiler Cleaner pulbere, găleată de 10 kg (pompa cerută nu mai e în portofoliu)"
+  },
+  {
+    "oferta": "S02607",
+    "statii": [],
+    "continut": "Intervenție de service: verificarea și curățarea capetelor de vană la stația de dedurizare Frasinu"
+  },
+  {
+    "oferta": "S02469",
+    "statii": [
+      {
+        "tip": "Generator de ozon",
+        "text": "Generator de ozon G-P30 de 30 g/h cu generator de oxigen inclus, pentru preclătirea sticlelor; ofertat inițial ca G-P20, înlocuit la același preț din cauza termenului de livrare",
+        "src": "m2143108",
+        "citat": "Generator de ozon g-p30 (30 g/h). contine generator de oxigen"
+      }
+    ],
+    "continut": null
+  },
+  {
+    "oferta": "S02610",
+    "statii": [],
+    "continut": "2.300 kg de nisip cuarțos în trei granulații, cu livrare la Moara (Suceava)"
+  },
+  {
+    "oferta": "S02611",
+    "statii": [],
+    "continut": "2.300 kg de nisip cuarțos în trei granulații, cu livrare la Dobroești"
+  },
+  {
+    "oferta": "S02613",
+    "statii": [
+      {
+        "tip": "Stație de dedurizare + Ecomix",
+        "text": "Stație de dedurizare duplex alternantă cu 450 L rășină pe fiecare coloană, vană Clack CI de 2\", cu filtru de impurități NW500 în amonte; livrată cu vanele setate",
+        "src": "m2144516",
+        "citat": "DEC 450-2/duplex, Statie dedurizare - duplex, racord 2\", 450L rasina pe"
+      }
+    ],
+    "continut": null
+  },
+  {
+    "oferta": "S02616",
+    "statii": [],
+    "continut": "500 kg de cărbune activ pudră Sorbotech LPW 90 pentru o instalație de dozare existentă"
+  },
+  {
+    "oferta": "S02630",
+    "statii": [],
+    "continut": "Rășină de dedurizare PC003 (100 L), nisip cuarțos (50 kg) și manopera de înlocuire la o coloană existentă"
+  },
+  {
+    "oferta": "email-c2144964",
+    "statii": [],
+    "continut": "Nisip cuarțos în saci de 25 kg sau în big bag, cu preț pe tonă dat în email"
+  },
+  {
+    "oferta": "S02634",
+    "statii": [
+      {
+        "tip": "Stație de clorinare sau dozare",
+        "text": "Sistem de clorinare pentru corectarea clorului pe recircularea unui bazin: panou K800 cu senzor de clor liber, pompă TPG 603 și rezervor de 50 L",
+        "src": "m2145540",
+        "citat": "1 sistem de clorinare – pentru corectare nivel de clor in apa – pe recircularea unui bazin"
+      },
+      {
+        "tip": "Sistem UV",
+        "text": "Sistem UV SITA DN80 cu 4 lămpi de 80 W, 30 m³/h, cu protecție la supraîncălzire (poate lucra cu apă caldă)",
+        "src": "m2145540",
+        "citat": "1 sistem UV – DN 80 – producator SITA – Italia – 4 lampi x 80 W"
+      },
+      {
+        "tip": "Sistem UV",
+        "text": "Sistem UV SITA DN50 cu 3 lămpi de 80 W, 20 m³/h, cu protecție la supraîncălzire",
+        "src": "m2145540",
+        "citat": "1 sistem UV – DN 50 – producator SITA – Italia – 3 lampi x 80 W"
+      }
+    ],
+    "continut": null
+  },
+  {
+    "oferta": "S02637",
+    "statii": [
+      {
+        "tip": "Generator de ozon",
+        "text": "Generator de ozon G-P60 de 60 g/h cu generator de oxigen inclus, pentru tratarea apei tehnologice",
+        "src": "m2109540",
+        "citat": "Generator de ozon g-p60 (60 g/h). contine generator de oxigen"
+      }
+    ],
+    "continut": null
+  },
+  {
+    "oferta": "S02640",
+    "statii": [],
+    "continut": "Distribuitoare superioare și inferioare, nisip cuarțos și manoperă pentru o stație de dedurizare duplex existentă; rășina e propusă în patru variante cu preț în email"
+  },
+  {
+    "oferta": "S02643",
+    "statii": [
+      {
+        "tip": "Sistem UV",
+        "text": "Sistem UV VIQUA VH200, 1,6 m³/h, montat după o carcasă filtrantă duplex cu cartușe, pe ieșirea din bazinul de stocare",
+        "src": "m2146148",
+        "citat": "Sistem UV apa_VIQUA VH200_Debit 1,6 m3/h_Doza UV"
+      }
+    ],
+    "continut": null
+  },
+  {
+    "oferta": "S02724",
+    "statii": [
+      {
+        "tip": "Sistem UV",
+        "text": "Variantă alternativă cu sistem UV SITA 405C AL2, 1,8 m³/h, montat după o carcasă filtrantă duplex cu cartușe",
+        "src": "m2152388",
+        "citat": "Sistem UV apa_405C AL2_Debit 1,8 m3/h_Doza UV"
+      }
+    ],
+    "continut": null
+  },
+  {
+    "oferta": "S02644",
+    "statii": [
+      {
+        "tip": "Stație de dedurizare + Ecomix",
+        "text": "Stație de dedurizare duplex alternantă BS3200D2/RV cu 800 L rășină pe fiecare coloană, skid de vane electrice și 2 rezervoare de sare, cu 3 filtre mecanice autocurățitoare FTA 180/E în amonte; cu montaj și PIF; versiune revizuită cu 2% reducere",
+        "src": "m2146180",
+        "citat": "Duplex softener BS3200D2/RV - unit with 800L resin/each tank"
+      }
+    ],
+    "continut": null
+  },
+  {
+    "oferta": "S02647",
+    "statii": [
+      {
+        "tip": "Stație de clorinare sau dozare",
+        "text": "Instalație de clorinare cu hipoclorit de sodiu, fără container: pompă dozatoare TPG 803, contor Zenner DN150 cu generator de impuls și rezervor de 100 L",
+        "src": "m2146564",
+        "citat": "oferta noastra de pret pentru instalatia de clorinare cu hipoclorit de sodiu"
+      }
+    ],
+    "continut": null
+  },
+  {
+    "oferta": "S02651",
+    "statii": [
+      {
+        "tip": "Sistem UV",
+        "text": "Sistem UV SITA 80/2 RACK LCD PLUS in-line, 12 m³/h, racord 2\", cu senzor UV, după 2 carcase multicartuș din inox, pentru o linie de îmbuteliere apă de izvor",
+        "src": "m2147108",
+        "citat": "Sistem UV apa_80/2 RACK LCD PLUS_Debit 12 m3/h_Doza UV 40"
+      }
+    ],
+    "continut": null
+  },
+  {
+    "oferta": "S02654",
+    "statii": [],
+    "continut": "Un palet (40 de saci) de sare tablete pentru dedurizare"
+  },
+  {
+    "oferta": "S02655",
+    "statii": [],
+    "continut": "Un contor Zenner DN100 cu modul EDC"
+  },
+  {
+    "oferta": "S02656",
+    "statii": [],
+    "continut": "Crepine Nobel, nisip cuarțos, antracit și manopera de înlocuire a masei filtrante la două filtre existente"
+  },
+  {
+    "oferta": "email-c2111076",
+    "statii": [
+      {
+        "tip": "Stație de clorinare sau dozare",
+        "text": "Clorinare la intrare (filtru Y cu clorinare SEKO) și clorinare finală SEKO, în fluxul pentru apa din puț forat; prețuri nete de buget",
+        "src": "m2147748",
+        "citat": "Filtru mecanic Y + clorinare recondi +seko– net 1100 euro"
+      },
+      {
+        "tip": "Filtru de deferizare și demanganizare",
+        "text": "3 filtre cu Pyrolux 4272 pe skid Euroclear, pentru fier și mangan",
+        "src": "m2147748",
+        "citat": "3 filtre pyrolux 4272 cu skid Euroclear – net 15500 euro"
+      },
+      {
+        "tip": "Filtru cu cărbune activ",
+        "text": "3 filtre cu cărbune 4872 pe skid Euroclear",
+        "src": "m2147748",
+        "citat": "3 filtre carbune 4872 cu skid – Euroclear – net 15000 euro"
+      },
+      {
+        "tip": "Instalație de osmoză inversă",
+        "text": "Stație de osmoză inversă Ecosoft de 12 mc/h cu 12 membrane, dozator de antiscalant și by-pass pentru mixare",
+        "src": "m2147748",
+        "citat": "Statie de osmoza de 12 mc/h [ecosoft] – 28500 euro"
+      }
+    ],
+    "continut": null
+  },
+  {
+    "oferta": "S02662",
+    "statii": [],
+    "continut": "Înlocuirea masei filtrante (mixed bed) în 6 butelii Gewapur de 25 L, cu transport"
+  },
+  {
+    "oferta": "S02664",
+    "statii": [],
+    "continut": "Cartușe filtrante Starfine SFM1K1A1S și cartușe cu cărbune activ CA-SE-10-SX"
+  },
+  {
+    "oferta": "S02667",
+    "statii": [],
+    "continut": "Intervenție de service pentru verificarea și repornirea stației de clorinare de la UM Teișani"
+  },
+  {
+    "oferta": "S02668",
+    "statii": [
+      {
+        "tip": "Stație de clorinare sau dozare",
+        "text": "Stație de clorinare volumetrică pe 2\": pompă dozatoare TPG 603, rezervor de 50 L și contor de 2\" cu generator de impuls, pe aducțiunea unui bazin de 100 mc; cu filtru de impurități NW500 în amonte",
+        "src": "m2148708",
+        "citat": "O statie de clorinare pe 2” volumetrica compusa din:"
+      }
+    ],
+    "continut": null
+  }
+]

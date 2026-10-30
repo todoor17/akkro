@@ -1,0 +1,1071 @@
+[
+  {
+    "termen": "AKRO",
+    "forme": [
+      "AKRO"
+    ],
+    "exact": true,
+    "explicatie": "AKRO SRL din Brașov, firma care vinde echipamentele și trimite ofertele (mărcile Akro Filtrare, Spectra, KalyxX)."
+  },
+  {
+    "termen": "Odoo",
+    "forme": [
+      "Odoo"
+    ],
+    "explicatie": "Programul în care AKRO ține produsele și din care generează ofertele, confirmările de comandă și proformele în PDF."
+  },
+  {
+    "termen": "Referință internă",
+    "forme": [
+      "Referință internă",
+      "Referinta interna"
+    ],
+    "explicatie": "Codul produsului în nomenclatorul AKRO, de forma 13-001285. Primele două cifre sunt categoria."
+  },
+  {
+    "termen": "proformă",
+    "forme": [
+      "proform[aăe]\\w*"
+    ],
+    "explicatie": "Factură de avans: AKRO o trimite ca clientul să plătească înainte de livrare."
+  },
+  {
+    "termen": "confirmare de comandă",
+    "forme": [
+      "confirmare de comand[aă]",
+      "confirmarea de comand[aă]",
+      "confirm[aă]ri de comand[aă]"
+    ],
+    "explicatie": "Documentul Odoo prin care AKRO confirmă că a primit comanda clientului, cu produsele și prețurile."
+  },
+  {
+    "termen": "cotație",
+    "forme": [
+      "cota[tț]i[ae]\\w*",
+      "cotează",
+      "coteaza",
+      "cotat[aă]?"
+    ],
+    "explicatie": "Ofertă de preț."
+  },
+  {
+    "termen": "O.P.",
+    "forme": [
+      "O\\.P\\.?"
+    ],
+    "exact": true,
+    "explicatie": "Ordin de plată: plata prin transfer bancar."
+  },
+  {
+    "termen": "avans",
+    "forme": [
+      "avans\\w*"
+    ],
+    "explicatie": "Partea din preț pe care clientul o plătește înainte de livrare."
+  },
+  {
+    "termen": "la gata de livrare",
+    "forme": [
+      "la gata de livrare"
+    ],
+    "explicatie": "Restul plății se face când marfa e pregătită de plecare, înainte de a fi trimisă."
+  },
+  {
+    "termen": "TVA",
+    "forme": [
+      "TVA"
+    ],
+    "exact": true,
+    "explicatie": "Taxa pe valoarea adăugată. Prețurile din oferte sunt de obicei fără TVA."
+  },
+  {
+    "termen": "EXW",
+    "forme": [
+      "EXW"
+    ],
+    "exact": true,
+    "explicatie": "Ex Works: marfa se ridică de client de la depozitul vânzătorului; transportul e al clientului."
+  },
+  {
+    "termen": "Pallex",
+    "forme": [
+      "Pallex",
+      "pallex"
+    ],
+    "explicatie": "Firmă de transport pentru marfă pe paleți, folosită de AKRO pentru livrări."
+  },
+  {
+    "termen": "TIR",
+    "forme": [
+      "TIR"
+    ],
+    "exact": true,
+    "explicatie": "Camion mare de marfă. La livrări în vrac, locul de descărcare trebuie să permită accesul lui."
+  },
+  {
+    "termen": "big bag",
+    "forme": [
+      "big ?bag\\w*"
+    ],
+    "explicatie": "Sac mare de rafie pentru materiale în vrac (nisip, cărbune, zeolit), de obicei între 500 și 1.200 kg."
+  },
+  {
+    "termen": "licitație",
+    "forme": [
+      "licita[tț]i[ae]\\w*"
+    ],
+    "explicatie": "Achiziție (publică sau privată) în care mai mulți furnizori fac oferte după aceleași cerințe scrise."
+  },
+  {
+    "termen": "caiet de sarcini",
+    "forme": [
+      "caiet(?:ul)? de sarcini",
+      "caietul de sarcini"
+    ],
+    "explicatie": "Documentul unei licitații în care cumpărătorul scrie exact ce echipament vrea și cu ce caracteristici."
+  },
+  {
+    "termen": "fișă tehnică de corespondență",
+    "forme": [
+      "fi[sș][aă] tehnic[aă] de coresponden[tț][aă]",
+      "fi[sș]e tehnice F5",
+      "F5-\\d+",
+      "fi[sș]a F5"
+    ],
+    "explicatie": "Formular de licitație în care furnizorul scrie, rând cu rând, ce oferă față de fiecare cerință (inclusiv unde nu respectă cerința)."
+  },
+  {
+    "termen": "abatere",
+    "forme": [
+      "abateri\\w*",
+      "abaterea",
+      "abatere"
+    ],
+    "explicatie": "Diferență între ce cere clientul (de obicei într-o licitație) și ce poate oferi AKRO."
+  },
+  {
+    "termen": "SEAP / SICAP",
+    "forme": [
+      "SEAP",
+      "SICAP"
+    ],
+    "exact": true,
+    "explicatie": "Platforma online de achiziții publice din România. Instituțiile publice cumpără de acolo, așa că AKRO publică produsul ofertat în catalogul ei."
+  },
+  {
+    "termen": "fișă tehnică",
+    "forme": [
+      "fi[sș][aăe] tehnic[aăe]",
+      "fi[sș]ele tehnice",
+      "fi[sș]a tehnic[aă]"
+    ],
+    "explicatie": "Documentul producătorului care descrie produsul: la ce folosește, caracteristici, dimensiuni, mod de folosire."
+  },
+  {
+    "termen": "fișă de securitate",
+    "forme": [
+      "fi[sș][aăe] de securitate",
+      "fi[sș]ele de securitate",
+      "SDS",
+      "MSDS"
+    ],
+    "explicatie": "Documentul obligatoriu pentru produsele chimice: ce riscuri au și cum se manipulează, depozitează și transportă în siguranță."
+  },
+  {
+    "termen": "aviz sanitar",
+    "forme": [
+      "aviz(?:ul)? sanitar\\w*",
+      "certificat(?:ul)? sanitar"
+    ],
+    "explicatie": "Aprobarea autorităților de sănătate că un produs poate fi folosit în contact cu apa potabilă."
+  },
+  {
+    "termen": "MS",
+    "forme": [
+      "MS"
+    ],
+    "exact": true,
+    "explicatie": "Ministerul Sănătății, care emite avizele sanitare."
+  },
+  {
+    "termen": "declarație de conformitate",
+    "forme": [
+      "declara[tț]i[ae]\\w* de conformitate"
+    ],
+    "explicatie": "Documentul prin care producătorul declară că produsul respectă normele europene care i se aplică."
+  },
+  {
+    "termen": "ATEX",
+    "forme": [
+      "ATEX"
+    ],
+    "exact": true,
+    "explicatie": "Certificare pentru echipamente care pot funcționa în medii cu risc de explozie."
+  },
+  {
+    "termen": "garanție extinsă",
+    "forme": [
+      "garan[tț]i[ae] extins[aă]",
+      "extragaran[tț]i[ae]"
+    ],
+    "explicatie": "Garanție mai lungă decât cea standard, pe care AKRO o oferă contra cost."
+  },
+  {
+    "termen": "PIF",
+    "forme": [
+      "PIF(?:-ul)?"
+    ],
+    "exact": true,
+    "explicatie": "Punere în funcțiune: tehnicianul pornește echipamentul la client, îl reglează și verifică că merge."
+  },
+  {
+    "termen": "PV",
+    "forme": [
+      "PV",
+      "proces(?:ul)? verbal"
+    ],
+    "explicatie": "Proces verbal: documentul semnat la final de intervenție, cu ce s-a făcut și ce s-a constatat."
+  },
+  {
+    "termen": "copie CI",
+    "forme": [
+      "copi[ae] (?:a )?CI"
+    ],
+    "exact": true,
+    "explicatie": "Copia cărții de identitate a tehnicianului, cerută de unii clienți ca să-l lase în incintă."
+  },
+  {
+    "termen": "CUI",
+    "forme": [
+      "CUI"
+    ],
+    "exact": true,
+    "explicatie": "Codul fiscal al firmei, necesar ca să se emită oferta oficială pe numele ei."
+  },
+  {
+    "termen": "EHS",
+    "forme": [
+      "EHS"
+    ],
+    "exact": true,
+    "explicatie": "Environment, Health and Safety: regulile de mediu, sănătate și securitate ale clientului pentru cei care lucrează pe șantierul lui."
+  },
+  {
+    "termen": "HVAC",
+    "forme": [
+      "HVAC"
+    ],
+    "exact": true,
+    "explicatie": "Instalațiile de încălzire, ventilație și aer condiționat ale unei clădiri."
+  },
+  {
+    "termen": "debit",
+    "forme": [
+      "debit(?:ul|e|ele)?"
+    ],
+    "explicatie": "Câtă apă trece prin instalație într-un timp dat, de obicei în metri cubi pe oră (mc/h)."
+  },
+  {
+    "termen": "mc/h, m³/h",
+    "forme": [
+      "mc/h",
+      "m³/h",
+      "mc/zi"
+    ],
+    "exact": true,
+    "explicatie": "Metri cubi pe oră (sau pe zi). 1 mc = 1.000 de litri."
+  },
+  {
+    "termen": "L/h",
+    "forme": [
+      "[lL]/h"
+    ],
+    "exact": true,
+    "explicatie": "Litri pe oră. La pompele dozatoare: câți litri de soluție poate pompa pe oră."
+  },
+  {
+    "termen": "racord",
+    "forme": [
+      "racord\\w*"
+    ],
+    "explicatie": "Diametrul legăturii la țeavă, în țoli (de ex. 1\", 2\") sau ca DN."
+  },
+  {
+    "termen": "DN",
+    "forme": [
+      "DN ?\\d*"
+    ],
+    "exact": true,
+    "explicatie": "Diametru nominal al țevii, în milimetri: DN80 înseamnă o țeavă de aproximativ 80 mm."
+  },
+  {
+    "termen": "PN16",
+    "forme": [
+      "PN ?\\d+"
+    ],
+    "exact": true,
+    "explicatie": "Presiunea nominală: PN16 înseamnă că piesa rezistă la 16 bar."
+  },
+  {
+    "termen": "bar",
+    "forme": [
+      "bar"
+    ],
+    "exact": true,
+    "explicatie": "Unitate de presiune (1 bar e aproximativ presiunea aerului la nivelul mării)."
+  },
+  {
+    "termen": "duritate",
+    "forme": [
+      "duritat\\w*",
+      "ap[aă] dur[aă]"
+    ],
+    "explicatie": "Cât calciu și magneziu are apa. Apa dură depune calcar în țevi și echipamente."
+  },
+  {
+    "termen": "dedurizare",
+    "forme": [
+      "dedurizar\\w*",
+      "dedurizator\\w*"
+    ],
+    "explicatie": "Scoaterea calcarului (durității) din apă, de obicei cu o stație cu rășină."
+  },
+  {
+    "termen": "rășină",
+    "forme": [
+      "r[aă][sș]in[aăi]\\w*"
+    ],
+    "explicatie": "Granule care rețin din apă calciul și magneziul (la dedurizare) sau alte substanțe. Se curăță periodic (regenerare)."
+  },
+  {
+    "termen": "regenerare",
+    "forme": [
+      "regener\\w*"
+    ],
+    "explicatie": "Spălarea automată a rășinii cu apă sărată, ca să poată reține iar calcarul. Consumă sare și apă."
+  },
+  {
+    "termen": "simplex / duplex / triplex",
+    "forme": [
+      "simplex",
+      "duplex",
+      "triplex"
+    ],
+    "explicatie": "Stație cu una, două sau trei coloane. La duplex, cât timp o coloană se regenerează, cealaltă dă apă, deci apa tratată nu se oprește."
+  },
+  {
+    "termen": "alternant",
+    "forme": [
+      "alternant\\w*"
+    ],
+    "explicatie": "Stație duplex în care coloanele lucrează pe rând: una dă apă, cealaltă stă în rezervă sau se regenerează."
+  },
+  {
+    "termen": "twin",
+    "forme": [
+      "twin"
+    ],
+    "explicatie": "Stație duplex mică, cu două coloane comandate de o singură vană."
+  },
+  {
+    "termen": "vană (Clack, Runxin)",
+    "forme": [
+      "van[aăe] Clack",
+      "Clack",
+      "Runxin",
+      "RUNXIN"
+    ],
+    "explicatie": "Vana automată de pe capul coloanei, care comandă filtrarea și spălarea. Clack și Runxin sunt producători de astfel de vane."
+  },
+  {
+    "termen": "DEC",
+    "forme": [
+      "DEC"
+    ],
+    "exact": true,
+    "explicatie": "Numele stațiilor de dedurizare AKRO din nomenclator. Numărul arată litrii de rășină (DEC 75 = 75 L), iar /V sau /duplex tipul stației."
+  },
+  {
+    "termen": "NHWBP",
+    "forme": [
+      "NHWBP"
+    ],
+    "exact": true,
+    "explicatie": "No Hard Water By-Pass: vană Clack care nu lasă apa netratată (dură) să treacă spre consumator cât timp stația se regenerează."
+  },
+  {
+    "termen": "by-pass",
+    "forme": [
+      "by-?pass\\w*"
+    ],
+    "explicatie": "Ocolire: o parte din apă trece pe lângă echipament, netratată, și se amestecă apoi cu apa tratată."
+  },
+  {
+    "termen": "Ecomix",
+    "forme": [
+      "[Ee]comix",
+      "FECM"
+    ],
+    "explicatie": "Masă filtrantă care scoate în același timp duritatea, fierul, manganul și amoniul; stațiile AKRO cu ea se numesc FECM."
+  },
+  {
+    "termen": "filtru multistrat / multimedia",
+    "forme": [
+      "multistrat",
+      "multimedia"
+    ],
+    "explicatie": "Filtru umplut cu mai multe straturi de materiale (nisip de diferite mărimi, antracit etc.) care rețin impuritățile din apă."
+  },
+  {
+    "termen": "masă filtrantă",
+    "forme": [
+      "mas[aăe] filtrant[aăe]",
+      "mediu filtrant",
+      "medii filtrante",
+      "mase filtrante"
+    ],
+    "explicatie": "Materialul cu care e umplut un filtru: nisip, cărbune activ, rășină, zeolit etc. Se consumă și se înlocuiește periodic."
+  },
+  {
+    "termen": "nisip cuarțos",
+    "forme": [
+      "nisip\\w* cuar[tț]os\\w*"
+    ],
+    "explicatie": "Nisip de cuarț sortat pe mărimi ale granulelor (granulații), folosit ca masă filtrantă."
+  },
+  {
+    "termen": "granulație",
+    "forme": [
+      "granula[tț]i\\w*",
+      "sort(?:uri|ul)?"
+    ],
+    "explicatie": "Mărimea granulelor unui material filtrant, de ex. 0,4–0,8 mm."
+  },
+  {
+    "termen": "antracit",
+    "forme": [
+      "antracit\\w*"
+    ],
+    "explicatie": "Cărbune natural folosit ca strat într-un filtru cu mai multe straturi."
+  },
+  {
+    "termen": "zeolit",
+    "forme": [
+      "zeolit\\w*"
+    ],
+    "explicatie": "Mineral natural folosit ca masă filtrantă (reține amoniu și particule fine)."
+  },
+  {
+    "termen": "cărbune activ",
+    "forme": [
+      "c[aă]rbune\\w* activ\\w*",
+      "CAG",
+      "GAC"
+    ],
+    "explicatie": "Cărbune tratat ca să rețină clorul, mirosurile, gustul și unele substanțe organice. Granular = CAG; pudră = se dozează în apă."
+  },
+  {
+    "termen": "număr de iod",
+    "forme": [
+      "num[aă]r(?:ul)? de iod",
+      "indice de iod"
+    ],
+    "explicatie": "Arată cât de mult poate reține cărbunele activ; cu cât e mai mare, cu atât cărbunele e mai eficient."
+  },
+  {
+    "termen": "bituminos / din coajă de cocos",
+    "forme": [
+      "bitumin\\w*",
+      "cocos"
+    ],
+    "explicatie": "Din ce e făcut cărbunele activ: din cărbune de pământ (bituminos) sau din coajă de nucă de cocos."
+  },
+  {
+    "termen": "LG85, LG95",
+    "forme": [
+      "LG ?8\\d",
+      "LG ?9\\d",
+      "LGCO ?\\d+"
+    ],
+    "exact": true,
+    "explicatie": "Tipuri de cărbune activ granular Sorbotech vândute de AKRO."
+  },
+  {
+    "termen": "Pyrolox / Pyrolux",
+    "forme": [
+      "Pyrolo?u?x\\w*"
+    ],
+    "explicatie": "Masă filtrantă din dioxid de mangan care scoate fierul și manganul din apă."
+  },
+  {
+    "termen": "Turbidex",
+    "forme": [
+      "Turbidex"
+    ],
+    "explicatie": "Masă filtrantă fină care reține particulele ce fac apa tulbure."
+  },
+  {
+    "termen": "crepine",
+    "forme": [
+      "crepin\\w*"
+    ],
+    "explicatie": "Piese mici cu fante, montate la baza filtrului: lasă apa să treacă, dar opresc nisipul. NOBEL e un model."
+  },
+  {
+    "termen": "deferizare / demanganizare",
+    "forme": [
+      "deferizar\\w*",
+      "demanganizar\\w*"
+    ],
+    "explicatie": "Scoaterea fierului, respectiv a manganului, din apă (de obicei din apa de fântână sau de foraj)."
+  },
+  {
+    "termen": "Fe, Mn, H2S",
+    "forme": [
+      "Fe/Mn",
+      "Fe",
+      "Mn",
+      "H2S",
+      "MnO2"
+    ],
+    "exact": true,
+    "explicatie": "Fier, mangan și hidrogen sulfurat (miros de ou stricat): substanțe din apa de foraj pe care filtrele le scot. MnO2 = dioxid de mangan."
+  },
+  {
+    "termen": "turbiditate",
+    "forme": [
+      "turbid\\w*"
+    ],
+    "explicatie": "Cât de tulbure e apa din cauza particulelor în suspensie."
+  },
+  {
+    "termen": "conductivitate",
+    "forme": [
+      "conductivit\\w*",
+      "conductivmetru"
+    ],
+    "explicatie": "Arată câte săruri dizolvate are apa; o apă foarte pură (demineralizată) are conductivitate foarte mică."
+  },
+  {
+    "termen": "buletin de analize",
+    "forme": [
+      "buletin\\w*(?: de analiz\\w*)?",
+      "analiza apei"
+    ],
+    "explicatie": "Rezultatele de laborator pentru o probă de apă (fier, duritate, bacterii etc.). Pe baza lor se alege tratarea."
+  },
+  {
+    "termen": "foraj, puț",
+    "forme": [
+      "foraj\\w*",
+      "pu[tț]ul\\w*",
+      "puț"
+    ],
+    "explicatie": "Sursă proprie de apă din pământ. Apa de foraj are adesea fier, mangan sau tulbureală."
+  },
+  {
+    "termen": "osmoză inversă",
+    "forme": [
+      "osmoz\\w*"
+    ],
+    "explicatie": "Tratare prin membrane foarte fine care scot aproape toate sărurile din apă. Se folosește pentru apă demineralizată sau foarte pură."
+  },
+  {
+    "termen": "membrană",
+    "forme": [
+      "membran\\w*"
+    ],
+    "explicatie": "Elementul filtrant al osmozei; se uzează și se înlocuiește periodic."
+  },
+  {
+    "termen": "antiscalant",
+    "forme": [
+      "antiscalant\\w*"
+    ],
+    "explicatie": "Produs chimic dozat înaintea osmozei, ca să nu se depună calcar pe membrane."
+  },
+  {
+    "termen": "dezincrustant",
+    "forme": [
+      "dezincrustant\\w*"
+    ],
+    "explicatie": "Produs chimic care curăță depunerile de calcar din echipamente."
+  },
+  {
+    "termen": "demineralizare",
+    "forme": [
+      "demineraliz\\w*"
+    ],
+    "explicatie": "Scoaterea aproape completă a sărurilor din apă (de exemplu pentru laboratoare sau procese industriale)."
+  },
+  {
+    "termen": "pat mixt (mixed bed)",
+    "forme": [
+      "pat mixt",
+      "[Mm]ixed [Bb]ed"
+    ],
+    "explicatie": "Butelie cu un amestec de două rășini care scoate și ultimele urme de săruri; dă apă foarte pură."
+  },
+  {
+    "termen": "butelie",
+    "forme": [
+      "buteli\\w*"
+    ],
+    "explicatie": "Recipient cilindric umplut cu rășină sau masă filtrantă; când rășina se epuizează, butelia se reîncarcă."
+  },
+  {
+    "termen": "clorinare",
+    "forme": [
+      "clorin\\w*",
+      "clor(?:ul)?"
+    ],
+    "explicatie": "Dezinfectarea apei prin dozarea unei cantități mici de clor (de obicei hipoclorit de sodiu)."
+  },
+  {
+    "termen": "hipoclorit",
+    "forme": [
+      "hipoclorit\\w*"
+    ],
+    "explicatie": "Soluție de clor (asemănătoare cu clorul de uz casnic) folosită la dezinfectarea apei."
+  },
+  {
+    "termen": "clor liber / rezidual",
+    "forme": [
+      "clor(?:ul)? (?:liber|rezidual)"
+    ],
+    "explicatie": "Clorul rămas în apă după dezinfectare; se măsoară ca să știi dacă apa e încă protejată."
+  },
+  {
+    "termen": "pompă dozatoare",
+    "forme": [
+      "pomp[aăe] dozato\\w*",
+      "pompe dozato\\w*",
+      "dozar\\w*",
+      "dozat\\w*",
+      "doz[aă]"
+    ],
+    "explicatie": "Pompă mică ce adaugă în apă o cantitate exactă de produs chimic (clor, antiscalant etc.)."
+  },
+  {
+    "termen": "SEKO (TPG, AKL, APG, MS1)",
+    "forme": [
+      "SEKO",
+      "TPG ?\\d*",
+      "AKL ?\\d*",
+      "APG ?\\d*",
+      "MS1"
+    ],
+    "exact": true,
+    "explicatie": "SEKO e producătorul pompelor dozatoare vândute de AKRO; TPG, AKL, APG și MS1 sunt modele de pompe SEKO."
+  },
+  {
+    "termen": "dozare proporțională",
+    "forme": [
+      "propor[tț]ional\\w*"
+    ],
+    "explicatie": "Pompa dozează mai mult când trece mai multă apă: primește semnal de la un contor de apă."
+  },
+  {
+    "termen": "lance de aspirație",
+    "forme": [
+      "lanc[ea]\\w*"
+    ],
+    "explicatie": "Tubul pus în bidonul cu produs chimic, prin care pompa îl aspiră; poate avea senzor care anunță că bidonul s-a golit."
+  },
+  {
+    "termen": "kit de injecție",
+    "forme": [
+      "kit(?:ul)? de injec[tț]ie",
+      "injector\\w*",
+      "sorb"
+    ],
+    "explicatie": "Piesele cu care pompa dozatoare se leagă la bidon și la țeavă: sorb, injector, furtunuri."
+  },
+  {
+    "termen": "contor cu impulsuri",
+    "forme": [
+      "impuls\\w*",
+      "contor\\w*"
+    ],
+    "explicatie": "Contor de apă care trimite un semnal electric (impuls) la fiecare cantitate de apă trecută, de ex. la 10 L; pompa dozatoare folosește semnalul."
+  },
+  {
+    "termen": "Zenner WPD, EDC, reed",
+    "forme": [
+      "Zenner",
+      "ZENNER",
+      "WPD",
+      "EDC",
+      "reed"
+    ],
+    "explicatie": "Zenner e producătorul de contoare; WPD e un model de contor; EDC și reed sunt două tipuri de module care transmit impulsurile contorului."
+  },
+  {
+    "termen": "panou K800",
+    "forme": [
+      "K800"
+    ],
+    "exact": true,
+    "explicatie": "Panou SEKO care măsoară clorul din apă și comandă pompa dozatoare în funcție de el."
+  },
+  {
+    "termen": "skid",
+    "forme": [
+      "skid\\w*"
+    ],
+    "explicatie": "Echipamente montate gata legate pe un cadru comun, care se livrează ca un singur bloc."
+  },
+  {
+    "termen": "1A+1R",
+    "forme": [
+      "1A\\+1R"
+    ],
+    "exact": true,
+    "explicatie": "O pompă activă și una de rezervă, care pornește dacă prima se oprește."
+  },
+  {
+    "termen": "UV",
+    "forme": [
+      "UV"
+    ],
+    "exact": true,
+    "explicatie": "Dezinfectarea apei cu lumină ultravioletă: lampa omoară bacteriile fără să adauge chimicale."
+  },
+  {
+    "termen": "UVT",
+    "forme": [
+      "UVT"
+    ],
+    "exact": true,
+    "explicatie": "Cât de ușor trece lumina UV prin apă, în procente. Cu cât e mai mic, cu atât trebuie un sistem UV mai puternic."
+  },
+  {
+    "termen": "doză UV (mJ/cm²)",
+    "forme": [
+      "mJ/cm²",
+      "mJ/cm2"
+    ],
+    "exact": true,
+    "explicatie": "Câtă lumină UV primește apa; licitațiile cer o doză minimă (de ex. 40 mJ/cm²)."
+  },
+  {
+    "termen": "teacă de cuarț",
+    "forme": [
+      "teac[aă]\\w*",
+      "teci\\w*",
+      "quartz sleeve"
+    ],
+    "explicatie": "Tubul de sticlă de cuarț în care stă lampa UV; trebuie curățat și înlocuit din când în când."
+  },
+  {
+    "termen": "SITA, NUVONIC",
+    "forme": [
+      "SITA",
+      "NUVONIC"
+    ],
+    "exact": true,
+    "explicatie": "Producători de sisteme UV ofertați de AKRO."
+  },
+  {
+    "termen": "ozonator / generator de ozon",
+    "forme": [
+      "ozon\\w*",
+      "AirTree",
+      "Krausen",
+      "G-P ?\\d+",
+      "GP ?\\d+"
+    ],
+    "explicatie": "Aparat care produce ozon, un gaz care dezinfectează apa sau aerul. AirTree (modelele G-P, de exemplu G-P60) și Krausen sunt producători."
+  },
+  {
+    "termen": "cartuș",
+    "forme": [
+      "cartu[sș]\\w*",
+      "StarFine",
+      "Proxis"
+    ],
+    "explicatie": "Element filtrant care se pune într-o carcasă și se schimbă când se înfundă. StarFine și Proxis sunt mărci de cartușe."
+  },
+  {
+    "termen": "carcasă (MVB)",
+    "forme": [
+      "carcas\\w*",
+      "MVB\\w*"
+    ],
+    "explicatie": "Corpul filtrului, în care se montează cartușele sau sacii. MVB sunt carcase din inox pentru mai multe cartușe."
+  },
+  {
+    "termen": "sac filtrant",
+    "forme": [
+      "sac(?:i|ul)? filtran\\w*"
+    ],
+    "explicatie": "Filtru textil în formă de sac, montat într-o carcasă; reține particulele și se aruncă după folosire. Allied Filters e un producător."
+  },
+  {
+    "termen": "Cintropur NW",
+    "forme": [
+      "Cintropur",
+      "NW ?\\d+(?:/\\d+)*",
+      "NW"
+    ],
+    "explicatie": "Filtre de impurități Cintropur, cu o sită (membrană) care se curăță și se schimbă; NW500 = filtru pentru racord de 2\"."
+  },
+  {
+    "termen": "filtru Y",
+    "forme": [
+      "filtr\\w* Y",
+      "Y ?\\d+"
+    ],
+    "explicatie": "Filtru simplu în formă de Y, montat pe țeavă, cu o sită care reține impuritățile mari."
+  },
+  {
+    "termen": "filtru cu autocurățare (SUF, STF)",
+    "forme": [
+      "autocur[aă][tț]\\w*",
+      "SUF\\S*",
+      "STF"
+    ],
+    "explicatie": "Filtru cu sită care se spală singur când se înfundă, fără să fie oprit. SUF și STF sunt modele."
+  },
+  {
+    "termen": "Big Blue",
+    "forme": [
+      "Big Blue"
+    ],
+    "explicatie": "Carcase de filtru din plastic, mari (de obicei 10\" sau 20\"), pentru cartușe."
+  },
+  {
+    "termen": "O-ring",
+    "forme": [
+      "[Oo]-ring\\w*"
+    ],
+    "explicatie": "Garnitură de cauciuc rotundă care etanșează piesele."
+  },
+  {
+    "termen": "debitmetru electromagnetic",
+    "forme": [
+      "debitmetr\\w*"
+    ],
+    "explicatie": "Aparat care măsoară debitul apei fără piese în mișcare. PEM1000 (Aplisens) e un model."
+  },
+  {
+    "termen": "NaOH, polimer",
+    "forme": [
+      "NaOH",
+      "polimer\\w*"
+    ],
+    "explicatie": "Soda caustică (NaOH) și polimerii sunt chimicale dozate în stațiile de tratare mari."
+  },
+  {
+    "termen": "dedurizator galvanic (KalyxX)",
+    "forme": [
+      "galvanic\\w*",
+      "KalyxX"
+    ],
+    "explicatie": "Dispozitiv KalyxX montat pe țeavă care reduce depunerile de calcar fără rășină și fără sare."
+  },
+  {
+    "termen": "Spectra",
+    "forme": [
+      "Spectra"
+    ],
+    "explicatie": "Marcă din grupul AKRO. Când vinde echipamente AKRO, își pune propriul adaos peste prețul primit de la AKRO."
+  },
+  {
+    "termen": "palet",
+    "forme": [
+      "palet\\w*",
+      "paletizat\\w*"
+    ],
+    "explicatie": "Platformă de lemn pe care se livrează marfa; la sare, un palet are 40 de saci."
+  },
+  {
+    "termen": "GEL",
+    "forme": [
+      "GEL"
+    ],
+    "exact": true,
+    "explicatie": "Producătorul italian al chimicalelor vândute de AKRO, de exemplu antiscalantul GEL ANTISCALANT RO1."
+  },
+  {
+    "termen": "PE, HDPE",
+    "forme": [
+      "PE",
+      "HDPE",
+      "PEHD"
+    ],
+    "exact": true,
+    "explicatie": "Polietilenă, un plastic din care se fac rezervoare, țevi și bidoane."
+  },
+  {
+    "termen": "RFQ",
+    "forme": [
+      "RFQ"
+    ],
+    "exact": true,
+    "explicatie": "Request for Quotation: cerere de ofertă trimisă de client (de obicei de o firmă străină sau de un departament de achiziții)."
+  },
+  {
+    "termen": "flanșe ASME, DIN",
+    "forme": [
+      "ASME",
+      "DIN"
+    ],
+    "exact": true,
+    "explicatie": "Standarde pentru dimensiunile flanșelor (legăturile cu șuruburi dintre țevi): ASME e standardul american, DIN cel german/european."
+  },
+  {
+    "termen": "CE",
+    "forme": [
+      "CE"
+    ],
+    "exact": true,
+    "explicatie": "Marcajul care arată că produsul respectă normele Uniunii Europene."
+  },
+  {
+    "termen": "RO și EN",
+    "forme": [
+      "RO(?: [sș]i |/)EN",
+      "EN(?: [sș]i |/)RO"
+    ],
+    "exact": true,
+    "explicatie": "În limba română și în limba engleză."
+  },
+  {
+    "termen": "flanșă",
+    "forme": [
+      "flan[sș]\\w*"
+    ],
+    "explicatie": "Legătură între țevi sau între țeavă și echipament, făcută cu două discuri prinse în șuruburi."
+  },
+  {
+    "termen": "µm, micron, finețe de filtrare",
+    "forme": [
+      "µm",
+      "micron[ia]?",
+      "fine[tț]e\\w*"
+    ],
+    "explicatie": "Micrometrul e a mia parte dintr-un milimetru. Finețea unui filtru, dată în microni, arată cât de mici sunt cele mai mici particule pe care le reține: un cartuș de 5 microni oprește mai mult decât unul de 50."
+  },
+  {
+    "termen": "DROP",
+    "forme": [
+      "DROP"
+    ],
+    "exact": true,
+    "explicatie": "Producătorul filtrelor cu sită și al filtrelor cu autocurățare pe care AKRO le distribuie, folosite și la irigații."
+  },
+  {
+    "termen": "WEDECO",
+    "forme": [
+      "WEDECO"
+    ],
+    "exact": true,
+    "explicatie": "Producător de echipamente de ozonare, la care AKRO cere recomandare sau ofertă pentru stațiile mari sau nestandard."
+  },
+  {
+    "termen": "Aqua AS",
+    "forme": [
+      "A(?:QUA|qua)[- ]?AS"
+    ],
+    "exact": true,
+    "explicatie": "Masă filtrantă din hidroxid de fier în granule, care reține arsenul din apă."
+  },
+  {
+    "termen": "GELPHOS, PROMAX",
+    "forme": [
+      "GELPHOS\\w*",
+      "PROMAX\\w*"
+    ],
+    "exact": true,
+    "explicatie": "Produse ale producătorului GEL. GELPHOS L e un chimical pe care AKRO îl aduce doar la comandă; PROMAX e o pompă pentru spălarea chimică a instalațiilor, scoasă din gama AKRO."
+  },
+  {
+    "termen": "spălarea filtrului",
+    "forme": [
+      "sp[aă]larea filtr\\w*",
+      "sp[aă]lare invers\\w*",
+      "contrasp[aă]l\\w*",
+      "ap[aă] de sp[aă]lare",
+      "apa de sp[aă]lare",
+      "debit\\w* de sp[aă]lare",
+      "sp[aă]lare cu aer"
+    ],
+    "explicatie": "Curățarea automată a unui filtru cu masă filtrantă: apa e trimisă invers prin el și duce la canal impuritățile reținute. Are nevoie de apă și de un debit suficient."
+  },
+  {
+    "termen": "filtre atmosferice",
+    "forme": [
+      "filtr\\w* (?:rapide )?atmosferic\\w*",
+      "rapide atmosferic\\w*"
+    ],
+    "explicatie": "Filtre deschise, în care apa trece prin nisip prin propria greutate, nu sub presiune. Se folosesc la stațiile de tratare ale operatorilor de apă."
+  },
+  {
+    "termen": "coloană",
+    "forme": [
+      "coloan\\w*"
+    ],
+    "explicatie": "Recipientul cilindric în care stă rășina sau masa filtrantă. O stație duplex are două coloane."
+  },
+  {
+    "termen": "beneficiar",
+    "forme": [
+      "beneficiar\\w*"
+    ],
+    "explicatie": "Clientul final, pentru care se face lucrarea, chiar dacă oferta merge printr-un constructor sau un instalator."
+  },
+  {
+    "termen": "operator de apă",
+    "forme": [
+      "operator\\w* de ap[aă]",
+      "operator\\w* public\\w* de ap[aă]"
+    ],
+    "explicatie": "Compania care alimentează cu apă potabilă o localitate sau o zonă."
+  },
+  {
+    "termen": "dimensionare",
+    "forme": [
+      "dimension\\w*"
+    ],
+    "explicatie": "Alegerea mărimii echipamentului după debit, consum și calitatea apei."
+  },
+  {
+    "termen": "deplasare",
+    "forme": [
+      "deplas[aă]r\\w*"
+    ],
+    "explicatie": "Costul drumului tehnicianului până la client, trecut separat în oferta de service."
+  },
+  {
+    "termen": "manoperă",
+    "forme": [
+      "manoper\\w*"
+    ],
+    "explicatie": "Munca tehnicianului, trecută în ofertă separat de piese și materiale."
+  },
+  {
+    "termen": "DLFC",
+    "forme": [
+      "DLFC"
+    ],
+    "exact": true,
+    "explicatie": "Drain Line Flow Control: limitatorul de debit de pe ieșirea vanei spre canal. Ține spălarea inversă la debitul potrivit buteliei, ca rășina să nu fie dusă la canal."
+  },
+  {
+    "termen": "saramură, vas de saramură",
+    "forme": [
+      "saramur\\w*"
+    ],
+    "exact": false,
+    "explicatie": "Apă cu sare dizolvată. Stă într-un vas lângă stație, iar vana o trage în butelie la regenerare, ca să curețe rășina de calciu și magneziu."
+  },
+  {
+    "termen": "distribuitor",
+    "forme": [
+      "distribuitor\\w*"
+    ],
+    "exact": false,
+    "explicatie": "Țeava din mijlocul buteliei, cu o crepină la capătul de jos: pe ea iese apa tratată și intră apa la spălarea inversă."
+  }
+]

@@ -1,0 +1,454 @@
+[
+  {
+    "cod": "R10-01",
+    "titlu": "Generator de ozon standard pentru apă: AirTree seria G-P (Germania), cu compresor și concentrator de oxigen integrate, ofertat fără întrebări scrise",
+    "explicatie": "Când clientul vrea un generator de ozon pentru apă dintr-o gamă standard, AKRO trimite oferta pentru un model AirTree din seria G-P, fabricat în Germania, fără să mai pună întrebări în scris. Generatorul de ozon produce un gaz care dezinfectează apa. Capacitatea, în grame pe oră, s-a stabilit la telefon sau a propus-o AKRO, dublă față de primul aparat al clientului. Aparatul are compresorul și concentratorul de oxigen integrate, iar la ofertă AKRO atașează descrierea modelului și, într-un caz, fișa tehnică a seriei.",
+    "categorie": "10-Ozonatoare",
+    "cand": "Clientul cere un generator de ozon pentru apă care intră în seria standard AirTree G-P (aici 60 g/h): de pe site, pentru o păstrăvărie, sau ca al doilea generator, mai mare, după unul deja comandat. Capacitatea se stabilește la telefon sau o propune AKRO. Nu se aplică la generatoarele cu cerințe speciale (răcire cu apă, dezinfecția aerului), unde AKRO cere întâi o recomandare de la producător.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "10-001028",
+          "rol": "generator de ozon AirTree G-P60 (60 g/h), cu generator de oxigen inclus, ofertat în ambele conversații"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișa tehnică a seriei G-P și desenul electric al G-P60 (conversația 146)",
+        "descrierea modelului G-P60, ca imagine (în ambele conversații)"
+      ],
+      "conditii": [
+        "plata: 50% avans și 50% la gata de livrare (conversația 146), 30% avans și restul la 15 zile de la livrare (conversația 104)",
+        "garanție 12 luni"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2140420",
+        "src": "m2140420",
+        "citat": "Denumire produs: Generator de ozon AirTree seria G-P",
+        "pentru": "cerere",
+        "nota": "cerere de pe site pentru un generator din seria G-P, pentru o păstrăvărie, fără capacitate"
+      },
+      {
+        "conv": "c2140420",
+        "src": "m2140420",
+        "citat": "Conform discutiei telefonice, va trimitem anexata cotatia de pret pentru un generator de ozon marca AIRTREE [ Germania]",
+        "pentru": "ofertă",
+        "nota": "după discuția telefonică, AKRO ofertează G-P60 (60 g/h) și atașează fișa tehnică a seriei, descrierea G-P60 și desenul electric"
+      },
+      {
+        "conv": "c2140420",
+        "src": "m2140420",
+        "citat": "Sistemul are integrat compresor si concentrator de oxigen[ sita moleculara]",
+        "pentru": "ofertă",
+        "nota": "AKRO precizează că aparatul are compresorul și concentratorul de oxigen integrate"
+      },
+      {
+        "conv": "c2101892",
+        "src": "m2109540",
+        "citat": "Gasiti atasat oferta de pret pentru un generator de 60 grame, dublu la capacitate",
+        "pentru": "ofertă",
+        "nota": "clientul ceruse un dozator ca cel deja comandat pentru linia de sticle, dar pentru debit mai mare. AKRO alege G-P60, dublu ca și capacitate, și atașează descrierea G-P60"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R10-02",
+    "titlu": "Stație de ozonare pentru apă tehnologică: AKRO cere descrierea nevoii, buletinul, debitele, regimul bazinelor și ozonul rezidual acceptat",
+    "explicatie": "Dacă clientul cere o stație întreagă de filtrare și ozonare pentru apă tehnologică și dă doar doza de ozon, AKRO nu ofertează pe loc. În mai multe runde de emailuri îi cere să descrie nevoia și ce are acum, buletinul de analiză, debitul și consumul zilnic, cum se spală filtrele și ce automatizare vrea. Mai întreabă dacă bazinele sunt închise, cât poate sta apa în ele și cât ozon poate rămâne în apă la consumator. Ca bază de discuție trimite o schemă generală.",
+    "categorie": "10-Ozonatoare",
+    "cand": "Clientul cere o stație completă de filtrare și ozonare a apei (tehnologice, eventual și menajere), cu doza de ozon dată, dar fără debit, schemă sau mod de folosire a apei.",
+    "clarificari": [
+      "Care este nevoia reală și ce aveți acum (schiță cu pompe, bazine, filtre)? La ce folosiți apa ozonată?",
+      "Puteți trimite buletinul de analiză? Ce tip de apă este și la ce calitate trebuie să ajungă?",
+      "Care este debitul orar de tratare și necesarul de producție în 24 de ore (consumul zilnic)?",
+      "Care sunt debitul maxim și debitul mediu la ieșirea din bazinul de apă brută?",
+      "Cum se spală filtrele? Se dorește ofertă la cheie, cu montaj? Execuție din inox?",
+      "Se dorește un PLC general, monitorizare sau control de la distanță, SCADA?",
+      "Cum funcționează cele două bazine de apă filtrată (în serie, alternativ sau independent)?",
+      "Bazinele sunt închise, cu aerisire controlabilă? Cât timp poate sta apa în bazin?",
+      "Se acceptă ozon rezidual la consumator sau se dorește o valoare nedetectabilă (apă potabilă)?"
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [
+        "schemă generală a fluxului, ca bază de discuție"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2101892",
+        "src": "m2101892",
+        "citat": "Va rog descrieti in cateva cuvinte nevoia reala pe care o aveti pentru statia de filtrare/ ozonare.",
+        "pentru": "clarificare",
+        "nota": "prima reacție a AKRO la cererea de stație"
+      },
+      {
+        "conv": "c2101892",
+        "src": "m2138500",
+        "citat": "La ce calitate se doreste a se ajunge cu apa tratata?",
+        "pentru": "clarificare",
+        "nota": "a doua listă de întrebări: buletin, tip de apă, calitate, debit, spălarea filtrelor, montaj, inox, automatizare"
+      },
+      {
+        "conv": "c2101892",
+        "src": "m2138500",
+        "citat": "Se doreste un PLC general de unde sa puteti controla intreaga instalatie?",
+        "pentru": "clarificare",
+        "nota": "întrebările despre automatizare și SCADA"
+      },
+      {
+        "conv": "c2101892",
+        "src": "m2109540",
+        "citat": "Care este consumul zilnic estimat pentru apa tehnologica?",
+        "pentru": "clarificare",
+        "nota": "a treia listă (debite, consum zilnic, regimul bazinelor), trimisă odată cu oferta G-P60, cu o schemă generală atașată"
+      },
+      {
+        "conv": "c2113316",
+        "src": "m2113316",
+        "citat": "Bazinele sunt închise și au conducte de aerisire controlabile?",
+        "pentru": "clarificare",
+        "nota": "în firul redirecționat intern, clientul răspunde: bazine închise, cu aerisire și spălare prin spray ball"
+      },
+      {
+        "conv": "c2113316",
+        "src": "m2113316",
+        "citat": "Se acceptă un rezidual de ozon la consumator sau se doreste o valoare nedetectabilă a ozonului in apa?",
+        "pentru": "clarificare",
+        "nota": "clientul răspunde: cât mai mic, spre zero"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R10-03",
+    "titlu": "Generator de ozon rezidențial (Krausen, Ozone Air sau Ozone Water) cerut de pe site: AKRO răspunde tehnic, întreabă scopul și capacitatea, apoi dă în email prețul modelului din stoc și transportul estimat",
+    "explicatie": "O persoană fizică din străinătate a cerut de pe site un generator de ozon din gama rezidențială Krausen și a pus multe întrebări tehnice. AKRO a răspuns întâi la ele, a trimis fișa tehnică și a întrebat la ce folosește aparatul, dacă e pentru casă sau pentru industrie și ce capacitate îi trebuie. Când clientul a cerut prețul modelului din stoc, AKRO i l-a dat direct în email, cu poze și cu transportul estimat. Costul exact al transportului îl dă după adresa completă.",
+    "categorie": "10-Ozonatoare",
+    "cand": "O persoană fizică (în conversația văzută, din Bulgaria) cere de pe site un generator de ozon din gama rezidențială Ozone Air sau Ozone Water și pune întrebări tehnice despre aparat.",
+    "clarificari": [
+      "Care este scopul generatorului (oxidare sau dezinfecție)?",
+      "Aplicația este industrială sau rezidențială?",
+      "Ce capacitate de ozon este necesară (g/h)?",
+      "Care este adresa completă de livrare, pentru costul exact al transportului?"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": null,
+          "nume": "Ozone Water 1000/8",
+          "rol": "generatorul Krausen de 1 g/h (în nomenclator 10-001045), singurul model rezidențial din stoc, ofertat în text, fără cod"
+        }
+      ],
+      "servicii": [
+        "transport prin DHL, estimat în email. Costul exact după adresa completă"
+      ],
+      "documente": [
+        "fișa tehnică Ozone Water 3000, trimisă la primul răspuns",
+        "fotografii ale generatorului din stoc și ale interiorului lui"
+      ],
+      "conditii": [
+        "preț dat în email, fără TVA, fără ofertă Odoo"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2149668",
+        "src": "m2149668",
+        "citat": "Could you please clarify what is the scope of this ozone generator request?",
+        "pentru": "clarificare",
+        "nota": "în același prim răspuns, AKRO întreabă scopul, tipul aplicației și capacitatea în g/h"
+      },
+      {
+        "conv": "c2149668",
+        "src": "m2149668",
+        "citat": "What is the capacity of ozone required /h? [ ozone dosing capacity g/h?]",
+        "pentru": "clarificare",
+        "nota": "clientul răspunde: 3000 mg/h, pentru uz casnic"
+      },
+      {
+        "conv": "c2149668",
+        "src": "m2149668",
+        "citat": "Ozone Air 3000 – together with the smaller versions + the air disinfection generators – are all for residential purpose.",
+        "pentru": "ofertă",
+        "nota": "înainte de întrebări, AKRO răspunde tehnic: producătorul e Krausen, gama e rezidențială, aparatul are pompă de aer încorporată. Atașează fișa tehnică"
+      },
+      {
+        "conv": "c2149668",
+        "src": "m2149988",
+        "citat": "Ozone Water 1000/8 – costs 260.56 euro without VAT .",
+        "pentru": "ofertă",
+        "nota": "prețul modelului din stoc, dat direct în email, după ce clientul l-a cerut"
+      },
+      {
+        "conv": "c2149668",
+        "src": "m2149988",
+        "citat": "If you wish an exact transport quotation please give us a complete address",
+        "pentru": "ofertă",
+        "nota": "transportul prin DHL e estimat, iar costul exact se dă după adresa completă"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R10-04",
+    "titlu": "Ozon pentru dezinfecția șoc a tubulaturii HVAC: AKRO cere volumul instalației, fotografie a locului și punctul de injecție",
+    "explicatie": "Un client a vrut generatoare de ozon industriale ca să dezinfecteze din când în când, manual, tubulatura de climatizare, doar când clădirile sunt goale. Ca să poată cere o recomandare de generator, AKRO a cerut volumul aproximativ al instalației, o fotografie a locului și punctul în care se injectează ozonul. A anunțat că, după ce stabilește capacitatea, va întreba și de alimentarea cu aer sau oxigen și de răcire.",
+    "categorie": "10-Ozonatoare",
+    "cand": "Clientul cere generatoare de ozon industriale pentru tratarea ocazională, manuală, a tubulaturilor de climatizare, doar când clădirile sunt goale.",
+    "clarificari": [
+      "Care este, măcar aproximativ, volumul instalației HVAC? (la dozare, instalația trebuie să lucreze pe recirculare)",
+      "Puteți trimite o fotografie a locului unde se montează instalația de dozare?",
+      "Injecția se face direct în tubulatură? Există un punct de dozare folosit anterior?",
+      "După stabilirea capacității: ce posibilități de alimentare cu aer sau oxigen și de răcire a generatorului există?"
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2156484",
+        "src": "m2156484",
+        "citat": "Generatorul de ozon se doreste a fi folosit doar ocazional, pe mod manual",
+        "pentru": "clarificare",
+        "nota": "aplicația stabilită la telefon: doză șoc în ventilație, doar când clădirile sunt goale"
+      },
+      {
+        "conv": "c2156484",
+        "src": "m2156484",
+        "citat": "Daca cunoasteti [ macar cu aproximatie ] – volumul instalatiei HVAC",
+        "pentru": "clarificare",
+        "nota": "volumul e prima dată cerută pentru recomandarea generatorului"
+      },
+      {
+        "conv": "c2156484",
+        "src": "m2156484",
+        "citat": "Doriti ca injectia sa se faca direct in tubulatura ?",
+        "pentru": "clarificare",
+        "nota": "punctul și mecanismul de dozare"
+      },
+      {
+        "conv": "c2156484",
+        "src": "m2156484",
+        "citat": "vom reveni cu intrebari despre posibilitatea de alimentare cu aer/oxigen a unitatii si despre posibilitatile de racire ale acestuia.",
+        "pentru": "clarificare",
+        "nota": "întrebări anunțate pentru după stabilirea capacității"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R10-05",
+    "titlu": "Generator de ozon indisponibil sau cu termen lung: AKRO anunță clientul și propune modelul disponibil (unul mai mare la același preț sau cel din stoc)",
+    "explicatie": "Când generatorul de ozon cerut nu e pe stoc sau producătorul are un termen lung, AKRO îi spune clientului și îi propune un model care se poate livra. La un G-P20 deja comandat, cu termen de trei-patru luni, a trimis direct confirmarea pentru un G-P30, puțin mai mare, la același preț și cu livrare în două-patru săptămâni. Unui client care voia un model rezidențial de 3 grame pe oră i-a spus că are pe stoc doar modelul de 1 gram pe oră și i-a trimis poze cu el.",
+    "categorie": "10-Ozonatoare",
+    "cand": "Generatorul cerut sau deja comandat nu e în stoc ori producătorul are termen lung de livrare (G-P20 la 3-4 luni, Ozone Water 3000 care nu va mai fi adus).",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "10-001080",
+          "rol": "G-P30 (30 g/h) livrat la prețul G-P20 comandat, în 2-4 săptămâni"
+        },
+        {
+          "ref": null,
+          "nume": "Ozone Water 1000/8",
+          "rol": "modelul rezidențial de 1 g/h din stoc (în nomenclator 10-001045), propus în locul modelului de 3000 mg/h"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "confirmare de comandă cu noul model (conversația 192)",
+        "fotografii ale modelului din stoc (conversația 296)"
+      ],
+      "conditii": [
+        "același preț ca modelul comandat (G-P30 în locul lui G-P20)"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2143108",
+        "src": "m2143108",
+        "citat": "producatorul are un termen de livrare de 3-4 luni pentru generatorul Gp-20",
+        "pentru": "clarificare",
+        "nota": "după comanda fermă pentru G-P20, AKRO verifică termenul la producător"
+      },
+      {
+        "conv": "c2143108",
+        "src": "m2143108",
+        "citat": "am convenit cu acesta sa livram un sistem putin mai mare g-p 30 [ 30g/h]",
+        "pentru": "clarificare",
+        "nota": "AKRO nu cere acordul: anunță înlocuirea cu G-P30, livrabil în 2-4 săptămâni, la același preț, și trimite direct confirmarea de comandă"
+      },
+      {
+        "conv": "c2149668",
+        "src": "m2149828",
+        "citat": "unfortunately at this moment we only have available the 1g/h ozone generator – Ozone water 1000.",
+        "pentru": "ofertă",
+        "nota": "clientul voia Ozone Air 3000. AKRO îi spune că doar modelul de 1 g/h e disponibil și trimite poze"
+      },
+      {
+        "conv": "c2149668",
+        "src": "m2149892",
+        "citat": "Ozone Water 3000 is not available in our warehouse anymore",
+        "pentru": "clarificare",
+        "nota": "modelul 3000 nu mai e în depozit și nu va fi adus în lunile următoare"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R10-06",
+    "titlu": "Ozonare cerută pentru apă tehnologică foarte curată: AKRO propune ca alternativă filtrare în trei trepte și UV, explicând limitele ozonului",
+    "explicatie": "Un client cu apă de izvor foarte curată a cerut o stație de ozonare pentru apă tehnologică și menajeră, pe care oamenii din fabrică ar putea s-o și bea. AKRO i-a explicat de ce nu propune ozon: ozonul rămâne o vreme în apă, deci apa nu e potabilă, iar soluția cere un bazin de contact, monitorizare atentă și o investiție mai mare. I-a propus în schimb filtrare în trei trepte, cu saci sau cartușe, urmată de dezinfecție cu lumină ultravioletă (UV). Clientul a ales totuși ozonul.",
+    "categorie": "10-Ozonatoare",
+    "cand": "Clientul cere stație de ozonare pentru o apă cu analiză foarte bună, folosită ca apă tehnologică și menajeră (eventual băută de angajați).",
+    "clarificari": [
+      "Ce soluție alegeți (UV după filtrare, UV pe recircularea bazinului sau UV imersat) și ce debite, ca să putem face un buget?"
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [
+        "schiță de flux de tratare (Draft 1) cu filtrare în trei trepte și UV"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2101892",
+        "src": "m2103716",
+        "citat": "Apa nu poate fi potabila datorita nivelului de ozon; pentru potabilizare trebuie eliminat ozonul remanent din apa;",
+        "pentru": "ofertă",
+        "nota": "argumentele: remanența ozonului de 30 de minute, nevoia unui bazin de contact, monitorizare, investiție mai mare"
+      },
+      {
+        "conv": "c2101892",
+        "src": "m2103716",
+        "citat": "Varianta prezentata contine un system de filtrare in trei trepte cu saci filtranti sau cartuse filtrante",
+        "pentru": "ofertă",
+        "nota": "propunerea alternativă: filtrare cu saci sau cartușe, apoi UV după filtrare, pe recirculare sau imersat"
+      },
+      {
+        "conv": "c2101892",
+        "src": "m2106404",
+        "citat": "In urama analizei interne , am ales petru tratarea apei tehnologice , varianta cu ozon .",
+        "pentru": "clarificare",
+        "nota": "clientul păstrează ozonul și cere un dozator pentru debitul mai mare"
+      },
+      {
+        "conv": "c2113316",
+        "src": "m2113316",
+        "citat": "in afara de cele comunicate pt fluxul de tratare cu UV",
+        "pentru": "clarificare",
+        "nota": "clientul, care a ales ozonul, amintește de fluxul cu UV propus anterior. Mesajul e redirecționat intern"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R10-07",
+    "titlu": "Termenul de livrare al generatorului AirTree G-P60 a diferit între oferte (7 sau 18 săptămâni)",
+    "explicatie": "La generatorul de ozon AirTree G-P60, termenul de livrare apare pe linia produsului din ofertă. Unui client cu o păstrăvărie AKRO i-a dat șapte săptămâni. Pentru același aparat, altui client i-a scris 18 săptămâni, iar contractul semnat apoi a prevăzut cel mult 120 de zile de la plata avansului.",
+    "categorie": "10-Ozonatoare",
+    "cand": "Se ofertează generatorul de ozon AirTree G-P60 (10-001028). Termenul se scrie pe linia produsului din ofertă.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "10-001028",
+          "rol": "generator de ozon G-P60"
+        }
+      ],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "termen de livrare 7 săptămâni (conversația 146)"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2140420",
+        "src": "m2140420",
+        "citat": "[10-001028] Generator de ozon g-p60 (60 g/h). contine generator de oxigen 1,00 buc 29.790,00 29.790,00 €",
+        "pentru": "ofertă",
+        "nota": "linia ofertei, urmată de „Termen livrare: 7 sapt.”"
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "Pentru alt client (conversația 104), același G-P60 are pe linia ofertei termenul de 18 săptămâni, iar contractul semnat apoi prevede cel mult 120 de zile de la plata avansului.",
+        "dovezi": [
+          {
+            "conv": "c2101892",
+            "src": "m2109540",
+            "citat": "[10-001028] Generator de ozon g-p60 (60 g/h). contine generator de oxigen 1,00 buc 39.700,00 39.700,00 €",
+            "pentru": "ofertă",
+            "nota": "linia ofertei, urmată de „Termen livrare: 18 sapt.”"
+          },
+          {
+            "conv": "c2101892",
+            "src": "m2116484",
+            "citat": "Livrarea produselor prezentate în ofertă se face în termen maxim de 120 zile de la plata avansului.",
+            "pentru": "ofertă",
+            "nota": "contractul nr. 126 pentru G-P60"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R10-08",
+    "titlu": "Ozonare cu cerințe speciale sau stație completă: AKRO cere întâi o recomandare sau o ofertă de la producător (AirTree, WEDECO)",
+    "explicatie": "Când cererea trece de un generator standard, AKRO nu ofertează singur și cere întâi o recomandare sau o ofertă de la producător, AirTree sau WEDECO. Așa a făcut la o stație întreagă de tratare cu ozon, la un generator de 80 de grame pe oră răcit cu apă pentru o fermă de pești cu apă recirculată (RAS) și la ozonul pentru tubulatura de climatizare. Pentru generatorul răcit cu apă, AKRO i-a scris clientului că încă nu are un răspuns favorabil de la WEDECO și că revine când îl primește.",
+    "categorie": "10-Ozonatoare",
+    "cand": "Cererea depășește un generator standard din listă: soluție completă de tratare cu ozon, generator cu cerințe speciale (80 g/h cu răcire cu apă pentru o fermă RAS) sau o aplicație pe aer (dezinfecția tubulaturii de climatizare).",
+    "clarificari": [],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2101892",
+        "src": "m2109540",
+        "citat": "o sa apelam la furnizorul nostru din Germania pentru a primi o recomandare tehnica",
+        "pentru": "clarificare",
+        "nota": "pentru stația completă AKRO cere recomandarea furnizorului din Germania. Generatorul G-P60 e ofertat separat"
+      },
+      {
+        "conv": "c2113316",
+        "src": "m2113316",
+        "citat": "Initieaza o discutie cu Airtree pe baza informatiilor din email",
+        "pentru": "clarificare",
+        "nota": "instrucțiunea internă după răspunsurile clientului"
+      },
+      {
+        "conv": "c2143588",
+        "src": "m2143588",
+        "citat": "Va informam ca din pacate pana la acest moment, nu am primit un raspuns favorabil de la WEDECO.",
+        "pentru": "clarificare",
+        "nota": "generator de 80 g/h cu răcire cu apă pentru o fermă RAS: AKRO așteaptă răspunsul WEDECO și nu ofertează până atunci"
+      },
+      {
+        "conv": "c2156484",
+        "src": "m2156484",
+        "citat": "Pentru a putea solicita o recomandare de generator pentru aplicatia dumneavoastra, ar trebui sa mai cunoastem:",
+        "pentru": "clarificare",
+        "nota": "la generatorul pentru tubulatura de climatizare, AKRO strânge datele ca să ceară o recomandare de generator"
+      }
+    ],
+    "contradictii": []
+  }
+]

@@ -1,0 +1,10 @@
+[
+ {"conv": "c2126884", "tip": "furnizor",
+  "client": {"text": "Xylem Hungary Kft.", "src": "m2126884", "citat": "Xylem Hungary Kft."},
+  "descriere": {"text": "Xylem trimite raportul cu stadiul comenzilor deschise ale AKRO; office@akro.ro îl redirecționează intern.", "src": "m2126884", "citat": "Kindly find enclosed our latest report detailing the current status of your open orders."},
+  "cereri": []},
+ {"conv": "c2128932", "tip": "furnizor",
+  "client": {"text": "Euro-Clear", "src": "m2128932", "citat": "Gróf Orsolya Katalin <o.grof@euro-clear.eu>"},
+  "descriere": {"text": "Euro-Clear anunță că comanda AKRO S00856 e gata de ridicat (7 paleți); AKRO caută un transportator.", "src": "m2128932", "citat": "Unfortunately until now we couldn’t find a proper transporter"},
+  "cereri": []}
+]

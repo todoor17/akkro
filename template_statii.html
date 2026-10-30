@@ -1,0 +1,756 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Oferte pe tipuri de stații</title>
+<style>
+  /* the same palette as emailuri.html: light by default, "Temă întunecată" switches */
+  :root {
+    color-scheme: light;
+    --bg: #f6f7f9; --surface: #ffffff; --text: #1d232b; --muted: #5f6b7a; --border: #dfe3e8;
+    --title: #6d28d9; --step-bg: #e4edfc; --offer-bg: #e1f3e6;
+    --accent: #1860d6; --accent-soft: #e7f0ff; --row-hover: #f2f6fc;
+    --ok: #16752f; --ok-soft: #e6f4ea; --bad: #b42318; --bad-soft: #fdecea; --warn: #875a00; --warn-soft: #fff4d6;
+    --mark: #ffe58a; --akro-soft: #e9f0fc; --akro-line: #bfd2f3; --client-soft: #fbefe4; --client-line: #ebcdb2;
+    --odoo: #6b21a8; --odoo-soft: #f3e8ff; --odoo-line: #d8b4fe;
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --bg: #11151a; --surface: #191f26; --text: #e6e9ed; --muted: #9aa5b1; --border: #2b333d;
+    --title: #c4b5fd; --step-bg: #1c2a3f; --offer-bg: #182f22;
+    --accent: #5b9dff; --accent-soft: #1b2a40; --row-hover: #1f2731;
+    --ok: #5cc27a; --ok-soft: #173322; --bad: #ff8577; --bad-soft: #3a1c1a; --warn: #e6b450; --warn-soft: #362b12;
+    --mark: #6b5a12; --akro-soft: #1e2a3d; --akro-line: #34507a; --client-soft: #2f241b; --client-line: #66472f;
+    --odoo: #dcc2ff; --odoo-soft: #33204d; --odoo-line: #6d4a9c;
+  }
+  * { box-sizing: border-box; }
+  ::selection { background: var(--accent-soft); color: var(--text); }
+  :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  html { scrollbar-color: var(--border) transparent; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 14px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    display: flex; flex-direction: column; height: 100vh; height: 100dvh; }
+  header { padding: 16px 20px 8px; }
+  h1 { margin: 0; font-size: 20px; line-height: 1.25; }
+  .title-row { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+  .title-row h1 { margin-right: auto; }
+  .theme { flex: none; font-size: 12px; padding: 3px 10px; }
+  .summary { margin-top: 6px; font-size: 12px; color: var(--muted); }
+  .summary > summary { display: flex; align-items: baseline; gap: 6px; width: fit-content; max-width: 100%; cursor: pointer; list-style: none; border-radius: 4px; }
+  .summary > summary::-webkit-details-marker { display: none; }
+  .summary > summary::before { content: ""; flex: none; align-self: center; width: 0; height: 0; border-left: 5px solid currentColor; border-block: 4px solid transparent; transition: transform .15s ease-out; }
+  .summary[open] > summary::before { transform: rotate(90deg); }
+  .summary > summary:hover .summary-title { color: var(--text); }
+  .summary-title { font-weight: 600; }
+  .summary-line { font-variant-numeric: tabular-nums; }
+  .summary-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, max-content)); gap: 8px 32px; margin-top: 8px; }
+  .summary h2 { margin: 0 0 4px; font-size: 12px; font-weight: 600; color: var(--text); }
+  .summary dl { display: grid; grid-template-columns: auto auto; gap: 2px 16px; margin: 0; }
+  .summary dt { margin: 0; }
+  .summary dd { margin: 0; text-align: right; font-weight: 600; color: var(--text); font-variant-numeric: tabular-nums; }
+  .help { max-width: 820px; margin-top: 8px; color: var(--text); font-size: 13px; }
+  .help p { margin: 6px 0; }
+  .help dl { display: grid; grid-template-columns: max-content 1fr; gap: 3px 14px; margin: 4px 0 10px; }
+  .help dt { font-weight: 600; }
+  .help dd { margin: 0; }
+  abbr.term { text-decoration: underline dotted; text-underline-offset: 3px; cursor: help; }
+  .block-hint { margin: -4px 0 8px 30px; color: var(--muted); font-size: 12px; }
+  dl.terms { display: grid; grid-template-columns: max-content 1fr; gap: 4px 14px; margin: 0; font-size: 13px; }
+  dl.terms dt { font-weight: 600; }
+  dl.terms dd { margin: 0; }
+  @media (max-width: 600px) { .help dl, dl.terms { grid-template-columns: 1fr; } }
+  @media (prefers-reduced-motion: reduce) { .summary > summary::before { transition: none; } }
+
+  .panel { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; margin: 8px 20px 12px; padding: 12px; }
+  .filters { display: grid; grid-template-columns: minmax(220px, 2fr) repeat(3, minmax(140px, 1fr)) auto; gap: 10px 12px; align-items: end; }
+  .filters label { display: flex; flex-direction: column; justify-content: flex-end; gap: 4px; min-width: 0; font-size: 12px; color: var(--muted); }
+  input[type=search], select { font: inherit; color: var(--text); background: var(--surface); border: 1px solid var(--border); border-radius: 6px; height: 32px; padding: 0 8px; width: 100%; min-width: 0; }
+  input[type=search]::placeholder { color: var(--muted); }
+  input[type=search]:hover, select:hover { border-color: var(--muted); }
+  button, .button { font: inherit; color: var(--text); background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 5px 10px; cursor: pointer; text-decoration: none; display: inline-block; }
+  button:hover:not(:disabled), .button:hover { border-color: var(--accent); }
+  .button.primary { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+  :root[data-theme="dark"] .button.primary { color: #0b1220; }
+  .button.primary:hover { filter: brightness(1.08); }
+  .reset-wrap { display: flex; align-items: center; gap: 12px; height: 32px; }
+  .counter { font-weight: 600; white-space: nowrap; font-variant-numeric: tabular-nums; }
+
+  /* three columns: kinds of station | offers of the kind | the open offer */
+  main { flex: 1 1 auto; min-height: 0; display: grid; --c1: 270px; --c2: minmax(300px, 390px); grid-template-columns: var(--c1) var(--c2) minmax(0, 1fr); gap: 12px; margin: 0 20px 16px; }
+  .col { min-height: 0; display: flex; flex-direction: column; background: var(--surface); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+  .col-head { padding: 10px 12px; border-bottom: 1px solid var(--border); font-size: 12px; color: var(--muted); }
+  .col-head h2 { margin: 0; font-size: 13px; color: var(--text); }
+  .col-body { flex: 1 1 auto; min-height: 0; overflow: auto; }
+  /* the side lists collapse, one at a time, to a strip so the open item gets the width */
+  main:has(> .col:nth-child(1).collapsed) { --c1: 40px; }
+  main:has(> .col:nth-child(2).collapsed) { --c2: 40px; }
+  .col-head { position: relative; }
+  .col-head h2 { padding-right: 30px; }
+  .col-toggle { position: absolute; top: 5px; right: 6px; width: 26px; height: 26px; padding: 0; display: grid; place-items: center; color: var(--muted); background: transparent; border-color: transparent; }
+  .col-toggle:hover:not(:disabled) { color: var(--text); border-color: var(--border); }
+  .col-toggle svg { width: 14px; height: 14px; }
+  .col.collapsed .col-body, .col.collapsed .col-head > :not(h2, .col-toggle) { display: none; }
+  .col.collapsed .col-head { flex: 1 1 auto; border-bottom: 0; cursor: pointer; }
+  .col.collapsed .col-toggle svg { transform: rotate(180deg); }
+  @media (min-width: 901px) {
+    .col.collapsed .col-head { padding: 40px 0 12px; }
+    .col.collapsed .col-head h2 { writing-mode: vertical-rl; margin: 0 auto; padding: 0; white-space: nowrap; }
+  }
+  @media (max-width: 900px) {
+    .col-toggle svg { transform: rotate(90deg); }
+    .col.collapsed .col-toggle svg { transform: rotate(-90deg); }
+  }
+  .item { all: unset; box-sizing: border-box; display: block; width: 100%; padding: 9px 12px; border-bottom: 1px solid var(--border); cursor: pointer; }
+  .item:hover { background: var(--row-hover); }
+  .item:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
+  .item[aria-current=true] { background: var(--accent-soft); box-shadow: inset 3px 0 0 var(--accent); }
+  .item-top { display: flex; align-items: baseline; gap: 8px; }
+  .item-title { flex: 1 1 auto; min-width: 0; font-weight: 600; overflow-wrap: anywhere; }
+  /* list titles and the open item's title in purple, so they stand out from the details under them */
+  .item-title, .detail-head h2 { color: var(--title); }
+  #types .item-title { color: var(--text); }
+  .item-count, .item-date { flex: none; color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; }
+  .item[aria-current=true] .item-count { color: var(--accent); font-weight: 600; }
+  .item-sub { color: var(--muted); font-size: 12px; margin-top: 2px; overflow-wrap: anywhere; }
+  .item-what { margin-top: 3px; font-size: 13px; overflow-wrap: anywhere; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; }
+  .field { display: block; margin-top: 3px; font-size: 12px; color: var(--text); overflow-wrap: anywhere; }
+  .field .k, .k { color: var(--muted); font-weight: 400; }
+  .detail-head .meta + .meta { margin-top: 6px; }
+  .item-what .field { font-size: 13px; margin-top: 0; }
+  .item-badges { display: flex; flex-wrap: wrap; gap: 4px 6px; margin-top: 5px; align-items: center; }
+  .group-head { padding: 12px 12px 6px; font-size: 11px; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: var(--muted); border-bottom: 1px solid var(--border); background: var(--bg); }
+  .money { font-weight: 600; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .empty { padding: 32px 16px; text-align: center; color: var(--muted); }
+
+  .badge { display: inline-block; border-radius: 999px; padding: 1px 8px; font-size: 12px; white-space: nowrap; background: var(--bg); color: var(--muted); border: 1px solid var(--border); }
+  .b-ok { background: var(--ok-soft); color: var(--ok); border-color: transparent; }
+  .b-bad { background: var(--bad-soft); color: var(--bad); border-color: transparent; }
+  .b-warn { background: var(--warn-soft); color: var(--warn); border-color: transparent; }
+  .b-info { background: var(--accent-soft); color: var(--accent); border-color: transparent; }
+  .b-odoo { background: var(--odoo-soft); color: var(--odoo); border-color: var(--odoo-line); }
+
+  /* the open offer */
+  #detail { padding: 0 20px 32px; }
+  #detail > .empty { margin-top: 16px; }
+  .detail-head { position: sticky; top: 0; z-index: 2; margin: 0 -20px 14px; padding: 14px 20px 12px; background: var(--surface); border-bottom: 1px solid var(--border); }
+  .detail-head-top { display: flex; align-items: flex-start; gap: 12px; }
+  .detail-head h2 { flex: 1 1 auto; min-width: 0; margin: 0 0 6px; font-size: 18px; line-height: 1.3; overflow-wrap: anywhere; }
+  .detail-nav { flex: none; display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .detail-nav button { padding: 3px 8px; font-size: 12px; }
+  .detail-nav button:disabled { opacity: .45; cursor: default; }
+  .meta { color: var(--muted); font-size: 12px; display: flex; flex-wrap: wrap; align-items: center; gap: 4px 14px; }
+  .meta .money { color: var(--text); font-size: 14px; }
+  .stations { margin: 0 0 14px; padding: 10px 12px; border-radius: 8px; background: var(--bg); border: 1px solid var(--border); }
+  .stations h3 { margin: 0 0 6px; font-size: 13px; }
+  .station { margin: 6px 0; }
+  .station strong { font-size: 13px; }
+  /* the four steps side by side, read left to right; the offer column spans every request of the deal */
+  #detail { container: detail / inline-size; }
+  .steps { display: grid; gap: 1px; background: var(--border); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+  .steps > * { min-width: 0; background: var(--surface); }
+  .steps .request-title { margin: 0; padding: 8px 12px; background: var(--bg); font-size: 13px; color: var(--muted); }
+  @container detail (min-width: 960px) {
+    .steps { grid-template-columns: repeat(3, minmax(0, 1fr)) minmax(0, 1.4fr); }
+    .steps .request-title { grid-column: 1 / 4; }
+    .steps .offer { grid-column: 4; grid-row: 1 / span var(--rows); }
+  }
+  .block { padding: 10px 12px; }
+  .steps > .block { background: var(--step-bg); }
+  .steps > .offer { background: var(--offer-bg); }
+  .steps a.src { white-space: normal; }
+  .offer { container: offer / inline-size; }
+  .block h3 { margin: 0 0 8px; font-size: 14px; display: flex; align-items: center; gap: 8px; }
+  .block h3 .n { display: inline-grid; place-items: center; flex: none; width: 22px; height: 22px; border-radius: 50%; background: var(--accent-soft); color: var(--accent); font-size: 12px; }
+  .block h4 { margin: 10px 0 4px; font-size: 12px; color: var(--muted); font-weight: 600; }
+  .none { color: var(--muted); font-style: italic; }
+  /* the exact words of the email first, what they mean (the analysis) under them */
+  .said { margin: 8px 0; }
+  .said blockquote { margin: 0; padding: 2px 0 2px 10px; border-left: 3px solid var(--accent); font-size: 14px; overflow-wrap: anywhere; }
+  .said .gist { margin-top: 2px; padding-left: 13px; color: var(--muted); font-size: 12px; }
+  .said .gist b { color: var(--text); font-weight: 600; }
+  a { color: var(--accent); text-underline-offset: 2px; }
+  a.src { font-size: 12px; white-space: nowrap; text-decoration: none; margin-left: 4px; }
+  a.src:hover { text-decoration: underline; }
+  ul.plain { margin: 0; padding-left: 18px; }
+  ul.plain li { margin: 3px 0; }
+  .clar { padding: 6px 0; border-top: 1px dashed var(--border); }
+  .clar:first-of-type { border-top: 0; }
+  .clar-when { color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; }
+  .change { color: var(--text); font-size: 12px; margin: 2px 0 0 13px; }
+  .change::before { content: "Ce s-a schimbat: "; color: var(--muted); }
+  .table-wrap { overflow-x: auto; }
+  table { border-collapse: collapse; width: 100%; font-size: 12px; }
+  th, td { padding: 4px 6px; border-bottom: 1px solid var(--border); text-align: left; vertical-align: top; }
+  th { color: var(--muted); font-weight: 600; white-space: nowrap; }
+  td.num, th.num { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .doc { margin: 6px 0 14px; }
+  .doc-head { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; margin-bottom: 6px; }
+  .doc-head strong { font-size: 13px; }
+  .terms { margin: 4px 0 0; padding-left: 18px; color: var(--muted); font-size: 12px; }
+  /* a narrow offer column: each line on two rows, the product, then quantity × price = value */
+  @container offer (max-width: 540px) {
+    .doc thead { display: none; }
+    .doc tr { display: grid; grid-template-columns: auto auto auto 1fr auto; column-gap: 6px; padding: 6px 0; border-bottom: 1px solid var(--border); }
+    .doc td { padding: 0; border: 0; }
+    .doc tbody td:first-child { grid-column: 1 / -1; margin-bottom: 2px; }
+    .doc tbody td:nth-child(4)::before { content: "× "; color: var(--muted); }
+    .doc tbody td:nth-child(5) { text-align: left; color: var(--muted); }
+    .doc tbody td:nth-child(5):not(:empty)::before { content: "reducere "; }
+    .doc tbody td:nth-child(6)::before { content: "= "; color: var(--muted); }
+    .doc tfoot tr { grid-template-columns: 1fr auto; border-bottom: 0; }
+  }
+
+  /* the emails, like a mail client: theirs on the left, AKRO's on the right */
+  .messages h3 { margin: 26px 0 4px; font-size: 15px; }
+  .messages .hint { margin: 0 0 8px; color: var(--muted); font-size: 12px; }
+  .msg { border: 1px solid var(--border); border-radius: 8px; margin: 10px 48px 10px 0; scroll-margin-top: 150px; background: var(--surface); }
+  .msg.akro { margin: 10px 0 10px 48px; background: var(--akro-soft); border-color: var(--akro-line); }
+  .msg.akro .msg-head { border-bottom-color: var(--akro-line); }
+  /* emails received from the client: warm, so the two sides of the thread differ at a glance */
+  .msg:not(.akro) { background: var(--client-soft); border-color: var(--client-line); }
+  .msg:not(.akro) .msg-head { border-bottom-color: var(--client-line); }
+  .msg.flash { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .msg-head { padding: 8px 12px; border-bottom: 1px solid var(--border); font-size: 12px; color: var(--muted); display: grid; gap: 2px; }
+  .msg-top { display: flex; align-items: baseline; gap: 8px; }
+  .msg-top .when { margin-left: auto; white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .role { flex: none; font-size: 11px; font-weight: 600; letter-spacing: .02em; color: var(--muted); }
+  .msg.akro .role { color: var(--accent); }
+  .msg-head .who { color: var(--text); font-weight: 600; font-size: 13px; overflow-wrap: anywhere; }
+  .msg-head .line { overflow-wrap: anywhere; }
+  .msg-body { padding: 10px 12px; white-space: pre-wrap; overflow-wrap: anywhere; font-size: 13px; }
+  .msg-body details { margin-top: 8px; color: var(--muted); }
+  .msg-body summary { cursor: pointer; font-size: 12px; white-space: normal; width: fit-content; }
+  mark { background: var(--mark); color: inherit; text-decoration: underline; text-decoration-thickness: 2px; border-radius: 2px; }
+  .att { padding: 6px 12px 10px; font-size: 12px; display: flex; flex-wrap: wrap; gap: 4px 12px; border-top: 1px dashed var(--border); }
+  .att .muted { color: var(--muted); }
+  .note { margin: 6px 12px 0; padding: 6px 8px; border-radius: 6px; background: var(--warn-soft); color: var(--text); font-size: 12px; white-space: normal; }
+
+  @media (max-width: 1200px) {
+    main { --c1: 230px; --c2: minmax(260px, 330px); }
+    .filters { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .filters label:first-child { grid-column: 1 / -1; }
+  }
+  @media (max-width: 900px) {
+    /* phone and small tablets: the page scrolls, the columns stack */
+    body { display: block; height: auto; }
+    header, .panel, main { margin-left: 16px; margin-right: 16px; }
+    header { padding-left: 0; padding-right: 0; }
+    main { display: flex; flex-direction: column; }
+    .col { max-height: 70dvh; }
+    #detail-col { max-height: none; }
+    .msg, .msg.akro { margin-left: 0; margin-right: 0; }
+    .msg.akro { margin-left: 16px; }
+    .detail-head-top { flex-direction: column; gap: 4px; }
+  }
+</style>
+</head>
+<body>
+<header>
+  __NAV__
+  <div class="title-row">
+    <h1>Oferte pe tipuri de stații</h1>
+    <button type="button" class="theme" id="theme">Temă întunecată</button>
+  </div>
+  <details class="summary">
+    <summary><span class="summary-title">Rezumat</span> <span class="summary-line">__SUMMARY_LINE__</span></summary>
+    <div class="summary-grid">__SUMMARY__</div>
+  </details>
+  <details class="summary">
+    <summary><span class="summary-title">Cum se citește pagina</span></summary>
+    <div class="help">
+      <p><b>Ce e pe pagină.</b> Ofertele pe care AKRO le-a trimis clienților în emailurile din PST, grupate după tipul de stație
+        pe care îl conțin. O ofertă e un număr de document Odoo (de forma S02518): versiunile ei, confirmarea de comandă și
+        factura proformă cu același număr sunt o singură ofertă. Apare aici și un preț scris direct în textul emailului, fără PDF,
+        cu eticheta „Preț în email”. Conversațiile în care nu s-a trimis nicio ofertă nu apar.</p>
+      <p><b>Coloana din stânga: tipurile de stații.</b> Tipurile nu au fost stabilite dinainte: au ieșit din citirea fiecărei oferte.
+        Numărul de lângă tip arată câte oferte îl conțin, după filtrele alese sus. O ofertă cu stații de tipuri diferite (de exemplu
+        dedurizare și UV) apare la fiecare tip. La „Fără stație” sunt ofertele doar cu piese de schimb, consumabile, pompe
+        dozatoare ofertate singure, aparate de măsură sau servicii. Explicația unui tip apare sub el când îl alegi și când ții
+        mouse-ul pe el.</p>
+      <p><b>Coloana din mijloc: ofertele tipului ales</b>, cele mai noi primele. Pe fiecare card: numărul ofertei, data la care
+        s-a trimis prima dată, clientul, stațiile din ofertă, valoarea și starea în Odoo. Valoarea e totalul cu TVA din ultima
+        versiune trimisă, în moneda ofertei (EUR sau RON). Eticheta „+ Sistem UV” (sau alt tip) arată că oferta conține și o
+        stație de alt tip. Filtrele de sus (an, client, stare, căutare) se aplică pe toate coloanele. „Afișate X din Y” înseamnă:
+        X oferte după filtre, din Y oferte ale tipului ales.</p>
+      <p><b>Starea în Odoo</b> vine din lista de oferte exportată din Odoo, după numărul ofertei:</p>
+      <dl>
+        <dt>Ofertă trimisă</dt><dd>Oferta a fost trimisă clientului, iar în Odoo nu s-a transformat încă în comandă.</dd>
+        <dt>Comandă de vânzare</dt><dd>Clientul a comandat: oferta a devenit comandă în Odoo.</dd>
+        <dt>Anulat</dt><dd>Oferta a fost anulată în Odoo.</dd>
+        <dt>Ofertă</dt><dd>Ciornă în Odoo: documentul există, dar nu e marcat ca trimis.</dd>
+        <dt>nu e în lista Odoo</dt><dd>Numărul nu apare în lista primită, care acoperă doar trimestrul 3 2026, sau oferta e un preț
+          scris în email, fără număr Odoo. Starea nu se cunoaște.</dd>
+      </dl>
+      <p><b>Coloana din dreapta: oferta deschisă.</b> Sus sunt stațiile din ofertă și butonul „Deschide PDF-ul” (ultima versiune
+        trimisă). Urmează patru blocuri:</p>
+      <dl>
+        <dt>1. Ce s-a cerut</dt><dd>Prima cerere a clientului, în cuvintele lui.</dd>
+        <dt>2. Clarificări</dt><dd>Întrebările și răspunsurile de dinaintea ofertei finale, puse de AKRO sau de client, și ce s-a
+          stabilit la telefon, când emailurile pomenesc asta.</dd>
+        <dt>3. Cerințe finale</dt><dd>Ce a cerut clientul până la urmă, după clarificări, pe rând: debit, capacitate, cantitate,
+          racord, aplicație, termen și altele.</dd>
+        <dt>4. Oferta trimisă</dt><dd>Fiecare document Odoo trimis (oferte, versiuni, confirmări de comandă), cu liniile, prețurile și
+          condițiile lui, apoi rezultatul: ce spun emailurile și ce arată Odoo.</dd>
+      </dl>
+      <p>În blocuri, textul între ghilimele e copiat exact din email. Sub el, cu gri, e ce înseamnă pe scurt. Linkul „↗ data” deschide
+        emailul din care vine textul, mai jos pe pagină, cu fragmentul subliniat. Dacă fragmentul vine dintr-un atașament (de
+        exemplu din PDF-ul ofertei), emailul se deschide cu o notă galbenă care spune asta.</p>
+      <p><b>Emailurile, de la cap la coadă.</b> Sub blocuri sunt toate emailurile dintre AKRO și client despre această ofertă, în
+        ordine cronologică, ca într-un client de email: ale clientului în stânga, ale AKRO în dreapta, pe fundal albastru. Când
+        aceeași afacere e în mai multe conversații (de exemplu oferta într-una și comanda în alta, legate prin același număr de
+        document), emailurile lor sunt puse împreună. Semnăturile și textul citat din emailurile anterioare sunt restrânse și se
+        deschid cu un click. Linkurile „conv. N” deschid conversația în emailuri.html, unde e și analiza ei din Faza 2.</p>
+      <p><b>Termenii tehnici</b> (duplex, vană Clack, racord, PIF ...) sunt subliniați cu puncte. Explicația apare când ții mouse-ul
+        pe ei și e scrisă și la sfârșitul ofertei deschise, la „Termeni din această ofertă”.</p>
+    </div>
+  </details>
+</header>
+
+<section class="panel">
+  <div class="filters">
+    <label>Caută (client, număr, produs, text din emailuri)
+      <input type="search" id="search" placeholder="de ex. duplex, Clack sau apavital" autocomplete="off">
+    </label>
+    <label>An <select id="f-year"></select></label>
+    <label>Client <select id="f-client"></select></label>
+    <label>Stare în Odoo <select id="f-status"></select></label>
+    <div class="reset-wrap"><span class="counter" id="counter" aria-live="polite"></span><button id="reset" type="button">Șterge filtrele</button></div>
+  </div>
+</section>
+
+<main id="main">
+  <section class="col" aria-label="Tipuri de stații">
+    <div class="col-head"><h2>Tipuri de stații</h2></div>
+    <div class="col-body" id="types"></div>
+  </section>
+  <section class="col" aria-label="Oferte">
+    <div class="col-head"><h2 id="list-title">Oferte</h2></div>
+    <div class="col-body" id="list"></div>
+  </section>
+  <section class="col" id="detail-col" aria-label="Oferta deschisă">
+    <div class="col-body" id="detail-scroll"><div id="detail"><div class="empty">Alege o ofertă din listă.</div></div></div>
+  </section>
+</main>
+
+<script>
+const DATA = /*__DATA__*/{};
+const ALL = "";
+const STATUS_CLASS = { "Comandă de vânzare": "b-ok", "Ofertă trimisă": "b-info", "Anulat": "b-bad", "Ofertă": "b-warn" };
+const STATUS_HELP = {
+  "Comandă de vânzare": "Clientul a comandat.",
+  "Ofertă trimisă": "Trimisă, fără comandă încă.",
+  "Anulat": "Oferta a fost anulată în Odoo.",
+  "Ofertă": "Ciornă în Odoo.",
+};
+const CAMP = { "tip echipament": "Tip echipament", debit: "Debit", capacitate: "Capacitate", cantitate: "Cantitate", racord: "Racord",
+  tensiune: "Tensiune", "calitate apă": "Calitatea apei", "aplicație": "Aplicație", termen: "Termen", "loc livrare": "Loc de livrare", buget: "Buget", altele: "Altele" };
+
+const nf = new Intl.NumberFormat("ro-RO", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+const qf = new Intl.NumberFormat("ro-RO", { maximumFractionDigits: 3 });
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const fold = s => String(s ?? "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+const $ = id => document.getElementById(id);
+const byText = (a, b) => String(a).localeCompare(String(b), "ro", { numeric: true });
+const shortDate = d => d ? `${d.slice(8, 10)}.${d.slice(5, 7)}.${d.slice(0, 4)}` : "";
+const dateTime = d => d ? `${shortDate(d)} ${d.slice(11, 16)}` : "";
+const fileHref = path => path.split("/").map(encodeURIComponent).join("/");
+const badge = (text, cls = "", help = "") => `<span class="badge ${cls}"${help ? ` title="${esc(help)}"` : ""}>${esc(text)}</span>`;
+const money = (v, cur) => v === null || v === undefined ? "" : `${nf.format(v)} ${esc(cur || "")}`;
+const MSG = DATA.messages;
+const offersN = n => `${n} ${n === 1 ? "ofertă" : (n % 100 === 0 || n % 100 >= 20) ? "de oferte" : "oferte"}`;
+
+// glossary (reguli/glosar.json): each form is a regular expression; \w is widened to letters with diacritics (ă, ș, ț...)
+const GLOSSARY = (DATA.glossary || []).map(g => ({
+  ...g,
+  re: new RegExp(`(?<![\\p{L}\\p{N}])(?:${g.forms.map(f => f.replace(/\\w/g, "[\\p{L}\\p{N}_]")).join("|")})(?![\\p{L}\\p{N}])`, g.exact ? "gu" : "giu"),
+}));
+// where glossary terms occur in a text: the earliest and, at the same place, the longest match wins
+function termSpans(text) {
+  const spans = [];
+  for (const g of GLOSSARY) for (const m of String(text ?? "").matchAll(g.re)) if (m[0]) spans.push({ start: m.index, end: m.index + m[0].length, g });
+  spans.sort((a, b) => a.start - b.start || b.end - a.end);
+  const kept = [];
+  for (const sp of spans) if (!kept.length || sp.start >= kept[kept.length - 1].end) kept.push(sp);
+  return kept;
+}
+// escaped text with the glossary terms underlined and explained on hover; within the open offer only the first
+// occurrence of each term is underlined (underlined is reset for every offer opened)
+let underlined = new Set();
+function hl(text) {
+  text = String(text ?? "");
+  let out = "", pos = 0;
+  for (const sp of termSpans(text)) {
+    if (underlined.has(sp.g)) continue;
+    underlined.add(sp.g);
+    out += esc(text.slice(pos, sp.start)) + `<abbr class="term" title="${esc(sp.g.text)}">${esc(text.slice(sp.start, sp.end))}</abbr>`;
+    pos = sp.end;
+  }
+  return out + esc(text.slice(pos));
+}
+
+const OFFERS = DATA.offers.map(o => {
+  const recs = o.records;
+  const texts = [o.number, o.client, o.content, ...o.stations.map(s => `${s.type} ${s.text}`),
+    ...recs.flatMap(r => [r.title, r.request?.text, r.request?.quote, ...r.final.map(f => f.quote), ...r.clarifications.flatMap(c => [c.question?.quote, c.answer?.quote])]),
+    ...o.docs.flatMap(d => d.lines.map(l => `${l.name} ${l.ref || ""} ${l.product ? l.product.ref : ""}`)),
+    ...o.thread.map(id => `${MSG[id].from} ${MSG[id].subject} ${MSG[id].body}`)];
+  return { ...o, year: o.date.slice(0, 4), title: recs.map(r => r.title).filter(Boolean)[0] || "", hay: fold(texts.join(" \u0001 ")) };
+});
+const BY_KEY = new Map(OFFERS.map(o => [o.key, o]));
+const state = { type: ALL, key: "", search: "", year: "", client: "", status: "", visible: [] };
+
+function fillSelect(id, values, allLabel) {
+  $(id).innerHTML = `<option value="" data-label="${esc(allLabel)}">${esc(allLabel)}</option>` + values.map(v => `<option value="${esc(v)}" data-label="${esc(v)}">${esc(v)}</option>`).join("");
+}
+function initFilters() {
+  fillSelect("f-year", [...new Set(OFFERS.map(o => o.year))].sort(), "Toți anii");
+  fillSelect("f-client", [...new Set(OFFERS.map(o => o.client))].sort(byText), "Toți clienții");
+  const statuses = [...DATA.states, DATA.notInOdoo].filter(s => OFFERS.some(o => o.status === s));
+  fillSelect("f-status", statuses, "Toate");
+}
+
+// one test per filter; the type is the left column
+const FILTERS = {
+  type: o => !state.type || o.types.includes(state.type),
+  search: (o, q) => !q || o.hay.includes(q),
+  year: o => !state.year || o.year === state.year,
+  client: o => !state.client || o.client === state.client,
+  status: o => !state.status || o.status === state.status,
+};
+function passes(o, q, skip = "") {
+  for (const key in FILTERS) if (key !== skip && !FILTERS[key](o, q)) return false;
+  return true;
+}
+// each count follows the other filters: "Comandă de vânzare (5)" is what choosing it would show now
+function updateCounts(q) {
+  const pool = key => OFFERS.filter(o => passes(o, q, key));
+  for (const [id, key, get] of [["f-year", "year", o => o.year], ["f-client", "client", o => o.client], ["f-status", "status", o => o.status]]) {
+    const rows = pool(key);
+    for (const opt of $(id).options) {
+      const n = opt.value ? rows.filter(o => get(o) === opt.value).length : rows.length;
+      opt.textContent = `${opt.dataset.label} (${offersN(n)})`;
+      // a value with no offer under the other filters is left out of the list (unless it is the one chosen)
+      opt.hidden = opt.disabled = Boolean(opt.value) && n === 0 && opt.value !== $(id).value;
+    }
+  }
+}
+
+function renderTypes(q) {
+  const rows = OFFERS.filter(o => passes(o, q, "type"));
+  const count = t => rows.filter(o => o.types.includes(t)).length;
+  // the definition shows under the chosen kind only, the others keep it on hover: the list stays short
+  const item = (t, label, definition, n) => `<button class="item" type="button" data-type="${esc(t)}" aria-current="${t === state.type}"${definition ? ` title="${esc(definition)}"` : ""}>
+      <span class="item-top"><span class="item-title">${esc(label)}</span><span class="item-count">${offersN(n)}</span></span>
+      ${definition && t === state.type ? `<span class="item-sub">${esc(definition)}</span>` : ""}</button>`;
+  const stations = DATA.types.filter(t => t.station), others = DATA.types.filter(t => !t.station);
+  $("types").innerHTML = item(ALL, "Toate ofertele", "", rows.length)
+    + `<div class="group-head">Stații</div>` + stations.map(t => item(t.type, t.type, t.definition, count(t.type))).join("")
+    + (others.length ? `<div class="group-head">Fără stație</div>` + others.map(t => item(t.type, t.type, t.definition, count(t.type))).join("") : "");
+}
+
+function statusBadge(s) { return badge(s, STATUS_CLASS[s] || "", STATUS_HELP[s] || "Oferta nu apare în lista de oferte Odoo primită (trimestrul 3 2026)."); }
+
+function renderList(q) {
+  const inType = OFFERS.filter(o => FILTERS.type(o));
+  const rows = OFFERS.filter(o => passes(o, q)).sort((a, b) => byText(b.date, a.date));
+  state.visible = rows.map(o => o.key);
+  $("counter").textContent = `Afișate: ${rows.length} din ${offersN(inType.length)}`;
+  $("list-title").textContent = state.type ? `Ofertele care conțin: ${state.type}` : "Toate ofertele trimise";
+  // every value on the card has its label in front: the card is read without knowing the page
+  $("list").innerHTML = rows.map(o => {
+    const field = (label, value, help = "") => `<span class="field"${help ? ` title="${esc(help)}"` : ""}><span class="k">${esc(label)}:</span> ${value}</span>`;
+    const ofType = state.type && state.type !== DATA.noStation ? o.stations.filter(s => s.type === state.type) : [];
+    const what = ofType.length
+      ? field(ofType.length > 1 ? `${state.type} (${ofType.length} variante sau stații)` : state.type, esc(ofType.map(s => s.text).join(" · ")))
+      : o.stations.length
+        ? field("Stații în ofertă", esc([...new Set(o.stations.map(s => s.type))].join(", ")))
+        : field("Conține (fără stație)", esc(o.content || o.title));
+    const otherTypes = state.type ? o.types.filter(t => t !== state.type && t !== DATA.noStation) : [];
+    const value = o.total !== null
+      ? `<span class="money">${money(o.total, o.currency)}</span> cu TVA`
+      : `<span class="none">nu există un total: prețul e scris în textul emailului</span>`;
+    const status = o.status === DATA.notInOdoo ? `${badge("necunoscută", "b-warn", "Oferta nu apare în lista de oferte Odoo primită (trimestrul 3 2026).")} <span class="none">oferta nu e în lista Odoo primită</span>` : statusBadge(o.status);
+    return `<button class="item" type="button" data-key="${esc(o.key)}" aria-current="${o.key === state.key}">
+      <span class="item-top"><span class="item-title">${o.number ? `Oferta ${esc(o.number)}` : "Preț scris în email (fără PDF)"}</span><span class="item-date" title="Data la care oferta a fost trimisă prima dată">trimisă ${shortDate(o.date)}</span></span>
+      ${field("Client", esc(o.client))}
+      <span class="item-what">${what}</span>
+      ${field("Valoare", value, "Totalul cu TVA din ultima versiune trimisă clientului")}
+      ${field("Stare în Odoo", status, STATUS_HELP[o.status] || "")}
+      ${otherTypes.length ? field("Conține și", esc(otherTypes.join(", ")), "Oferta conține și stații de aceste tipuri") : ""}
+    </button>`;
+  }).join("") || `<div class="empty">Nicio ofertă pentru filtrele alese.</div>`;
+}
+
+function select(key) {
+  state.key = key;
+  for (const x of document.querySelectorAll("#list [data-key]")) {
+    const current = x.dataset.key === key;
+    x.setAttribute("aria-current", String(current));
+    if (current) x.scrollIntoView({ block: "nearest" });
+  }
+  renderDetail();
+  history.replaceState(null, "", `#${key}`);
+}
+function step(delta) {
+  const next = state.visible[state.visible.indexOf(state.key) + delta];
+  if (next) select(next);
+}
+
+// --- the open offer --------------------------------------------------------------------------------------
+
+function src(item) {
+  if (!item || !item.src) return "";
+  return `<a href="#${esc(item.src)}" class="src" data-src="${esc(item.src)}" data-q="${esc(item.quote)}" title="Deschide emailul, cu textul subliniat">↗ emailul din ${esc(dateTime(item.date))}</a>`;
+}
+// the exact words of the email, then what they mean
+function said(item, label = "") {
+  if (!item) return "";
+  return `<div class="said"><blockquote>„${esc(item.quote)}”</blockquote>
+    <div class="gist">${label ? `<b>${esc(label)}:</b> ` : ""}${hl(item.text)}${src(item)}</div></div>`;
+}
+const NONE = text => `<div class="none">${esc(text)}</div>`;
+
+function clientAttachments(o) {
+  const items = o.thread.filter(id => !MSG[id].akro).flatMap(id => MSG[id].att.map(a => ({ a, id })));
+  if (!items.length) return "";
+  return `<h4>Atașamente trimise de client</h4><ul class="plain">${items.map(({ a, id }) => `<li>${a.path ? `<a href="${esc(fileHref(a.path))}" target="_blank" rel="noopener">${esc(a.name)}</a>` : esc(a.name)}
+    ${a.reason ? `<span class="none">(${esc(a.reason)})</span>` : ""}<a href="#${esc(id)}" class="src" data-src="${esc(id)}" data-q="">↗ emailul din ${esc(dateTime(MSG[id].date))}</a></li>`).join("")}</ul>`;
+}
+
+function requestBlocks(r, many) {
+  const b1 = r.request ? said(r.request, "Pe scurt") : NONE("Cererea inițială nu apare în emailuri (de exemplu conversația începe cu oferta AKRO).");
+  const clar = r.clarifications.map(c => `<div class="clar"><div class="clar-when">Data: ${esc(dateTime((c.question || c.answer).date))}</div>
+      ${c.question ? said(c.question, "Întrebare") : ""}${c.answer ? said(c.answer, "Răspuns") : `<div class="none">Nu s-a răspuns în scris.</div>`}
+      ${c.change ? `<div class="change">${hl(c.change)}</div>` : ""}</div>`).join("");
+  const phone = r.phone.map(p => said({ ...p, text: p.text || "discuție menționată în email, fără detalii" }, "La telefon")).join("");
+  const b2 = clar + phone || NONE("Nu există clarificări în emailuri: fie nu a fost nevoie, fie s-au făcut altfel.");
+  const b3 = r.final.length ? r.final.map(f => said(f, CAMP[f.extra.camp] || f.extra.camp || "")).join("") : NONE("Emailurile nu dau cerințe precise.");
+  return `${many ? `<h3 class="request-title">Cererea: ${esc(r.title || "fără titlu")}</h3>` : ""}
+    <div class="block"><h3><span class="n">1</span>Ce s-a cerut de către client</h3><p class="block-hint">Prima cerere a clientului, în cuvintele lui.</p>${b1}</div>
+    <div class="block"><h3><span class="n">2</span>Clarificări</h3><p class="block-hint">Ce s-a întrebat și ce s-a răspuns înainte de oferta finală, de AKRO sau de client, în ordine cronologică.</p>${b2}</div>
+    <div class="block"><h3><span class="n">3</span>Cerințe finale după clarificări</h3><p class="block-hint">Ce a cerut clientul până la urmă, câte un parametru pe rând.</p>${b3}</div>`;
+}
+
+function docBlock(d) {
+  const head = `<div class="doc-head"><strong>Document: ${esc(d.kind)} ${esc(d.number)}</strong>${d.kind === "Ofertă" ? `<span>Versiunea: ${d.version}</span>` : ""}
+    <span class="none">Trimis: ${esc(dateTime(d.sent))}${d.date ? ` · Data documentului: ${esc(d.date)}` : ""}${d.expires ? ` · Valabil până la: ${esc(d.expires)}` : ""}</span>
+    <a href="#${esc(d.message)}" class="src" data-src="${esc(d.message)}" data-q="">↗ emailul cu care s-a trimis</a>
+    ${d.path ? `<a class="button" href="${esc(fileHref(d.path))}" target="_blank" rel="noopener" title="${esc(d.file)}">Deschide PDF-ul</a>` : ""}</div>`;
+  if (!d.lines.length) return `<div class="doc">${head}${NONE(`Factură de avans, fără listă de produse${d.total !== null ? `. Total cu TVA: ${money(d.total, d.currency)}` : ""}.`)}</div>`;
+  const rows = d.lines.map(l => `<tr><td>${l.ref ? `<span class="none">[${esc(l.ref)}]</span> ` : ""}${esc(l.name)}${l.section ? `<div class="none">${esc(l.section)}</div>` : ""}</td>
+    <td class="num">${l.qty === null ? "" : qf.format(l.qty)}</td><td>${esc(l.uom)}</td><td class="num">${money(l.price, l.currency)}</td>
+    <td class="num">${l.discount ? qf.format(l.discount) + "%" : ""}</td><td class="num">${money(l.amount, l.currency)}</td></tr>`).join("");
+  return `<div class="doc">${head}<div class="table-wrap"><table>
+    <thead><tr><th>Produs (codul din nomenclator între paranteze)</th><th class="num">Cantitate</th><th>Unitate</th><th class="num">Preț unitar fără TVA</th><th class="num">Reducere</th><th class="num">Valoare fără TVA</th></tr></thead>
+    <tbody>${rows}</tbody>${d.total !== null ? `<tfoot><tr><td colspan="5"><strong>Total cu TVA</strong></td><td class="num"><strong>${money(d.total, d.currency)}</strong></td></tr></tfoot>` : ""}</table></div>
+    ${d.terms.length ? `<h4>Condițiile din document</h4><ul class="terms">${d.terms.map(([k, v]) => `<li>${esc(k)}: ${esc(v)}</li>`).join("")}</ul>` : ""}</div>`;
+}
+
+function offerBlock(o) {
+  const parts = o.docs.map(docBlock);
+  for (const r of o.records) for (const t of r.offerText) parts.push(said(t, "Preț dat direct în email"));
+  const outcomes = o.records.map(r => r.outcome).filter(x => x && x.value && x.value !== "necunoscut");
+  const outcome = outcomes.length ? outcomes.map(x => said({ ...x, text: x.value + (x.text ? `. ${x.text}` : "") }, "Ce spun emailurile")).join("")
+    : `<div class="gist none">Din emailuri nu reiese dacă oferta a fost acceptată.</div>`;
+  return parts.join("") + `<h4>Rezultat</h4>${outcome}<div class="said"><div class="gist"><b>Starea în Odoo:</b> ${esc(o.status)}${STATUS_HELP[o.status] ? ` (${esc(STATUS_HELP[o.status].replace(/\.$/, "").toLowerCase())})` : ""}</div></div>`;
+}
+
+const ROLE = m => m.akro ? "Email trimis de AKRO" : "Email de la client";
+// a sign-off line ("Cu stimă,", "Kind regards / Mit freundlichen Grüßen / Cu stima,") after some text: what follows is the signature
+const SIGN_PHRASE = String.raw`(?:cu (?:stim[aă]|respect|drag|bine|considera[tț]ie)|toate cele bune|o zi (?:bun[aă]|frumoas[aă])|salut[aă]ri|(?:with )?(?:best|kind|warm|warmest)(?: regards| wishes)?|regards|pozdrawiam|mit freundlichen gr(?:[uü]ss|[uü]ß|uess)en|salutations|thank you(?: very much)?|thanks|mul[tț]umesc(?: frumos| mult)?|mul[tț]umim(?: frumos)?|v[aă] mul[tț]umesc(?: frumos)?)`;
+const SIGN_OFF = new RegExp(String.raw`^[ \t]*(?:--|${SIGN_PHRASE}(?:[ \t]*[\/,|][ \t]*${SIGN_PHRASE})*)[ \t]*[,.!]?[ \t]*$`, "gim");
+function signatureStart(text) {
+  SIGN_OFF.lastIndex = 0;
+  let m;
+  while ((m = SIGN_OFF.exec(text))) {
+    if (!text.slice(0, m.index).trim()) continue;
+    const end = text.indexOf("\n", m.index + m[0].length);
+    return end < 0 ? text.length : end + 1;
+  }
+  return text.length;
+}
+// the body in three parts: the new text, the signature and the quoted earlier emails (both folded); range = the quote to underline
+function bodyHtml(m, range) {
+  const sig = signatureStart(m.body.slice(0, m.newLen));
+  const parts = [[0, sig, ""], [sig, m.newLen, "Arată semnătura"], [m.newLen, m.body.length, "Arată textul citat din emailurile anterioare"]];
+  const html = parts.map(([from, to, label]) => {
+    const text = m.body.slice(from, to);
+    if (!text.trim()) return "";
+    let inner = esc(text), hit = false;
+    if (range && range[0] < to && range[1] > from) {
+      hit = true;
+      const a = Math.max(range[0], from) - from, b = Math.min(range[1], to) - from;
+      inner = esc(text.slice(0, a)) + `<mark>${esc(text.slice(a, b))}</mark>` + esc(text.slice(b));
+    }
+    return label ? `<details${hit ? " open" : ""}><summary>${label}</summary>${inner}</details>` : inner;
+  }).join("");
+  return m.body.slice(0, m.newLen).trim() ? html : '<span class="none">(emailul nu are text nou: doar redirecționează sau citează emailuri anterioare)</span>' + html;
+}
+function messageHtml(id) {
+  const m = MSG[id];
+  return `<article class="msg${m.akro ? " akro" : ""}" id="${esc(id)}">
+    <div class="msg-head"><div class="msg-top"><span class="role">${ROLE(m)}</span><span class="who"><span class="k">De la:</span> ${esc(m.from)}</span><span class="when"><span class="k">Data:</span> ${esc(dateTime(m.date))}</span></div>
+      <span class="line"><span class="k">Către:</span> ${esc(m.to)}${m.cc ? ` · <span class="k">Cc:</span> ${esc(m.cc)}` : ""}</span>
+      <span class="line"><span class="k">Subiect:</span> ${esc(m.subject)}</span></div>
+    <div class="msg-body" data-body>${bodyHtml(m, null)}</div>
+    ${m.att.length ? `<div class="att"><span class="k">Atașamente:</span> ${m.att.map(a => a.path ? `<a href="${esc(fileHref(a.path))}" target="_blank" rel="noopener">${esc(a.name)}</a>${a.reason ? `<span class="muted">(${esc(a.reason)})</span>` : ""}` : `<span>${esc(a.name)} <span class="muted">(${esc(a.reason)})</span></span>`).join("")}</div>` : ""}
+  </article>`;
+}
+
+// the glossary terms of the offer, explained once at the end (hover does not work on a phone)
+function termsBlock(o) {
+  const text = [...o.stations.map(s => s.text), o.content, ...o.records.flatMap(r => [r.request?.text, ...r.final.map(f => f.text),
+    ...r.clarifications.flatMap(c => [c.question?.text, c.answer?.text, c.change]), ...r.phone.map(p => p.text)])].join(" \u0001 ");
+  const terms = [...new Set(termSpans(text).map(sp => sp.g))].sort((a, b) => a.term.localeCompare(b.term, "ro", { sensitivity: "base" }));
+  return terms.length ? `<section class="messages"><h3>Termeni din această ofertă</h3>
+    <dl class="terms">${terms.map(g => `<dt>${esc(g.term)}</dt><dd>${esc(g.text)}</dd>`).join("")}</dl></section>` : "";
+}
+
+function renderDetail() {
+  const o = BY_KEY.get(state.key);
+  if (!o) { $("detail").innerHTML = `<div class="empty">Alege o ofertă din listă.</div>`; return; }
+  underlined = new Set();
+  const index = state.visible.indexOf(o.key);
+  const nav = index < 0 ? "" : `<div class="detail-nav"><button type="button" data-step="-1"${index === 0 ? " disabled" : ""}>Anterioara</button>
+      <span>Oferta ${index + 1} din ${state.visible.length} afișate</span><button type="button" data-step="1"${index === state.visible.length - 1 ? " disabled" : ""}>Următoarea</button></div>`;
+  const stations = o.stations.length
+    ? o.stations.map(s => `<div class="station"><span class="k">Tip:</span> <strong>${esc(s.type)}</strong>. <span class="k">Ce e:</span> ${hl(s.text)}${src(s)}</div>`).join("")
+    : `<div class="station"><strong>Fără stație:</strong> ${hl(o.content || "oferta nu conține nicio stație")}</div>`;
+  const convs = o.convs.map(c => `<a href="emailuri.html#${esc(c.id)}" title="${esc(c.subject)}">conversația nr. ${esc(c.nr)}</a>`).join(", ");
+  $("detail").innerHTML = `
+    <div class="detail-head">
+      <div class="detail-head-top"><h2>${o.number ? `Oferta ${esc(o.number)}` : "Preț scris în email (fără PDF)"}</h2>${nav}</div>
+      <div class="meta"><span><span class="k">Client:</span> <b>${esc(o.client)}</b></span><span><span class="k">Trimisă prima dată:</span> ${esc(dateTime(o.date))}</span>
+        <span title="Totalul cu TVA din ultima versiune trimisă"><span class="k">Valoare:</span> ${o.total !== null ? `<span class="money">${money(o.total, o.currency)}</span> cu TVA (ultima versiune)` : "nu există un total, prețul e scris în textul emailului"}</span>
+        <span><span class="k">Stare în Odoo:</span> ${o.status === DATA.notInOdoo ? `${badge("necunoscută", "b-warn", "Oferta nu apare în lista de oferte Odoo primită (trimestrul 3 2026).")} oferta nu e în lista Odoo primită` : statusBadge(o.status)}</span></div>
+      <div class="meta">${o.kinds.length ? `<span><span class="k">Documente trimise:</span> ${esc(o.kinds.join(", "))}</span>` : ""}<span><span class="k">Conversația în emailuri.html:</span> ${convs}</span>
+        ${o.pdf ? `<a class="button primary" href="${esc(fileHref(o.pdf.path))}" target="_blank" rel="noopener" title="${esc(o.pdf.file)}">Deschide PDF-ul</a>` : ""}</div>
+    </div>
+    <div class="stations"><h3>Ce stații conține oferta</h3><p class="block-hint" style="margin-left:0">Fiecare stație cu tipul ei; linkul „↗ data” arată linia din ofertă sau din email din care reiese.</p>${stations}</div>
+    <div class="steps" style="--rows: ${o.records.length * (o.records.length > 1 ? 2 : 1)}">${o.records.map(r => requestBlocks(r, o.records.length > 1)).join("")}
+    <div class="block offer"><h3><span class="n">4</span>Oferta trimisă</h3><p class="block-hint">Documentele Odoo trimise clientului, de la prima versiune la ultima, cu liniile și prețurile lor (prețuri fără TVA, total cu TVA), apoi rezultatul.</p>${offerBlock(o)}</div></div>
+    <section class="messages"><h3>Emailurile, de la cap la coadă (${o.thread.length} ${o.thread.length === 1 ? "email" : "emailuri"})</h3>
+      <p class="hint">Toate emailurile dintre AKRO și client despre această ofertă, în ordine cronologică${o.convs.length > 1 ? `, din ${o.convs.length} conversații legate prin același număr de document` : ""}.</p>
+      ${o.thread.map(messageHtml).join("")}</section>
+    ${termsBlock(o)}`;
+  $("detail-scroll").scrollTop = 0;
+}
+
+// --- source links: open the email and underline the quote ------------------------------------------------
+
+function normalizedMap(text) {
+  let out = "", map = [], space = false;
+  for (let i = 0; i < text.length; i++) {
+    const ch = text[i];
+    if (/\s/.test(ch)) { if (!space && out) { out += " "; map.push(i); } space = true; continue; }
+    space = false;
+    for (const f of fold(ch)) { out += f; map.push(i); }
+  }
+  return { out, map };
+}
+function findQuote(text, quote) {
+  const q = fold(quote).replace(/\s+/g, " ").trim();
+  if (!q) return null;
+  const { out, map } = normalizedMap(text);
+  const at = out.indexOf(q);
+  return at < 0 ? null : [map[at], map[at + q.length - 1] + 1];
+}
+function openSource(id, quote) {
+  const el = document.getElementById(id);
+  if (!el) return;
+  const m = MSG[id];
+  el.querySelector(".note")?.remove();
+  const range = quote ? findQuote(m.body, quote) : null;
+  el.querySelector("[data-body]").innerHTML = bodyHtml(m, range);
+  if (quote && !range) el.querySelector("[data-body]").insertAdjacentHTML("beforebegin", `<div class="note">Textul vine dintr-un atașament al acestui email (de exemplu PDF-ul ofertei): „${esc(quote)}”</div>`);
+  el.classList.add("flash");
+  setTimeout(() => el.classList.remove("flash"), 1600);
+  (el.querySelector("mark") || el).scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "center" });
+}
+
+// --- wiring ----------------------------------------------------------------------------------------------
+
+function render() {
+  const q = fold(state.search.trim());
+  updateCounts(q);
+  renderTypes(q);
+  renderList(q);
+}
+let timer;
+$("search").addEventListener("input", e => { state.search = e.target.value; clearTimeout(timer); timer = setTimeout(render, 150); });
+for (const [id, key] of [["f-year", "year"], ["f-client", "client"], ["f-status", "status"]]) $(id).addEventListener("change", e => { state[key] = e.target.value; render(); });
+$("reset").addEventListener("click", () => {
+  Object.assign(state, { search: "", year: "", client: "", status: "" });
+  for (const id of ["search", "f-year", "f-client", "f-status"]) $(id).value = "";
+  render();
+});
+$("types").addEventListener("click", e => {
+  const b = e.target.closest("[data-type]");
+  if (!b) return;
+  state.type = b.dataset.type;
+  render();
+});
+$("list").addEventListener("click", e => {
+  const b = e.target.closest("[data-key]");
+  if (!b) return;
+  select(b.dataset.key);
+  if (matchMedia("(max-width: 900px)").matches) $("detail-col").scrollIntoView();
+});
+$("list").addEventListener("keydown", e => {
+  if (e.key !== "ArrowDown" && e.key !== "ArrowUp") return;
+  const items = [...$("list").querySelectorAll("[data-key]")];
+  const next = items[items.indexOf(document.activeElement) + (e.key === "ArrowDown" ? 1 : -1)];
+  if (!next || items.indexOf(document.activeElement) < 0) return;
+  e.preventDefault();
+  next.focus();
+  select(next.dataset.key);
+});
+$("detail").addEventListener("click", e => {
+  const a = e.target.closest("a.src");
+  if (a) { e.preventDefault(); openSource(a.dataset.src, a.dataset.q); return; }
+  const s = e.target.closest("[data-step]");
+  if (s) step(Number(s.dataset.step));
+});
+
+function applyTheme(dark) {
+  document.documentElement.toggleAttribute("data-theme", dark);
+  if (dark) document.documentElement.dataset.theme = "dark";
+  $("theme").textContent = dark ? "Temă luminoasă" : "Temă întunecată";
+}
+let savedTheme = "";
+try { savedTheme = localStorage.getItem("emailuri-tema") || ""; } catch (e) { /* storage blocked: stay light */ }
+applyTheme(savedTheme === "dark");
+$("theme").addEventListener("click", () => {
+  const dark = document.documentElement.dataset.theme !== "dark";
+  applyTheme(dark);
+  try { localStorage.setItem("emailuri-tema", dark ? "dark" : "light"); } catch (e) { /* not remembered */ }
+});
+
+initFilters();
+// statii.html#S02518 opens that offer (links from alamo.html and the answers page)
+const linked = BY_KEY.get(decodeURIComponent(location.hash.slice(1)));
+if (linked) state.key = linked.key;
+render();
+if (linked) renderDetail();
+
+// collapse buttons on the side lists; a collapsed strip also opens with a click anywhere on it
+document.querySelectorAll("main > .col:not(#detail-col)").forEach(col => {
+  const head = col.querySelector(".col-head");
+  const btn = document.createElement("button");
+  btn.type = "button";
+  btn.className = "col-toggle";
+  btn.innerHTML = '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3.5 5.5 8l4.5 4.5"/></svg>';
+  const sync = () => {
+    const collapsed = col.classList.contains("collapsed");
+    btn.setAttribute("aria-expanded", String(!collapsed));
+    btn.title = (collapsed ? "Extinde: " : "Restrânge: ") + col.getAttribute("aria-label");
+    btn.setAttribute("aria-label", btn.title);
+  };
+  btn.addEventListener("click", e => { e.stopPropagation(); col.classList.toggle("collapsed"); sync(); });
+  head.addEventListener("click", () => { if (col.classList.contains("collapsed")) btn.click(); });
+  head.append(btn);
+  sync();
+});
+</script>
+</body>
+</html>

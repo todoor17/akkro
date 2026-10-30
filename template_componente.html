@@ -1,0 +1,826 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Componentele stațiilor</title>
+<style>
+  /* the same palette as emailuri.html: light by default, "Temă întunecată" switches */
+  :root {
+    color-scheme: light;
+    --bg: #f6f7f9; --surface: #ffffff; --text: #1d232b; --muted: #5f6b7a; --border: #dfe3e8;
+    --title: #6d28d9; --step-bg: #e4edfc; --offer-bg: #e1f3e6;
+    --accent: #1860d6; --accent-soft: #e7f0ff; --row-hover: #f2f6fc;
+    --ok: #16752f; --ok-soft: #e6f4ea; --bad: #b42318; --bad-soft: #fdecea; --warn: #875a00; --warn-soft: #fff4d6;
+    --mark: #ffe58a; --akro-soft: #e9f0fc; --akro-line: #bfd2f3;
+    --odoo: #6b21a8; --odoo-soft: #f3e8ff; --odoo-line: #d8b4fe;
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --bg: #11151a; --surface: #191f26; --text: #e6e9ed; --muted: #9aa5b1; --border: #2b333d;
+    --title: #c4b5fd; --step-bg: #1c2a3f; --offer-bg: #182f22;
+    --accent: #5b9dff; --accent-soft: #1b2a40; --row-hover: #1f2731;
+    --ok: #5cc27a; --ok-soft: #173322; --bad: #ff8577; --bad-soft: #3a1c1a; --warn: #e6b450; --warn-soft: #362b12;
+    --mark: #6b5a12; --akro-soft: #1e2a3d; --akro-line: #34507a;
+    --odoo: #dcc2ff; --odoo-soft: #33204d; --odoo-line: #6d4a9c;
+  }
+  * { box-sizing: border-box; }
+  ::selection { background: var(--accent-soft); color: var(--text); }
+  :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  html { scrollbar-color: var(--border) transparent; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 14px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    display: flex; flex-direction: column; height: 100vh; height: 100dvh; }
+  header { padding: 16px 20px 8px; }
+  h1 { margin: 0; font-size: 20px; line-height: 1.25; }
+  .title-row { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+  .title-row h1 { margin-right: auto; }
+  .theme { flex: none; font-size: 12px; padding: 3px 10px; }
+  .summary { margin-top: 6px; font-size: 12px; color: var(--muted); }
+  .summary > summary { display: flex; align-items: baseline; gap: 6px; width: fit-content; max-width: 100%; cursor: pointer; list-style: none; border-radius: 4px; }
+  .summary > summary::-webkit-details-marker { display: none; }
+  .summary > summary::before { content: ""; flex: none; align-self: center; width: 0; height: 0; border-left: 5px solid currentColor; border-block: 4px solid transparent; transition: transform .15s ease-out; }
+  .summary[open] > summary::before { transform: rotate(90deg); }
+  .summary > summary:hover .summary-title { color: var(--text); }
+  .summary-title { font-weight: 600; }
+  .summary-line { font-variant-numeric: tabular-nums; }
+  .summary-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, max-content)); gap: 8px 32px; margin-top: 8px; }
+  .summary h2 { margin: 0 0 4px; font-size: 12px; font-weight: 600; color: var(--text); }
+  .summary dl { display: grid; grid-template-columns: auto auto; gap: 2px 16px; margin: 0; }
+  .summary dt { margin: 0; }
+  .summary dd { margin: 0; text-align: right; font-weight: 600; color: var(--text); font-variant-numeric: tabular-nums; }
+  .help { max-width: 820px; margin-top: 8px; color: var(--text); font-size: 13px; }
+  .help p { margin: 6px 0; }
+  .field { display: block; margin-top: 3px; font-size: 12px; color: var(--text); overflow-wrap: anywhere; }
+  .k { color: var(--muted); font-weight: 400; }
+  .item-what .field { font-size: 13px; }
+  .detail-head .meta + .meta, .link-card .meta { margin-top: 6px; }
+  .help dl { display: grid; grid-template-columns: max-content 1fr; gap: 3px 14px; margin: 4px 0 10px; }
+  .help dt { font-weight: 600; }
+  .help dd { margin: 0; }
+  abbr.term { text-decoration: underline dotted; text-underline-offset: 3px; cursor: help; }
+  .block-hint { margin: -4px 0 8px 30px; color: var(--muted); font-size: 12px; }
+  dl.terms { display: grid; grid-template-columns: max-content 1fr; gap: 4px 14px; margin: 0; font-size: 13px; }
+  dl.terms dt { font-weight: 600; }
+  dl.terms dd { margin: 0; }
+  @media (max-width: 600px) { .help dl, dl.terms { grid-template-columns: 1fr; } }
+  @media (prefers-reduced-motion: reduce) { .summary > summary::before { transition: none; } }
+
+  .panel { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; margin: 8px 20px 12px; padding: 12px; }
+  .filters { display: grid; grid-template-columns: minmax(220px, 2fr) repeat(3, minmax(140px, 1fr)) auto; gap: 10px 12px; align-items: end; }
+  input[type=date] { font: inherit; color: var(--text); background: var(--surface); border: 1px solid var(--border); border-radius: 6px; height: 32px; padding: 0 8px; width: 100%; min-width: 0; }
+  .required { color: var(--bad); }
+  .link-card { border: 1px solid var(--odoo-line); border-radius: 8px; padding: 10px 12px; margin: 8px 0; background: var(--surface); }
+  .link-head { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; margin-bottom: 4px; }
+  .link-head strong { font-size: 14px; }
+  .link-why { font-size: 13px; margin: 4px 0 6px; }
+  .compare { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 12px; margin-top: 8px; }
+  .compare h4 { margin-top: 0; }
+  .related summary { cursor: pointer; font-size: 13px; }
+  .related { margin: 8px 0; padding: 8px 12px; border: 1px dashed var(--border); border-radius: 8px; }
+  .filters label { display: flex; flex-direction: column; justify-content: flex-end; gap: 4px; min-width: 0; font-size: 12px; color: var(--muted); }
+  input[type=search], select { font: inherit; color: var(--text); background: var(--surface); border: 1px solid var(--border); border-radius: 6px; height: 32px; padding: 0 8px; width: 100%; min-width: 0; }
+  input[type=search]::placeholder { color: var(--muted); }
+  input[type=search]:hover, select:hover { border-color: var(--muted); }
+  button, .button { font: inherit; color: var(--text); background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 5px 10px; cursor: pointer; text-decoration: none; display: inline-block; }
+  button:hover:not(:disabled), .button:hover { border-color: var(--accent); }
+  .button.primary { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+  :root[data-theme="dark"] .button.primary { color: #0b1220; }
+  .button.primary:hover { filter: brightness(1.08); }
+  .reset-wrap { display: flex; align-items: center; gap: 12px; height: 32px; }
+  .counter { font-weight: 600; white-space: nowrap; font-variant-numeric: tabular-nums; }
+
+  /* two columns: the conversations with ALAMO | the open one */
+  main { flex: 1 1 auto; min-height: 0; display: grid; --c1: minmax(320px, 430px); grid-template-columns: var(--c1) minmax(0, 1fr); gap: 12px; margin: 0 20px 16px; }
+  .col { min-height: 0; display: flex; flex-direction: column; background: var(--surface); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+  .col-head { padding: 10px 12px; border-bottom: 1px solid var(--border); font-size: 12px; color: var(--muted); }
+  .col-head h2 { margin: 0; font-size: 13px; color: var(--text); }
+  .col-body { flex: 1 1 auto; min-height: 0; overflow: auto; }
+  /* the side lists collapse, one at a time, to a strip so the open item gets the width */
+  main:has(> .col:nth-child(1).collapsed) { --c1: 40px; }
+  main:has(> .col:nth-child(2).collapsed) { --c2: 40px; }
+  .col-head { position: relative; }
+  .col-head h2 { padding-right: 30px; }
+  .col-toggle { position: absolute; top: 5px; right: 6px; width: 26px; height: 26px; padding: 0; display: grid; place-items: center; color: var(--muted); background: transparent; border-color: transparent; }
+  .col-toggle:hover:not(:disabled) { color: var(--text); border-color: var(--border); }
+  .col-toggle svg { width: 14px; height: 14px; }
+  .col.collapsed .col-body, .col.collapsed .col-head > :not(h2, .col-toggle) { display: none; }
+  .col.collapsed .col-head { flex: 1 1 auto; border-bottom: 0; cursor: pointer; }
+  .col.collapsed .col-toggle svg { transform: rotate(180deg); }
+  @media (min-width: 901px) {
+    .col.collapsed .col-head { padding: 40px 0 12px; }
+    .col.collapsed .col-head h2 { writing-mode: vertical-rl; margin: 0 auto; padding: 0; white-space: nowrap; }
+  }
+  @media (max-width: 900px) {
+    .col-toggle svg { transform: rotate(90deg); }
+    .col.collapsed .col-toggle svg { transform: rotate(-90deg); }
+  }
+  .item { all: unset; box-sizing: border-box; display: block; width: 100%; padding: 9px 12px; border-bottom: 1px solid var(--border); cursor: pointer; }
+  .item:hover { background: var(--row-hover); }
+  .item:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
+  .item[aria-current=true] { background: var(--accent-soft); box-shadow: inset 3px 0 0 var(--accent); }
+  .item-top { display: flex; align-items: baseline; gap: 8px; }
+  .item-title { flex: 1 1 auto; min-width: 0; font-weight: 600; overflow-wrap: anywhere; }
+  /* list titles and the open item's title in purple, so they stand out from the details under them */
+  .item-title, .detail-head h2 { color: var(--title); }
+  .item-count, .item-date { flex: none; color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; }
+  .item[aria-current=true] .item-count { color: var(--accent); font-weight: 600; }
+  .item-sub { color: var(--muted); font-size: 12px; margin-top: 2px; overflow-wrap: anywhere; }
+  .item-what { margin-top: 3px; font-size: 13px; overflow-wrap: anywhere; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; }
+  .item-badges { display: flex; flex-wrap: wrap; gap: 4px 6px; margin-top: 5px; align-items: center; }
+  .group-head { padding: 12px 12px 6px; font-size: 11px; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: var(--muted); border-bottom: 1px solid var(--border); background: var(--bg); }
+  .money { font-weight: 600; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .empty { padding: 32px 16px; text-align: center; color: var(--muted); }
+
+  .badge { display: inline-block; border-radius: 999px; padding: 1px 8px; font-size: 12px; white-space: nowrap; background: var(--bg); color: var(--muted); border: 1px solid var(--border); }
+  .b-ok { background: var(--ok-soft); color: var(--ok); border-color: transparent; }
+  .b-bad { background: var(--bad-soft); color: var(--bad); border-color: transparent; }
+  .b-warn { background: var(--warn-soft); color: var(--warn); border-color: transparent; }
+  .b-info { background: var(--accent-soft); color: var(--accent); border-color: transparent; }
+  .b-odoo { background: var(--odoo-soft); color: var(--odoo); border-color: var(--odoo-line); }
+
+  /* the open offer */
+  #detail { padding: 0 20px 32px; }
+  #detail > .empty { margin-top: 16px; }
+  .detail-head { position: sticky; top: 0; z-index: 2; margin: 0 -20px 14px; padding: 14px 20px 12px; background: var(--surface); border-bottom: 1px solid var(--border); }
+  .detail-head-top { display: flex; align-items: flex-start; gap: 12px; }
+  .detail-head h2 { flex: 1 1 auto; min-width: 0; margin: 0 0 6px; font-size: 18px; line-height: 1.3; overflow-wrap: anywhere; }
+  .detail-nav { flex: none; display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .detail-nav button { padding: 3px 8px; font-size: 12px; }
+  .detail-nav button:disabled { opacity: .45; cursor: default; }
+  .meta { color: var(--muted); font-size: 12px; display: flex; flex-wrap: wrap; align-items: center; gap: 4px 14px; }
+  .meta .money { color: var(--text); font-size: 14px; }
+  .stations { margin: 0 0 14px; padding: 10px 12px; border-radius: 8px; background: var(--bg); border: 1px solid var(--border); }
+  .stations h3 { margin: 0 0 6px; font-size: 13px; }
+  .station { margin: 6px 0; }
+  .station strong { font-size: 13px; }
+  .request-title { margin: 18px 0 6px; font-size: 14px; color: var(--muted); }
+  /* the three steps side by side, read left to right */
+  #detail { container: detail / inline-size; }
+  .steps { display: grid; gap: 1px; background: var(--border); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+  .steps > * { min-width: 0; background: var(--surface); }
+  .steps a.src { white-space: normal; }
+  @container detail (min-width: 820px) {
+    .steps { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1.6fr); }
+  }
+  .block { padding: 10px 12px; }
+  .steps > .block { background: var(--step-bg); }
+  .steps > .links-col { background: var(--offer-bg); }
+  .links-col .link-card { background: transparent; }
+  .links-col { container: links / inline-size; }
+  @container links (max-width: 620px) { .compare { grid-template-columns: minmax(0, 1fr); } }
+  .block h3 { margin: 0 0 8px; font-size: 14px; display: flex; align-items: center; gap: 8px; }
+  .block h3 .n { display: inline-grid; place-items: center; flex: none; width: 22px; height: 22px; border-radius: 50%; background: var(--accent-soft); color: var(--accent); font-size: 12px; }
+  .block h4 { margin: 10px 0 4px; font-size: 12px; color: var(--muted); font-weight: 600; }
+  .none { color: var(--muted); font-style: italic; }
+  /* the exact words of the email first, what they mean (the analysis) under them */
+  .said { margin: 8px 0; }
+  .said blockquote { margin: 0; padding: 2px 0 2px 10px; border-left: 3px solid var(--accent); font-size: 14px; overflow-wrap: anywhere; }
+  .said .gist { margin-top: 2px; padding-left: 13px; color: var(--muted); font-size: 12px; }
+  .said .gist b { color: var(--text); font-weight: 600; }
+  a { color: var(--accent); text-underline-offset: 2px; }
+  a.src { font-size: 12px; white-space: nowrap; text-decoration: none; margin-left: 4px; }
+  a.src:hover { text-decoration: underline; }
+  ul.plain { margin: 0; padding-left: 18px; }
+  ul.plain li { margin: 3px 0; }
+  .clar { padding: 6px 0; border-top: 1px dashed var(--border); }
+  .clar:first-of-type { border-top: 0; }
+  .clar-when { color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; }
+  .change { color: var(--text); font-size: 12px; margin: 2px 0 0 13px; }
+  .change::before { content: "Ce s-a schimbat: "; color: var(--muted); }
+  .table-wrap { overflow-x: auto; }
+  table { border-collapse: collapse; width: 100%; font-size: 12px; }
+  th, td { padding: 4px 6px; border-bottom: 1px solid var(--border); text-align: left; vertical-align: top; }
+  th { color: var(--muted); font-weight: 600; white-space: nowrap; }
+  td.num, th.num { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .doc { margin: 6px 0 14px; }
+  .doc-head { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; margin-bottom: 6px; }
+  .doc-head strong { font-size: 13px; }
+  .terms { margin: 4px 0 0; padding-left: 18px; color: var(--muted); font-size: 12px; }
+
+  /* the emails, like a mail client: theirs on the left, AKRO's on the right */
+  .messages h3 { margin: 26px 0 4px; font-size: 15px; }
+  .messages .hint { margin: 0 0 8px; color: var(--muted); font-size: 12px; }
+  .msg { border: 1px solid var(--border); border-radius: 8px; margin: 10px 48px 10px 0; scroll-margin-top: 150px; background: var(--surface); }
+  .msg.akro { margin: 10px 0 10px 48px; background: var(--akro-soft); border-color: var(--akro-line); }
+  .msg.akro .msg-head { border-bottom-color: var(--akro-line); }
+  .msg.flash { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .msg-head { padding: 8px 12px; border-bottom: 1px solid var(--border); font-size: 12px; color: var(--muted); display: grid; gap: 2px; }
+  .msg-top { display: flex; align-items: baseline; gap: 8px; }
+  .msg-top .when { margin-left: auto; white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .role { flex: none; font-size: 11px; font-weight: 600; letter-spacing: .02em; color: var(--muted); }
+  .msg.akro .role { color: var(--accent); }
+  .msg-head .who { color: var(--text); font-weight: 600; font-size: 13px; overflow-wrap: anywhere; }
+  .msg-head .line { overflow-wrap: anywhere; }
+  .msg-body { padding: 10px 12px; white-space: pre-wrap; overflow-wrap: anywhere; font-size: 13px; }
+  .msg-body details { margin-top: 8px; color: var(--muted); }
+  .msg-body summary { cursor: pointer; font-size: 12px; white-space: normal; width: fit-content; }
+  mark { background: var(--mark); color: inherit; text-decoration: underline; text-decoration-thickness: 2px; border-radius: 2px; }
+  .att { padding: 6px 12px 10px; font-size: 12px; display: flex; flex-wrap: wrap; gap: 4px 12px; border-top: 1px dashed var(--border); }
+  .att .muted { color: var(--muted); }
+  .note { margin: 6px 12px 0; padding: 6px 8px; border-radius: 6px; background: var(--warn-soft); color: var(--text); font-size: 12px; white-space: normal; }
+
+  @media (max-width: 1200px) {
+    main { --c1: minmax(280px, 360px); }
+    .filters { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .filters label:first-child { grid-column: 1 / -1; }
+  }
+  @media (max-width: 900px) {
+    /* phone and small tablets: the page scrolls, the columns stack */
+    body { display: block; height: auto; }
+    header, .panel, main { margin-left: 16px; margin-right: 16px; }
+    header { padding-left: 0; padding-right: 0; }
+    main { display: flex; flex-direction: column; }
+    .col { max-height: 70dvh; }
+    #detail-col { max-height: none; }
+    .msg, .msg.akro { margin-left: 0; margin-right: 0; }
+    .msg.akro { margin-left: 16px; }
+    .detail-head-top { flex-direction: column; gap: 4px; }
+    .compare { grid-template-columns: minmax(0, 1fr); }
+  }
+  /* Phase 5: the side list has a group of conclusions above the sold stations; the open station has three steps */
+  .item.view .item-title { color: var(--accent); }
+  .gaps { margin: 0 0 14px; padding: 10px 12px; border-radius: 8px; background: var(--warn-soft); border: 1px solid transparent; font-size: 13px; }
+  .gaps h3 { margin: 0 0 4px; font-size: 13px; }
+  .order { border: 1px solid var(--border); border-radius: 8px; padding: 8px 10px; margin: 8px 0; background: var(--surface); }
+  .order.sure { border-color: var(--ok); }
+  .order-head { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; margin-bottom: 4px; }
+  .order-head strong { font-size: 14px; }
+  .order details { margin-top: 6px; }
+  .order details > summary { cursor: pointer; font-size: 12px; color: var(--muted); }
+  .hints { margin-top: 10px; }
+  .hints > summary { cursor: pointer; font-size: 13px; font-weight: 600; }
+  .parts { margin: 16px 0 0; }
+  .parts h3, .answer h3, .view-body h3 { margin: 18px 0 6px; font-size: 15px; }
+  .answer { margin: 0 0 22px; padding: 12px 14px; border: 1px solid var(--border); border-radius: 8px; background: var(--surface); }
+  .answer h3 { margin-top: 0; color: var(--title); }
+  .answer p { margin: 6px 0; font-size: 14px; }
+  .answer details { margin-top: 8px; }
+  .answer details > summary { cursor: pointer; font-size: 13px; color: var(--muted); }
+  .note-box { margin: 0 0 14px; padding: 10px 12px; border-radius: 8px; background: var(--bg); border: 1px solid var(--border); font-size: 13px; }
+  .note-box p { margin: 4px 0; }
+  td.code { white-space: nowrap; font-variant-numeric: tabular-nums; }
+  tr.target > td { background: var(--accent-soft); }
+</style>
+</head>
+<body>
+<header>
+  __NAV__
+  <div class="title-row">
+    <h1>Din ce sunt făcute stațiile vândute</h1>
+    <button type="button" class="theme" id="theme">Temă întunecată</button>
+  </div>
+  <details class="summary">
+    <summary><span class="summary-title">Rezumat</span> <span class="summary-line">__SUMMARY_LINE__</span></summary>
+    <div class="summary-grid">__SUMMARY__</div>
+  </details>
+  <details class="summary">
+    <summary><span class="summary-title">Cum se citește pagina</span></summary>
+    <div class="help">
+      <p><b>Ce e pe pagină.</b> Stațiile pe care AKRO le-a vândut (oferte cu cel puțin o stație, din statii.html, pe care clientul
+        le-a comandat) și, pentru fiecare, drumul de la cerere la furnizor: ce a cerut clientul, ce i-a ofertat AKRO și ce a
+        comandat AKRO de la ALAMO WATER POLAND ca să construiască stația. Din comparația lor reiese din ce piese e făcută o stație.</p>
+      <p><b>Lista din stânga</b> începe cu concluziile: răspunsurile la cele trei întrebări ale tichetului, tabelul cu componentele
+        și lista comenzilor către ALAMO. Sub ele sunt stațiile vândute, în ordinea datei vânzării (prima confirmare de comandă
+        trimisă clientului sau, fără ea, prima ofertă).</p>
+      <p><b>Lanțul</b> unei stații poate fi:</p>
+      <dl>
+        <dt>complet</dt><dd>Se văd cerința clientului, oferta și o comandă către furnizor legată sigur de vânzare, cu liniile ei.</dd>
+        <dt>parțial</dt><dd>Există o comandă legată de vânzare, dar lipsește o parte (de exemplu cererea clientului nu e în emailuri).
+          Ce lipsește e scris pe galben, sus, la stația deschisă.</dd>
+        <dt>fără comandă</dt><dd>Nicio comandă către furnizor nu e legată de vânzare. Pot exista doar indicii din aceeași perioadă.</dd>
+      </dl>
+      <p><b>Cum se leagă o comandă de vânzare</b>, de la cea mai sigură la cea mai slabă:</p>
+      <dl>
+        <dt>legată în Odoo</dt><dd>În lista comenzilor de achiziție din Odoo, câmpul „Document sursă” al comenzii e chiar oferta clientului.</dd>
+        <dt>numită în PDF-ul comenzii</dt><dd>Sub liniile comenzii AKRO scrie numărul ofertei clientului.</dd>
+        <dt>legată în Faza 4</dt><dd>Legătura găsită la analiza conversațiilor cu ALAMO (alamo.html), cu dovezi. E de confirmat.</dd>
+        <dt>indiciu din perioadă</dt><dd>Doar pentru stațiile asamblate din butelie, vană și mediu filtrant: comenzile către ALAMO
+          trimise între <span id="w-before"></span> de zile înainte și <span id="w-after"></span> de zile după vânzare, cu piese din aceleași grupe de produse, pe care Odoo
+          sau Faza 4 nu le leagă de altă vânzare (comenzi pentru stoc sau fără sursă). Arată ce s-a mai comandat în acea perioadă și
+          nu e explicat de altă vânzare. Nu sunt legături.</dd>
+      </dl>
+      <p><b>Stația deschisă</b> are trei blocuri: cerința clientului, soluția ofertată și comenzile către furnizor. Textul între
+        ghilimele e copiat exact din email sau din PDF; sub el, cu gri, e ce înseamnă. Linkul „↗ data” deschide emailul mai jos, cu
+        fragmentul subliniat; dacă fragmentul vine dintr-un PDF atașat, emailul se deschide cu o notă galbenă. Sub blocuri, la
+        stațiile analizate, e lista pieselor stației, cu rolul fiecăreia și cantitatea pe stație, și observațiile. Mai jos sunt toate
+        emailurile, în ordine cronologică: cele cu clientul și cele cu ALAMO despre comenzile legate.</p>
+      <p><b>Prețurile.</b> Ofertele către clienți au prețurile fără TVA, în moneda ofertei. Comenzile către ALAMO sunt în EUR, fără TVA
+        (ALAMO e în Polonia). Monedele nu se adună.</p>
+      <p><b>Termenii tehnici</b> (DLFC, by-pass, butelie, vas de saramură ...) sunt subliniați cu puncte; explicația apare când ții
+        mouse-ul pe ei și e scrisă și la sfârșitul stației deschise.</p>
+    </div>
+  </details>
+</header>
+
+<section class="panel">
+  <div class="filters">
+    <label>Caută în text (client, produse, coduri, emailuri)
+      <input type="search" id="search" placeholder="de ex. 21x62, Clack WS2, P01380 sau KDC" autocomplete="off">
+    </label>
+    <label>Lanț <select id="f-chain"></select></label>
+    <label>Analiză <select id="f-analysed"><option value="">Toate</option><option value="1">Doar stațiile analizate</option><option value="0">Doar cele neanalizate</option></select></label>
+    <span></span>
+    <div class="reset-wrap"><span class="counter" id="counter" aria-live="polite"></span><button id="reset" type="button">Șterge filtrele</button></div>
+  </div>
+</section>
+
+<main id="main">
+  <section class="col" aria-label="Concluzii și stații vândute">
+    <div class="col-head"><h2 id="list-title">Stații vândute</h2></div>
+    <div class="col-body" id="list"></div>
+  </section>
+  <section class="col" id="detail-col" aria-label="Ce e deschis">
+    <div class="col-body" id="detail-scroll"><div id="detail"><div class="empty">Alege din listă.</div></div></div>
+  </section>
+</main>
+
+<script>
+const DATA = /*__DATA__*/{};
+const STATUS_CLASS = { "Comandă de vânzare": "b-ok", "Ofertă trimisă": "b-info", "Anulat": "b-bad", "Ofertă": "b-warn" };
+const CHAIN_CLASS = { "complet": "b-ok", "parțial": "b-warn", "fără comandă": "b-bad" };
+const LINK_CLASS = { odoo: "b-ok", pdf: "b-ok", faza4: "b-warn", perioada: "" };
+const LINK_ORDER = ["odoo", "pdf", "faza4", "perioada"];
+const CAMP = { "tip echipament": "Tip echipament", debit: "Debit", capacitate: "Capacitate", cantitate: "Cantitate", racord: "Racord",
+  tensiune: "Tensiune", "calitate apă": "Calitatea apei", "aplicație": "Aplicație", termen: "Termen", "loc livrare": "Loc de livrare", buget: "Buget", altele: "Altele" };
+
+const nf = new Intl.NumberFormat("ro-RO", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+const qf = new Intl.NumberFormat("ro-RO", { maximumFractionDigits: 3 });
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const fold = s => String(s ?? "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+const $ = id => document.getElementById(id);
+const byText = (a, b) => String(a).localeCompare(String(b), "ro", { numeric: true });
+const shortDate = d => d ? `${d.slice(8, 10)}.${d.slice(5, 7)}.${d.slice(0, 4)}` : "";
+const dateTime = d => d ? `${shortDate(d)} ${d.slice(11, 16)}` : "";
+const fileHref = path => path.split("/").map(encodeURIComponent).join("/");
+const badge = (text, cls = "", help = "") => `<span class="badge ${cls}"${help ? ` title="${esc(help)}"` : ""}>${esc(text)}</span>`;
+const money = (v, cur) => v === null || v === undefined ? "" : `${nf.format(v)} ${esc(cur || "")}`;
+const MSG = DATA.messages;
+const convsN = n => `${n} ${n === 1 ? "conversație" : (n % 100 === 0 || n % 100 >= 20) ? "de conversații" : "conversații"}`;
+// every value on the page has its label in front of it
+const field = (label, value) => `<span class="field"><span class="k">${esc(label)}:</span> ${value}</span>`;
+
+// glossary (reguli/glosar.json): each form is a regular expression; \w is widened to letters with diacritics (ă, ș, ț...)
+const GLOSSARY = (DATA.glossary || []).map(g => ({
+  ...g,
+  re: new RegExp(`(?<![\\p{L}\\p{N}])(?:${g.forms.map(f => f.replace(/\\w/g, "[\\p{L}\\p{N}_]")).join("|")})(?![\\p{L}\\p{N}])`, g.exact ? "gu" : "giu"),
+}));
+// where glossary terms occur in a text: the earliest and, at the same place, the longest match wins
+function termSpans(text) {
+  const spans = [];
+  for (const g of GLOSSARY) for (const m of String(text ?? "").matchAll(g.re)) if (m[0]) spans.push({ start: m.index, end: m.index + m[0].length, g });
+  spans.sort((a, b) => a.start - b.start || b.end - a.end);
+  const kept = [];
+  for (const sp of spans) if (!kept.length || sp.start >= kept[kept.length - 1].end) kept.push(sp);
+  return kept;
+}
+// escaped text with the glossary terms underlined and explained on hover; within the open conversation only the
+// first occurrence of each term is underlined (underlined is reset for every conversation opened)
+let underlined = new Set();
+function hl(text) {
+  text = String(text ?? "");
+  let out = "", pos = 0;
+  for (const sp of termSpans(text)) {
+    if (underlined.has(sp.g)) continue;
+    underlined.add(sp.g);
+    out += esc(text.slice(pos, sp.start)) + `<abbr class="term" title="${esc(sp.g.text)}">${esc(text.slice(sp.start, sp.end))}</abbr>`;
+    pos = sp.end;
+  }
+  return out + esc(text.slice(pos));
+}
+// a sign-off line ("Cu stimă,", "Kind regards / Mit freundlichen Grüßen / Cu stima,") after some text: what follows is the signature
+const SIGN_PHRASE = String.raw`(?:cu (?:stim[aă]|respect|drag|bine|considera[tț]ie)|toate cele bune|o zi (?:bun[aă]|frumoas[aă])|salut[aă]ri|(?:with )?(?:best|kind|warm|warmest)(?: regards| wishes)?|regards|pozdrawiam|mit freundlichen gr(?:[uü]ss|[uü]ß|uess)en|salutations|thank you(?: very much)?|thanks|mul[tț]umesc(?: frumos| mult)?|mul[tț]umim(?: frumos)?|v[aă] mul[tț]umesc(?: frumos)?)`;
+const SIGN_OFF = new RegExp(String.raw`^[ \t]*(?:--|${SIGN_PHRASE}(?:[ \t]*[\/,|][ \t]*${SIGN_PHRASE})*)[ \t]*[,.!]?[ \t]*$`, "gim");
+function signatureStart(text) {
+  SIGN_OFF.lastIndex = 0;
+  let m;
+  while ((m = SIGN_OFF.exec(text))) {
+    if (!text.slice(0, m.index).trim()) continue;
+    const end = text.indexOf("\n", m.index + m[0].length);
+    return end < 0 ? text.length : end + 1;
+  }
+  return text.length;
+}
+function bodyHtml(m, range) {
+  const sig = signatureStart(m.body.slice(0, m.newLen));
+  const parts = [[0, sig, ""], [sig, m.newLen, "Arată semnătura"], [m.newLen, m.body.length, "Arată textul citat din emailurile anterioare"]];
+  const html = parts.map(([from, to, label]) => {
+    const text = m.body.slice(from, to);
+    if (!text.trim()) return "";
+    let inner = esc(text), hit = false;
+    if (range && range[0] < to && range[1] > from) {
+      hit = true;
+      const a = Math.max(range[0], from) - from, b = Math.min(range[1], to) - from;
+      inner = esc(text.slice(0, a)) + `<mark>${esc(text.slice(a, b))}</mark>` + esc(text.slice(b));
+    }
+    return label ? `<details${hit ? " open" : ""}><summary>${label}</summary>${inner}</details>` : inner;
+  }).join("");
+  return m.body.slice(0, m.newLen).trim() ? html : '<span class="none">(emailul nu are text nou: doar redirecționează sau citează emailuri anterioare)</span>' + html;
+}
+function messageHtml(id) {
+  const m = MSG[id];
+  return `<article class="msg${m.akro ? " akro" : ""}" id="${esc(id)}">
+    <div class="msg-head"><div class="msg-top"><span class="role">${ROLE(m)}</span><span class="who"><span class="k">De la:</span> ${esc(m.from)}</span><span class="when"><span class="k">Data:</span> ${esc(dateTime(m.date))}</span></div>
+      <span class="line"><span class="k">Către:</span> ${esc(m.to)}${m.cc ? ` · <span class="k">Cc:</span> ${esc(m.cc)}` : ""}</span>
+      <span class="line"><span class="k">Subiect:</span> ${esc(m.subject)}</span></div>
+    <div class="msg-body" data-body>${bodyHtml(m, null)}</div>
+    ${m.att.length ? `<div class="att"><span class="k">Atașamente:</span> ${m.att.map(a => a.path ? `<a href="${esc(fileHref(a.path))}" target="_blank" rel="noopener">${esc(a.name)}</a>${a.reason ? `<span class="muted">(${esc(a.reason)})</span>` : ""}` : `<span>${esc(a.name)} <span class="muted">(${esc(a.reason)})</span></span>`).join("")}</div>` : ""}
+  </article>`;
+}
+function normalizedMap(text) {
+  let out = "", map = [], space = false;
+  for (let i = 0; i < text.length; i++) {
+    const ch = text[i];
+    if (/\s/.test(ch)) { if (!space && out) { out += " "; map.push(i); } space = true; continue; }
+    space = false;
+    for (const f of fold(ch)) { out += f; map.push(i); }
+  }
+  return { out, map };
+}
+function findQuote(text, quote) {
+  const q = fold(quote).replace(/\s+/g, " ").trim();
+  if (!q) return null;
+  const { out, map } = normalizedMap(text);
+  const at = out.indexOf(q);
+  return at < 0 ? null : [map[at], map[at + q.length - 1] + 1];
+}
+function openSource(id, quote) {
+  const el = document.getElementById(id);
+  if (!el) return;
+  const m = MSG[id];
+  el.querySelector(".note")?.remove();
+  const range = quote ? findQuote(m.body, quote) : null;
+  el.querySelector("[data-body]").innerHTML = bodyHtml(m, range);
+  if (quote && !range) el.querySelector("[data-body]").insertAdjacentHTML("beforebegin", `<div class="note">Textul vine dintr-un atașament al acestui email (de exemplu PDF-ul comenzii): „${esc(quote)}”</div>`);
+  el.classList.add("flash");
+  setTimeout(() => el.classList.remove("flash"), 1600);
+  (el.querySelector("mark") || el).scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "center" });
+}
+
+// --- data -------------------------------------------------------------------------------------------------
+
+const ORDER_BY = new Map(DATA.orders.map(o => [o.number, o]));
+const SALES = DATA.sales.map(s => ({
+  ...s,
+  hay: fold([s.key, s.client, s.chain, ...s.stations.map(x => `${x.type} ${x.text}`), ...s.records.map(r => r.title),
+    ...s.docs.flatMap(d => d.lines.map(l => `${l.ref} ${l.name}`)), ...s.links.map(x => x.order),
+    ...s.links.flatMap(x => (ORDER_BY.get(x.order)?.lines || []).map(l => `${l.ref} ${l.code} ${l.name} ${l.product}`)),
+    ...s.components.map(c => `${c.ref} ${c.rol}`), ...s.thread.map(id => `${MSG[id].from} ${MSG[id].subject} ${MSG[id].body}`)].join(" \u0001 ")),
+}));
+const BY_KEY = new Map(SALES.map(s => [s.key, s]));
+const VIEWS = [
+  { id: "raspunsuri", title: "Răspunsurile la cele 3 întrebări", what: "Ce componente are o stație, de ce parametri depinde configurația și ce se comandă de la furnizor." },
+  { id: "componente", title: "Componentele stațiilor", what: "Codurile din nomenclator comandate pentru stațiile analizate, cu rolul lor și în câte stații apar." },
+  { id: "comenzi", title: "Comenzile către ALAMO", what: "Toate comenzile, cu oferta clientului pentru care s-au făcut și cu ce s-a putut citi din PDF-uri." },
+];
+const state = { id: "", search: "", chain: "", analysed: "", visible: [] };
+
+function initFilters() {
+  const chains = Object.keys(DATA.chainHelp);
+  $("f-chain").innerHTML = `<option value="">Toate</option>` + chains.map(c => `<option value="${esc(c)}">${esc(c)}</option>`).join("");
+  $("w-before").textContent = DATA.window[0];
+  $("w-after").textContent = DATA.window[1];
+  syncInputs();
+}
+function syncInputs() {
+  $("search").value = state.search; $("f-chain").value = state.chain; $("f-analysed").value = state.analysed;
+}
+const FILTERS = {
+  search: (s, q) => !q || s.hay.includes(q),
+  chain: s => !state.chain || s.chain === state.chain,
+  analysed: s => !state.analysed || String(Number(s.analysed)) === state.analysed,
+};
+const passes = (s, q) => Object.values(FILTERS).every(f => f(s, q));
+const salesN = n => `${n} ${n === 1 ? "stație vândută" : (n % 100 === 0 || n % 100 >= 20) ? "de stații vândute" : "stații vândute"}`;
+
+function renderList(q) {
+  const rows = SALES.filter(s => passes(s, q));
+  state.visible = [...VIEWS.map(v => v.id), ...rows.map(s => s.key)];
+  $("counter").textContent = `Afișate: ${rows.length} din ${salesN(SALES.length)}`;
+  $("list-title").textContent = "Concluzii și stații vândute";
+  const views = VIEWS.map(v => `
+    <button class="item view" type="button" data-id="${v.id}" aria-current="${v.id === state.id}">
+      <span class="item-top"><span class="item-title">${esc(v.title)}</span></span>
+      <span class="item-what">${esc(v.what)}</span>
+    </button>`).join("");
+  const sales = rows.map(s => `
+    <button class="item" type="button" data-id="${esc(s.key)}" aria-current="${s.key === state.id}">
+      <span class="item-top"><span class="item-title">${esc(s.client)}</span><span class="item-date" title="Data vânzării">${shortDate(s.sold)}</span></span>
+      ${field("Oferta", s.number ? esc(s.number) : "preț scris în email")}
+      <span class="item-what">${field("Stații", esc(s.stations.map(x => x.text).join("; ")))}</span>
+      ${field("Lanț", badge(s.chain, CHAIN_CLASS[s.chain], DATA.chainHelp[s.chain]) + (s.analysed ? " " + badge("analizată", "b-info", "Are lista pieselor, cu rolul lor, și observații.") : ""))}
+      ${field("Comenzi către furnizor", linkSummary(s))}
+    </button>`).join("");
+  $("list").innerHTML = `<div class="group-head">Concluzii</div>${views}<div class="group-head">Stații vândute (${rows.length})</div>`
+    + (sales || `<div class="empty">Nicio stație vândută pentru filtrele alese.</div>`);
+}
+function linkSummary(s) {
+  const counts = LINK_ORDER.map(how => [how, s.links.filter(x => x.how === how).length]).filter(([, n]) => n);
+  return counts.length ? counts.map(([how, n]) => `${n} ${esc(DATA.links[how])}`).join(", ") : "niciuna";
+}
+
+function select(id) {
+  state.id = id;
+  for (const x of document.querySelectorAll("#list [data-id]")) {
+    const current = x.dataset.id === id;
+    x.setAttribute("aria-current", String(current));
+    if (current) x.scrollIntoView({ block: "nearest" });
+  }
+  renderDetail();
+  history.replaceState(null, "", `#${id}`);
+}
+function step(delta) {
+  const next = state.visible[state.visible.indexOf(state.id) + delta];
+  if (next) select(next);
+}
+
+// --- pieces of the open item ------------------------------------------------------------------------------
+
+function src(item) {
+  if (!item || !item.src) return "";
+  return `<a href="#${esc(item.src)}" class="src" data-src="${esc(item.src)}" data-q="${esc(item.quote)}" title="Deschide emailul, cu textul subliniat">↗ emailul din ${esc(dateTime(item.date || MSG[item.src]?.date))}</a>`;
+}
+function said(item, label = "") {
+  if (!item) return "";
+  return `<div class="said"><blockquote>„${esc(item.quote)}”</blockquote>
+    <div class="gist">${label ? `<b>${esc(label)}:</b> ` : ""}${hl(item.text)}${src(item)}</div></div>`;
+}
+const NONE = text => `<div class="none">${esc(text)}</div>`;
+// the emails shown below the open item; a document sent in another email opens its conversation in emailuri.html
+let rendered = new Set();
+function emailLink(message, conv, label) {
+  return rendered.has(message)
+    ? `<a href="#${esc(message)}" class="src" data-src="${esc(message)}" data-q="">↗ ${esc(label)}</a>`
+    : `<a href="emailuri.html#${esc(conv)}" class="src" target="_blank" rel="noopener" title="Deschide conversația în emailuri.html">↗ ${esc(label)} (în emailuri.html)</a>`;
+}
+const pdfButton = (d, label) => d && d.path ? `<a class="button" href="${esc(fileHref(d.path))}" target="_blank" rel="noopener" title="${esc(d.file)}">${esc(label)}</a>` : "";
+
+function requirementBlock(s) {
+  const parts = [];
+  for (const r of s.records) {
+    if (s.records.length > 1) parts.push(`<h4>Cererea: ${esc(r.title || "fără titlu")}</h4>`);
+    parts.push(r.request ? said(r.request, "Prima cerere") : NONE("Prima cerere a clientului nu apare în emailuri."));
+    if (!s.analysed) parts.push(...r.final.map(f => said(f, CAMP[f.extra.camp] || f.extra.camp || "")));
+  }
+  if (s.analysed) {
+    parts.push(`<h4>Parametrii tehnici ceruți</h4>`);
+    parts.push(s.requirement.map(i => said(i, CAMP[i.camp] || i.camp)).join("") || NONE("Emailurile nu dau parametri tehnici ceruți de client."));
+  }
+  return parts.join("");
+}
+
+function offerTable(d) {
+  const rows = d.lines.map(l => `<tr><td>${l.ref ? `<span class="none">[${esc(l.ref)}]</span> ` : ""}${esc(l.name)}</td>
+    <td class="num">${l.qty === null ? "" : qf.format(l.qty)} ${esc(l.uom)}</td><td class="num">${money(l.price, l.currency)}</td></tr>`).join("");
+  return `<div class="doc"><div class="doc-head"><strong>${esc(d.kind)} ${esc(d.number)}</strong><span class="none">Trimis: ${esc(dateTime(d.sent))}</span>
+    ${emailLink(d.message, d.conv, "emailul")}${pdfButton(d, "Deschide PDF-ul")}</div>
+    ${rows ? `<div class="table-wrap"><table><thead><tr><th>Produs ofertat (cod din nomenclator)</th><th class="num">Cantitate</th><th class="num">Preț unitar fără TVA</th></tr></thead><tbody>${rows}</tbody></table></div>` : NONE("Documentul nu are linii de produse.")}</div>`;
+}
+function solutionBlock(s) {
+  const parts = [];
+  if (s.analysed) parts.push(s.solution.map(i => said(i, CAMP[i.camp] || i.camp)).join(""));
+  // the last document sent: the order confirmation when there is one, else the last offer
+  const confirmations = s.docs.filter(d => d.kind === "Confirmare de comandă");
+  const last = confirmations.length ? confirmations[confirmations.length - 1] : s.docs[s.docs.length - 1];
+  parts.push(last ? offerTable(last) : NONE("Oferta nu are PDF Odoo în emailuri."));
+  parts.push(`<div class="said"><div class="gist"><b>Starea în Odoo:</b> ${esc(s.status)} · <a href="statii.html#${esc(s.key)}" target="_blank" rel="noopener">toate versiunile ofertei în statii.html</a></div></div>`);
+  return parts.join("");
+}
+
+function orderLines(o, target) {
+  if (!o.lines.length) return NONE(o.docs.length ? "PDF-ul comenzii nu are linii citite." : "Comanda nu e în emailuri: se cunoaște doar rândul din lista Odoo.");
+  const rows = o.lines.map(l => `<tr${target.has(l.ref) ? ' class="target"' : ""}><td class="code">${l.ref ? `[${esc(l.ref)}]` : ""}</td>
+    <td>${esc(l.product || l.name)}${l.product && l.code ? `<div class="none">${esc(l.code)}</div>` : ""}</td>
+    <td class="num">${l.qty === null ? "" : qf.format(l.qty)} ${esc(l.uom)}</td><td>${esc((l.group || "").replace(/^\d{2}-\d{3} /, ""))}</td></tr>`).join("");
+  return `<div class="table-wrap"><table><thead><tr><th>Cod</th><th>Produs (numele din nomenclator; sub el, codul furnizorului)</th><th class="num">Cantitate</th><th>Grupa</th></tr></thead><tbody>${rows}</tbody></table></div>
+    ${o.notes.length ? `<div class="gist"><b>Notă pe comandă:</b> ${esc(o.notes.join(" "))}</div>` : ""}`;
+}
+function confirmationLines(d) {
+  const rows = d.lines.map(l => `<tr><td class="code">${esc(l.code || l.item)}</td><td>${esc(l.name)}</td>
+    <td class="num">${qf.format(l.qty)} ${esc(l.uom)}</td><td class="num">${money(l.price, "EUR")}</td><td class="num">${money(l.amount, "EUR")}</td></tr>`).join("");
+  return `<details><summary>Confirmarea ALAMO ${esc(d.number)} din ${esc(dateTime(d.sent))}: ${d.lines.length} linii${d.total !== null ? `, total ${money(d.total, "EUR")} fără TVA` : ""}</summary>
+    <div class="doc-head">${emailLink(d.message, d.conv, "emailul")}${pdfButton(d, "Deschide PDF-ul")}</div>
+    <div class="table-wrap"><table><thead><tr><th>Cod ALAMO</th><th>Produs</th><th class="num">Cantitate</th><th class="num">Preț unitar</th><th class="num">Valoare</th></tr></thead><tbody>${rows}</tbody></table></div></details>`;
+}
+function orderCard(link, target) {
+  const o = ORDER_BY.get(link.order);
+  const akro = o.docs.filter(d => d.kind === "Comandă AKRO");
+  const conf = o.docs.filter(d => d.kind === "Confirmare ALAMO");
+  const sure = link.how === "odoo" || link.how === "pdf";
+  const source = o.source ? (o.source.startsWith("S0") && BY_KEY.has(o.source) && o.source !== state.id
+    ? `<a href="#${esc(o.source)}" data-open="${esc(o.source)}">${esc(o.source)}</a>` : esc(o.source)) : "fără";
+  return `<div class="order${sure ? " sure" : ""}">
+    <div class="order-head"><strong>Comanda ${esc(o.number)}</strong>${badge(DATA.links[link.how], LINK_CLASS[link.how])}
+      ${link.how === "perioada" ? `<span class="none">${link.days >= 0 ? `la ${link.days} zile după vânzare` : `cu ${-link.days} zile înainte de vânzare`}</span>` : ""}</div>
+    <div class="meta"><span><span class="k">Data:</span> ${esc(dateTime(o.date))}</span><span><span class="k">Stare în Odoo:</span> ${esc(o.state || "nu e în lista Odoo")}</span>
+      <span><span class="k">Total:</span> ${o.total !== null ? `<span class="money">${money(o.total, "EUR")}</span> fără TVA` : "nu e în lista Odoo"}</span>
+      <span><span class="k">Document sursă în Odoo:</span> ${source}</span></div>
+    ${akro.length ? `<div class="doc-head">${emailLink(akro[akro.length - 1].message, akro[akro.length - 1].conv, "emailul cu comanda")}${pdfButton(akro[akro.length - 1], "PDF-ul comenzii")}
+      <a href="alamo.html#${esc(akro[akro.length - 1].conv)}" target="_blank" rel="noopener">conversația în alamo.html</a></div>` : ""}
+    ${link.how === "perioada" ? `<details><summary>Liniile comenzii (${o.lines.length})</summary>${orderLines(o, target)}</details>` : orderLines(o, target)}
+    ${conf.map(confirmationLines).join("")}</div>`;
+}
+function orderBlock(s) {
+  const target = new Set(s.components.map(c => c.ref));
+  const main = s.links.filter(x => x.how !== "perioada").sort((a, b) => LINK_ORDER.indexOf(a.how) - LINK_ORDER.indexOf(b.how));
+  const hints = s.links.filter(x => x.how === "perioada");
+  const phase4 = s.phase4.length ? `<div class="gist"><b>Conversații cu ALAMO legate în Faza 4:</b> ${s.phase4.map(p => `<a href="alamo.html#${esc(p.conv)}" target="_blank" rel="noopener">${esc(p.subject)}</a>`).join(", ")}</div>` : "";
+  return (main.map(x => orderCard(x, target)).join("") || NONE("Nicio comandă către furnizor nu e legată de această vânzare.")) + phase4
+    + (hints.length ? `<details class="hints"><summary>Indicii din perioadă (${hints.length}): alte comenzi către ALAMO din aceeași perioadă, pe care nu le explică altă vânzare</summary>${hints.map(x => orderCard(x, target)).join("")}</details>` : "");
+}
+
+function partsBlock(s) {
+  if (!s.analysed) return "";
+  const rows = s.components.map(c => {
+    const t = DATA.components.find(x => x.ref === c.ref);
+    return `<tr><td class="code">[${esc(c.ref)}]</td><td>${esc(t ? t.name : "")}</td><td>${hl(c.rol)}</td>
+      <td class="num">${c.cantitate === null || c.cantitate === undefined ? "" : qf.format(c.cantitate)} ${esc(c.unitate || "")}</td><td>${src(c)}</td></tr>`;
+  }).join("");
+  return `<section class="parts"><h3>Din ce e făcută stația${s.count > 1 ? ` (o stație din cele ${s.count} vândute)` : ""}</h3>
+    <p class="hint none">Piesele de pe comenzile către furnizor, cu rolul lor în stație; cantitatea e pe o stație. Linkul arată linia din PDF-ul comenzii.</p>
+    ${rows ? `<div class="table-wrap"><table><thead><tr><th>Cod</th><th>Nume în nomenclator</th><th>Rol în stație</th><th class="num">Pe stație</th><th>Sursa</th></tr></thead><tbody>${rows}</tbody></table></div>` : NONE("Nicio piesă verificată.")}
+    ${s.remarks.length ? `<h3>Observații</h3>${s.remarks.map(r => said(r)).join("")}` : ""}</section>`;
+}
+
+const ROLE = m => m.akro ? "Email trimis de AKRO" : m.alamo ? "Email de la ALAMO" : "Email de la client";
+function termsBlock(texts, title) {
+  const terms = [...new Set(termSpans(texts.join(" \u0001 ")).map(sp => sp.g))].sort((a, b) => a.term.localeCompare(b.term, "ro", { sensitivity: "base" }));
+  return terms.length ? `<section class="messages"><h3>${esc(title)}</h3>
+    <dl class="terms">${terms.map(g => `<dt>${esc(g.term)}</dt><dd>${esc(g.text)}</dd>`).join("")}</dl></section>` : "";
+}
+function navFor(id, what) {
+  const index = state.visible.indexOf(id);
+  return index < 0 ? "" : `<div class="detail-nav"><button type="button" data-step="-1"${index === 0 ? " disabled" : ""}>Anterior</button>
+    <span>${esc(what)} ${index + 1} din ${state.visible.length}</span><button type="button" data-step="1"${index === state.visible.length - 1 ? " disabled" : ""}>Următor</button></div>`;
+}
+function emailsSection(ids, title, hint) {
+  const sorted = [...new Set(ids)].sort((a, b) => MSG[a].date.localeCompare(MSG[b].date));
+  return `<section class="messages"><h3>${esc(title)} (${sorted.length})</h3><p class="hint">${esc(hint)}</p>${sorted.map(messageHtml).join("")}</section>`;
+}
+
+// --- the views --------------------------------------------------------------------------------------------
+
+function renderSale(s) {
+  const stations = s.stations.map(x => `<div class="station"><span class="k">Tip:</span> <strong>${esc(x.type)}</strong>. ${hl(x.text)}${src(x)}</div>`).join("");
+  const convs = s.convs.map(c => `<a href="emailuri.html#${esc(c.id)}" title="${esc(c.subject)}">conversația nr. ${esc(c.nr)}</a>`).join(", ");
+  return `
+    <div class="detail-head">
+      <div class="detail-head-top"><h2>${esc(s.client)}${s.number ? ` · oferta ${esc(s.number)}` : ""}</h2>${navFor(s.key, "Elementul")}</div>
+      <div class="meta"><span><span class="k">Vândută:</span> ${esc(dateTime(s.sold))}</span>
+        <span><span class="k">Valoare:</span> ${s.total !== null ? `<span class="money">${money(s.total, s.currency)}</span> cu TVA (ultima versiune)` : "prețul e scris în email"}</span>
+        <span><span class="k">Stare în Odoo:</span> ${badge(s.status, STATUS_CLASS[s.status] || "b-warn", DATA.stateHelp[s.status] || "")}</span>
+        <span><span class="k">Lanț:</span> ${badge(s.chain, CHAIN_CLASS[s.chain], DATA.chainHelp[s.chain])}</span></div>
+      <div class="meta"><span><span class="k">Conversațiile cu clientul în emailuri.html:</span> ${convs}</span></div>
+    </div>
+    <div class="stations"><h3>Stațiile vândute</h3>${stations}</div>
+    ${s.gaps.length ? `<div class="gaps"><h3>Ce lipsește din lanț</h3><ul class="plain">${s.gaps.map(g => `<li>${esc(g)}</li>`).join("")}</ul></div>` : ""}
+    <div class="steps">
+      <div class="block"><h3><span class="n">1</span>Cerința clientului</h3><p class="block-hint">Ce a cerut clientul, în cuvintele lui.</p>${requirementBlock(s)}</div>
+      <div class="block"><h3><span class="n">2</span>Soluția ofertată</h3><p class="block-hint">Ce a ofertat AKRO: configurația și ultimul document trimis clientului.</p>${solutionBlock(s)}</div>
+      <div class="block links-col"><h3><span class="n">3</span>Comanda către furnizor</h3><p class="block-hint">Ce a comandat AKRO de la ALAMO pentru această vânzare. Rândurile colorate sunt piesele stației.</p>${orderBlock(s)}</div>
+    </div>
+    ${partsBlock(s)}
+    ${emailsSection(s.thread, "Emailurile, în ordine cronologică", "Cu clientul și cu ALAMO, despre comenzile legate. Emailurile AKRO sunt în dreapta.")}
+    ${termsBlock([...s.stations.map(x => x.text), ...s.requirement.map(i => i.text), ...s.solution.map(i => i.text), ...s.components.map(c => c.rol), ...s.remarks.map(r => r.text)], "Termeni din această stație")}`;
+}
+
+function renderAnswers() {
+  const cited = DATA.answers.flatMap(a => a.evidence.map(e => e.src));
+  const blocks = DATA.answers.map((a, i) => `<div class="answer"><h3>${i + 1}. ${esc(a.question)}</h3>
+    ${a.answer.map(p => `<p>${hl(p)}</p>`).join("")}
+    <details open><summary>Dovezi (${a.evidence.length}), textul copiat exact din emailuri și din PDF-urile atașate</summary>
+      ${a.evidence.map(e => said({ ...e, text: e.note })).join("")}</details></div>`).join("");
+  const missing = DATA.questions.filter(q => !DATA.answers.some(a => a.question === q));
+  return `<div class="detail-head"><div class="detail-head-top"><h2>Răspunsurile la cele 3 întrebări</h2>${navFor("raspunsuri", "Elementul")}</div>
+      <div class="meta"><span>Scrise din stațiile analizate; fiecare afirmație are dovezi verificate.</span></div></div>
+    ${blocks}${missing.map(q => `<div class="answer"><h3>${esc(q)}</h3>${NONE("Încă fără răspuns scris.")}</div>`).join("")}
+    ${emailsSection(cited, "Emailurile citate", "Emailurile din care sunt luate dovezile, în ordine cronologică.")}
+    ${termsBlock(DATA.answers.flatMap(a => a.answer), "Termeni din răspunsuri")}`;
+}
+
+function renderComponents() {
+  let group = "";
+  const rows = DATA.components.map(c => {
+    const head = c.group !== group ? `<tr><th colspan="5">${esc(c.group || "fără grupă")}</th></tr>` : "";
+    group = c.group;
+    const per = c.per.map(p => `<a href="#${esc(p.key)}" data-open="${esc(p.key)}">${esc(BY_KEY.get(p.key)?.client || p.key)}</a>: ${p.qty === null || p.qty === undefined ? "" : qf.format(p.qty)} ${esc(p.uom)}`).join("<br>");
+    return `${head}<tr><td class="code">[${esc(c.ref)}]</td><td>${esc(c.name)}</td><td>${c.roles.map(hl).join("<br>")}</td>
+      <td class="num">${c.stations}</td><td>${per}</td></tr>`;
+  }).join("");
+  return `<div class="detail-head"><div class="detail-head-top"><h2>Componentele stațiilor</h2>${navFor("componente", "Elementul")}</div>
+      <div class="meta"><span>${DATA.components.length} coduri din nomenclator, din ${SALES.filter(s => s.analysed).length} vânzări analizate.</span></div></div>
+    <div class="note-box"><p>Fiecare cod e o piesă comandată de la ALAMO pentru o stație vândută, cu rolul ei în stație. „În stații” numără stațiile
+      (o vânzare de 4 stații identice contează 4). Cantitatea e pe o stație. Grupele sunt subcategoriile din nomenclator.</p></div>
+    ${rows ? `<div class="table-wrap"><table><thead><tr><th>Cod</th><th>Nume în nomenclator</th><th>Rol în stație</th><th class="num">În stații</th><th>Cantitate pe stație, pe vânzare</th></tr></thead><tbody>${rows}</tbody></table></div>` : NONE("Nicio stație analizată încă.")}
+    ${termsBlock(DATA.components.flatMap(c => c.roles), "Termeni din tabel")}`;
+}
+
+function renderOrders() {
+  const r = DATA.reading;
+  const rows = DATA.orders.map(o => {
+    const akro = o.docs.filter(d => d.kind === "Comandă AKRO").slice(-1)[0];
+    const conf = o.docs.filter(d => d.kind === "Confirmare ALAMO").slice(-1)[0];
+    const sale = BY_KEY.get(o.source);
+    return `<tr><td class="code"><b>${esc(o.number)}</b></td><td class="code">${esc(shortDate(o.date))}</td><td>${esc(o.state || "nu e în lista Odoo")}</td>
+      <td class="num">${money(o.total, "EUR")}</td>
+      <td>${sale ? `<a href="#${esc(sale.key)}" data-open="${esc(sale.key)}">${esc(o.source)}</a>` : esc(o.source || "fără")}${o.partner ? `<div class="none">${esc(o.partner)}</div>` : ""}</td>
+      <td class="num">${o.lines.length || ""}</td>
+      <td>${akro ? pdfButton(akro, "comanda") : "<span class=\"none\">nu e în emailuri</span>"} ${conf ? pdfButton(conf, "confirmarea") : ""}</td></tr>`;
+  }).join("");
+  return `<div class="detail-head"><div class="detail-head-top"><h2>Comenzile către ALAMO</h2>${navFor("comenzi", "Elementul")}</div>
+      <div class="meta"><span>${DATA.orders.length} comenzi: ${r.listed} din lista Odoo a trimestrului 3 și ${r.onlyEmails.length} găsite doar în emailuri.</span></div></div>
+    <div class="note-box"><p><b>Se pot citi automat PDF-urile comenzilor?</b> Da. PDF-urile au text (nu sunt scanate), iar scriptul a citit
+      ${r.akro} comenzi AKRO și ${r.alamo} confirmări ALAMO. Comanda AKRO are pe fiecare linie codul furnizorului, descrierea, codul din
+      nomenclator, data și cantitatea: ${r.akroRefs} din ${r.akroLines} linii au cod din nomenclator. Confirmarea ALAMO are codul ALAMO,
+      cantitatea și prețul în EUR, dar nu și codul din nomenclator, deci se compară cu comanda AKRO doar după descriere.</p>
+      <p>Din cele ${r.listed} comenzi din lista Odoo, ${r.listedInEmails} sunt în emailuri.${r.missing.length ? ` PDF-ul comenzii nu e în emailuri (se cunoaște doar rândul din Odoo, fără linii): ${esc(r.missing.join(", "))}; cele în stare „CdO” sunt cereri de ofertă rămase în Odoo.` : ""}
+      ${r.onlyEmails.length ? ` Doar în emailuri, după trimestrul listei: ${esc(r.onlyEmails.join(", "))}.` : ""}</p></div>
+    <div class="table-wrap"><table><thead><tr><th>Comanda</th><th>Data</th><th>Stare în Odoo</th><th class="num">Total fără TVA</th><th>Document sursă (oferta clientului)</th><th class="num">Linii citite</th><th>PDF</th></tr></thead><tbody>${rows}</tbody></table></div>`;
+}
+
+function renderDetail() {
+  const s = BY_KEY.get(state.id);
+  const view = { raspunsuri: renderAnswers, componente: renderComponents, comenzi: renderOrders }[state.id];
+  if (!s && !view) { $("detail").innerHTML = `<div class="empty">Alege din listă.</div>`; return; }
+  underlined = new Set();
+  rendered = new Set(s ? s.thread : state.id === "raspunsuri" ? DATA.answers.flatMap(a => a.evidence.map(e => e.src)) : []);
+  $("detail").innerHTML = s ? renderSale(s) : view();
+  $("detail-scroll").scrollTop = 0;
+}
+
+function render() { renderList(fold(state.search.trim())); }
+let timer;
+$("search").addEventListener("input", e => { state.search = e.target.value; clearTimeout(timer); timer = setTimeout(render, 150); });
+$("f-chain").addEventListener("change", e => { state.chain = e.target.value; render(); });
+$("f-analysed").addEventListener("change", e => { state.analysed = e.target.value; render(); });
+$("reset").addEventListener("click", () => { Object.assign(state, { search: "", chain: "", analysed: "" }); syncInputs(); render(); });
+$("list").addEventListener("click", e => {
+  const b = e.target.closest("[data-id]");
+  if (!b) return;
+  select(b.dataset.id);
+  if (matchMedia("(max-width: 900px)").matches) $("detail-col").scrollIntoView();
+});
+$("list").addEventListener("keydown", e => {
+  if (e.key !== "ArrowDown" && e.key !== "ArrowUp") return;
+  const items = [...$("list").querySelectorAll("[data-id]")];
+  const next = items[items.indexOf(document.activeElement) + (e.key === "ArrowDown" ? 1 : -1)];
+  if (!next || items.indexOf(document.activeElement) < 0) return;
+  e.preventDefault();
+  next.focus();
+  select(next.dataset.id);
+});
+$("detail").addEventListener("click", e => {
+  const a = e.target.closest("a.src[data-src]");
+  if (a) { e.preventDefault(); openSource(a.dataset.src, a.dataset.q); return; }
+  const o = e.target.closest("[data-open]");
+  if (o) {
+    e.preventDefault();
+    if (!state.visible.includes(o.dataset.open)) { Object.assign(state, { search: "", chain: "", analysed: "" }); syncInputs(); render(); }
+    select(o.dataset.open);
+    return;
+  }
+  const s = e.target.closest("[data-step]");
+  if (s) step(Number(s.dataset.step));
+});
+
+function applyTheme(dark) {
+  document.documentElement.toggleAttribute("data-theme", dark);
+  if (dark) document.documentElement.dataset.theme = "dark";
+  $("theme").textContent = dark ? "Temă luminoasă" : "Temă întunecată";
+}
+let savedTheme = "";
+try { savedTheme = localStorage.getItem("emailuri-tema") || ""; } catch (e) { /* storage blocked: stay light */ }
+applyTheme(savedTheme === "dark");
+$("theme").addEventListener("click", () => {
+  const dark = document.documentElement.dataset.theme !== "dark";
+  applyTheme(dark);
+  try { localStorage.setItem("emailuri-tema", dark ? "dark" : "light"); } catch (e) { /* not remembered */ }
+});
+
+initFilters();
+// componente.html#S02518 opens that station, #raspunsuri, #componente or #comenzi the conclusions
+const start = location.hash.slice(1);
+state.id = BY_KEY.has(start) || VIEWS.some(v => v.id === start) ? start : VIEWS[0].id;
+render();
+renderDetail();
+
+// collapse buttons on the side lists; a collapsed strip also opens with a click anywhere on it
+document.querySelectorAll("main > .col:not(#detail-col)").forEach(col => {
+  const head = col.querySelector(".col-head");
+  const btn = document.createElement("button");
+  btn.type = "button";
+  btn.className = "col-toggle";
+  btn.innerHTML = '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3.5 5.5 8l4.5 4.5"/></svg>';
+  const sync = () => {
+    const collapsed = col.classList.contains("collapsed");
+    btn.setAttribute("aria-expanded", String(!collapsed));
+    btn.title = (collapsed ? "Extinde: " : "Restrânge: ") + col.getAttribute("aria-label");
+    btn.setAttribute("aria-label", btn.title);
+  };
+  btn.addEventListener("click", e => { e.stopPropagation(); col.classList.toggle("collapsed"); sync(); });
+  head.addEventListener("click", () => { if (col.classList.contains("collapsed")) btn.click(); });
+  head.append(btn);
+  sync();
+});
+</script>
+</body>
+</html>

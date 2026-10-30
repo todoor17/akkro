@@ -1,0 +1,668 @@
+
+####################################################################################################
+OFERTA S01872 | client: TERAX SRL | trimisă: 2026-07-22 15:09 | Odoo: nu e în lista Odoo | conversații: c2140548 (nr. 149)
+
+####################################################################################################
+RÂND c2140548 (nr. 149) | stare: Completă | categorie: 11-Pompe de dozare | cerere: Stație de clorinare cu NaOCl pentru apă menajeră
+CERINȚA: Terax trimite schița stației de dezinfecție cu NaOCl pentru apă menajeră, după o discuție telefonică. [m2140548] «FYI, conform discutie telefonica.»
+CERINȚĂ FINALĂ (tip echipament): Pompă dozatoare TPG603, rezervor 100 L, sondă de aspirație cu senzor de nivel, contor Zenner DN100 [m2105604] «Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls»
+CERINȚĂ FINALĂ (altele): Asistență tehnică telefonică la punerea în funcțiune, transport inclus [m2105604] «cu asistenta tehnica prin telefon la punerea in functiune.»
+CERINȚĂ FINALĂ (termen): Livrare în aproximativ 2 săptămâni [m2140548] «Termenul estimat de livrare la aceasta data este de +- 2 saptamani.»
+CERINȚĂ FINALĂ (loc livrare): Str. Lungă nr. 293, com. Livezeni, jud. Mureș [m2105732] «Adresa de livrare: str. Lunga, nr. 293, com. Livezeni, jud. Mures»
+CLARIFICARE: întrebare - → răspuns AKRO precizează transportul (35 EUR prin Pallex), furnitura de montaj inclusă, asistență PIF telefonică gratuită sau PIF AKRO la 380 EUR. [m2140548] «Asistenta tehnica telefonica la PIF – se face gratuit» | schimbare: Clientul alege asistență telefonică la PIF, cu transport inclus.
+TELEFON: După o discuție telefonică cu Adrian Mînecan (martie 2026), AKRO detaliază costurile de transport și PIF. [m2140548] «Conform discutiei telefonice va rog sa regasiti mai jos informatiile solicitate:»
+OFERTĂ ÎN TEXT: Transport prin Pallex 35 EUR fără TVA; PIF executat de AKRO 380 EUR fără TVA. [m2140548] «costa suplimentar 35 euro fara TVA»
+REZULTAT: acceptată — Terax dă comandă fermă, plătește avansul și diferența; stația se livrează prin Pallex. [m2105604] «Ramane comanda ferma pentru aceasta statie»
+PREȚURI Ofertă S01872 v1 (2026-07-22), total 1435.74 EUR:
+  [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie de un semn | 1.0 buc × 437.75 EUR | referință
+  [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 | 1.0 buc × 131.63 EUR | referință
+  [11-002026] Sonda de aspiratie cu senzor de nivel, tub 4x6 pentru rezervor 100 l | 1.0 buc × 115.98 EUR | referință
+  [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 | 1.0 buc × 501.2 EUR | referință
+  termen: Metoda de plata: O.P. 50% in avans - 50% la gata de livrare
+  termen: Modul de livrare: In sarcina beneficiarului
+  termen: Garantie: 24 luni de la livrare
+PREȚURI Confirmare de comandă S01872 v1 (2026-07-27), total 1478.09 EUR:
+  [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie de un semn | 1.0 buc × 437.75 EUR | referință
+  [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 | 1.0 buc × 131.63 EUR | referință
+  [11-002026] Sonda de aspiratie cu senzor de nivel, tub 4x6 pentru rezervor 100 l | 1.0 buc × 115.98 EUR | referință
+  [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 | 1.0 buc × 501.2 EUR | referință
+  [16-003003] Livrare si ambalare pallex - intern | 1.0 buc × 35.0 EUR | referință
+  termen: Metoda de plata: O.P. 50% in avans - 50% la gata de livrare
+  termen: Modul de livrare: In sarcina AKRO
+  termen: Garantie: 24 luni de la livrare
+PREȚURI Factură proformă S01872 v1 (2026-07-27), total 3868.75 RON:
+  termen: Metoda de plata: O.P. 50% in avans - 50% la gata de livrare
+  termen: Modul de livrare: In sarcina AKRO
+  termen: Garantie: 24 luni de la livrare
+VÂNDUTĂ 2026-07-27 09:42 | lanț: fără comandă | lipsește: ['nicio comandă către furnizor nu e legată sigur (în Odoo sau în PDF-ul comenzii) de această vânzare']
+
+====================================================================================================
+CONVERSAȚIA c2140548 (nr. 149) | subiect: FW: Schita statie dezinfectie cu NAOCL apa menajera
+Partener (după adrese): terax.ro Andreea Lupsor, Denisa Creta, George Pop | grupare nesigură: nu
+OFERTĂ S01872 v1 trimisă 2026-07-22 15:09 în m2140548 (Odoo: nu e în lista Odoo): [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual x1.0 buc; [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 x1.0 buc; [11-002026] Sonda de aspiratie cu senzor de nivel, tub 4x6 pentru rezervor 100 l x1.0 buc; [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 x1.0 buc
+OFERTĂ S01872 v1 trimisă 2026-07-22 15:12 în m2140580 (Odoo: nu e în lista Odoo): [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual x1.0 buc; [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 x1.0 buc; [11-002026] Sonda de aspiratie cu senzor de nivel, tub 4x6 pentru rezervor 100 l x1.0 buc; [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 x1.0 buc
+OFERTĂ S01872 v1 trimisă 2026-07-27 09:42 în m2142020 (Odoo: nu e în lista Odoo): [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual x1.0 buc; [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 x1.0 buc; [11-002026] Sonda de aspiratie cu senzor de nivel, tub 4x6 pentru rezervor 100 l x1.0 buc; [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 x1.0 buc; [16-003003] Livrare si ambalare pallex - intern x1.0 buc
+OFERTĂ S01872 v1 trimisă 2026-07-27 09:42 în m2142020 (Odoo: nu e în lista Odoo): 
+
+--- MESAJ m2140548 | 2026-07-22 15:09 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: andreea.upsor@terax.ro <andreea.upsor@terax.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: FW: Schita statie dezinfectie cu NAOCL apa menajera
+Salutare Andreea,
+
+Trimit anexata cotatia de pret pentru statia de clorinare [ care este inca valabila] , iar mai jos iti las discutia cu Dl Adrian in care s-au ofertat si diferite servicii:
+
+Transport
+
+PIF
+
+Termenul estimat de livrare la aceasta data este de +- 2 saptamani.
+
+O zi cu spor!
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Tuesday, March 10, 2026 12:45 PM
+To: 'Adrian Minecan' <adrian.minecan@terax.ro>
+Cc: 'Akro Filtrare' <office@akro.ro>
+Subject: RE: Schita statie dezinfectie cu NAOCL apa menajera
+
+Buna ziua Dl Adrian,
+
+Conform discutiei telefonice va rog sa regasiti mai jos informatiile solicitate:
+
+Transportul produselor la beneficiar [ prin PALLEX ROMANIA] – costa suplimentar 35 euro fara TVA
+
+Toata furnitura de montaj [ injector/sorb/furtune/ mufe connectica la pompa/ cablu semnal] – este inclusa in cadrul produselor
+
+Asistenta tehnica telefonica la PIF – se face gratuit [ setarea pompei se poate realiza in depozitul AKRO inainte de livrarea produselor la beneficiar]
+
+Daca se doreste punere in functiune executata de AKRO – atunci aceasta interventie costa 380 euro fara TVA – si se va programa ulterior datei de livrare dupa ce sunt confirmate prin fotografii daca echipamentele [ contorul mecanic + niplusi robinet de injectie] – sunt montate pe teava]
+
+Pentru orice alte intrebari sau informatii, va stau cu placere la dispozitie!
+
+Numai bine,
+
+From: Adrian Minecan <adrian.minecan@terax.ro>
+Sent: Tuesday, March 10, 2026 12:17 PM
+To: alexandru.soare@akro.ro
+Subject: Schita statie dezinfectie cu NAOCL apa menajera
+
+FYI, conform discutie telefonica.
+
+Cu stimă,
+ing. Adrian Mînecan
+
+Project Manager
+
+TERAX s.r.l.
+Str. Marin Sorescu nr.3
+400465 Cluj-Napoca
+jud. Cluj, Romania
+Tel/Fax: +4 0364 100 124
+Mobil: +4 0752 436 760
+adrian.minecan@terax.ro
+www.terax.ro
+_______________________
+[ATAȘAMENT: Oferta - S01872.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2140580 | 2026-07-22 15:12 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Andreea Lupsor <andreea.lupsor@terax.ro>
+Subiect: FW: Schita statie dezinfectie cu NAOCL apa menajera
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Wednesday, July 22, 2026 3:10 PM
+To: 'andreea.upsor@terax.ro' <andreea.upsor@terax.ro>
+Cc: 'Akro Filtrare' <office@akro.ro>; 'andrei.dobrei@akro.ro' <andrei.dobrei@akro.ro>
+Subject: FW: Schita statie dezinfectie cu NAOCL apa menajera
+
+Salutare Andreea,
+
+Trimit anexata cotatia de pret pentru statia de clorinare [ care este inca valabila] , iar mai jos iti las discutia cu Dl Adrian in care s-au ofertat si diferite servicii:
+
+Transport
+
+PIF
+
+Termenul estimat de livrare la aceasta data este de +- 2 saptamani.
+
+O zi cu spor!
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Tuesday, March 10, 2026 12:45 PM
+To: 'Adrian Minecan' <adrian.minecan@terax.ro>
+Cc: 'Akro Filtrare' <office@akro.ro>
+Subject: RE: Schita statie dezinfectie cu NAOCL apa menajera
+
+Buna ziua Dl Adrian,
+
+Conform discutiei telefonice va rog sa regasiti mai jos informatiile solicitate:
+
+Transportul produselor la beneficiar [ prin PALLEX ROMANIA] – costa suplimentar 35 euro fara TVA
+
+Toata furnitura de montaj [ injector/sorb/furtune/ mufe connectica la pompa/ cablu semnal] – este inclusa in cadrul produselor
+
+Asistenta tehnica telefonica la PIF – se face gratuit [ setarea pompei se poate realiza in depozitul AKRO inainte de livrarea produselor la beneficiar]
+
+Daca se doreste punere in functiune executata de AKRO – atunci aceasta interventie costa 380 euro fara TVA – si se va programa ulterior datei de livrare dupa ce sunt confirmate prin fotografii daca echipamentele [ contorul mecanic + niplusi robinet de injectie] – sunt montate pe teava]
+
+Pentru orice alte intrebari sau informatii, va stau cu placere la dispozitie!
+
+Numai bine,
+
+From: Adrian Minecan <adrian.minecan@terax.ro>
+Sent: Tuesday, March 10, 2026 12:17 PM
+To: alexandru.soare@akro.ro
+Subject: Schita statie dezinfectie cu NAOCL apa menajera
+
+FYI, conform discutie telefonica.
+
+Cu stimă,
+ing. Adrian Mînecan
+
+Project Manager
+
+TERAX s.r.l.
+Str. Marin Sorescu nr.3
+400465 Cluj-Napoca
+jud. Cluj, Romania
+Tel/Fax: +4 0364 100 124
+Mobil: +4 0752 436 760
+adrian.minecan@terax.ro
+www.terax.ro
+_______________________
+[ATAȘAMENT: Oferta - S01872.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2105604 | 2026-07-27 09:24 | Inbox | EXTERN
+De la: Andreea Lupsor <andreea.lupsor@terax.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: denisa.creta@terax.ro, george.pop@terax.ro
+Subiect: Re: FW: Schita statie dezinfectie cu NAOCL apa menajera
+Buna ziua,
+Ramane comanda ferma pentru aceasta statie, cu asistenta tehnica prin telefon la punerea in functiune.
+
+Va rog sa imi transmiteti factura proforma pentru avansul de 50%, astfel incat sa putem lansa comanda, fiind vorba de un termen de livrare de 2 saptamani +-.
+
+Multumesc!
+[ATAȘAMENT: Oferta - S01872 (1).pdf | text extras]
+AKRO SRL
+RO14205979
+J2001000977088
+
+Furnizor Client:
+AKRO SRL TERAX SRL, Bianca Fesnic
+Str. Zizinului Nr. 110 Str. Marin Sorescu Nr. 3
+Brașov BV 500407 Cluj-Napoca CJ
+România România
+VAT: RO14205979 TVA: RO16265896
+
+În atenția
+Bianca Fesnic, bianca.fesnic@terax.ro
+Phone: +40 744 648 870
+
+Oferta S01872
+Data ofertă: Expiră: Agent de vânzări:
+02.03.2026 01.04.2026 Alexandru Soare , +40 268 413 180
+
+DESCRIERE CANTITATE P.U. SUMĂ
+
+[11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual 1,00 buc 437,75 437,75 €
+sau proportional, in functie de un semnal extern analog (4-20ma) sau semnal digital
+(debitmetru).
+
+[11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 1,00 buc 131,63 131,63 €
+
+[11-002026] Sonda de aspiratie cu senzor de nivel, tub 4x6 pentru rezervor 100 l 1,00 buc 115,98 115,98 €
+[23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 1,00 buc 501,20 501,20 €
+
+Valoare fără taxe 1.186,56 €
+
+TVA 21% 249,18 €
+
+Total 1.435,74 €
+
+Termeni:
+Metoda de plata: O.P. 50% in avans - 50% la gata de livrare
+Modul de livrare: In sarcina beneficiarului
+Garantie: 24 luni de la livrare
+
+Str. Zizinului Nr. 110; Brașov; Cod 500407; ROMANIA
+Tel: +40 268 413 180; E-mail: contact@akro.ro; http://www.akro.ro; www.kalyxx.ro; www.spectra.ro
+
+Pagina: 1 / 1
+
+--- MESAJ m2142020 | 2026-07-27 09:42 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Andreea Lupsor <andreea.lupsor@terax.ro>
+Cc: denisa.creta@terax.ro, george.pop@terax.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: FW: Schita statie dezinfectie cu NAOCL apa menajera
+Buna dimineata,
+
+Va multumim pentru comanda dumneavoastra!
+
+Va rog sa regasiti anexata confirmarea de comanda [ cu transportul inclus la beneficiar], si factura proforma de avans 50%.
+
+Va rog sa ne transmiteti confirmarea de plata pentru a demara procedura de aprovizionare.
+
+O zi cu spor!
+[ATAȘAMENT: Comanda - S01872 - TERAX - 27.07.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: Factură proforma - TERAX - 27.07.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2105732 | 2026-07-27 09:56 | Inbox | EXTERN
+De la: Andreea Lupsor <andreea.lupsor@terax.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: denisa.creta@terax.ro, george.pop@terax.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Re: FW: Schita statie dezinfectie cu NAOCL apa menajera
+Buna ziua,
+Atasat regasiti OP-ul.
+
+Adresa de livrare: str. Lunga, nr. 293, com. Livezeni, jud. Mures
+
+Persoana de contact: Olimpiu +40743183949 / +40 744 131 112 George
+
+Va rog sa ma anuntati cu o zi sau doua inainte de livrare.
+
+Multumesc!
+[ATAȘAMENT: 2620804735352001_2026-07-27.pdf | text extras]
+Banca Transilvania
+Confirmare tranzacție
+SWIFT: BTRLR022
+
+Transaction confirmation
+C.U.I. RO 50 22 670
+R.B.-P.J.R. 12- 019 - 18.02.1999
+Reg. Com.: J12 / 4155 / 1993
+
+Plătitor / Payer
+Nume / Name TERAX SRL
+Cont / Account RO90BTRL01301202971777XX
+
+Beneficiar / Beneficiary
+Nume / Name AKRO SRL
+Cont / Account RO98INGB0000999902843963
+
+Detalii / Details
+Număr de ordine / Order number 1609
+Operațiune / Operation Payment
+Suma / Amount 3,868.75 RON
+Descriere / Description Cval proforma
+Referință / Reference 2620804735352001
+Dată procesare / Processing date 27.07.2026
+Tip plată / Payment type Instant
+Status Completed
+Banca / Bank ING BANK N.V., BUCHAREST BRANCH
+
+--- MESAJ m2142052 | 2026-07-27 10:12 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Andreea Lupsor <andreea.lupsor@terax.ro>
+Cc: denisa.creta@terax.ro, george.pop@terax.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: FW: Schita statie dezinfectie cu NAOCL apa menajera
+Buna ziua,
+
+Am primit , va multumim!
+
+Va anunt de indata ce totul este pregatit pentru livrare in depozitul AKRO.
+
+O zi cu spor!
+
+--- MESAJ m2105828 | 2026-07-27 10:33 | Inbox | EXTERN
+De la: Andreea Lupsor <andreea.lupsor@terax.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: denisa.creta@terax.ro, george.pop@terax.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Re: FW: Schita statie dezinfectie cu NAOCL apa menajera
+👍
+
+Andreea Lupsor a reacționat prin Gmail
+
+--- MESAJ m2144996 | 2026-08-04 13:33 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Andreea Lupsor <andreea.lupsor@terax.ro>
+Cc: denisa.creta@terax.ro, george.pop@terax.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: FW: Schita statie dezinfectie cu NAOCL apa menajera
+Buna ziua,
+
+Va informam ca statia de clorinare s-a pregatit pentru livrarea la adresa indicata [ str. Lunga, nr. 293, com. Livezeni, jud. Mures].
+
+Statia s-a presetat pe aplicatia client si va fi insotita de schema de montaj.
+
+Va rog sa ne transmiteti confirmarea de plata pentru diferenta pentru a organiza transportul.
+
+Vom livra produsele prin PALLEX – termenul de livrare este de 2 zile lucratoare din momentul in care se trimite confirmarea de plata.
+
+Asteptam raspuns!
+
+Numai bine,
+[ATAȘAMENT: AKF 260459 - TERAX - 04.08.2026.pdf | text extras]
+
+--- MESAJ m2108260 | 2026-08-04 14:11 | Inbox | EXTERN
+De la: Andreea Lupsor <andreea.lupsor@terax.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: denisa.creta@terax.ro, george.pop@terax.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Re: FW: Schita statie dezinfectie cu NAOCL apa menajera
+Buna ziua,
+Va multumesc frumos ca m-ati anuntat.
+
+Ar fi in regula daca as reveni cu dovada platii la inceputul saptamanii viitoare, astfel incat livrarea sa se faca in urmatoarele doua zile?
+
+Lucrarile s-au intarziat putin si as prefera sa nu aducem statia mai devreme decat momentul in care va fi pusa in opera.
+
+--- MESAJ m2145028 | 2026-08-04 14:19 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Andreea Lupsor <andreea.lupsor@terax.ro>
+Cc: denisa.creta@terax.ro, george.pop@terax.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: FW: Schita statie dezinfectie cu NAOCL apa menajera
+Buna ziua,
+
+Desigur putem organiza transportul luni 10.08 [ ca sa ajunga la dumneavoastra miercuri – 12.08] – e bine asa?
+
+Statia oricum vine livrata paletizat si infoliat. Este nevoie sa se monteze pe conducta contorul DN100 [ deci este nevoie de piesa cand se executa traseul].
+
+Numai bine,
+
+--- MESAJ m2108292 | 2026-08-04 14:27 | Inbox | EXTERN
+De la: Andreea Lupsor <andreea.lupsor@terax.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: denisa.creta@terax.ro, george.pop@terax.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Re: FW: Schita statie dezinfectie cu NAOCL apa menajera
+Buna ziua,
+Voi reveni luni, 10.08, cu un e-mail care va contine datele exacte privind livrarea acestei statii, dupa ce se va intoarce din concediu si inginerul responsabil pentru acest proiect, pentru a putea discuta si cu el si a stabili totul conform situatiei actuale din santier.
+
+Va rog sa-mi comunicati daca aceasta varianta este in regula si pentru dvs.
+
+Va multumesc!
+
+--- MESAJ m2145124 | 2026-08-04 14:31 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Andreea Lupsor <andreea.lupsor@terax.ro>
+Cc: denisa.creta@terax.ro, george.pop@terax.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: FW: Schita statie dezinfectie cu NAOCL apa menajera
+Buna ziua,
+
+Este in regula asa, asteptam e-mailul!
+
+O zi cu spor !
+
+--- MESAJ m2108324 | 2026-08-04 14:33 | Inbox | EXTERN
+De la: Andreea Lupsor <andreea.lupsor@terax.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: denisa.creta@terax.ro, george.pop@terax.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Re: FW: Schita statie dezinfectie cu NAOCL apa menajera
+Va multumesc frumos!
+O zi buna!
+
+--- MESAJ m2148868 | 2026-08-13 14:55 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Andreea Lupsor <andreea.lupsor@terax.ro>
+Subiect: FW: FW: Schita statie dezinfectie cu NAOCL apa menajera
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Tuesday, August 4, 2026 1:34 PM
+To: 'Andreea Lupsor' <andreea.lupsor@terax.ro>
+Cc: 'Denisa Creta' <DENISA.CRETA@terax.ro>; 'George Pop' <george.pop@terax.ro>; 'Akro Filtrare' <office@akro.ro>; 'andrei.dobrei@akro.ro' <andrei.dobrei@akro.ro>
+Subject: RE: FW: Schita statie dezinfectie cu NAOCL apa menajera
+
+Buna ziua,
+
+Va informam ca statia de clorinare s-a pregatit pentru livrarea la adresa indicata [ str. Lunga, nr. 293, com. Livezeni, jud. Mures].
+
+Statia s-a presetat pe aplicatia client si va fi insotita de schema de montaj.
+
+Va rog sa ne transmiteti confirmarea de plata pentru diferenta pentru a organiza transportul.
+
+Vom livra produsele prin PALLEX – termenul de livrare este de 2 zile lucratoare din momentul in care se trimite confirmarea de plata.
+
+Asteptam raspuns!
+
+Numai bine,
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Monday, July 27, 2026 10:12 AM
+To: 'Andreea Lupsor' <andreea.lupsor@terax.ro>
+Cc: 'Denisa Creta' <DENISA.CRETA@terax.ro>; 'George Pop' <george.pop@terax.ro>; 'Akro Filtrare' <office@akro.ro>; 'andrei.dobrei@akro.ro' <andrei.dobrei@akro.ro>
+Subject: RE: FW: Schita statie dezinfectie cu NAOCL apa menajera
+
+Buna ziua,
+
+Am primit , va multumim!
+
+Va anunt de indata ce totul este pregatit pentru livrare in depozitul AKRO.
+
+O zi cu spor!
+
+From: Andreea Lupsor <andreea.lupsor@terax.ro>
+Sent: Monday, July 27, 2026 9:56 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: Denisa Creta <DENISA.CRETA@terax.ro>; George Pop <george.pop@terax.ro>; Akro Filtrare <office@akro.ro>; andrei.dobrei@akro.ro
+Subject: Re: FW: Schita statie dezinfectie cu NAOCL apa menajera
+
+Buna ziua,
+
+Atasat regasiti OP-ul.
+
+Adresa de livrare: str. Lunga, nr. 293, com. Livezeni, jud. Mures
+
+Persoana de contact: Olimpiu +40743183949 / +40 744 131 112 George
+
+Va rog sa ma anuntati cu o zi sau doua inainte de livrare.
+
+Multumesc!
+
+În lun., 27 iul. 2026 la 09:42, AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro> a scris:
+
+Buna dimineata,
+
+Va multumim pentru comanda dumneavoastra!
+
+Va rog sa regasiti anexata confirmarea de comanda [ cu transportul inclus la beneficiar], si factura proforma de avans 50%.
+
+Va rog sa ne transmiteti confirmarea de plata pentru a demara procedura de aprovizionare.
+
+O zi cu spor!
+
+From: Andreea Lupsor <andreea.lupsor@terax.ro>
+Sent: Monday, July 27, 2026 9:24 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: Denisa Creta <DENISA.CRETA@terax.ro>; George Pop <george.pop@terax.ro>
+Subject: Re: FW: Schita statie dezinfectie cu NAOCL apa menajera
+
+Buna ziua,
+
+Ramane comanda ferma pentru aceasta statie, cu asistenta tehnica prin telefon la punerea in functiune.
+
+Va rog sa imi transmiteti factura proforma pentru avansul de 50%, astfel incat sa putem lansa comanda, fiind vorba de un termen de livrare de 2 saptamani +-.
+
+Multumesc!
+
+În mie., 22 iul. 2026 la 15:12, AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro> a scris:
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Wednesday, July 22, 2026 3:10 PM
+To: 'andreea.upsor@terax.ro' <andreea.upsor@terax.ro>
+Cc: 'Akro Filtrare' <office@akro.ro>; 'andrei.dobrei@akro.ro' <andrei.dobrei@akro.ro>
+Subject: FW: Schita statie dezinfectie cu NAOCL apa menajera
+
+Salutare Andreea,
+
+Trimit anexata cotatia de pret pentru statia de clorinare [ care este inca valabila] , iar mai jos iti las discutia cu Dl Adrian in care s-au ofertat si diferite servicii:
+
+Transport
+
+PIF
+
+Termenul estimat de livrare la aceasta data este de +- 2 saptamani.
+
+O zi cu spor!
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Tuesday, March 10, 2026 12:45 PM
+To: 'Adrian Minecan' <adrian.minecan@terax.ro>
+Cc: 'Akro Filtrare' <office@akro.ro>
+Subject: RE: Schita statie dezinfectie cu NAOCL apa menajera
+
+Buna ziua Dl Adrian,
+
+Conform discutiei telefonice va rog sa regasiti mai jos informatiile solicitate:
+
+Transportul produselor la beneficiar [
+[ATAȘAMENT: AKF 260459 - TERAX - 04.08.2026.pdf | text extras]
+
+--- MESAJ m2113028 | 2026-08-18 09:32 | Inbox | EXTERN
+De la: Andreea Lupsor <andreea.lupsor@terax.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Re: FW: FW: Schita statie dezinfectie cu NAOCL apa menajera
+Buna ziua,
+Atasat OP-ul.
+
+Multumesc!
+[ATAȘAMENT: 2623004734272000_2026-08-18.pdf | text extras]
+Banca Transilvania
+Confirmare tranzacție
+SWIFT: BTRLR022
+
+Transaction confirmation
+C.U.I. RO 50 22 670
+R.B.-P.J.R. 12- 019 - 18.02.1999
+Reg. Com.: J12 / 4155 / 1993
+
+Plătitor / Payer
+Nume / Name TERAX SRL
+Cont / Account RO90BTRL01301202971777XX
+
+Beneficiar / Beneficiary
+Nume / Name AKRO SRL
+Cont / Account RO98INGB0000999902843963
+
+Detalii / Details
+Număr de ordine / Order number 1701
+Operațiune / Operation Payment
+Suma / Amount 3,885.30 RON
+Descriere / Description Cval factura
+Referință / Reference 2623004734272000
+Dată procesare / Processing date 18.08.2026
+Tip plată / Payment type Instant
+Status Completed
+Banca / Bank ING BANK N.V., BUCHAREST BRANCH
+
+--- MESAJ m2150116 | 2026-08-18 09:49 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Akro Filtrare <office@akro.ro>
+Cc: andrei.dobrei@akro.ro
+Subiect: FW: FW: FW: Schita statie dezinfectie cu NAOCL apa menajera
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Andreea Lupsor <andreea.lupsor@terax.ro>
+Sent: Tuesday, August 18, 2026 9:32 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: Re: FW: FW: Schita statie dezinfectie cu NAOCL apa menajera
+
+Buna ziua,
+
+Atasat OP-ul.
+
+Multumesc!
+
+În joi, 13 aug. 2026 la 14:55, AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro> a scris:
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Tuesday, August 4, 2026 1:34 PM
+To: 'Andreea Lupsor' <andreea.lupsor@terax.ro>
+Cc: 'Denisa Creta' <DENISA.CRETA@terax.ro>; 'George Pop' <george.pop@terax.ro>; 'Akro Filtrare' <office@akro.ro>; 'andrei.dobrei@akro.ro' <andrei.dobrei@akro.ro>
+Subject: RE: FW: Schita statie dezinfectie cu NAOCL apa menajera
+
+Buna ziua,
+
+Va informam ca statia de clorinare s-a pregatit pentru livrarea la adresa indicata [ str. Lunga, nr. 293, com. Livezeni, jud. Mures].
+
+Statia s-a presetat pe aplicatia client si va fi insotita de schema de montaj.
+
+Va rog sa ne transmiteti confirmarea de plata pentru diferenta pentru a organiza transportul.
+
+Vom livra produsele prin PALLEX – termenul de livrare este de 2 zile lucratoare din momentul in care se trimite confirmarea de plata.
+
+Asteptam raspuns!
+
+Numai bine,
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Monday, July 27, 2026 10:12 AM
+To: 'Andreea Lupsor' <andreea.lupsor@terax.ro>
+Cc: 'Denisa Creta' <DENISA.CRETA@terax.ro>; 'George Pop' <george.pop@terax.ro>; 'Akro Filtrare' <office@akro.ro>; 'andrei.dobrei@akro.ro' <andrei.dobrei@akro.ro>
+Subject: RE: FW: Schita statie dezinfectie cu NAOCL apa menajera
+
+Buna ziua,
+
+Am primit , va multumim!
+
+Va anunt de indata ce totul este pregatit pentru livrare in depozitul AKRO.
+
+O zi cu spor!
+
+From: Andreea Lupsor <andreea.lupsor@terax.ro>
+Sent: Monday, July 27, 2026 9:56 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: Denisa Creta <DENISA.CRETA@terax.ro>; George Pop <george.pop@terax.ro>; Akro Filtrare <office@akro.ro>; andrei.dobrei@akro.ro
+Subject: Re: FW: Schita statie dezinfectie cu NAOCL apa menajera
+
+Buna ziua,
+
+Atasat regasiti OP-ul.
+
+Adresa de livrare: str. Lunga, nr. 293, com. Livezeni, jud. Mures
+
+Persoana de contact: Olimpiu +40743183949 / +40 744 131 112 George
+
+Va rog sa ma anuntati cu o zi sau doua inainte de livrare.
+
+Multumesc!
+
+În lun., 27 iul. 2026 la 09:42, AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro> a scris:
+
+Buna dimineata,
+
+Va multumim pentru comanda dumneavoastra!
+
+Va rog sa regasiti anexata confirmarea de comanda [ cu transportul inclus la beneficiar], si factura proforma de avans 50%.
+
+Va rog sa ne transmiteti confirmarea de plata pentru a demara procedura de aprovizionare.
+
+O zi cu spor!
+
+From: Andreea Lupsor <andreea.lupsor@terax.ro>
+Sent: Monday, July 27, 2026 9:24 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: Denisa Creta <DENISA.CRETA@terax.ro>; George Pop <george.pop@terax.ro>
+Subject: Re: FW: Schita statie dezinfectie cu NAOCL apa menajera
+
+Buna ziua,
+
+Ramane comanda ferma pentru aceasta statie, cu asistenta tehnica prin telefon la punerea in functiune.
+
+Va rog sa imi transmiteti factura proforma pentru avansul de 50%, astfel incat sa putem lansa comanda, fiind vorba de un termen de livrare de 2 saptamani +-.
+
+Multumesc!
+
+În mie., 22 iul. 2026 la 15:12, AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro> a scris:
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Wednesday, July 22, 2026 3:10 PM
+To: 'andreea.upsor@terax.ro' <andreea.upsor@terax.ro>
+Cc: 'Akro Filtrare' <office@akro.ro>; 'andrei.dobrei@akro.ro' <andrei.dobrei@akro.ro>
+Subject: FW: Schita statie dezinfectie cu NAOCL apa menajera
+
+Salutare Andreea,
+
+Trimit anexata cotatia de pret pentru statia de clorinare [ care este inca valabila] , iar mai jos iti las discutia cu Dl Adrian in care s-au ofertat si diferite servicii:
+
+Transport
+
+PIF
+
+Termenul estimat de livrare la aceasta data este de +- 2 saptamani.
+
+O zi cu spor!
+
+From: AKRO Romania , Alexandru Soare
+[ATAȘAMENT: 2623004734272000_2026-08-18.pdf | text extras]

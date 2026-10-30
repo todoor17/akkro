@@ -1,0 +1,545 @@
+
+####################################################################################################
+OFERTA S02430 | client: U.A.T. Comuna Șoarș | trimisă: 2026-07-02 11:59 | Odoo: nu e în lista Odoo | conversații: c2134820 (nr. 21)
+
+####################################################################################################
+RÂND c2134820 (nr. 21) | stare: După vânzare | categorie: 13-Filtre multistrat diferite medii | cerere: Instalație de tratare apă Șoarș (achiziție SICAP)
+CERINȚA: -
+CERINȚĂ FINALĂ (altele): Stația se facturează sub un singur produs, conform achiziției din SICAP [m2134820] «Statia se va factura in final sub un singur produs»
+CLARIFICARE: întrebare AKRO cere un status al contractului. [m2099428] «Ne puteti ajuta cu un status al contractului?» → răspuns Clientul completează în contract valoarea fără TVA și cere verificare înainte de semnare. [m2100644] «Am completat la contract valoarea fara tva.» | schimbare: Contractul nr. 97 completat cu valoarea fără TVA; AKRO îl semnează la 21.07.2026.
+TELEFON: Discuție telefonică după finalizarea achiziției SICAP; AKRO trimite apoi draftul de contract și oferta ca anexă 1. [m2134820] «Asa cum am discutat la telefon, va trimitem draftul de contract»
+REZULTAT: acceptată — Comanda finalizată prin SICAP; contractul nr. 97 semnat. [m2134820] «Va multumim pentru comanda si finalizarea procedurii de achizitie din SICAP!»
+PREȚURI Ofertă S02430 v1 (2026-07-02), total 301122.35 RON:
+  [01-008048] Filtru impuritati NW400 - 1.5" | 3.0 buc × 1416.85 RON | referință
+  [01-008049] Consola de prindere pentru carcasa cintropur NW 280/340/400 | 3.0 buc × 152.24 RON | referință
+  [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie de un semn | 3.0 buc × 2133.23 RON | referință
+  [11-002098] Rezervor PE - stocare chimicale 50L | 3.0 buc × 562.41 RON | referință
+  [23-001195] Contor 1.5"-ZENNER - cu generator de impuls 1/100L - cu racorduri (o-landezi) si garnituri incluse MTKD-N+EDC | 3.0 buc × 1572.13 RON | referință
+  [13-001192] FDC 250 - filtru deferizare demanganizare, vana Clack CI, racord 2" | 2.0 buc × 19858.17 RON | referință
+  [13-001216] FCC 250 Filtru cu carbune, 250L mediu filtrant, vana Clack CI, racord 2" | 4.0 buc × 20365.96 RON | referință
+  [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie de un semn | 1.0 buc × 2133.23 RON | referință
+  [23-001196] Contor 2"-ZENNER - cu generator de impuls 1/100L - cu racorduri (o- landezi) si garnituri incluse MTKD-N+EDC | 1.0 buc × 1823.25 RON | referință
+  [11-002098] Rezervor PE - stocare chimicale 50L | 1.0 buc × 562.41 RON | referință
+  [27-001258] Sistem UV apa_80/4 RACK LCD_PLUS_Debit 30 m3/h_Doza UV 40 mJ/cm2_Putere 355W_Racord DN80_SITA | 1.0 buc × 32366.64 RON | referință
+  [23-003035] Rezervor cilindric orizontal suprateran PAFS - 7mc - Criber | 1.0 buc × 23542.65 RON | referință
+  [16-001015] Transport echipamente, asamblare pe locatie, mutare automatizare, materiale si manopera de montaj , PIF, teste functiona | None  × None RON | serviciu
+  termen: Metoda de plata: O.P. -30% in avans, 30% la livrarea echipamentelor, 40% la 30 de zile de la PIF dar nu mai tarziu de 45 de zile de
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12 luni de la livrare
+VÂNDUTĂ 2026-07-02 11:59 | lanț: parțial | lipsește: ['cerința clientului nu apare în emailuri']
+COMANDA P01372 (legată în Odoo) | ALAMO WATER POLAND | 2026-08-05 14:35 | sursa în Odoo: S02430 | stare: Comandă de achiziție | total: 8021.6
+  Comandă AKRO P01372 trimisă 2026-08-05 14:44 în m2145732 (conversația 125):
+    [14-001050] [V2CIBT-Z] WS2 CI FILTER TIME (BACKWASH ONLY) | 2.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-001041] [V15CIBT-Z] WS1.5 CI FILTER TIME (BACKWASH ONLY) | 4.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-001010] [V3186EU-PL] TRANSFORMER 230/12V 50HZ | 6.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-001042] [D1199-11] TOP BASKET D50 - QC | 6.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-001043] [V3079BSPT] DLFC HOUSING 1.25" COMPLETE + DLFC restrictor - for activated carbon application - 24x65 | 4.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-001051] [V3080BSPT] DLFC HOUSING 1.5" COMPLETE +dlfc restrictor - for pyrolux and sand media filter - with tank 24x72 | 2.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-002035] [10871000022] PYROLOX REGULAR MNO2 (8X20) (0.8-2.4 MM) | 170.0 L | 14-002 Medii filtrante
+    [14-003081] [CN-2465-4] 24x65-4T | 6.0 Units | 14-003 Coloane de presiune pentru filtrare, accesorii vase
+    [14-005032] [D1197-07-50] DISTRIBUTOR 50MM WITH BOTTOM BASKET D1197-09 | 6.0 Units | 14-005 Crepine, distribuitoare si componente
+    notă: 2 x filters - 2"CI clack - with pyrolux - tank 24x65 [ without sand] 2 x filters - 1.5"CI clack - activated carbon - tank 24x65 [ without media at all]
+  Confirmare ALAMO SO2605178-1400-1 trimisă 2026-08-05 15:31 în m2109220 (conversația 125):
+    [-] [V2CIBTZ-05] WS2CI Valve BW T I-Z | 2.0 PCS | 904.58 EUR | 
+    [-] [V15CIBTZ-05] WS15CI Valve BW T I-Z | 4.0 PCS | 657.0 EUR | 
+    [-] [V3186EU-06] WS1 DC Power Supply EU 15V DC | 6.0 PCS | 9.42 EUR | 
+    [-] [D1199-11] TOP STACK DIST CLACK SNAP IN 50mm | 6.0 PCS | 32.94 EUR | 
+    [-] [V3079BSPT] DLFC Asy 1,25" Stainless Steel | 4.0 PCS | 82.08 EUR | 
+    [-] [V3080BSPT] WS DLFC ASY M1,5'' x F1,5'' BSPT | 2.0 PCS | 76.61 EUR | 
+    [-] [V3190-200] WS1 DLFC 200 (20,0 gpm) For 1'' | 4.0 PCS | 2.61 EUR | 
+    [-] [V3190-250] WS1 DLFC 250 (25,0 gpm) For 1'' | 2.0 PCS | 2.61 EUR | 
+    [-] [V3162-100] WS1 DLFC 100 (10,0 gpm) For 3/4'' | 6.0 PCS | 1.05 EUR | 
+    [-] [V3162-075] WS1 DLFC 075 (7,5 gpm) For 3/4'' | 2.0 PCS | 1.05 EUR | 
+    [-] [-] Pyrolox 08x20 (25kg) | 13.0 BAG | 45.62 EUR | 
+    [-] [D1197-09] Bottom Stack Distributor 950 | 6.0 PCS | 29.81 EUR | 
+    [-] [-] PVC Tube D50x3.7 mm PN16 (L = 5m) | 12.0 M | 3.85 EUR | 
+    [-] [-] 24*65 FRP Tank (4'') Blue | 6.0 PCS | 0.0 EUR | 
+COMANDA P01497 (legată în Odoo) | ALAMO WATER POLAND | 2026-09-21 14:52 | sursa în Odoo: S02430 | stare: CdO | total: 6333.51
+  (nu e în emailuri: doar rândul din lista Odoo)
+COMANDA P01229 (indiciu din perioadă) | ALAMO WATER POLAND | 2026-07-15 12:10 | sursa în Odoo: stoc | stare: Comandă de achiziție | total: 176.33
+  (nu e în emailuri: doar rândul din lista Odoo)
+COMANDA P01436 (indiciu din perioadă) | ALAMO WATER POLAND | 2026-08-27 13:52 | sursa în Odoo: - | stare: Comandă de achiziție | total: 1053.5
+  Comandă AKRO P01436 trimisă 2026-08-27 13:54 în m2152932 (conversația 359):
+    [14-002101] [10761000004] Pure Resin PMB101-2 mixed bed | 350.0 L | 14-002 Medii filtrante
+
+====================================================================================================
+CONVERSAȚIA c2134820 (nr. 21) | subiect: Contract - instalatie de tratare apa SOARS
+Partener (după adrese): achizitiicomunasoars@yahoo.com COMUNA SOARS | grupare nesigură: da
+OFERTĂ S02430 v1 trimisă 2026-07-02 11:59 în m2134820 (Odoo: nu e în lista Odoo): [01-008048] Filtru impuritati NW400 - 1.5" x3.0 buc; [01-008049] Consola de prindere pentru carcasa cintropur NW 280/340/400 x3.0 buc; [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual x3.0 buc; [11-002098] Rezervor PE - stocare chimicale 50L x3.0 buc; [23-001195] Contor 1.5"-ZENNER - cu generator de impuls 1/100L - cu racorduri (o-landezi) si x3.0 buc; [13-001192] FDC 250 - filtru deferizare demanganizare, vana Clack CI, racord 2" x2.0 buc; [13-001216] FCC 250 Filtru cu carbune, 250L mediu filtrant, vana Clack CI, racord 2" x4.0 buc; [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual x1.0 buc; [23-001196] Contor 2"-ZENNER - cu generator de impuls 1/100L - cu racorduri (o- landezi) si  x1.0 buc; [11-002098] Rezervor PE - stocare chimicale 50L x1.0 buc; [27-001258] Sistem UV apa_80/4 RACK LCD_PLUS_Debit 30 m3/h_Doza UV 40 mJ/cm2_Putere 355W_Rac x1.0 buc; [23-003035] Rezervor cilindric orizontal suprateran PAFS - 7mc - Criber x1.0 buc; [-] Transport echipamente, asamblare pe locatie, mutare automatizare, materiale si m xNone 
+
+--- MESAJ m2134820 | 2026-07-02 11:59 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: achizitiicomunasoars@yahoo.com <achizitiicomunasoars@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, aurel.caras@akro.ro
+Subiect: Contract - instalatie de tratare apa SOARS
+Buna ziua,
+
+Va multumim pentru comanda si finalizarea procedurii de achizitie din SICAP!
+
+Asa cum am discutat la telefon, va trimitem draftul de contract [ in format editabil pentru completare cu datele lipsa + eventuale modificari] precum si oferta statie devenita anexa 1 la CTR [ Statia se va factura in final sub un singur produs – conform achizitiei din SICAP].
+
+Pentru orice alte intrebari sau informatii, va stau cu placere la dispozitie!
+
+Numai bine,
+[ATAȘAMENT: ANEXA 1 la CTR 97 - Oferta - S02430 - COMUNA SOARS - 02.07.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: 1.F1_DRAFT CONTRACT - Nr 97 - COMUNA SOARS - 02.07.2026.docx | text extras]
+
+--- MESAJ m2099428 | 2026-07-08 11:41 | Inbox | AKRO
+De la: daniela.baba@akro.ro <daniela.baba@akro.ro>
+Către: achizitiicomunasoars@yahoo.com <achizitiicomunasoars@yahoo.com>
+Cc: andrei.dobrei@akro.ro, aurel.caras@akro.ro, alexandru.soare@akro.ro
+Subiect: RE: Contract - instalatie de tratare apa SOARS
+Buna ziua,
+
+Ne puteti ajuta cu un status al contractului?
+
+Multumim!
+
+Cu consideratie,
+
+--- MESAJ m2100644 | 2026-07-13 15:12 | Inbox | AKRO
+De la: daniela.baba@akro.ro <daniela.baba@akro.ro>
+Către: office@akro.ro <office@akro.ro>, alexandru.soare@akro.ro <alexandru.soare@akro.ro>
+Subiect: FW: Contract - instalatie de tratare apa SOARS
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: COMUNA SOARS <achizitiicomunasoars@yahoo.com>
+Sent: Monday, July 13, 2026 3:08 PM
+To: daniela.baba@akro.ro
+Subject: Re: Contract - instalatie de tratare apa SOARS
+
+Buna ziua!
+
+Am completat la contract valoarea fara tva.
+
+Va rog verificati si daca e ok, il dau la semnat.
+
+Cu consideratie,
+
+jr. Cristina Demeter,
+
+inspector superior achizitii publice
+
+- 0726737909
+
+U.A.T. COMUNA SOARS
+
+Pe miercuri, 8 iulie 2026, 11:51:20 EEST, COMUNA SOARS <achizitiicomunasoars@yahoo.com> a scris:
+
+Buna ziua!Doar ce m-am intors la munca dupa un eveniment in familie si am control.Ma voi ocupa maine de contract.
+
+Cu consideratie,
+
+jr. Cristina Demeter,
+
+inspector superior achizitii publice
+
+- 0726737909
+
+U.A.T. COMUNA SOARS
+
+Pe miercuri, 8 iulie 2026, 11:41:51 EEST, daniela.baba@akro.ro <daniela.baba@akro.ro> a scris:
+
+Buna ziua,
+
+Ne puteti ajuta cu un status al contractului?
+
+Multumim!
+
+Cu consideratie,
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+
+Sent: Thursday, July 2, 2026 12:00 PM
+
+To: achizitiicomunasoars@yahoo.com
+
+Cc: 'Akro Filtrare' <office@akro.ro>; andrei.dobrei@akro.ro; 'Aurel CARAS -
+
+AKRO' <aurel.caras@akro.ro>
+
+Subject: Contract - instalatie de tratare apa SOARS
+
+Buna ziua,
+
+Va multumim pentru comanda si finalizarea procedurii de achizitie din SICAP!
+
+Asa cum am discutat la telefon, va trimitem draftul de contract [ in format
+
+editabil pentru completare cu datele lipsa + eventuale modificari] precum si
+
+oferta statie devenita anexa 1 la CTR [ Statia se va factura in final sub un
+
+singur produs - conform achizitiei din SICAP].
+
+Pentru orice alte intrebari sau informatii, va stau cu placere la
+
+dispozitie!
+
+Numai bine,
+[ATAȘAMENT: 1.F1_DRAFT CONTRACT - Nr 97 - COMUNA SOARS - 02.07.2026.docx | text extras]
+
+--- MESAJ m2139012 | 2026-07-21 08:48 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: achizitiicomunasoars@yahoo.com <achizitiicomunasoars@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, aurel.caras@akro.ro
+Subiect: RE: Contract - instalatie de tratare apa SOARS
+Buna dimineata,
+
+Va las anexat contractul semnat si din partea AKRO.
+
+Pentru orice alte intrebari sau informatii va stau cu placere la dispozitie!
+
+Numai bine,
+[ATAȘAMENT: Contract 97 - PRIMARIA SOARS - semnat - 21.07.2026.pdf | PDF fără text (scanat)]
+
+--- MESAJ m2102692 | 2026-07-21 08:59 | Inbox | EXTERN
+De la: COMUNA SOARS <achizitiicomunasoars@yahoo.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Re: Contract - instalatie de tratare apa SOARS
+Buna dimineata!
+
+Multumim dar neaparat cand veniti la Soars, sa intrati sa semnati sa il am si original.
+
+Cu consideratie,
+
+jr. Cristina Demeter,
+
+inspector superior achizitii publice
+
+- 0726737909
+
+U.A.T. COMUNA SOARS
+
+--- MESAJ m2139108 | 2026-07-21 09:33 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: COMUNA SOARS <achizitiicomunasoars@yahoo.com>
+Cc: andrei.dobrei@akro.ro, office@akro.ro
+Subiect: RE: Contract - instalatie de tratare apa SOARS
+In regula,
+
+O zi cu spor!
+
+====================================================================================================
+CONVERSAȚIA c2139044 (nr. 125) | subiect: FRP pressure vessels 24 " diameter but smaller
+Partener (după adrese): alamowaterpoland.com Dominik Mirowski, Alamo Water Poland | grupare nesigură: da
+
+--- MESAJ m2139044 | 2026-07-21 09:15 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: FRP pressure vessels 24 " diameter but smaller
+Hello Dominik,
+
+I hope this e-mail finds you well!
+
+Is there a chance to find in your warehouse 6pcs x Vessels 24”x 65 or 69?
+
+We won a project where the total height of the room is around 235cm and we want to be sure we will have space for the filters. [ also for filling them up]
+
+With standard canature 72” – the vessels are +-1.95m tall, alone there is too little space for filling.
+
+Please advise!
+
+Best regards,
+
+--- MESAJ m2102756 | 2026-07-21 09:28 | Inbox | EXTERN
+De la: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: ODP: FRP pressure vessels 24 " diameter but smaller
+Hello Alexandru,
+
+currently we have in stock 5x C-2469-A3.
+
+We don't keep in stock 24x65 pressure tanks.
+
+Regarding to 24x69 I can ask Belgium if they have another 1x tank to fulfill your requirement.
+
+Pozdrawiam/Best regards,
+
+Dominik Mirowski
+
+Alamo Water Poland Sp. Z o.o.
+
+Ul. Gen. Tadeusza Kutrzeby 17
+
+05-082 Stare Babice, Poland
+
+T. +48 22 270 13 82
+
+dom@alamowaterpoland.com
+
+www.alamowaterpoland.com
+
+--- MESAJ m2139076 | 2026-07-21 09:32 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: FRP pressure vessels 24 " diameter but smaller
+Hello Dominik,
+
+Please ask Belgium if they have 1 more 24x69. [ we will send the order for sure in the following days-no more than 2 weeks – just signed the contract with the client].But I need to see the real delivery times with the extra equipment [ pumps, storage tanks.
+
+Best regards,
+
+--- MESAJ m2104196 | 2026-07-22 11:28 | Inbox | EXTERN
+De la: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: ODP: FRP pressure vessels 24 " diameter but smaller
+Hello Alexandru,
+
+unfortunately, we won't receive 1x C-2469-A3 from Belgium.
+
+In this case we have only 5 pcs available from stock.
+
+Pozdrawiam/Best regards,
+
+Dominik Mirowski
+
+Alamo Water Poland Sp. Z o.o.
+
+Ul. Gen. Tadeusza Kutrzeby 17
+
+05-082 Stare Babice, Poland
+
+T. +48 22 270 13 82
+
+dom@alamowaterpoland.com
+
+www.alamowaterpoland.com
+
+--- MESAJ m2140452 | 2026-07-22 13:13 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: FRP pressure vessels 24 " diameter but smaller
+Hello Dominik,
+
+Could you please tell me if you asked both in Euraqua or AQUACom?
+
+I will try to find another vessel same dimension.
+
+Please advise.
+
+--- MESAJ m2104324 | 2026-07-22 13:20 | Inbox | EXTERN
+De la: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: ODP: FRP pressure vessels 24 " diameter but smaller
+Hello,
+
+I asked only Euraqua.
+
+Pozdrawiam/Best regards,
+
+Dominik Mirowski
+
+Alamo Water Poland Sp. Z o.o.
+
+Ul. Gen. Tadeusza Kutrzeby 17
+
+05-082 Stare Babice, Poland
+
+T. +48 22 270 13 82
+
+dom@alamowaterpoland.com
+
+www.alamowaterpoland.com
+
+--- MESAJ m2142948 | 2026-07-29 11:06 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: FRP pressure vessels 24 " diameter but smaller
+Hello Dominik,
+
+I have written to AQUA Com , but unfortunately until now they did not responded if they do have or not a tank 24x69 [ normally they answer in a couple of days, but I do not know what is happening [ maybe they are in summer break].
+
+Anyway is it possible to keep a little longer the reservation for the structural tanks?
+
+If I do not have a response this week , I will order only 4 structural + 2 canature from you and we will do some sealing cut above the 2 bigger filters.
+
+Thank you again!
+
+--- MESAJ m2108004 | 2026-08-03 13:40 | Inbox | EXTERN
+De la: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: ODP: FRP pressure vessels 24 " diameter but smaller
+Hello Alexandru,
+
+I'm affraid I don't have good news.
+
+During my holiday absence, my colleagues sold 2 tanks. So currently I have only 3 pcs instock.
+
+I also asked our German sister company about 24x69 pressure tanks - waiting for their answer.
+
+Pozdrawiam/Best regards,
+
+Dominik Mirowski
+
+Alamo Water Poland Sp. Z o.o.
+
+Ul. Gen. Tadeusza Kutrzeby 17
+
+05-082 Stare Babice, Poland
+
+T. +48 22 270 13 82
+
+dom@alamowaterpoland.com
+
+www.alamowaterpoland.com
+
+--- MESAJ m2144644 | 2026-08-03 13:44 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: FRP pressure vessels 24 " diameter but smaller
+Ok Dominik,
+
+Please let me know with the response from Germany .
+
+I really hope to find them otherwise is complicated with the installation.
+
+Best regards,
+
+--- MESAJ m2109060 | 2026-08-05 14:15 | Inbox | EXTERN
+De la: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: ODP: FRP pressure vessels 24 " diameter but smaller
+Hello Alexandru,
+
+Italy gave a green light to purchase from them 6x 24x65 pressure tanks.
+
+But they are starting summer brake and they can ship them after August, 24th.
+
+Is it okay for you?
+
+I'm also waiting for prices regarding to tanks and transport.
+
+Pozdrawiam/Best regards,
+
+Dominik Mirowski
+
+Alamo Water Poland Sp. Z o.o.
+
+Ul. Gen. Tadeusza Kutrzeby 17
+
+05-082 Stare Babice, Poland
+
+T. +48 22 270 13 82
+
+dom@alamowaterpoland.com
+
+www.alamowaterpoland.com
+
+--- MESAJ m2145700 | 2026-08-05 14:18 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: FRP pressure vessels 24 " diameter but smaller
+Dominik,
+
+It’s perfect like this!
+
+Could you please give me also a net price for them [ I need to introduce this in our system .
+
+After this I am sending you the order right away
+
+Thank you! again
+
+--- MESAJ m2145732 | 2026-08-05 14:44 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, alamo@alamowaterpoland.com
+Subiect: RE: FRP pressure vessels 24 " diameter but smaller
+Hello Dominik,
+
+Please find attached the order as promise for:
+
+2 x Ws2Ci[brass]– pyrolux filters with tank 24x65 – [ without sand]
+
+4 x WS1.5CI [ brass] – activated carbon filters with tanks 24x65 [ without media at all]
+
+We intend to collect this order complete from you [ after 24 august or whenever you receive the tanks].
+
+I am looking forward in receiving the OC .
+
+Thank you again,
+
+Best regards,
+[ATAȘAMENT: Comandă de achiziție - P01372 - ALAMO - 05.08.2026.pdf | text extras]
+
+--- MESAJ m2109220 | 2026-08-05 15:31 | Inbox | EXTERN
+De la: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, alamo@alamowaterpoland.com
+Subiect: ODP: FRP pressure vessels 24 " diameter but smaller
+Hello Alexandru,
+
+thank you for your order.
+
+Attached you cna find our OC.
+
+I'm still waiting for 24" tanks price from Italy.
+
+As soon as I receive it I will send you improved confirmation.
+
+Pozdrawiam/Best regards,
+
+Dominik Mirowski
+
+Alamo Water Poland Sp. Z o.o.
+
+Ul. Gen. Tadeusza Kutrzeby 17
+
+05-082 Stare Babice, Poland
+
+T. +48 22 270 13 82
+
+dom@alamowaterpoland.com
+
+www.alamowaterpoland.com
+[ATAȘAMENT: Order SO2605178-1400-1.pdf | text extras]
+Alamo Water Poland Sp. z o.o. Telephone +48 22 270 13 81
+ul. Gen. Tadeusza Kutrzeby 17 Email alamo@alamowaterpoland.com
+05-082 STARE BABICE
+Poland
+
+0041090 SC AKRO SRL
+Str. Zizinului Nr. 110, etaj 2
+500407 BRASOV
+Romania
+
+Pro forma confirmation
+Confirmation........................: SO2605178-1400-1 Telephone .................................: +40.268.413180
+Sales order..........................: SO2605178-1400 Fax… : +40.268.413183
+Date.....................................: 05/08/2026 Email ........................................: office@akro.ro; contact@spectra.ro;
+Customer reference ............: #P01372 alexandru.soare@akro.ro
+VAT number .............................: RO14205979
+Terms of delivery .......................: Ex Works, Stare Babice, Poland
+Payment conditions ...................: 30 days invoice date
+
+Item number Description Qty. Unit. Ship date Net UP Amount
+10340000142 (V2CIBTZ-05) 2.00 PCS to be defined €904.58 €1809.16
+WS2CI Valve BW T I-Z
+
+10340000110 (V15CIBTZ-05) 4.00 PCS to be defined €657.00 €2628.00
+WS15CI Valve BW T I-Z
+
+10440000184 (V3186EU-06) 6.00 PCS to be defined €9.42 €56.52
+WS1 DC Power Supply EU 15V DC
+
+10240000013 (D1199-11) 6.00 PCS to be defined €32.94 €197.64
+TOP STACK DIST CLACK SNAP IN 50mm
+
+10440000235 (V3079BSPT) 4.00 PCS to be defined €82.08 €328.32
+DLFC Asy 1,25" Stainless Steel
+
+10440000234 (V3080BSPT) 2.00 PCS to be defined €76.61 €153.22
+WS DLFC ASY M1,5'' x F1,5'' BSPT
+
+10440000009 (V3190-200) 4.00 PCS to be defined €2.61 €10.44

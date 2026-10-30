@@ -1,0 +1,649 @@
+
+####################################################################################################
+OFERTA S02637 | client: S.C. CARPATHIAN SPRINGS S.A. (Valvis Holding) | trimisă: 2026-08-05 17:03 | Odoo: nu e în lista Odoo | conversații: c2101892 (nr. 104)
+
+####################################################################################################
+RÂND c2101892 (nr. 104) | stare: Completă | categorie: 10-Ozonatoare | cerere: Stație ozonare apă tehnologică – generator ozon GP60
+CERINȚA: Trimite cerințele pentru o stație de filtrare/ozonare a apei tehnologice (doză ozon 0,1-0,4 mg/l) și cere o propunere de flux. [m2101892] «Va rog sa gasiti mai jos cerintele pentru statia de filtrare / ozonare apa tehnologica»
+CERINȚĂ FINALĂ (calitate apă): Doză de ozon 0,1-0,4 mg/l, în funcție de apă [m2101892] «Dozare ozon 0,1-0,4 mg/l , dar si functie de apa»
+CERINȚĂ FINALĂ (capacitate): 3 tancuri de 150 mc (unul apă brută, două apă filtrată) [m2102244] «Vor fi 3 tancuri de 150 mc fiecare , suprateran , cu fundatii conforme»
+CERINȚĂ FINALĂ (debit): Sursa are 1,7 l/s și se poate dubla; debitul de tratare să-l propună AKRO [m2102372] «acum are doar 1.7 l/s dar poate creste chiar dublu in sezonul ploios sau primavara»
+CERINȚĂ FINALĂ (aplicație): Apă de izvor folosită ca apă tehnologică și menajeră [m2102372] «Este apa de izvor si va fi utilizata ca apa tehnologica si menajera»
+CERINȚĂ FINALĂ (calitate apă): Calitate potabilă [m2102372] «Calitatea sa fie de potabila , pt ca presupun ca mai beau de la robinet oamenii din fabrica»
+CERINȚĂ FINALĂ (altele): Stație, tancuri și legături numai din inox [m2102372] «Statie filtrare , tancuri , legaturi , etc. numai inox»
+CERINȚĂ FINALĂ (tip echipament): Generator de ozon de 60 g/h (GP60), dublu față de cel deja comandat [m2109540] «Gasiti atasat oferta de pret pentru un generator de 60 grame, dublu la capacitate»
+CERINȚĂ FINALĂ (loc livrare): Fabrica COVERCA, comuna Panaci nr. 183A, jud. Suceava [m2116484] «Fabrica COVERCA, Comuna Panaci nr. 183A, jud. Suceava.»
+CERINȚĂ FINALĂ (termen): Livrare în maxim 120 de zile de la plata avansului [m2116484] «se face în termen maxim de 120 zile de la plata avansului.»
+CERINȚĂ FINALĂ (buget): Valoare contract 48.037 EUR cu TVA; 30% avans, 70% la 15 zile de la livrare [m2116484] «Valoarea totală a contractului este de: 48037.00»
+CLARIFICARE: întrebare AKRO cere descrierea nevoii reale, o schiță a instalației existente și utilizarea apei ozonate. [m2101892] «Va rog descrieti in cateva cuvinte nevoia reala pe care o aveti pentru statia de filtrare/ ozonare.» → răspuns Proiect de la zero: sursă cu buletin, 3 tancuri de 150 mc, clădire pentru pompe, circuit de spălare independent. [m2102244] «Este un proiect care pleaca de la zero» | schimbare: Se precizează configurația: tancuri inox 3 x 150 mc, spălare independentă, apa de spălare trecută prin stație de epurare.
+CLARIFICARE: întrebare AKRO trimite o listă de întrebări (buletin, tip și utilizare apă, calitate, debit orar, necesar zilnic, spălare, montaj, automatizare). [m2138500] «Care este debitul orar de tratare?» → răspuns Apă de izvor pentru uz tehnologic și menajer, calitate potabilă, totul din inox; debitul să-l propună AKRO. [m2102372] «Debitul pt tratare ar trebui sa veniti dvs cu o sugestie» | schimbare: Se adaugă cerința de calitate potabilă și execuția integrală din inox; buletinul de analiză e retrimis.
+CLARIFICARE: întrebare AKRO (Aurel Caras) propune filtrare în trei trepte cu dezinfecție UV în locul ozonului. [m2103716] «De ce am ales UV?» → răspuns Clientul alege totuși varianta cu ozon și cere un dozator de ozon pentru debitul mai mare. [m2106404] «am ales petru tratarea apei tehnologice , varianta cu ozon» | schimbare: Se renunță la varianta UV; se cere un generator de ozon similar celui deja acceptat pentru linia de sticlă, dar pentru debit mai mare.
+CLARIFICARE: întrebare Odată cu oferta GP60, AKRO cere date despre debite, consum zilnic, regimul bazinelor și ozonul rezidual acceptat. [m2109540] «Care este consumul zilnic estimat pentru apa tehnologica?» → răspuns - | schimbare: Pentru soluția completă de tratare AKRO va cere recomandare de la furnizorul din Germania.
+CLARIFICARE: întrebare Clientul cere un draft de contract, ca la primul generator de ozon. [m2116420] «Va rog un draft de contract ca si la primul generator de ozon» → răspuns AKRO trimite draftul de contract editabil; clientul îl returnează completat, cu anexa de clauze speciale. [m2153028] «Va rog sa regasiti anexat draftul de contract in format editabil» | schimbare: Se încheie contractul de furnizare nr. 126 pentru generatorul GP60.
+TELEFON: Detaliile proiectului au fost discutate și telefonic cu Aurel Caras. [m2102244] «Va rog sa vedeti mai jos ceea ce am discutat si la telefon»
+REZULTAT: acceptată — Clientul confirmă oferta S02637 ca și comandă fermă; se semnează contractul nr. 126. [m2116484] «Va rog sa gasiti in atasament oferta confirmata , este comanda ferma»
+PREȚURI Ofertă S02637 v1 (2026-08-05), total 48037.0 EUR:
+  [10-001028] Generator de ozon g-p60 (60 g/h). contine generator de oxigen Termen livrare: 18 sapt. | 1.0 buc × 39700.0 EUR | referință
+  termen: Metoda de plata: O.P. 30% avans restul la 15 zile de la livrare
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12
+PREȚURI Confirmare de comandă S02637 v1 (2026-08-27), total 48037.0 EUR:
+  [10-001028] Generator de ozon g-p60 (60 g/h). contine generator de oxigen Termen livrare: 18 sapt. | 1.0 buc × 39700.0 EUR | referință
+  termen: Metoda de plata: O.P. 30% avans restul la 15 zile de la livrare
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12
+VÂNDUTĂ 2026-08-27 12:22 | lanț: fără comandă | lipsește: ['nicio comandă către furnizor nu e legată sigur (în Odoo sau în PDF-ul comenzii) de această vânzare']
+
+====================================================================================================
+CONVERSAȚIA c2101892 (nr. 104) | subiect: RE: Detalii statie tratare apa tehnologica cu ozon
+Partener (după adrese): valvis-holding.com Mihai Saramet | grupare nesigură: nu
+OFERTĂ S02637 v1 trimisă 2026-08-05 17:03 în m2109540 (Odoo: nu e în lista Odoo): [10-001028] Generator de ozon g-p60 (60 g/h). contine generator de oxigen Termen livrare: 18 x1.0 buc
+OFERTĂ S02637 v1 trimisă 2026-08-27 12:22 în m2152804 (Odoo: nu e în lista Odoo): [10-001028] Generator de ozon g-p60 (60 g/h). contine generator de oxigen Termen livrare: 18 x1.0 buc
+
+--- MESAJ m2101892 | 2026-07-16 14:24 | Inbox | AKRO
+De la: aurel.caras@akro.ro <aurel.caras@akro.ro>
+Către: Mihai Saramet <mihai.saramet@valvis-holding.com>
+Cc: alexandru.soare@akro.ro
+Subiect: RE: Detalii statie tratare apa tehnologica cu ozon
+Dl. Saramet,
+
+Va rog descrieti in cateva cuvinte nevoia reala pe care o aveti pentru statia de filtrare/ ozonare.
+
+Ar fi utila o schita cu ce aveti momentan acolo ( pompe, bazin de stocare, filtre, etc) si descrieti ce anume doriti sa faceti cu apa ozonata, la ce o folositi si cum doriti distributia ei.
+
+In functie de descrierea dvs ne facem o idee si revenim cu o propunere.
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Mihai Saramet <mihai.saramet@valvis-holding.com>
+Sent: Thursday, July 16, 2026 1:22 PM
+To: Aurel CARAS - AKRO <aurel.caras@akro.ro>
+Subject: Detalii statie tratare apa tehnologica cu ozon
+
+Stimate domn ,
+
+Va rog sa gasiti mai jos cerintele pentru statia de filtrare / ozonare apa tehnologica .
+
+De asemenea astept o propunere de flux din partea dvs .
+
+Multumesc.
+
+Buletin analiza apa , in atasament ;
+
+Dozare ozon 0,1-0,4 mg/l , dar si functie de apa ;
+
+Cu stima/Best regards ,
+
+Mihail Gavril Saramet
+
++40 740 307653
+
+--- MESAJ m2102244 | 2026-07-17 12:40 | Inbox | EXTERN
+De la: Mihai Saramet <mihai.saramet@valvis-holding.com>
+Către: aurel.caras@akro.ro <aurel.caras@akro.ro>
+Cc: alexandru.soare@akro.ro
+Subiect: RE: Detalii statie tratare apa tehnologica cu ozon
+Stimate domn ,
+
+Va rog sa vedeti mai jos ceea ce am discutat si la telefon .
+
+Este un proiect care pleaca de la zero , exista sursa cu buletinul de analiza transmis anterior si locul unde se va amplasa Statie de Filtrare si Stocare apa tehnologica . Vor fi 3 tancuri de 150 mc fiecare , suprateran , cu fundatii conforme , din care unul va fi pentru apa bruta iar celelalte doua pentru filtrata . Tancurile vor fi prevazute cu gura de vizitare , intrare si iesire , evident cit si cu spray-ball pentru spalare sanitizare , etc .
+
+Circuitul de spalare va fi independent de cel de filtrare . De asemenea va fi o cladire in care vor fi amplasate pompele si cele necesare bunei functionari a instalatiei care deservesc filtrarea , spalarea si pomparea catre fabrica .
+
+Daca mai sunt necesare si alte detalii , va rog sa-mi spuneti .
+
+Apa rezultata in urma spalarii va fi trecuta printr-o statie de tratare/epurare , inainte de deversare in efluentul din proximitate .
+
+Multumesc .
+
+Cu stima/Best regards ,
+
+Mihail Gavril Saramet
+
++40 740 307653
+
+--- MESAJ m2138500 | 2026-07-17 12:58 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Mihai Saramet <mihai.saramet@valvis-holding.com>, aurel.caras@akro.ro <aurel.caras@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Detalii statie tratare apa tehnologica cu ozon
+Buna ziua Dl Saramet,
+
+Va rog clarificati :
+
+In primul rand , va rog sa imi furnizati buletinul de analiza – daca s-a trimis anterior, acesta s-a pierdut pe undeva
+
+In al doilea rand – la ce va fi folosita aceasta apa si ce tip de apa este aceasta? Apa minerala naturala, de masa, de izvor etc?
+
+La ce calitate se doreste a se ajunge cu apa tratata?
+
+Care este debitul orar de tratare?
+
+Care este necesarul de productie in 24h
+
+Ati spus ca se doreste ca eventualele filtre sa se spele dintr-o alta sursa de apa. Asigurati dumneavoastra aceasta apa si pomparea ?Daca nu, va rog sa ne transmiteti:
+
+Daca exista un bazin de stocare apa spalare si capacitatea lui
+
+La ce calitate este apa de spalare?
+
+Care este diferenta de nivel intre bazinul stocator si platforma unde vor fi montate filtrele?
+
+Se poate monta o pompa care lucreaza innecat [ ma gandesc totusi ca da , din moment ce ati spus ca va fi o cladire anexa bazinelor , dedicata pentru pompe]
+
+Se doreste ca filtrele sa se goleasca complet la finalul ciclurilor de spalare , astfel incat sa nu fie contaminat produsul?
+
+Se doreste o oferta la cheie cu montaj? – daca da , rugam si o disponibilitate de spatiu – sau desen de amplasament;
+
+Rog informatii cu privire la preferintele de montaj. Se doreste lucrat in inox?
+
+Pe partea de automatizare a statiei, ne puteti trimite daca:
+
+Se doreste un PLC general de unde sa puteti controla intreaga instalatie?
+
+Se doreste monitorizare sau/si control de la distanta?
+
+Se doreste SCADA?
+
+Aveti preferinte despre monitorizarea/ inregistrarea si afisarea anumitor parametrii?
+
+[ Spre exemplu – consum de apa de spalare, sau monitorizare ozon remanent in apa, sau monitorizare pH etc..]
+
+Va rog un raspuns in aceasta directie, Dl Caras, m-a asignat acestui proiect pentru dimensionare.
+
+Numai bine,
+
+--- MESAJ m2102372 | 2026-07-17 15:42 | Inbox | EXTERN
+De la: Mihai Saramet <mihai.saramet@valvis-holding.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>, aurel.caras@akro.ro <aurel.caras@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Detalii statie tratare apa tehnologica cu ozon
+Stimate domn ,
+
+Referitor la compozitia apei , am trimis si ieri i-l trimit astazi din nou , sunt suficiente date pt a-l analiza si trata cu ozon pt utilizarea sursei ca apa tehnologica .
+
+Este apa de izvor si va fi utilizata ca apa tehnologica si menajera .
+
+Calitatea sa fie de potabila , pt ca presupun ca mai beau de la robinet oamenii din fabrica .
+
+Debitul pt tratare ar trebui sa veniti dvs cu o sugestie , sursa are debit variabil pt ca este mai de suprafata , acum are doar 1.7 l/s dar poate creste chiar dublu in sezonul ploios sau primavara .
+
+Depinde de tipul de filtre , daca vor fi de unica folosinta sau cu spalare inversa . Daca vor fi cu spalare inversa se va utiliza apa tratata/filtrata din tancurile de stocare ale statiei .
+
+Statie filtrare , tancuri , legaturi , etc. numai inox . Nu stiu ce presupune instalatia dvs , din aceasta cauza v-am solicitat o propunere dar vad ca trece timpul si nu am avansat deloc. V-am spus de la inceput ca va fi apa tehnologica si nu de imbuteliere , sa fie ffff clar , va rog . O sa-mi spuneti dvs ce spatiu necesita instalatia propusa de dvs .
+
+Ati venit cu o serie de intrebari ca pentru cei de la o Primarie , cred ca v-am raspuns suficient ca sa-mi faceti o propunere de instalatie daca se doreste sa fim parteneri si in acest proiect .
+
+Multumesc .
+
+Cu stima/Best regards ,
+
+Mihail Gavril Saramet
+
++40 740 307653
+[ATAȘAMENT: Calimanel-Iunie2026.xlsx | text extras]
+## 2026
+Sursa Calimanel
+Data | UM | 2026-06-01 00:00:00
+Debit | l/s | 1.7
+PH | unit pH | 7.48
+Bicarbonic HCO3 | mg/l | 61
+Bioxid CO2 | mg/l | 0
+conductivitate | µS/cm | 73.8
+Oxigen dizolvat | mg/l | 9.78
+Calciu | mg/l | 17.63
+Magneziu | mg/l | 3.4
+Fier | mg/l | 0
+Mangan | mg/l | 0
+TDS | mg/l | 74
+Azotati | mg/l | 2.5
+Azotiti | mg/l | 0
+Amoniu | mg/l | 0
+Fluoruri | mg/l | 0.024
+Cloruri | mg/l | 0.6
+Sulfati | mg/l | 3.36
+Sodiu | mg/l | 2.6
+Potasiu | mg/l | 0.63
+
+--- MESAJ m2138724 | 2026-07-17 16:29 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: aurel.caras@akro.ro <aurel.caras@akro.ro>
+Cc: office@akro.ro
+Subiect: RE: Detalii statie tratare apa tehnologica cu ozon
+Ziua Buna Dl Aurel
+
+Va rog sa ii raspundeti dumneavoastra Domnului Saramet. [ probabil mie mi-au scapat ceva informatii ce au fost trimise catre dumneavoastra prin telefon si deja a deraiat putin discutia cu dansul] – [ nu l-am sunat si nu o voi face in aceste circumstante]
+
+Indicatiile tehnice pe care le pot oferi pentru acest proiect - considerand debitul de tratat de 6mc/h:
+
+Varianta 1 – dozare in flux considerand 6 mc/h
+
+Doua trepte de filtrare prin multicartus [ suficient carcase 3 cartuse x 30” la debitul acesta] – as merge pe finete 3 microni si 1 micron SFM
+
+Generator de ozon de 10 g maxim cu dozare in capcana de apa [ are ICPE]
+
+Imediat dupa injectia de ozon , in apa va avea pana la 0.4mg/L [ apa analizata este foarte curata]
+
+De montat unde doreste dansul, oricum ar fi, in forma asta nu va functiona niciodata corect sistemul [ adica daca il monteaza direct catre consumatori atunci nu va putea avea reglaj pe injectia de ozon si atunci vor fi valori fluctuante], daca il monteaza pe recircularea unui bazin sau inainte de acesta volumul de apa este urias si in jumatate de h valoarea ozonului va fi la 0.[
+
+In caz ul 2 , ar trebui prevazut si un distrugator de ozon pe bazin]
+
+Varianta 2 – dozare pentru oxidare si retinere ce doreste dansul din apa:
+
+Filtru grosier
+
+Generator de ozon de 10 g [am luat in calcul acelasi debit din sursa de 6mc/h] – daca este fluctuant , ar trebui pus unul mai mare cu reglaj – doar sa fie!
+
+Stagnare in bazin – poate utiliza chiar bazinul de 150mc
+
+Distrugator de ozon pentru primul bazin
+
+Pompa 6 mc /h – din inox – pentru service
+
+Filtru de carbune cu skid din inox – diametru de 1200 – 1 bucata [ carbune de origine bituminoasa]
+
+Pompa de spalare filtru carbune 22 mc/h
+
+Doua trepte de filtrare prin multicartus [ suficient carcase 3 cartuse x 30” la debitul acesta] – as merge pe finete 1 microni si 0.6 micron SFM
+
+Ce cred eu ca vrea – apa ozonata pentru spalare /dezinfectie instalatii: [ dar e numai o presupunere]
+
+Cea mai buna varianta este cea de bazin inchis cu recirculare filtru mecanic si senzor de ozon + dozare ozon pentru mentinere nivel de ozon stabil in apa [ cum aveau cei de la airtree in trecut] – totul se dimensioneaza in functie de debitul orar maxim posibil [ de preferat bazinul sa fie cam cat are consumul maxim orar ] – pentru stabilitatea dozei de ozon
+
+Alte probleme de luat in calcul!
+
+Debitul din sursa – a spus ca se poate si dubla . Din acest motiv am solicitat debitul de tratat[ adica de consum]. Daca se dubleaza , echipamentele in principiu se dubleaza si ele [ filtre multicartus de 5-6 cartuse de 40”] , dublarea filtrului de carbune , dublarea dozei de ozon, a pompelor etc…
+
+Problema cea mai mare este cat de stabila este sursa de apa pe care o are ? Buletinul la apa trimisa de el este excelenta [ nu trebuie rezolvat nimic] – Dar atunci cand se dubleaza debitul apa prezinta aceleasi incarcari?
+
+Sper sa reusiti cu acest proiect !
+
+Numai bine,
+
+--- MESAJ m2138756 | 2026-07-17 16:44 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: aurel.caras@akro.ro <aurel.caras@akro.ro>
+Cc: office@akro.ro
+Subiect: RE: Detalii statie tratare apa tehnologica cu ozon
+Vin cu o completare !
+
+Apa ozonata nu este potabila !
+
+Prin urmare daca se va si consuma de la retea, atunci conform buletinului trimis, apa mai trebuie doar remineralizata putin …
+
+--- MESAJ m2102724 | 2026-07-21 08:57 | Inbox | AKRO
+De la: aurel.caras@akro.ro <aurel.caras@akro.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: RE: Detalii statie tratare apa tehnologica cu ozon
+Alex,
+Te rog sa-mi faci niste estimari de budget la solutiile propuse de tine.
+
+Daca mai ai si alte sugestii te rog sa le mentionezi. Vreau sa trimit astazi o varianta la dl Saramet.
+
+Poti sa-mi dai o varianta pentru dezinfectie apa si cu UV
+
+Multumesc!
+
+--- MESAJ m2139140 | 2026-07-21 10:05 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: aurel.caras@akro.ro <aurel.caras@akro.ro>
+Cc: office@akro.ro
+Subiect: RE: Detalii statie tratare apa tehnologica cu ozon
+Dl Aurel,
+
+Singurele produse pentru care pot estima un cost de achizitie la acest moment sunt produsele standard de la care avem lista de preturi si cotatii recente:
+
+Generatorul Airtree Gp20 - +- 20000 euro net
+
+Masa filtranta – Carbune bituminous +- 3000euro net [ un LG95]
+
+Carcasele multicartus - MVB3S3D40-P8L + ventil de aerisire – cost unitar net– aprox 850 euro
+
+Respectiv cartusele SFM - +- 60 euro/cartus net
+
+Din pacate pentru restul de echipamente nu avem cu aproximatie costuri de achizitie:
+
+Filtru Grosier din inox [ putem sa ii dam un filtru Y de la recondi din inox Dn 80-100 – as avea un pret , dar nu cred ca este cel mai potrivit]
+
+Injector capcana de apa – ICPE – nu am un cost
+
+Distrugator de ozon – Wedeco/ ICPE – nu am un cost
+
+Filtru din inox cu skid din inox – spalare din alta sursa – Furnizor Turcia cu sau fara ICPE pentru SKID [ desi daca se doreste automatizare generala – trebuie discutat cu ICPE ca filtrul sa fie integrat in panoul central]
+
+Tot ce inseamna parte de pompe din inox - Recondi
+
+Automatizare generala , senzoristica si control in functie de senzor de ozon – ICPE
+
+Bazin de inox 6-10mc – triago sau otelinox
+
+Trebuie sa amintesc ca Saramet a cerut si sa montam totul pe inox , dar nu cunoastem lungime trasee, spatiul disponibil, diametre agreate, robineti, debitmetre sau alti senzori. Nu stim nici daca doreste SCADA.
+
+Legat de varianta UV, nu imi este clar ce doriti din partea mea.
+
+Va rog sa imi spuneti cum doriti sa procedez mai departe ?
+
+--- MESAJ m2103716 | 2026-07-21 18:20 | Inbox | AKRO
+De la: aurel.caras@akro.ro <aurel.caras@akro.ro>
+Către: Mihai Saramet <mihai.saramet@valvis-holding.com>
+Cc: alexandru.soare@akro.ro, sales@akro.ro
+Subiect: RE: Detalii statie tratare apa tehnologica cu ozon
+Buna ziua Dl. Saramet,
+
+Am analizat informatiile primite de la dvs si vin cu o propunere pentru a pastra apa tehnologica filtrate si dezinfectata..
+
+Vezi atasat schita Draft 1 care suporta modificari in functie de dorinta dvs.
+
+De ce NU am propus ozon?
+
+Remanenta ozonului este de 30 de minute iar o recirculare pe bazinele de apa filtrate necesita pompe foarte mari;
+
+Daca se face dozare pe iesirea apei din bazinul de filtrare am nevoie de un bazin de contact pentru amestec; Daca nu am bazin nu pot controla doza de ozon la iesire;
+
+Apa nu poate fi potabila datorita nivelului de ozon; pentru potabilizare trebuie eliminat ozonul remanent din apa;
+
+Tehnologia este mai complexa si necesita monitorizare ridicata;
+
+Investitia este mai mare in comparatie cu UV-ul
+
+De ce am ales UV?
+
+Apa este foarte buna fizico-chimic si microbiologic;
+
+Solutia tehnica este mai usor de implementat si de exploatat iar valoarea de achizitie a echipamentelor este mai mica in comparatie cu ozonatorul.
+
+Varianta prezentata contine un system de filtrare in trei trepte cu saci filtranti sau cartuse filtrante, cu system UV dupa filtrare, system UV cu recircularea apei in bazin sau UV imersat in bazin pentru eliminarea contaminarii microbiologice din aer.
+
+In functie de solutia aleasa si debitele stabilite putem contura un budget pentru acest proiect.
+
+Astept cu interes raspunsul dvs.
+
+Cu consideratie,
+[ATAȘAMENT: Propunere flux de tratare_Draft 1.jpg | imagine]
+
+--- MESAJ m2106404 | 2026-07-28 13:36 | Inbox | EXTERN
+De la: Mihai Saramet <mihai.saramet@valvis-holding.com>
+Către: aurel.caras@akro.ro <aurel.caras@akro.ro>
+Cc: alexandru.soare@akro.ro, sales@akro.ro
+Subiect: RE: Detalii statie tratare apa tehnologica cu ozon
+Stimate domn ,
+
+In urama analizei interne , am ales petru tratarea apei tehnologice , varianta cu ozon . In consecinta vom redesena fluxul de tratare -filtrare stocare . In principiu tancurile dr stocare vor fi aceleasi , 3x150 mc , unul pt apa bruta si celelalte doua pt apa tratata filtrata .
+
+Va rog sa ne propuneti un dozator de ozon , similar cu cel acceptat deja pt linia de sticla dar pt debitul mai mare al apei tratate .
+
+Daca sunt necesare detalii , in afara de cele comunicate pt fluxul de tratare cu UV , va rog sa-mi spuneti .
+
+Multumesc .
+
+Cu stima/Best regards ,
+
+Mihail Gavril Saramet
+
++40 740 307653
+
+--- MESAJ m2109540 | 2026-08-05 17:03 | Inbox | AKRO
+De la: aurel.caras@akro.ro <aurel.caras@akro.ro>
+Către: Mihai Saramet <mihai.saramet@valvis-holding.com>
+Cc: contact@akro.ro, alexandru.soare@akro.ro
+Subiect: Detalii statie tratare apa tehnologica cu ozon
+Buna ziua Dl. Saramet!
+
+Gasiti atasat oferta de pret pentru un generator de 60 grame, dublu la capacitate in comparatie cu cel care trebuie livrat in urmatoarele zile.
+
+Pentru solutia de tratare a apei tehnologice o sa apelam la furnizorul nostru din Germania pentru a primi o recomandare tehnica.
+
+Mai sunt cateva chestiuni tehnice de lamurit. Vezi lista de intrebari mai jos.
+
+Am atasat o schema generala pentru a avea o baza de discutie.
+
+Debitul maxim și debitul mediu la iesirea din bazinul de stocare apa bruta, în m³/h.
+
+Care este consumul zilnic estimat pentru apa tehnologica?
+
+Care este debitul maxim instantaneu către consumatori, de la cele doua bazine de apa filtrata?
+
+Cele două bazine funcționează:
+
+în serie, bazinul 1 alimentând bazinul 2;
+
+alternativ;
+
+sau independent?
+
+Cele doua bazina cu apa filtrata se umplu direct din aceeași linie de apa bruta prin selectarea unui bazin sau vor fi două linii separate care alimenteaza cele doua bazine?
+
+Timpul maxim în care apa poate rămâne în fiecare bazin.
+
+Bazinele sunt închise și au conducte de aerisire controlabile?
+
+Se acceptă un rezidual de ozon la consumator sau se doreste o valoare nedetectabilă a ozonului in apa?
+
+Daca apa este distribuită către angajați ca apă potabilă, aceast detaliu schimbă criteriul de ozon rezidual la ieșire si implicit fluxul tehnologic. Va rog clarificati.
+
+Astept cu interesraspunsul dvs.
+[ATAȘAMENT: Oferta - S02637.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: DESCRIPTION - GP60.PNG | imagine]
+[ATAȘAMENT: Schema generala_Carpathian_apa tehnologica.png | imagine]
+
+--- MESAJ m2152804 | 2026-08-27 12:22 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Mihai Saramet <mihai.saramet@valvis-holding.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, aurel.caras@akro.ro
+Subiect: RE: Detalii statie tratare apa tehnologica cu ozon
+Buna ziua,
+
+Va multumim pentru noua comanda!
+
+Va rog sa regasiti anexata confirmarea AKRO pentru generatorul GP60, precum si factura proforma de avans.
+
+Va rugam sa ne transmiteti prin e-mail si confirmarea de plata.
+
+Cu respect,
+[ATAȘAMENT: Comanda - S02637 - CARPATHIAN SPRINGS- 27.08.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: Factură proforma - CARPATHIAN SPRINGS - 27.08.2026 - 30% din comanda generator GP60.pdf | text extras]
+
+--- MESAJ m2116420 | 2026-08-27 14:23 | Inbox | EXTERN
+De la: Mihai Saramet <mihai.saramet@valvis-holding.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, aurel.caras@akro.ro
+Subiect: RE: Detalii statie tratare apa tehnologica cu ozon
+Stimati parteneri ,
+
+Va rog un draft de contract ca si la primul generator de ozon .
+
+Multumesc .
+
+Cu stima/Best regards ,
+
+Mihail Gavril Saramet
+
++40 740 307653
+
+--- MESAJ m2153028 | 2026-08-27 14:48 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Mihai Saramet <mihai.saramet@valvis-holding.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, aurel.caras@akro.ro
+Subiect: RE: Detalii statie tratare apa tehnologica cu ozon
+Buna ziua,
+
+Va rog sa regasiti anexat draftul de contract in format editabil pentru completare cu eventuale modificari.
+
+Daca totul este in regula, va rugam sa ne trimiteti scanat contractul semnat din partea dumneavoastra!
+
+Cu respect,
+[ATAȘAMENT: 3.1.F1_DRAFT CONTRACT_Nr. 126 - CARPATHIAN SPRINGS - 27.08.2026.docx | text extras]
+
+--- MESAJ m2116484 | 2026-08-27 16:00 | Inbox | EXTERN
+De la: Mihai Saramet <mihai.saramet@valvis-holding.com>
+Către: Aurel CARAS - AKRO <aurel.caras@akro.ro>, AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: alina.horeanu@valvis-holding.com
+Subiect: FW: Detalii statie tratare apa tehnologica cu ozon
+Stimati domni ,
+
+Contractul este gata , completat si din punctul nostru de vedere poate fi semnat .
+
+Asteptam contractul semnat , scanat si trimis la CSP pt semnare si plata avansului .
+
+Multumesc.
+
+Cu stima/Best regards ,
+
+Mihail Gavril Saramet
+
++40 740 307653
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Alina Horeanu <alina.horeanu@valvis-holding.com>
+Sent: joi, 27 august 2026 15:43
+To: 'Mihai Saramet' <mihai.saramet@valvis-holding.com>
+Subject: RE: Detalii statie tratare apa tehnologica cu ozon
+
+Atasat contractual cu corecturile referitor date Carpathian. Restul eu sunt OK, daca tehnic va convine.
+
+De semnat si Anexa cu Clauze speciale, obligatorie pentru toate contractele Carpathian, atasata.
+
+From: Mihai Saramet <mihai.saramet@valvis-holding.com>
+Sent: 27 August 2026 15:02
+To: alina.horeanu@valvis-holding.com
+Subject: FW: Detalii statie tratare apa tehnologica cu ozon
+
+Cu stima/Best regards ,
+
+Mihail Gavril Saramet
+
++40 740 307653
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: joi, 27 august 2026 14:48
+To: 'Mihai Saramet' <mihai.saramet@valvis-holding.com>
+Cc: 'Akro Filtrare' <office@akro.ro>; andrei.dobrei@akro.ro; 'Aurel CARAS - AKRO' <aurel.caras@akro.ro>
+Subject: RE: Detalii statie tratare apa tehnologica cu ozon
+
+Buna ziua,
+
+Va rog sa regasiti anexat draftul de contract in format editabil pentru completare cu eventuale modificari.
+
+Daca totul este in regula, va rugam sa ne trimiteti scanat contractul semnat din partea dumneavoastra!
+
+Cu respect,
+
+From: Mihai Saramet <mihai.saramet@valvis-holding.com>
+Sent: Thursday, August 27, 2026 2:23 PM
+To: 'AKRO Romania , Alexandru Soare' <alexandru.soare@akro.ro>
+Cc: 'Akro Filtrare' <office@akro.ro>; andrei.dobrei@akro.ro; 'Aurel CARAS - AKRO' <aurel.caras@akro.ro>
+Subject: RE: Detalii statie tratare apa tehnologica cu ozon
+
+Stimati parteneri ,
+
+Va rog un draft de contract ca si la primul generator de ozon .
+
+Multumesc .
+
+Cu stima/Best regards ,
+
+Mihail Gavril Saramet
+
++40 740 307653
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: joi, 27 august 2026 12:22
+To: 'Mihai Saramet' <mihai.saramet@valvis-holding.com>
+Cc: 'Akro Filtrare' <office@akro.ro>; andrei.dobrei@akro.ro; 'Aurel CARAS - AKRO' <aurel.caras@akro.ro>
+Subject: RE: Detalii statie tratare apa tehnologica cu ozon
+
+Buna ziua,
+
+Va multumim pentru noua comanda!
+
+Va rog sa regasiti anexata confirmarea AKRO pentru generatorul GP60, precum si factura proforma de avans.
+
+Va rugam sa ne transmiteti prin e-mail si confirmarea de plata.
+
+Cu respect,
+
+From: Mihai Saramet <mihai.saramet@valvis-holding.com>
+Sent: Thursday, August 27, 2026 11:40 AM
+To: Aurel CARAS - AKRO <aurel.caras@akro.ro>
+Cc: 'AKRO SRL Akro' <sales@akro.ro>
+Subject: RE: Detalii statie tratare apa tehnologica cu ozon
+
+Stimate domn ,
+
+Va rog sa gasiti in atasament oferta confirmata , este comanda ferma .
+
+Multumesc.
+
+Cu stima/Best regards ,
+
+Mihail Gavril Saramet
+
++40 740 307653
+
+From: aurel.caras@akro.ro <aurel.caras@akro.ro>
+Sent: miercuri, 5 august 2026 17:11
+To: Mihai Saramet <mihai.saramet@valvis-holding.com>
+Subject: Detalii statie tratare apa tehnologica cu ozon
+
+Buna ziua Dl. Saramet! Gasiti atasat oferta de pret pentru un generator de 60 grame, dublu la capacitate in comparatie cu cel care trebuie [...] ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+
+Detalii statie tratare apa tehnologica cu ozon
+
+Buna ziua Dl. Saramet!
+
+Gasiti atasat oferta de pret pentru un generator de 60 grame, dublu la capacitate in comparatie cu cel care trebuie livrat in urmatoarele zile.
+
+Pentru solutia de tratare a apei tehnologice o sa apelam la furnizorul nostru din Germania pentru a primi o recomandare tehnica.
+
+Mai sunt cateva chestiuni tehnice de lamurit. Vezi lista de intrebari mai jos.
+
+Am atasat o schema generala pentru a avea o baza de discutie.
+
+Debitul maxim și debitul mediu la iesirea din bazinul de stocare apa bruta, în m³/h.
+
+Care este consumul zilnic estimat pentru apa tehnologica?
+
+Care este debitul maxim instantaneu către consumatori, de la cele doua bazine de apa filtrata?
+
+Cele două ba
+[ATAȘAMENT: Contract vc AKRO CS 27.08.2026.docx | text extras]
+Nr. ......./ ...........................
+
+CONTRACT DE FURNIZARE
+
+Nr. 126 / data 27.08.2026
+
+PĂRȚILE CONTRACTANTE
+
+VÂNZATORUL
+
+S.C. AKRO S.R.L. cu sediul în Brașov, Str. Zizinului, nr. 110, etaj 2, Tel: 0268413180, email: înregistrată la Registrul Comerțului cu nr. J08/977/01.10.2001, cod de înregistrare fiscală nr. RO14205979, Cont Bancar RO98INGB0000999902843963 deschis la ING BANK, Brașov reprezentată prin Dl. Aurel CARAŞ în calitate de Manager General.
+
+CUMPĂRĂTORUL
+
+S.C. CARPATHIAN SPRINGS S.A. cu sediul în Vatra Dornei Str. Republicii Nr.33, jud. Suceava, România înregistrată la Registrul Comerțului cu nr. J2000000358338, cod de înregistrare fiscală RO 13290801, reprezentată prin Oana Corina HRITCU în calitate de Director.
+
+OBIECTUL CONTRACTULUI
+Vânzătorul vinde cumpărătorului următoarele produse și servicii cuprinse în Confirmarea de Comanda nr. SO2637 / 27.08.2026 devenită anexă la contract, produse și servicii comandate de Cumpărător.
+
+TERMENE DE LIVRARE
+Livrarea produselor prezentate în ofertă se face în termen maxim de 120 zile de la plata avansului.
+Produsele se vor livra de către vânzător la locația indicată de cumpărător: Fabrica COVERCA, Comuna Panaci nr. 183A, jud. Suceava.
+
+PREȚUL, MODALITĂȚI DE PLATĂ
+Valoarea totală a contractului este de:
+48037.00 (patruzecisioptdemiitreizecisisapte ) EUR cu TVA
+
+Modalitatea de plată pentru produsele comandate:
+- 30% in avans – 11910 Euro + TVA
+- 70% la 15 zile de la livrare
+
+Plata produselor se face în lei la cursul de refe
+[ATAȘAMENT: Anexa Clauze speciale CS 0523.docx | text extras]
+Anexă Clauze speciale
+
+1. Protectia datelor cu caracter personal
+
+Datele personale ale persoanelor de contact/reprezentanți ai partilor semnatare ale contractului, precum si a angajatilor acestora ce vor avea acces in executarea contractului, se vor prelucra de catre Parti in conditiile Regulamentului (UE) 679/2016 – privind protectia persoanelor fizice in ceea ce priveste prelucrarea datelor cu caracter personal si privind libera circulatie a acestor date.
+
+Partile vor prelucra datele cu caracter personal ale persoanelor de contact, ale persoanelor implicate in executarea contractului, in scopul executarii relatiei contractuale, precum si in interes legitim, precum si in scopuri legale conform obligatiilor agentilor economici referitoare la arhivare, justificari fiscale, contabile sau antifrauda, realizarea raportarilor interne/audit etc in conditiile GDPR (aceste scopuri pot include verificarile si raportarile pe care le impun legislatia aplicabila, indeplinirea unei obligatii legale precum si in alte scopuri legitime in functie de relatia contractuala).
+
+In conconformitate cu prevederile art. 32 din GDPR, fiecare din Parti va asigura standardele de siguranta si Securitate a prelucrarii datelor cu caracter personal si se obliga sa organizeze si sa implementeze acele masuri tehnice si organizationale adecvate asa incat sa protejeze datele cu caracter personal impotriva distrugerilor accidentale sau ilegale, pierderi, modificari, dezvaluiri sau acces neautorizat si impotriva 

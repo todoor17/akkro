@@ -1,0 +1,999 @@
+
+####################################################################################################
+OFERTA S02613 | client: AIRBUS AEROSTRUCTURES S.R.L. | trimisă: 2026-07-31 12:31 | Odoo: Comandă de vânzare | conversații: c2107716 (nr. 210)
+
+####################################################################################################
+RÂND c2107716 (nr. 210) | stare: Completă | categorie: 13-Filtre multistrat diferite medii | cerere: Stație dedurizare duplex 10 mc/h cu filtru impurități
+CERINȚA: Cere analiză și ofertă pentru o stație de dedurizare duplex alternant, debit minim 10 mc/h, cu prefiltrare mecanică. [m2107716] «Va solicit analiza si oferta comerciala pentru o solutie de statie de dedurizare a apei.»
+CERINȚĂ FINALĂ (tip echipament): stație de dedurizare duplex alternant [m2107716] «sa fie tip duplex alternant;»
+CERINȚĂ FINALĂ (debit): minim 10 mc/h [m2107716] «debit minim 10 mc/h»
+CERINȚĂ FINALĂ (capacitate): capacitate de dedurizare minim 200 dH pe oră [m2107716] «capacitate dedurizare minim 200 dH pe ora»
+CERINȚĂ FINALĂ (racord): minim 1,5", preferabil 2" [m2107716] «conexiune de minim 1,5'', preferabil de 2''»
+CERINȚĂ FINALĂ (altele): prefiltrare mecanică 50-100 microni [m2107716] «solutia sa aibe si prefiltrare mecanica (50-100 microni)»
+CERINȚĂ FINALĂ (altele): filtru de deferizare ofertat distinct [m2107716] «Va rog considerati distinct in oferta si un filtru de deferizare.»
+CERINȚĂ FINALĂ (calitate apă): apă din puț de adâncime, duritate 13 dH, potabilă, presiune 4-5 bar [m2107716] «alimentarea platformei este din put de adancime, duritatea este de 13 dH»
+CERINȚĂ FINALĂ (altele): livrare premontată și programată la setările Airbus, certificate CE, certificat alimentar, manual în română [m2107716] «livrarea statiei in stare premontata si programata la setarile comunicate de reprezentantul tehnic Airbus»
+CERINȚĂ FINALĂ (altele): garanție 24 de luni [m2107716] «garantie de 24 luni - va rog specificati daca sunt conditii speciale»
+CERINȚĂ FINALĂ (altele): termen de plată 30 de zile final de lună [m2107716] «termen de plata de 30 de zile final de luna»
+CERINȚĂ FINALĂ (buget): aprox. 9000 EUR [m2107716] «buget achizitie - trebuie sa ne apropiem de valoarea de 9000 eur»
+CERINȚĂ FINALĂ (buget): reanaliză cerută la 9800 EUR [m2107844] «Va rog reanaliza pentru 9800 euro.»
+CERINȚĂ FINALĂ (loc livrare): DAP, Airbus Ghimbav [m2113540] «Terms deliv. DAP Delivery at Place»
+CERINȚĂ FINALĂ (termen): livrare la 18.09.2026 conform PO [m2113540] «Deliv. date 18.09.2026 Rel. ord./contr. 4500005128»
+CLARIFICARE: întrebare Airbus confirmă pachetul din oferta S02384 și cere livrare premontată și programată, certificate, garanție 24 luni, plată la 30 zile, buget ~9000 EUR. [m2107716] «livrarea statiei in stare premontata si programata la setarile comunicate de reprezentantul tehnic Airbus» → răspuns AKRO răspunde punctual, inclusiv că livrarea se face cu setările vanelor efectuate și instrucțiuni de asamblare. [m2147844] «Livrarea se face cu toate setarile vanelor efectuate + instructiuni de asamblare si incarcare pe pozitie.» | schimbare: Se adaugă cerințele de premontaj, documentație și condiții comerciale; AKRO trimite certificatele, manualul și oferta S02613.
+CLARIFICARE: întrebare Clientul nu poate confirma prețul și cere reanaliză la 9800 EUR (peste valoare ar intra în licitație). [m2107844] «Nu pot confirma pentru pretul dat.» → răspuns AKRO trimite oferta finală și codul de conduită semnat. [m2144516] «Va rog sa regasiti anexata oferta de pret finala si codul de conduita semnat.» | schimbare: Prețul se reduce (oferta S02613 v2, reducere 13%).
+CLARIFICARE: întrebare Clientul întreabă termenul de livrare realizabil. [m2107716] «Care este termenul de livrare realizabil pentru o comanda lansata pana la finele saptamanii viitoare?» → răspuns AKRO estimează livrarea cel târziu în săptămâna 37. [m2150852] «estimam ca livrarea statiei la dumneavoastra se va face cel tarziu in saptamana 37» | schimbare: Termen de livrare: cel târziu săptămâna 37.
+TELEFON: Oferta inițială din iunie a fost trimisă în baza unei discuții telefonice. [m2107716] «In baza discutiei telefonice, va transmitem anexata cotatia de pret»
+TELEFON: Discuție telefonică în care Airbus anunță aprobarea lucrării în pachetul din oferta S02384. [m2107716] «Revin la discutia telefonica avuta mai devreme,»
+TELEFON: Discuție telefonică despre încărcarea stației și livrarea prin Orizont Logistic. [m2153540] «Conform discutiei telefonice , va informam ca astazi incarcam statia de dedurizare»
+REZULTAT: acceptată — Se semnează contractul și Airbus emite comanda PO 6500199283. [m2113540] «Trimit atasata comanda aferenta discutiei de mai jos,»
+PREȚURI Ofertă S02613 v1 (2026-07-31), total 64035.71 RON:
+  [01-008018] Filtru impuritati nw500 - 2" | 1.0 buc × 2197.72 RON | referință
+  [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 | 1.0 buc × 212.38 RON | referință
+  [13-001176] DEC 450-2/duplex, Statie dedurizare - duplex, racord 2", 450L rasina pe fiecare coloana - Vana Clack - CI -2" | 1.0 buc × 56392.22 RON | referință
+  [-] Reducere: 10.00% | 1.0 buc × -5880.25 RON | serviciu
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 24 luni de la livrare
+  termen: Condiții de plată: 30 de zile
+PREȚURI Ofertă S02613 v2 (2026-08-03), total 11804.42 EUR:
+  [01-008018] Filtru impuritati nw500 - 2" | 1.0 buc × 419.1 EUR | referință
+  [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 | 1.0 buc × 40.5 EUR | referință
+  [13-001176] DEC 450-2/duplex, Statie dedurizare - duplex, racord 2", 450L rasina pe fiecare coloana - Vana Clack - CI -2" | 1.0 buc × 10753.87 EUR | referință
+  [-] Reducere: 13.00% | 1.0 buc × -1457.75 EUR | serviciu
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 24 luni de la livrare
+  termen: Condiții de plată: 30 de zile
+PREȚURI Confirmare de comandă S02613 v1 (2026-08-19), total 11804.42 EUR:
+  [01-008018] Filtru impuritati nw500 - 2" | 1.0 buc × 419.1 EUR | referință
+  [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 | 1.0 buc × 40.5 EUR | referință
+  [13-001176] DEC 450-2/duplex, Statie dedurizare - duplex, racord 2", 450L rasina pe fiecare coloana - Vana Clack - CI -2" | 1.0 buc × 10753.87 EUR | referință
+  [-] Reducere: 13.00% | 1.0 buc × -1457.75 EUR | serviciu
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 24 luni de la livrare
+  termen: Condiții de plată: 30 de zile
+VÂNDUTĂ 2026-08-19 12:10 | lanț: complet | lipsește: []
+COMANDA P01411 (legată în Odoo) | ALAMO WATER POLAND | 2026-08-19 12:11 | sursa în Odoo: S02613 | stare: Comandă de achiziție | total: 5411.28
+  Comandă AKRO P01411 trimisă 2026-08-19 12:14 în m2150884 (conversația 322):
+    [14-001051] [V3080BSPT] DLFC HOUSING 1.5" COMPLETE (9-85 GPM) | 2.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-001070] [V2CI Duplex] WS2 CI Duplex Alternating TM (without DLFC) - BOM | 1.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-001073] [H7070] TEE TWIN 1/2" | 1.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-002100] [10761000008] Pure Resin PC003 strong cation | 900.0 L | 14-002 Medii filtrante
+    [14-003063] [PV338] PVC CLOSURE 4" | 2.0 Units | 14-003 Coloane de presiune pentru filtrare, accesorii vase
+    [14-003083] [CN-3072-4 T/B] 30x72-4 T/B | 2.0 Units | 14-003 Coloane de presiune pentru filtrare, accesorii vase
+    [14-004013] [GE-JS/Y-750] ROUND TANK 750 L | 1.0 Units | 14-004 Vase de saramura si accesorii
+    [14-004021] [-] BRINE VALVE SUITABLE - for this 750L tank | 1.0 Units | 14-004 Vase de saramura si accesorii
+    [14-004025] [0700000002] I8081 Polytube 1/2'' - 1m | 6.0 m | 14-004 Vase de saramura si accesorii
+    [14-005032] [D1197-07-50] DISTRIBUTOR 50MM WITH BOTTOM BASKET D1197-09 | 2.0 Units | 14-005 Crepine, distribuitoare si componente
+  Confirmare ALAMO SO2605470-1400-1 trimisă 2026-08-19 13:33 în m2113732 (conversația 322):
+    [-] [V3080BSPT] WS DLFC ASY M1,5'' x F1,5'' BSPT | 2.0 PCS | 76.16 EUR | 
+    [-] [V2CIDTD-05] WS2CI Valve DN T I-D | 2.0 PCS | 909.49 EUR | 
+    [-] [D1199-04] Top Distributor 50mm Type Stack | 2.0 PCS | 31.58 EUR | 
+    [-] [V3186EU-06] WS1 DC Power Supply EU 15V DC | 2.0 PCS | 9.36 EUR | 
+    [-] [V3076BSPT] Motor Alternating Valve 2" BSPT | 1.0 PCS | 366.65 EUR | 
+    [-] [V3094BSPT-15] WS2 Meter Asy MxF BSPT 15' m Cable | 1.0 PCS | 291.03 EUR | 
+    [-] [-] TEE 1/2" (CLACK TWIN) | 1.0 PCS | 5.24 EUR | 
+    [-] [-] PC003 Gel type | 900.0 LTR | 1.49 EUR | 
+    [-] [-] 3072H 4"-8UN Top & Bottom, Euro blue, PE liner (150psi) with | 2.0 PCS | 350.71 EUR | 
+    [-] [-] 4’’ threaded closure | 2.0 PCS | 4.59 EUR | 
+    [-] [-] BRINE TANK 670 L-PC060 | 1.0 PCS | 356.0 EUR | 
+    [-] [-] GRID 670 L-PC072 | 1.0 PCS | 147.5 EUR | 
+    [-] [-] WELL 300-1000 L (454)-PA016 | 1.0 PCS | 22.5 EUR | 
+    [-] [-] H7070-STD-set 484-54T | 1.0 PCS | 56.02 EUR | 
+    [-] [-] Tube LDPE - PN9 - 9,52x12,7 - Transparent | 6.0 M | 1.05 EUR | 
+    [-] [-] Distributor D1197-09-50 | 2.0 PCS | 40.48 EUR | 
+COMANDA P01436 (indiciu din perioadă) | ALAMO WATER POLAND | 2026-08-27 13:52 | sursa în Odoo: - | stare: Comandă de achiziție | total: 1053.5
+  Comandă AKRO P01436 trimisă 2026-08-27 13:54 în m2152932 (conversația 359):
+    [14-002101] [10761000004] Pure Resin PMB101-2 mixed bed | 350.0 L | 14-002 Medii filtrante
+COMANDA P01502 (indiciu din perioadă) | ALAMO WATER POLAND | 2026-09-23 10:44 | sursa în Odoo: - | stare: Comandă de achiziție | total: 501.47
+  (nu e în emailuri: doar rândul din lista Odoo)
+COMANDA P01565 (indiciu din perioadă) | ALAMO WATER POLAND | 2026-10-13 10:01 | sursa în Odoo: - | stare: nu e în lista Odoo | total: None
+  Comandă AKRO P01565 trimisă 2026-10-13 10:01 în m2166852 (conversația 640):
+    [14-002100] [10761000008] Pure Resin PC003 strong cation | 200.0 L | 14-002 Medii filtrante
+    [14-002038] [10870000013] Anthracite 0,8 – 1,6 mm | 100.0 L | 14-002 Medii filtrante
+    [14-001082] [V3430-01] WS1.25/WS1.5 Spacer Stack | 1.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-001081] [V3407] WS1.25/WS1.5 Piston Downflow Asy | 1.0 Units | 14-001 Vane automate programabile, accesorii
+
+====================================================================================================
+CONVERSAȚIA c2107716 (nr. 210) | subiect: Re: RFQ Statie dedurizare apa Akro
+Partener (după adrese): airbus.com Catalin-Dumitru Vartic, Ionut Sfetea-Geisler | grupare nesigură: nu
+OFERTĂ S02613 v1 trimisă 2026-07-31 12:31 în m2144292 (Odoo: Comandă de vânzare): [01-008018] Filtru impuritati nw500 - 2" x1.0 buc; [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 x1.0 buc; [13-001176] DEC 450-2/duplex, Statie dedurizare - duplex, racord 2", 450L rasina pe fiecare  x1.0 buc; [-] Reducere: 10.00% x1.0 buc
+OFERTĂ S02613 v2 trimisă 2026-08-03 11:58 în m2144516 (Odoo: Comandă de vânzare): [01-008018] Filtru impuritati nw500 - 2" x1.0 buc; [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 x1.0 buc; [13-001176] DEC 450-2/duplex, Statie dedurizare - duplex, racord 2", 450L rasina pe fiecare  x1.0 buc; [-] Reducere: 13.00% x1.0 buc
+OFERTĂ S02613 v1 trimisă 2026-08-19 12:10 în m2150852 (Odoo: Comandă de vânzare): [01-008018] Filtru impuritati nw500 - 2" x1.0 buc; [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 x1.0 buc; [13-001176] DEC 450-2/duplex, Statie dedurizare - duplex, racord 2", 450L rasina pe fiecare  x1.0 buc; [-] Reducere: 13.00% x1.0 buc
+
+--- MESAJ m2107716 | 2026-07-31 11:03 | Inbox | EXTERN
+De la: Catalin-Dumitru Vartic <catalin-dumitru.vartic@airbus.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, ionut.sfetea-geisler@airbus.com
+Subiect: Re: RFQ Statie dedurizare apa Akro
+Buna ziua,
+
+Revin la discutia telefonica avuta mai devreme,
+
+Lucrarea in discutie a fost aprobata la nivel de necesitate, in componenta de pachet propusa de dvs in oferta S02384 / 09.06.2026.
+
+Am confirmat ca pachetul va include si urmatoarele elemente:
+
+- livrarea statiei in stare premontata si programata la setarile comunicate de reprezentantul tehnic Airbus inainte de premontaj / livrare;
+
+- certificate CE si declaratii de conformitate pentru elementele componente ale statiei;
+
+- certificat pentru utilizare in industria alimentara;
+
+- manual de instructiuni de utilizare in limba romana;
+
+- disponbilitatea reprezentantului dvs de a acorda asistenta telefonica (sau online) la momentul punerii in functiune, daca va fi nevoie.
+
+Suplimentar, este nevoie de:
+
+- garantie de 24 luni - va rog specificati daca sunt conditii speciale de intretinere de respectat;
+
+- termen de plata de 30 de zile final de luna
+
+- buget achizitie - trebuie sa ne apropiem de valoarea de 9000 eur;
+
+In alta ordine de idei, procesul nostru formal va dura aprox 1 saptamana - colectare date furnizor, creare in sistem, screening, contractare, comanda.
+
+Pentru a demara, va trimit pentru completare:
+
+- formularul cu datele dvs de identificare,
+
+- acord Codul de conduita al furnizorilor
+
+Care este termenul de livrare realizabil pentru o comanda lansata pana la finele saptamanii viitoare?
+
+Multumesc, astept raspunsul dvs,
+
+Kind regards / Mit freundlichen Gruessen / Cu stima,
+
+Catalin Vartic
+
+Procurement Specialist
+Indirect Procurement Brasov- KPYJR
+
+Phone: +40 (0)368 081 107
+
+E-mail: catalin-dumitru.vartic@airbus.com
+
+Airbus Aerostructures
+
+30 Hermann Oberth
+
+507075 Ghimbav
+
+Brașov, România
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+On Tue, Jun 9, 2026 at 12:09 PM AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro> wrote:
+
+Buna ziua Dl Vartic,
+
+Va multumim pentru solicitarea dumneavoastra !
+
+In baza discutiei telefonice, va transmitem anexata cotatia de pret pentru un filtru de impuritati [echipat cu o membrana lavabila din nylon la 150 microni] si o instalatia de dedurizare model DUPLEX cu 450L pe fiecare coloana, care satisface toate cerintele solicitate.
+
+Filtru de impuritati NW 500 – racord 2” complet echipat – fisa tehnica anexata
+
+Statie de dedurizare duplex – 450L rasina pe fiecare coloana, racord de 2”
+
+Oferta anexata include livrarea produselor la beneficiar.
+
+Montajul, asamblarea si PIF-ul intra in sarcina beneficiarului.
+
+Ca si termen de livrare la sistemul propus, va rog sa luati in calcul aproximativ 2-4 saptamani de la comanda [ mai putin luna August ]
+
+Trimit de asemenea si cateva fotografii cu o statie similara.
+
+Pentru orice alte informatii sau intrebari, va stau cu placere la dispozitie!
+
+Numai bine,
+
+From: Catalin-Dumitru Vartic <catalin-dumitru.vartic@airbus.com>
+Sent: Monday, June 8, 2026 2:13 PM
+To: sales@akro.ro
+Subject: RFQ Statie dedurizare apa Akro
+
+Buna ziua,
+
+Va solicit analiza si oferta comerciala pentru o solutie de statie de dedurizare a apei.
+
+Conditii necesare:
+
+- sa fie tip duplex alternant;
+
+- debit minim 10 mc/h;
+
+- capacitate dedurizare minim 200 dH pe ora;
+
+- conexiune de minim 1,5'', preferabil de 2'';
+
+- solutia sa aibe si prefiltrare mecanica (50-100 microni);
+
+Va rog considerati distinct in oferta si un filtru de deferizare.
+
+Context:
+
+- alimentarea platformei este din put de adancime, duritatea este de 13 dH;
+
+- nu avem buletin de analiza al apei, stim doar ca este potabila;
+
+- presiunea apei in punctul de montaj este de 4-5 bar;
+
+Kind regards / Mit freundlichen Gruessen / Cu stima,
+
+Catalin Vartic
+
+Procurement Specialist
+Indirect Procurement Brasov- KPYJR
+
+Phone: +40 (0)368 081 107
+
+E-mail: catalin-dumitru.vartic@airbus.com
+
+Airbus Aerostructures
+
+30 Hermann Oberth
+
+507075 Ghimbav
+
+Brașov, România
+
+The information in this e-mail is confidential. The contents may not be disclosed or used by anyone other than the addressee. Access to this e-mail by anyone else is unauthorised.
+If you are not the intended recipient, please notify Airbus immediately and delete this e-mail.
+Airbus cannot accept any responsibility for the accuracy or completeness of this e-mail as it has been sent over public networks. If you have any concerns over the content of this message or its Accuracy or Integrity, please contact Airbus immediately.
+All outgoing e-mails from Airbus are checked using regularly updated virus scanning software but you should take whatever measures you deem to be appropriate to ensure that this message and any attachments are virus free.
+
+The information in this e-mail is confidential. The contents may not be disclosed or used by anyone other than the addressee. Access to this e-mail by anyone else is unauthorised.
+If you are not the intended recipient, please notify Airbus immediately and delete this e-mail.
+Airbus cannot accept any responsibility for the accuracy or completeness of this e-mail as it has been sent over public networks. If you have any concerns over the content of this message or its Accuracy or Integrity, please contact Airbus immediately.
+All outgoing e-mails from Airbus are checked using regularly updated virus scanning software but you should take whatever measures you deem to be appropriate to ensure that this message and any attachments are virus free.
+[ATAȘAMENT: 01_Supplier Info Template.xlsx | text extras]
+## Internal supplier
+Airbus Aerostructures S.R.L.
+Adresa: Str.Hermann Oberth, nr. 30, cod postal 507075 Oras Ghimbav, Judetul Brasov
+Reg.Com: J2011000816081
+CUI: RO 25932794
+IBAN: RO51 BACX0000 0003 8496 0001
+Banca: UniCredit Bank
+| Airbus Aerostructures S.R.L.
+Address: Hermann Oberth, no. 30, postal code 507075 Ghimbav, Brasov
+Trade Registry no: J2011000816081
+VAT: RO 25932794
+Bank account: RO51 BACX0000 0003 8496 0001
+Bank: UniCredit Bank
+
+Formular solicitare informatii partener comercial /Supplier information request form
+Nume furnizor/Name of vendor
+Adresa sediu social/Registered office address
+Cod Postal/Postal Code
+Oras/City
+Tara/Country
+Termen de plata/Terms of payments
+Conditii de livrare/Terms of delivery
+Moneda comanda/Currency order
+Numele persoanei care reprezinta societatea
+Functia persoanei care reprezinta societatea
+Persoana de contact comercial/Sales Contact Person
+Nr de tel persoana de contact comercial/Phone number of Sales Contact Person
+Adresa e-mail persoana de contact comercial/Sales person e-mail adress
+Persoana de contact financiar/Financial contact person
+Nr de tel persoana de contact financiar/Phone number of financial contact person
+Adresa e-mail persoana de contact financiar /E-mail of financial contact person
+Cod TVA/VAT code
+Nr inreg. in Reg Comertului/Registration number
+Contul IBAN/ Bank account
+Denumirea Bancii/Bank
+Swift/Bic
+I …......... hereby certify that the provided information is true and accurate.
+Legal Representative…..................
+[ATAȘAMENT: Airbus-Supplier-Code-of-Conduct_RO_rev.pdf | text extras]
+Codul de
+conduită al
+furnizorilor
+Echipa de leadership a
+departamentului de
+achiziții
+
+Jurgen Westermeier
+Director General de Achiziții
+Airbus
+
+Dominique Arnal
+Șeful Departamentul de Achiziții,
+Aprovizionare și Logistică
+Apărare și Spațiu
+
+Antoine Baux
+Achiziții strategice
+Vice Președinte Executiv
+Elicoptere
+
+Olivier Cauquil
+Șeful Departamentului de Achiziții Generale al Grupului
+Airbus
+Codul de conduită al furnizorilor Airbus 001
+AI SCOC PP2100068 v1.0
+
+Airbus
+Codul de conduită al
+furnizorilor
+În calitate de lider mondial în domeniul aerospațial și apărării, Airbus, împreună cu
+cele două divizii ale sale, Airbus Defence and Space și Airbus Helicopters, și-a
+asumat angajamentul de a se asigura că practicile sale de afaceri sunt conforme cu
+toate legile, reglementările și standardele și principiile etice de afaceri aplicabile,
+precum și de a dezvolta o cultură a responsabilității, integrității și sustenabilității.
+În calitate de semnatar al Pactului Global al Națiunilor Unite, Airbus se angajează să
+respecte valorile sale fundamentale în ceea ce privește drepturile omului, practicile
+de muncă și de mediu, atât în cadrul organizației sale, cât și prin relațiile sale de
+afaceri. În special, Airbus are o abordare de toleranță zero față de toate formele de
+corupție, sclavie modernă și munca copiilor, indiferent dacă aceasta apare în relațiile
+cu autorități publice sau în mediul privat.
+În calitate de furnizor al Airbus, sunteți o parte integrantă a ecosistemului Airbus și
+prin urm
+
+--- MESAJ m2144292 | 2026-07-31 12:31 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Catalin-Dumitru Vartic <catalin-dumitru.vartic@airbus.com>
+Cc: office@akro.ro, ionut.sfetea-geisler@airbus.com, andrei.dobrei@akro.ro
+Subiect: RE: RFQ Statie dedurizare apa Akro
+Buna ziua Dl Vartic,
+
+Va multumim pentru e-mail!
+
+Va trimit anexat documentul excel completat.
+
+Pentru fiecare din mentiuni revin mai jos cu raspuns – marcat cu galben.
+[ATAȘAMENT: 01_Supplier Info Template.xlsx | text extras]
+[ATAȘAMENT: MANUAL - UTILIZATOR - DEDURIZARE - SERIA DEC.pdf | text extras]
+[ATAȘAMENT: WQA CERT_PureResin 2021 PC002 & PC003.pdf | text extras]
+[ATAȘAMENT: Canature.pdf | PDF fără text (scanat)]
+[ATAȘAMENT: D-12147-013 - Clack - declaratie conformitate.pdf | text extras]
+[ATAȘAMENT: NSF - Gold Seal valves_ClackCorp 2015.pdf | text extras]
+[ATAȘAMENT: Canature - NSF Certificate.pdf | PDF fără text (scanat)]
+[ATAȘAMENT: Oferta - S02613 - AIRBUS - 31.07.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2107844 | 2026-07-31 14:03 | Inbox | EXTERN
+De la: Catalin-Dumitru Vartic <catalin-dumitru.vartic@airbus.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, ionut.sfetea-geisler@airbus.com, andrei.dobrei@akro.ro
+Subiect: Re: RFQ Statie dedurizare apa Akro
+Buna,
+
+Multumesc pentru operativitate,
+
+Nu pot confirma pentru pretul dat.
+
+Va rog reanaliza pentru 9800 euro.
+
+Va rog trimiteti si codul de conduita completat si semnat,
+
+Weekend placut!
+
+Kind regards / Mit freundlichen Gruessen / Cu stima,
+
+Catalin Vartic
+
+Procurement Specialist
+Indirect Procurement Brasov- KPYJR
+
+Phone: +40 (0)368 081 107
+
+E-mail: catalin-dumitru.vartic@airbus.com
+
+Airbus Aerostructures
+
+30 Hermann Oberth
+
+507075 Ghimbav
+
+Brașov, România
+
+--- MESAJ m2144420 | 2026-07-31 14:44 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Catalin-Dumitru Vartic <catalin-dumitru.vartic@airbus.com>
+Cc: office@akro.ro, ionut.sfetea-geisler@airbus.com, andrei.dobrei@akro.ro
+Subiect: RE: RFQ Statie dedurizare apa Akro
+Buna ziua,
+
+Revin cu un raspuns in cursul zilei de luni sau cel tarziu marti.
+
+Cu respect,
+
+--- MESAJ m2107908 | 2026-08-03 08:00 | Inbox | EXTERN
+De la: Catalin-Dumitru Vartic <catalin-dumitru.vartic@airbus.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, ionut.sfetea-geisler@airbus.com, andrei.dobrei@akro.ro
+Subiect: Re: RFQ Statie dedurizare apa Akro
+OK,
+
+Ca o completare, peste aceasta valoare procedura ma conditioneaza sa intru in licitatie,
+
+Ceea ce ar presupune alte cereri de oferta, comparatii, formulare, etc,
+
+Sper sa putem agreea,
+
+Saptamana cu spor!
+
+Kind regards / Mit freundlichen Gruessen / Cu stima,
+
+Catalin Vartic
+
+Procurement Specialist
+Indirect Procurement Brasov- KPYJR
+
+Phone: +40 (0)368 081 107
+
+E-mail: catalin-dumitru.vartic@airbus.com
+
+Airbus Aerostructures
+
+30 Hermann Oberth
+
+507075 Ghimbav
+
+Brașov, România
+
+--- MESAJ m2144516 | 2026-08-03 11:58 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Catalin-Dumitru Vartic <catalin-dumitru.vartic@airbus.com>
+Cc: office@akro.ro, ionut.sfetea-geisler@airbus.com, andrei.dobrei@akro.ro
+Subiect: RE: RFQ Statie dedurizare apa Akro
+Buna ziua ,
+
+Va rog sa regasiti anexata oferta de pret finala si codul de conduita semnat.
+
+Asteptam comanda dumneavoastra.
+
+O zi cu spor!
+[ATAȘAMENT: Conduita - Airbus - semnat - 03.08.2026.pdf | PDF fără text (scanat)]
+[ATAȘAMENT: Oferta - S02613 - AIRBUS - 03.08.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2111428 | 2026-08-12 08:54 | Inbox | EXTERN
+De la: Catalin-Dumitru Vartic <catalin-dumitru.vartic@airbus.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, ionut.sfetea-geisler@airbus.com, andrei.dobrei@akro.ro
+Subiect: Re: RFQ Statie dedurizare apa Akro
+Buna,
+
+Trimit atasat contractul pentru semnare - preferabil cu semnatura digitala.
+
+Urmeaza semnarea de catre directoratul Airbus Brasov, apoi emiterea comenzii.
+
+Asteptam raspunsul dvs,
+
+Kind regards / Mit freundlichen Gruessen / Cu stima,
+
+Catalin Vartic
+
+Procurement Specialist
+Indirect Procurement Brasov- KPYJR
+
+Phone: +40 (0)368 081 107
+
+E-mail: catalin-dumitru.vartic@airbus.com
+
+Airbus Aerostructures
+
+30 Hermann Oberth
+
+507075 Ghimbav
+
+Brașov, România
+[ATAȘAMENT: Contract AKRO - Statie dedurizare.pdf | text extras]
+   
+837!""#483$%&'
+(')')(*%274!+
+12345617483 ,3!-.+/0.7!"2!
+1112!2345623.7
+456'
+
+789:7:;<=>9?<@7ABCD<
+
+9EFGHGGIJGKLMHGHF
+
+NE  COPQRLLRS
+T8 EE
+23568U25VW"38X26$3!$W"V.3!V2$!$8!,3!6.+/Y$3!U!Z2[2"5V52"3266'/\5U8]5V,3!6.+/
+$8V8^." _''`'a )bc dd` `)&/ W"7!$3235V!$e V! 08X26$35Vf.783]5V52U2" ,3!6.+ 654 "32
+\b''6'''d))'cc/fghi0#6`b'(d)d/3."$h,1j0#dchj*,''''dddd'bc`&dk&/U863%26V!hj*
+,1jl/38m38[8"$!$em32"U.7"5V1538Vf101Y/!+n"U^5"3]2!U85!"!X83*8"83!V/W"3!V2$!$8U8
+=LRoLp
+-2
+qrA <8:A7:A< EE23568U25VW"#3!-5V*%274!+/6$32 837!""#483$%"32&'/
+s5U8]5V,3!-.+/2U8"$2^23!$!35\b'66'''c6k'c6 62fgh0#b(d&b)d`/!+n"U3."$5V4!"3!3h,1j
+0#(6,1ft'''''''&c`dk'''6U863%26V!g"2f38U2$u232!3,!"v/38m38[8"$!$em32"wVh."8V
+*3.65/W"3!V2$!$8U8w2383$.3xy835$2+-2w"!h."8V!58V"23/W"3!V2$!$8U81U72"26$3!$.3/U8"572$e
+W"3."$2"5!38 rRzLp
+w8"572$8 3.V83$2+ -246!5 2"U2+2U5!V{|e3]2}/{|e3]2V8 3."$3!3$!"$8}6!5 {|!3$8!}/!5 W"3%82!$
+m38[8"$5Vf."$3!3$3!U35U8+n"[!38357me3!38_~f."$3!3$5V}aU5me3575378![ei
+HE  8Q7RLQS
+HENE #4283$5Vm38[8"$5V52f."$3!3$WV3."6$2$528 +n"[!38! U8 3e$38 !"[!$.3-2/386m83$2+/
+357me3!38! U8 3e$38 ,8"8^232!3! m3.U568V.36.V232$!$8/W"63%2745VmVe]225"52m38]/3."^.37
+m38+8U832V.33."$3!3$5!V82
+HEHE |3.U568V8 !3%2[2]2."!$8 65"$U8633268 2" RLREN@8zLLQORE
+GHFNKE2+3!38! 68 ^!38 35 $.!$8 68$!32V8 +!"8V.38^83$5!$8/2"6.$2$8 U8 2"6$353$25"2V8 U8
+!6!74V!38 622"3
+
+--- MESAJ m2147844 | 2026-08-12 09:05 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Aurel CARAS - AKRO <aurel.caras@akro.ro>
+Cc: office@akro.ro
+Subiect: FW: RFQ Statie dedurizare apa Akro
+Rog semnare digitala a documentului
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Catalin-Dumitru Vartic <catalin-dumitru.vartic@airbus.com>
+Sent: Wednesday, August 12, 2026 8:54 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: Akro Filtrare <office@akro.ro>; Ionut Sfetea-Geisler <ionut.sfetea-geisler@airbus.com>; andrei.dobrei@akro.ro
+Subject: Re: RFQ Statie dedurizare apa Akro
+
+Buna,
+
+Trimit atasat contractul pentru semnare - preferabil cu semnatura digitala.
+
+Urmeaza semnarea de catre directoratul Airbus Brasov, apoi emiterea comenzii.
+
+Asteptam raspunsul dvs,
+
+Kind regards / Mit freundlichen Gruessen / Cu stima,
+
+Catalin Vartic
+
+Procurement Specialist
+Indirect Procurement Brasov- KPYJR
+
+Phone: +40 (0)368 081 107
+
+E-mail: catalin-dumitru.vartic@airbus.com
+
+Airbus Aerostructures
+
+30 Hermann Oberth
+
+507075 Ghimbav
+
+Brașov, România
+
+On Mon, Aug 3, 2026 at 11:59 AM AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro> wrote:
+
+Buna ziua ,
+
+Va rog sa regasiti anexata oferta de pret finala si codul de conduita semnat.
+
+Asteptam comanda dumneavoastra.
+
+O zi cu spor!
+
+From: Catalin-Dumitru Vartic <catalin-dumitru.vartic@airbus.com>
+Sent: Monday, August 3, 2026 8:00 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: Akro Filtrare <office@akro.ro>; Ionut Sfetea-Geisler <ionut.sfetea-geisler@airbus.com>; andrei.dobrei@akro.ro
+Subject: Re: RFQ Statie dedurizare apa Akro
+
+OK,
+
+Ca o completare, peste aceasta valoare procedura ma conditioneaza sa intru in licitatie,
+
+Ceea ce ar presupune alte cereri de oferta, comparatii, formulare, etc,
+
+Sper sa putem agreea,
+
+Saptamana cu spor!
+
+Kind regards / Mit freundlichen Gruessen / Cu stima,
+
+Catalin Vartic
+
+Procurement Specialist
+Indirect Procurement Brasov- KPYJR
+
+Phone: +40 (0)368 081 107
+
+E-mail: catalin-dumitru.vartic@airbus.com
+
+Airbus Aerostructures
+
+30 Hermann Oberth
+
+507075 Ghimbav
+
+Brașov, România
+
+On Fri, Jul 31, 2026 at 2:45 PM AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro> wrote:
+
+Buna ziua,
+
+Revin cu un raspuns in cursul zilei de luni sau cel tarziu marti.
+
+Cu respect,
+
+From: Catalin-Dumitru Vartic <catalin-dumitru.vartic@airbus.com>
+Sent: Friday, July 31, 2026 2:02 PM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: Akro Filtrare <office@akro.ro>; Ionut Sfetea-Geisler <ionut.sfetea-geisler@airbus.com>; andrei.dobrei@akro.ro
+Subject: Re: RFQ Statie dedurizare apa Akro
+
+Buna,
+
+Multumesc pentru operativitate,
+
+Nu pot confirma pentru pretul dat.
+
+Va rog reanaliza pentru 9800 euro.
+
+Va rog trimiteti si codul de conduita completat si semnat,
+
+Weekend placut!
+
+Kind regards / Mit freundlichen Gruessen / Cu stima,
+
+Catalin Vartic
+
+Procurement Specialist
+Indirect Procurement Brasov- KPYJR
+
+Phone: +40 (0)368 081 107
+
+E-mail: catalin-dumitru.vartic@airbus.com
+
+Airbus Aerostructures
+
+30 Hermann Oberth
+
+507075 Ghimbav
+
+Brașov, România
+
+On Fri, Jul 31, 2026 at 12:33 PM AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro> wrote:
+
+Buna ziua Dl Vartic,
+
+Va multumim pentru e-mail!
+
+Va trimit anexat documentul excel completat.
+
+Pentru fiecare din mentiuni revin mai jos cu raspuns – marcat cu galben.
+
+From: Catalin-Dumitru Vartic <catalin-dumitru.vartic@airbus.com>
+Sent: Friday, July 31, 2026 11:03 AM
+To: AKRO Romania , Alexandru Soare alexandru.soare@akro.ro
+Cc: Akro Filtrare office@akro.ro; Ionut Sfetea-Geisler ionut.sfetea-geisler@airbus.com
+Subject: Re: RFQ Statie dedurizare apa Akro
+
+Buna ziua,
+
+Revin la discutia telefonica avuta mai devreme,
+
+Lucrarea in discutie a fost aprobata la nivel de necesitate, in componenta de pachet propusa de dvs in oferta S02384 / 09.06.2026.
+
+Am confirmat ca pachetul va include si urmatoarele elemente:
+
+- livrarea statiei in stare premontata si programata la setarile comunicate de reprezentantul tehnic Airbus inainte de premontaj / livrare;
+
+Livrarea se face cu toate setarile vanelor efectuate + instructiuni de asamblare si incarcare pe pozitie.
+
+- certificate CE si declaratii de conformitate pentru elementele componente ale statiei;
+
+Anexat trimitem toate certificarile dispo
+[ATAȘAMENT: Contract AKRO - Statie dedurizare.pdf | text extras]
+
+--- MESAJ m2148004 | 2026-08-12 12:26 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Catalin-Dumitru Vartic <catalin-dumitru.vartic@airbus.com>
+Cc: office@akro.ro, aurel.caras@akro.ro, ionut.sfetea-geisler@airbus.com, andrei.dobrei@akro.ro
+Subiect: RE: RFQ Statie dedurizare apa Akro
+Buna ziua,
+
+Va rog sa regasiti contractul semnat din partea AKRO.
+
+Asteptam comanda oficiala.
+
+O zi cu spor!
+[ATAȘAMENT: Contract AKRO_AIRBUS_Statie dedurizare_semnatAK_draft.pdf | text extras]
+
+--- MESAJ m2111524 | 2026-08-12 12:28 | Inbox | AKRO
+De la: aurel.caras@akro.ro <aurel.caras@akro.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro
+Subiect: RE: RFQ Statie dedurizare apa Akro
+Alex, Am semnat documentul.
+
+Gasesti contractul aici: W:\3 Comercial\01.CLIENTI\03. CONTRACTE CLIENTI\01. DRAFT DE CONTRACT_2026
+
+--- MESAJ m2112164 | 2026-08-14 09:18 | Inbox | EXTERN
+De la: Catalin-Dumitru Vartic <catalin-dumitru.vartic@airbus.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, aurel.caras@akro.ro, ionut.sfetea-geisler@airbus.com, andrei.dobrei@akro.ro
+Subiect: Re: RFQ Statie dedurizare apa Akro
+Buna,
+
+Va transmit contractul semnat si din partea noastra, revin cu comanda pe inceputul saptamanii viitoare,
+
+Kind regards / Mit freundlichen Gruessen / Cu stima,
+
+Catalin Vartic
+
+Procurement Specialist
+Indirect Procurement Brasov- KPYJR
+
+Phone: +40 (0)368 081 107
+
+E-mail: catalin-dumitru.vartic@airbus.com
+
+Airbus Aerostructures
+
+30 Hermann Oberth
+
+507075 Ghimbav
+
+Brașov, România
+[ATAȘAMENT: Contract AKRO_AIRBUS_Statie dedurizare.pdf | text extras]
+   
+837!""#483$%&'
+(')')(*%274!+
+12345617483 ,3!-.+/0.7!"2!
+1112!2345623.7
+456'
+
+789:7:;<=>9?<@7ABCD<
+
+9EFGHGGIJGKLMHGHF
+
+NE  COPQRLLRS
+T8 EE
+23568U25VW"38X26$3!$W"V.3!V2$!$8!,3!6.+/Y$3!U!Z2[2"5V52"3266'/\5U8]5V,3!6.+/
+$8V8^." _''`'a )bc dd` `)&/ W"7!$3235V!$e V! 08X26$35Vf.783]5V52U2" ,3!6.+ 654 "32
+\b''6'''d))'cc/fghi0#6`b'(d)d/3."$h,1j0#dchj*,''''dddd'bc`&dk&/U863%26V!hj*
+,1jl/38m38[8"$!$em32"U.7"5V1538Vf101Y/!+n"U^5"3]2!U85!"!X83*8"83!V/W"3!V2$!$8U8
+=LRoLp
+-2
+qrA <8:A7:A< EE23568U25VW"#3!-5V*%274!+/6$32 837!""#483$%"32&'/
+s5U8]5V,3!-.+/2U8"$2^23!$!35\b'66'''c6k'c6 62fgh0#b(d&b)d`/!+n"U3."$5V4!"3!3h,1j
+0#(6,1ft'''''''&c`dk'''6U863%26V!g"2f38U2$u232!3,!"v/38m38[8"$!$em32"wVh."8V
+*3.65/W"3!V2$!$8U8w2383$.3xy835$2+-2w"!h."8V!58V"23/W"3!V2$!$8U81U72"26$3!$.3/U8"572$e
+W"3."$2"5!38 rRzLp
+w8"572$8 3.V83$2+ -246!5 2"U2+2U5!V{|e3]2}/{|e3]2V8 3."$3!3$!"$8}6!5 {|!3$8!}/!5 W"3%82!$
+m38[8"$5Vf."$3!3$3!U35U8+n"[!38357me3!38_~f."$3!3$5V}aU5me3575378![ei
+HE  8Q7RLQS
+HENE #4283$5Vm38[8"$5V52f."$3!3$WV3."6$2$528 +n"[!38! U8 3e$38 !"[!$.3-2/386m83$2+/
+357me3!38! U8 3e$38 ,8"8^232!3! m3.U568V.36.V232$!$8/W"63%2745VmVe]225"52m38]/3."^.37
+m38+8U832V.33."$3!3$5!V82
+HEHE |3.U568V8 !3%2[2]2."!$8 65"$U8633268 2" RLREN@8zLLQORE
+GHFNKE2+3!38! 68 ^!38 35 $.!$8 68$!32V8 +!"8V.38^83$5!$8/2"6.$2$8 U8 2"6$353$25"2V8 U8
+!6!74V!38 622"3
+
+--- MESAJ m2113540 | 2026-08-19 11:41 | Inbox | EXTERN
+De la: Catalin-Dumitru Vartic <catalin-dumitru.vartic@airbus.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, aurel.caras@akro.ro, ionut.sfetea-geisler@airbus.com, andrei.dobrei@akro.ro
+Subiect: Re: RFQ Statie dedurizare apa Akro
+Buna ziua,
+
+Trimit atasata comanda aferenta discutiei de mai jos,
+
+Va rog reveniti cu confirmarea lansarii si a termenului de livrare,
+
+Va multumesc,
+
+Kind regards / Mit freundlichen Gruessen / Cu stima,
+
+Catalin Vartic
+
+Procurement Specialist
+Indirect Procurement Brasov- KPYJR
+
+Phone: +40 (0)368 081 107
+
+E-mail: catalin-dumitru.vartic@airbus.com
+
+Airbus Aerostructures
+
+30 Hermann Oberth
+
+507075 Ghimbav
+
+Brașov, România
+[ATAȘAMENT: PO AKRO_6500199283.pdf | text extras]
+_____________________________________________________________________________________________
+
+Purchase order Product Your vendor number with us 34358513
+PO number 6500199283
+PO Date 19.08.2026 AKRO SRL
+Contact person Catalin Dumitru Vartic ZIZINULUI NR.110
+Telephone 500407 BRASOV
+Address of
+correspondence
+Please deliver to:
+Billing address Airbus Aerostructures S.R.L. Airbus Aerostructure S.R.L
+Str. Hermann Oberth, nr. 30 Terms deliv. DAP Delivery at Place
+Ghimbav, Brasov, Romania
+
+__ __
+
+Please send an order confirmation within maximum 24 hours.
+Payment conditions are valid after after receiving the goods and the original invoice, issued and received within 3 days after goods' reception.
+Curr. EUR
+_____________________________________________________________________________________________
+Item Material Description
+order qty. Unit Price per unit Net Value
+_____________________________________________________________________________________________
+00010 MF Statie dedurizare duplex
+1 Each 9.756,00 9.756,00
+Deliv. date 18.09.2026
+Rel. ord./contr. 4500005128 Item 00010
+
+Statie de dedurizare duplex # 450L rasina pe fiecare coloana, racord de 2”
+Filtru de impuritati NW 500 # racord 2" complet echipat # fisa tehnica anexata (echipat cu o membrana lavabila din
+nylon la 150 microni)
+
+Include livrarea produselor la beneficiar.
+
+Montajul, asamblarea si PIF-ul intra in sarcina beneficiarului.
+_____________________________________________________________________________________________
+
+--- MESAJ m2150852 | 2026-08-19 12:10 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Catalin-Dumitru Vartic <catalin-dumitru.vartic@airbus.com>
+Cc: office@akro.ro, aurel.caras@akro.ro, ionut.sfetea-geisler@airbus.com, andrei.dobrei@akro.ro
+Subiect: RE: RFQ Statie dedurizare apa Akro
+Buna ziua ,
+
+Va multumim pentru comanda!
+
+Va rog sa regasiti anexata confirmarea de comanda.
+
+Astazi demaram procedura de aprovizionare si estimam ca livrarea statiei la dumneavoastra se va face cel tarziu in saptamana 37.
+
+Cu respect,
+[ATAȘAMENT: Comanda - S02613 - AIRBUS - 19.08.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2153540 | 2026-08-31 12:03 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Catalin-Dumitru Vartic <catalin-dumitru.vartic@airbus.com>
+Cc: office@akro.ro, aurel.caras@akro.ro, ionut.sfetea-geisler@airbus.com, andrei.dobrei@akro.ro
+Subiect: RE: RFQ Statie dedurizare apa Akro
+Buna ziua Dl Catalin,
+Conform discutiei telefonice , va informam ca astazi incarcam statia de dedurizare prin transportatorul :
+
+ORIZONT LOGISTIC D.C.C.
+
+Sunt 4 paleti:
+
+2 paleti - 80x80x230 – 80 kg fiecare [ coloanele + tevile distribuitorilor+ supapa de aspiratie saramura]
+
+1 palet – 115x115x110 cm – 800 kg – 900L rasina
+
+1 palet – 100x120x150cm – 400kg – 300 kg nisip + tank saramura + electronica statiei de dedurizare [ Vane , MAV + Debitmetru +Filtru NW500]
+
+Vanele au fost presetate pe aplicatia client si s-au notat ca Vana A respective VANA B pentru montaj [ A este master, B este Slave] – regasiti in cutia vanei B – un dosar albastru in care aveti :
+
+Schema de montaj
+
+Instructiuni de PIF si asamblare
+
+Fisa setari cu exact setarile efectuate.
+
+Transportatorul va ajunge pe platforma astazi in jurul orei 16 sau cel tarziu maine de dimineata.
+
+Colegii mei vor reveni cu restul de acte si factura fiscala.
+
+Cu respect,
+[ATAȘAMENT: Operațiuni de ridicare - AIRBUS AEROSTRUCTURES - WH_OUT_01164 (1).pdf | text extras]
+
+====================================================================================================
+CONVERSAȚIA c2150884 (nr. 322) | subiect: ORDER P01411 - AKRO ROMANIA - 19.08.2026
+Partener (după adrese): alamowaterpoland.com Dominik Mirowski, Alamo Water Poland | grupare nesigură: da
+
+--- MESAJ m2150884 | 2026-08-19 12:14 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Cc: alamo@alamowaterpoland.com, office@akro.ro
+Subiect: ORDER P01411 - AKRO ROMANIA - 19.08.2026
+Hello Dominik,
+
+Please find a new order for a duplex softener unit with 2” CI clack valves, with 450L of resin on each column.
+
+I am looking forward in receiving the OC.
+
+Best regards,
+[ATAȘAMENT: Comandă de achiziție - P01411 - ALAMO WATER POLAND - 19.08.2026.pdf | text extras]
+
+--- MESAJ m2113732 | 2026-08-19 13:33 | Inbox | EXTERN
+De la: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: alamo@alamowaterpoland.com, office@akro.ro
+Subiect: ODP: ORDER P01411 - AKRO ROMANIA - 19.08.2026
+Hello Alexandru,
+
+thank you for your order.
+
+Attached you can find our OC.
+
+All items in stock.
+
+Pozdrawiam/Best regards,
+
+Dominik Mirowski
+
+Alamo Water Poland Sp. Z o.o.
+
+Ul. Gen. Tadeusza Kutrzeby 17
+
+05-082 Stare Babice, Poland
+
+T. +48 22 270 13 82
+
+dom@alamowaterpoland.com
+
+www.alamowaterpoland.com
+[ATAȘAMENT: Order SO2605470-1400-1.pdf | text extras]
+Alamo Water Poland Sp. z o.o. Telephone +48 22 270 13 81
+ul. Gen. Tadeusza Kutrzeby 17 Email alamo@alamowaterpoland.com
+05-082 STARE BABICE
+Poland
+
+0041090 SC AKRO SRL
+Str. Zizinului Nr. 110, etaj 2
+500407 BRASOV
+Romania
+
+Pro forma confirmation
+Confirmation........................: SO2605470-1400-1 Telephone .................................: +40.268.413180
+Sales order..........................: SO2605470-1400 Fax… : +40.268.413183
+Date.....................................: 19/08/2026 Email ........................................: office@akro.ro; contact@spectra.ro;
+Customer reference ............: #P01411 alexandru.soare@akro.ro
+VAT number .............................: RO14205979
+Terms of delivery .......................: Ex Works, Stare Babice, Poland
+Payment conditions ...................: 30 days invoice date
+
+Item number Description Qty. Unit. Ship date Net UP Amount
+10440000234 (V3080BSPT) 2.00 PCS to be defined €76.16 €152.32
+WS DLFC ASY M1,5'' x F1,5'' BSPT
+
+10340000097 (V2CIDTD-05) 2.00 PCS to be defined €909.49 €1818.98
+WS2CI Valve DN T I-D
+
+10240000029 (D1199-04) Top Distributor 50mm Type Stack 2.00 PCS to be defined €31.58 €63.16
+
+10440000184 (V3186EU-06) 2.00 PCS to be defined €9.36 €18.72
+WS1 DC Power Supply EU 15V DC
+
+10440000066 (V3076BSPT) 1.00 PCS to be defined €366.65 €366.65
+Motor Alternating Valve 2" BSPT
+
+10440000130 (V3094BSPT-15) 1.00 PCS to be defined €291.03 €291.03
+WS2 Meter Asy MxF BSPT 15' m Cable
+
+14170000129 TEE 1/2" (CLACK TWIN) 1.00 PCS to b
+
+--- MESAJ m2150980 | 2026-08-19 13:40 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Cc: alamo@alamowaterpoland.com, office@akro.ro
+Subiect: RE: ORDER P01411 - AKRO ROMANIA - 19.08.2026
+Hello Dominik, add me please also the DLFC restrictors required .[ Our system does not import those small components and I forgot about them] .
+
+Best regards,
+[ATAȘAMENT: Order SO2605470-1400-1.pdf | text extras]
+
+--- MESAJ m2113764 | 2026-08-19 13:46 | Inbox | EXTERN
+De la: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: alamo@alamowaterpoland.com, office@akro.ro
+Subiect: ODP: ORDER P01411 - AKRO ROMANIA - 19.08.2026
+No problem I will add
+
+2x V3190-250
+
+Pozdrawiam/Best regards,
+
+Dominik Mirowski
+
+Alamo Water Poland Sp. Z o.o.
+
+Ul. Gen. Tadeusza Kutrzeby 17
+
+05-082 Stare Babice, Poland
+
+T. +48 22 270 13 82
+
+dom@alamowaterpoland.com
+
+www.alamowaterpoland.com

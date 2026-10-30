@@ -1,0 +1,827 @@
+CATEGORIA 23-Diverse materiale, consumabile
+
+####################################################################################################
+RÂND c2135844 (nr. 67) | stare: Completă | categorie: 23-Diverse materiale, consumabile | cerere: Transmițător de impuls (modul EDC) pentru contor Zenner DN50
+CERINȚA: Cere ofertă pentru un transmițător de impuls pentru contor mecanic Zenner DN50 montat la SUC Odobești. [m2135844] «transmitator de impuls pentru contor mecanic Zenner Dn50 mm montat la Suc Odobesti Automatizare GA Putna»
+CERINȚĂ FINALĂ (tip echipament): Modul EDC pentru contor WPD Zenner, 1 impuls / 10 L [m2136356] «Modul EDC - pentru corp contor WPD - Zenner 1 imp / 10L»
+CERINȚĂ FINALĂ (cantitate): 1 modul EDC, cu transport inclus [m2136004] «oferta de pret pentru un modul EDC cu transport inclus»
+CERINȚĂ FINALĂ (loc livrare): SUC Odobești, Automatizare GA Putna [m2135844] «montat la Suc Odobesti Automatizare GA Putna»
+REZULTAT: necunoscut
+PREȚURI Ofertă S02522 v1 (2026-07-13), total 778.94 RON:
+  [23-001213] Modul EDC - pentru corp contor WPD - Zenner 1 imp / 10L Termen livrare: 10 zile | 1.0 buc × 643.75 RON | referință
+  termen: Modul de livrare: In sarcina Akro
+  termen: Termen de plata: 100% in avans
+
+====================================================================================================
+CONVERSAȚIA c2135844 (nr. 67) | subiect: FW: Cerere de oferta
+Partener (după adrese): cupfocsani.ro  | grupare nesigură: nu
+OFERTĂ S02522 v1 trimisă 2026-07-13 11:19 în m2136004 (Odoo: Comandă de vânzare): [23-001213] Modul EDC - pentru corp contor WPD - Zenner 1 imp / 10L Termen livrare: 10 zile x1.0 buc
+
+--- MESAJ m2135844 | 2026-07-13 10:39 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: Cerere de oferta
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: aprovizionare@cupfocsani.ro <aprovizionare@cupfocsani.ro>
+Sent: Monday, July 6, 2026 2:26 PM
+To: contact@akro.ro
+Cc: 'LIVIU MUNTEANU' <livodo@yahoo.com>
+Subject: Cerere de oferta
+
+Buna ziua!
+
+Va rugam sa ne transmiteti oferta dvs. pentru un transmitator de impuls pentru contor mecanic Zenner Dn50 mm montat la Suc Odobesti Automatizare GA Putna.
+
+Am atasat prezentei corespondente si o poza.
+
+Mai multe detalii va poate oferi colegul meu dl Munteanu Liviu de la Suc Odobesti la Tel. 0728909922.
+
+Cu stimă,
+
+Ec. Daniela Avram
+
+Dep. Achizitii
+
+Mob. 0732122225 Tel. /fax 0237/238940
+
+Compania de Utilități Publice SA
+
+RO1443170 J1998000364396
+
+Str. Nicolae Titulescu nr.9 cod 620018, Focşani
+
+Jud. Vrancea, România
+
+Datele dumneavoastra cu caracter personal vor fi procesate de operatorul CUP S.A. Focșani numai in baza Regulamentului european 679/2016. Categoria de date, scopul prelucrarii, temeiul legal al prelucrarii, perioada maxima de pastrare, terte parti pentru transmisia de date, pot fi consultate pe site-ul companiei: https://cupfocsani.ro/p/politica-de-confidentialitate
+[ATAȘAMENT: WhatsApp Image 2026-07-06 at 09.48.07.jpeg | imagine]
+
+--- MESAJ m2136004 | 2026-07-13 11:19 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: aprovizionare@cupfocsani.ro <aprovizionare@cupfocsani.ro>
+Cc: livodo@yahoo.com, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Cerere de oferta
+Buna ziua Doamna Avram,
+
+Va multumim pentru solicitarea dumneavoastra!
+
+Va rog sa regasiti anexata oferta de pret pentru un modul EDC cu transport inclus.
+
+Produsul este disponibil in stoc furnizor [ estimam livrarea in 5-7 zile de la comanda ferma].
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02522 - Compania de Utilitati Publice - Focsani - 13.07.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2136356 | 2026-07-13 13:48 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: aprovizionare@cupfocsani.ro <aprovizionare@cupfocsani.ro>
+Cc: livodo@yahoo.com, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Cerere de oferta
+Buna ziua ,
+
+Va informam ca s-a postat in catalogul SICAP – produsul din oferta [ modul EDC] .
+
+Numai bine,
+
+Numar referinta
+S002522
+Denumire
+Modul EDC - pentru corp contor WPD - Zenner 1 imp / 10L
+Cod GTIN
+
+Site de prezentare
+(ex: http://www.example.ro sau https://www.example.ro)
+Introduceti adresa URL a siteului de prezentare
+Cod si denumire CPV
+42912310-8 Aparate de filtrare a apei (Rev.2)
+select
+Descriere
+Modul EDC - pentru corp contor WPD - Zenner 1 imp / 10L
+
+####################################################################################################
+RÂND c2113444 (nr. 320) | stare: Completă | categorie: 23-Diverse materiale, consumabile | cerere: Contor apă cu impuls DN 65
+CERINȚA: Întreabă dacă AKRO are pe stoc un debitmetru cu impuls DN 65, ca în pozele atașate. [m2113444] «Aveti pe stoc un debitmetru cu implus Dn 65 ca in pozele atasate?»
+CERINȚĂ FINALĂ (racord): DN 65 [m2113444] «Aveti pe stoc un debitmetru cu implus Dn 65»
+CERINȚĂ FINALĂ (altele): Impuls 1/100 litri, contact reed [m2113636] «1 impuls 100 litri contact reed»
+CERINȚĂ FINALĂ (tip echipament): Ofertat contor Zenner WPD DN 65, 1/100, cu modul inductiv EDC (disponibil în stoc furnizor) în loc de reed [m2151044] «ar fi disponibil in stocul furnizor 1 bucata contor DN 65 – dar este echipat cu modul inductiv EDC»
+CERINȚĂ FINALĂ (termen): Livrare estimată 1-2 săptămâni [m2151044] «Estimatul de livrare 1-2 saptamani»
+CLARIFICARE: întrebare AKRO spune că nu ține contoare în stoc, lucrează cu Zenner și întreabă rata de impuls și tipul (inductiv EDC sau reed). [m2150788] «Se doreste impuls inductiv [modul EDC] sau contact reed?» → răspuns Clientul: 1 impuls la 100 litri, contact reed. [m2113636] «1 impuls 100 litri contact reed» | schimbare: S-au precizat rata de impuls 1/100 l și contactul reed; AKRO a ofertat varianta cu modul EDC disponibilă.
+REZULTAT: necunoscut
+PREȚURI Ofertă S02700 v1 (2026-08-19), total 546.41 EUR:
+  [23-001187] Contor-ZENNER - WPD DN65 cu modul EDC MBus si impuls - 1/100 | 1.0 buc × 470.4 EUR (reducere 4.0%) | referință
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12luni de la livrare
+  termen: Condiții de plată: 30 de zile
+
+====================================================================================================
+CONVERSAȚIA c2113444 (nr. 320) | subiect: informatie stoc pret
+Partener (după adrese): wts-online.ro Gabriel Filip WTS | grupare nesigură: nu
+OFERTĂ S02700 v1 trimisă 2026-08-19 13:53 în m2151044 (Odoo: Ofertă trimisă): [23-001187] Contor-ZENNER - WPD DN65 cu modul EDC MBus si impuls - 1/100 x1.0 buc
+
+--- MESAJ m2113444 | 2026-08-19 10:29 | Inbox | EXTERN
+De la: Gabriel Filip WTS <gabriel.filip@wts-online.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: informatie stoc pret
+Buna ziua '
+
+Aveti pe stoc un debitmetru cu implus Dn 65 ca in pozele atasate?
+
+--
+
+Cu stima,
+
+Ing Gabriel Filip
+
+Water Treatment System
+
+Strada Republicii 75 bis
+
+Jud Bacau,Loc Bacau
+
+Cod 600311
+
+Romania
+
+Tel 0334808717-0746717851
+
+www.wts-online.ro
+
+Facebook | Instagram | Whatsapp
+[ATAȘAMENT: WhatsApp Image 2025-07-14 at 17.55.44.jpeg | imagine]
+[ATAȘAMENT: WhatsApp Image 2025-07-14 at 17.55.44 (1).jpeg | imagine]
+
+--- MESAJ m2150788 | 2026-08-19 11:23 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Gabriel Filip WTS <gabriel.filip@wts-online.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: informatie stoc pret
+Buna ziua Dl Filip,
+
+Nu tinem in stoc contoare de apa.
+
+Lucram cu Zenner – daca va ajuta – las anexata fisa tehnica [ lungime intre flanse 200mm], insa in mod normal produsele se livreaza in termen de 10-14 zile .
+
+In cazul in care doriti o cotatie in acest sens va rog sa ne precizati:
+
+Care este rata de impuls dorita?
+
+Se doreste impuls inductiv [modul EDC] sau contact reed?
+
+Asteptam cu interes raspuns!
+
+Numai bine,
+[ATAȘAMENT: Fisa tehnica WPD WPHD RO DG.pdf | text extras]
+
+--- MESAJ m2113636 | 2026-08-19 12:36 | Inbox | EXTERN
+De la: Gabriel Filip WTS <gabriel.filip@wts-online.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Re: informatie stoc pret
+Buna ziua
+
+1 impuls 100 litri
+
+contact reed
+
+Cu stima,
+
+Ing Gabriel Filip
+
+Water Treatment System
+
+Strada Republicii 75 bis
+
+Jud Bacau,Loc Bacau
+
+Cod 600311
+
+Romania
+
+Tel 0334808717-0746717851
+
+www.wts-online.ro
+
+Facebook | Instagram | Whatsapp
+
+La 19.08.2026 11:23, AKRO Romania ,
+Alexandru Soare a scris:
+
+Buna ziua Dl Filip,
+
+Nu tinem in stoc contoare de apa.
+
+Lucram cu Zenner – daca va ajuta –
+las anexata fisa tehnica [ lungime intre flanse 200mm], insa
+in mod normal produsele se livreaza in termen de 10-14 zile
+.
+
+In cazul in care doriti o cotatie in
+acest sens va rog sa ne precizati:
+
+Care este rata de impuls
+dorita?
+
+Se doreste impuls inductiv
+[modul EDC] sau contact reed?
+
+Asteptam cu interes raspuns!
+
+Numai bine,
+
+--- MESAJ m2151012 | 2026-08-19 13:46 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: informatie stoc pret
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Gabriel Filip WTS <gabriel.filip@wts-online.ro>
+Sent: Wednesday, August 19, 2026 12:37 PM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: Re: informatie stoc pret
+
+Buna ziua
+
+1 impuls 100 litri
+
+contact reed
+
+Cu stima,
+Ing Gabriel Filip
+Water Treatment System
+Strada Republicii 75 bis
+Jud Bacau,Loc Bacau
+Cod 600311
+Romania
+Tel 0334808717-0746717851
+www.wts-online.ro
+Facebook | Instagram | Whatsapp
+
+La 19.08.2026 11:23, AKRO Romania , Alexandru Soare a scris:
+
+Buna ziua Dl Filip,
+
+Nu tinem in stoc contoare de apa.
+
+Lucram cu Zenner – daca va ajuta – las anexata fisa tehnica [ lungime intre flanse 200mm], insa in mod normal produsele se livreaza in termen de 10-14 zile .
+
+In cazul in care doriti o cotatie in acest sens va rog sa ne precizati:
+
+Care este rata de impuls dorita?
+
+Se doreste impuls inductiv [modul EDC] sau contact reed?
+
+Asteptam cu interes raspuns!
+
+Numai bine,
+
+From: Gabriel Filip WTS <gabriel.filip@wts-online.ro>
+Sent: Wednesday, August 19, 2026 10:29 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: informatie stoc pret
+
+Buna ziua '
+
+Aveti pe stoc un debitmetru cu implus Dn 65 ca in pozele atasate?
+
+--
+Cu stima,
+Ing Gabriel Filip
+Water Treatment System
+Strada Republicii 75 bis
+Jud Bacau,Loc Bacau
+Cod 600311
+Romania
+Tel 0334808717-0746717851
+www.wts-online.ro
+Facebook | Instagram | Whatsapp
+
+--- MESAJ m2151044 | 2026-08-19 13:53 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Gabriel Filip WTS <gabriel.filip@wts-online.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: informatie stoc pret
+Buna ziua,
+
+Pe varianta 1/100 la acest moment ar fi disponibil in stocul furnizor 1 bucata contor DN 65 – dar este echipat cu modul inductiv EDC .
+
+Acesta poate trimite semnal la fel ca si impulsul reed.
+
+Estimatul de livrare 1-2 saptamani
+
+Asteptam cu interes raspuns!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02700 - BEMADA - 19.08.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: BRO_EDC-Modul_EN_RO.pdf | text extras]
+
+####################################################################################################
+RÂND c2117348 (nr. 379) | stare: Completă | categorie: 23-Diverse materiale, consumabile | cerere: Debitmetru electromagnetic DN 65
+CERINȚA: Cere preț și termen de livrare pentru un debitmetru electromagnetic DN 65, ieșire 4-20 mA, alimentare 230 V. [m2117348] «debitmetru electromagnetic dn 65,cu urmatoarele caracteristici:»
+CERINȚĂ FINALĂ (tip echipament): Debitmetru electromagnetic DN 65 [m2117348] «debitmetru electromagnetic dn 65,cu urmatoarele caracteristici:»
+CERINȚĂ FINALĂ (altele): Ieșire în curent unificat 4-20 mA [m2117348] «iesire in curent unificat 4 - 20 mA»
+CERINȚĂ FINALĂ (tensiune): Alimentare 230 V [m2117348] «- alimentare 230 V Acesta este pt achizitie»
+CERINȚĂ FINALĂ (loc livrare): Tulcea [m2117348] «Acesta este pt achizitie Locatia: Tulcea»
+REZULTAT: fără răspuns — AKRO a cerut feedback la ofertă, fără răspuns în conversație. [m2155652] «va rog sa ne transmiteti un feedback cu privire la oferta anexata»
+PREȚURI Ofertă S02750 v1 (2026-09-01), total 1863.4 EUR:
+  [23-001172] Debitmetru electromagnetic APLISENS - DN 65 - cu elemente separate [ modular] - 8 m cablu | 1.0 buc × 1540.0 EUR | referință
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 24 luni de la livrare
+  termen: Termen de plata: 100% in avans
+
+====================================================================================================
+CONVERSAȚIA c2117348 (nr. 379) | subiect: cerere oferta
+Partener (după adrese): pasirominteractiv@gmail.com Pasirom Interactiv | grupare nesigură: nu
+OFERTĂ S02750 v1 trimisă 2026-09-01 11:25 în m2154020 (Odoo: Ofertă trimisă): [23-001172] Debitmetru electromagnetic APLISENS - DN 65 - cu elemente separate [ modular] -  x1.0 buc
+OFERTĂ S02750 v1 trimisă 2026-09-07 10:11 în m2155652 (Odoo: Ofertă trimisă): [23-001172] Debitmetru electromagnetic APLISENS - DN 65 - cu elemente separate [ modular] -  x1.0 buc
+
+--- MESAJ m2117348 | 2026-09-01 10:37 | Inbox | EXTERN
+De la: Pasirom Interactiv <pasirominteractiv@gmail.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: cerere oferta
+Buna ziua,
+Va rugam sa ne transmiteti oferta d-voastra de pret si termenul de livrare pentru:
+
+- debitmetru electromagnetic dn 65,cu urmatoarele caracteristici:
+
+- iesire in curent unificat 4 - 20 mA
+
+- alimentare 230 V
+
+Acesta este pt achizitie
+
+Locatia: Tulcea
+
+Multumim!
+
+--- MESAJ m2153988 | 2026-09-01 10:44 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: cerere oferta
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Pasirom Interactiv <pasirominteractiv@gmail.com>
+Sent: Tuesday, September 1, 2026 10:37 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: cerere oferta
+
+Buna ziua,
+
+Va rugam sa ne transmiteti oferta d-voastra de pret si termenul de livrare pentru:
+
+- debitmetru electromagnetic dn 65,cu urmatoarele caracteristici:
+
+- iesire in curent unificat 4 - 20 mA
+
+- alimentare 230 V
+
+Acesta este pt achizitie
+
+Locatia: Tulcea
+
+Multumim!
+
+--- MESAJ m2154020 | 2026-09-01 11:25 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Pasirom Interactiv <pasirominteractiv@gmail.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: cerere oferta
+Buna ziua,
+Anexata oferta de pret si fisa tehnica pentru debitmetrul electromagnetic.
+
+In acest moment este unul disponibil in stocul furnizor – prin urmare termenul estimat de livrare este de 5-7 zile de la comanda si transmiterea confirmarii de plata.
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02750 - PASIROM INTERACTIV - 01.09.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: Debitmetru-electromagnetic-PEM (2).pdf | text extras]
+
+--- MESAJ m2155652 | 2026-09-07 10:11 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Pasirom Interactiv <pasirominteractiv@gmail.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: cerere oferta
+Buna ziua,
+
+Pentru evidentele interne, va rog sa ne transmiteti un feedback cu privire la oferta anexata .
+
+Asteptam cu interes raspuns!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02750 - PASIROM INTERACTIV - 01.09.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: Debitmetru-electromagnetic-PEM (2).pdf | text extras]
+
+####################################################################################################
+RÂND c2159108 (nr. 494) | stare: Fără ofertă | categorie: 23-Diverse materiale, consumabile | cerere: Antigel concentrat atoxic, 30 l
+CERINȚA: Cerere de pe site pentru 30 l antigel transparent atoxic, cu prețul total și transport. [m2159108] «Cantitate: 30 l antigel transparent atoxic»
+CERINȚĂ FINALĂ (tip echipament): Antigel concentrat atoxic [m2159108] «Denumire produs: Antigel concentrat atoxic»
+CERINȚĂ FINALĂ (cantitate): 30 l [m2159108] «Cantitate: 30 l antigel transparent atoxic»
+REZULTAT: AKRO nu a ofertat — AKRO nu mai comercializează produsul, disponibil doar la palet întreg (24 bidoane x 25 kg). [m2159108] «acest produs nu mai face parte din portofoliul de produse AKRO»
+
+
+====================================================================================================
+CONVERSAȚIA c2159108 (nr. 494) | subiect: RE: AKRO :: Cerere oferta
+Partener (după adrese): gainar_ovidiu68@yahoo.com  | grupare nesigură: nu
+
+--- MESAJ m2159108 | 2026-09-18 14:14 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: gainar_ovidiu68@yahoo.com <gainar_ovidiu68@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: AKRO :: Cerere oferta
+Buna ziua,
+
+Va multumim pentru solicitare!
+
+Cu parare de rau, va transmitem ca acest produs nu mai face parte din portofoliul de produse AKRO si mai poate fi asigurat/comandat numai la palet intreg. [ 24 bidoane x 25 kg].
+
+Pentru orice alte intrebari sau informatii din domeniul tratarii apelor, va stau la dispozitie!
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Akro <office@akro.ro>
+Sent: Friday, September 18, 2026 12:39 PM
+To: sales@akro.ro
+Subject: AKRO :: Cerere oferta
+
+O noua cerere a fost trimisa de pe site:
+
+Denumire produs: Antigel concentrat atoxic
+Link produs: https://akro.ro/produse/produs/antigel-concentrat-atoxic/
+
+Nume: GÄƒinar
+Prenume: Gligor- Ovidiu
+Adresa de email: gainar_ovidiu68@yahoo.com
+Numar de telefon: 0748374558
+Cantitate: 30 l antigel transparent atoxic
+Companie: Parohia OrtodoxÄƒ RomÃ¢nÄƒ CuÈ™telnic
+Mesaj: MÄƒ intereseazÄƒ preÈ›ul total, bÄƒnuiesc cÄƒ transportul va fi gratuit la cantitatea aceasta MulÈ›umesc
+
+UTM Parameters: {"utm_campaign":"","utm_source":"","utm_medium":"","utm_term":"","utm_content":"","gclid":"","gad_source":"","gad_campaignid":"","gbraid":""}
+
+Akro © 2026
+
+####################################################################################################
+RÂND c2134884 (nr. 23) | stare: După vânzare | categorie: 23-Diverse materiale, consumabile | cerere: Contor ZENNER WPD DN100 cu generator de impuls
+CERINȚA: Cere publicarea în SICAP a contorului ZENNER WPD DN100 pentru a iniția achiziția. [m2134884] «Va rugam sa urcati SICAP produsul : Contor ZENNER - WPD DN100 , pentru a putea initia achizitia.»
+CERINȚĂ FINALĂ (tip echipament): Contor Zenner WPD DN100 cu modul EDC MBus și impuls 1/100 [m2134884] «Contor Zenner-WDP DN100 cu modul EDC MBus si impuls -1/100»
+CLARIFICARE: întrebare Clientul cere desemnarea unei persoane autorizate pentru montaj. [m2134884] «Avem rugamintea, sa desemnati o persoana autorizata pentru a efectua montajul.» → răspuns AKRO asigură doar livrarea prin FAN Curier, fără montaj și PIF. [m2134884] «NU ASIGURAM MONTAJ si PIF.» | schimbare: Montajul și PIF-ul nu sunt incluse; doar livrare prin curier.
+REZULTAT: acceptată — AKRO trimite confirmarea de comandă pentru contor, apoi certificatul de calitate. [m2134884] «Va trimit anexata confirmarea de comanda pentru contorul ZENNER WPD-DN100.»
+
+
+====================================================================================================
+CONVERSAȚIA c2134884 (nr. 23) | subiect: RE: FW: CONTOR DE APA CU GENERATOR DE IMPULS
+Partener (după adrese): distributieapabran@gmail.com DISTRIBUTIE APA BRAN SRL | grupare nesigură: nu
+
+--- MESAJ m2134884 | 2026-07-02 12:57 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: DISTRIBUTIE APA BRAN SRL <distributieapabran@gmail.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: FW: CONTOR DE APA CU GENERATOR DE IMPULS
+Buna ziua,
+
+Va trimit anexat certificatul de calitate al contoarelor mecanice ZENNER.
+
+Garantia produsului este de 12 luni de la livrare in baza facturii fiscale.
+
+Documentatia despre modulul inductiv si cum legati produsul la pompa – o regasiti in cutia contorului.
+
+O zi cu spor!
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Monday, June 22, 2026 10:15 AM
+To: 'DISTRIBUTIE APA BRAN SRL' <distributieapabran@gmail.com>
+Cc: 'Akro Filtrare' <office@akro.ro>; 'andrei.dobrei@akro.ro' <andrei.dobrei@akro.ro>
+Subject: RE: FW: CONTOR DE APA CU GENERATOR DE IMPULS
+
+Buna ziua,
+
+Produsul a fost postat in catalogul electronic din SICAP:
+
+“
+
+Contor Zenner-WDP DN100 cu modul EDC MBus si impuls -1/100
+Numar referinta: S02427
+Cod GTIN:
+Cod si denumire CPV: 42912310-8 - Aparate de filtrare a apei (Rev.2)
+
+“
+
+Numai bine,
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Monday, June 22, 2026 9:25 AM
+To: 'DISTRIBUTIE APA BRAN SRL' <distributieapabran@gmail.com>
+Cc: 'Akro Filtrare' <office@akro.ro>; 'andrei.dobrei@akro.ro' <andrei.dobrei@akro.ro>
+Subject: RE: FW: CONTOR DE APA CU GENERATOR DE IMPULS
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Monday, June 22, 2026 9:23 AM
+To: 'DISTRIBUTIE APA BRAN SRL' <distributieapabran@gmail.com>
+Cc: 'Akro Filtrare' <office@akro.ro>; 'andrei.dobrei@akro.ro' <andrei.dobrei@akro.ro>
+Subject: RE: FW: CONTOR DE APA CU GENERATOR DE IMPULS
+
+Buna ziua,
+
+Va trimit anexata confirmarea de comanda pentru contorul ZENNER WPD-DN100.
+
+Am trimis la colegi sa posteze produsul in SICAP , va anuntam de indata ce acesta este postat.
+
+Va rog sa aveti in vedere ca vom asigura strict livrarea prin FAN CURIER a produsului la dumneavoastra.
+
+NU ASIGURAM MONTAJ si PIF.
+
+Revin cu detaliile de achizitie!
+
+Numai bine,
+
+From: DISTRIBUTIE APA BRAN SRL <distributieapabran@gmail.com>
+Sent: Monday, June 22, 2026 9:05 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: Re: FW: CONTOR DE APA CU GENERATOR DE IMPULS
+
+Buna ziua,
+
+Va rugam sa urcati SICAP produsul : Contor ZENNER - WPD DN100 , pentru a putea initia achizitia.
+
+Avem rugamintea, sa desemnati o persoana autorizata pentru a efectua montajul.
+
+O zi buna!
+[ATAȘAMENT: KE_GWZ_WPD - CERTIFICAT CONTOARE MECANICE.pdf | text extras]
+
+####################################################################################################
+RÂND c2145668 (nr. 230) | stare: După vânzare | categorie: 23-Diverse materiale, consumabile | cerere: Clapete de sens inox
+CERINȚA: -
+CLARIFICARE: întrebare AKRO cere plata facturii AKF 260372 scadente la 01.08.2026. [m2145668] «Va scriem cu privire la factura AKF 260372 care a intrat la scadenta» → răspuns Clientul precizează termenul de plată 30 zile EOM+1 și confirmă plata. [m2110980] «Colegii de la Financiar mi-au spus ca plata se face astazi.» | schimbare: Clarificare de termen de plată; factura din iunie se achită.
+REZULTAT: acceptată — Clientul a trimis comanda PO 1396/26 pentru clapete (în istoricul conversației). [m2145668] «Atasat comanda noastra PO 1396/26-25.06.2026.»
+
+
+====================================================================================================
+CONVERSAȚIA c2145668 (nr. 230) | subiect: RE: Solicitare ofertă de preț - Clapete de sens inox/ PO 1396-25.06.2026.
+Partener (după adrese): ecolab.com Bota, Laura, Sglimbea, Ovidiu, Durla, Mircea-Teodor | grupare nesigură: nu
+
+--- MESAJ m2145668 | 2026-08-05 13:33 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Bota, Laura <laura.bota@ecolab.com>
+Cc: ovidiu.sglimbea@ecolab.com, mircea.durla@ecolab.com, catalin.zaharia@ecolab.com, alexandru.spanu@ecolab.com, olga.frimu@ecolab.com, sebastian.filip@ecolab.com, office@akro.ro
+Subiect: RE: Solicitare ofertă de preț - Clapete de sens inox/ PO 1396-25.06.2026.
+Buna ziua,
+
+Va scriem cu privire la factura AKF 260372 care a intrat la scadenta in data de 01.08.2026.
+
+Trimit anexata o situatie la zi a facturilor emise si factura in cauza.
+
+Va rog sa ne ajutati cu plata pentru aceasta pentru a ajunge cu situatia contabila la zi.
+
+Va multumim anticipat!
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Friday, June 26, 2026 11:37 AM
+To: 'Bota, Laura' <laura.bota@ecolab.com>
+Cc: 'Sglimbea, Ovidiu' <ovidiu.sglimbea@ecolab.com>; 'Durla, Mircea-Teodor' <mircea.durla@ecolab.com>; 'Zaharia, Catalin Viorel' <catalin.zaharia@ecolab.com>; 'Spanu, Alexandru' <alexandru.spanu@ecolab.com>; 'Frimu, Olga' <olga.frimu@ecolab.com>; 'Filip, Sebastian' <sebastian.filip@ecolab.com>; 'Akro Filtrare' <office@akro.ro>
+Subject: RE: Solicitare ofertă de preț - Clapete de sens inox/ PO 1396-25.06.2026.
+
+Buna ziua,
+
+Va informam ca produsele s-au pregatit in depozitul FURNIZOR si vor ajunge la dumneavoastra in cursul zilei de marti 30.06.2026 .
+
+Colegii mei vor reveni in cursul zilei de azi sau cel tarziu luni cu actele de transport!
+
+O zi cu spor!
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Friday, June 26, 2026 8:36 AM
+To: 'Bota, Laura' <laura.bota@ecolab.com>
+Cc: 'Sglimbea, Ovidiu' <ovidiu.sglimbea@ecolab.com>; 'Durla, Mircea-Teodor' <mircea.durla@ecolab.com>; 'Zaharia, Catalin Viorel' <catalin.zaharia@ecolab.com>; 'Spanu, Alexandru' <alexandru.spanu@ecolab.com>; 'Frimu, Olga' <olga.frimu@ecolab.com>; 'Filip, Sebastian' <sebastian.filip@ecolab.com>; 'Akro Filtrare' <office@akro.ro>
+Subject: RE: Solicitare ofertă de preț - Clapete de sens inox/ PO 1396-25.06.2026.
+
+Buna ziua,
+
+Va multumim pentru comanda!
+
+Va rog sa regasiti anexata confirmarea!
+
+Revin la dumneavoastra de indata ce avem produsele in stoc!
+
+O zi cu spor!
+
+From: Bota, Laura <laura.bota@ecolab.com>
+Sent: Thursday, June 25, 2026 1:09 PM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: Sglimbea, Ovidiu <ovidiu.sglimbea@ecolab.com>; Durla, Mircea-Teodor <mircea.durla@ecolab.com>; Zaharia, Catalin Viorel <catalin.zaharia@ecolab.com>; Spanu, Alexandru <alexandru.spanu@ecolab.com>; Frimu, Olga <olga.frimu@ecolab.com>; Filip, Sebastian <sebastian.filip@ecolab.com>; 'Akro Filtrare' <office@akro.ro>
+Subject: Re: Solicitare ofertă de preț - Clapete de sens inox/ PO 1396-25.06.2026.
+
+Buna ziua,
+
+Atasat comanda noastra PO 1396/26-25.06.2026.
+
+Va rugam sa mentionati numarul in corespondentele viitoare si pe factura aferenta.
+
+Multumim.
+
+Laura Bota (she/her)
+
+Purchasing Team leader
+
+Purolite™ Resins
+
+Str Aleea Uzinei nr.11
+
+505700 Victoria, jud. Brasov, ROMANIA
+
+T 0040 268 243004 to 243010 M 0040 755 016 777
+
+E laura.bota@ecolab.com
+
+Connect With Us
+
+Facebook | LinkedIn | YouTube
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Wednesday, June 24, 2026 08:30
+To: Frimu, Olga <olga.frimu@ecolab.com>
+Cc: Durla, Mircea-Teodor <mircea.durla@ecolab.com>; Spanu, Alexandru <alexandru.spanu@ecolab.com>; Zaharia, Catalin Viorel <catalin.zaharia@ecolab.com>; Filip, Sebastian <sebastian.filip@ecolab.com>; 'Akro Filtrare' <office@akro.ro>
+Subject: RE: Solicitare ofertă de preț - Clapete de sens inox
+
+Buna dimineata doamna Frimu, Va rog sa regasiti anexata oferta de pret pentru clapetii solicitati. La acest moment produsele sunt in stoc furnizor si estimam livrarea in termen de 10 zile de la comanda ferma. Am acordat pentru aceasta oferta
+
+ZjQcmQRYFpfptBannerStart
+
+This Message Is From an External Sender
+
+This message came from outside your organization.
+
+ZjQcmQRYFpfptBannerEnd
+
+Buna dimineata doamna Frimu,
+
+Va rog sa regasiti anexata oferta de pret pentru clapetii solicitati.
+
+La acest moment produsele sunt in stoc furnizor si estimam livrarea in termen de 10 zile de la comanda ferma.
+
+Am acordat pentru aceasta oferta si discountul de 3% negociat in ianuarie pentru produse similare.
+
+Asteptam feedback-ul dumneavoastra!
+
+O zi cu spor!
+
+From: Frimu, Olga olga.frimu@ecolab.com
+Sent: Monday, June 22, 2026 2:58 PM
+To: AKRO Romania , Alexandru Soare alexandru.soare@akro.ro
+Cc: Durla, Mircea-Teodor mircea.durla@ecolab.com; Spanu, Alexandru alexandru.spanu@ecolab.com; Zaharia, Catalin Viorel catalin.zaharia@ecolab.com; Filip, Sebastian sebastian.filip@ecolab.com
+Subject: Solicitare ofertă de
+[ATAȘAMENT: Situatie facturi - Purolite - 05.08.2026.png | imagine]
+[ATAȘAMENT: AKF 260372.pdf | text extras]
+
+--- MESAJ m2109092 | 2026-08-05 14:26 | Inbox | EXTERN
+De la: Bota, Laura <laura.bota@ecolab.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: ovidiu.sglimbea@ecolab.com, mircea.durla@ecolab.com, catalin.zaharia@ecolab.com, alexandru.spanu@ecolab.com, olga.frimu@ecolab.com, sebastian.filip@ecolab.com, office@akro.ro, raluca.birsan@ecolab.com
+Subiect: RE: Solicitare ofertă de preț - Clapete de sens inox/ PO 1396-25.06.2026.
+Buna ziua,
+
+Conform email atasat, termenul de plata agreat este 30 de zile EOM+1.
+
+Asta inseamna ca factura emisa in 13.07. va fi scadenta in data de 01.09., iar factura care a fost emisa in 26.06.a fost scadenta in data de 01.08.
+
+In cazul in care factura din iunie nu a fost inca achitata, plata acesteia se va efectua maine.
+
+Daca aveti nevoie de informatii suplimentare sau aveti alte nelamuriri, va rog sa ma contactati.
+
+Multumesc.
+
+Purolite offices will be closed on Friday, August 14th in observance of St. Mary’s Day (August 15th)
+
+Laura Bota
+(she/her)
+
+Purchasing Team leader
+
+Purolite™ Resins
+
+Str Aleea Uzinei nr.11
+
+505700 Victoria, jud. Brasov, ROMANIA
+
+T 0040 268 243004 to 243010
+M 0040 755 016 777
+
+E
+laura.bota@ecolab.com
+
+Connect With Us
+
+Facebook
+|
+LinkedIn
+|
+YouTube
+[ATAȘAMENT: atașament 5 | fără extensie]
+[ATAȘAMENT: Situatie facturi - Purolite - 05.08.2026.png | imagine]
+
+--- MESAJ m2146948 | 2026-08-10 09:47 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Bota, Laura <laura.bota@ecolab.com>
+Cc: ovidiu.sglimbea@ecolab.com, mircea.durla@ecolab.com, catalin.zaharia@ecolab.com, alexandru.spanu@ecolab.com, olga.frimu@ecolab.com, sebastian.filip@ecolab.com, office@akro.ro, raluca.birsan@ecolab.com
+Subiect: RE: Solicitare ofertă de preț - Clapete de sens inox/ PO 1396-25.06.2026.
+Buna ziua,
+
+Va multumim pentru clarificare! Este vorba despre factura emisa in Iunie [26.06.2026], aceasta si astazi apare ca fiind neincasata.
+
+Oare ne puteti transmite data la care se va solutiona cu aceasta?
+
+Asteptam raspunsul dumneavoastra.
+
+Numai bine,
+[ATAȘAMENT: Situatie facturi - Purolite - 05.08.2026.png | imagine]
+
+--- MESAJ m2110980 | 2026-08-10 11:58 | Inbox | EXTERN
+De la: Bota, Laura <laura.bota@ecolab.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: ovidiu.sglimbea@ecolab.com, mircea.durla@ecolab.com, catalin.zaharia@ecolab.com, alexandru.spanu@ecolab.com, olga.frimu@ecolab.com, sebastian.filip@ecolab.com, office@akro.ro, raluca.birsan@ecolab.com
+Subiect: RE: Solicitare ofertă de preț - Clapete de sens inox/ PO 1396-25.06.2026.
+Buna ziua,
+
+Colegii de la Financiar mi-au spus ca plata se face astazi.
+
+Multumesc, o zi buna,
+
+Purolite offices will be closed on Friday, August 14th in observance of St. Mary’s Day (August 15th)
+
+Laura Bota
+(she/her)
+
+Purchasing Team leader
+
+Purolite™ Resins
+
+Str Aleea Uzinei nr.11
+
+505700 Victoria, jud. Brasov, ROMANIA
+
+T 0040 268 243004 to 243010
+M 0040 755 016 777
+
+E
+laura.bota@ecolab.com
+
+Connect With Us
+
+Facebook
+|
+LinkedIn
+|
+YouTube
+
+####################################################################################################
+RÂND c2147300 (nr. 254) | stare: După vânzare | categorie: 23-Diverse materiale, consumabile | cerere: Contor Zenner DN100 cu modul EDC
+CERINȚA: -
+CERINȚĂ FINALĂ (tip echipament): Contor DN100 cu modul EDC, 1/100 [m2147300] «Anexata oferta la contor DN 100 cu modul EDC – 1/100.»
+CERINȚĂ FINALĂ (termen): Stoc european, livrare estimată în 5-7 zile [m2147300] «Produsul este in stoc European – estimam livrarea in 5-7 zile.»
+REZULTAT: acceptată — Clientul a comandat; AKRO trimite confirmarea S02655. [m2147460] «Va multumim pentru comanda! Va rog sa regasiti anexata confirmarea»
+PREȚURI Ofertă S02655 v1 (2026-08-11), total 3240.36 RON:
+  [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 Termen livrare: 10 zile | 1.0 buc × 2789.56 RON (reducere 4.0%) | referință
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12 luni de la livrare
+  termen: Condiții de plată: 30 de zile
+PREȚURI Confirmare de comandă S02655 v1 (2026-08-11), total 3240.36 RON:
+  [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 Termen livrare: 10 zile | 1.0 buc × 2789.56 RON (reducere 4.0%) | referință
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12 luni de la livrare
+  termen: Condiții de plată: 30 de zile
+
+====================================================================================================
+CONVERSAȚIA c2147300 (nr. 254) | subiect: Oferta Contor
+Partener (după adrese): iliepuscasu2007@yahoo.com Puscasu Ilie | grupare nesigură: nu
+OFERTĂ S02655 v1 trimisă 2026-08-11 09:54 în m2147300 (Odoo: Comandă de vânzare): [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 Termen livrare: 10 x1.0 buc
+OFERTĂ S02655 v1 trimisă 2026-08-11 11:36 în m2147460 (Odoo: Comandă de vânzare): [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 Termen livrare: 10 x1.0 buc
+
+--- MESAJ m2147300 | 2026-08-11 09:54 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Puscasu Ilie <iliepuscasu2007@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Oferta Contor
+Buna ziua Dl Puscasu,
+
+Anexata oferta la contor DN 100 cu modul EDC – 1/100.
+
+Produsul este in stoc European – estimam livrarea in 5-7 zile.
+
+Asteptam comanda!
+
+Cu respect,
+[ATAȘAMENT: Oferta - S02655 - ILIVAS COMSERV - 11.08.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2147460 | 2026-08-11 11:36 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Puscasu Ilie <iliepuscasu2007@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Oferta Contor
+Buna ziua Dl Puscasu,
+
+Va multumim pentru comanda!
+
+Va rog sa regasiti anexata confirmarea .
+
+Va anunt cand ajunge contorul.
+
+Cu respect,
+[ATAȘAMENT: Comanda - S02655 - ILIVAS COMSERV - 11.08.2026.pdf | ofertă Odoo, parsată mai sus]

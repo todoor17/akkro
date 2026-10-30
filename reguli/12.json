@@ -1,0 +1,786 @@
+[
+  {
+    "cod": "R12-01",
+    "titlu": "Antiscalant pentru osmoză: AKRO ofertează direct GEL ANTISCALANT RO1, bidon de 25 kg, din stoc",
+    "explicatie": "Când cineva cere antiscalant pentru o stație de osmoză inversă, fără să insiste pe altă marcă, AKRO nu pune întrebări și ofertează GEL ANTISCALANT RO1 în bidon de 25 kg. Antiscalantul se dozează înaintea osmozei ca să nu se depună calcar pe membrane. E singurul antiscalant pe care îl vinde AKRO și îl ține pe stoc. În două emailuri a promis livrarea în două sau trei zile, dar în ofertele scrise au apărut și termene de 5 sau 15 zile.",
+    "categorie": "12-Chimicale pentru conditionare si intretinere",
+    "cand": "Clientul cere antiscalant (agent antiscalant, antiincrustant) pentru o stație de osmoză inversă, cu sau fără cantitate, fără să impună o marcă anume.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "12-002026",
+          "rol": "singurul antiscalant comercializat de AKRO, prezentat ca antiscalant universal GEL RO (dozaj 2-5 ppm pe alimentarea osmozei)"
+        }
+      ],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "produsul e în stoc",
+        "în două emailuri termenul spus e de 2-3 zile de la comanda fermă"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2134404",
+        "src": "m2134404",
+        "citat": "Va trimitem anexata oferta de pret pentru antiscalantul universal GEL RO",
+        "pentru": "ofertă",
+        "nota": "cerere generală de antiscalant pentru o osmoză Vifra. AKRO ofertează direct GEL RO1, fără întrebări"
+      },
+      {
+        "conv": "c2134404",
+        "src": "m2134404",
+        "citat": "dozaj 2-5ppm antiscalant/ 1m3 de apa bruta – pe alimentarea osmozei",
+        "pentru": "ofertă",
+        "nota": "AKRO descrie produsul și dozajul pe alimentarea osmozei"
+      },
+      {
+        "conv": "c2135076",
+        "src": "m2135076",
+        "citat": "Va trimitem anexata oferta de pret pentru antiscalantul universal GEL RO",
+        "pentru": "ofertă",
+        "nota": "clientul cere doar «agent antiscalant». AKRO ofertează GEL RO1 din stoc"
+      },
+      {
+        "conv": "c2157380",
+        "src": "m2157380",
+        "citat": "Singurul antiscalant pe care il comercializam este antiscalantul GEL – RO1",
+        "pentru": "ofertă",
+        "nota": "clientul trimite un produs în atașament. AKRO răspunde cu singurul antiscalant din gamă"
+      },
+      {
+        "conv": "c2157380",
+        "src": "m2157380",
+        "citat": "putem livra in termen de 2-3 zile de la comanda dumneavoastra ferma",
+        "pentru": "ofertă",
+        "nota": "produs în stoc, termen 2-3 zile"
+      },
+      {
+        "conv": "c2162180",
+        "src": "m2162180",
+        "citat": "oferta de pret pentru antiscalantul universal GEL RO [ cantitate 500kg]",
+        "pentru": "ofertă",
+        "nota": "cerere SEAP de 500 kg antiscalant pentru osmoză. AKRO ofertează tot GEL RO1"
+      },
+      {
+        "conv": "c2163492",
+        "src": "m2163492",
+        "citat": "Singurul antiscalant pe care il comercializam este antiscalantul GEL – RO1",
+        "pentru": "ofertă",
+        "nota": "cerere de pe site pentru «Agent antiscalant RO1». Ofertat GEL RO1"
+      },
+      {
+        "conv": "c2163492",
+        "src": "m2163492",
+        "citat": "La acest moment avem produsul disponibil in stoc si putem livra in termen de 2-3 zile",
+        "pentru": "ofertă",
+        "nota": "același termen de 2-3 zile din stoc"
+      },
+      {
+        "conv": "c2158212",
+        "src": "m2158212",
+        "citat": "Va trimitem anexata oferta de pret pentru antiscalantul universal GEL RO 1",
+        "pentru": "ofertă",
+        "nota": "cerere de pe site pentru pompă și «Agent antiscalant RO1»: AKRO ofertează un bidon de GEL RO1 din stoc, fără întrebări"
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "În ofertele scrise termenul a fost altul: 15 zile pentru cele 20 de bidoane cerute de operatorul de apă din Brăila și 5 zile la oferta făcută împreună cu pompa APG.",
+        "dovezi": [
+          {
+            "conv": "c2162180",
+            "src": "m2162180",
+            "citat": "Termen livrare: 15 zile",
+            "pentru": "ofertă",
+            "nota": "termenul din oferta pentru 20 de bidoane, care are și comandă minimă de 20 de bidoane"
+          },
+          {
+            "conv": "c2158212",
+            "src": "m2158212",
+            "citat": "Termen livrare: 5 zile",
+            "pentru": "ofertă",
+            "nota": "termenul antiscalantului din oferta comună cu pompa"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R12-02",
+    "titlu": "Antiscalant: fișa de securitate și fișa tehnică SP0222 trimise odată cu oferta, din proprie inițiativă",
+    "explicatie": "Odată cu oferta pentru GEL ANTISCALANT RO1, AKRO atașează fișa tehnică a produsului și fișa de securitate, documentul care spune cum se manipulează și se depozitează chimicalul fără riscuri. Le trimite indiferent dacă clientul le-a cerut. Un client care voia doar fișa tehnică le-a primit pe amândouă. Fișa de securitate pleacă în română și engleză, iar fișa tehnică în engleză.",
+    "categorie": "12-Chimicale pentru conditionare si intretinere",
+    "cand": "AKRO trimite oferta pentru GEL ANTISCALANT RO1, indiferent dacă clientul a cerut sau nu documente.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "12-002026",
+          "rol": "produsul pentru care se atașează documentele"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișa de securitate GEL ANTISCALANT RO1 (Scheda di sicurezza N.SS 222, EN și RO)",
+        "fișa tehnică SP0222 (EN)"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2134404",
+        "src": "m2134404",
+        "citat": "Las anexata si fisa de securitate a produsului nostru.",
+        "pentru": "ofertă",
+        "nota": "fișa de securitate atașată fără să fie cerută"
+      },
+      {
+        "conv": "c2135076",
+        "src": "m2135076",
+        "citat": "Las anexata si fisa de securitate a produsului nostru.",
+        "pentru": "ofertă",
+        "nota": "clientul cere doar fișa tehnică. AKRO trimite și fișa de securitate"
+      },
+      {
+        "conv": "c2135076",
+        "src": "m2135076",
+        "citat": "Va rog deasemenea sa imi trimiteti si fisa tehnica a acestui produs",
+        "pentru": "cerere",
+        "nota": "clientul cere explicit doar fișa tehnică"
+      },
+      {
+        "conv": "c2157380",
+        "src": "m2157380",
+        "citat": "Va rog sa regasiti anexata oferta de pret si fisa de date pentru acesta.",
+        "pentru": "ofertă",
+        "nota": "oferta pleacă împreună cu fișa de date (securitate EN/RO și SP0222)"
+      },
+      {
+        "conv": "c2162180",
+        "src": "m2162180",
+        "citat": "Las anexata si fisa de securitate a produsului nostru.",
+        "pentru": "ofertă",
+        "nota": "și la cererea SEAP se atașează fișa de securitate"
+      },
+      {
+        "conv": "c2163492",
+        "src": "m2163492",
+        "citat": "Va rog sa regasiti anexata oferta de pret si fisa de date pentru acesta.",
+        "pentru": "ofertă",
+        "nota": "cerere de pe site fără mesaj. Fișa de date trimisă cu oferta"
+      },
+      {
+        "conv": "c2158212",
+        "src": "m2158212",
+        "citat": "Scheda di sicurezza N.SS 222 - GEL ANTISCALANT RO1",
+        "pentru": "ofertă",
+        "nota": "fișa de securitate și fișa tehnică SP0222 atașate și la oferta comună pentru pompă și antiscalant"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R12-03",
+    "titlu": "Antiscalant fără cantitate fermă: de obicei 2 bidoane cu reducere, iar la un singur bidon reducerea dispare",
+    "explicatie": "Dacă clientul nu spune câte bidoane de antiscalant vrea, AKRO ofertează de obicei două, cu o reducere. Clientul poate lua și un singur bidon, dar atunci reducerea dispare. Cine cere de la început un bidon îl primește fără reducere, cu mențiunea că ea se dă de la două bidoane. Procentul reducerii a variat de la o ofertă la alta. Au fost și excepții: la o cerere venită împreună cu o pompă, AKRO a ofertat direct un singur bidon.",
+    "categorie": "12-Chimicale pentru conditionare si intretinere",
+    "cand": "Clientul cere antiscalant fără să precizeze cantitatea sau cere un singur bidon.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "12-002026",
+          "rol": "ofertat de obicei în 2 bucăți (bidoane de 25 kg) cu reducere"
+        }
+      ],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "reducere doar de la minimum 2 bidoane, cu procent diferit de la o ofertă la alta",
+        "la 1 bidon cu transport asigurat de AKRO nu se mai acordă reducere"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2134404",
+        "src": "m2134404",
+        "citat": "Mă interesează și pe mine de la dumneavoastră o colaborare pentru Antiscalant",
+        "pentru": "cerere",
+        "nota": "cerere fără cantitate. Oferta are 2 bidoane cu reducere (vezi liniile ofertei)"
+      },
+      {
+        "conv": "c2135076",
+        "src": "m2135076",
+        "citat": "La comanda a minim 2 bidoane – se acorda si un discount general de 8 %",
+        "pentru": "ofertă",
+        "nota": "subiectul cererii este un bidon de 25 kg. AKRO ofertează un bidon fără reducere și anunță reducerea de 8% de la 2 bidoane"
+      },
+      {
+        "conv": "c2157380",
+        "src": "m2122532",
+        "citat": "Vad ca in oferta apar 2 buc, se poate achizitiona si numai 1 ?",
+        "pentru": "clarificare",
+        "nota": "oferta inițială propunea 2 bidoane, deși clientul nu dăduse cantitate"
+      },
+      {
+        "conv": "c2157380",
+        "src": "m2158596",
+        "citat": "Se poate comanda numai 1 bidon, insa nu mai putem acorda discountul de 6%",
+        "pentru": "ofertă",
+        "nota": "oferta revizuită pentru 1 bidon, fără reducere"
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "La cererea care a venit împreună cu pompa APG, clientul a întrebat de preț și ambalare fără să dea cantitatea, iar AKRO a ofertat un singur bidon, fără reducere.",
+        "dovezi": [
+          {
+            "conv": "c2158212",
+            "src": "m2158212",
+            "citat": "ambalare (bidon 20/25 kg) pentru Agent antiscalant RO1",
+            "pentru": "cerere",
+            "nota": "cerere fără cantitate. Oferta are un singur bidon, fără reducere (vezi liniile ofertei)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R12-04",
+    "titlu": "Antiscalant cerut în kg sau litri: cantitatea se transformă în bidoane de 25 kg",
+    "explicatie": "Antiscalantul se ofertează în bidoane de 25 kg, așa că atunci când clientul cere o cantitate în kilograme sau în litri, AKRO o transformă în bidoane. Așa, 500 kg au devenit 20 de bidoane, iar 40 de litri au devenit două bidoane.",
+    "categorie": "12-Chimicale pentru conditionare si intretinere",
+    "cand": "Clientul cere antiscalant exprimat în kilograme sau litri (de exemplu 500 kg, 40 litri).",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "12-002026",
+          "rol": "număr de bidoane de 25 kg echivalent cantității cerute (500 kg înseamnă 20 de bidoane, 40 l înseamnă 2 bidoane)"
+        }
+      ],
+      "servicii": [],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2162180",
+        "src": "m2162180",
+        "citat": "din instalatiile de osmoza inversa) – 500 kg",
+        "pentru": "cerere",
+        "nota": "500 kg cerute. Oferta are 20 bidoane de 25 kg (vezi liniile ofertei)"
+      },
+      {
+        "conv": "c2163492",
+        "src": "m2163492",
+        "citat": "Cantitate: 40 litri Companie: Her&stra cyprinus",
+        "pentru": "cerere",
+        "nota": "40 litri cerute pe site. Oferta are 2 bidoane de 25 kg"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R12-05",
+    "titlu": "Aviz sanitar cerut pentru antiscalant: AKRO explică că produsul nu are și nu are nevoie de aviz",
+    "explicatie": "După oferta de antiscalant, un operator de apă potabilă a cerut și avizul sanitar al produsului, adică autorizația Ministerului Sănătății pentru produsele care ajung în apa de băut. AKRO a explicat că antiscalantul nu are aviz pentru că nu se adaugă în apa de băut. El rămâne în membranele osmozei și pleacă la canal cu apa evacuată.",
+    "categorie": "12-Chimicale pentru conditionare si intretinere",
+    "cand": "După oferta de antiscalant, clientul, un operator de apă potabilă, cere avizul sanitar al produsului.",
+    "clarificari": [
+      "Clientul cere avizul sanitar valabil, iar AKRO răspunde că antiscalantul nu se dozează în apa de băut și ajunge în apa evacuată la canal de osmoză."
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "12-002026",
+          "rol": "antiscalantul ofertat, fără aviz sanitar"
+        }
+      ],
+      "servicii": [],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2162180",
+        "src": "m2127652",
+        "citat": "Va rog transmiteti si avizul sanitar valabil in termen pentru produsul ofertat.",
+        "pentru": "clarificare",
+        "nota": "operatorul de apă cere avizul sanitar"
+      },
+      {
+        "conv": "c2162180",
+        "src": "m2162468",
+        "citat": "Antiscalantii nu se dozeaza ca aditivi la apa de baut!",
+        "pentru": "clarificare",
+        "nota": "AKRO explică de ce antiscalantul nu are aviz sanitar"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R12-06",
+    "titlu": "Sare tablete pentru dedurizare: comandă confirmată fără ofertă prealabilă, apoi încărcare din carieră și anunțarea livrării",
+    "explicatie": "Un client care cumpără des sare pentru dedurizare, adică pentru scoaterea calcarului din apă, trimite direct comanda fermă, pe palet sau pe număr de saci. AKRO răspunde cu confirmarea de comandă, fără ofertă înainte, uneori după ce lămurește cantitatea. Sarea tablete, în saci de 25 kg, se încarcă din carieră, iar AKRO anunță clientul când paletul a fost încărcat. În două cazuri l-a trimis prin Pallex.",
+    "categorie": "12-Chimicale pentru conditionare si intretinere",
+    "cand": "Un client care cumpără des trimite comandă fermă de sare pentru dedurizare (un palet sau un număr de saci).",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "12-002006",
+          "rol": "Sare tablete AKRO 25 kg, în saci"
+        }
+      ],
+      "servicii": [
+        "livrare în sarcina AKRO, cu paletul încărcat din carieră (în două conversații prin Pallex)"
+      ],
+      "documente": [
+        "confirmarea de comandă din Odoo",
+        "avizul de expediție la încărcare și, o dată, documentele de transport Pallex"
+      ],
+      "conditii": [
+        "clientul e anunțat când sarea e încărcată din carieră"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2105156",
+        "src": "m2141476",
+        "citat": "Va anunt de indata ce am incarcat marfa din cariera.",
+        "pentru": "ofertă",
+        "nota": "confirmări de comandă trimise, livrarea depinde de încărcarea din carieră"
+      },
+      {
+        "conv": "c2111044",
+        "src": "m2147140",
+        "citat": "Va anunt de indata ce am ok-ul de incarcare din cariera de sare.",
+        "pentru": "ofertă",
+        "nota": "comandă fermă de un palet, confirmare trimisă în aceeași zi"
+      },
+      {
+        "conv": "c2111044",
+        "src": "m2147268",
+        "citat": "Platforma pallex estimeaza livrarea la dumneavoastra cel tarziu in data de 14.08.2026",
+        "pentru": "ofertă",
+        "nota": "livrare prin Pallex"
+      },
+      {
+        "conv": "c2125668",
+        "src": "m2160324",
+        "citat": "Te rog sa regasesti anexate cele doua confirmari de comanda.",
+        "pentru": "ofertă",
+        "nota": "comanda de sare confirmată direct, fără ofertă prealabilă"
+      },
+      {
+        "conv": "c2130436",
+        "src": "m2165252",
+        "citat": "Revin de indata ce am incarcat paletul din cariera.",
+        "pentru": "ofertă",
+        "nota": "comandă fermă de un palet. Confirmare și anunț după încărcare"
+      },
+      {
+        "conv": "c2130436",
+        "src": "m2165540",
+        "citat": "Produsele se vor livra la dumneavoastra in acest caz luni sau cel tarziu marti prin Pallex.",
+        "pentru": "ofertă",
+        "nota": "livrare prin Pallex"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R12-07",
+    "titlu": "Sare pentru dedurizare: cantitatea se confirmă în paleți întregi de 40 de saci",
+    "explicatie": "AKRO confirmă sarea pentru dedurizare în paleți întregi, de câte 40 de saci. Dacă clientul cere un număr de saci care nu umple paleții, AKRO propune cantitatea rotunjită. Un client a cerut 115 saci și i s-au confirmat 120, adică trei paleți.",
+    "categorie": "12-Chimicale pentru conditionare si intretinere",
+    "cand": "Clientul comandă sare în paleți sau într-un număr de saci care nu face paleți întregi.",
+    "clarificari": [
+      "Dacă numărul de saci nu face paleți întregi, AKRO propune cantitatea rotunjită la paleți (de exemplu 115 saci ceruți devin 120 de saci, adică 3 paleți)."
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "12-002006",
+          "rol": "40 de saci de 25 kg pe palet"
+        }
+      ],
+      "servicii": [],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2105156",
+        "src": "m2141348",
+        "citat": "Voi putea confirma comanda pentru 120 de saci [ 3 paleti intregi]",
+        "pentru": "clarificare",
+        "nota": "clientul cere 115 saci. AKRO confirmă 120 (3 paleți)"
+      },
+      {
+        "conv": "c2111044",
+        "src": "m2111044",
+        "citat": "Prin prezenta aveti comanda ferma de un palet de sare dedurizare",
+        "pentru": "cerere",
+        "nota": "un palet cerut. Confirmarea are 40 de saci (vezi liniile)"
+      },
+      {
+        "conv": "c2125668",
+        "src": "m2125668",
+        "citat": "Confirm comanda pentru 120 saci",
+        "pentru": "cerere",
+        "nota": "clientul comandă direct 3 paleți (120 saci)"
+      },
+      {
+        "conv": "c2130436",
+        "src": "m2130436",
+        "citat": "Prin prezenta aveti comanda ferma de un palet de sare dedurizare",
+        "pentru": "cerere",
+        "nota": "un palet cerut. Confirmarea are 40 de saci"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R12-08",
+    "titlu": "Sare cu facturare împărțită pe luni: câte o confirmare de comandă pentru fiecare lună",
+    "explicatie": "Clientul care vrea sarea facturată pe două luni primește câte o confirmare de comandă separată pentru fiecare lună, de exemplu 60 de saci într-o lună și 60 în următoarea. Când clientul a dat de la început împărțirea, AKRO a făcut direct cele două confirmări. Când cantitatea s-a schimbat, de la 115 la 120 de saci, AKRO a întrebat din nou cât intră pe fiecare lună.",
+    "categorie": "12-Chimicale pentru conditionare si intretinere",
+    "cand": "Clientul comandă sare și cere facturarea eșalonată pe două luni.",
+    "clarificari": [
+      "În ce cantități se facturează fiecare lună? (întrebat când cantitatea confirmată diferă de cea cerută)"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "12-002006",
+          "rol": "împărțit în două confirmări de comandă egale, de câte 60 de saci"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "două confirmări de comandă separate, câte una pe lună"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2105156",
+        "src": "m2141348",
+        "citat": "te rog sa imi transmiti in ce cantitati se doresc a se factura /fiecare luna",
+        "pentru": "clarificare",
+        "nota": "după rotunjirea la 120 de saci, AKRO întreabă împărțirea pe luni"
+      },
+      {
+        "conv": "c2105156",
+        "src": "m2141476",
+        "citat": "Trimit anexate cele doua confirmari de comanda:",
+        "pentru": "ofertă",
+        "nota": "60 saci pe iulie și 60 pe august, în două confirmări"
+      },
+      {
+        "conv": "c2125668",
+        "src": "m2125668",
+        "citat": "Factura septembrie- 60saci Factura octombrie- 60saci",
+        "pentru": "cerere",
+        "nota": "clientul dă de la început împărțirea pe septembrie și octombrie"
+      },
+      {
+        "conv": "c2125668",
+        "src": "m2160324",
+        "citat": "Te rog sa regasesti anexate cele doua confirmari de comanda.",
+        "pentru": "ofertă",
+        "nota": "două confirmări, câte una pe lună"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R12-09",
+    "titlu": "Chimicale în afara gamei: AKRO răspunde că nu le comercializează și nu face propunere",
+    "explicatie": "La cereri de reactivi pentru stații de tratare sau de soluții de curățare și dezinfectare, AKRO răspunde că nu are astfel de produse și nu face propunere. Unui client i-a spus că, din chimicale, vinde doar antiscalant pentru osmoză, adică produsul care împiedică depunerile pe membrane. Unei persoane fizice i-a mai scris că lucrează mai ales cu instalații industriale. Când în lista de reactivi era și cărbune activ granular, AKRO l-a putut oferta după ce clientul a întrebat.",
+    "categorie": "12-Chimicale pentru conditionare si intretinere",
+    "cand": "Clientul cere reactivi, soluții de curățare sau de dezinfectare ori alte chimicale generice, care nu sunt antiscalant sau dezincrustant și nu vin ca produs de marcă pentru care să se caute un echivalent.",
+    "clarificari": [
+      "AKRO precizează că nu comercializează astfel de chimicale (într-un caz, că vinde doar antiscalanți pentru osmoză), deci nu face propunere."
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2151748",
+        "src": "m2151748",
+        "citat": "Din pacate nu avem disponibile in portofoliu produse de tipul solutii/chimicale",
+        "pentru": "clarificare",
+        "nota": "soluție de curățare sau hipoclorit pentru o osmoză casnică: refuz"
+      },
+      {
+        "conv": "c2132708",
+        "src": "m2167108",
+        "citat": "Firma AKRO din pacate nu furnizeaza si reactive/ chimicale – altceva in afara de antiscalanti pentru sistemele de osmoza.",
+        "pentru": "clarificare",
+        "nota": "reactivi pentru stații de tratare: refuz, AKRO vinde doar antiscalanți pentru osmoză"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R12-10",
+    "titlu": "Pompă de spălare chimică scoasă din gamă: AKRO oferă în text doar dezincrustantul BOILER CLEANER pulbere 10 kg",
+    "explicatie": "Un client a cerut de pe site pompa de spălare chimică PROMAX 20, care nu mai face parte din gama AKRO. În locul ei, AKRO a propus direct în textul emailului dezincrustantul BOILER CLEANER pulbere, adică o soluție care curăță depunerile de calcar, la găleată de 10 kg, cu link spre pagina produsului. Nu a trimis o ofertă separată.",
+    "categorie": "12-Chimicale pentru conditionare si intretinere",
+    "cand": "Clientul cere de pe site pompa de spălare chimică PROMAX 20, care nu mai e în portofoliu.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "12-002011",
+          "rol": "dezincrustantul BOILER CLEANER pulbere, găleată de 10 kg, oferit în textul emailului în locul pompei"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "link către pagina produsului de pe akro.ro"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2142852",
+        "src": "m2142852",
+        "citat": "Din pacate produsul la care faceti referire nu mai face parte din portofoliul de produse AKRO.",
+        "pentru": "ofertă",
+        "nota": "pompa PROMAX 20 nu mai e în gamă"
+      },
+      {
+        "conv": "c2142852",
+        "src": "m2142852",
+        "citat": "BOILER CLEANER Pulbere – galeata de 10 kg - cost 570 lei fara TVA",
+        "pentru": "ofertă",
+        "nota": "ofertă în text pentru dezincrustant, fără ofertă Odoo"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R12-11",
+    "titlu": "Chimical echivalent cu marca altui furnizor: AKRO întreabă consumul anual și verifică echivalarea la producătorul GEL",
+    "explicatie": "Când clientul vrea un echivalent pentru un chimical de altă marcă, cum a fost un biocid (substanță care omoară bacteriile) sau un antiscalant Veolia, AKRO nu ofertează pe loc. Întreabă consumul estimat pe an și, după caz, cum cumpără clientul sau ce preț pe kilogram așteaptă, apoi verifică echivalarea la GEL, producătorul italian. Pentru biocid producătorul nu a avut echivalent. Pentru antiscalant AKRO a propus GEL RO 1, dar prețul cerut nu putea fi atins, așa că nu a mai trimis ofertă.",
+    "categorie": "12-Chimicale pentru conditionare si intretinere",
+    "cand": "Clientul cere un echivalent pentru un chimical de altă marcă (biocidul Vinkocide DBNPA 20, antiscalantul Veolia MDC 704I sau SUPERCHEM A11).",
+    "clarificari": [
+      "Care este consumul estimat pe an?",
+      "Cum se face achiziția (canistre mici sau cuburi)?",
+      "Care este costul pe kilogram așteptat pentru produsul echivalent?"
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [
+        "fișa de date a echivalentului propus (GEL RO 1 pentru antiscalant)"
+      ],
+      "conditii": [
+        "produsul echivalent se face pe comandă la furnizorul de chimicale, minim 1 palet"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2123044",
+        "src": "m2158916",
+        "citat": "Trebuie sa fac o intrebare la producatorul Italian GEL pentru o echivalare.",
+        "pentru": "clarificare",
+        "nota": "AKRO verifică la producător echivalentul biocidului"
+      },
+      {
+        "conv": "c2123044",
+        "src": "m2158916",
+        "citat": "Imi puteti transmite si un consum estimat pe /an pentru acest reper?",
+        "pentru": "clarificare",
+        "nota": "întrebare despre consumul anual"
+      },
+      {
+        "conv": "c2125988",
+        "src": "m2160900",
+        "citat": "Ne puteti transmite si care este consumul estimat pe an pentru antiscalantul solicitat?",
+        "pentru": "clarificare",
+        "nota": "aceeași întrebare la antiscalantul echivalent Veolia"
+      },
+      {
+        "conv": "c2125988",
+        "src": "m2160900",
+        "citat": "Care este costul/kg solutie pe care il asteptati pentru produsul echivalent?",
+        "pentru": "clarificare",
+        "nota": "AKRO cere prețul țintă"
+      },
+      {
+        "conv": "c2125988",
+        "src": "m2160900",
+        "citat": "Furnizorul nostru de chimicale il poate produce pe comanda, insa putem onora comanda numai pentru minim 1 palet.",
+        "pentru": "clarificare",
+        "nota": "produs la comandă, minim 1 palet"
+      },
+      {
+        "conv": "c2123044",
+        "src": "m2159428",
+        "citat": "Din pacate nu avem un produs echivalent Vinkocide DBNPA 20.",
+        "pentru": "clarificare",
+        "nota": "răspunsul negativ, cu explicația producătorului"
+      },
+      {
+        "conv": "c2125988",
+        "src": "m2163172",
+        "citat": "echivalentul nostru pentru acest antiscalant este GEL RO 1",
+        "pentru": "clarificare",
+        "nota": "AKRO propune GEL RO 1, dar spune că prețul cerut nu poate fi atins"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R12-12",
+    "titlu": "Chimical adus doar la comandă (GELPHOS L): termen, cantitate minimă și preț cerute producătorului, ofertă la minimul de producție",
+    "explicatie": "Unele chimicale, cum e GELPHOS L, AKRO nu le ține pe stoc. Înainte de ofertă cere producătorului termenul, cantitatea minimă de producție și prețul la zi. Dacă clientul cere mai puțin decât minimul, oferta urcă la minim, cum s-a întâmplat când 10 bidoane au devenit 12. Pentru un palet întreg AKRO a promis o reducere, iar termenul estimat a fost de două până la patru săptămâni.",
+    "categorie": "12-Chimicale pentru conditionare si intretinere",
+    "cand": "Clientul cere un chimical pe care AKRO nu îl ține în stoc și îl aduce la comandă de la producător (de exemplu GELPHOS L 25 kg).",
+    "clarificari": [
+      "AKRO cere producătorului termenul de livrare, cantitatea minimă de producție și prețul actualizat înainte de ofertă."
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "12-002023",
+          "rol": "GELPHOS L 25 kg, ofertat la minimul de producție (12 bidoane)"
+        },
+        {
+          "ref": "16-003006",
+          "rol": "linia «Transport marfa» din ofertă, fără preț"
+        }
+      ],
+      "servicii": [
+        "transportul adăugat ca linie separată în ofertă"
+      ],
+      "documente": [],
+      "conditii": [
+        "cantitatea crește la minimul acceptat de producător",
+        "reducere 10% pentru palet întreg (40 bucăți)",
+        "termen estimat 2-4 săptămâni",
+        "plată la 30 de zile"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2153156",
+        "src": "m2153156",
+        "citat": "Din pacate pe stoc nu tinem acest produs.",
+        "pentru": "clarificare",
+        "nota": "produsul nu e în stoc"
+      },
+      {
+        "conv": "c2153156",
+        "src": "m2153156",
+        "citat": "cantitatatea minima pentru a putea fi data in productie si un cost actualizat",
+        "pentru": "clarificare",
+        "nota": "AKRO cere producătorului cantitatea minimă și prețul"
+      },
+      {
+        "conv": "c2153156",
+        "src": "m2153284",
+        "citat": "Aceasta este minimul de bucati pe care producatorul il poate accepta in productie.",
+        "pentru": "ofertă",
+        "nota": "10 bidoane cerute, 12 ofertate"
+      },
+      {
+        "conv": "c2153156",
+        "src": "m2153284",
+        "citat": "daca se poate comanda palet intreg [ 40 bucati] – putem acorda si un discount de 10% la comanda",
+        "pentru": "ofertă",
+        "nota": "reducere pentru palet întreg"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R12-13",
+    "titlu": "Tratarea apei din turnuri de răcire: AKRO nu face propunere, poate oferi doar pretratarea apei de adaos",
+    "explicatie": "Când clientul cere analiza și tratarea chimică a apei din turnurile de răcire, AKRO nu face propunere. Explică faptul că la astfel de instalații tratamentul îl recomandă furnizorii de chimicale. Poate oferi doar pretratarea apei de adaos, adică apa care se adaugă în circuit, aleasă după calitatea apei de la sursă și după ce se cere apei de adaos.",
+    "categorie": "12-Chimicale pentru conditionare si intretinere",
+    "cand": "Clientul cere analiza și tratarea (chimică) a apei din turnuri de răcire.",
+    "clarificari": [
+      "AKRO explică că la turnurile de răcire furnizorul de chimicale recomandă tratamentul și că poate furniza doar pretratarea apei de completare, aleasă după calitatea apei primare și specificația apei de adaos."
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2156036",
+        "src": "m2156036",
+        "citat": "In special in acest tip de instalatie furnizorii de chimicale sunt cei care recomanda tratamentele",
+        "pentru": "clarificare",
+        "nota": "AKRO declină tratarea turnurilor de răcire"
+      },
+      {
+        "conv": "c2156036",
+        "src": "m2156036",
+        "citat": "In cazul in care nu exista, putem furniza pretratarea apelor de completare",
+        "pentru": "clarificare",
+        "nota": "rămâne posibilă doar pretratarea apei de adaos"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R12-14",
+    "titlu": "Cărbune activ granular (CAG) cerut alături de reactivi: AKRO întreabă tipul, numărul de iod, avizul sanitar, cantitatea și ambalarea",
+    "explicatie": "La o cerere de cărbune activ granular pentru stații de tratare, venită fără specificații, AKRO întreabă întâi detaliile. Vrea să știe dacă e de origine bituminoasă sau din coajă de nucă de cocos și dacă există fișă tehnică, mai ales numărul de iod (cât poate reține cărbunele). Mai întreabă dacă avizul sanitar trebuie să fie din România, ce cantitate și ambalare se dorește și în câte locuri se descarcă.",
+    "categorie": "12-Chimicale pentru conditionare si intretinere",
+    "cand": "Clientul cere cărbune activ granular (CAG/GAC) pentru stații de tratare, fără specificații.",
+    "clarificari": [
+      "Ce tip de cărbune activ granular: origine bituminoasă sau coajă de nucă de cocos?",
+      "Există fișă tehnică pentru cărbunele căutat (în special numărul de iod)?",
+      "Se cere aviz sanitar de la MS România sau se acceptă unul emis de o țară UE?",
+      "Ce cantitate și ce ambalare: big bag de 500 kg sau saci de 20 kg?",
+      "Sunt mai multe locații de descărcare sau una singură?"
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2132708",
+        "src": "m2167140",
+        "citat": "Ce tip de carbune activ granular se doreste? Origine bituminoasa sau coaja de nuca de cocos?",
+        "pentru": "clarificare",
+        "nota": "tipul cărbunelui"
+      },
+      {
+        "conv": "c2132708",
+        "src": "m2167140",
+        "citat": "Aveti o fisa tehnica pentru carbunele cautat? [ ne intereseaza in special numarul de iod]",
+        "pentru": "clarificare",
+        "nota": "fișa tehnică și numărul de iod"
+      },
+      {
+        "conv": "c2132708",
+        "src": "m2167140",
+        "citat": "cum se doreste livrarea la beneficiar – big bag de 500kg sau la saci individuali de 20 kg",
+        "pentru": "clarificare",
+        "nota": "cantitate și ambalare"
+      }
+    ],
+    "contradictii": []
+  }
+]

@@ -1,0 +1,564 @@
+[
+ {
+  "conv": "c2132708",
+  "tip": "client",
+  "client": {
+   "text": "Dimex 2000 Company",
+   "src": "m2132708",
+   "citat": "Manager financiar Dimex 2000 Company"
+  },
+  "descriere": null,
+  "cereri": [
+   {
+    "titlu": "Reactivi chimici pentru stații de tratare",
+    "categorie": "12-Chimicale pentru conditionare si intretinere",
+    "cerinta": {
+     "text": "Cere ofertă pentru reactivi (acid hidrocloric, dioxid de clor, acid clorhidric, BOPAC/MOPAC) pentru stații de tratare din jud. Alba.",
+     "src": "m2132708",
+     "citat": "am rugamintea de a ne comunica oferta de pret pentru urmatorii reactivi, pentru obiectivul Statii tratare in jud. Alba"
+    },
+    "cerinte_finale": [
+     {
+      "camp": "aplicație",
+      "text": "Obiectivul Stații tratare în jud. Alba",
+      "src": "m2132708",
+      "citat": "pentru obiectivul Statii tratare in jud. Alba"
+     }
+    ],
+    "clarificari": [],
+    "telefon": [],
+    "fisa_securitate": [],
+    "oferte": [],
+    "oferta_in_text": [],
+    "rezultat": {
+     "valoare": "AKRO nu a ofertat",
+     "text": "AKRO nu furnizează reactivi/chimicale în afară de antiscalanți, deci nu poate oferta.",
+     "src": "m2167108",
+     "citat": "Prin urmare pentru solicitarea dumneavoastra, nu va putem prezenta o propunere tehnica si comerciala!"
+    }
+   },
+   {
+    "titlu": "Cărbune activ granular (CAG)",
+    "categorie": "14-Componente pentru filtre multistrat",
+    "cerinta": {
+     "text": "Cere ofertă și pentru CAG, împreună cu ceilalți reactivi, pentru stații de tratare din jud. Alba.",
+     "src": "m2132708",
+     "citat": "am rugamintea de a ne comunica oferta de pret pentru urmatorii reactivi, pentru obiectivul Statii tratare in jud. Alba"
+    },
+    "cerinte_finale": [
+     {
+      "camp": "aplicație",
+      "text": "Obiectivul Stații tratare în jud. Alba",
+      "src": "m2132708",
+      "citat": "pentru obiectivul Statii tratare in jud. Alba"
+     }
+    ],
+    "clarificari": [
+     {
+      "intrebare": {
+       "text": "Clientul întreabă dacă AKRO nu poate oferta nici CAG.",
+       "src": "m2132740",
+       "citat": "Buna ziua, nici CAG?"
+      },
+      "raspuns": {
+       "text": "AKRO poate oferta GAC, dar are nevoie de detalii.",
+       "src": "m2167140",
+       "citat": "GAC am putea oferta, insa avem nevoie sa stim:"
+      },
+      "schimbare": "Cererea se restrânge la cărbune activ granular, singurul produs pe care AKRO îl poate oferta."
+     },
+     {
+      "intrebare": {
+       "text": "AKRO întreabă tipul cărbunelui (bituminos sau coajă de cocos), fișa tehnică (număr de iod), avizul sanitar, cantitatea, ambalarea (big bag 500 kg sau saci 20 kg) și locațiile de descărcare.",
+       "src": "m2167140",
+       "citat": "Ce tip de carbune activ granular se doreste? Origine bituminoasa sau coaja de nuca de cocos?"
+      },
+      "raspuns": null,
+      "schimbare": "Nicio precizare primită în conversație."
+     }
+    ],
+    "telefon": [],
+    "fisa_securitate": [],
+    "oferte": [],
+    "oferta_in_text": [],
+    "rezultat": {
+     "valoare": "necunoscut",
+     "text": null,
+     "src": null,
+     "citat": null
+    }
+   }
+  ]
+ },
+ {
+  "conv": "c2167204",
+  "tip": "furnizor",
+  "client": {
+   "text": "Eco Fusion Development",
+   "src": null,
+   "citat": null
+  },
+  "descriere": {
+   "text": "AKRO comandă către Eco Fusion Development un panou de automatizare pentru închiderea circuitului de apă în funcție de nivelul din bazin (vană DN100, cablu senzor 30-40 m) pentru TMK Artrom și cere un cost.",
+   "src": "m2167204",
+   "citat": "Un panou de automatizare – inchidere circuit hidraulic – in functie de senzor de nivel"
+  },
+  "cereri": []
+ },
+ {
+  "conv": "c2132900",
+  "tip": "furnizor",
+  "client": {
+   "text": "Euro-Clear Kft.",
+   "src": "m2132900",
+   "citat": "Operations and procurement coordinator Euro-Clear Kft."
+  },
+  "descriere": {
+   "text": "Euro-Clear trimite cotația S01492 pentru lămpi UV de schimb (3x S950RL-HO, 1x S410RL-HO); AKRO renunță la S410RL-HO care nu e în stoc și confirmă livrarea celor 3 lămpi.",
+   "src": "m2167236",
+   "citat": "please remove it from this order and proceed with the preparing and delivery of the 3 UV lamps S950RL-HO"
+  },
+  "cereri": []
+ },
+ {
+  "conv": "c2132932",
+  "tip": "client",
+  "client": {
+   "text": "ACTIVITATEA GOSCOM SA, Orăștie",
+   "src": "m2132932",
+   "citat": "Sef Laborator ACTIVITATEA GOSCOM SA, Orastie"
+  },
+  "descriere": null,
+  "cereri": [
+   {
+    "titlu": "4 pompe dozatoare solenoidale TPG 603 digitale",
+    "categorie": "11-Pompe de dozare",
+    "cerinta": {
+     "text": "Cere ofertă pentru 4 pompe dozatoare solenoidale TPG 603 digitale, ca cele cumpărate anterior.",
+     "src": "m2132932",
+     "citat": "Pompa dozatoare solenoida tpg 603, digitala ( cum am mai luat)"
+    },
+    "cerinte_finale": [
+     {
+      "camp": "tip echipament",
+      "text": "Pompă dozatoare solenoidală TPG 603, digitală (ca cea cumpărată anterior)",
+      "src": "m2132932",
+      "citat": "Pompa dozatoare solenoida tpg 603, digitala ( cum am mai luat)"
+     },
+     {
+      "camp": "cantitate",
+      "text": "4 bucăți",
+      "src": "m2167300",
+      "citat": "oferta de pret pentru cele 4 pompe de dozare solicitate"
+     }
+    ],
+    "clarificari": [],
+    "telefon": [],
+    "fisa_securitate": [],
+    "oferte": [
+     "S02950"
+    ],
+    "oferta_in_text": [],
+    "rezultat": {
+     "valoare": "necunoscut",
+     "text": null,
+     "src": null,
+     "citat": null
+    }
+   }
+  ]
+ },
+ {
+  "conv": "c2133028",
+  "tip": "client",
+  "client": {
+   "text": "Swietelsky Construct SRL",
+   "src": "m2133028",
+   "citat": "Swietelsky Construct SRL Str.Tipografilor nr.11-15· 013714 Bucuresti, RO"
+  },
+  "descriere": null,
+  "cereri": [
+   {
+    "titlu": "Stație de reclorinare pentru licitația CL13",
+    "categorie": "11-Pompe de dozare",
+    "cerinta": {
+     "text": "Cere ofertă tehnică și de preț pentru stații de reclorinare, pentru licitația CL 13 (sistemul zonal Fundulea - Zona 2).",
+     "src": "m2133028",
+     "citat": "va rog sa imi transmiteti o oferta de pret si tehnica pentru statii de reclorinare si grupuri de pompare"
+    },
+    "cerinte_finale": [
+     {
+      "camp": "aplicație",
+      "text": "Stație reclorinare Lehliu Gară pentru Buzoieni (obiect GA-3-2.03)",
+      "src": "m2133028",
+      "citat": "Obiect GA-3-2.03 – „Statie reclorinare Lehliu Gara pentru Buzoieni”"
+     },
+     {
+      "camp": "tip echipament",
+      "text": "Reclorinare cu hipoclorit, doze 0,5-2,5 mg/L, timp de contact 30 min",
+      "src": "m2133028",
+      "citat": "dezinfectie cu clor, doze de 0,5-2,5 mg/L, timp de 30 min"
+     },
+     {
+      "camp": "calitate apă",
+      "text": "Clor rezidual liber de maxim 0,5 mg/L la ieșirea din gospodărie",
+      "src": "m2133028",
+      "citat": "concentratiei de clor rezidual liber de maxim 0,5 mg/L la iesirea din gospodarie"
+     },
+     {
+      "camp": "altele",
+      "text": "Container cu încălzire, ventilație, iluminat și transmisie de date la distanță",
+      "src": "m2133028",
+      "citat": "container pentru statia de reclorinare (inst. de incalzire, ventilatie mecanica si iluminat"
+     },
+     {
+      "camp": "altele",
+      "text": "Instalații hidraulice și electrice, inclusiv implementare SCADA",
+      "src": "m2133028",
+      "citat": "instalatii hidraulice si electrice, inclusi implementare SCADA"
+     },
+     {
+      "camp": "altele",
+      "text": "Traductoare pentru măsurarea clorului rezidual",
+      "src": "m2133028",
+      "citat": "traductoare pentru masurare concentratie de clor rezidual in apa"
+     }
+    ],
+    "clarificari": [],
+    "telefon": [],
+    "fisa_securitate": [],
+    "oferte": [],
+    "oferta_in_text": [],
+    "rezultat": {
+     "valoare": "necunoscut",
+     "text": null,
+     "src": null,
+     "citat": null
+    }
+   },
+   {
+    "titlu": "Grupuri de pompare pentru licitația CL13",
+    "categorie": "Altele / neclar",
+    "cerinta": {
+     "text": "Cere ofertă tehnică și de preț pentru grupuri de pompare, pentru licitația CL 13 (sistemul zonal Fundulea - Zona 2).",
+     "src": "m2133028",
+     "citat": "va rog sa imi transmiteti o oferta de pret si tehnica pentru statii de reclorinare si grupuri de pompare"
+    },
+    "cerinte_finale": [
+     {
+      "camp": "aplicație",
+      "text": "Grupuri de pompare în GA Lehliu Gară pentru subsistemul zonal (obiect GA-3-2.01)",
+      "src": "m2133028",
+      "citat": "Obiect GA-3-2.01 – „Grupuri de pompare in GA Lehliu Gara pentru subsistemul zonal\""
+     },
+     {
+      "camp": "debit",
+      "text": "SP1 (Lehliu Gară – Dor Mărunt): pompe 2(1A+1R), Q=16,07 l/s, Hp=66 mCA, Pgrup=23,3 kW",
+      "src": "m2133028",
+      "citat": "Grup de pompare (SP 1), aferent conductei de transport Lehliu Gara – Dor Marunt, va fi echipat cu pompe 2(1A+1R)"
+     },
+     {
+      "camp": "debit",
+      "text": "SP2 (Lehliu Gară – GA Buzoieni): pompe 2(1A+1R), Q=7,85 l/s, Hp=44,5 mCA",
+      "src": "m2133028",
+      "citat": "Grup de pompare (SP 2), aferent conductei de transport Lehliu Gara – Gospodaria de apa Buzoieni"
+     },
+     {
+      "camp": "debit",
+      "text": "SP3 (Lehliu Gară – GA Vărăști): pompe 2(1A+1R), Q=24,94 l/s, Hp=66 mCA, Pgrup=35 kW",
+      "src": "m2133028",
+      "citat": "Grup de pompare (SP 3), aferent conductei de transport Lehliu Gara – Gospodaria de apa Varasti"
+     }
+    ],
+    "clarificari": [],
+    "telefon": [],
+    "fisa_securitate": [],
+    "oferte": [],
+    "oferta_in_text": [],
+    "rezultat": {
+     "valoare": "necunoscut",
+     "text": null,
+     "src": null,
+     "citat": null
+    }
+   }
+  ]
+ },
+ {
+  "conv": "c2133060",
+  "tip": "furnizor",
+  "client": {
+   "text": "Transmec Ro SRL",
+   "src": "m2133092",
+   "citat": "LAND IMPORT & EXPORT SPECIALIST Transmec Ro SRL"
+  },
+  "descriere": {
+   "text": "AKRO cere și apoi comandă ferm transportul a 6 paleți (plus o cutie) de la A.O.Smith (Izmir, Turcia) la Artrom Steel Tubes Slatina; Transmec cotează 1550 EUR, tranzit 6 zile.",
+   "src": "m2133092",
+   "citat": "Tarif transport - 1550 eur"
+  },
+  "cereri": []
+ },
+ {
+  "conv": "c2133284",
+  "tip": "client",
+  "client": {
+   "text": "S.C. Rominserv S.R.L.",
+   "src": "m2167556",
+   "citat": "AKRO SRL ROMINSERV SRL, George Tudorie"
+  },
+  "descriere": null,
+  "cereri": [
+   {
+    "titlu": "Stație dedurizare duplex DEC 75-1 (comandă PO)",
+    "categorie": "13-Filtre multistrat diferite medii",
+    "cerinta": {
+     "text": "Trimite comanda PO 4501870934 și cere retrimiterea ei semnată și data estimată de livrare.",
+     "src": "m2133284",
+     "citat": "Atasat gasiti comanda PO 4501870934. Te rog sa mi-o retrimiti semnata si sa imi comunici data estimata pentru livrare"
+    },
+    "cerinte_finale": [
+     {
+      "camp": "tip echipament",
+      "text": "DEC 75-1/duplex, stație dedurizare duplex twin, 75 L rășină, vană Clack CITT 1\"",
+      "src": "m2167556",
+      "citat": "DEC 75-1/duplex, Statie dedurizare duplex twin, 75L rasina"
+     },
+     {
+      "camp": "cantitate",
+      "text": "1 bucată",
+      "src": "m2167556",
+      "citat": "75L rasina, 1,00 buc"
+     },
+     {
+      "camp": "altele",
+      "text": "Termen de plată discutat: 15 zile de la livrarea stației",
+      "src": "m2167556",
+      "citat": "Termenul de plata discutat este de 15 zile – de la livrarea statiei."
+     }
+    ],
+    "clarificari": [],
+    "telefon": [],
+    "fisa_securitate": [],
+    "oferte": [],
+    "oferta_in_text": [],
+    "rezultat": {
+     "valoare": "acceptată",
+     "text": "Clientul trimite comanda PO 4501870934; AKRO confirmă comanda (S02769), livrare în aproximativ 2 săptămâni.",
+     "src": "m2167556",
+     "citat": "Va rog sa regasiti anexata confirmarea AKRO si comanda dumneavoastra semnata."
+    }
+   }
+  ]
+ },
+ {
+  "conv": "c2167524",
+  "tip": "furnizor",
+  "client": {
+   "text": "ACES Sp. z o.o.",
+   "src": "m2133796",
+   "citat": "Agata Lis ACES Sp. z o.o."
+  },
+  "descriere": {
+   "text": "AKRO discută cu furnizorul ACES prețurile foarte mici practicate de concurentul Aquatech International la cărbunele LG 85; ACES explică diferența prin comenzile de camion complet și sugerează cantități mai mari.",
+   "src": "m2167524",
+   "citat": "an opportunity for 8,000 kg of Sorbotech LG 85 (in Peciu Nou commune, Timiș county)"
+  },
+  "cereri": []
+ },
+ {
+  "conv": "c2167588",
+  "tip": "furnizor",
+  "client": {
+   "text": "Alamo Water Poland Sp. z o.o.",
+   "src": "m2133380",
+   "citat": "Alamo Water Poland Sp. Z o.o."
+  },
+  "descriere": {
+   "text": "AKRO comandă (P01575) o stație de dedurizare twin 1CITT cu 75 L rășină pe coloană; Alamo nu are în stoc unele componente, iar AKRO acceptă înlocuitori (Eurotrol 190, coș D1236) și renunță la buteliile 1354.",
+   "src": "m2167588",
+   "citat": "Please find attached our order for a complete softener unit – twin 1CITT – with 75 liters of resin on each column."
+  },
+  "cereri": []
+ },
+ {
+  "conv": "c2167620",
+  "tip": "furnizor",
+  "client": {
+   "text": "Euro-Clear Kft.",
+   "src": "m2133444",
+   "citat": "INV/2026/00927 (P01447) - AKRO SRL"
+  },
+  "descriere": {
+   "text": "Factura Euro-Clear INV/2026/00927 de 4.729,56 EUR pentru un dedurizator duplex BlueSoft 2800 D2, redirecționată intern de AKRO.",
+   "src": "m2133444",
+   "citat": "BlueSoft 2800 D2 duplex meter-controlled water softener"
+  },
+  "cereri": []
+ },
+ {
+  "conv": "c2167780",
+  "tip": "furnizor",
+  "client": {
+   "text": "Euro-Clear Kft.",
+   "src": "m2167780",
+   "citat": "Client EURO-CLEAR K.F.T."
+  },
+  "descriere": {
+   "text": "AKRO comandă la Euro-Clear (P01577) 2 butelii de presiune 13x54 2,5\" cu bază și cere transport GLS la Brașov.",
+   "src": "m2167780",
+   "citat": "Please find attached our order for 2 x pressure tanks 13x54 – 2.5 “ T – with base."
+  },
+  "cereri": []
+ },
+ {
+  "conv": "c2133604",
+  "tip": "furnizor",
+  "client": {
+   "text": "Alamo Water Poland Sp. z o.o.",
+   "src": "m2133604",
+   "citat": "Kind regards, Alamo Water Poland Sp. z o.o."
+  },
+  "descriere": {
+   "text": "Alamo Water Poland trimite confirmarea comenzii SO2606864-1400-1 pentru comanda AKRO P01575.",
+   "src": "m2133604",
+   "citat": "Enclosed you will find the confirmation of your order SO2606864-1400-1 with customer reference #P01575"
+  },
+  "cereri": []
+ },
+ {
+  "conv": "c2167940",
+  "tip": "furnizor",
+  "client": {
+   "text": "Filterflo S.R.L.",
+   "src": "m2167940",
+   "citat": "Client FILTERFLO S.R.L."
+  },
+  "descriere": {
+   "text": "AKRO trimite la Filterflo comanda P01578 pentru cartușe PRM5TX3 și așteaptă confirmarea.",
+   "src": "m2167940",
+   "citat": "Please find attached our order for some PRM5TX3 cartridges."
+  },
+  "cereri": []
+ },
+ {
+  "conv": "c2133764",
+  "tip": "furnizor",
+  "client": {
+   "text": "Euro-Clear Kft.",
+   "src": "m2133764",
+   "citat": "Operations and procurement coordinator Euro-Clear Kft."
+  },
+  "descriere": {
+   "text": "Euro-Clear trimite cotația S01560 pentru 2 butelii 12x48\"; AKRO corectează că are nevoie de butelii 13x54 (CA-PV057), codul fiind greșit în comanda inițială.",
+   "src": "m2167972",
+   "citat": "Pease reconfirm us the order with 2 x 13x54 tanks [ CA-PV057]"
+  },
+  "cereri": []
+ },
+ {
+  "conv": "c2133732",
+  "tip": "marketing",
+  "client": null,
+  "descriere": {
+   "text": "JKmatic promovează nesolicitat vanele de dedurizare non-electrice și propune colaborare ca distribuitor.",
+   "src": "m2133732",
+   "citat": "Our Non-Electric Valve series offers distributors a unique opportunity to expand business"
+  },
+  "cereri": []
+ },
+ {
+  "conv": "c2133860",
+  "tip": "client",
+  "client": {
+   "text": "ACTIVITATEA GOSCOM SA",
+   "src": "m2168100",
+   "citat": "AKRO SRL ACTIVITATEA GOSCOM SA, Elena"
+  },
+  "descriere": null,
+  "cereri": [
+   {
+    "titlu": "Comandă 4 pompe dozatoare TPG 603",
+    "categorie": "11-Pompe de dozare",
+    "cerinta": null,
+    "cerinte_finale": [
+     {
+      "camp": "tip echipament",
+      "text": "Pompă dozatoare solenoidală TPG 603, digitală",
+      "src": "m2168100",
+      "citat": "Pompa dozatoare solenoidala tpg 603, digitala cu debit constant"
+     },
+     {
+      "camp": "cantitate",
+      "text": "4 pompe dozatoare TPG 603",
+      "src": "m2168100",
+      "citat": "4 x pompe dozatoare TPG 603"
+     }
+    ],
+    "clarificari": [],
+    "telefon": [],
+    "fisa_securitate": [],
+    "oferte": [],
+    "oferta_in_text": [],
+    "rezultat": {
+     "valoare": "acceptată",
+     "text": "Clientul trimite comanda; AKRO confirmă comanda S02950 și trimite proforma de avans 40%.",
+     "src": "m2168100",
+     "citat": "Va multumim pentru comanda trimisa!"
+    }
+   }
+  ]
+ },
+ {
+  "conv": "c2133892",
+  "tip": "intern",
+  "client": null,
+  "descriere": {
+   "text": "Aurel Caras îi trimite lui Alexandru Soare descrierile posturilor Director tehnic și Inginer vânzări nivel 3 pentru a alege rolul din 2027; Alexandru le redirecționează pe adresa personală.",
+   "src": "m2133892",
+   "citat": "Atasat gasesti doua documente in care sunt prezentate rolurile pentru doua posturi:"
+  },
+  "cereri": []
+ },
+ {
+  "conv": "c2168132",
+  "tip": "client",
+  "client": {
+   "text": "SC SERBAN INDUSTRIAL CONSTRUCT SRL",
+   "src": "m2133924",
+   "citat": "SC SERBAN INDUSTRIAL CONSTRUCT SRL"
+  },
+  "descriere": null,
+  "cereri": [
+   {
+    "titlu": "Filtru deferizare FDC 150 cu pompă dozare",
+    "categorie": "13-Filtre multistrat diferite medii",
+    "cerinta": null,
+    "cerinte_finale": [],
+    "clarificari": [
+     {
+      "intrebare": null,
+      "raspuns": {
+       "text": "AKRO trimite oferta revizuită (cu reducere), clientul mulțumește pentru discount.",
+       "src": "m2133924",
+       "citat": "Multumim pentru acordarea discountului."
+      },
+      "schimbare": "Ofertă revizuită S02834-1 cu reducere de 9%."
+     }
+    ],
+    "telefon": [],
+    "fisa_securitate": [],
+    "oferte": [
+     "S02834-1"
+    ],
+    "oferta_in_text": [],
+    "rezultat": {
+     "valoare": "acceptată",
+     "text": "Clientul cere livrarea echipamentelor ofertate și proforma, apoi trimite confirmarea plății.",
+     "src": "m2133924",
+     "citat": "Va rugam sa livrati echipamentele ofertate."
+    }
+   }
+  ]
+ }
+]

@@ -1,0 +1,1436 @@
+[
+  {
+    "cod": "R14-01",
+    "titlu": "Nisip cuarțos în cantitate de ordinul tonelor: nisip uscat la big bag (ECO), cu livrarea inclusă",
+    "explicatie": "Când cineva cere nisip cuarțos la tonă, de la câteva tone până la un camion întreg, AKRO trimite direct oferta pe nisipul uscat în big bag, adică saci mari de 1-1,5 tone, cu transportul până la client inclus în preț. Nu pune întrebări înainte. Plata cerută este jumătate în avans și jumătate la livrare sau când marfa e gata de încărcat în carieră. A fost și o excepție: pentru 4,5 tone cerute pentru o licitație, AKRO a cerut toată plata în avans.",
+    "categorie": "14-Componente pentru filtre multistrat",
+    "cand": "Clientul cere nisip cuarțos la tonă, de la câteva tone până la un camion sau zeci de tone, cu granulația dată, de obicei cu livrare la locația lui. Poate să nu spună la ce folosește nisipul.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "14-002084",
+          "rol": "nisip cuarțos uscat la big bag (ECO), granulația cerută trecută în descrierea liniei"
+        }
+      ],
+      "servicii": [
+        "transport inclus în preț până la locația clientului (în sarcina AKRO)"
+      ],
+      "documente": [],
+      "conditii": [
+        "big bag de 1-1,5 tone",
+        "plată 50% în avans, iar restul de 50% la livrare, la gata de livrare sau la încărcarea din carieră"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2136932",
+        "src": "m2136932",
+        "citat": "Nisipul ofertat vine ambalat la saci big bag [ 1-1.5T] - si detinem aviz sanitar pentru el",
+        "pentru": "ofertă",
+        "nota": "37 t de nisip 1-3 mm ofertate la big bag, cu livrare inclusă în Covasna (14-002084)"
+      },
+      {
+        "conv": "c2150084",
+        "src": "m2150084",
+        "citat": "Va las anexata cotatia de pret pentru 23 T de nisip cuartos 1-3 mm cu livrarea inclusa in BUFTEA.",
+        "pentru": "ofertă",
+        "nota": "camion de 23 t la big bag, ofertat pe 14-002084 cu livrare inclusă"
+      },
+      {
+        "conv": "c2155716",
+        "src": "m2155716",
+        "citat": "7 tone de nisip 0.4-0.8mm – ambalat la saci big bag – cu livrarea inclusa",
+        "pentru": "ofertă",
+        "nota": "7 t de nisip fin la big bag, livrare inclusă, paletizat, plată 50% avans (14-002084)"
+      },
+      {
+        "conv": "c2153604",
+        "src": "m2153604",
+        "citat": "Nisip cuartos 1-3mm – ambalat la BIG BAG – transport inclus pe teritoriul Romaniei",
+        "pentru": "ofertă",
+        "nota": "ofertă în text pentru 4,5 t la big bag, transport inclus"
+      },
+      {
+        "conv": "c2107364",
+        "src": "m2107364",
+        "citat": "Granulatie nisip - 2-3mm - 900 kg",
+        "pentru": "cerere",
+        "nota": "comandă directă pe trei granulații (700-900 kg fiecare), confirmată pe 14-002084 cu câte un big bag separat pe granulație, livrare în sarcina AKRO și plată 50% avans"
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "Pentru 4,5 t de nisip la big bag, cerute pentru o licitație, AKRO cere plata 100% în avans, nu 50% avans și 50% la livrare ca în celelalte oferte de nisip la big bag.",
+        "dovezi": [
+          {
+            "conv": "c2153604",
+            "src": "m2153604",
+            "citat": "Modalitatea de plata – 100% in avans.",
+            "pentru": "ofertă",
+            "nota": "ofertă în text pentru 4,5 t nisip la big bag, cu plată integral în avans"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R14-02",
+    "titlu": "Nisip la big bag și zeolit, livrate din carieră: termen de 1-2 săptămâni de la comanda fermă, fără perioada de iarnă",
+    "explicatie": "Pentru nisipul cuarțos la big bag și pentru zeolit, care pleacă direct din carieră, AKRO scrie în ofertă un termen de 1-2 săptămâni, cel mult două, socotit de la comanda fermă. În trei oferte a adăugat că iarna nu se livrează, iar la zeolit a explicat că atunci cariera se închide din cauza înghețului. Au fost și excepții: pentru 4,5 tone a dat 2-3 săptămâni, iar la o listă de mai multe materiale a dat 2-4 săptămâni, spunând că nu ține stoc.",
+    "categorie": "14-Componente pentru filtre multistrat",
+    "cand": "Clientul cere nisip cuarțos la big bag sau zeolit, materiale livrate direct din carieră, iar AKRO dă termenul de livrare odată cu oferta.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "14-002084",
+          "rol": "nisipul la big bag, livrat direct din carieră"
+        }
+      ],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "termen de 1-2 săptămâni, cel mult 2 săptămâni, de la comanda fermă (într-o ofertă, și de la plata avansului)",
+        "perioada de iarnă exclusă, când cariera se închide din cauza înghețului"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2150084",
+        "src": "m2150084",
+        "citat": "Putem livra aceasta cantitate in termen de 1-2 saptamani de la momentul transmiterii de comanda si achitarii facturii de avans.",
+        "pentru": "ofertă",
+        "nota": "1-2 săptămâni de la comandă și avans, cu mențiunea «exclus perioada de iarna»"
+      },
+      {
+        "conv": "c2155716",
+        "src": "m2155716",
+        "citat": "Produsul se poate livra in termen de aprox 2 saptamani de la comanda dumneavoastra ferma [ exclus perioada de iarna]",
+        "pentru": "ofertă",
+        "nota": "aproximativ 2 săptămâni, fără perioada de iarnă"
+      },
+      {
+        "conv": "c2152484",
+        "src": "m2152484",
+        "citat": "Termenele de livrare – maxim 2 saptamani [ exclus perioada de iarna cand din cauza inghetului se inchide cariera]",
+        "pentru": "ofertă",
+        "nota": "același termen pentru zeolit, cu explicația închiderii carierei iarna"
+      },
+      {
+        "conv": "c2144964",
+        "src": "m2144964",
+        "citat": "Termen de livrare – aproximativ 1-2 saptamani de la comanda ferma.",
+        "pentru": "ofertă",
+        "nota": "termen dat odată cu cele două variante de ambalare a nisipului, fără mențiunea despre iarnă"
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "Pentru 4,5 t de nisip la big bag, termenul dat este de 2-3 săptămâni de la comandă.",
+        "dovezi": [
+          {
+            "conv": "c2153604",
+            "src": "m2153604",
+            "citat": "Aceasta cantitate este livrabila in 2-3 saptamani de la comanda.",
+            "pentru": "ofertă",
+            "nota": "termen mai lung decât 1-2 săptămâni pentru nisip la big bag"
+          }
+        ]
+      },
+      {
+        "text": "La o cerere de prețuri pentru mai multe medii filtrante, nisipul inclus, AKRO spune că nu ține stoc și dă 2-4 săptămâni pentru orice material.",
+        "dovezi": [
+          {
+            "conv": "c2151268",
+            "src": "m2151268",
+            "citat": "va rog sa aveti in vedere un timp de livrare de +-2-4 saptamani de la comanda",
+            "pentru": "ofertă",
+            "nota": "termen general de 2-4 săptămâni pentru toate masele filtrante cerute"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R14-03",
+    "titlu": "Nisip cuarțos: două variante de ambalare, saci de 25 kg (minim 1000 kg) sau big bag (minim 4-5 t)",
+    "explicatie": "Când clientul cere nisip cuarțos fără să spună cum îl vrea ambalat, în cantitate mică sau fără cantitate, AKRO îi prezintă variantele de ambalare. Sacii de 25 kg se vând de la 1000 kg, cu același preț pe orice granulație. Big bag-ul, sacul mare de peste o tonă, iese mai ieftin pe tonă, dar cere cel puțin 4-5 tone. Au fost și excepții: 300 kg au fost ofertate direct pe cod, iar unui client care a comandat pe cod câte 50 kg pe granulație AKRO i-a confirmat comanda, cu cost separat de livrare.",
+    "categorie": "14-Componente pentru filtre multistrat",
+    "cand": "Clientul cere nisip cuarțos fără să precizeze ambalarea, în cantitate mică (în jur de o tonă pe granulație) sau fără cantitate.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "14-002032",
+          "rol": "nisip 0,4-0,8 mm la saci de 25 kg (granulație ofertată în text)"
+        },
+        {
+          "ref": "14-002034",
+          "rol": "nisip 0,8-1,2 mm la saci de 25 kg (granulație ofertată în text)"
+        },
+        {
+          "ref": "14-002033",
+          "rol": "nisip 2-4 mm la saci de 25 kg (granulație ofertată în text)"
+        },
+        {
+          "ref": "14-002084",
+          "rol": "nisip la big bag, varianta mai ieftină pe tonă (ofertată în text)"
+        }
+      ],
+      "servicii": [
+        "livrare inclusă în prețul pe tonă, la ambele variante"
+      ],
+      "documente": [],
+      "conditii": [
+        "saci de 25 kg: comandă minimă 1000 kg (40 de saci), același preț indiferent de granulație",
+        "big bag: comandă minimă 4-5 tone"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2144964",
+        "src": "m2144964",
+        "citat": "Varianta de saci individuali de 25 kg [ se accepta comenzi de de minimum 1000kg]",
+        "pentru": "ofertă",
+        "nota": "la 1 t și 1 t cerute, fără ambalare precizată, AKRO prezintă ambele ambalări cu minimele lor și granulațiile standard"
+      },
+      {
+        "conv": "c2151268",
+        "src": "m2151268",
+        "citat": "Nisip orice granulatie – pret/sac 25kg – 14.5 euro fara TVA – comanda minima -40 saci",
+        "pentru": "ofertă",
+        "nota": "minimul de 40 de saci de 25 kg, adică 1000 kg, același preț pentru orice granulație"
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "Unui client care comandă pe cod câte 50 kg (2 saci) pe granulație, AKRO îi confirmă comanda sub minimul de 1000 kg, cu un cost separat de livrare și ambalare.",
+        "dovezi": [
+          {
+            "conv": "c2112900",
+            "src": "m2149956",
+            "citat": "Produsele sunt in stoc si le voi da la pregatit incepand de astazi.",
+            "pentru": "ofertă",
+            "nota": "confirmare S02686 pentru doi saci de 50 kg de nisip plus linia 16-003005 Livrare si ambalare"
+          }
+        ]
+      },
+      {
+        "text": "La o cerere de 300 kg de nisip 2-4 mm, fără ambalare precizată, AKRO ofertează direct cantitatea cerută pe cod, fără să prezinte variantele de ambalare sau minimul de 1000 kg.",
+        "dovezi": [
+          {
+            "conv": "c2100932",
+            "src": "m2136996",
+            "citat": "[14-002033] Nisip cuartos 2-4 mm b 300,00 kg",
+            "pentru": "ofertă",
+            "nota": "oferta pentru 300 kg de nisip, alături de cărbunele activ, fără variante de ambalare"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R14-04",
+    "titlu": "Filtre sub presiune: nisip în trei granulații (grosier 2-4 mm, mediu, fin 0,4-0,8 mm)",
+    "explicatie": "La filtrele sub presiune, AKRO pune nisip în cel puțin trei granulații, adică trei mărimi de boabe: un strat grosier de 2-4 mm, unul mediu de 0,8-1,2 mm sau 1-2 mm și unul fin de 0,4-0,8 mm. Oferta de înlocuire a masei din astfel de filtre cuprinde toate trei sorturile. Când nu știe ce fel de filtre are clientul, AKRO întreabă dacă sunt gravitaționale sau sub presiune.",
+    "categorie": "14-Componente pentru filtre multistrat",
+    "cand": "Clientul cere nisip pentru filtre sub presiune (coloane, filtre multistrat presurizate), de obicei pentru înlocuirea masei existente.",
+    "clarificari": [
+      "Ce tip de filtre aveți în exploatare: gravitaționale sau sub presiune?",
+      "La o cantitate foarte mare pe un singur sort: nu sunt necesare și alte granulații?"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "14-002033",
+          "rol": "stratul grosier 2-4 mm"
+        },
+        {
+          "ref": "14-002034",
+          "rol": "stratul mediu 0,8-1,2 mm"
+        },
+        {
+          "ref": "14-002029",
+          "rol": "stratul mediu în varianta 1-2 mm"
+        },
+        {
+          "ref": "14-002032",
+          "rol": "stratul fin 0,4-0,8 mm"
+        }
+      ],
+      "servicii": [],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2138884",
+        "src": "m2138884",
+        "citat": "In toate filtrele presurizate se utilizeaza cel putin 3 granulatii de nisip [ 2-4mm, 0.8-1.2mm; 0.4-0.8mm]",
+        "pentru": "clarificare",
+        "nota": "AKRO explică regula când clientul cere 240 t pe un singur sort și îl roagă să verifice dacă nu trebuie și alte granulații"
+      },
+      {
+        "conv": "c2136836",
+        "src": "m2136836",
+        "citat": "2 filtre cu nisip [ coloana 63x86 FRP ]",
+        "pentru": "ofertă",
+        "nota": "clientul spune că filtrele sunt sub presiune, iar AKRO ofertează nisip 2-4, 0,8-1,2 și 0,4-0,8 mm calculat pe coloane"
+      },
+      {
+        "conv": "c2113124",
+        "src": "m2113156",
+        "citat": "Nisip cuartos 0,4-0,8 mm b 2.500,00 kg",
+        "pentru": "ofertă",
+        "nota": "la cele două filtre NOBEL oferta are trei sorturi: 0,4-0,8, 1-2 și 2-4 mm"
+      },
+      {
+        "conv": "c2147588",
+        "src": "m2147588",
+        "citat": "Nisip cuartos 1 -2 mm b 1.200,00 kg",
+        "pentru": "ofertă",
+        "nota": "oferta actualizată pentru filtrele NOBEL are sorturile 0,4-0,8, 1-2 și 2-4 mm"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R14-05",
+    "titlu": "Filtre rapide atmosferice: nisip cuarțos 1-3 mm, de carieră, spălat și uscat",
+    "explicatie": "Pentru filtrele rapide atmosferice, adică cele în care apa trece prin nisip gravitațional, nu sub presiune, AKRO ofertează nisip cuarțos de 1-3 mm, granulația obișnuită la ele, livrat în big bag. Unui client care a cerut nisip de râu de 2-3 mm, fără să spună la ce îl folosește, AKRO i-a răspuns că poate da doar nisip de carieră spălat și uscat și i-a ofertat tot 1-3 mm.",
+    "categorie": "14-Componente pentru filtre multistrat",
+    "cand": "Clientul cere nisip pentru filtre rapide atmosferice (gravitaționale), sau cere nisip de râu, pe care AKRO nu îl furnizează.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "14-002084",
+          "rol": "nisip cuarțos 1-3 mm la big bag"
+        }
+      ],
+      "servicii": [
+        "livrare inclusă"
+      ],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2138884",
+        "src": "m2138884",
+        "citat": "in toate filtrele rapide- atmosferice se lucreaza intr-o plaja mult mai mare de granulatie [ comun 1-3mm]",
+        "pentru": "clarificare",
+        "nota": "AKRO indică 1-3 mm drept granulația uzuală la filtrele atmosferice"
+      },
+      {
+        "conv": "c2136932",
+        "src": "m2136932",
+        "citat": "oferta de pret pentru 37 tone [ echivalentul a 24mc] - de nisip cuartos 1-3 mm",
+        "pentru": "ofertă",
+        "nota": "stație de apă potabilă cu filtre rapide atmosferice: nisip 1-3 mm"
+      },
+      {
+        "conv": "c2153604",
+        "src": "m2153604",
+        "citat": "singura varianta pe care o putem furniza ar fi nisip de cariera spalat si uscat",
+        "pentru": "ofertă",
+        "nota": "la cerere de nisip de râu 2-3 mm, AKRO propune nisipul de carieră 1-3 mm folosit la filtre automate sau atmosferice"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R14-06",
+    "titlu": "Sute de tone de nisip pe un singur sort fin: AKRO nu ofertează nisipul",
+    "explicatie": "Când clientul cere sute de tone de nisip pe un singur sort fin, de exemplu 240 de tone de 0,8-1,2 mm, AKRO nu ofertează nisipul, pentru că cariera refuză să producă atât pe o mărime atât de mică. La prima astfel de cerere, venită pentru o licitație, AKRO a întrebat întâi dacă nu trebuie și alte granulații, iar după ce clientul a păstrat sortul a ofertat doar cărbunele cerut. La o cerere identică venită de la altă firmă câteva zile mai târziu, a refuzat direct.",
+    "categorie": "14-Componente pentru filtre multistrat",
+    "cand": "Clientul cere o cantitate foarte mare de nisip (de exemplu 240 t) pe un singur sort fin (0,8-1,2 mm), de obicei conform unui caiet de sarcini.",
+    "clarificari": [
+      "Nu există și alte granulații necesare? (240 t pe un singur sort fin este o cantitate foarte mare)"
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "cariera refuză producția pe un sort atât de mic, așa că AKRO ofertează doar celelalte produse cerute (de exemplu cărbunele)"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2138884",
+        "src": "m2138884",
+        "citat": "Cantitatea de 240 T este foarte mare pentru un singur sort ce trebuie furnizat intr-o granulatie extrem de mica 0.8-1.2mm.",
+        "pentru": "clarificare",
+        "nota": "AKRO cere verificarea granulațiilor și explică limita de producție a carierei (50-100 t/săptămână)"
+      },
+      {
+        "conv": "c2138884",
+        "src": "m2139492",
+        "citat": "Din pacate pentru partea de nisip nu va putem prezenta o propunere de oferta",
+        "pentru": "ofertă",
+        "nota": "după ce clientul menține sortul, AKRO refuză nisipul și ofertează doar cărbunele"
+      },
+      {
+        "conv": "c2141668",
+        "src": "m2141668",
+        "citat": "Din pacate pentru partea de nisip nu va putem prezenta o propunere de oferta",
+        "pentru": "clarificare",
+        "nota": "la a doua cerere identică (240 t de 0,8-1,2 mm), AKRO refuză direct, fără să mai întrebe"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R14-07",
+    "titlu": "Cărbune activ granular fără specificații: AKRO întreabă tipul și numărul de iod, altfel ofertează LG85 bituminos",
+    "explicatie": "Clientul care cere cărbune activ granular fără să spună ce fel poate fi întrebat mai multe lucruri: tipul, bituminos sau din coajă de nucă de cocos, numărul de iod, adică cât de mult poate reține cărbunele, scopul, avizul sanitar, cantitatea și ambalarea. Dacă nu are detalii, AKRO ofertează cărbunele standard LG85, de origine bituminoasă. Uneori trimite direct oferta pe LG85, fără să mai întrebe nimic despre cărbune.",
+    "categorie": "14-Componente pentru filtre multistrat",
+    "cand": "Clientul cere cărbune activ granular pentru tratarea apei fără să precizeze tipul de cărbune sau parametrii de adsorbție.",
+    "clarificari": [
+      "Ce tip de cărbune: origine bituminoasă sau coajă de nucă de cocos?",
+      "Aveți o fișă tehnică? Ce număr de iod se cere?",
+      "La ce va fi folosit (scopul în flux)?",
+      "Se cere aviz sanitar de la MS România sau se acceptă unul emis de o țară UE?",
+      "Ce cantitate și ce ambalare (big bag sau saci de 20 kg)?"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "14-002052",
+          "rol": "cărbunele standard ofertat când nu există alte cerințe: LG85 bituminos, 0,6-2,4 mm"
+        }
+      ],
+      "servicii": [],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2138884",
+        "src": "m2138884",
+        "citat": "In cazul in care nu aveti detalii, atunci vom oferta carbune standard bituminous – LG85.",
+        "pentru": "clarificare",
+        "nota": "AKRO întreabă tipul, numărul de iod și scopul, cu LG85 ca variantă implicită"
+      },
+      {
+        "conv": "c2132708",
+        "src": "m2167140",
+        "citat": "Ce tip de carbune activ granular se doreste? Origine bituminoasa sau coaja de nuca de cocos?",
+        "pentru": "clarificare",
+        "nota": "aceleași întrebări (tip, număr de iod, aviz sanitar, cantitate, ambalare) la o cerere de CAG"
+      },
+      {
+        "conv": "c2162660",
+        "src": "m2162660",
+        "citat": "S-a ales varianta de carbune standard , LG85, de origine bituminoasa, cu livrarea la saci individuali de 20 kg.",
+        "pentru": "ofertă",
+        "nota": "la o cerere de aproximativ 8 t fără specificații, AKRO ofertează direct LG85 (14-002052)"
+      },
+      {
+        "conv": "c2136836",
+        "src": "m2136836",
+        "citat": "Masa filtranta pentru 1 x Filtru Carbune 63x86 [ diametru coloana 1600mm]",
+        "pentru": "ofertă",
+        "nota": "clientul spune doar că un filtru are cărbune activ, iar AKRO pune în ofertă LG85 fără să întrebe tipul"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R14-08",
+    "titlu": "Cărbune activ: saci individuali de 20 kg, cu preț mai mic la big bag de 500 kg",
+    "explicatie": "Cărbunele activ granular cerut la tone AKRO îl ofertează în saci de 20 kg, pe paleți de 500 kg. Înainte poate întreba dacă clientul acceptă big bag, sacul mare. Big bag-ul de 500 kg scade prețul pe kilogram, pentru că dispar costul sacilor mici și umplerea lor. În România transportul paletizat a fost inclus în preț, iar la o licitație din Republica Moldova prețul a fost dat la poarta fabricii din Polonia.",
+    "categorie": "14-Componente pentru filtre multistrat",
+    "cand": "Clientul cere cărbune activ granular la tonă (de la câteva tone până la zeci de tone).",
+    "clarificari": [
+      "Se acceptă livrarea la big bag (de 500 kg sau de 1000 L) sau se dorește la saci individuali de 20 kg?"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "14-002052",
+          "rol": "cărbune activ LG85 la saci de 20 kg, pe paleți de 500 kg"
+        }
+      ],
+      "servicii": [
+        "transport paletizat inclus în preț, la livrarea în România"
+      ],
+      "documente": [],
+      "conditii": [
+        "la big bag de 500 kg prețul unitar scade (fără costul sacilor și al însăcuirii individuale)",
+        "la licitația din Republica Moldova: preț franco fabrica din Polonia (EXW)"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2162660",
+        "src": "m2162660",
+        "citat": "se accepta livrare la saci big bag [ de 500kg/bucata] – atunci putem reduce pretul unitar",
+        "pentru": "ofertă",
+        "nota": "8 t ofertate la saci de 20 kg cu transport paletizat inclus, cu reducere de aproximativ 0,5 lei pe kg dacă se acceptă big bag"
+      },
+      {
+        "conv": "c2138884",
+        "src": "m2142628",
+        "citat": "Va las mai jos cotatia de pret pentru carbunele la granulatia standard – ambalat in saci individuali de 20 kg.",
+        "pentru": "ofertă",
+        "nota": "28,5 t ofertate la saci de 20 kg pe palet de 500 kg, preț franco fabrica din Polonia"
+      },
+      {
+        "conv": "c2132708",
+        "src": "m2167140",
+        "citat": "big bag de 500kg sau la saci individuali de 20 kg",
+        "pentru": "clarificare",
+        "nota": "AKRO întreabă ambalarea înainte de ofertă"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R14-09",
+    "titlu": "Cărbune activ: AKRO atașează fișa tehnică, fișa de securitate și certificatul sanitar",
+    "explicatie": "Când clientul cere cărbune activ ca produs separat pentru tratarea apei, de exemplu pentru o stație de tratare sau o licitație, AKRO atașează documentele producătorului. La cel granular a trimis fișa tehnică, fișa de securitate și certificatul sanitar, iar certificatul GOST, standardul rusesc cerut de client, la licitația din Republica Moldova. La cărbunele pudră a trimis doar fișa tehnică, pe care o ceruse clientul. A fost și o excepție: pentru 1350 kg de LG85 cerute de un operator de apă, AKRO a trimis doar oferta.",
+    "categorie": "14-Componente pentru filtre multistrat",
+    "cand": "Clientul cere cărbune activ (granular sau pudră) pentru tratarea apei, ca produs separat, nu ca parte dintr-o înlocuire de masă filtrantă cu manoperă sau dintr-un sistem complet.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "14-002052",
+          "rol": "cărbune activ granular LG85"
+        },
+        {
+          "ref": "14-002103",
+          "rol": "cărbune activ pudră Sorbotech LPW 90"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișa tehnică Sorbotech (la cărbunele granular, fișierul atașat a fost cel pentru LGCO 85)",
+        "fișa cu datele de securitate (SDS Sorbotech LG 95, 95 AW, 85, R)",
+        "atestul sanitar PZH al producătorului",
+        "certificatul GOST, când clientul îl cere"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2162660",
+        "src": "m2162660",
+        "citat": "Va las anexate fisa tehnica a produsului, fisa cu datele de securitate, precum si certificatul sanitar detinut de producator.",
+        "pentru": "ofertă",
+        "nota": "toate trei documentele anexate la oferta pentru 8 t de LG85"
+      },
+      {
+        "conv": "c2138884",
+        "src": "m2142628",
+        "citat": "SAFETY DATA SHEET In accordance with the criteria of Regulation No 1907/2006",
+        "pentru": "ofertă",
+        "nota": "fișa de securitate, atestul PZH (expirat, înlocuit ulterior la cererea clientului), certificatul GOST și o fișă tehnică (a produsului LGCO 85) trimise cu cotația pentru LG85"
+      },
+      {
+        "conv": "c2107556",
+        "src": "m2144388",
+        "citat": "Las anexata si fisa tehnica a produsului.",
+        "pentru": "ofertă",
+        "nota": "la cărbunele pudră se trimite doar fișa tehnică Sorbotech LPW 90, cerută de client"
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "La o cerere de 1350 kg de cărbune LG85 de la un operator regional de apă, AKRO trimite doar oferta, fără fișă tehnică, fișă de securitate sau certificat sanitar.",
+        "dovezi": [
+          {
+            "conv": "c2100932",
+            "src": "m2136996",
+            "citat": "Va rog sa regasiti anexata oferta de pret pentru cantitatile de nisip si carbune.",
+            "pentru": "ofertă",
+            "nota": "singurul atașament este oferta pentru cărbune și nisip"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R14-10",
+    "titlu": "Mase filtrante pentru apă potabilă: AKRO confirmă și trimite avizul sanitar",
+    "explicatie": "Dacă nisipul, antracitul sau cărbunele merg într-o stație de tratare a apei potabile, AKRO spune că are aviz sanitar pentru ele, adică aprobarea pentru contact cu apa de băut. Uneori doar îl pomenește în ofertă, alteori trimite documentul odată cu oferta, după ce a încărcat filtrele sau când clientul cere varianta valabilă. A fost și o excepție: la înlocuirea masei din trei filtre de apă potabilă, oferta nu a pomenit avizul.",
+    "categorie": "14-Componente pentru filtre multistrat",
+    "cand": "Masa filtrantă (nisip, antracit, cărbune) este pentru o stație de tratare a apei potabile.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "14-002084",
+          "rol": "nisip cuarțos cu aviz sanitar"
+        },
+        {
+          "ref": "13-001193",
+          "rol": "antracit cu certificat igienic"
+        },
+        {
+          "ref": "14-002052",
+          "rol": "cărbune activ cu atest sanitar"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "avizul sanitar pentru nisipul cuarțos",
+        "certificatul igienic pentru antracit",
+        "atestul sanitar al producătorului de cărbune"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2136932",
+        "src": "m2136932",
+        "citat": "Nisipul ofertat vine ambalat la saci big bag [ 1-1.5T] - si detinem aviz sanitar pentru el",
+        "pentru": "ofertă",
+        "nota": "AKRO menționează avizul sanitar în oferta pentru stația de apă potabilă, fără să-l atașeze"
+      },
+      {
+        "conv": "c2113124",
+        "src": "m2161892",
+        "citat": "Va trimitem anexate si certificatele sanitare pentru masa filtranta furnizata si incarcata in filtre.",
+        "pentru": "ofertă",
+        "nota": "după înlocuire se trimit avizul sanitar pentru nisip și certificatul igienic pentru antracit"
+      },
+      {
+        "conv": "c2138884",
+        "src": "m2143748",
+        "citat": "Legat de certificarea sanitara – atasat documentul actualizat",
+        "pentru": "ofertă",
+        "nota": "la cererea clientului, AKRO retrimite atestul sanitar valabil pentru cărbune"
+      },
+      {
+        "conv": "c2162660",
+        "src": "m2162660",
+        "citat": "precum si certificatul sanitar detinut de producator",
+        "pentru": "ofertă",
+        "nota": "certificatul sanitar trimis cu oferta de cărbune pentru stația de tratare a apei a comunei"
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "La înlocuirea masei filtrante (nisip și cărbune activ) din trei filtre ale unei stații de apă potabilă, oferta nu pomenește avizul sanitar și nu îl atașează.",
+        "dovezi": [
+          {
+            "conv": "c2136836",
+            "src": "m2136836",
+            "citat": "Va rog sa regasiti anexata oferta de pret pentru masa filtranta necesara + manopera de inlocuire in coloane.",
+            "pentru": "ofertă",
+            "nota": "oferta pentru filtrele de apă potabilă, fără aviz sanitar pomenit sau atașat"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R14-11",
+    "titlu": "Cărbune activ cu granulație nestandard: granulația standard 0,6-2,36 mm sau producție specială în 3-4 luni",
+    "explicatie": "La o licitație din Republica Moldova care cerea cărbune activ granular de 1,5-2,8 mm, o granulație nestandard, AKRO a propus întâi granulația standard, de 0,6-2,36 mm, mai ieftină și livrabilă mai repede. Ca producătorul să confirme că merge, AKRO a cerut dimensiunile filtrelor și debitele de lucru și de spălare. Pentru sortul special a trimis a doua cotație, cu același preț, dar cu plata integral în avans și livrare în 3,5-4 luni.",
+    "categorie": "14-Componente pentru filtre multistrat",
+    "cand": "Caietul de sarcini cere cărbune activ granular într-o granulație care nu e standard (de exemplu 1,5-2,8 mm), la o licitație.",
+    "clarificari": [
+      "Se acceptă granulația standard 0,6-2,36 mm (mai ieftină, livrabilă în 3-4 săptămâni)?",
+      "Pentru verificarea hidraulică a granulației standard: dimensiunile filtrelor, debitele de exploatare și de spălare?"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "14-002052",
+          "rol": "Sorbotech LG85, în granulația standard sau în sortul special 1,7-2,36 mm"
+        }
+      ],
+      "servicii": [
+        "verificarea parametrilor de operare ai filtrului de către producător"
+      ],
+      "documente": [],
+      "conditii": [
+        "granulația standard: 50% avans, 50% la gata de încărcare, EXW fabrica din Polonia, 10-15 zile lucrătoare",
+        "sortul special: același preț, 100% avans, 3,5-4 luni"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2138884",
+        "src": "m2139492",
+        "citat": "Granulatia standard la acest carbune este de 0.6-2.36mm [ se accepta aceasta varianta]?",
+        "pentru": "clarificare",
+        "nota": "AKRO propune întâi granulația standard, cu alternativa producției speciale"
+      },
+      {
+        "conv": "c2138884",
+        "src": "m2142628",
+        "citat": "mai avem nevoie sa cunoastem : dimensiunile filtrelor, debitele de exploatare, debitele de spalare",
+        "pentru": "clarificare",
+        "nota": "date cerute pentru ca producătorul să confirme granulația standard"
+      },
+      {
+        "conv": "c2138884",
+        "src": "m2143300",
+        "citat": "In principiu costurille sunt aceleasi insa fiind comanda speciala termenul de livrare este mult mai mare",
+        "pentru": "ofertă",
+        "nota": "a doua cotație, pentru sortul special, cu plată în avans și termen de 3,5-4 luni"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R14-12",
+    "titlu": "Înlocuire mase filtrante în filtre sub presiune: AKRO întreabă masa existentă și tipul filtrelor, apoi ofertează masa și manopera",
+    "explicatie": "Când un operator de apă vrea să schimbe masa filtrantă, adică materialul din filtre, și nu dă detalii, AKRO întreabă ce are acum în filtre, ce cantitate vrea, dacă cererea e pentru buget sau pentru cumpărare și ce tip de filtre are. Din dimensiunile coloanelor calculează cantitățile. Oferta cuprinde masa nouă și o linie pentru deplasare, transport, manoperă și PIF, adică pornirea și reglarea instalației. La filtrele NOBEL ale unui operator a inclus și crepinele, piesele de la bază care opresc nisipul.",
+    "categorie": "14-Componente pentru filtre multistrat",
+    "cand": "Clientul, de obicei un operator de apă, cere înlocuirea masei filtrante din filtrele lui sub presiune, adesea fără să știe cantitățile.",
+    "clarificari": [
+      "Ce masă filtrantă aveți acum în filtre (nisip, cărbune, antracit)?",
+      "Ce cantitate doriți? Cererea este pentru bugetare sau pentru achiziție, și când?",
+      "Ce tip de filtre aveți în exploatare: gravitaționale sau sub presiune?"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "14-002033",
+          "rol": "nisip 2-4 mm"
+        },
+        {
+          "ref": "14-002034",
+          "rol": "nisip 0,8-1,2 mm"
+        },
+        {
+          "ref": "14-002029",
+          "rol": "nisip 1-2 mm (varianta pentru stratul mediu)"
+        },
+        {
+          "ref": "14-002032",
+          "rol": "nisip 0,4-0,8 mm"
+        },
+        {
+          "ref": "14-002052",
+          "rol": "cărbune activ LG85 pentru filtrul cu cărbune"
+        },
+        {
+          "ref": "13-001193",
+          "rol": "antracit, unde filtrul îl are"
+        },
+        {
+          "ref": "14-005076",
+          "rol": "crepine NOBEL complete, înlocuite odată cu masa la filtrele NOBEL"
+        },
+        {
+          "ref": "16-002001",
+          "rol": "linia de deplasare, cu descrierea extinsă: transport mase filtrante, manoperă de înlocuire, PIF"
+        }
+      ],
+      "servicii": [
+        "deplasare la beneficiar",
+        "transportul maselor filtrante",
+        "înlocuirea masei filtrante (și a crepinelor, la filtrele NOBEL)",
+        "PIF"
+      ],
+      "documente": [
+        "proces verbal de service după intervenție",
+        "certificatele sanitare ale masei încărcate"
+      ],
+      "conditii": [
+        "cantitățile calculate de AKRO după dimensiunile coloanelor (clientul a trimis dimensiunile și fotografii)",
+        "mase filtrante în 2-3 săptămâni de la comandă, intervenția în 1-2 săptămâni de la livrarea maselor"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2136836",
+        "src": "m2136836",
+        "citat": "Ce masa filtranta aveti acum la filtre? ( nisip, carbune, antracit etc? )",
+        "pentru": "clarificare",
+        "nota": "întrebările despre masa existentă, cantitate, bugetare, termen și tipul filtrelor"
+      },
+      {
+        "conv": "c2136836",
+        "src": "m2136836",
+        "citat": "Va rog sa regasiti anexata oferta de pret pentru masa filtranta necesara + manopera de inlocuire in coloane.",
+        "pentru": "ofertă",
+        "nota": "nisip în trei sorturi, LG85 și linia 16-002001, cu cantitățile calculate pe coloanele 63x86"
+      },
+      {
+        "conv": "c2147588",
+        "src": "m2147588",
+        "citat": "nu mai pot mentine discountul de 6% la crepine [ Nobel a marit preturile cu +-3-8% din martie]",
+        "pentru": "ofertă",
+        "nota": "oferta actualizată: crepine NOBEL, nisip, antracit și manopera de înlocuire (16-002001)"
+      },
+      {
+        "conv": "c2113124",
+        "src": "m2158372",
+        "citat": "interventia de inlocuire a maselor filtrante + crepinele la cele doua filtre NOBEL, a fost programata",
+        "pentru": "ofertă",
+        "nota": "comanda fermă pe oferta cu masă, crepine și manoperă, executată de service-ul AKRO"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R14-13",
+    "titlu": "Filtre rapide atmosferice: AKRO ofertează doar nisipul, fără ofertă pentru serviciul de schimb",
+    "explicatie": "La filtrele rapide atmosferice, cele în care apa trece prin nisip gravitațional, clientul a cerut atât nisipul, cât și prețul pentru schimbarea lui. AKRO a ofertat doar nisipul și a scris în ofertă că schimbul nu e inclus. Pentru manoperă nu a dat preț și a explicat că la aceste filtre înlocuirea nisipului nu cere o procedură specială.",
+    "categorie": "14-Componente pentru filtre multistrat",
+    "cand": "Clientul cere nisip și serviciul de înlocuire a nisipului la filtre rapide atmosferice.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "14-002084",
+          "rol": "nisipul de înlocuire, la big bag"
+        }
+      ],
+      "servicii": [
+        "fără ofertă pentru manopera de înlocuire (la filtrele atmosferice nu e nevoie de o procedură specială)"
+      ],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2136932",
+        "src": "m2136932",
+        "citat": "oferta de pret pentru servicii de inlocuire nisip cuartos",
+        "pentru": "cerere",
+        "nota": "clientul cere și prețul serviciului de înlocuire"
+      },
+      {
+        "conv": "c2136932",
+        "src": "m2136932",
+        "citat": "Din pacate pentru serviciul de schimb al masei, nu va putem prezenta o propunere de cost",
+        "pentru": "ofertă",
+        "nota": "AKRO ofertează doar nisipul și explică de ce nu e nevoie de serviciu"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R14-14",
+    "titlu": "Butelii cu rășină (purificatoare, pat mixt): schimb de rășină ca serviciu, cu termen de câteva zile",
+    "explicatie": "Clientul cu purificatoare sau butelii cu rășină, de exemplu Gewapur cu pat mixt, le trimite goale la AKRO ca să fie reîncărcate. AKRO poate întreba dacă butelia e mare sau mică. Dacă butelia are crepina de jos ruptă, piesa care oprește rășina, cel mai probabil nu o mai încarcă. Încărcarea durează 3-4 zile lucrătoare de la primire, iar buteliile pe care nu le aduce clientul circulă prin Pallex, firma de transport pe paleți. A fost și o excepție: într-o confirmare termenul scris a fost de 4-5 zile.",
+    "categorie": "14-Componente pentru filtre multistrat",
+    "cand": "Clientul trimite sau vrea să trimită butelii goale (purificatoare de apă, butelii Gewapur cu pat mixt) pentru reîncărcarea cu rășină.",
+    "clarificari": [
+      "Ce butelie este: mare (P42) sau mică?"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "16-001004",
+          "rol": "linia de manoperă sub care s-a trecut înlocuirea rășinii în butelie (descriere: masă filtrantă și manoperă)"
+        },
+        {
+          "ref": "16-003003",
+          "rol": "transportul buteliilor prin Pallex, când nu le aduce clientul"
+        }
+      ],
+      "servicii": [
+        "înlocuirea rășinii în atelierul AKRO",
+        "preluare și retur prin Pallex sau ridicare de către client"
+      ],
+      "documente": [
+        "aviz de expediție",
+        "proces verbal de service"
+      ],
+      "conditii": [
+        "încărcare în 3-4 zile lucrătoare de la primirea buteliilor",
+        "o butelie cu crepina de jos ruptă cel mai probabil nu se reîncarcă"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2099492",
+        "src": "m2099524",
+        "citat": "Termenul de incarcare este de 3-4 zile lucratoare din momentul in care le primim.",
+        "pentru": "ofertă",
+        "nota": "clientul aduce buteliile, AKRO le reîncarcă și confirmă comanda (în lunile următoare pe linia 16-001004)"
+      },
+      {
+        "conv": "c2099492",
+        "src": "m2160388",
+        "citat": "Imi puteti spune despre ce butelie este vorba? [ este butelie mare sau mica?]",
+        "pentru": "clarificare",
+        "nota": "AKRO întreabă tipul buteliei înainte de confirmare"
+      },
+      {
+        "conv": "c2099492",
+        "src": "m2152676",
+        "citat": "cel mai probabil nu vom incarca butelia cu problema",
+        "pentru": "clarificare",
+        "nota": "clientul semnalează rășină în flux, iar AKRO explică că butelia cu crepina de jos ruptă nu se poate repara și cel mai probabil nu se reîncarcă"
+      },
+      {
+        "conv": "c2118244",
+        "src": "m2156740",
+        "citat": "Interventia de inlocuire a rasinii in butelii s-a finalizat.",
+        "pentru": "ofertă",
+        "nota": "6 butelii Gewapur preluate și returnate prin Pallex (16-003003), cu aviz și proces verbal"
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "Pentru 6 butelii Gewapur preluate și returnate prin Pallex, confirmarea de comandă dă termenul de înlocuire de 4-5 zile, nu 3-4 zile lucrătoare.",
+        "dovezi": [
+          {
+            "conv": "c2118244",
+            "src": "m2154916",
+            "citat": "Termen de inlocuire masa 4-5 zile",
+            "pentru": "ofertă",
+            "nota": "termenul scris pe confirmarea de comandă pentru cele 6 butelii"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R14-15",
+    "titlu": "Pyrolox (dioxid de mangan): Pyrolox Regular 8x20 la saci de 25 kg",
+    "explicatie": "Cine cere Pyrolox, o masă filtrantă care scoate fierul și manganul din apă, primește direct oferta pe Pyrolox Regular în saci de 25 kg, cu livrarea inclusă. Cantitățile mari vin din stocul furnizorului în cel mult două săptămâni. Unei firme care a cerut o listă de prețuri AKRO i-a dat comanda minimă de 40 de saci. A fost și o excepție: pentru 4 saci a ofertat cantitatea cerută, cu livrare în 3-5 săptămâni, ca s-o combine cu altă comandă și să păstreze prețul.",
+    "categorie": "14-Componente pentru filtre multistrat",
+    "cand": "Clientul cere Pyrolox, mediul catalitic pentru deferizare și demanganizare, de la câțiva saci până la tone.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "14-002035",
+          "rol": "Pyrolox Regular MnO2 8x20 (0,8-2,4 mm), saci de 25 kg (14,1 L)"
+        }
+      ],
+      "servicii": [
+        "livrare inclusă"
+      ],
+      "documente": [],
+      "conditii": [
+        "în lista de prețuri pe saci: comandă minimă de 40 de saci",
+        "cantitățile mici se livrează în 3-5 săptămâni, combinate cu altă comandă pentru menținerea prețului",
+        "cantitățile mari, din stocul furnizorului, în cel mult 2 săptămâni de la comanda fermă"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2135940",
+        "src": "m2136420",
+        "citat": "200 saci x 25kg [14.1L] fiecare – STAP VLADENI , respectiv",
+        "pentru": "ofertă",
+        "nota": "10 t ofertate pe 14-002035 la saci de 25 kg, cu livrare în cel mult 2 săptămâni din stocul furnizorului"
+      },
+      {
+        "conv": "c2148772",
+        "src": "m2148772",
+        "citat": "Putem livra astfel de comenzi intr-un termen de 3-5 saptamani [ trebuie combinat cu alta comanda pentru mentinerea pretului]",
+        "pentru": "ofertă",
+        "nota": "4 saci ofertați în text, cu livrare inclusă și termen de 3-5 săptămâni"
+      },
+      {
+        "conv": "c2151268",
+        "src": "m2151268",
+        "citat": "Pyrolux regular – pret/sac 25 kg – 98 euro fara TVA – comanda minima – 40 saci",
+        "pentru": "ofertă",
+        "nota": "preț pe sac de 25 kg și minimul de 40 de saci"
+      }
+    ],
+    "contradictii": [
+      {
+        "text": "Pentru 4 saci, AKRO nu aplică minimul de 40 de saci: ofertează cantitatea cerută, cu livrare inclusă, dar cu termen de 3-5 săptămâni.",
+        "dovezi": [
+          {
+            "conv": "c2148772",
+            "src": "m2148772",
+            "citat": "4 saci de pyrolux cu livrare inclusa pe teritoriul Romaniei",
+            "pentru": "ofertă",
+            "nota": "oferta pentru 4 saci, sub minimul de 40 de saci din lista de prețuri"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cod": "R14-16",
+    "titlu": "Livrare în mai multe locații: AKRO împarte cantitățile pe locații de descărcare",
+    "explicatie": "Când masele filtrante trebuie duse în mai multe locuri, AKRO împarte cantitățile pe fiecare loc de descărcare: în ofertă cu câte o linie pe loc, iar la comenzi cu câte o confirmare și o proformă pe adresă. Dacă clientul nu a spus, întreabă înainte dacă sunt mai multe puncte de descărcare. După ce un client a spus că are o ofertă mai bună, AKRO a propus și transport pe paleți prin DACHSER sau RABEN, mai ieftin și cu reducere, cu riscul ca marfa să vină cu mașini diferite.",
+    "categorie": "14-Componente pentru filtre multistrat",
+    "cand": "Clientul cere mase filtrante pentru mai multe stații sau puncte de lucru, sau trimite comenzi separate pentru adrese de livrare diferite.",
+    "clarificari": [
+      "Sunt mai multe locații de descărcare sau transportul se organizează într-un singur loc?"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "14-002035",
+          "rol": "câte o linie de ofertă pe fiecare locație"
+        },
+        {
+          "ref": "14-002084",
+          "rol": "câte o confirmare de comandă pe fiecare locație"
+        }
+      ],
+      "servicii": [
+        "variantă de transport paletizat european (DACHSER sau RABEN), mai ieftină, cu marfa posibil livrată cu mașini diferite"
+      ],
+      "documente": [],
+      "conditii": [
+        "reducere pentru eficientizarea transportului la varianta paletizată"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2135940",
+        "src": "m2136420",
+        "citat": "Am impartit cantitatile pentru fiecare locatie de descarcare:",
+        "pentru": "ofertă",
+        "nota": "10 t de Pyrolox împărțite în câte 5 t pe două stații"
+      },
+      {
+        "conv": "c2135940",
+        "src": "m2136484",
+        "citat": "Va las totusi in scris si oferta finala in cazul in care livram prin DACHSER sau RABEN [ transport paletizat European].",
+        "pentru": "ofertă",
+        "nota": "versiunea 2 a ofertei, cu reducere de 5% pentru transport paletizat"
+      },
+      {
+        "conv": "c2107364",
+        "src": "m2144004",
+        "citat": "Anexata comanda si proforma si pentru cea de a doua locatie de livrare",
+        "pentru": "ofertă",
+        "nota": "o confirmare de comandă și o proformă separate pentru fiecare adresă de livrare"
+      },
+      {
+        "conv": "c2132708",
+        "src": "m2167140",
+        "citat": "Sunt mai multe locatii de descarcare sau transportul se organizeaza intr-un singur loc?",
+        "pentru": "clarificare",
+        "nota": "clientul pomenește mai multe stații, iar AKRO întreabă locațiile de descărcare înainte de oferta de cărbune"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R14-17",
+    "titlu": "Mase filtrante livrate cu TIR: AKRO estimează numărul de TIR-uri și cere acces pentru TIR la stație",
+    "explicatie": "Când masa filtrantă pleacă cu TIR-ul, cum se întâmplă la tone de nisip, cărbune sau Pyrolox pentru o stație de tratare, AKRO spune clientului câte TIR-uri estimează sau îi atrage atenția că TIR-ul trebuie să poată ajunge până la stație. Uneori face amândouă. Într-o ofertă a scris că prețul s-a calculat presupunând acces pentru TIR în ambele locuri de descărcare.",
+    "categorie": "14-Componente pentru filtre multistrat",
+    "cand": "Cantitatea de masă filtrantă se livrează cu TIR (tone de nisip, cărbune sau Pyrolox la o stație de tratare).",
+    "clarificari": [],
+    "oferta": {
+      "produse": [],
+      "servicii": [
+        "livrare cu TIR (numărul de TIR-uri estimat de AKRO)"
+      ],
+      "documente": [],
+      "conditii": [
+        "trebuie să existe acces pentru TIR până la stație sau la locul de descărcare"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2136932",
+        "src": "m2136932",
+        "citat": "trebuie sa fie access pentru TIR pana la uzina de apa",
+        "pentru": "ofertă",
+        "nota": "37 t de nisip, 2 TIR-uri în total, cu acces obligatoriu pentru TIR"
+      },
+      {
+        "conv": "c2136836",
+        "src": "m2136836",
+        "citat": "Atentie de preferat ar fi sa existe access cu tir",
+        "pentru": "ofertă",
+        "nota": "avertisment pentru livrarea maselor filtrante în STAP"
+      },
+      {
+        "conv": "c2138884",
+        "src": "m2138884",
+        "citat": "Estimam livrare cu 2 tiruri – termen de 2-5 saptamani.",
+        "pentru": "clarificare",
+        "nota": "înainte de ofertă, AKRO estimează 2 TIR-uri pentru 28,5 t de cărbune (și 10-12 pentru nisip)"
+      },
+      {
+        "conv": "c2135940",
+        "src": "m2136420",
+        "citat": "Calculatia s-a facut tinand cont ca in ambele locatii de descarcare este acces TIR",
+        "pentru": "ofertă",
+        "nota": "oferta pentru 10 t de Pyrolox presupune acces TIR în ambele stații"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R14-18",
+    "titlu": "Nisip cerut în metri cubi: AKRO convertește în tone (densitate aprox. 1,55 kg/L)",
+    "explicatie": "Unii clienți cer nisipul în metri cubi. AKRO îl ofertează însă la tonă și face singur conversia, socotind că un metru cub de nisip cântărește aproximativ 1,5-1,55 tone. O cerere de 3 metri cubi a devenit așa o ofertă de 4,5 tone, iar într-o altă ofertă cele 37 de tone au fost trecute și ca 24 de metri cubi.",
+    "categorie": "14-Componente pentru filtre multistrat",
+    "cand": "Clientul dă cantitatea de nisip în metri cubi, sau AKRO o raportează și la volum.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "14-002084",
+          "rol": "nisip cuarțos la big bag, ofertat la tonă"
+        }
+      ],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "prețul și cantitatea se dau în tone, socotind 1 metru cub de nisip la aproximativ 1,5-1,55 t"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2153604",
+        "src": "m2153604",
+        "citat": "3 mc de nisip inseamna aproximativ 4.5-4.7 tone. [ densitatea nisip = 1.55 kg/L]",
+        "pentru": "ofertă",
+        "nota": "cererea de 3 mc devine o ofertă pentru 4,5 t"
+      },
+      {
+        "conv": "c2136932",
+        "src": "m2136932",
+        "citat": "oferta de pret pentru 37 tone [ echivalentul a 24mc]",
+        "pentru": "ofertă",
+        "nota": "oferta în tone, cu echivalentul în metri cubi și densitatea de 1,54 kg pe litru în ofertă"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R14-19",
+    "titlu": "Cărbune activ pudră pentru instalație de dozare: Sorbotech LPW 90, un palet de 500 kg",
+    "explicatie": "Pentru o instalație de dozare de cărbune activ pudră, folosită la poluări accidentale, AKRO a ofertat direct un palet de 500 kg de Sorbotech LPW 90, pudra standard pentru tratarea apei, deși caietul de sarcini pomenea o tonă. Nu a pus întrebări și a trimis odată cu oferta fișa tehnică, pe care o ceruse clientul. AKRO a scris că pudra standard e potrivită când nu există cerințe deosebite de adsorbție, adică de reținere a substanțelor.",
+    "categorie": "14-Componente pentru filtre multistrat",
+    "cand": "Clientul cere cărbune activ pudră pentru o instalație de dozare (adsorbție la poluări accidentale), cu caietul de sarcini al instalației.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "14-002103",
+          "rol": "cărbune activ pudră standard Sorbotech LPW 90, 1 palet (500 kg)"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișa tehnică Sorbotech LPW 90"
+      ],
+      "conditii": [
+        "pudra standard e potrivită dacă nu există cerințe deosebite de adsorbție",
+        "saci de 20 kg, comandă minimă 500 kg, livrare inclusă",
+        "termen de livrare 15 zile, plată 50% în avans și 50% la gata de livrare"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2107556",
+        "src": "m2144388",
+        "citat": "Va trimitem anexata oferta de pret pentru 1 palet de carbune pulbere standard [ utilizat in tratarea apelor].",
+        "pentru": "ofertă",
+        "nota": "AKRO alege direct cantitatea (1 palet de 500 kg) și produsul standard, fără întrebări"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R14-20",
+    "titlu": "Cerere de prețuri pentru mai multe medii filtrante: preț pe sac și comandă minimă pe fiecare reper",
+    "explicatie": "O firmă din domeniu a cerut prețuri pentru o listă de medii filtrante, fără cantități. AKRO a răspuns direct în email, fără ofertă PDF, cu prețul pe sac și comanda minimă pentru fiecare material, între 20 și 40 de saci. A precizat că nu ține mase filtrante pe stoc, așa că livrarea durează 2-4 săptămâni de la comandă. Zeolitul și Turbidex-ul de pe listă nu au primit preț.",
+    "categorie": "14-Componente pentru filtre multistrat",
+    "cand": "O firmă din domeniu cere prețuri pentru o listă de medii filtrante, fără cantități.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "14-002035",
+          "rol": "Pyrolox regular, sac de 25 kg (ofertat în text)"
+        },
+        {
+          "ref": "14-002052",
+          "rol": "cărbune bituminos LG85, sac de 40 L (ofertat în text)"
+        },
+        {
+          "ref": "13-001193",
+          "rol": "antracit, sac de 50 L (ofertat în text)"
+        },
+        {
+          "ref": null,
+          "nume": "Ecomix A, rășină de dedurizare PC003, rășină de denitrare PA202, cărbune LGCO100, nisip la sac de 25 kg",
+          "rol": "celelalte medii, cu preț pe sac de 25 L, 25 kg sau 40 L"
+        }
+      ],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "preț unitar pe sac și comandă minimă pe reper (20-40 de saci)",
+        "AKRO nu ține mase filtrante pe stoc, deci livrarea durează 2-4 săptămâni de la comandă",
+        "zeolitul și Turbidex-ul cerute nu apar în răspuns"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2151268",
+        "src": "m2151268",
+        "citat": "Va las mai jos pretul unitar /sac si comanda minima pe care o putem procesa pentru fiecare reper.",
+        "pentru": "ofertă",
+        "nota": "ofertă în text, fără PDF, cu minim de comandă pe fiecare mediu"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R14-21",
+    "titlu": "Zeolit la big bag: preț pe tonă fără transport, big bag de 1200 kg, trei granulații",
+    "explicatie": "La o cerere de preț pentru un big bag de zeolit, un mineral natural folosit ca masă filtrantă, AKRO a dat prețul pe tonă fără transport, pentru big bag de 1200 kg, în trei granulații. Prețul s-a discutat la telefon și a fost confirmat apoi în scris. Transportul prin Pallex s-a estimat separat, iar livrarea durează cel mult 2 săptămâni, mai puțin iarna.",
+    "categorie": "14-Componente pentru filtre multistrat",
+    "cand": "Clientul cere prețul pentru un big bag de zeolit.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": null,
+          "nume": "Zeolit la big bag (1200 kg), granulații 0,5-1,5 mm, 1,5-3 mm și 3-5 mm",
+          "rol": "zeolitul ofertat"
+        }
+      ],
+      "servicii": [
+        "transport prin Pallex, estimat separat"
+      ],
+      "documente": [],
+      "conditii": [
+        "preț pe tonă fără transport",
+        "cel mult 2 săptămâni, fără perioada de iarnă"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2152484",
+        "src": "m2152484",
+        "citat": "un cost de 400 euro /tona de zeolit fara TVA – si fara transport!",
+        "pentru": "ofertă",
+        "nota": "preț discutat telefonic și confirmat în scris, cu transportul Pallex estimat separat"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R14-22",
+    "titlu": "Listă de componente pentru un sistem de filtrare pe coloane: AKRO ofertează pozițiile cerute și explică fiecare diferență",
+    "explicatie": "Un client a trimis cererea pentru un sistem de tratare pe coloane, cu vane Clack, distribuitoare, mase filtrante și pompă de dozare, și a acceptat produse echivalente. AKRO a ofertat doar pozițiile cerute și a explicat în email fiecare abatere. Pietrișul a fost ofertat la 2-4 mm în loc de 3-5 mm, pompa a fost înlocuită cu un model SEKO digital, modulul de relee a rămas deoparte pentru că vanele îl au deja, iar mixerul static lipsea din portofoliu.",
+    "categorie": "14-Componente pentru filtre multistrat",
+    "cand": "Clientul trimite o listă de componente pentru un sistem de tratare (coloane, vane Clack, distribuitoare, mase filtrante, pompă de dozare), cu echivalente acceptate.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "14-003076",
+          "rol": "coloană 16x65 Canature"
+        },
+        {
+          "ref": "14-003074",
+          "rol": "coloană 14x65 Canature"
+        },
+        {
+          "ref": "14-001008",
+          "rol": "vană Clack WS1CI filter meter (backwash only)"
+        },
+        {
+          "ref": "14-001018",
+          "rol": "by-pass Clack 1\""
+        },
+        {
+          "ref": "14-001019",
+          "rol": "carcasă DLFC 1\""
+        },
+        {
+          "ref": "14-001020",
+          "rol": "restrictor DLFC dimensionat pe debit"
+        },
+        {
+          "ref": "14-001010",
+          "rol": "transformatorul vanei Clack"
+        },
+        {
+          "ref": "14-005026",
+          "rol": "distribuitor cu coș inferior și tub central"
+        },
+        {
+          "ref": "14-001011",
+          "rol": "coș superior 1\""
+        },
+        {
+          "ref": "14-002104",
+          "rol": "mediu filtrant Katalox Light"
+        },
+        {
+          "ref": "14-002033",
+          "rol": "pietriș suport 2-4 mm"
+        },
+        {
+          "ref": "14-002052",
+          "rol": "cărbune activ LG85 pentru reținerea clorului"
+        },
+        {
+          "ref": "11-002012",
+          "rol": "pompa dozatoare SEKO TPG603, ofertată în locul pompei AML"
+        }
+      ],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "în email AKRO enumeră pozițiile schimbate sau neofertate (granulația pietrișului, modulul de relee, pompa, mixerul static)",
+        "garanție 12 luni, livrare în 2-3 săptămâni, plată 50% în avans și 50% la gata de livrare"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2154436",
+        "src": "m2154436",
+        "citat": "Oferta anexata a fost generata strict pentru echipamentele solicitate cu urmatoarele mentiuni:",
+        "pentru": "ofertă",
+        "nota": "oferta cu lista diferențelor față de cererea clientului"
+      },
+      {
+        "conv": "c2154436",
+        "src": "m2154436",
+        "citat": "NU AM OFERTAT MIXER STATIC DN40 - nu avem disponibil in portofoliu",
+        "pentru": "ofertă",
+        "nota": "pozițiile din afara portofoliului se lasă deoparte, cu explicație"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R14-23",
+    "titlu": "Piese de schimb Clack WS2 pentru o instalație existentă: ofertă pe coduri, cu diferențele față de comenzile anterioare semnalate",
+    "explicatie": "Un client existent care cere piese de schimb pentru vanele Clack WS2 primește oferta direct pe coduri, cu discountul pe care îl ceruse și în trecut. Când ceva din ofertă diferă de comenzile de până atunci sau de cerere, AKRO spune asta în email. Cartușele au fost ofertate la 10 și 5 microni, cum le ceruse acum, deși înainte luase de 50 și 10 microni, iar AKRO l-a rugat să aleagă.",
+    "categorie": "14-Componente pentru filtre multistrat",
+    "cand": "Un client existent cere piese de schimb pentru vanele Clack WS2 (drive cap, spacer stack, piston), de obicei împreună cu alte consumabile ale instalației.",
+    "clarificari": [
+      "Doriți varianta ofertată acum sau cea cumpărată în trecut (când produsele diferă)?"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "14-001128",
+          "rol": "WS2 drive cap assembly"
+        },
+        {
+          "ref": "13-001166",
+          "rol": "WS2 spacer stack downflow"
+        },
+        {
+          "ref": "14-001163",
+          "rol": "ansamblu piston WS2 downflow"
+        },
+        {
+          "ref": "14-001162",
+          "rol": "piston de saramură WS2, adăugat la setul de piston"
+        }
+      ],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "se menține discountul de 3% acordat clientului în trecut",
+        "AKRO semnalează în email ce diferă de cerere sau de comenzile anterioare (cartușe, numărul de pungi de bile)"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2124804",
+        "src": "m2159716",
+        "citat": "In trecut se achizitionau cartuse de 50 microni respective 10 microni – acum s-au ofertat cartuse de 10 microni si de 5 microni.",
+        "pentru": "clarificare",
+        "nota": "AKRO cere clientului să aleagă între varianta ofertată și cea din trecut"
+      },
+      {
+        "conv": "c2124804",
+        "src": "m2159716",
+        "citat": "Am mentinut si acordat si discountul de 3% solicitat in trecut.",
+        "pentru": "ofertă",
+        "nota": "piesele WS2 ofertate pe coduri, cu discountul istoric al clientului"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R14-25",
+    "titlu": "Analize de apă cu arsenul la ieșire aproape de limită: AKRO recomandă schimbul masei filtrante",
+    "explicatie": "Un client cu instalație de reținere a arsenului a trimis buletinul de analize, iar arsenul la ieșire era în jur de 6 micrograme pe litru. AKRO i-a spus că rezultatele par bune, dar i-a recomandat să planifice un schimb de masă filtrantă, poate chiar la începutul anului următor. Cu masă nouă, arsenul la ieșire ar trebui să coboare la 1-2 micrograme pe litru.",
+    "categorie": "14-Componente pentru filtre multistrat",
+    "cand": "Clientul cu instalație de reținere a arsenului trimite buletinul de analize, iar arsenul la ieșire a ajuns la aproximativ 6 micrograme pe litru.",
+    "clarificari": [
+      "AKRO recomandă planificarea unui schimb de masă (de exemplu la începutul anului următor), iar cu masă nouă ieșirea ar trebui să fie de 1-2 micrograme pe litru."
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [
+        "schimb de masă filtrantă, recomandat înainte de ofertă"
+      ],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2125252",
+        "src": "m2160036",
+        "citat": "ar trebui sa aveti in vedere in perioada urmatoare [ poate chiar la inceputul anului urmator] - un schimb de masa.",
+        "pentru": "clarificare",
+        "nota": "răspunsul AKRO la buletinul de analize din septembrie"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R14-26",
+    "titlu": "Blocuri de filtrare Leopold importate pentru un client din afara UE: AKRO întreabă de comisionarul vamal",
+    "explicatie": "La un proiect din Republica Moldova, blocurile de filtrare Leopold, piese care formează fundul filtrelor, au venit din SUA și Canada prin Portul Constanța. Înainte de sosirea vapoarelor, AKRO a întrebat clientul dacă are un comisionar vamal în port care să rezolve formalitățile și dacă acesta preia și livrează marfa. Apoi a cerut furnizorului catalogul de produse, ca să le poată identifica comisionarul în factură.",
+    "categorie": "14-Componente pentru filtre multistrat",
+    "cand": "Componente underdrain Leopold (Xylem), aduse din SUA și Canada prin Portul Constanța pentru un proiect din Republica Moldova.",
+    "clarificari": [
+      "Aveți un comisionar vamal în Portul Constanța pentru formalitățile vamale?",
+      "Comisionarul se ocupă și de preluarea din port și livrarea mărfii?"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": null,
+          "nume": "blocuri de filtrare și ansambluri metalice underdrain Leopold",
+          "rol": "marfa importată de la Xylem"
+        }
+      ],
+      "servicii": [
+        "deplasarea unui tehnician de service al furnizorului, solicitată de AKRO de la 9 noiembrie"
+      ],
+      "documente": [
+        "factura AKRO, avizul AKRO, avizul producătorului și conosamentul (Bill of Lading)",
+        "catalogul de produse, cerut furnizorului pentru comisionarul vamal"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2135172",
+        "src": "m2155396",
+        "citat": "Aveti cumva un comisionar vamal cu care lucrati pe Portul Constanta cu care putem rezolva formalitatile vamale?",
+        "pentru": "clarificare",
+        "nota": "întrebarea pusă înainte de sosirea vapoarelor"
+      },
+      {
+        "conv": "c2135172",
+        "src": "m2155748",
+        "citat": "Imi puteti confirma daca Dl Sergiu de la Sergetrans – se va ocupa si de livrarea propriu-zisa a marfii?",
+        "pentru": "clarificare",
+        "nota": "AKRO verifică și cine preia și livrează marfa din port"
+      },
+      {
+        "conv": "c2162564",
+        "src": "m2162564",
+        "citat": "Catalog de produse – astfel incat comisionarul vamal sa poata identifica produsele din factura",
+        "pentru": "clarificare",
+        "nota": "AKRO cere furnizorului documentele de care are nevoie comisionarul clientului"
+      }
+    ],
+    "contradictii": []
+  }
+]

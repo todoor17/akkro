@@ -1,0 +1,2252 @@
+CATEGORIA 08-Osmoza si filtrare pe membrane
+
+####################################################################################################
+RÂND c2099908 (nr. 56) | stare: Completă | categorie: 08-Osmoza si filtrare pe membrane | cerere: Instalație de osmoză inversă pentru spălătorie industrială
+CERINȚA: Cere o stație de osmoză inversă de cca 6-7 m³/h (în viitor 10 m³/h) pentru mașini industriale de spălat și cazan de abur. [m2099908] «are nevoie de o statie de osmoza inversa de cca 6-7 m3 /h»
+CERINȚĂ FINALĂ (aplicație): Alimentarea tamburilor mașinilor industriale de spălat și a unui cazan de abur acvatubular [m2099908] «Apa osmozata este folosita pentru alimentarea tamburilor masinii industriale de spalat»
+CERINȚĂ FINALĂ (debit): Cca 4 m³/h osmoză inversă, consumatori auxiliari 1-2 m³/h [m2099908] «cca 4 m3/h osmoza inversa .Consumatori auxiliari cca 1-2 m3/h.»
+CERINȚĂ FINALĂ (capacitate): Consum maxim zilnic 30 m³ [m2099908] «Astazi 30 m3/h»
+CERINȚĂ FINALĂ (calitate apă): Sursă: foraj de cca 21 m; apa de foraj are valori foarte mari, apa de rețea pare în regulă [m2099908] «Apa de retea pare in regula in schimb apa de foraj are valori foarte mari.»
+CERINȚĂ FINALĂ (altele): Nu există filtrare existentă, doar forajul cu pompă; un singur schimb [m2099908] «Nu exista filtrare .Avem doar forajul echipat cu pompa.»
+CLARIFICARE: întrebare AKRO întreabă sursa apei, buletinul de analiză, fluxul existent, debitul orar, consumul zilnic și numărul de schimburi. [m2099908] «De unde provine apa bruta?Foraj cca 21 m adancime» → răspuns Clientul: foraj de 21 m, buletin vechi, fără filtrare, cca 4 m³/h RO + 1-2 m³/h auxiliari, 30 m³/zi, un schimb. [m2099908] «In cate schimburi se lucreaza?Un singur schimb» | schimbare: Debitul de osmoză s-a precizat la cca 4 m³/h; trebuie proiectate și treptele de filtrare.
+CLARIFICARE: întrebare - → răspuns AKRO propune variante: osmoză 2 mc/h cu bazin 20 mc sau 3 mc/h cu bazin 10 mc și UV. [m2099908] «Statie de osmoza 3mc/h – si un bazin de stocare de 10 mc» | schimbare: Dimensionarea s-a redus la 2-3 mc/h cu bazin de stocare.
+CLARIFICARE: întrebare - → răspuns După analize, AKRO propune 3 variante: tratare foraj + osmoză 3 mc/h, dedurizare apă de rețea 7 mc/h, sau apă de rețea + osmoză 3 mc/h. [m2137988] «Sunt 3 variante in situatia data:» | schimbare: AKRO recomandă să nu se trateze apa din foraj și oferă variante pe apa de rețea.
+TELEFON: Discuție telefonică inițială (vineri) cu AKRO despre dimensionarea instalației. [m2099908] «Conform discutiei telefonice de vineri, pentru o dimensionare corecta a instalatiei»
+OFERTĂ ÎN TEXT: Varianta 1 (tratare foraj + osmoză 3 mc/h): aprox. 67000 euro fără TVA [m2137988] «ar ajunge la aproximativ 67000 euro fara TVA.»
+OFERTĂ ÎN TEXT: Varianta 2 (filtrare + dedurizare duplex apă de rețea): aprox. 7000 euro fără TVA [m2137988] «Bugetul echipamentelor enumerate mai sus – aprox 7000 euro fara TVA»
+OFERTĂ ÎN TEXT: Varianta 3 (apă de rețea + osmoză 3 mc/h): aprox. 32000 euro, fără bazinul final [m2137988] «bugetul pentru furnizarea de echipamente ar fi de aproximativ 32000 euro»
+REZULTAT: necunoscut
+
+
+====================================================================================================
+CONVERSAȚIA c2099908 (nr. 56) | subiect: Re: Cerere oferta - TEXTIL SERVICE - instalatie osmoza
+Partener (după adrese): stefanfira@gmail.com FIRA STEFAN | grupare nesigură: nu
+
+--- MESAJ m2099908 | 2026-07-09 09:28 | Inbox | EXTERN
+De la: FIRA STEFAN <stefanfira@gmail.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@imageservice.ro, mihaiflorin78@yahoo.com, office@akro.ro
+Subiect: Re: Cerere oferta - TEXTIL SERVICE - instalatie osmoza
+Buna ziua ,
+
+Asa cum am discutat va atasez analizele de apa . Apa de retea pare in regula in schimb apa de foraj are valori foarte mari.Posibil ca putul sa necesite limpezire .A fost lasat sa curga putin .
+
+Cu stima,
+
+Stefan Fira
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+On Tue, Mar 10, 2026 at 4:21 PM AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro> wrote:
+
+Buna ziua,
+
+Totul clar, asteptam buletinul de analize [ chiar si cel vechi macar sa ne facem o idee].
+
+Nu stiu ce calitate a apei va fi nevoie pentru consumatorii auxiliari [ daca se accepta tot apa osmozata] atunci se pot alimenta direct din bazinul de stocare final
+
+Referitor la SDI – verificati daca fac cei de la TUV AUSTRIA – au sediul in Bucuresti Calea Plevnei – sector 6 [am si un contact: ANA NICOLAEV 0730654085] .
+
+Referitor la consum si dimensionare propun urmatoarele variante:
+
+Statie de osmoza 2mc/h – dar trebuie un bazin de stocare de 20mc [ trebuie vazut si cum il tinem dezinfectat - in functie de consum]
+
+Statie de osmoza 3mc/h – si un bazin de stocare de 10 mc [ aici lucrurile sunt mai simple pe partea de dezinfectie – se poate face doar o sterilizare la iesire din bazin catre consumator – cu UV.
+
+Trimit anexata si o fotografie cu o statie de 3mc/h – instalatie montata la inceput de 2024 – la o fabrica de servetele umede Constanta [ apa osmozata se utilizeaza in produs]
+
+Asteptam schema si buletinul.
+
+De asemenea ne-ar ajuta sa stim si la ce calitate se doreste a se ajunge cu apa osmozata.
+
+Cu respect,
+
+From: FIRA STEFAN <stefanfira@gmail.com>
+Sent: Monday, March 9, 2026 6:37 PM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@imageservice.ro; mihaiflorin78@yahoo.com; Akro Filtrare <office@akro.ro>
+Subject: Re: Cerere oferta - TEXTIL SERVICE - instalatie osmoza
+
+Buna seara ,
+
+Raspunsurile cu albastru.
+
+Cu stima,
+
+De unde provine apa bruta?Foraj cca 21 m adancime
+
+Aveti disponibil un buletin de analiza al acestei ape [ este important sa avem minim urmatorii parametrii: Turbiditate, pH, fier, mangan, duritate, sodiu, clor liber rezidual, cloruri, indice SDI, conductivitate totala si microbiologie]Exista un buletin de analiza vechi (de acum cca 3 ani).Organizam prelevare pentru analize .Pentru SDI nu avem unde sa-l facem.Ne puteti ajuta ?
+
+In acest moment exista un flux de tratare montat [ filtre pompe bazine – avem nevoie de o descriere/ desen de flux/ chiar si o schema de mana ar ajuta].Nu exista filtrare .Avem doar forajul echipat cu pompa.Va trebui sa ne ajutati cu treptele de filtrare.O sa creionez eu un desen si vi0l trimit in seara aceasta.
+
+Care este debitul maxim orar de apa tratata?cca 4 m3/h osmoza inversa .Consumatori auxiliari cca 1-2 m3/h.
+
+Care este consumul de apa maxim in 24 h?Astazi 30 m3/h
+
+In cate schimburi se lucreaza?Un singur schimb
+
+On Mon, Mar 9, 2026 at 10:46 AM AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro> wrote:
+
+Buna ziua Dl Fira,
+
+Va multumim pentru solicitarea dumneavoastra!
+
+Conform discutiei telefonice de vineri, pentru o dimensionare corecta a instalatiei vom mai avea nevoie de cateva informatii printre care:
+
+De unde provine apa bruta?
+
+Aveti disponibil un buletin de analiza al acestei ape [ este important sa avem minim urmatorii parametrii: Turbiditate, pH, fier, mangan, duritate, sodiu, clor liber rezidual, cloruri, indice SDI, conductivitate totala si microbiologie]
+
+In acest moment exista un flux de tratare montat [ filtre pompe bazine – avem nevoie de o descriere/ desen de flux/ chiar si o schema de mana ar ajuta]
+
+Care este debitul maxim orar de apa tratata?
+
+Care este consumul de apa maxim in 24 h?
+
+In cate schimburi se lucreaza?
+
+Asteptam cu interes raspunsul dumneavoastra!
+
+Numai bine,
+
+From: FIRA STEFAN <stefanfira@gmail.com>
+Sent: Friday, March 6, 2026 6:20 PM
+To: alexandru.soare@akro.ro
+Cc: office@imageservice.ro; mihaiflorin78@yahoo.com
+Subject: Cerere oferta
+
+Buna ziua,
+
+Asa cum am discutat colegul meu Mihai Ciolan (0765210324) care lucreaza la Textil service are nevoie de o statie de osmoza inversa de cca 6-7 m3 /h si , in viitor cca 10 m3/h.
+
+Apa osmozata este folosita pentru alimentarea tamburilor masinii industriale de spalat (se spala cu precadere lenjerii de pat si prosoape) si un cazan de abur acvatubular.
+
+Conform celor discutate 
+[ATAȘAMENT: Rezultate IMAGE SERICES.pdf | PDF fără text (scanat)]
+
+--- MESAJ m2136548 | 2026-07-13 16:01 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: Cerere oferta - TEXTIL SERVICE - instalatie osmoza
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: FIRA STEFAN <stefanfira@gmail.com>
+Sent: Thursday, July 9, 2026 9:28 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@imageservice.ro; mihaiflorin78@yahoo.com; Akro Filtrare <office@akro.ro>
+Subject: Re: Cerere oferta - TEXTIL SERVICE - instalatie osmoza
+
+Buna ziua ,
+
+Asa cum am discutat va atasez analizele de apa . Apa de retea pare in regula in schimb apa de foraj are valori foarte mari.Posibil ca putul sa necesite limpezire .A fost lasat sa curga putin .
+
+Cu stima,
+
+Stefan Fira
+
+On Tue, Mar 10, 2026 at 4:21 PM AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro> wrote:
+
+Buna ziua,
+
+Totul clar, asteptam buletinul de analize [ chiar si cel vechi macar sa ne facem o idee].
+
+Nu stiu ce calitate a apei va fi nevoie pentru consumatorii auxiliari [ daca se accepta tot apa osmozata] atunci se pot alimenta direct din bazinul de stocare final
+
+Referitor la SDI – verificati daca fac cei de la TUV AUSTRIA – au sediul in Bucuresti Calea Plevnei – sector 6 [am si un contact: ANA NICOLAEV 0730654085] .
+
+Referitor la consum si dimensionare propun urmatoarele variante:
+
+Statie de osmoza 2mc/h – dar trebuie un bazin de stocare de 20mc [ trebuie vazut si cum il tinem dezinfectat - in functie de consum]
+
+Statie de osmoza 3mc/h – si un bazin de stocare de 10 mc [ aici lucrurile sunt mai simple pe partea de dezinfectie – se poate face doar o sterilizare la iesire din bazin catre consumator – cu UV.
+
+Trimit anexata si o fotografie cu o statie de 3mc/h – instalatie montata la inceput de 2024 – la o fabrica de servetele umede Constanta [ apa osmozata se utilizeaza in produs]
+
+Asteptam schema si buletinul.
+
+De asemenea ne-ar ajuta sa stim si la ce calitate se doreste a se ajunge cu apa osmozata.
+
+Cu respect,
+
+From: FIRA STEFAN <stefanfira@gmail.com>
+Sent: Monday, March 9, 2026 6:37 PM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@imageservice.ro; mihaiflorin78@yahoo.com; Akro Filtrare <office@akro.ro>
+Subject: Re: Cerere oferta - TEXTIL SERVICE - instalatie osmoza
+
+Buna seara ,
+
+Raspunsurile cu albastru.
+
+Cu stima,
+
+De unde provine apa bruta?Foraj cca 21 m adancime
+
+Aveti disponibil un buletin de analiza al acestei ape [ este important sa avem minim urmatorii parametrii: Turbiditate, pH, fier, mangan, duritate, sodiu, clor liber rezidual, cloruri, indice SDI, conductivitate totala si microbiologie]Exista un buletin de analiza vechi (de acum cca 3 ani).Organizam prelevare pentru analize .Pentru SDI nu avem unde sa-l facem.Ne puteti ajuta ?
+
+In acest moment exista un flux de tratare montat [ filtre pompe bazine – avem nevoie de o descriere/ desen de flux/ chiar si o schema de mana ar ajuta].Nu exista filtrare .Avem doar forajul echipat cu pompa.Va trebui sa ne ajutati cu treptele de filtrare.O sa creionez eu un desen si vi0l trimit in seara aceasta.
+
+Care este debitul maxim orar de apa tratata?cca 4 m3/h osmoza inversa .Consumatori auxiliari cca 1-2 m3/h.
+
+Care este consumul de apa maxim in 24 h?Astazi 30 m3/h
+
+In cate schimburi se lucreaza?Un singur schimb
+
+On Mon, Mar 9, 2026 at 10:46 AM AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro> wrote:
+
+Buna ziua Dl Fira,
+
+Va multumim pentru solicitarea dumneavoastra!
+
+Conform discutiei telefonice de vineri, pentru o dimensionare corecta a instalatiei vom mai avea nevoie de cateva informatii printre care:
+
+De unde provine apa bruta?
+
+Aveti disponibil un buletin de analiza al acestei ape [ este important sa avem minim urmatorii parametrii: Turbiditate, pH, fier, mangan, duritate, sodiu, clor liber rezidual, cloruri, indice SDI, conductivitate totala si microbiologie]
+
+In acest moment exista un flux de tratare montat [ filtre pompe bazine – avem nevoie de o descriere/ desen de flux/ chiar si o schema de mana ar ajuta]
+
+Care este debitul maxim orar de apa tratata?
+
+Care este consumul de apa maxim in 24 h?
+
+In cate schimburi se lucreaza?
+
+Asteptam cu interes raspunsul dumneavoastra!
+
+Numai bine,
+
+From: FIRA STEFAN <stefanfira@gmail.com>
+Sent: F
+[ATAȘAMENT: Rezultate IMAGE SERICES.pdf | PDF fără text (scanat)]
+
+--- MESAJ m2137988 | 2026-07-16 10:48 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: FIRA STEFAN <stefanfira@gmail.com>
+Cc: office@imageservice.ro, mihaiflorin78@yahoo.com, office@akro.ro
+Subiect: RE: Cerere oferta - TEXTIL SERVICE - instalatie osmoza
+Buna ziua Dl Fira,
+
+Imi cer scuze pentru raspunsul intarziat, numai luni m-am intors la birou din concediu.
+
+Am verificat buletinele , va multumesc!
+
+Sunt 3 variante in situatia data:
+
+Varianta 1 - tratare foraj pana la osmozare – debit de produs – 3mc/h [ consum zilnic maxim 30mc]
+
+In cazul in care se doreste a se utiliza obligatoriu forajul, atunci costul strict pentru furnizarea de echipamente [ fara bazinul final de 10mc] – ar ajunge la aproximativ 67000 euro fara TVA.
+
+Flucul de tratare ar include:
+
+O filtrare grosiera
+
+Doua dozari de oxidant + soda
+
+Bazin de 3-4 mc pentru timp de contact
+
+Grup de pompare 2x5mc/h
+
+Baterie de filtre cu pyrolux
+
+Baterie cu filtre cu carbune
+
+Dedurizator partial
+
+Dozator de antiscalant
+
+Statie de osmoza 3 mc/h
+
+Din punctul nostru de vedere, apa din foraj nu merita a fi tratata. Numai din costul consumabilelor [ fara energie, sau apa aruncata la canal] – costul pe mc de apa osmozata in cazul acesta ajunge la +-9.5lei/mc
+
+La care nu am calculat, membranele osmotice – care pe o astfel de conductivitate estimam ca se vor schimba la 1-2 ani.
+
+Varianta 2 – tratare sursa de retea – doar dedurizare - debit maxim produs pana la 7mc/h [ consum zilnic maxim 30mc]
+
+In cazul in care se doreste tratarea apei de retea, daca clientul doreste strict retinere de duritate [ de obicei pe cazane/ masini de spalat cam atat se face ca si protectie utilaje si scaderea consumului de sapun], atunci se pot monta direct in teava de la reteaua de apa urmatoarele [ trebuie sa fie presiune minima de 2-3bari]:
+
+O fitrare grosiera cu racord de 1.5”
+
+O statie de dedurizare duplex cu Vane clack de 1.5” CI + vase de rasini de 18x65[FRP] – cantitate rasini – 175L pe fiecare coloana
+
+Bugetul echipamentelor enumerate mai sus – aprox 7000 euro fara TVA
+
+Cost consumabile[sare] – aprox -0.6-0.7 lei/mc de apa produs
+
+Varianta 3 – tratare sursa de retea – pana la osmozare – debit maxim produs 3mc/h [ consum zilnic maxim 30 mc]
+
+Atunci bugetul pentru furnizarea de echipamente ar fi de aproximativ 32000 euro [ fara bazinul final de stocare de 10mc] , iar fluxul ar include :
+
+O filtrare grosiera cu racord de 1.5”
+
+Doua filtre de carbune de 200L fiecare [ pentru retinere clor rezidual]
+
+O statie de dedurizare duplex cu 175L – vane de comanda 1.5” Ci Clack
+
+O statie de osmoza de 3mc/h cu membrane incluse.
+
+In reteaua existenta trebuie sa fie disponibil un debit de minim 6 mc/h si o presiune de minim 4 bar [ daca nu exista atunci trebuie montata si o pompa de crestere a presiunii].
+
+Consumabilele [sare]in acest caz [ fara calculul de energie sau apa aruncata la canal] – ar ajunge la aproximativ 1 leu/mc de apa osmozata produs
+
+Pentru orice alte intrebari, sau informatii , va stau cu placere la dispozitie!
+
+Numai bine,
+
+####################################################################################################
+RÂND c2104804 (nr. 154) | stare: Completă | categorie: 08-Osmoza si filtrare pe membrane | cerere: Instalație tratare apă potabilă Oteșani (bugetare)
+CERINȚA: Cere ofertă de bugetare pentru echipamentele unei instalații de tratare a apei potabile pentru Primăria Oteșani, debit 10–12 m³/h. [m2104804] «Debitul de proiect este de 10–12 m³/h.»
+CERINȚĂ FINALĂ (debit): 10–12 m³/h [m2104804] «Debitul de proiect este de 10–12 m³/h.»
+CERINȚĂ FINALĂ (aplicație): Apă potabilă pentru Primăria Oteșani, jud. Vâlcea [m2104804] «Am primit o solicitare de ofertă din partea Primăriei Oteșani, județul Vâlcea»
+CERINȚĂ FINALĂ (calitate apă): Două surse (Moara Arsă, conductivitate 1460 µS/cm; Stadion, 1034 µS/cm) [m2104804] «LOC COLECTARE PROBA: Sursa nr. 1 ,,Moara Arsa”- sat Otesani»
+CERINȚĂ FINALĂ (altele): Ofertă în scop de bugetare [m2104804] «Menționăm că oferta este solicitată în această etapă în scop de bugetare.»
+CLARIFICARE: întrebare AKRO întreabă dacă 12 m³/h e debitul sursei sau cel dorit și ce debit și presiune sunt disponibile. [m2141060] «12 mc/h este debitul din sursa sau debitul ce se doreste a se obtine?» → răspuns - | schimbare: Fără răspuns; clientul doar transmite mai departe soluția.
+OFERTĂ ÎN TEXT: Sursa Stadion: filtru + clorinare 12 m³/h ≈ 1500 EUR fără TVA (plus ≈ 6500 EUR pentru dedurizare duplex 200 L). [m2141060] «Buget pentru filtru + clorinare 12 mc/h – aproximativ 1500 euro fara TVA»
+OFERTĂ ÎN TEXT: Sursa Moara Arsă: osmoză obligatorie, ≈ 59.000 EUR echipamente (2 filtre multimedia 400 L, duplex 600 L, osmoză 6 m³/h, clorinare). [m2141060] «cu un buget la echipamente de aprox 59000euro»
+REZULTAT: necunoscut — Danex mulțumește și transmite mai departe soluția. [m2105444] «Vom transmite si noi mai departe solutia prezentata de dvs.»
+
+
+====================================================================================================
+CONVERSAȚIA c2104804 (nr. 154) | subiect: FW: Statii tratare Otesani
+Partener (după adrese): danex.ro Stelica Paraschiv, Mihai Stanescu | grupare nesigură: nu
+
+--- MESAJ m2104804 | 2026-07-23 10:20 | Inbox | EXTERN
+De la: Stelica Paraschiv <stelica.paraschiv@danex.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: mihai.stanescu@danex.ro
+Subiect: FW: Statii tratare Otesani
+Bună ziua,
+
+Am primit o solicitare de ofertă din partea Primăriei Oteșani, județul Vâlcea, pentru o instalație de tratare a apei potabile.
+
+Vă rugăm să ne transmiteți o ofertă pentru echipamentele necesare procesului de tratare, având în vedere parametrii de calitate ai apei prezentați
+în buletinele de analiză atașate. Debitul de proiect este de 10–12 m³/h.
+
+Menționăm că oferta este solicitată în această etapă în scop de bugetare.
+
+Vă mulțumim și așteptăm oferta dumneavoastră.
+
+<![if !vml]><![endif]>
+
+Cu stimă,
+
+Paraschiv Stelică
+
+Inginer ofertare
+
+Danex Echipamente SRL
+
+Punct de lucru:
+Bd. Biruintei nr.241B,
+Hala C2, cod postal 077145
+
+Pantelimon, jud.Ilfov
+
+Tel Mobil : +40 733977636
+
+E-mail: stelica.paraschiv@danex.ro
+[ATAȘAMENT: 2634. MOARA ARSA 18.05.2026.pdf | text extras]
+Laborator analize fizico – chimice
+pentru
+apa, aer, zgomot si microbiologie
+ARTOPROD S.R.L.
+Rm. Valcea, Str. Aleea Parteneriatului, nr.12
+Tel: 0250/736527; 0744/147345; Fax: 0250/736528
+Web: www.artoprod.ro.email:artoprodsrl@yahoo.com Laborator acreditat 17025:2017
+
+DIRECTOR,
+PREDA IONEL
+RAPORT DE INCERCARE
+NR. 2634/ DATA 19.05.2026
+
+BENEFICIAR: PRIMARIA COMUNEI OTESANI, Jud. Valcea
+TIPUL PROBEI: APA POTABILA
+DATA COLECTARII PROBEI/ORA PRELEVARII: 18.05.2026/1033
+PERIOADA DETERMINARII ANALIZELOR: 18.05.2026-19.05.2026
+CANTITATEA DE PROBA RECEPTIONATA: 1 L
+LOC COLECTARE PROBA: Sursa nr. 1 ,,Moara Arsa”- sat Otesani
+CONSERVARE /MANIPULARE/TRANSPORT: SR ISO 5667-3:2024
+COD PROBA: 2634
+
+VALOAREA MAXIMA
+ADMISIBILA,
+CONFORM
+Nr. INDICATORUL VALOAREA METODA DE
+UM ORDONANTEI
+Crt DE CALITATE DETERMINATA INCERTITUDINE ANALIZA
+NR.7/2023/
+DE MASURARE
+HOTARARE
+NR.971/2023
+1 Aspect 1) - Limpede, incolor, - PS-LA-68
+fara suspensii
+2 Culoare 1) - Acceptabila Acceptabila - PS-LA-68
+consumatorilor si nicio consumatorilor si nicio
+modificare anormala modificare anormala
+3 Miros1) - Acceptabil consumatorilor Acceptabil - PS-LA-68
+si nicio modificare consumatorilor si nicio
+anormala modificare anormala
+4 Gust1) - Acceptabil consumatorilor Acceptabil - PS-LA-68
+si nicio modificare consumatorilor si nicio
+anormala modificare anormala
+5 pH unitati ≥6.5;≤ 9.5 7.39 ± 1% SR ISO
+de pH Temperatura de 10523:2012
+masurare: 25.0˚C PS-LA 01
+6 Conductivitate µs/cm 2500 1460 ± 1% SR EN
+Temperatura de 27888 :97
+
+[ATAȘAMENT: 2635. LA STADION 18.05.2026.pdf | text extras]
+Laborator analize fizico – chimice
+pentru
+apa, aer, zgomot si microbiologie
+ARTOPROD S.R.L.
+Rm. Valcea, Str. Aleea Parteneriatului, nr.12
+Tel: 0250/736527; 0744/147345; Fax: 0250/736528
+Web: www.artoprod.ro.email:artoprodsrl@yahoo.com Laborator acreditat 17025:2017
+
+DIRECTOR,
+PREDA IONEL
+RAPORT DE INCERCARE
+NR. 2635/ DATA 19.05.2026
+
+BENEFICIAR: PRIMARIA COMUNEI OTESANI, Jud. Valcea
+TIPUL PROBEI: APA POTABILA
+DATA COLECTARII PROBEI/ORA PRELEVARII: 18.05.2026/1110
+PERIOADA DETERMINARII ANALIZELOR: 18.05.2026-19.05.2026
+CANTITATEA DE PROBA RECEPTIONATA: 1 L
+LOC COLECTARE PROBA: Sursa nr. 2 ,,Stadion Otesani”- sat Otesani
+CONSERVARE /MANIPULARE/TRANSPORT: SR ISO 5667-3:2024
+COD PROBA: 2635
+
+VALOAREA MAXIMA
+ADMISIBILA,
+CONFORM
+Nr. INDICATORUL VALOAREA METODA DE
+UM ORDONANTEI
+Crt DE CALITATE DETERMINATA INCERTITUDINE ANALIZA
+NR.7/2023/
+DE MASURARE
+HOTARARE
+NR.971/2023
+1 Aspect 1) - Limpede, incolor, - PS-LA-68
+fara suspensii
+2 Culoare 1) - Acceptabila Acceptabila - PS-LA-68
+consumatorilor si nicio consumatorilor si nicio
+modificare anormala modificare anormala
+3 Miros1) - Acceptabil consumatorilor Acceptabil - PS-LA-68
+si nicio modificare consumatorilor si nicio
+anormala modificare anormala
+4 Gust1) - Acceptabil consumatorilor Acceptabil - PS-LA-68
+si nicio modificare consumatorilor si nicio
+anormala modificare anormala
+5 pH unitati ≥6.5;≤ 9.5 7.15 ± 1% SR ISO
+de pH Temperatura de 10523:2012
+masurare: 25.0˚C PS-LA 01
+6 Conductivitate µs/cm 2500 1034 ± 1% SR EN
+Temperatura de 27888
+
+--- MESAJ m2140868 | 2026-07-23 10:24 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: Statii tratare Otesani
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Stelica Paraschiv <stelica.paraschiv@danex.ro>
+Sent: Thursday, July 23, 2026 10:21 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: Mihai Stanescu <mihai.stanescu@danex.ro>
+Subject: FW: Statii tratare Otesani
+
+Bună ziua,
+
+Am primit o solicitare de ofertă din partea Primăriei Oteșani, județul Vâlcea, pentru o instalație de tratare a apei potabile.
+
+Vă rugăm să ne transmiteți o ofertă pentru echipamentele necesare procesului de tratare, având în vedere parametrii de calitate ai apei prezentați în buletinele de analiză atașate. Debitul de proiect este de 10–12 m³/h.
+
+Menționăm că oferta este solicitată în această etapă în scop de bugetare.
+
+Vă mulțumim și așteptăm oferta dumneavoastră.
+
+<![if !vml]><![endif]>
+Cu stimă,
+Paraschiv Stelică
+Inginer ofertare
+
+Danex Echipamente SRL
+Punct de lucru: Bd. Biruintei nr.241B, Hala C2, cod postal 077145
+Pantelimon, jud.Ilfov
+Tel Mobil : +40 733977636
+E-mail: stelica.paraschiv@danex.ro
+[ATAȘAMENT: 2634. MOARA ARSA 18.05.2026.pdf | text extras]
+[ATAȘAMENT: 2635. LA STADION 18.05.2026.pdf | text extras]
+
+--- MESAJ m2141060 | 2026-07-23 15:56 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Stelica Paraschiv <stelica.paraschiv@danex.ro>
+Cc: mihai.stanescu@danex.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Statii tratare Otesani
+Buna ziua Dl Paraschiv,
+
+Va multumesc pentru solicitare!
+
+In cazul in care se doreste a se merge cu sursa – LA STADION – atunci tot ce trebuie facut – este eventual filtrare+ dezinfectie:
+
+Buget pentru filtru + clorinare 12 mc/h – aproximativ 1500 euro fara TVA
+
+Daca se doreste a se reduce inclusiv duritatea , atunci mai trebuie montata in paralel o statie de 200L rasina duplex – care sa trateze 1/3 din debit – statia adauga la cost aprox 6500 euro [ am luat in calcul un duplex cu vane de 1.5”]
+
+In cazul in care se doreste a se merge cu sursa – Moara ARSA – atunci lucrurile se complica pentru ca trebuie obligatoriu osmoza! si atunci vin intrebarile:
+
+12 mc/h este debitul din sursa sau debitul ce se doreste a se obtine?
+
+Care este debitul de apa disponibil in sursa si presiunea in locul unde se doreste a se instala statia?
+
+Daca consideram ca are disponibil in sursa 16-18 mc/h atunci se poate obtine apa potabila cu un debit total de 12mc/h cu un buget la echipamente de aprox 59000euro .
+
+6mc/h vor trece netratati [ doar o filtrare mecanica grosiera]
+
+10-12mc/h vor fi utilizati pe osmoza flux ce include:
+
+2 filtre multimedia 400L
+
+1 statie duplex de 600L
+
+O statie de osmoza 6mc/h
+
+Cele doua surse – apa bruta filtrata6mc/h se amesteca cu apa osmozata 6/mc – si din punct de vedere fizicochimic, valorile ajung in norme [ trebuie luata in calcul si o automatizare aici de by-pass – ce nu am inclus-o in buget]
+
+Apoi o clorinare generala pentru dezinfectie
+
+Pentru orice alte intrebari, va stau la dispozitie!
+
+Numai bine,
+
+--- MESAJ m2105444 | 2026-07-24 13:50 | Inbox | EXTERN
+De la: Stelica Paraschiv <stelica.paraschiv@danex.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: mihai.stanescu@danex.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Statii tratare Otesani
+Buna ziua,
+
+Multumim pentru cotatia dvs. Vom transmite si noi mai departe solutia prezentata de dvs.
+
+<![if !vml]><![endif]>
+
+Cu stimă,
+
+Paraschiv Stelică
+
+Inginer ofertare
+
+Danex Echipamente SRL
+
+Punct de lucru:
+Bd. Biruintei nr.241B,
+Hala C2, cod postal 077145
+
+Pantelimon, jud.Ilfov
+
+Tel Mobil : +40 733977636
+
+E-mail: stelica.paraschiv@danex.ro
+
+####################################################################################################
+RÂND c2140964-2 (nr. 157.2) | stare: Completă | categorie: 08-Osmoza si filtrare pe membrane | cerere: Stație de osmoză 3 mc/h și bazin de 10 mc pentru vopsitoria nouă
+CERINȚA: RFQ 17.03.2026, subproiect II: sistem complet de apă demineralizată 3 mc/h (prefiltre, filtre nisip, cărbune, dedurizare, osmoză sub 5 µS/cm, 2 lămpi UV) și bazin de stocare de 10 mc. [m2140964] «Sistem complet de producere apa demineralizata pentru statia de osmoza 3 mc/h care trebuie sa cuprinda:»
+CERINȚĂ FINALĂ (debit): debit 3 mc/h, conductivitate sub 5 µS/cm cu membrane noi [m2140964] «statie osmotica cu conductivitate <5µS/cm cand membranele sunt noi;»
+CERINȚĂ FINALĂ (capacitate): bazin de stocare apă demineralizată de 10 mc [m2140964] «Bazin de stocare apa demineralizata - 10 mc»
+OFERTĂ ÎN TEXT: Ofertă trimisă pe 17.03.2026: filtru NW500, 2 filtre nisip și 2 cărbune de 150 L, dedurizare duplex, osmoză ROMO-3-inox, bazin PAFS 10 mc, 2 UV VIQUA VH 410, montaj (număr de ofertă nemenționat). [m2140964] «Revin in prima faza cu oferta pentru capitolul 2 - instalatia de osmoza»
+REZULTAT: necunoscut
+
+
+====================================================================================================
+CONVERSAȚIA c2140964 (nr. 157) | subiect: Finalizare montaj - Pompe
+Partener (după adrese): stabilus.com Bors, George Catalin, Gilea, Gabriela | grupare nesigură: nu
+
+--- MESAJ m2140964 | 2026-07-23 14:10 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Bors, George Catalin <gbors@stabilus.com>
+Cc: office@akro.ro, aurel.caras@akro.ro, ggilea@stabilus.com, andrei.dobrei@akro.ro
+Subiect: Finalizare montaj - Pompe
+Buna ziua,
+
+Conform discutiei telefonice, va confirm ca echipa de montaj va fi la locatie incepand de marti de dimineata: 28.07.2026.
+
+Coordonator montaj : Szoke Barna: 0728.085.039
+
+Cu respect,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Wednesday, July 15, 2026 1:29 PM
+To: 'Bors, George Catalin' <gbors@stabilus.com>
+Cc: 'Akro Filtrare' <office@akro.ro>; 'Aurel CARAS - AKRO' <aurel.caras@akro.ro>; 'Gilea, Gabriela' <ggilea@stabilus.com>; 'andrei.dobrei@akro.ro' <andrei.dobrei@akro.ro>
+Subject: Alimentare cu apa statie de osmoza
+
+Buna ziua ,
+
+Conform discutiei telefonice de ieri, revin cu un desfasurator pentru furnizarea si montarea pompelor:
+
+Pompele si senzorii au ajuns si se pregatesc chiar in acest moment [ estimam ca va fi 1 palet]
+
+Il vom livra la dumneavoastra prin intermediul PALLEX ROMANIA - ajunge fizic in fabrica cel tarziu miercuri.
+
+Tankul de 3 mc, va fi livrat de Colaboratorul nostru care va executa si montajul propriu-zis. – la acest moment avem termen de livrare 7-10 zile
+
+Estimam ca montajul propriu-zis va fi finalizat in saptamana 31 [ pana la final de iulie].
+
+In ceea ce priveste costul final cu inlocuirea tankului , la acest moment nu va putem da un raspuns. Tankul de 3 mc este putin mai ieftin fata de cel de 5mc, insa prin inlocuirea tankului unic, cu doua tankuri mai mici montate in paralel, se schimba partea de traseu comun de aspiratie pentru pompe, in trasee dedicate. Vom vedea exact , in functie de pozitionare daca vor fi modificari de costuri
+
+Cu respect,
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Tuesday, June 16, 2026 10:04 AM
+To: 'Bors, George Catalin' <gbors@stabilus.com>
+Cc: 'Akro Filtrare' <office@akro.ro>; 'Aurel CARAS - AKRO' <aurel.caras@akro.ro>; 'Gilea, Gabriela' <ggilea@stabilus.com>
+Subject: RE: PO4501270935- Alimentare apa rece industriala - statie osmoza
+
+Buna dimineata Dl George,
+
+Facem tot posibilul sa demaram cu o saptamana mai repede interventia, [asa ar fi planul], insa la acest moment suntem angrenati in alte 2 santiere ce trebuiesc finalizate [unul dintre acestea fiind prin programul PNRR.]
+
+Am stabilit cu echipa interventia in saptamana 28 in ideea de a exista si un spatiu de cateva zile in cazul in care intampinam probleme cu actualele santiere.
+
+Reamintesc ca in cadrul vizitei de la inceputul lui mai, am transmis ca putem finaliza traseul in 2-3 saptamani de la comanda [ era in discutie finalizarea la finalul lui mai] – insa primirea comenzilor propriu-zise a venit in iunie cand deja existau mai multe lucrari in care eram angrenati.
+
+Va multumim pentru intelegere, si revin cu un apel de indata ce putem programa exact ziua de interventie.
+
+Cu respect,
+
+From: Bors, George Catalin <gbors@stabilus.com>
+Sent: Tuesday, June 16, 2026 9:02 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: 'Akro Filtrare' <office@akro.ro>; 'Aurel CARAS - AKRO' <aurel.caras@akro.ro>; Gilea, Gabriela <ggilea@stabilus.com>
+Subject: RE: PO4501270935- Alimentare apa rece industriala - statie osmoza
+
+Buna dimineata,
+
+Va multumesc pentru informare.
+
+Pentru partea de instalare pompe este clar, am discutat de la inceput ca vor avea termen de livrare mare, dar as vrea sa verificati daca nu putem realiza mai repede traseul de alimentare.
+
+Kind regards
+
+Bors George
+Manager senior project
+
+ROO_GS: Operations Management
+
+Stabilus Romania Brasov
+
+T +40 372 384 - 142
+
+M +40 729 165 082
+gbors@stabilus.com
+
+Stabilus Romania S.R.L.
+
+DN11, km 5+863 (soseaua Brasov-Harman), RO-507190 Sanpetru, Brasov Romania
+www.stabilus.com
+
+LinkedIn | Facebook
+----------
+Politica de confidențialitate
+----------
+
+This e-mail contains confidential information. If you are an addressee, you may make use of the information contained in this e-mail for the concrete underlying transaction only. If you are not an addressee, you are not authorized to make use of the information contained in this e-mail. In this case, please inform us immediately that you have received this e-mail by mistake and delete this e-mail irreversibly.
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Monday, June 15, 2026 12:30 PM
+To: Bors, George Catalin <gbors@stabilus.
+
+####################################################################################################
+RÂND c2142916 (nr. 188) | stare: Completă | categorie: 08-Osmoza si filtrare pe membrane | cerere: Sistem de apă demineralizată pentru producție cosmetice
+CERINȚA: Cere ofertă pentru un sistem de tratare a apei pentru o unitate de producție de cosmetice și suplimente din Suceava. [m2142916] «Subject: Cerere de ofertă – sistem de tratare a apei pentru unitate de producție cosmetice și suplimente – Suceava»
+CERINȚĂ FINALĂ (aplicație): Apă tratată/purificată pentru producție cosmetică, igienă, suplimente alimentare și laborator (produse ne-sterile) [m2107588] «dorim o instalatie de apa tratata/purificata adecvata pentru productie cosmetica, produse de igiena, suplimente alimentare si laborator control calitate.»
+CERINȚĂ FINALĂ (tip echipament): Filtru NW400, filtru cărbune activ FCC150, stație dedurizare duplex DEC 150 l, osmoză MO24000, bazin PP 2 mc, pompe CMBE, UV Viqua VH410 [m2148836] «Statie de osmoza semi-industriala MO240000TP5 cu 4 membrane 4040 filmtec»
+CERINȚĂ FINALĂ (debit): Permeat 700-1000 l/h [m2148836] «se va obtine permeat cu un debit de 700-1000L/h la o conductivitate < 50 microS/cm»
+CERINȚĂ FINALĂ (calitate apă): Apă demineralizată cu conductivitate sub 50 µS/cm, pe baza buletinelor apei din rețeaua publică [m2148836] «veti reusi sa obtineti apa demineralizata cu conductivitate < 50 microS»
+CERINȚĂ FINALĂ (buget): Clientul acceptă majorarea bugetului (AKRO estimează 18.200 EUR fără TVA doar pentru echipamente) [m2112132] «suntem deschiși la majorarea bugetului»
+CERINȚĂ FINALĂ (altele): Doar livrare echipamente; proiectarea, execuția și stația de neutralizare a apelor uzate nu sunt acceptate de AKRO [m2148836] «consider ca la acest moment nu suntem pregatiti sa acceptam un astfel de proiect.»
+CLARIFICARE: întrebare AKRO explică etapele, întreabă beneficiarul, stadiul proiectului, bugetul și cere un număr de contact. [m2142916] «Care este bugetul pentru furnizarea la cheie a acestui proiect?» → răspuns Clientul: proiect în pregătire de documentație pentru finanțare nerambursabilă, vrea ofertă orientativă, produse ne-sterile. [m2107588] «In prezent, proiectul se afla in etapa de pregatire documentatie tehnico-economica pentru finantare nerambursabila / achizitii viitoare.» | schimbare: Se cere o ofertă orientativă pentru bugetare, fără cerințe pharma sterile.
+CLARIFICARE: întrebare AKRO spune că fără buletin de analiză a apei brute nu poate definitiva fluxul; estimează 12-20.000 EUR pentru demineralizare 0,5-1 mc/h. [m2144260] «fara a avea un buletin de analiza al apei brute , nu putem definitiva un flux de tratare» → răspuns Clientul trimite buletinele de analiză ale apei din rețeaua publică. [m2111844] «vă transmit atașat buletinele de analiză a apei din rețeaua publică» | schimbare: Se stabilește fluxul concret de echipamente și estimarea de 18.200 EUR.
+CLARIFICARE: întrebare AKRO propune fluxul de echipamente, întreabă dacă vrea ofertă oficială și cere CUI-ul; avertizează că proiectul complet e subbugetat. [m2148836] «Aveti nevoie sa trimitem o oferta oficiala in acest sens? Daca Da, va rugam sa ne furnizati un Cui de firma.» → răspuns Clientul cere oferta oficială, dă CUI-ul și acceptă majorarea bugetului. [m2112132] «transmiteți o ofertă oficială pentru echipamentele și configurația propusă.» | schimbare: Oferta oficială S02677 doar pentru echipamente, pe firma clientului.
+OFERTĂ ÎN TEXT: Echipamentele din flux (strict livrare) ajung la 18.200 EUR fără TVA. [m2148836] «Furnizarea echipamentelor de mai sus [ strict livrare] – ajunge la 18200 euro fara TVA.»
+REZULTAT: necunoscut
+PREȚURI Ofertă S02677 v1 (2026-08-14), total 22002.12 EUR:
+  [01-008048] Filtru impuritati NW400 - 1.5" | 1.0 buc × 281.6 EUR | referință
+  [01-008049] Consola de prindere pentru carcasa cintropur NW 280/340/400 | 1.0 buc × 30.15 EUR | referință
+  [13-001171] FCC 150 Filtru cu carbune, 150L mediu filtrant, Clack CI - racord 1.25" | 1.0 buc × 1380.16 EUR | referință
+  [13-001297] DEC 150-1.25/duplex, Statie dedurizare duplex alternating, 150L rasina, vane Clack CI - 1.25" | 1.0 buc × 3479.46 EUR | referință
+  [08-002231] Statie osmoza Ecosoft MO24000TP5 - 1000L/h permeat, membrane XLE incluse | 1.0 buc × 7382.0 EUR | referință
+  [23-003029] Rezervor polipropilena suprateran - 2 mc | 1.0 buc × 2540.0 EUR | referință
+  [23-001141] Pompa Grundfos - cu convertizor -CMBE1-44 I-U-C-C-G-A 1x220-240V 50/60Hz - 1.5mc/h | 1.0 buc × 2245.0 EUR | referință
+  [27-001155] Sistem UV apa_VIQUA VH410_Debit 3.2 m3/h_Doza UV 40 mJ/cm2_Putere 60 W_Racord 3/4"-1"_VIQUA | 1.0 buc × 845.2 EUR | referință
+  termen: Metoda de plata: O.P. 50% in avans, 30% la gata de livrare, 20% la 30 de zile de la livrarea produselor
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12 luni de la livrare
+
+====================================================================================================
+CONVERSAȚIA c2142916 (nr. 188) | subiect: RE: Cerere de ofertă – sistem de tratare a apei pentru unitate de producție cosmetice și suplimente – Suceava
+Partener (după adrese): drgmotorsconcept@yahoo.com dragos aluionut | grupare nesigură: nu
+OFERTĂ S02677 v1 trimisă 2026-08-14 11:16 în m2149188 (Odoo: Ofertă trimisă): [01-008048] Filtru impuritati NW400 - 1.5" x1.0 buc; [01-008049] Consola de prindere pentru carcasa cintropur NW 280/340/400 x1.0 buc; [13-001171] FCC 150 Filtru cu carbune, 150L mediu filtrant, Clack CI - racord 1.25" x1.0 buc; [13-001297] DEC 150-1.25/duplex, Statie dedurizare duplex alternating, 150L rasina, vane Cla x1.0 buc; [08-002231] Statie osmoza Ecosoft MO24000TP5 - 1000L/h permeat, membrane XLE incluse x1.0 buc; [23-003029] Rezervor polipropilena suprateran - 2 mc x1.0 buc; [23-001141] Pompa Grundfos - cu convertizor -CMBE1-44 I-U-C-C-G-A 1x220-240V 50/60Hz - 1.5mc x1.0 buc; [27-001155] Sistem UV apa_VIQUA VH410_Debit 3.2 m3/h_Doza UV 40 mJ/cm2_Putere 60 W_Racord 3/ x1.0 buc
+
+--- MESAJ m2142916 | 2026-07-29 10:34 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: dragos aluionut <drgmotorsconcept@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Cerere de ofertă – sistem de tratare a apei pentru unitate de producție cosmetice și suplimente – Suceava
+Buna ziua,
+
+Va multumim pentru solicitarea dumneavoastra!
+
+Firma Akro este specializata in furnizarea de solutii si echipamente de tratare a apelor primare cu scopul de a obtine – ape potabile sau ape tehnice [ inclusiv apa demineralizata].
+
+Trebuie sa clarificam daca doriti ca anumite produse sa fie si certificate pharma [ trebuie discutat cu producatorii in functie de cerinta pentru a valida acest aspect] .
+
+In cee ace priveste cererea trimisa, in forma in care ati solicitat sa furnizam instalatia, va confirmam ca da, putem executa intreaga linie , dar numai prin colaborare cu anumiti terti. Principalele etape :
+
+Colaborare cu un laborator acreditat – pentru executie analize – apa bruta – contra cost
+
+Stabilire calitate produs finit si caracteristici clare de
+
+Debit de productie
+
+Stocare
+
+Consum 24 h
+
+Dimensiuni camera tehnica s.a.
+
+Beneficiarul transmite aceste informatii
+
+Dimensionare instalatie conform informatii furnizate – stabilire flux de tratat. [ tot aici avem o situatie clara a apelor reziduale obtinute , volume si incarcatura]. Trebuie sa clarificati daca la aceste incarcari de ape uzate se mai adauga si alte ape din productie si ce incarcatura aduc.
+
+Apoi, pentru partea de ape uzate – nu suntem specialisti in tratare, prin urmare - vom discuta si cu o firma dedicata – pentru dimensionarea instalatiei de tratare a apelor uzate/epurare! – Trebuie sa mentionam ca toate serviciile de dimensionare, furnizare , montaj – vor trebui achitate in avans .
+
+Dupa ce totul este clar din punct de vedere al fluxului, - apelam la un proiectant [ pentru executie – scheme de flux, amplasament, proiect tehnic] – contra cost
+
+Furnizare echipamente
+
+Materiale si manopera de montaj –[aici in functie de cerinte, va trebui sa apelam la colaboratori [ daca de exemplu se doreste montaj pe inox – pharma – luciu oglinda s.a.]. Pentru montaj standard putem trimite echipele noastre
+
+PIF
+
+Las anexata o fotografie cu o statie de osmoza de 3mc/h – ce este utilizata intr-o fabrica de productie de servetele umede.
+
+Pentru a putea merge mai departe vom avea nevoie din partea dumneavoastra de urmatoarele informatii:
+
+Cine este beneficiarul acestei instalatii ? Pe ce firma se vor intocmi propunerile comerciale si tehnice?
+
+In ce stadiu se afla proiectul? Studiu de fezabilitate , constructie sau alta etapa? Cand se preconizeaza ca aceasta instalatie va intra in etapa de achizitie ?
+
+Care este bugetul pentru furnizarea la cheie a acestui proiect?
+
+Va rog sa ne transmiteti si un numar de contact
+
+Asteptam cu interes raspuns!
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: dragos aluionut <drgmotorsconcept@yahoo.com>
+Sent: Tuesday, July 28, 2026 6:42 PM
+To: sales@akro.ro
+Subject: Cerere de ofertă – sistem de tratare a apei pentru unitate de producție cosmetice și suplimente – Suceava
+
+Buna ziua,
+[ATAȘAMENT: Statie de 3mch - Constanta.jpg | imagine]
+[ATAȘAMENT: 17bba65b-88a2-44fb-b132-acbe079fbe7d.jpg | imagine]
+
+--- MESAJ m2107588 | 2026-07-30 21:45 | Inbox | EXTERN
+De la: dragos aluionut <drgmotorsconcept@yahoo.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Re: Cerere de ofertă – sistem de tratare a apei pentru unitate de producție cosmetice și suplimente – Suceava
+Bună ziua,
+
+Vă mulțumim pentru informațiile și sprijinul oferit. Fiind la început de drum, există încă numeroase aspecte pe care le aprofundăm pe parcurs, motiv pentru care experiența, îndrumarea și disponibilitatea dumneavoastră ne sunt deosebit de valoroase.
+
+Apreciem sprijinul acordat și sperăm să dezvoltăm o colaborare cât mai bună și de durată.
+
+O zi plăcută!
+
+Cu stima,
+
+Murariu ionut
+[ATAȘAMENT: Raspuns_AKRO_instalatie_tratare_apa_FARMA_IDIL.docx | text extras]
+Buna ziua,
+Va multumim pentru raspuns si pentru informatiile transmise.
+Beneficiarul instalatiei va fi:
+Instalatia este avuta in vedere pentru proiectul:
+„Unitate de productie si ambalare produse cosmetice, produse de igiena si suplimente alimentare, cu linie tehnologica moderna, sistem de trasabilitate si control al calitatii.”
+In prezent, proiectul se afla in etapa de pregatire documentatie tehnico-economica pentru finantare nerambursabila / achizitii viitoare. Dorim sa obtinem o oferta tehnico-financiara orientativa, suficient de clara pentru bugetarea investitiei si pentru corelarea cu fluxul tehnologic.
+Tip produse vizate
+Produsele avute in vedere sunt produse ne-sterile, respectiv:
+- produse cosmetice si de igiena: sapun lichid, gel de dus, sampon, lotiuni, creme;
+- produse in tuburi si flacoane;
+- pudre cutanate cosmetice;
+- suplimente alimentare sub forma de capsule, pulberi, plicuri stick si eventual spray oral;
+- produse pe baza de colagen, vitamine, magneziu, biotina etc.
+In aceasta etapa nu vizam productie de medicamente sterile sau produse injectabile. Totusi, dorim o instalatie de apa tratata/purificata adecvata pentru productie cosmetica, produse de igiena, suplimente alimentare si laborator control calitate.
+Va rugam sa ne precizati separat daca propunerea poate fi: (1) varianta standard industriala / cosmetica / alimentara; (2) varianta cu componente si executie de nivel superior, compatibila GMP/pharma, daca este cazul.
+Calitatea apei dorite
+Va rugam sa anal
+
+--- MESAJ m2144260 | 2026-07-31 11:14 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: dragos aluionut <drgmotorsconcept@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Cerere de ofertă – sistem de tratare a apei pentru unitate de producție cosmetice și suplimente – Suceava
+Buna ziua,
+
+Va multumim pentru raspuns!
+
+Ideea este ca fara a avea un buletin de analiza al apei brute , nu putem definitiva un flux de tratare pentru a va prezenta un document conform solicitarii – sustinut de fise tehnice, calcul consumabile si altele.
+
+Pot in schimb sa confirm, ca in situatii standard [ de ape putin incarcate] , da bugetele pentru echipamente se apropie de bugetele transmise de dumneavoastra
+
+12-20000 euro pentru echipamente demineralizare cu 0.5-1mc/h [ atentie vorbim strict de echipamente] – care ar include standard:
+
+Filtrare mecanica
+
+Carbune activ
+
+Dedurizare
+
+Osmoza
+
+Bazin stocare din PE
+
+Uv iesire din bazin
+
+Si o pompa de consum 1-2mc/h
+
+In bugetul acesta nu se poate discuta de confectie pe inox, si nu acopera cerinte precum – sa acopere montajul sau o automatizare SCADA -control de la distanta sau altele .
+
+Pentru orice alte informatii sau intrebari va stau cu placere la dispozitie!
+
+Numai bine.
+
+--- MESAJ m2111844 | 2026-08-13 04:56 | Inbox | EXTERN
+De la: dragos aluionut <drgmotorsconcept@yahoo.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Re: Cerere de ofertă – sistem de tratare a apei pentru unitate de producție cosmetice și suplimente – Suceava
+Bună ziua,
+
+vă transmit atașat buletinele de analiză a apei din rețeaua publică, precum și buletinul de analiză finală emis de partener.
+
+Cu stima,
+
+Murariu Ionut
+[ATAȘAMENT: buletin apa primarie.docx | fără text]
+[ATAȘAMENT: buletine_analize_finale.pdf | PDF fără text (scanat)]
+
+--- MESAJ m2148836 | 2026-08-13 14:51 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: dragos aluionut <drgmotorsconcept@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Cerere de ofertă – sistem de tratare a apei pentru unitate de producție cosmetice și suplimente – Suceava
+Buna ziua,
+
+Am verificat si buletinele puse la dispozitie.
+
+Desi sunt cateva valori care nu intelegem de ce fluctueaza [ spre exemplu nitratii] va confirm ca in cazul actual, cu o varianta de tratare standard veti reusi sa obtineti apa demineralizata cu conductivitate < 50 microS . pH-ul in schimb cred ca se va apropia de valoare5.5-6 .
+
+De asemenea , estimez o rata de inlocuire a membranelor de aproximativ 1 data /an.
+
+Fluxul este urmatorul:
+
+Filtrul NW400
+
+Fcc150 – carbune activ – cu racord de 1.25”
+
+Statie dedurizare duplex Dec 150L – cu vane de 1.25” si MAV
+
+Statie de osmoza semi-industriala MO240000TP5 cu 4 membrane 4040 filmtec
+
+Bazin de stocare din PP 2mc
+
+Pompe CMBE cu convertizor de 2mc/h
+
+Sistem Uv Viqua Vh 410.
+
+Furnizarea echipamentelor de mai sus [ strict livrare] – ajunge la 18200 euro fara TVA.
+
+Cu fluxul propus – se va obtine permeat cu un debit de 700-1000L/h la o conductivitate < 50 microS/cm , dar nu putem discuta de industrie pharma.
+
+S-ar putea sa mai fie nevoie de :
+
+1 grup de pompare pentru crestere presiune, daca reteaua actuala nu furnizeaza o presiune stabila pe intrare de minim 4-4.5 bar.
+
+Aveti nevoie sa trimitem o oferta oficiala in acest sens? Daca Da, va rugam sa ne furnizati un Cui de firma.
+
+Referitor la intreg procesul solicitat pentru acest proiect [ proiectare, executie , constructie statie neutralizare ape uzate] – dupa o reanaliza, consider ca la acest moment nu suntem pregatiti sa acceptam un astfel de proiect.
+
+In plus daca bugetul este de 20000 euro pentru intreaga linie, atunci cu parere de rau transmit ca acest proiect este mult subbugetat.
+
+Rog un raspuns in aceasta directie.
+
+Cu respect,
+
+--- MESAJ m2112132 | 2026-08-13 22:01 | Inbox | EXTERN
+De la: dragos aluionut <drgmotorsconcept@yahoo.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Re: Cerere de ofertă – sistem de tratare a apei pentru unitate de producție cosmetice și suplimente – Suceava
+Bună ziua,
+
+Vă mulțumesc
+pentru analiza transmisă și pentru recomandările privind configurația
+sistemului de tratare a apei.
+
+Referitor la fluctuatia
+valorilor menționez că rețeaua de apă este nouă și, în acest moment, nu este
+încă utilizată. Vom verifica și condițiile de presiune disponibile în rețea,
+pentru a stabili dacă va fi necesar și grupul suplimentar de pompare menționat
+de dumneavoastră.
+
+Vă rugăm să ne
+transmiteți o ofertă oficială pentru echipamentele și configurația propusă.
+Datele societății pentru întocmirea ofertei sunt:
+
+CUI:
+RO26448777
+
+În ceea ce
+privește bugetul proiectului, am luat în considerare observațiile dumneavoastră
+privind subbugetarea inițială și suntem deschiși la majorarea bugetului,
+astfel încât soluția propusă să poată fi implementată în condiții
+corespunzătoare.
+
+Vă rugăm,
+așadar, să ne transmiteți oferta actualizată, precum și, dacă este posibil,
+eventualele costuri/opțiuni suplimentare pe care le considerați necesare pentru
+funcționarea corespunzătoare a instalației.
+
+Vă mulțumesc și
+aștept oferta dumneavoastră.
+
+Cu respect,
+
+Murariu Ionut
+
+--- MESAJ m2149188 | 2026-08-14 11:16 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: dragos aluionut <drgmotorsconcept@yahoo.com>
+Cc: office@akro.ro
+Subiect: RE: Cerere de ofertă – sistem de tratare a apei pentru unitate de producție cosmetice și suplimente – Suceava
+Buna ziua,
+Va trimit anexata cotatia de pret oficiala pentru echipamentele din lista de ieri.
+
+Mai jos gasiti fisele tehnice aferente echipamentelor :
+
+Filtru NW400 – https://akro.ro/public/fise/282-Fisa_tehnica_Filtru_mecanic_sedimente_NW280-340-400.pdf
+
+Filtru carbune activ 150L - https://akro.ro/public/fise/180-Fisa_tehnica_-_Filtre_cu_carbune_activ,_racord_1.25.pdf
+
+Statie dedurizare duplex 150L - https://akro.ro/public/fise/146-Fisa_tehnica_-_Statii_de_dedurizare_-_duplex,_1.25.pdf
+
+Statie osmoza MO24000T5L - https://www.ecosoft.com/product-ecosoft/ecosoft-mo24000
+
+Pompa Grundfos - anexat
+
+Sistem UV Viqua HV 410 - https://www.spectra.ro/public/produse_files/viqua_dezinfectare-apa_spectra.pdf
+
+O zi cu spor!
+[ATAȘAMENT: Oferta - S02677 - FARMA IDIL - 14.08.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: CMBE_1-44_IUCCDA.pdf | text extras]
+
+####################################################################################################
+RÂND c2111076 (nr. 249) | stare: Completă | categorie: 08-Osmoza si filtrare pe membrane | cerere: Sistem complet tratare apă puț forat 20 mc/h
+CERINȚA: Cere recomandarea unei soluții complete de tratare a apei din puț forat, 20 mc/h, pentru uz menajer într-un campus hotelier. [m2111076] «Poti te rog sa imi recomanzi o solutie completa de tratare a apei pentru un client.»
+CERINȚĂ FINALĂ (debit): Maxim 20 mc/h (nominal 16,2 mc/h) [m2111076] «debit max 20 mc/h ( nominal 16.2 mc/h)»
+CERINȚĂ FINALĂ (aplicație): Uz menajer, campus (grup hotelier); sursă puț forat cu infiltrații [m2111076] «pentru uz menajer campus (grup hotelier),»
+CERINȚĂ FINALĂ (calitate apă): De rezolvat: cloruri, NH4, fier, mangan, bacterii [m2111076] «doreste sa rezolve urmatoarele aspecte ale apei: clorurile, NH4,»
+CERINȚĂ FINALĂ (tip echipament): Eventual osmoză, filtru mecanic cu autocurățare, UV cu curățare automată, rezervor tampon, pompă [m2111076] «eventual osmoza daca este cazul, filtru mecanic cu autocuratare, sistem UV cu curatare»
+CERINȚĂ FINALĂ (buget): Buget echipamente circa 72000 euro net (fără transport, montaj, PIF, bazin final, UV) [m2147748] «Buget echipamente– 72000 euro NET [ adica la achizitie]»
+CLARIFICARE: întrebare - → răspuns AKRO propune fluxul obligatoriu (filtru Y + clorinare, bazin 10 mc, grup pompare, 3 filtre Pyrolux, 3 filtre cărbune, osmoză 12 mc/h, clorinare finală) cu debit maxim 13 mc/h. [m2147748] «Sistemul in forma data – produce apa curata cu un debit de maxim 13mc/h» | schimbare: Debitul de apă tratată scade la max. 13 mc/h; bazinul final, pompa consumatori și UV nu sunt incluse.
+OFERTĂ ÎN TEXT: Prețuri nete pe echipamente, buget total echipamente 72000 euro NET. [m2147748] «Statie de osmoza de 12 mc/h [ecosoft] – 28500 euro»
+REZULTAT: necunoscut
+
+
+====================================================================================================
+CONVERSAȚIA c2111076 (nr. 249) | subiect: Solicitare sistem complet tratare apa uz menajer, sursa put forat, debit 20 mc/h
+Partener (după adrese): -  | grupare nesigură: nu
+
+--- MESAJ m2111076 | 2026-08-10 15:33 | Inbox | AKRO
+De la: Ileana Antonescu <ileana.antonescu@spectra.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Solicitare sistem complet tratare apa uz menajer, sursa put forat, debit 20 mc/h
+Buna, Alexandru,
+
+Poti te rog sa imi recomanzi o solutie completa de tratare a apei pentru un client. Datele sunt urmatoarele:
+
+susa de apa din put forat, are infiltratii- a transmis buletinul de analiza a apei
+
+debit max 20 mc/h ( nominal 16.2 mc/h) pentru uz menajer campus (grup hotelier),
+
+doreste o solutie completa de tratare a apei: eventual osmoza daca este cazul, filtru mecanic cu autocuratare, sistem UV cu curatare
+automata a tecilor (are impuritati in apa), rezervor tampon, pompa.
+
+Am vorbit cu clientul. Nu are alte informatii inafara de cele de mai sus si buletinul atasat. In principiu a zius ac doreste sa rezolve urmatoarele aspecte ale apei: clorurile, NH4,
+fier, mangan, bacteriile prezente. Vrea sa includem si un rezervor tampon.
+
+Daca totusi mai sunt necesare informatii, te rog sa imi spui si voi reveni catre client.
+
+Multumesc!
+
+Cu stima/Best regards,
+[ATAȘAMENT: Buletin analiza apa_Greendrill.jpeg | imagine]
+
+--- MESAJ m2147044 | 2026-08-10 16:10 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Aurel CARAS - AKRO <aurel.caras@akro.ro>
+Cc: office@akro.ro
+Subiect: FW: Solicitare sistem complet tratare apa uz menajer, sursa put forat, debit 20 mc/h
+Cum procedam in acest caz ?
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Ileana Antonescu <ileana.antonescu@spectra.ro>
+Sent: Monday, August 10, 2026 3:34 PM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: Solicitare sistem complet tratare apa uz menajer, sursa put forat, debit 20 mc/h
+
+Buna, Alexandru,
+
+Poti te rog sa imi recomanzi o solutie completa de tratare a apei pentru un client. Datele sunt urmatoarele:
+
+susa de apa din put forat, are infiltratii- a transmis buletinul de analiza a apei
+
+debit max 20 mc/h ( nominal 16.2 mc/h) pentru uz menajer campus (grup hotelier),
+
+doreste o solutie completa de tratare a apei: eventual osmoza daca este cazul, filtru mecanic cu autocuratare, sistem UV cu curatare automata a tecilor (are impuritati in apa), rezervor tampon, pompa.
+
+Am vorbit cu clientul. Nu are alte informatii inafara de cele de mai sus si buletinul atasat. In principiu a zius ac doreste sa rezolve urmatoarele aspecte ale apei: clorurile, NH4, fier, mangan, bacteriile prezente. Vrea sa includem si un rezervor tampon.
+
+Daca totusi mai sunt necesare informatii, te rog sa imi spui si voi reveni catre client.
+
+Multumesc!
+
+Cu stima/Best regards,
+[ATAȘAMENT: Buletin analiza apa_Greendrill.jpeg | imagine]
+
+--- MESAJ m2147748 | 2026-08-11 14:35 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Ileana Antonescu <ileana.antonescu@spectra.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, aurel.caras@akro.ro
+Subiect: RE: Solicitare sistem complet tratare apa uz menajer, sursa put forat, debit 20 mc/h
+Salut Ileana,
+
+Am aruncat o privire peste solicitare.
+
+Pentru a reduce fierul, manganul , clorurile , conductivitatea si amoniul – trebuie urmatorul flux obligatoriu [ iti voi lasa si preturile nete pe fiecare echipament].
+
+Filtru mecanic Y + clorinare recondi +seko– net 1100 euro
+
+Bazin Criber – 10mc – net 3000-3500 euro
+
+Grup pompare Recondi – net 7500 euro
+
+3 filtre pyrolux 4272 cu skid Euroclear – net 15500 euro
+
+3 filtre carbune 4872 cu skid – Euroclear – net 15000 euro
+
+Statie de osmoza de 12 mc/h [ecosoft] – 28500 euro
+
+Include
+
+12 membrane
+
+Dozator antiscalant
+
+By-pass pentru mixare
+
+Clorinare finala – SEKO – net 700-800 euro
+
+Buget echipamente– 72000 euro NET [ adica la achizitie]
+
+La care trebuie sa mai iei in calcul:
+
+Transportul de la fiecare furnizor la client
+
+Montaj [ daca e cazul]
+
+PIF [ daca e cazul]
+
+Obligatoriu va trebui si un bazin de stocare final [ in functie de consumul zilnic se alege dimensiunea] – neinclus! + pompa consumatori + UV daca e obligatoriu cerut – la fel neinclusi
+
+Adaos iti pui cum consideri. Dar ai grija ca sunt echipamente uriase – grija la transport
+
+Sistemul in forma data – produce apa curata cu un debit de maxim 13mc/h [ atentie duritatea rezultata va fi in jur de 1 grad G – adica este foarte mica] – daca vor duritate>5 grade G, mai trebuie montat ori un dozator in flux, ori 1-2 filtre cu calcit.
+
+Astept clarificari de la Aurel cum vom proceda in viitor cu cererile.
+
+####################################################################################################
+RÂND c2112228 (nr. 284) | stare: Completă | categorie: 08-Osmoza si filtrare pe membrane | cerere: 15 membrane osmoză HSRO 390 FF
+CERINȚA: Cere ofertă pentru 15 membrane de osmoză HSRO 390 FF. [m2112228] «MEMBRANA STATIE OSMOZA HSRO 390 FF 15 buc»
+CERINȚĂ FINALĂ (tip echipament): Membrană osmoză sanitizabilă Filmtec HSRO 390 FF [m2112228] «MEMBRANA STATIE OSMOZA HSRO 390 FF 15 buc»
+CERINȚĂ FINALĂ (cantitate): 15 bucăți [m2149380] «Va rog sa regasiti anexata oferta de pret actualizata pentru cele 15 membrane sanitizabile.»
+REZULTAT: necunoscut
+PREȚURI Ofertă S02679 v1 (2026-08-17), total 24225.17 EUR:
+  [08-002144] Membrana osmotica sanitizabila-Filmtec - HSRO 390-FF | 15.0 buc × 1552.0 EUR (reducere 14.0%) | referință
+  termen: Modul de livrare: In sarcina Akro
+  termen: Condiții de plată: 45 de zile
+
+====================================================================================================
+CONVERSAȚIA c2112228 (nr. 284) | subiect: solicitare oferta membrane osmoza
+Partener (după adrese): cchellenic.com Razvan Micu | grupare nesigură: nu
+OFERTĂ S02679 v1 trimisă 2026-08-17 08:46 în m2149380 (Odoo: Ofertă trimisă): [08-002144] Membrana osmotica sanitizabila-Filmtec - HSRO 390-FF x15.0 buc
+
+--- MESAJ m2112228 | 2026-08-14 12:00 | Inbox | EXTERN
+De la: Razvan Micu <razvan.micu@cchellenic.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: solicitare oferta membrane osmoza
+Buna ziua,
+
+Va rog sa ne ofertati membranele de mai jos:
+
+MEMBRANA STATIE OSMOZA HSRO 390 FF 15 buc
+
+Multumesc
+
+Razvan Micu
+
+Maintenance Lead
+
+Coca-Cola HBC Romania SRL
+
+285GH.Grigore Cantacuzino Street,
+
+Ploiesti, Prahova, 100291
+
+T +40 244517552
+
+F +40 244517553
+
+M +40 725805078
+
+razvan.micu@cchellenic.com
+
+LEGAL DISCLAIMER: This e-mail contains proprietary information some or all of which may be legally privileged. It is for the intended recipient only. If an addressing or transmission error has misdirected this e-mail, please notify the author by replying
+to this e-mail. If you are not the intended recipient you must not use, disclose, distribute, copy, or print this e-mail.
+
+E-mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted, lost, destroyed, arrive late or incomplete, or contain viruses. The sender therefore does not accept liability for any errors or omissions
+in the contents of this message, which arise as a result of e-mail transmission.
+
+For information about processing your personal information, please read our Privacy Policy https://coca-colahellenic.com/en/privacy-notice and cookies notice https://www.coca-colahellenic.com/en/cookie-notice /
+
+P Please think of the environment before you print this message and any attachments.
+
+--- MESAJ m2149380 | 2026-08-17 08:46 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Razvan Micu <razvan.micu@cchellenic.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: solicitare oferta membrane osmoza
+Buna dimineata Dl Micu,
+
+Va rog sa regasiti anexata oferta de pret actualizata pentru cele 15 membrane sanitizabile.
+
+La acest moment produsele sunt in stocul furnizor din Belgia si estimam livrarea in termen de 1-2 saptamani de la comanda.
+
+Pretul transmis este valid strict pentru stocul curent [ sunt 32 de bucati disponibile la acest moment]
+
+Asteptam cu interes raspuns!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02679 - COCA COLA - 17.08.2026.pdf | ofertă Odoo, parsată mai sus]
+
+####################################################################################################
+RÂND c2112484 (nr. 292) | stare: Completă | categorie: 08-Osmoza si filtrare pe membrane | cerere: 100 membrane osmoză 8040 ESPA2 MAX
+CERINȚA: Cere preț pentru 100 de membrane osmotice 8040 ESPA2 MAX. [m2112484] «Can you give me price for material below please?»
+CERINȚĂ FINALĂ (cantitate): 100 bucăți membrane 8040 ESPA2 MAX [m2112484] «8040 ESPA2 MAX 100 PCS»
+CERINȚĂ FINALĂ (loc livrare): Livrare la fabrica din Medgidia (inclusă în ofertă) [m2149764] «with delivery to MEDGIDIA included.»
+CERINȚĂ FINALĂ (termen): Livrare standard (nu urgentă); AKRO estimează 10-14 zile de la comandă [m2112612] «Standart delivery. Thank you»
+CLARIFICARE: întrebare AKRO întreabă dacă membranele trebuie livrate la fabrica din Medgidia. [m2149540] «Are this membranes needed -in the same fabric in MEDGIDIA?» → răspuns Clientul confirmă livrarea la Medgidia. [m2112612] «To Medgidia yes. Standart delivery.» | schimbare: S-a precizat locul de livrare: Medgidia.
+CLARIFICARE: întrebare AKRO întreabă care e termenul de livrare dorit și dacă e urgent. [m2149540] «What is the delivery time required?» → răspuns Clientul vrea livrare standard. [m2112612] «Standart delivery. Thank you» | schimbare: S-a precizat că termenul de livrare e standard, fără urgență.
+TELEFON: AKRO a confirmat telefonic cu depozitul disponibilitatea celor 100 de membrane în depozitul din Belgia. [m2149764] «I had a phone call with the deposit and I confirm that this amount of membranes are available»
+REZULTAT: respinsă — Clientul spune că prețul a fost pentru buget și nu cumpără acum. [m2115012] «This price for budget. We will not buy now.»
+PREȚURI Ofertă S02681 v1 (2026-08-17), total 380182.0 RON:
+  [08-002193] Membrana osmotica 8040 ESPA2 MAX | 100.0 buc × 3142.0 RON | referință
+  termen: Modul de livrare: In sarcina Akro
+  termen: Termen de plata: 100% in avans
+
+====================================================================================================
+CONVERSAȚIA c2112484 (nr. 292) | subiect: MEMBRANA OSMOTİCA 8040 ESPA2 MAX
+Partener (după adrese): omniaeuropesa.com Semih Turuşkan | grupare nesigură: nu
+OFERTĂ S02681 v1 trimisă 2026-08-17 13:48 în m2149764 (Odoo: Ofertă trimisă): [08-002193] Membrana osmotica 8040 ESPA2 MAX x100.0 buc
+OFERTĂ S02681 v1 trimisă 2026-08-20 12:03 în m2151204 (Odoo: Ofertă trimisă): [08-002193] Membrana osmotica 8040 ESPA2 MAX x100.0 buc
+
+--- MESAJ m2112484 | 2026-08-17 10:29 | Inbox | EXTERN
+De la: Semih Turuşkan <semihturuskan@omniaeuropesa.com>
+Către: alexandru.soare@akro.ro <alexandru.soare@akro.ro>
+Cc: serkaneker@omnianisasta.com.tr
+Subiect: MEMBRANA OSMOTİCA 8040 ESPA2 MAX
+Hello Dear Alexandru,
+
+Can you give me price for material below please?
+
+MEMBRANA OSMOT©CA 8040 ESPA2 MAX 100 PCS
+
+Best Regards,
+
+SEM©H TURUŞKAN
+
+Procurement Chief
+
+Mobile :+40
+752 488 180
+
+Whatsapp :+40 752 488 180
+
+Omnia Europe S.A
+
+Fabrica De Amidon
+
+Str.Progresului Nr:16
+
+Post code 905600
+
+Medgidia / Constanta
+
+--- MESAJ m2149540 | 2026-08-17 11:21 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Semih Turuşkan <semihturuskan@omniaeuropesa.com>
+Cc: serkaneker@omnianisasta.com.tr, office@akro.ro
+Subiect: RE: MEMBRANA OSMOTİCA 8040 ESPA2 MAX
+Hello ,
+
+Thank you for your request!
+
+I will be able to provide you a quotation in the following days [ I need to check the availability of this in the European Stocks].
+
+Are this membranes needed -in the same fabric in MEDGIDIA?
+
+What is the delivery time required? [ I mean it is urgent to deliver the membranes in a couple of weeks?]
+
+I am looking forward for your response!
+
+Best regards,
+
+--- MESAJ m2149572 | 2026-08-17 11:22 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: MEMBRANA OSMOTİCA 8040 ESPA2 MAX
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Semih Turuţkan <semihturuskan@omniaeuropesa.com>
+Sent: Monday, August 17, 2026 10:30 AM
+To: alexandru.soare@akro.ro
+Cc: SERKAN EKER <serkaneker@omnianisasta.com.tr>
+Subject: MEMBRANA OSMOTÝCA 8040 ESPA2 MAX
+Importance: High
+
+Hello Dear Alexandru,
+
+Can you give me price for material below please?
+
+MEMBRANA OSMOTÝCA 8040 ESPA2 MAX 100 PCS
+
+Best Regards,
+
+SEMÝH TURUŢKAN
+
+Procurement Chief
+
+Mobile :+40 752 488 180
+
+Whatsapp :+40 752 488 180
+
+Omnia Europe S.A
+
+Fabrica De Amidon
+
+Str.Progresului Nr:16
+
+Post code 905600
+
+Medgidia / Constanta
+
+--- MESAJ m2112612 | 2026-08-17 12:04 | Inbox | EXTERN
+De la: Semih Turuşkan <semihturuskan@omniaeuropesa.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: serkaneker@omnianisasta.com.tr, office@akro.ro
+Subiect: Ynt: MEMBRANA OSMOTİCA 8040 ESPA2 MAX
+Hello,
+
+To Medgidia yes.
+
+Standart delivery. Thank you
+
+Best Regards,
+
+SEM©H TURUŞKAN
+
+Procurement Chief
+
+Mobile :+40
+752 488 180
+
+Whatsapp :+40 752 488 180
+
+Omnia Europe S.A
+
+Fabrica De Amidon
+
+Str.Progresului Nr:16
+
+Post code 905600
+
+Medgidia / Constanta
+
+Gönderen: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+
+Gönderildi: 17 A»ustos 2026 Pazartesi 11:21
+
+Kime: Semih Turuşkan <semihturuskan@omniaeuropesa.com>
+
+Bilgi: 'SERKAN EKER' <serkaneker@omnianisasta.com.tr>; 'Akro Filtrare' <office@akro.ro>
+
+Konu: RE: MEMBRANA OSMOT©CA 8040 ESPA2 MAX
+
+Hello ,
+
+Thank you for your request!
+
+I will be able to provide you a quotation in the following days [ I need to check the availability of this in the European Stocks].
+
+Are this membranes needed -in the same fabric in MEDGIDIA?
+
+What is the delivery time required? [ I mean it is urgent to deliver the membranes in a couple of weeks?]
+
+I am looking forward for your response!
+
+Best regards,
+
+--- MESAJ m2149732 | 2026-08-17 13:17 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Semih Turuşkan <semihturuskan@omniaeuropesa.com>
+Cc: serkaneker@omnianisasta.com.tr, office@akro.ro
+Subiect: RE: MEMBRANA OSMOTİCA 8040 ESPA2 MAX
+Hello Semih,
+
+Thank you !
+
+I will try to respond as fast as possible, I just wrote to check the availability in the main European warehouse and let you know as soon we get a response.
+
+Anyway it will take several days because in August most suppliers are in vacation or they work at 30% efficiency .
+
+Best regards,
+
+--- MESAJ m2149764 | 2026-08-17 13:48 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Semih Turuşkan <semihturuskan@omniaeuropesa.com>
+Cc: serkaneker@omnianisasta.com.tr, office@akro.ro
+Subiect: RE: MEMBRANA OSMOTİCA 8040 ESPA2 MAX
+Hello again dear Semih,
+
+I had a phone call with the deposit and I confirm that this amount of membranes are available at this moment in the BELGIUM warehouse.
+
+Considering the payment 100% in advance, please find attached our best offer for the 100pieces ESPA 2 MAX 8040 –with delivery to MEDGIDIA included. At this moment we have an estimated delivery term of 10-14 days from order.
+
+Kindly note that we have already included our maximum possible discount, so the attached pricing represents our best and final offer.
+
+We look forward to hearing from you.
+
+Best regards,
+[ATAȘAMENT: ESPA2-MAX (1).pdf | text extras]
+[ATAȘAMENT: Oferta - S02681 - OMNIA EUROPE - 17.08.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2151204 | 2026-08-20 12:03 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Semih Turuşkan <semihturuskan@omniaeuropesa.com>
+Cc: serkaneker@omnianisasta.com.tr, office@akro.ro
+Subiect: RE: MEMBRANA OSMOTİCA 8040 ESPA2 MAX
+Hello Semih,
+
+Is it possible to receive a feedback regarding our proposal of membranes?
+
+Please advise!
+
+Best regards
+[ATAȘAMENT: Oferta - S02681 - OMNIA EUROPE - 17.08.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2115012 | 2026-08-24 10:17 | Inbox | EXTERN
+De la: Semih Turuşkan <semihturuskan@omniaeuropesa.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: serkaneker@omnianisasta.com.tr, office@akro.ro
+Subiect: Ynt: MEMBRANA OSMOTİCA 8040 ESPA2 MAX
+Hello Dear Alexandru,
+
+This price for budget. We will not buy now. Thank you for your effort.
+
+Best Regards,
+
+SEMÝH TURUŢKAN
+
+Procurement Chief
+
+Mobile :+40
+752 488 180
+
+Whatsapp :+40 752 488 180
+
+Omnia Europe S.A
+
+Fabrica De Amidon
+
+Str.Progresului Nr:16
+
+Post code 905600
+
+Medgidia / Constanta
+
+Gönderen: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+
+Gönderildi: 20 Ađustos 2026 Perţembe 12:03
+
+Kime: Semih Turuţkan <semihturuskan@omniaeuropesa.com>
+
+Bilgi: 'SERKAN EKER' <serkaneker@omnianisasta.com.tr>; 'Akro Filtrare' <office@akro.ro>
+
+Konu: RE: MEMBRANA OSMOTÝCA 8040 ESPA2 MAX
+
+Hello Semih,
+
+Is it possible to receive a feedback regarding our proposal of membranes?
+
+Please advise!
+
+Best regards
+
+--- MESAJ m2151620 | 2026-08-24 10:21 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Semih Turuşkan <semihturuskan@omniaeuropesa.com>
+Cc: serkaneker@omnianisasta.com.tr, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: MEMBRANA OSMOTİCA 8040 ESPA2 MAX
+Dear Semih,
+
+Thank you for the feedback!
+
+In this case please take into consideration that the given price was for the current BELGIUM stocks!
+
+This means, for the next batch of membranes there might be differences in prices. I suggest of writing me again closer to the purchase time – for a update of price.
+
+Thank you for understanding!
+
+Best regards,
+
+####################################################################################################
+RÂND c2157572-1 (nr. 458.1) | stare: Completă | categorie: 08-Osmoza si filtrare pe membrane | cerere: 15 membrane osmoză Hydranautics CPA3
+CERINȚA: Cere ofertă tehnică și comercială pentru piesele de schimb din RFQ (unitate de tratare apă, proiect Oil & Gas în Libia). [m2157572] «We kindly request your best Technical and Commercial Quotation for the items detailed in the attached RFQ»
+CERINȚĂ FINALĂ (cantitate): 15 buc membrane osmotice Hydranautics CPA3 [m2157956] «Please find attached our best offer for the osmotic membranes CPA 3 – Hydranautics x 15 pcs»
+CERINȚĂ FINALĂ (termen): Pregătire pentru ridicare în 1-2 săptămâni de la comandă și plată [m2157956] «We can prepare this for collection in 1-2 weeks from order and payment proof.»
+CERINȚĂ FINALĂ (altele): Termen limită RFQ 24.09.2026; ofertă tehnică și comercială separate, valabilitate min. 30 zile [m2157572] «RFQ Closing Date: 24 September 2026»
+REZULTAT: necunoscut
+PREȚURI Ofertă S02821 v1 (2026-09-15), total 8997.75 EUR:
+  [08-002107] Osmotic Membrane - Hydranautics - 8040 - CPA3 | 15.0 Units × 645.0 EUR (reducere 7.0%) | referință
+  termen: Modul de livrare: EXW -AKRO BRASOV / Romania
+  termen: Metoda de plata: 100% advance payment
+
+====================================================================================================
+CONVERSAȚIA c2157572 (nr. 458) | subiect: RE: Request for Quotation: ABD-0027011:  Water Treatment Unit Spares
+Partener (după adrese): astrolaboil.ly  | grupare nesigură: nu
+OFERTĂ S02821 v1 trimisă 2026-09-15 10:09 în m2157956 (Odoo: Ofertă trimisă): [08-002107] Osmotic Membrane - Hydranautics - 8040 - CPA3 x15.0 Units
+
+--- MESAJ m2157572 | 2026-09-14 13:13 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: m_aimen@astrolaboil.ly <m_aimen@astrolaboil.ly>
+Cc: office@akro.ro
+Subiect: RE: Request for Quotation: ABD-0027011:  Water Treatment Unit Spares
+Dear Mr. Mohamad,
+
+Thank you very much for your request !
+
+I have checked the parts asked via your request and I confirm you we can generate a commercial proposal for the 15 pcs – Osmotic membrane Hydranautics CPA3.
+
+Regarding the high pressure pump, we also might have it available in our portfolio, but I need you to send us the following information:
+
+Who is the producer of the pump ?
+
+Photograph with the motor label
+
+Photograph with the hydraulic label [ pump head]
+
+I am looking forward in receiving your reply!
+
+Best regards,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: m_aimen@astrolaboil.ly <m_aimen@astrolaboil.ly>
+Sent: Monday, September 14, 2026 12:52 PM
+Subject: Request for Quotation: ABD-0027011: Water Treatment Unit Spares
+
+Dear Sirs,
+
+Good day. I hope this email finds you well.
+
+We kindly request your best Technical and Commercial Quotation for the items detailed in the attached RFQ for an Oil & Gas project in Libya.
+
+Please provide your offer including:
+
+Unit price and total price
+
+Manufacturer and country of origin
+
+Technical datasheet/catalogue
+
+Delivery time / lead time
+
+Delivery terms (Incoterm)
+
+Payment terms
+
+Quotation validity (minimum 30 days)
+
+Any applicable discounts
+
+Warranty, if applicable
+
+Any deviations from the requested specifications
+
+NOTE: Please attach all relevant technical documentation with your offer, including Technical Data Sheets (TDS), catalogues, brochures, certificates, and other applicable technical documents.
+
+Kindly submit your Technical and Commercial Offers separately.
+
+RFQ Closing Date: 24 September 2026
+
+We would appreciate receiving your most competitive offer before the deadline.
+
+We look forward to your quotation and hope to establish a long-term business relationship with your company.
+
+Best Regards,
+
+--- MESAJ m2121636 | 2026-09-14 23:30 | Inbox | EXTERN
+De la: m_aimen@astrolaboil.ly <m_aimen@astrolaboil.ly>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro
+Subiect: Re: Request for Quotation: ABD-0027011:  Water Treatment Unit Spares
+Dear Alexandru,
+
+Thank you very much for your response and for checking our request.
+
+We appreciate your confirmation that you can prepare a commercial proposal for the
+15 pcs Hydranautics CPA3 osmotic membranes.
+
+Regarding the high-pressure pump, we will check with the end user and request the required information, including:
+
+Pump producer/manufacturer
+
+Photograph of the motor nameplate
+
+Photograph of the hydraulic/pump head nameplate
+
+We will get back to you as soon as we receive the requested details from the end user.
+
+Thank you for your support, and we look forward to receiving your commercial proposal for the membranes.
+
+Best Regards,
+
+--- MESAJ m2157956 | 2026-09-15 10:09 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: m_aimen@astrolaboil.ly <m_aimen@astrolaboil.ly>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Request for Quotation: ABD-0027011:  Water Treatment Unit Spares
+Dear Mohamad,
+
+Please find attached our best offer for the osmotic membranes CPA 3 – Hydranautics x 15 pcs
+
+We can prepare this for collection in 1-2 weeks from order and payment proof.
+
+I have also attached the data sheet of the product .
+
+I am looking forward in receiving your feedback !
+
+Best regards,
+[ATAȘAMENT: Oferta - S02821 Astrolab Oil Services Co - 15.09.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: CPA3.pdf | text extras]
+
+--- MESAJ m2121924 | 2026-09-15 12:53 | Inbox | EXTERN
+De la: m_aimen@astrolaboil.ly <m_aimen@astrolaboil.ly>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Re: Request for Quotation: ABD-0027011:  Water Treatment Unit Spares
+Dear Alexandru,
+
+Thank you for reaching back to us. We will review it and get back to you as soon as we have feedback from our team.
+
+Thank you once again for your assistance.
+
+Best Regards,
+
+####################################################################################################
+RÂND c2122596 (nr. 482) | stare: Completă | categorie: 08-Osmoza si filtrare pe membrane | cerere: Membrane osmotice 8040 ESPA2 MAX, 9 buc
+CERINȚA: Cere ofertă pentru 9 membrane osmotice 8040 ESPA2 MAX pentru înlocuire la instalația de osmoză. [m2122596] «Va rog, sa-mi transmiteti o oferta de pret pentru urmatorul reper necesar la inlocuirea instalatiei de osmoza»
+CERINȚĂ FINALĂ (tip echipament): Membrană osmotică model 8040 ESPA2 MAX [m2122596] «-membrana osmotica model 8040 ESPA2 MAX= 9 buc»
+CERINȚĂ FINALĂ (cantitate): 9 buc [m2122596] «-membrana osmotica model 8040 ESPA2 MAX= 9 buc»
+CERINȚĂ FINALĂ (aplicație): Înlocuirea membranelor la instalația de osmoză [m2122596] «Va transmit comanda ferma pentru urmatorul reper necesar la inlocuirea instalatiei de osmoza»
+CERINȚĂ FINALĂ (termen): Livrare estimată în maxim 2-3 săptămâni (produs în stoc la furnizor) [m2158660] «estimam livrarea in termen de maxim 2-3 saptamani»
+CERINȚĂ FINALĂ (loc livrare): Str. Principală 327, Dărmănești, jud. Argeș [m2161156] «STR Principala 327, DARMANESTI,JUD ARGES»
+CERINȚĂ FINALĂ (altele): Plată integrală în avans (după negociere: 60% avans prin OP, diferența săptămâna următoare) [m2159140] «Va trimitem anexata factura proforma pentru 60%.»
+CLARIFICARE: întrebare Clientul cere plata 40% avans, 30% la 30 zile și 30% la 60 zile. [m2122756] «Va rog, sa acceptati modalitatea de plata dupa cum urmeaza:» → răspuns AKRO acceptă comanda doar cu plată integrală în avans. [m2158756] «putem inregistra aceasta comanda exclusiv in conditii de plata integrala in avans!» | schimbare: Plata eșalonată cerută de client a fost refuzată; se cere plată 100% în avans.
+CLARIFICARE: întrebare Clientul cere procesarea comenzii pe baza unui OP de 60%, cu diferența achitată săptămâna următoare. [m2123364] «Vă rugăm să ne ajutați cu procesarea comenzii în baza unui OP reprezentând 60% din valoarea totală» → răspuns AKRO trimite proforma pentru 60%, diferența se facturează la finalul săptămânii următoare. [m2159140] «Vom emite factura pentru diferenta la finalul saptamanii urmatoare» | schimbare: Plata a devenit 60% avans + diferența la închiderea comenzii.
+REZULTAT: acceptată — Clientul trimite comanda fermă și plătește avansul de 60%. [m2122596] «Va transmit comanda ferma pentru urmatorul reper necesar la inlocuirea instalatiei de osmoza»
+PREȚURI Confirmare de comandă S02837 v1 (2026-09-17), total 8388.02 EUR:
+  [08-002193] Membrana osmotica 8040 ESPA2 MAX Termen livrare: 15 zile | 9.0 buc × 975.0 EUR (reducere 21.0%) | referință
+  termen: Modul de livrare: In sarcina Akro
+  termen: Termen de plata: 100% in avans
+
+====================================================================================================
+CONVERSAȚIA c2122596 (nr. 482) | subiect: RE: comanda
+Partener (după adrese): apadinnoy.ro Daniela Pacioianu, Mentenanta Apadinnoy | grupare nesigură: nu
+OFERTĂ S02837 v1 trimisă 2026-09-17 09:43 în m2158660 (Odoo: Comandă de vânzare): [08-002193] Membrana osmotica 8040 ESPA2 MAX Termen livrare: 15 zile x9.0 buc
+
+--- MESAJ m2122596 | 2026-09-17 09:12 | Inbox | EXTERN
+De la: Daniela Pacioianu <daniela.pacioianu@apadinnoy.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: romulus.arsene@yahoo.ro, marianmanda1987@gmail.com, mentenanta@apadinnoy.ro, roxana.tuica@lavmiperla.ro, office@akro.ro
+Subiect: RE: comanda
+Buna ziua
+
+Va transmit comanda ferma pentru urmatorul reper necesar la inlocuirea instalatiei de osmoza :
+
+-membrana osmotica model 8040 ESPA2 MAX= 9 buc
+
+Cu stima/Best regards,
+
+Daniela Pacioianu
+
+SC LAVMI PERLA SRL
+
+RO DARMANESTI ARGES
+
+Tel.: 0720/028.332
+
+Fax: 0248/232.623
+
+E-mail: daniela.pacioianu@lavmiperla.ro
+
+www.lavmiperla.ro
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+
+Sent: Monday, 2 February 2026 10:55
+
+To: Daniela Pacioianu <daniela.pacioianu@apadinnoy.ro>
+
+Cc: romulus.arsene@yahoo.ro;
+marianmanda1987@gmail.com; Mentenanta Apadinnoy <mentenanta@apadinnoy.ro>; Roxana Tuica <roxana.tuica@lavmiperla.ro>; 'Akro Filtrare' <office@akro.ro>
+
+Subject: RE: solicitare oferta pret
+
+Buna ziua doamna Pacioianu,
+
+Va rog sa regasiti anexata oferta de pret pentru membranele osmotice – ESPA 2 MAX – 8040.
+
+Pentru moment, putem mentine pretul de anul trecut pentru acest reper. [ nu am primit informare de majorare de pret din partea producatorului]
+
+Produsele sunt in stoc la furnizorul nostru din BELGIA – la acest moment
+
+Oferta a fost emisa conform conditiilor agreate la ultimele doua comenzi!
+
+Pentru orice alte informatii sau intrebari, va stau cu placere la dispozitie!
+
+Numai bine,
+
+From: Daniela Pacioianu <daniela.pacioianu@apadinnoy.ro>
+
+Sent: Monday, February 2, 2026 9:34 AM
+
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+
+Cc: romulus.arsene@yahoo.ro;
+marianmanda1987@gmail.com; Mentenanta Apadinnoy <mentenanta@apadinnoy.ro>; Roxana Tuica <roxana.tuica@lavmiperla.ro>; 'Akro Filtrare' <office@akro.ro>
+
+Subject: solicitare oferta pret
+
+Buna ziua
+
+Va rog, sa-mi transmiteti o oferta de pret pentru urmatorul reper necesar la inlocuirea instalatiei de osmoza :
+
+-membrana osmotica model 8040 ESPA2 MAX= 9 buc
+
+Pentru mai multe detali nu ezitati sa ne contactati la numarul de telefon: 0787749526.
+
+Cu stima/Best regards,
+
+Daniela Pacioianu
+
+SC LAVMI PERLA SRL
+
+RO DARMANESTI ARGES
+
+Tel.: 0720/028.332
+
+Fax: 0248/232.623
+
+E-mail: daniela.pacioianu@lavmiperla.ro
+
+www.lavmiperla.ro
+
+Daniela Pacioianu
+
+Production Coordinator - APA
+
+✆ 0720 028 332
+
+@ daniela.pacioianu@apadinnoy.ro
+
+⌘ Sat Darmanesti, Nr. 327 - RO 117360 Arges – Romania
+
+--- MESAJ m2158628 | 2026-09-17 09:32 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: comanda
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Daniela Pacioianu <daniela.pacioianu@apadinnoy.ro>
+Sent: Thursday, September 17, 2026 9:12 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: romulus.arsene@yahoo.ro; marianmanda1987@gmail.com; Mentenanta Apadinnoy <mentenanta@apadinnoy.ro>; Roxana Tuica <roxana.tuica@lavmiperla.ro>; 'Akro Filtrare' <office@akro.ro>
+Subject: RE: comanda
+
+Buna ziua
+
+Va transmit comanda ferma pentru urmatorul reper necesar la inlocuirea instalatiei de osmoza :
+
+-membrana osmotica model 8040 ESPA2 MAX= 9 buc
+
+Cu stima/Best regards,
+
+Daniela Pacioianu
+SC LAVMI PERLA SRL
+RO DARMANESTI ARGES
+Tel.: 0720/028.332
+Fax: 0248/232.623
+E-mail: daniela.pacioianu@lavmiperla.ro
+www.lavmiperla.ro
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Monday, 2 February 2026 10:55
+To: Daniela Pacioianu <daniela.pacioianu@apadinnoy.ro>
+Cc: romulus.arsene@yahoo.ro; marianmanda1987@gmail.com; Mentenanta Apadinnoy <mentenanta@apadinnoy.ro>; Roxana Tuica <roxana.tuica@lavmiperla.ro>; 'Akro Filtrare' <office@akro.ro>
+Subject: RE: solicitare oferta pret
+
+Buna ziua doamna Pacioianu,
+
+Va rog sa regasiti anexata oferta de pret pentru membranele osmotice – ESPA 2 MAX – 8040.
+
+Pentru moment, putem mentine pretul de anul trecut pentru acest reper. [ nu am primit informare de majorare de pret din partea producatorului]
+
+Produsele sunt in stoc la furnizorul nostru din BELGIA – la acest moment
+
+Oferta a fost emisa conform conditiilor agreate la ultimele doua comenzi!
+
+Pentru orice alte informatii sau intrebari, va stau cu placere la dispozitie!
+
+Numai bine,
+
+From: Daniela Pacioianu <daniela.pacioianu@apadinnoy.ro>
+Sent: Monday, February 2, 2026 9:34 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: romulus.arsene@yahoo.ro; marianmanda1987@gmail.com; Mentenanta Apadinnoy <mentenanta@apadinnoy.ro>; Roxana Tuica <roxana.tuica@lavmiperla.ro>; 'Akro Filtrare' <office@akro.ro>
+Subject: solicitare oferta pret
+
+Buna ziua
+
+Va rog, sa-mi transmiteti o oferta de pret pentru urmatorul reper necesar la inlocuirea instalatiei de osmoza :
+
+-membrana osmotica model 8040 ESPA2 MAX= 9 buc
+
+Pentru mai multe detali nu ezitati sa ne contactati la numarul de telefon: 0787749526.
+
+Cu stima/Best regards,
+
+Daniela Pacioianu
+SC LAVMI PERLA SRL
+RO DARMANESTI ARGES
+Tel.: 0720/028.332
+Fax: 0248/232.623
+E-mail: daniela.pacioianu@lavmiperla.ro
+www.lavmiperla.ro
+
+Daniela Pacioianu
+
+Production Coordinator - APA
+
+✆ 0720 028 332
+
+@ daniela.pacioianu@apadinnoy.ro
+
+⌘ Sat Darmanesti, Nr. 327 - RO 117360 Arges – Romania
+
+--- MESAJ m2158660 | 2026-09-17 09:43 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Daniela Pacioianu <daniela.pacioianu@apadinnoy.ro>
+Cc: romulus.arsene@yahoo.ro, marianmanda1987@gmail.com, mentenanta@apadinnoy.ro, roxana.tuica@lavmiperla.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: comanda
+Buna ziua Doamna Pacioianu,
+
+Va multumim pentru comanda trimisa!
+
+Va rog sa regasiti anexata confirmarea de comanda si factura proforma pentru valoare 100% in avans.
+
+Produsele sunt disponibile in stocul furnizor la acest moment si estimam livrarea in termen de maxim 2-3 saptamani.
+
+Asteptam confirmarea de plata!
+
+Numai bine,
+[ATAȘAMENT: Factură proforma - LAVMIPERLA - 17.09.2026.pdf | text extras]
+[ATAȘAMENT: Comanda - S02837 - LAVMIPERLA - 17.09.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2122756 | 2026-09-17 10:08 | Inbox | EXTERN
+De la: Daniela Pacioianu <daniela.pacioianu@apadinnoy.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: romulus.arsene@yahoo.ro, marianmanda1987@gmail.com, mentenanta@apadinnoy.ro, roxana.tuica@lavmiperla.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: comanda
+Buna ziua,
+
+Va rog, sa acceptati modalitatea de plata dupa cum urmeaza:
+
+-40 % avans;
+
+-30 % scadenta la 30 zile;
+
+-30 % scadenta la 60 zile.
+
+Astept raspunsul dumneavoastra.
+
+Multumesc !
+
+Cu stima/Best regards,
+
+Daniela Pacioianu
+
+SC LAVMI PERLA SRL
+
+RO DARMANESTI ARGES
+
+Tel.: 0720/028.332
+
+Fax: 0248/232.623
+
+E-mail: daniela.pacioianu@lavmiperla.ro
+
+www.lavmiperla.ro
+
+--- MESAJ m2158756 | 2026-09-17 10:54 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Daniela Pacioianu <daniela.pacioianu@apadinnoy.ro>
+Cc: romulus.arsene@yahoo.ro, marianmanda1987@gmail.com, mentenanta@apadinnoy.ro, roxana.tuica@lavmiperla.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: comanda
+Buna ziua doamna Pacioianu,
+
+Va multumim pentru solicitarea transmisa!
+
+In urma analizei efectuate impreuna cu conducerea AKRO si avand in vedere politicile noastre interne de creditare bazate pe istoricul comercial, s-a stabilit ca putem inregistra aceasta comanda exclusiv in conditii de plata integrala in avans!
+
+Va multumim pentru intelegere si fexibilitate!
+
+Pentru orice alte informatii sau intrebari, va stau cu placere la dispozitie!
+
+Numai bine,
+
+--- MESAJ m2123364 | 2026-09-18 13:45 | Inbox | EXTERN
+De la: Roxana Tuica <roxana.tuica@lavmiperla.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>, Daniela Pacioianu <daniela.pacioianu@apadinnoy.ro>
+Cc: marianmanda1987@gmail.com, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: comanda
+Bună ziua,
+
+Vă rugăm să ne ajutați cu procesarea comenzii în baza unui OP reprezentând 60% din valoarea totală a acesteia, urmând ca diferența să fie achitată săptămâna viitoare.
+
+Dacă este posibil, vă putem emite și un bilet la ordin cu scadența la data de 25.09.2026, pentru diferența rămasă de achitat.
+
+Vă rugăm să ne comunicați dacă această variantă este posibilă.
+
+Așteptăm răspunsul dumneavoastră
+
+--- MESAJ m2159140 | 2026-09-18 14:17 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Roxana Tuica <roxana.tuica@lavmiperla.ro>, Daniela Pacioianu <daniela.pacioianu@apadinnoy.ro>
+Cc: marianmanda1987@gmail.com, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: comanda
+Buna ziua,
+
+Va trimitem anexata factura proforma pentru 60%.
+
+Vom emite factura pentru diferenta la finalul saptamanii urmatoare – pentru inchiderea comenzii.
+
+O zi cu spor!
+[ATAȘAMENT: Factură proforma - LAVMIPERLA - 18.09.2026.pdf | text extras]
+
+--- MESAJ m2123396 | 2026-09-18 14:25 | Inbox | EXTERN
+De la: Roxana Tuica <roxana.tuica@lavmiperla.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>, Daniela Pacioianu <daniela.pacioianu@apadinnoy.ro>
+Cc: marianmanda1987@gmail.com, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: comanda
+Buna ziua,
+
+Atasat op-ul pentru avans
+
+Va multumesc !
+[ATAȘAMENT: OP AKRO .pdf | text extras]
+ING Bank N.V. Amsterdam Sucursala Bucuresti,
+Str. Aviator Popisteanu, nr. 54A, Cladirea nr. 3, sector 1, 012095 Bucuresti, Romania
+RC: J1994016100409, CIF: RO6151100, RIC: RB-PJS-40-024/18.02.1999 Confirmare tranzactie
+Tel: +40 21 222 16 00, Fax: +40 21 222 14 01, www.ing.ro
+BIC code (SWIFT): INGBROBU
+
+Titular cont Beneficiar/Ordonator
+
+Nume LAVMI - PERLA SRL Nume AKRO SRL
+Numar cont RO04INGB0006008221548915 Numar cont RO98INGB0000999902843963
+CUI 4464550
+Adresa Strada -, Nr 327, Bl -, Sc -, Et -, Ap -
+117360 DARMANESTI
+
+Detalii tranzactie
+
+Data procesarii Tip tranzactie Suma Valuta
+Referinta bancii Detalii
+
+18.09.2026 Transfer ING Business 26,473.11 RON
+14161 ff S02837
+Referinta bancii 664acd7a-1c88-39ed-91d3-e662c0e146f1
+
+Acest document a fost emis printr-un instrument de plata electronica. Informatii despre schema de garantare a depozitelor si tipurile de conturi eligibile sunt disponibile pe
+www.ing.ro/dgs si in locatiile bancii. Valabil fara semnatura si stampila. 1\1
+
+--- MESAJ m2161156 | 2026-09-28 11:31 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Roxana Tuica <roxana.tuica@lavmiperla.ro>, Daniela Pacioianu <daniela.pacioianu@apadinnoy.ro>
+Cc: marianmanda1987@gmail.com, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: FACTURA FINALA si ADRESA DE LIVRARE
+Buna ziua,
+
+Va informam ca cele 9 membrane au ajuns in depozitul AKRO si s-au pregatit pentru livrarea la dumneavoastra.
+
+Pentru a organiza transportul, va rog sa ne mai trimiteti:
+
+Confirmarea de plata pentru contravaloarea facturii anexate;
+
+Adresa de livrare [ daca s-a schimbat fata de : STR Principala 327, DARMANESTI,JUD ARGES ]
+
+Asteptam cu interes raspunsul dumneavoastra!
+
+Numai bine,
+[ATAȘAMENT: AKF 260581 - LAVMI PERLA - 28.09.2026.pdf | text extras]
+
+####################################################################################################
+RÂND c2135204 (nr. 34) | stare: Fără ofertă | categorie: 08-Osmoza si filtrare pe membrane | cerere: Instalație osmoză inversă 80 mc/h pentru seră
+CERINȚA: Cere ofertă pentru o instalație de osmoză inversă de 80 mc/h, cu apă din puțuri, pentru o seră de roșii. [m2135204] «INSTALATIE DE OSMOZA INVERSA PENTRU O CAPACITATE DE 80 mc/h = 1 buc.»
+CERINȚĂ FINALĂ (debit): 80 mc/h, 1 buc [m2135204] «INSTALATIE DE OSMOZA INVERSA PENTRU O CAPACITATE DE 80 mc/h = 1 buc.»
+CERINȚĂ FINALĂ (calitate apă): Apă din puțuri (rapoarte de test atașate) [m2135204] «Apa vine din puturi. Atasat aveti rapoartele de test pentru apa.»
+CERINȚĂ FINALĂ (aplicație): Seră de roșii, beneficiar Evergreen Solar Orizont [m2135204] «Apa este necesara pentru o sera de rosii.»
+CERINȚĂ FINALĂ (loc livrare): Oltenița [m2135204] «Locatie: Oltenita Beneficiar: Evergreen Solar Orizont»
+CLARIFICARE: întrebare Clientul cere în scris ce informații mai sunt necesare. [m2135204] «astept sa imi trimiteti in scris de ce mai aveti nevoie» → răspuns AKRO enumeră neclaritățile: lipsă caiet de sarcini, cine face pretratarea, bugetul, numărul de linii. [m2135204] «Nu exista un caiet de sarcini, fise tehnice la instalatia solicitata» | schimbare: Lipsesc caietul de sarcini, responsabilul pretratării, bugetul și numărul de linii de osmoză.
+TELEFON: După o discuție, clientul cere în scris ce informații mai sunt necesare. [m2135204] «In urma dicutiei astept sa imi trimiteti in scris de ce mai aveti nevoie.»
+REZULTAT: AKRO nu a ofertat — AKRO declină ofertarea din cauza neclarităților și a dimensiunii instalației. [m2135204] «Pentru acest proiect, din pacate nu va putem prezenta o propunere tehnica si comerciala.»
+
+
+====================================================================================================
+CONVERSAȚIA c2135204 (nr. 34) | subiect: RE: Cerere oferta pret instalatie osmoza inversa
+Partener (după adrese): ultrafilter.ro Ali Memdu | grupare nesigură: nu
+
+--- MESAJ m2135204 | 2026-07-03 11:21 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Ali Memdu <ali.memdu@ultrafilter.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, aurel.caras@akro.ro
+Subiect: RE: Cerere oferta pret instalatie osmoza inversa
+Buna ziua,
+
+Pentru acest proiect, din pacate nu va putem prezenta o propunere tehnica si comerciala. Sunt cateva neclaritati dintre care mentionez:
+
+Nu exista un caiet de sarcini, fise tehnice la instalatia solicitata
+
+Nu ne este clar cine se ocupa de partea de pretrare [ pregatirea apei pentru alimentarea statiei de osmoza]
+
+Nu stim care este bugetul alocat pentru aceasta instalatie
+
+Cate linii de osmoza sunt prevazute? Este una singura de 80 mc/h?
+
+In mod normal, instalatiile de osmoza mai mari de 25-30 mc/h se construiesc pe pozitia finala [iar in aceasta forma nu va putem furniza o solutie]
+
+Pentru orice alte informatii sau intrebari din domeniul tratarii apelor, va stau cu placere la dispozitie!
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Ali Memdu <ali.memdu@ultrafilter.ro>
+Sent: Friday, July 3, 2026 10:59 AM
+To: contact@akro.ro
+Subject: FW: Cerere oferta pret instalatie osmoza inversa
+
+Buna ziua,
+
+In urma dicutiei astept sa imi trimiteti in scris de ce mai aveti nevoie.
+
+Va multumesc!
+
+Cu stima,
+
+Ali Memdu 0736 393951
+
+e-mail: ali.memdu@ultrafilter.ro
+
+office@ultrafilter.ro
+
+Tel 0371 152977; Fax 021 3260004
+
+Intrarea Gh. Costa Foru 4, sector 2, Bucuresti, cod 024098
+
+www.ultrafilter.ro
+
+www.Donaldson.com
+
+www.Gardnerdenver.com
+
+www.Euroventilatori-ind.eu
+
+www.Jackfilter.at
+
+From: Ali Memdu
+Sent: Monday, June 22, 2026 12:26 PM
+To: 'contact@akro.ro' <contact@akro.ro>
+Subject: Cerere oferta pret instalatie osmoza inversa
+
+Buna ziua,
+
+Va rog sa ne transmiteti oferta dvs. de pret pentru:
+
+INSTALATIE DE OSMOZA INVERSA PENTRU O CAPACITATE DE 80 mc/h = 1 buc.
+
+Apa vine din puturi.
+
+Atasat aveti rapoartele de test pentru apa.
+
+Apa este necesara pentru o sera de rosii.
+
+Daca aveti nevoie si de alte detalii va rog sa imi spuneti.
+
+Locatie: Oltenita
+
+Beneficiar: Evergreen Solar Orizont
+
+Datele transmise va rog sa ramana intre noi, am semnat un acord de confidentialitate.
+
+Termen de livrare:
+
+Conditii de livrare:
+
+Modalitate plata:
+
+Va multumesc!
+
+Cu stima,
+
+Ali Memdu 0736 393951
+
+e-mail: ali.memdu@ultrafilter.ro
+
+office@ultrafilter.ro
+
+Tel 0371 152977; Fax 021 3260004
+
+Intrarea Gh. Costa Foru 4, sector 2, Bucuresti, cod 024098
+
+www.ultrafilter.ro
+
+www.Donaldson.com
+
+www.Gardnerdenver.com
+
+www.Euroventilatori-ind.eu
+
+www.Jackfilter.at
+
+####################################################################################################
+RÂND c2112996 (nr. 303) | stare: Fără ofertă | categorie: 08-Osmoza si filtrare pe membrane | cerere: Sistem osmoză inversă cu 7 trepte
+CERINȚA: Întreabă dacă AKRO are un sistem de osmoză inversă cu computer TDS și 7 trepte de filtrare (1 sistem), pentru proiectul 20260802. [m2112996] «Sistem osmoză Inversă, computer TDS cu 7 trepte de filtrare»
+CERINȚĂ FINALĂ (tip echipament): Sistem osmoză inversă cu computer TDS și 7 trepte de filtrare [m2112996] «Sistem osmoză Inversă, computer TDS cu 7 trepte de filtrare»
+CLARIFICARE: întrebare AKRO întreabă capacitatea sistemului, pretratarea și dacă există fișă tehnică; observă că pare un sistem casnic sub chiuvetă, pe care nu îl are în portofoliu. [m2150052] «Nu e foarte clar care este gabaritul sistemului [ cat produce] si partea de pretatare.» → răspuns - | schimbare: Nicio precizare primită; AKRO nu are sisteme casnice de osmoză sub chiuvetă.
+REZULTAT: necunoscut
+
+
+====================================================================================================
+CONVERSAȚIA c2112996 (nr. 303) | subiect: Project 20260802 - Cerere oferta sistem osmoza inversa
+Partener (după adrese): proinstal.ro deac mihai | grupare nesigură: nu
+
+--- MESAJ m2112996 | 2026-08-17 17:44 | Inbox | EXTERN
+De la: deac mihai <mihai.deac@proinstal.ro>
+Către: alexandru.soare@akro.ro <alexandru.soare@akro.ro>
+Cc: cristi@proinstal.ro
+Subiect: Project 20260802 - Cerere oferta sistem osmoza inversa
+Salut Alexandru,
+
+Ai ceva in gama de produse furnizate care sa fie similar cu
+cerinta de mai jos:
+
+Sistem osmoză Inversă, computer TDS cu 7 trepte de filtrare - 1
+sistem
+
+Mersi mult
+
+--
+
+Cu
+respect,
+
+Ing. Mihai DEAC
+
+Compartiment
+
+Tehnic - Ofertare - Productie
+
+S.C. PROINSTAL S.R.L.
+
+Aleea Olteniei nr.4B
+
+430214 - Baia Mare
+
+Tel: +40 262 227 014
+
+Fax: +40 262 222 707
+
+Mobil: +40 743 301 392
+
+E-mail:
+mihai.deac@proinstal.ro
+
+Web: www.proinstal.ro
+
+P Save a tree...please don't
+print this e-mail unless you really need to
+
+--- MESAJ m2150052 | 2026-08-18 08:29 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: deac mihai <mihai.deac@proinstal.ro>
+Cc: cristi@proinstal.ro, office@akro.ro
+Subiect: RE: Project 20260802 - Cerere oferta sistem osmoza inversa
+Salutare Mihai,
+
+Nu e foarte clar care este gabaritul sistemului [ cat produce] si partea de pretatare. [ exista cumva si o fisa tehnica]?
+
+Prin faptul ca spune ca are 7 trepte de filtrare, ma duce cu gandul la sistemele de osmoza de sub chiuveta [ casnice] – si nu avem asa ceva in portofoliu.
+
+Cu respect,
+
+####################################################################################################
+RÂND c2156356 (nr. 431) | stare: După vânzare | categorie: 08-Osmoza si filtrare pe membrane | cerere: Înlocuire membrane osmotice, pe bază de contract
+CERINȚA: -
+CERINȚĂ FINALĂ (termen): Livrare membrane estimată la ±5-7 săptămâni [m2156356] «Estimatul de livrare pentru membrane la acest moment este de +-5-7 saptamani.»
+REZULTAT: acceptată — Clientul trimite contractul semnat și ordinul de plată pentru avans; AKRO demarează aprovizionarea. [m2119844] «Atasat aveti contractuLsemnat si OP.»
+PREȚURI Confirmare de comandă S02713 v1 (2026-09-09), total 7094.18 EUR:
+  [08-002232] Membrana osmotica PWG 4040ND Termen livrare: 7 sapt. | 12.0 buc × 389.0 EUR (reducere 3.0%) | referință
+  [-] Interventie schimb membrane osmoza | None  × None EUR | în afara nomenclatorului
+  termen: Metoda de plata: O.P. 50% in avans ; 50% la 10 zile de la PIF
+  termen: Modul de livrare: In sarcina Akro
+PREȚURI Factură proformă S02713 v1 (2026-09-09), total 18625.07 RON:
+  termen: Modul de livrare: In sarcina Akro
+
+====================================================================================================
+CONVERSAȚIA c2156356 (nr. 431) | subiect: Contract - inlocuire membrane osmotice
+Partener (după adrese): vanansemgroup.com Office AJT | Van Ansem Group | grupare nesigură: da
+OFERTĂ S02713 v1 trimisă 2026-09-09 12:03 în m2156356 (Odoo: Comandă de vânzare): [08-002232] Membrana osmotica PWG 4040ND Termen livrare: 7 sapt. x12.0 buc; [-] Interventie schimb membrane osmoza xNone 
+OFERTĂ S02713 v1 trimisă 2026-09-09 12:03 în m2156356 (Odoo: Comandă de vânzare): 
+
+--- MESAJ m2156356 | 2026-09-09 12:03 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: office-ajt@vanansemgroup.com <office-ajt@vanansemgroup.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Contract - inlocuire membrane osmotice
+Buna ziua,
+
+Conform discutiei de pe whatsapp, va trimit anexate:
+
+Draftul de contract in format editabil
+
+Anexa 1 la contract [ oferta de pret finala]
+
+Factura proforma de avans – conform contract.
+
+Va rugam sa reveniti cu contractul semnat din partea dumneavoastra si cu confirmarea de plata pentru factura anexata,astfel incat sa demaram procedura de aprovizionare.
+
+Estimatul de livrare pentru membrane la acest moment este de +-5-7 saptamani.
+
+Asteptam raspunsul dumneavoastra!
+
+Numai bine,
+[ATAȘAMENT: Comanda - S02713 - AJT FARMING - 08.09.2026 (1).pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: 1.F1_DRAFT CONTRACT - Nr 133- AJT FARMING - 08.09.2026.docx | text extras]
+[ATAȘAMENT: Factură proforma - AJT FARMING - 08.09.2026 (1).pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2119844 | 2026-09-09 14:52 | Inbox | EXTERN
+De la: Office AJT | Van Ansem Group <office-ajt@vanansemgroup.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: RE: Contract - inlocuire membrane osmotice
+Buna ziua!
+
+Atasat aveti contractuLsemnat si OP.
+
+O zi buna!
+
+Office AJT
+
+office-ajt@vanansemgroup.com
+
+SC AJT Farming SRL
+SC A.J.T Farming SRL is part of the Van Ansem Group. The Van Ansem Group consists of several separate legal entities. Each entity is only liable for its own obligations.
+
+The information transmitted is intended only for the person or entity to which it is addressed and may contain confidential
+and / or privileged material. Any review, re-transmission, dissemination or other use of, or taking of any action in reliance upon, this information by persons or entities other than the intended recipient is prohibited. If you received this in error, please contact the sender and delete the material from any computer. In no way whatsoever can any rights be taken from this information.
+[ATAȘAMENT: Contract Akro.pdf | PDF fără text (scanat)]
+[ATAȘAMENT: Cyber_receipt_09092026.pdf | text extras]
+Confirmare electronica/Cyber receipt
+
+Nr. referinta/Reference no. IB0026090984771200
+
+Nume platitor/Payer's name A.J.T. FARMING SRL
+
+Cont platitor/Payer's account RO94RZBR0000060021477314
+
+Nr. identificare platitor/Payer's 30774100
+identification number
+Nume beneficiar/Beneficiary's name AKRO SRL
+
+Cont beneficiar/Beneficiary's account RO98INGB0000999902843963
+
+Suma/Amount 18625.07
+
+Valuta/Currency RON
+
+Cod SWIFT/SWIFT code INGBROBU
+
+Numar ordin de plata/Payment order 1
+number
+Data debitarii/Date of debit 09/09/2026
+
+Detalii plata/Payment details fac prof S02713/08.09.2026
+
+Raiffeisen Bank S.A. • Administratia Centrala • Cladirea Sky Tower, Calea Floreasca nr. 246 C, sector 1, Bucuresti • Cod postal 014476 • Romania •
+Telefon: +40 21 306 1000 • Fax: +40 21 230 0700 • E-mail: centrala@raiffeisen.ro • www.raiffeisen.ro • C.U.I. 361820 • Numar de inregistrare in
+Registrul Comertului J40/44/1991 • Identificator unic la nivel european (EUID) ROONRC.J40/44/1991 • Numar de inregistrare in Registrul Bancar RB-
+PJR-40-009/1999 • Decizia ASF nr. A/75/30.01.2014 completata de Decizia ASF nr. A/239/27.03.2014, inregistrata in Registrul Public al ASF sub nr.
+PJR01INCR/400009 • Cod de inregistrare fiscala RO361820 • Capital Social 1.200 mil Lei • Societate administrata in sistem dualist • Cod BIC
+RZBRROBU • Raiffeisen Direct: *2000, cu tarif normal in retelele Vodafone, Orange
+
+--- MESAJ m2156548 | 2026-09-09 15:11 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Office AJT | Van Ansem Group <office-ajt@vanansemgroup.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Contract - inlocuire membrane osmotice
+Buna ziua,
+
+Va multumim !
+
+Astazi demaram procedura de aprovizionare si revenim la dumneavoastra cand avem membranele in stoc.
+
+Numai bine,
+
+--- MESAJ m2156612 | 2026-09-10 09:52 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Office AJT | Van Ansem Group <office-ajt@vanansemgroup.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Contract - inlocuire membrane osmotice
+Buna ziua,
+
+Va trimitem anexata factura fiscala pentru avansul achitat.
+
+O zi cu spor!
+[ATAȘAMENT: AKF 260539 - AJT FARMING - 10.09.2026.pdf | text extras]

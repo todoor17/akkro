@@ -1,0 +1,65 @@
+[
+  {
+    "intrebare": "Ce componente formează o stație de dedurizare?",
+    "raspuns": [
+      "O stație de dedurizare AKRO (seria DEC) e asamblată la Brașov din piese cumpărate de la ALAMO WATER POLAND. Manualul seriei DEC, trimis clientului Airbus, spune din ce e făcută: recipienții cu rășină (unul la simplex, doi la duplex), rășina, vana de comandă, furtunurile și vasul de saramură.",
+      "Comenzile către ALAMO pentru cele 4 stații analizate (KDC, Airbus, Proconcord, Rominserv) arată de fiecare dată aceleași cinci grupe, cu coduri din nomenclator: 1) vana automată Clack, cu transformatorul ei, limitatorul de debit la canal (DLFC) și coșul de sus al buteliei; 2) butelia, câte una pe coloană; 3) distribuitorul cu crepina de jos; 4) rășina de dedurizare PC003, exact volumul stației; 5) vasul de saramură, cu supapa, furtunul și preaplinul.",
+      "La stațiile cu două coloane se adaugă piesele care le leagă: la duplex alternant (Airbus) două vane cu motor de alternare și un teu spre vasul de saramură, comun; la twin (Rominserv) o vană twin și țevile spre butelii. By-pass-ul NHWBP intră doar când e cerut (la KDC, pe linie separată în ofertă).",
+      "Nu vin de la ALAMO: nisipul suport din butelie (comanda KDC spune «without sand»), filtrul de impurități NW500 și sistemul UV ofertate în aceeași ofertă (Airbus, Proconcord). Fișele tehnice DEC nu au lista de piese, doar dimensiunile; tabelul «Componente» de pe pagină e prima listă cu coduri."
+    ],
+    "dovezi": [
+      {"src": "m2144292", "citat": "Recipienti cu rasina schimbatoare de ioni (1 la statiile simplex, 2 la statiile duplex, 3 la statiile", "nota": "manualul seriei DEC, trimis la Airbus: din ce e făcută stația"},
+      {"src": "m2144292", "citat": "robinet principal de control", "nota": "manualul seriei DEC: vana de comandă"},
+      {"src": "m2147556", "citat": "[V2CIDM-X] WS2 CI REGENERATING-METER (SOFTENER/KMNO4) [14-001047]", "nota": "comanda pentru KDC: vana"},
+      {"src": "m2147556", "citat": "[CN-2162-4] 21x62-4 [14-003079]", "nota": "comanda pentru KDC: butelia"},
+      {"src": "m2147556", "citat": "[D1197-09-50] DISTRIBUTOR 50MM WITH BOTTOM BASKET D1197-09 [14-005031]", "nota": "comanda pentru KDC: distribuitorul"},
+      {"src": "m2147556", "citat": "[GE-JS/Y-350] ROUND TANK 350 L [14-004011]", "nota": "comanda pentru KDC: vasul de saramură"},
+      {"src": "m2150884", "citat": "[V2CI Duplex] WS2 CI Duplex Alternating TM (without DLFC) - BOM [14-001070]", "nota": "comanda pentru Airbus: setul de vane duplex"},
+      {"src": "m2167588", "citat": "[V169] PIPING FOR TANKS 12\"-21\" [14-001066]", "nota": "comanda pentru Rominserv: țevile stației twin"},
+      {"src": "m2147556", "citat": "4 x simplex softeners - 250L each, with NHWBP and Clack Valve 2\" CI [ without sand]", "nota": "nisipul nu se comandă de la ALAMO"}
+    ]
+  },
+  {
+    "intrebare": "De ce parametri ai cerinței depinde configurația?",
+    "raspuns": [
+      "Debitul și capacitatea cerute, împreună cu duritatea apei, dau volumul de rășină. Airbus a cerut cel puțin 10 mc/h și 200 dH pe oră, cu apă de 13 dH, și a primit o stație duplex cu 450 L pe coloană.",
+      "Volumul de rășină dă butelia și vasul de saramură. În comenzi: 75 L pe coloană înseamnă butelii de 13x54 țoli și vas de 200 L (Rominserv); 250 L, butelie de 21x62 și vas de 350 L (KDC); 300 L, butelie de 24x72 și vas de 350 L (Proconcord); 450 L pe coloană, butelii de 30x72 și vas de 750 L (Airbus). Fișa tehnică a modelului trimisă clientului are aceleași măsuri: la DEC 75 duplex, coloane de 34 x 140 cm (13x54 țoli) și vas de 200 L.",
+      "Racordul cerut dă mărimea vanei Clack: 2\" înseamnă vana WS2 CI (KDC, Airbus), 1,5\" vana WS1.5 CI (Proconcord), 1\" vana WS1 CI (Rominserv).",
+      "Felul stației dă tipul vanei: simplex, o vană cu contor; duplex alternant, cerut când apa dedurizată nu are voie să se oprească (Airbus), două vane cu motor de alternare și un singur vas de saramură; twin de 1\", o vană twin cu țevile ei.",
+      "Când clientul cere modelul cumpărat înainte (KDC: «WS2-250 LITRI», «la fel ca cele de anul trecut»), AKRO nu mai calculează: comandă aceeași configurație. Concluzia vine din 4 stații; un om de la AKRO trebuie să o confirme pe mai multe vânzări."
+    ],
+    "dovezi": [
+      {"src": "m2107716", "citat": "debit minim 10 mc/h;", "nota": "Airbus: debitul cerut"},
+      {"src": "m2107716", "citat": "capacitate dedurizare minim 200 dH pe ora;", "nota": "Airbus: capacitatea cerută"},
+      {"src": "m2107716", "citat": "o instalatia de dedurizare model DUPLEX cu 450L pe fiecare coloana, care satisface toate cerintele solicitate.", "nota": "Airbus: configurația aleasă de AKRO"},
+      {"src": "m2150884", "citat": "[CN-3072-4 T/B] 30x72-4 T/B [14-003083]", "nota": "Airbus: 450 L pe coloană, butelii 30x72"},
+      {"src": "m2155236", "citat": "DEC 75 29 140 116 169 148 2 x 34 55 472 200", "nota": "fișa tehnică DEC 75 duplex: coloane de 34 x 140 cm, vas de 200 L"},
+      {"src": "m2167588", "citat": "[CN-1354-2.5] 13x54-2.5 [14-003072]", "nota": "Rominserv: aceleași butelii, comandate de la ALAMO"},
+      {"src": "m2167588", "citat": "[CN-BTR-200-K] BRINE TANK ROUND 200 L [14-004009]", "nota": "Rominserv: vasul de 200 L din fișă"},
+      {"src": "m2144100", "citat": "[CN-2472-4] 24x72-4 [14-003081]", "nota": "Proconcord: 300 L, butelie 24x72"},
+      {"src": "m2107716", "citat": "conexiune de minim 1,5'', preferabil de 2'';", "nota": "Airbus: racordul cerut, deci vana WS2"},
+      {"src": "m2107620", "citat": "STATIE DE DEDURIZARE SIMPLEX WS2-250 LITRI MF001502-4 buc", "nota": "KDC: clientul cere direct modelul"}
+    ]
+  },
+  {
+    "intrebare": "Ce se comandă de la furnizor pentru fiecare stație?",
+    "raspuns": [
+      "Pentru fiecare stație vândută AKRO comandă de la ALAMO un set complet de piese, în ziua în care clientul confirmă sau la câteva zile după: Airbus în aceeași oră (comanda clientului la 11:41, confirmarea AKRO la 12:10, comanda către ALAMO la 12:14), Rominserv la 5 minute după confirmare, Proconcord în aceeași zi, KDC la 4 zile, după plata avansului.",
+      "Setul pe stație: vana cu transformatorul, limitatorul DLFC și coșul de sus; butelia și distribuitorul cu crepina, câte unul pe coloană; rășina, exact cât are stația; vasul de saramură cu supapa. La mai multe stații identice cantitățile se înmulțesc: la KDC, 4 bucăți din fiecare și 1000 L de rășină.",
+      "Confirmarea ALAMO folosește alte coduri decât comanda AKRO: vana cu contor devine vană plus contor, setul de saramură e desfăcut în piese. Când nu are stoc, ALAMO propune înlocuiri (rășină PC002 în loc de PC003, vas Eurotrol de 190 L în loc de 200 L) sau anunță că lipsesc buteliile (21x62 la KDC, 13x54 la Rominserv).",
+      "Pe aceeași comandă AKRO pune uneori și piese pentru altă lucrare: la Proconcord, încă 300 L de rășină, un coș și un distribuitor, pentru reabilitarea stației vechi din aceeași confirmare către client. Comanda poate numi chiar oferta clientului (P01575 numește S02769), dar de obicei legătura o face doar câmpul «Document sursă» din Odoo."
+    ],
+    "dovezi": [
+      {"src": "m2150852", "citat": "Astazi demaram procedura de aprovizionare", "nota": "Airbus: aprovizionarea începe în ziua comenzii"},
+      {"src": "m2167588", "citat": "S02769 | ROMINSERV SRL | Solicitare Statie de dedurizare - DEC 75 duplex - ROMPETROL GAS", "nota": "Rominserv: comanda către ALAMO numește oferta"},
+      {"src": "m2144068", "citat": "Astazi dau comenzile de aprovizionare cu piese", "nota": "Proconcord: comanda în aceeași zi"},
+      {"src": "m2147556", "citat": "Please find attached our order for 4 x simplex softeners 250L", "nota": "KDC: o comandă pentru 4 stații"},
+      {"src": "m2147556", "citat": "[10761000008] Pure Resin PC003 strong cation [14-002100]", "nota": "KDC: 1000 L de rășină, 250 L pe stație"},
+      {"src": "m2114180", "citat": "WS2 Meter Asy MxF BSPT 15' m Cable", "nota": "confirmarea ALAMO: contorul separat de vană"},
+      {"src": "m2107940", "citat": "Please note change of the resin PC003 (no stock) -> PC002.", "nota": "înlocuire propusă de ALAMO"},
+      {"src": "m2133380", "citat": "1354 tanks (I don't have alternative product)", "nota": "butelii lipsă la Rominserv"},
+      {"src": "m2114052", "citat": "Currently we don't have CN-21x62 pressure tanks.", "nota": "butelii lipsă la KDC"},
+      {"src": "m2144100", "citat": "Some parts we need for warehouse:", "nota": "Proconcord: piese în plus pe aceeași comandă"}
+    ]
+  }
+]

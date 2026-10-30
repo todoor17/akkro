@@ -1,0 +1,131 @@
+[
+  {
+    "cod": "R23-01",
+    "titlu": "Contor de apă cu impuls pe un DN dat: AKRO întreabă rata de impuls și tipul emițătorului (EDC sau reed), apoi ofertează Zenner WPD cu modul EDC",
+    "explicatie": "Clientul cere un contor de apă cu impuls, care trimite un semnal electric după fiecare cantitate de apă trecută, pe un anumit diametru. AKRO spune că nu ține contoare pe stoc, lucrează cu Zenner și trimite fișa contorului WPD. Apoi întreabă la câți litri să vină un impuls și dacă vrea modul inductiv EDC sau contact reed. Când clientul a cerut reed, AKRO a ofertat contorul cu modul EDC, singurul disponibil la furnizor, și a precizat că trimite semnalul la fel. Montajul nu îl face, livrează doar prin curier.",
+    "categorie": "23-Diverse materiale, consumabile",
+    "cand": "Clientul cere un contor de apă (debitmetru mecanic) cu impuls pe un DN dat, uneori doar cu poze sau întrebând de stoc, fără să precizeze rata de impuls și tipul emițătorului.",
+    "clarificari": [
+      "AKRO precizează că nu ține contoare în stoc, lucrează cu Zenner și trimite fișa tehnică WPD.",
+      "Care este rata de impuls dorită (de exemplu un impuls la 100 de litri)?",
+      "Se dorește impuls inductiv (modul EDC) sau contact reed?",
+      "Dacă clientul cere montaj: AKRO asigură doar livrarea prin curier, fără montaj și PIF."
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "23-001187",
+          "rol": "contorul ofertat pentru DN65, cu modul EDC MBus și un impuls la 100 de litri"
+        },
+        {
+          "ref": "23-001189",
+          "rol": "contorul DN100 cu modul EDC MBus și un impuls la 100 de litri, pentru care AKRO a trimis confirmarea de comandă (conversația 23)"
+        }
+      ],
+      "servicii": [
+        "livrare prin curier, fără montaj și PIF"
+      ],
+      "documente": [
+        "fișa tehnică Zenner WPD/WPHD",
+        "broșura modulului EDC"
+      ],
+      "conditii": [
+        "contorul cu modul inductiv EDC, singurul disponibil în stocul furnizorului, a fost ofertat și când clientul a cerut contact reed, cu precizarea că trimite semnal la fel",
+        "termen 1-2 săptămâni din stocul furnizorului (în mod normal 10-14 zile)",
+        "garanție 12 luni de la livrare"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2113444",
+        "src": "m2150788",
+        "citat": "Se doreste impuls inductiv [modul EDC] sau contact reed?",
+        "pentru": "clarificare",
+        "nota": "AKRO cere rata de impuls și tipul emițătorului înainte de cotație"
+      },
+      {
+        "conv": "c2113444",
+        "src": "m2151044",
+        "citat": "Acesta poate trimite semnal la fel ca si impulsul reed.",
+        "pentru": "ofertă",
+        "nota": "clientul a cerut reed. AKRO ofertează contorul cu modul EDC, singurul disponibil în stocul furnizorului"
+      },
+      {
+        "conv": "c2134884",
+        "src": "m2134884",
+        "citat": "Va rog sa aveti in vedere ca vom asigura strict livrarea prin FAN CURIER a produsului la dumneavoastra.",
+        "pentru": "clarificare",
+        "nota": "la cererea de montaj pentru contorul WPD DN100, AKRO precizează că asigură doar livrarea"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R23-02",
+    "titlu": "Transmițător de impuls pentru contor Zenner existent: modul EDC ofertat direct, cu transport inclus",
+    "explicatie": "Pentru un contor Zenner deja montat, clientul cere doar transmițătorul de impuls și trimite diametrul și o poză. AKRO nu mai întreabă nimic și ofertează direct modulul EDC potrivit pentru contorul WPD, cu transportul inclus, din stocul furnizorului. Clientul fiind o companie de utilități publice, AKRO a anunțat apoi că a postat produsul în SICAP, catalogul electronic al achizițiilor publice.",
+    "categorie": "23-Diverse materiale, consumabile",
+    "cand": "Clientul cere un transmițător (generator) de impuls pentru un contor mecanic Zenner deja montat, cu DN și poză.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "23-001213",
+          "rol": "modulul EDC pentru corpul contorului Zenner WPD, un impuls la 10 litri"
+        }
+      ],
+      "servicii": [
+        "transport inclus în sarcina AKRO",
+        "produsul postat în catalogul electronic SICAP, pentru achiziția clientului public"
+      ],
+      "documente": [],
+      "conditii": [
+        "din stocul furnizorului, livrare estimată în 5-7 zile de la comanda fermă (în linia ofertei: termen 10 zile)",
+        "plată 100% în avans"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2135844",
+        "src": "m2136004",
+        "citat": "Va rog sa regasiti anexata oferta de pret pentru un modul EDC cu transport inclus.",
+        "pentru": "ofertă",
+        "nota": "AKRO ofertează direct modulul EDC, fără clarificări, cu transport inclus"
+      },
+      {
+        "conv": "c2135844",
+        "src": "m2136356",
+        "citat": "Va informam ca s-a postat in catalogul SICAP",
+        "pentru": "ofertă",
+        "nota": "după ofertă, AKRO anunță clientul public că modulul EDC a fost postat în catalogul SICAP"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R23-04",
+    "titlu": "Antigel concentrat atoxic la cantitate mică: AKRO nu face ofertă, produsul se mai aduce doar la palet întreg",
+    "explicatie": "Când cineva cere de pe site antigel concentrat atoxic în cantitate mică, de câteva zeci de litri, AKRO nu face ofertă. Răspunde că produsul nu mai face parte din portofoliu și se mai poate aduce doar la palet întreg, adică 24 de bidoane de 25 kg.",
+    "categorie": "23-Diverse materiale, consumabile",
+    "cand": "Clientul cere de pe site antigel concentrat atoxic la cantitate mică (zeci de litri).",
+    "clarificari": [
+      "AKRO răspunde că produsul nu mai face parte din portofoliu și se poate comanda doar la palet întreg (24 de bidoane a câte 25 kg)."
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2159108",
+        "src": "m2159108",
+        "citat": "acest produs nu mai face parte din portofoliul de produse AKRO",
+        "pentru": "clarificare",
+        "nota": "AKRO nu ofertează cei 30 de litri ceruți. Produsul se mai poate asigura doar la palet întreg"
+      }
+    ],
+    "contradictii": []
+  }
+]

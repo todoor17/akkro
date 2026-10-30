@@ -1,0 +1,55 @@
+
+####################################################################################################
+OFERTA S02668 | client: MOB GLOBAL IMPACT SRL | trimisă: 2026-08-13 12:21 | Odoo: Comandă de vânzare | conversații: c2148708 (nr. 277)
+
+####################################################################################################
+RÂND c2148708 (nr. 277) | stare: Fără cerință clară | categorie: 11-Pompe de dozare | cerere: Filtru impurități 2" și stație clorinare volumetrică
+CERINȚA: -
+CERINȚĂ FINALĂ (tip echipament): Filtru de impurități NW 2" + stație clorinare volumetrică 2" (pompă TPG 603, rezervor 50 L, contor 2" cu impuls) [m2148708] «O statie de clorinare pe 2” volumetrica compusa din:»
+CERINȚĂ FINALĂ (aplicație): Montaj pe aducțiunea bazinului de 100 mc [m2148708] «Sistemul propus , trebuie montat pe aductiunea bazinului de 100 mc.»
+TELEFON: Cererea a fost discutată pe WhatsApp înainte de ofertă. [m2148708] «Conform discutiei de pe whatsapp, va trimitem anexata oferta de pret»
+REZULTAT: necunoscut
+PREȚURI Ofertă S02668 v1 (2026-08-13), total 1657.04 EUR:
+  [01-008018] Filtru impuritati nw500 - 2" | 1.0 buc × 433.84 EUR | referință
+  [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 | 1.0 buc × 41.85 EUR | referință
+  [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie de un semn | 1.0 buc × 407.75 EUR | referință
+  [11-002098] Rezervor PE - stocare chimicale 50L | 1.0 buc × 107.5 EUR | referință
+  [23-001196] Contor 2"-ZENNER - cu generator de impuls 1/100L - cu racorduri (o-landezi) si garnituri incluse MTKD-N+EDC | 1.0 buc × 378.5 EUR | referință
+  termen: Metoda de plata: O.P. 50%in avans; 50% la gata de livrare
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12 luni de la livrare
+VÂNDUTĂ 2026-08-13 12:21 | lanț: fără comandă | lipsește: ['cerința clientului nu apare în emailuri', 'nicio comandă către furnizor nu e legată sigur (în Odoo sau în PDF-ul comenzii) de această vânzare']
+
+====================================================================================================
+CONVERSAȚIA c2148708 (nr. 277) | subiect: Instalatie Clorinare - furnizare de echipamente - AKRO
+Partener (după adrese): mobglobal2017@gmail.com  | grupare nesigură: nu
+OFERTĂ S02668 v1 trimisă 2026-08-13 12:21 în m2148708 (Odoo: Comandă de vânzare): [01-008018] Filtru impuritati nw500 - 2" x1.0 buc; [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 x1.0 buc; [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual x1.0 buc; [11-002098] Rezervor PE - stocare chimicale 50L x1.0 buc; [23-001196] Contor 2"-ZENNER - cu generator de impuls 1/100L - cu racorduri (o-landezi) si g x1.0 buc
+
+--- MESAJ m2148708 | 2026-08-13 12:21 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: mobglobal2017@gmail.com <mobglobal2017@gmail.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Instalatie Clorinare - furnizare de echipamente - AKRO
+Buna ziua Dl Iancu,
+
+Conform discutiei de pe whatsapp, va trimitem anexata oferta de pret pentru :
+
+Un filtru de impuritati NW - 2” - https://akro.ro/public/fise/132-Fisa_tehnica_Filtru_mecanic_sedimente_NW500-650-800.pdf
+
+O statie de clorinare pe 2” volumetrica compusa din:
+
+Pompa dozatoare TPG 603 - https://akro.ro/public/fise/248-Fisa_tehnica_Pompa_de_dozare_TPG.pdf
+
+Rezervor de stocare 50L - https://akro.ro/public/fise/300-Fisa_tehnica_Vas_stocare_chimicale_50_litri.pdf
+
+Contor de 2” cu generator de impuls
+
+Sistemul propus , trebuie montat pe aductiunea bazinului de 100 mc.
+
+Las anexata si o poza cu un sistem similar de la alta locatie.
+
+Asteptam cu interes raspunsul dumneavoastra!
+
+Cu respect,
+[ATAȘAMENT: Oferta - S02668 - MOB GLOBAL IMPACT - 13.08.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: Filtru NW400  si statie clorinare.jpg | imagine]

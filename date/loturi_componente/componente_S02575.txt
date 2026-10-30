@@ -1,0 +1,247 @@
+
+####################################################################################################
+OFERTA S02575 | client: PROCONCORD S.R.L. | trimisă: 2026-07-22 13:50 | Odoo: Comandă de vânzare | conversații: c2140516 (nr. 148)
+
+####################################################################################################
+RÂND c2140516-1 (nr. 148.1) | stare: După vânzare | categorie: 13-Filtre multistrat diferite medii | cerere: Stație nouă dedurizare cu filtru și UV - Viișoara
+CERINȚA: -
+CERINȚĂ FINALĂ (tip echipament): Stație similară cu cea existentă, fără filtrare sterilă: filtru NW500, dedurizator simplex 300 L, sistem UV [m2140516] «Pentru o statie similara [ fara partea de filtrare sterila]»
+CERINȚĂ FINALĂ (racord): Trasee de 1,5" în container până la ieșirea din UV [m2144068] «Am considerat – trasee de 1.5” – doar in cadrul containerului»
+CERINȚĂ FINALĂ (altele): Plată 30% avans, diferența la 30 de zile de la livrare [m2144068] «30% in avans si diferenta la 30 de zile de la livrarea produselor»
+REZULTAT: acceptată — Clientul comandă; AKRO trimite confirmarea de comandă cumulată și proforma de avans. [m2144068] «Va trimit anexata confirmarea de comanda cumulata pentru reabilitarea dedurizatorului existent si montajul celui nou.»
+PREȚURI Ofertă S02575 v1 (2026-07-22), total 6558.45 EUR:
+  [01-008018] Filtru impuritati nw500 - 2" | 1.0 buc × 433.84 EUR | referință
+  [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 | 1.0 buc × 41.85 EUR | referință
+  [01-011041] Membrana filtranta 50mcr nw500/650/800 set 5 buc | 2.0 buc × 31.2 EUR | referință
+  [13-001293] DEC 300/V - Statie dedurizare simplex, 300L rasina, vana Clack CI - 1.5" | 1.0 buc × 4222.52 EUR | referință
+  [27-001156] Sistem UV apa_VP 950_Debit 8 m3/h_Doza UV 40 mJ/cm2_Putere 96 W_Racord 1" 1/2"_VIQUA | 1.0 buc × 1469.5 EUR | referință
+  [-] Reducere: 13.00% | 1.0 buc × -809.91 EUR | serviciu
+  termen: Metoda de plata: O.P. - se va stabili in momentul contractarii
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12 luni de la livrare
+PREȚURI Confirmare de comandă S02575 v1 (2026-07-30), total 10270.67 EUR:
+  [01-008018] Filtru impuritati nw500 - 2" | 1.0 buc × 433.84 EUR | referință
+  [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 | 1.0 buc × 41.85 EUR | referință
+  [01-011041] Membrana filtranta 50mcr nw500/650/800 set 5 buc | 2.0 buc × 31.2 EUR | referință
+  [13-001293] DEC 300/V - Statie dedurizare simplex, 300L rasina, vana Clack CI - 1.5" | 1.0 buc × 4222.52 EUR | referință
+  [27-001156] Sistem UV apa_VP 950_Debit 8 m3/h_Doza UV 40 mJ/cm2_Putere 96 W_Racord 1" 1/2"_VIQUA | 1.0 buc × 1469.5 EUR | referință
+  [14-002033] Nisip cuartos 2-4 mm b | 100.0 kg × 0.57 EUR | referință
+  [14-002100] Rasina dedurizare PURE RESIN PC003 | 300.0 L × 3.72 EUR | referință
+  [14-001042] TOP BASKET D50 - QC | 1.0 buc × 76.36 EUR | referință
+  [14-005065] DISTRIBUTOR 50MM WITH BOTTOM BASKET D1197-09 | 1.0 buc × 102.02 EUR | referință
+  [16-001015] O singura deplasare la beneficiar, materiale de montaj, manopera de montaj si PIF - in cadrul Containerului, manopera de | None  × None EUR | serviciu
+  [-] Reducere: 13.00% | 1.0 buc × -1268.34 EUR | serviciu
+  termen: Metoda de plata: O.P. - 30% in avans, 70% la 15 zile de la PIF, dar nu mai tarziu de 30 de zile de la livrare
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12 luni de la livrare
+VÂNDUTĂ 2026-07-30 15:45 | lanț: parțial | lipsește: ['cerința clientului nu apare în emailuri']
+COMANDA P01359 (legată în Odoo) | ALAMO WATER POLAND | 2026-07-29 15:37 | sursa în Odoo: S02575 | stare: CdO | total: 517.5
+  (nu e în emailuri: doar rândul din lista Odoo)
+COMANDA P01360 (legată în Odoo) | ALAMO WATER POLAND | 2026-07-30 15:53 | sursa în Odoo: S02575 | stare: Comandă de achiziție | total: 2345.73
+  Comandă AKRO P01360 trimisă 2026-07-30 16:09 în m2144100 (conversația 205):
+    [14-001038] [V15CIDM-X] WS1.5 CI REGENERATING-METER (SOFTENER/KMNO4) | 1.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-001010] [V3186EU-PL] TRANSFORMER 230/12V 50HZ | 1.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-001020] [V3190] DLFC RESTRICTOR 1" (9-25 GPM) | 1.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-001042] [D1199-11] TOP BASKET D50 - QC | 2.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-001052] [V3008-05] DLFC HOUSING 1" - for the 1.5 clack valve | 1.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-002100] [10761000008] Pure Resin PC003 strong cation | 600.0 L | 14-002 Medii filtrante
+    [14-003081] [CN-2472-4] 24x72-4 | 1.0 Units | 14-003 Coloane de presiune pentru filtrare, accesorii vase
+    [14-004011] [GE-JS/Y-350] ROUND TANK 350 L | 1.0 Units | 14-004 Vase de saramura si accesorii
+    [14-004028] [H7070A] BRINE VALVE + polytube for the 350L brine tank | 1.0 Units | 14-004 Vase de saramura si accesorii
+    [14-005032] [D1197-07-50] DISTRIBUTOR 50MM WITH BOTTOM BASKET D1197-09 | 1.0 Units | 14-005 Crepine, distribuitoare si componente
+    [14-005065] [D1197-09-50] DISTRIBUTOR 50MM WITH BOTTOM BASKET D1197-09 | 1.0 Units | 14-005 Crepine, distribuitoare si componente
+    notă: 1 complete softener unit simplex -300L of resin - 1.5" clack valve -brass + distributor + resin for stock
+  Confirmare ALAMO SO2605099-1400-1 trimisă 2026-08-03 12:48 în m2107940 (conversația 205):
+    [-] [V15CIDTG-05] Clack WS15CI Valve D T I-G | 1.0 PCS | 666.55 EUR | 
+    [-] [V3040BSPT] Ws1,5 Meter Asy Bspt | 1.0 PCS | 275.95 EUR | 
+    [-] [V3190-150] WS1 DLFC 150 (15,0 gpm) For 1'' | 1.0 PCS | 2.61 EUR | 
+    [-] [D1199-11] TOP STACK DIST CLACK SNAP IN 50mm | 2.0 PCS | 32.9 EUR | 
+    [-] [V3008-04] WS1 Drain Ftg 1'' Straight w/o Silencer | 1.0 PCS | 8.36 EUR | 
+    [-] [-] Pure Resin PC002 | 600.0 LTR | 1.43 EUR | 
+    [-] [-] Tank 24x72 4" blue color with base | 1.0 PCS | 241.68 EUR | 
+    [-] [-] Brine tank JIN SHI 350 | 1.0 PCS | 117.19 EUR | 
+    [-] [-] H7003-set 474 1/2" | 1.0 PCS | 22.51 EUR | 
+    [-] [-] Tube LDPE - PN9 - 9,52x12,7 - Transparent | 3.0 M | 1.05 EUR | 
+    [-] [-] Distributor D1197-09-50 | 2.0 PCS | 40.66 EUR | 
+COMANDA P01229 (indiciu din perioadă) | ALAMO WATER POLAND | 2026-07-15 12:10 | sursa în Odoo: stoc | stare: Comandă de achiziție | total: 176.33
+  (nu e în emailuri: doar rândul din lista Odoo)
+COMANDA P01436 (indiciu din perioadă) | ALAMO WATER POLAND | 2026-08-27 13:52 | sursa în Odoo: - | stare: Comandă de achiziție | total: 1053.5
+  Comandă AKRO P01436 trimisă 2026-08-27 13:54 în m2152932 (conversația 359):
+    [14-002101] [10761000004] Pure Resin PMB101-2 mixed bed | 350.0 L | 14-002 Medii filtrante
+COMANDA P01502 (indiciu din perioadă) | ALAMO WATER POLAND | 2026-09-23 10:44 | sursa în Odoo: - | stare: Comandă de achiziție | total: 501.47
+  (nu e în emailuri: doar rândul din lista Odoo)
+
+====================================================================================================
+CONVERSAȚIA c2140516 (nr. 148) | subiect: Oferta VIISOARA
+Partener (după adrese): cristian.niculita@yahoo.com Cristian Niculita | grupare nesigură: da
+OFERTĂ S02575 v1 trimisă 2026-07-22 13:50 în m2140516 (Odoo: Comandă de vânzare): [01-008018] Filtru impuritati nw500 - 2" x1.0 buc; [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 x1.0 buc; [01-011041] Membrana filtranta 50mcr nw500/650/800 set 5 buc x2.0 buc; [13-001293] DEC 300/V - Statie dedurizare simplex, 300L rasina, vana Clack CI - 1.5" x1.0 buc; [27-001156] Sistem UV apa_VP 950_Debit 8 m3/h_Doza UV 40 mJ/cm2_Putere 96 W_Racord 1" 1/2"_V x1.0 buc; [-] Reducere: 13.00% x1.0 buc
+OFERTĂ S02576 v1 trimisă 2026-07-22 13:50 în m2140516 (Odoo: Anulat): [14-002033] Nisip cuartos 2-4 mm b x100.0 kg; [14-002100] Rasina dedurizare PURE RESIN PC003 x300.0 L; [14-001042] TOP BASKET D50 - QC x1.0 buc; [14-005065] DISTRIBUTOR 50MM WITH BOTTOM BASKET D1197-09 x1.0 buc; [-] Deplasare la beneficiar, manopera de inlocuire masa filtranta dedurizator , veri xNone ; [-] Reducere: 13.00% x1.0 buc
+OFERTĂ S02575 v1 trimisă 2026-07-30 15:45 în m2144068 (Odoo: Comandă de vânzare): [01-008018] Filtru impuritati nw500 - 2" x1.0 buc; [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 x1.0 buc; [01-011041] Membrana filtranta 50mcr nw500/650/800 set 5 buc x2.0 buc; [13-001293] DEC 300/V - Statie dedurizare simplex, 300L rasina, vana Clack CI - 1.5" x1.0 buc; [27-001156] Sistem UV apa_VP 950_Debit 8 m3/h_Doza UV 40 mJ/cm2_Putere 96 W_Racord 1" 1/2"_V x1.0 buc; [14-002033] Nisip cuartos 2-4 mm b x100.0 kg; [14-002100] Rasina dedurizare PURE RESIN PC003 x300.0 L; [14-001042] TOP BASKET D50 - QC x1.0 buc; [14-005065] DISTRIBUTOR 50MM WITH BOTTOM BASKET D1197-09 x1.0 buc; [-] O singura deplasare la beneficiar, materiale de montaj, manopera de montaj si PI xNone ; [-] Reducere: 13.00% x1.0 buc
+
+--- MESAJ m2140516 | 2026-07-22 13:50 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Cristian Niculita <cristian.niculita@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Oferta VIISOARA
+Buna ziua Dl Niculita,
+
+Trimit anexate cele doua oferte:
+
+Pentru deplasarea si inlocuirea masei filtrante in statia veche
+
+Pentru o statie similara [ fara partea de filtrare sterila] – in 2017 au mai fost niste cartuse SFM si o carcacasa sterila de 1cartus. [ daca le doriti si pe acestea putem reveni asupra ofertei] si fara montaj
+
+Pretul oferit este NET PROCONCORD .
+
+Ramane sa discutam!
+
+Cu respect,
+[ATAȘAMENT: Oferta - S02575 - instalatie noua -pret net PROCONCORD - 22.07.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: Oferta - S02576 - materiale si manopera inlocuire rasina in statia de dedurizare veche - pret net PROCONCORD - 22.07.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2144068 | 2026-07-30 15:45 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Cristian Niculita <cristian.niculita@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Oferta VIISOARA
+Buna ziua Dl Niculita,
+
+Va multumim pentru comanda !
+
+Va trimit anexata confirmarea de comanda cumulata pentru reabilitarea dedurizatorului existent si montajul celui nou.
+
+Am considerat – trasee de 1.5” – doar in cadrul containerului si pana la iesirea din UV +- 2m si o singura deplasare pentru ambele lucrari .
+
+Astazi dau comenzile de aprovizionare cu piese, insa cel mai probabil nu mai prind camionul de maine pentru aceasta comanda .
+
+In acest caz estimez ca vom avea piesele gata de livrat in data de 10.August [luni]
+
+Revin cand totul este pregatit.
+
+Pentru aceasta comanda am prevazut ca si conditii – 30% in avans si diferenta la 30 de zile de la livrarea produselor [ avansul ne ajuta pentru comenzile speciale]
+
+Colega mea, va reveni cu un reply cu factura proforma.
+
+Cu respect,
+[ATAȘAMENT: Comanda - S02575 - PROCONCORD - 30.07.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2107460 | 2026-07-30 16:01 | Inbox | AKRO
+De la: daniela.baba@akro.ro <daniela.baba@akro.ro>
+Către: Cristian Niculita <cristian.niculita@yahoo.com>
+Cc: andrei.dobrei@akro.ro, alexandru.soare@akro.ro, office@akro.ro
+Subiect: RE: Oferta VIISOARA
+Buna ziua,
+
+Regasiti atasat factura fiscala de avans.
+
+Cu respect,
+[ATAȘAMENT: Factură proforma_30.07.2026_PROCONCORD S.R.L(_ 5981).pdf | text extras]
+
+====================================================================================================
+CONVERSAȚIA c2144100 (nr. 205) | subiect: ORDER - P01360 - AKRO ROMANIA - 30.07.2026
+Partener (după adrese): alamowaterpoland.com Dominik Mirowski, Alamo Water Poland | grupare nesigură: da
+
+--- MESAJ m2144100 | 2026-07-30 16:09 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Cc: alamo@alamowaterpoland.com, office@akro.ro
+Subiect: ORDER - P01360 - AKRO ROMANIA - 30.07.2026
+Dear Dominik,
+
+Please find attached our order for:
+
+1 complete softener unit -300L ofresin + clack valve 1.5”
+
+Some parts we need for warehouse:
+
+Softener resin+ 1 bottom and 1 top distributor
+
+I am looking forward in receiving the OC.
+
+Best regards,
+[ATAȘAMENT: Comandă de achiziție - P01360 - ALAMO WATER POLAND - 30.07.2026.pdf | text extras]
+
+--- MESAJ m2107940 | 2026-08-03 12:48 | Inbox | EXTERN
+De la: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: alamo@alamowaterpoland.com, office@akro.ro
+Subiect: ODP: ORDER - P01360 - AKRO ROMANIA - 30.07.2026
+Dear Alexandru,
+
+thank you for your order.
+
+Attached you can find our OC.
+
+Please note change of the resin PC003 (no stock) -> PC002.
+
+Pozdrawiam/Best regards,
+
+Dominik Mirowski
+
+Alamo Water Poland Sp. Z o.o.
+
+Ul. Gen. Tadeusza Kutrzeby 17
+
+05-082 Stare Babice, Poland
+
+T. +48 22 270 13 82
+
+dom@alamowaterpoland.com
+
+www.alamowaterpoland.com
+[ATAȘAMENT: Order SO2605099-1400-1.pdf | text extras]
+Alamo Water Poland Sp. z o.o. Telephone +48 22 270 13 81
+ul. Gen. Tadeusza Kutrzeby 17 Email alamo@alamowaterpoland.com
+05-082 STARE BABICE
+Poland
+
+0041090 SC AKRO SRL
+Str. Zizinului Nr. 110, etaj 2
+500407 BRASOV
+Romania
+
+Pro forma confirmation
+Confirmation........................: SO2605099-1400-1 Telephone .................................: +40.268.413180
+Sales order..........................: SO2605099-1400 Fax… : +40.268.413183
+Date.....................................: 03/08/2026 Email ........................................: office@akro.ro; contact@spectra.ro;
+Customer reference ............: #P01360 alexandru.soare@akro.ro
+VAT number .............................: RO14205979
+Terms of delivery .......................: Ex Works, Stare Babice, Poland
+Payment conditions ...................: 30 days invoice date
+
+Item number Description Qty. Unit. Ship date Net UP Amount
+10340000146 (V15CIDTG-05) 1.00 PCS to be defined €666.55 €666.55
+Clack WS15CI Valve D T I-G
+
+10440000072 (V3040BSPT) 1.00 PCS to be defined €275.95 €275.95
+Ws1,5 Meter Asy Bspt
+
+10440000259 (V3190-150) 1.00 PCS to be defined €2.61 €2.61
+WS1 DLFC 150 (15,0 gpm) For 1''
+
+10240000013 (D1199-11) 2.00 PCS to be defined €32.90 €65.80
+TOP STACK DIST CLACK SNAP IN 50mm
+
+10440000263 (V3008-04) 1.00 PCS to be defined €8.36 €8.36
+WS1 Drain Ftg 1'' Straight w/o Silencer
+
+10761000010 Pure Resin PC002 600.00 LTR to be defined €1.43 €858.00
+
+10147000056 Tank 24x72 4" blue color with base 1.00 PCS to be defined €241.68 €2
+
+--- MESAJ m2144580 | 2026-08-03 12:56 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Cc: alamo@alamowaterpoland.com, office@akro.ro
+Subiect: RE: ORDER - P01360 - AKRO ROMANIA - 30.07.2026
+Dear Dominik,
+
+Thank you ! we accept PC002 – instead PC003.
+
+Please add 1 transformer [ I think you missed it ].
+
+Prepare this order for collection as soon as possible.
+
+I will prepare also the order with structural tanks in the following days , but still I couldn t find a 6 th neither at aqua.com. Is it possible for you to be able to provide it from somewhere else? [ otherwise I think we will order only 4 structural tanks + 2 canature and we will do a hole in the sealing above the 2 taller filters…]
+
+Best regards,

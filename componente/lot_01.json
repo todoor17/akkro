@@ -1,0 +1,139 @@
+[
+  {
+    "oferta": "S02518",
+    "statii": 4,
+    "cerinta": [
+      {"camp": "tip echipament", "text": "Prima cerere: o stație de dedurizare duplex de 6,5 mc. Unitatea nu spune dacă e debit (mc/h) sau capacitate.", "src": "m2098980", "citat": "STATIE DEDERIZARE DUPLEX -6,5 MC-1 BUC"},
+      {"camp": "tip echipament", "text": "A doua cerere numește direct modelul: 4 stații simplex cu vană WS2 și 250 L de rășină.", "src": "m2107620", "citat": "STATIE DE DEDURIZARE SIMPLEX WS2-250 LITRI MF001502-4 buc"},
+      {"camp": "altele", "text": "Plus 4 by-pass-uri împotriva apei dure.", "src": "m2107620", "citat": "VALVA BY-PASS ANTI APA DURA-4 buc"}
+    ],
+    "solutie": [
+      {"camp": "configurație", "text": "După discuția la telefon AKRO ofertează stații simplex în configurația cumpărată în 2025, nu duplex: vane de 2\" din alamă, vas de saramură de 350 L la fiecare stație și by-pass NHWBP de 2\".", "src": "m2135620", "citat": "cu vane de 2” alama + tank saramura 350L pentru fiecare statie + 2 NHWBP de 2” pe iesire"},
+      {"camp": "cantitate", "text": "4 stații, la fel ca cele din anul trecut.", "src": "m2144164", "citat": "4 statii de dedurizare [ exact la fel ca cele de anul trecut – cu vane din ALAMA]"},
+      {"camp": "model", "text": "Modelul ofertat: DEC 250/V, simplex, 250 L rășină, vană Clack CI de 2\".", "src": "m2144164", "citat": "[13-001258] DEC 250/V - Statie dedurizare simplex, 250L rasina, vana Clack CI"},
+      {"camp": "livrare", "text": "Stațiile se livrează pe palet, dezasamblate.", "src": "m2144164", "citat": "statiile se vor livra paletizat la beneficiar dezasamblate"}
+    ],
+    "comenzi": ["P01380"],
+    "componente": [
+      {"ref": "14-001047", "rol": "vana automată Clack WS2 CI cu contor: comandă funcționarea și pornește regenerarea după volumul de apă", "cantitate": 1, "unitate": "buc", "src": "m2147556", "citat": "[V2CIDM-X] WS2 CI REGENERATING-METER (SOFTENER/KMNO4) [14-001047]"},
+      {"ref": "14-001010", "rol": "transformatorul care alimentează vana", "cantitate": 1, "unitate": "buc", "src": "m2147556", "citat": "[V3186EU-PL] TRANSFORMER 230/12V 50HZ [14-001010]"},
+      {"ref": "14-001019", "rol": "carcasa limitatorului de debit la canal (DLFC)", "cantitate": 1, "unitate": "buc", "src": "m2147556", "citat": "[V3008-02] DLFC HOUSING 1\" w/o silencer [14-001019]"},
+      {"ref": "14-001020", "rol": "limitatorul de debit la canal (DLFC), care ține rășina în butelie la spălarea inversă", "cantitate": 1, "unitate": "buc", "src": "m2147556", "citat": "[V3190] DLFC RESTRICTOR 1\" (9-25 GPM) [14-001020]"},
+      {"ref": "14-001042", "rol": "coșul de sus (crepina de sus) al buteliei, sub vană", "cantitate": 1, "unitate": "buc", "src": "m2147556", "citat": "[D1199-11] TOP BASKET D50 - QC [14-001042]"},
+      {"ref": "14-001056", "rol": "by-pass-ul NHWBP de 2\", ofertat clientului pe linie separată", "cantitate": 1, "unitate": "buc", "src": "m2147556", "citat": "[V3098BSPT] 2\" NO HARD WATER BY-PASS VALVE (NHWBP) [14-001056]"},
+      {"ref": "14-002100", "rol": "rășina de dedurizare (250 L pe stație)", "cantitate": 250, "unitate": "L", "src": "m2147556", "citat": "[10761000008] Pure Resin PC003 strong cation [14-002100]"},
+      {"ref": "14-003079", "rol": "butelia (coloana de presiune din fibră) de 21x62 țoli, în care stă rășina", "cantitate": 1, "unitate": "buc", "src": "m2147556", "citat": "[CN-2162-4] 21x62-4 [14-003079]"},
+      {"ref": "14-004011", "rol": "vasul de saramură de 350 L, în care se dizolvă sarea pentru regenerare", "cantitate": 1, "unitate": "buc", "src": "m2147556", "citat": "[GE-JS/Y-350] ROUND TANK 350 L [14-004011]"},
+      {"ref": "14-004028", "rol": "supapa de saramură cu furtunul și preaplinul vasului", "cantitate": 1, "unitate": "buc", "src": "m2147556", "citat": "Brine valve, polytube, overflow [14-004028]"},
+      {"ref": "14-005031", "rol": "distribuitorul (țeava centrală) cu crepina de jos a buteliei", "cantitate": 1, "unitate": "buc", "src": "m2147556", "citat": "[D1197-09-50] DISTRIBUTOR 50MM WITH BOTTOM BASKET D1197-09 [14-005031]"}
+    ],
+    "observatii": [
+      {"text": "Clientul confirmă comanda pe 07.08 și plătește avansul pe 10.08; comanda către ALAMO e trimisă pe 11.08, cu toate piesele înmulțite cu 4.", "src": "m2147556", "citat": "Please find attached our order for 4 x simplex softeners 250L"},
+      {"text": "Nisipul suport din butelie nu se comandă de la ALAMO.", "src": "m2147556", "citat": "4 x simplex softeners - 250L each, with NHWBP and Clack Valve 2\" CI [ without sand]"},
+      {"text": "ALAMO nu are buteliile de 21x62; AKRO alege să le aștepte, pentru că buteliile Structural, mai scumpe, i-ar mânca marja.", "src": "m2151140", "citat": "In this case we need to wait for the tanks to arrive for order 1380"},
+      {"text": "ALAMO confirmă vana cu contor ca două piese: vana WS2CI și contorul WS2 cu cablu.", "src": "m2114180", "citat": "WS2 Meter Asy MxF BSPT 15' m Cable"},
+      {"text": "În același email AKRO anunță deja o a doua stație: duplex de 450 L cu vane WS2CI (stația Airbus, comandată 8 zile mai târziu).", "src": "m2147556", "citat": "Normally I am waiting greenlight for one more duplex softener 450L also with WS2Ci Valves"}
+    ]
+  },
+  {
+    "oferta": "S02613",
+    "statii": 1,
+    "cerinta": [
+      {"camp": "tip echipament", "text": "Stație duplex alternant (o coloană lucrează cât cealaltă se regenerează).", "src": "m2107716", "citat": "sa fie tip duplex alternant;"},
+      {"camp": "debit", "text": "Debit minim 10 mc/h.", "src": "m2107716", "citat": "debit minim 10 mc/h;"},
+      {"camp": "capacitate", "text": "Capacitate de dedurizare de cel puțin 200 dH pe oră.", "src": "m2107716", "citat": "capacitate dedurizare minim 200 dH pe ora;"},
+      {"camp": "racord", "text": "Racord de cel puțin 1,5\", de preferat 2\".", "src": "m2107716", "citat": "conexiune de minim 1,5'', preferabil de 2'';"},
+      {"camp": "calitate apă", "text": "Apă din puț de adâncime, duritate 13 dH, fără buletin de analiză.", "src": "m2107716", "citat": "alimentarea platformei este din put de adancime, duritatea este de 13 dH;"},
+      {"camp": "altele", "text": "Prefiltrare mecanică de 50-100 microni.", "src": "m2107716", "citat": "solutia sa aibe si prefiltrare mecanica (50-100 microni);"},
+      {"camp": "altele", "text": "Livrare premontată și programată la setările Airbus.", "src": "m2107716", "citat": "livrarea statiei in stare premontata si programata la setarile comunicate de reprezentantul tehnic Airbus"},
+      {"camp": "buget", "text": "Buget de aproximativ 9000 EUR.", "src": "m2107716", "citat": "buget achizitie - trebuie sa ne apropiem de valoarea de 9000 eur;"}
+    ],
+    "solutie": [
+      {"camp": "configurație", "text": "AKRO propune o stație duplex cu 450 L de rășină pe fiecare coloană și racord de 2\".", "src": "m2107716", "citat": "o instalatia de dedurizare model DUPLEX cu 450L pe fiecare coloana, care satisface toate cerintele solicitate."},
+      {"camp": "model", "text": "Modelul din ofertă: DEC 450-2/duplex, vană Clack CI de 2\".", "src": "m2144516", "citat": "[13-001176] DEC 450-2/duplex, Statie dedurizare - duplex, racord 2\", 450L rasina pe"},
+      {"camp": "prefiltrare", "text": "Pentru prefiltrare, un filtru de impurități NW500 cu membrană lavabilă de 150 microni.", "src": "m2107716", "citat": "un filtru de impuritati [echipat cu o membrana lavabila din nylon la 150 microni]"},
+      {"camp": "livrare", "text": "Livrare cu vanele setate și instrucțiuni de asamblare; montajul și PIF-ul le face clientul.", "src": "m2147844", "citat": "Livrarea se face cu toate setarile vanelor efectuate + instructiuni de asamblare si incarcare pe pozitie."}
+    ],
+    "comenzi": ["P01411"],
+    "componente": [
+      {"ref": "14-001070", "rol": "setul de vane pentru duplex alternant: două vane WS2 CI, motorul de alternare și contorul", "cantitate": 1, "unitate": "set", "src": "m2150884", "citat": "[V2CI Duplex] WS2 CI Duplex Alternating TM (without DLFC) - BOM [14-001070]"},
+      {"ref": "14-001051", "rol": "limitatorul de debit la canal (DLFC) de 1,5\", câte unul pe coloană", "cantitate": 2, "unitate": "buc", "src": "m2150884", "citat": "[V3080BSPT] DLFC HOUSING 1.5\" COMPLETE (9-85 GPM) [14-001051]"},
+      {"ref": "14-001073", "rol": "teul care leagă cele două vane de același vas de saramură", "cantitate": 1, "unitate": "buc", "src": "m2150884", "citat": "[H7070] TEE TWIN 1/2\" [14-001073]"},
+      {"ref": "14-002100", "rol": "rășina de dedurizare (450 L pe coloană)", "cantitate": 900, "unitate": "L", "src": "m2150884", "citat": "[10761000008] Pure Resin PC003 strong cation [14-002100]"},
+      {"ref": "14-003083", "rol": "buteliile de 30x72 țoli, câte una pe coloană", "cantitate": 2, "unitate": "buc", "src": "m2150884", "citat": "[CN-3072-4 T/B] 30x72-4 T/B [14-003083]"},
+      {"ref": "14-003063", "rol": "dopul de 4\" al buteliei (butelia are deschidere sus și jos)", "cantitate": 2, "unitate": "buc", "src": "m2150884", "citat": "[PV338] PVC CLOSURE 4\" [14-003063]"},
+      {"ref": "14-004013", "rol": "vasul de saramură de 750 L, unul singur pentru ambele coloane", "cantitate": 1, "unitate": "buc", "src": "m2150884", "citat": "[GE-JS/Y-750] ROUND TANK 750 L [14-004013]"},
+      {"ref": "14-004021", "rol": "supapa de saramură potrivită vasului de 750 L", "cantitate": 1, "unitate": "buc", "src": "m2150884", "citat": "BRINE VALVE SUITABLE - for this 750L tank [14-004021]"},
+      {"ref": "14-004025", "rol": "furtunul de saramură", "cantitate": 6, "unitate": "m", "src": "m2150884", "citat": "[0700000002] I8081 Polytube 1/2'' - 1m [14-004025]"},
+      {"ref": "14-005032", "rol": "distribuitorul cu crepina de jos, câte unul pe coloană", "cantitate": 2, "unitate": "buc", "src": "m2150884", "citat": "[D1197-07-50] DISTRIBUTOR 50MM WITH BOTTOM BASKET D1197-09 [14-005032]"}
+    ],
+    "observatii": [
+      {"text": "Clientul trimite comanda la 11:41, AKRO o confirmă la 12:10 și anunță că pornește aprovizionarea; comanda către ALAMO e trimisă la 12:14.", "src": "m2150852", "citat": "Astazi demaram procedura de aprovizionare"},
+      {"text": "ALAMO desface setul de vane în piese: două vane WS2CI, motorul de alternare și un singur contor.", "src": "m2113732", "citat": "Motor Alternating Valve 2\" BSPT"},
+      {"text": "În locul vasului de saramură de 750 L, ALAMO confirmă un vas de 670 L, cu grătar, puț și setul supapei.", "src": "m2113732", "citat": "BRINE TANK 670 L-PC060"},
+      {"text": "Filtrul de impurități NW500 din oferta către client nu e pe comanda către ALAMO.", "src": "m2144516", "citat": "Filtru impuritati nw500 - 2\""}
+    ]
+  },
+  {
+    "oferta": "S02575",
+    "statii": 1,
+    "cerinta": [],
+    "solutie": [
+      {"camp": "configurație", "text": "AKRO ofertează o stație asemănătoare cu cea existentă, fără partea de filtrare sterilă și fără montaj. Cererea clientului nu e în emailuri: oferta pornește de la stația livrată în 2017.", "src": "m2140516", "citat": "Pentru o statie similara [ fara partea de filtrare sterila]"},
+      {"camp": "model", "text": "Modelul ofertat: DEC 300/V, simplex, 300 L rășină, vană Clack CI de 1,5\", cu filtru NW500 și sistem UV VP 950 în aceeași ofertă.", "src": "m2140516", "citat": "DEC 300/V - Statie dedurizare simplex, 300L rasina, vana Clack CI - 1.5\""},
+      {"camp": "racord", "text": "Traseele sunt de 1,5\", doar în container, până la ieșirea din UV.", "src": "m2144068", "citat": "Am considerat – trasee de 1.5” – doar in cadrul containerului"}
+    ],
+    "comenzi": ["P01360"],
+    "componente": [
+      {"ref": "14-001038", "rol": "vana automată Clack WS1.5 CI cu contor", "cantitate": 1, "unitate": "buc", "src": "m2144100", "citat": "[V15CIDM-X] WS1.5 CI REGENERATING-METER (SOFTENER/KMNO4) [14-001038]"},
+      {"ref": "14-001010", "rol": "transformatorul care alimentează vana", "cantitate": 1, "unitate": "buc", "src": "m2144100", "citat": "[V3186EU-PL] TRANSFORMER 230/12V 50HZ [14-001010]"},
+      {"ref": "14-001052", "rol": "carcasa limitatorului de debit la canal (DLFC) pentru vana de 1,5\"", "cantitate": 1, "unitate": "buc", "src": "m2144100", "citat": "[V3008-05] DLFC HOUSING 1\" - for the 1.5 clack valve [14-001052]"},
+      {"ref": "14-001020", "rol": "limitatorul de debit la canal (DLFC)", "cantitate": 1, "unitate": "buc", "src": "m2144100", "citat": "[V3190] DLFC RESTRICTOR 1\" (9-25 GPM) [14-001020]"},
+      {"ref": "14-001042", "rol": "coșul de sus (crepina de sus) al buteliei, sub vană", "cantitate": 1, "unitate": "buc", "src": "m2144100", "citat": "[D1199-11] TOP BASKET D50 - QC [14-001042]"},
+      {"ref": "14-002100", "rol": "rășina de dedurizare (300 L pentru stație; încă 300 L sunt pentru stația veche)", "cantitate": 300, "unitate": "L", "src": "m2144100", "citat": "[10761000008] Pure Resin PC003 strong cation [14-002100]"},
+      {"ref": "14-003081", "rol": "butelia de 24x72 țoli, în care stă rășina", "cantitate": 1, "unitate": "buc", "src": "m2144100", "citat": "[CN-2472-4] 24x72-4 [14-003081]"},
+      {"ref": "14-004011", "rol": "vasul de saramură de 350 L", "cantitate": 1, "unitate": "buc", "src": "m2144100", "citat": "[GE-JS/Y-350] ROUND TANK 350 L [14-004011]"},
+      {"ref": "14-004028", "rol": "supapa de saramură cu furtunul", "cantitate": 1, "unitate": "buc", "src": "m2144100", "citat": "[H7070A] BRINE VALVE + polytube for the 350L brine tank [14-004028]"},
+      {"ref": "14-005032", "rol": "distribuitorul cu crepina de jos", "cantitate": 1, "unitate": "buc", "src": "m2144100", "citat": "[D1197-07-50] DISTRIBUTOR 50MM WITH BOTTOM BASKET D1197-09 [14-005032]"}
+    ],
+    "observatii": [
+      {"text": "AKRO comandă de la ALAMO în aceeași zi în care trimite clientului confirmarea de comandă.", "src": "m2144068", "citat": "Astazi dau comenzile de aprovizionare cu piese"},
+      {"text": "Comanda către ALAMO are o stație completă și, separat, rășină, un coș de sus și un distribuitor, numite «pentru depozit».", "src": "m2144100", "citat": "Some parts we need for warehouse:"},
+      {"text": "Aceleași piese în plus (300 L rășină PC003, coș de sus, distribuitor D1197-09) sunt în confirmarea către client, pentru reabilitarea stației vechi: confirmarea cumulează ambele lucrări.", "src": "m2144068", "citat": "confirmarea de comanda cumulata pentru reabilitarea dedurizatorului existent si montajul celui nou"},
+      {"text": "ALAMO nu are rășină PC003 și o înlocuiește cu PC002; AKRO acceptă.", "src": "m2107940", "citat": "Please note change of the resin PC003 (no stock) -> PC002."},
+      {"text": "ALAMO a uitat transformatorul în confirmare; AKRO îl cere din nou.", "src": "m2144580", "citat": "Please add 1 transformer [ I think you missed it ]."}
+    ]
+  },
+  {
+    "oferta": "S02769",
+    "statii": 1,
+    "cerinta": [
+      {"camp": "tip echipament", "text": "Clientul vrea stația DEC 75 duplex.", "src": "m2155236", "citat": "Interesul este pentru statia de dedurizare : DEC 75"},
+      {"camp": "calitate apă", "text": "Duritatea apei la intrare: 5 grade germane.", "src": "m2155236", "citat": "duritate pe intrare 5 grade G"}
+    ],
+    "solutie": [
+      {"camp": "configurație", "text": "Stație duplex twin cu vană Clack TT1CI și două butelii de câte 75 L rășină.", "src": "m2155236", "citat": "si 2 tankuri de presiune de cate 75 L rasina"},
+      {"camp": "dimensiuni", "text": "Fișa tehnică trimisă clientului: coloane de 34 cm diametru și 140 cm înălțime, vas de saramură de 200 L.", "src": "m2155236", "citat": "DEC 75 29 140 116 169 148 2 x 34 55 472 200"},
+      {"camp": "model", "text": "Modelul din confirmarea de comandă: DEC 75-1/duplex twin, 75 L rășină pe coloană.", "src": "m2167556", "citat": "DEC 75-1/duplex, Statie dedurizare duplex twin, 75L rasina,"}
+    ],
+    "comenzi": ["P01575"],
+    "componente": [
+      {"ref": "14-001065", "rol": "vana automată Clack WS1 CI Twin Alternating, care comandă ambele coloane", "cantitate": 1, "unitate": "buc", "src": "m2167588", "citat": "[V1TT1CIDM-X] WS1 CI TWIN ALTERNATING TM [14-001065]"},
+      {"ref": "14-001010", "rol": "transformatorul care alimentează vana", "cantitate": 1, "unitate": "buc", "src": "m2167588", "citat": "[V3186EU-PL] TRANSFORMER 230/12V 50HZ [14-001010]"},
+      {"ref": "14-001011", "rol": "coșurile de sus ale buteliilor, câte unul pe coloană", "cantitate": 2, "unitate": "buc", "src": "m2167588", "citat": "[D1203] TOP BASKET 1\" [14-001011]"},
+      {"ref": "14-001012", "rol": "racordurile de 1\" ale vanei", "cantitate": 1, "unitate": "set", "src": "m2167588", "citat": "[V3007-06] FITTING 1\" BSPT SET [14-001012]"},
+      {"ref": "14-001013", "rol": "limitatorul de debit la canal (DLFC) de 3/4\"", "cantitate": 1, "unitate": "buc", "src": "m2167588", "citat": "[V3162] DLFC RESTRICTOR 3/4\" (0.7-10 GPM) [14-001013]"},
+      {"ref": "14-001066", "rol": "țevile care leagă vana twin de cele două butelii", "cantitate": 1, "unitate": "set", "src": "m2167588", "citat": "[V169] PIPING FOR TANKS 12\"-21\" [14-001066]"},
+      {"ref": "14-002100", "rol": "rășina de dedurizare (75 L pe coloană)", "cantitate": 150, "unitate": "L", "src": "m2167588", "citat": "[10761000008] Pure Resin PC003 strong cation [14-002100]"},
+      {"ref": "14-003072", "rol": "buteliile de 13x54 țoli, câte una pe coloană", "cantitate": 2, "unitate": "buc", "src": "m2167588", "citat": "[CN-1354-2.5] 13x54-2.5 [14-003072]"},
+      {"ref": "14-004009", "rol": "vasul de saramură de 200 L, unul pentru ambele coloane", "cantitate": 1, "unitate": "buc", "src": "m2167588", "citat": "[CN-BTR-200-K] BRINE TANK ROUND 200 L [14-004009]"},
+      {"ref": "14-005025", "rol": "distribuitoarele cu crepina de jos, câte unul pe coloană", "cantitate": 2, "unitate": "buc", "src": "m2167588", "citat": "[D1212-18-1.05] DISTRIBUTOR 1.05\" WITH BOTTOM BASKET D1212-18 [14-005025]"}
+    ],
+    "observatii": [
+      {"text": "Comanda către ALAMO numește chiar oferta clientului și e trimisă la 5 minute după confirmarea de comandă către ROMINSERV.", "src": "m2167588", "citat": "S02769 | ROMINSERV SRL | Solicitare Statie de dedurizare - DEC 75 duplex - ROMPETROL GAS"},
+      {"text": "Măsurile buteliilor din comandă (13x54 țoli) și vasul de 200 L se potrivesc cu fișa tehnică trimisă clientului (34 x 140 cm, 200 L).", "src": "m2167588", "citat": "[CN-1354-2.5] 13x54-2.5 [14-003072]"},
+      {"text": "ALAMO nu are buteliile de 13x54, vasul de saramură de 200 L și crepinele de jos; propune un vas Eurotrol de 190 L și crepine D1236.", "src": "m2133380", "citat": "1354 tanks (I don't have alternative product)"},
+      {"text": "AKRO cere comanda fără butelii, cu vasul Eurotrol de 190 L complet echipat.", "src": "m2167748", "citat": "With eurotrol 190 – brine tank"}
+    ]
+  }
+]

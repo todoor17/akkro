@@ -1,0 +1,145 @@
+
+####################################################################################################
+OFERTA S02834 | client: SERBAN INDUSTRIAL CONSTRUCT SRL | trimisă: 2026-10-15 10:12 | Odoo: Comandă de vânzare | conversații: c2168132 (nr. 660)
+
+####################################################################################################
+RÂND c2168132 (nr. 660) | stare: După vânzare | categorie: 13-Filtre multistrat diferite medii | cerere: Filtru deferizare FDC 150 cu pompă dozare
+CERINȚA: -
+CLARIFICARE: întrebare - → răspuns AKRO trimite oferta revizuită (cu reducere), clientul mulțumește pentru discount. [m2133924] «Multumim pentru acordarea discountului.» | schimbare: Ofertă revizuită S02834-1 cu reducere de 9%.
+REZULTAT: acceptată — Clientul cere livrarea echipamentelor ofertate și proforma, apoi trimite confirmarea plății. [m2133924] «Va rugam sa livrati echipamentele ofertate.»
+PREȚURI Ofertă S02834-1 v1 (2026-10-15), total 2392.42 EUR:
+  [13-001303] FDC 150 - filtru deferizare demanganizare, vana Clack CI, racord 1.25" | 1.0 buc × 1489.6 EUR | referință
+  [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie de un semn | 1.0 buc × 407.75 EUR | referință
+  [11-002098] Rezervor PE - stocare chimicale 50L | 1.0 buc × 107.5 EUR | referință
+  [23-001216] Contor apa rece axial cu cadran uscat - 1"-ZENNER - cu generator de impuls 1/10L - cu racorduri (o-landezi) si garnituri | 1.0 buc × 167.9 EUR | referință
+  [-] Reducere: 9.00% | 1.0 buc × -195.55 EUR | serviciu
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12luni de la livrare
+  termen: Termen de plata: 100% in avans
+PREȚURI Factură proformă S02834-1 v1 (2026-10-15), total 12773.8 RON:
+  termen: Termen de plata: 100% in avans Valoare fără taxe 10.556,86 RON
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12luni de la livrare
+PREȚURI Confirmare de comandă S02834-1 v1 (2026-10-15), total 2392.42 EUR:
+  [13-001303] FDC 150 - filtru deferizare demanganizare, vana Clack CI, racord 1.25" | 1.0 buc × 1489.6 EUR | referință
+  [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie de un semn | 1.0 buc × 407.75 EUR | referință
+  [11-002098] Rezervor PE - stocare chimicale 50L | 1.0 buc × 107.5 EUR | referință
+  [23-001216] Contor apa rece axial cu cadran uscat - 1"-ZENNER - cu generator de impuls 1/10L - cu racorduri (o-landezi) si garnituri | 1.0 buc × 167.9 EUR | referință
+  [-] Reducere: 9.00% | 1.0 buc × -195.55 EUR | serviciu
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12luni de la livrare
+  termen: Termen de plata: 100% in avans
+VÂNDUTĂ 2026-10-15 10:50 | lanț: fără comandă | lipsește: ['cerința clientului nu apare în emailuri', 'nicio comandă către furnizor nu e legată sigur (în Odoo sau în PDF-ul comenzii) de această vânzare']
+COMANDA P01502 (indiciu din perioadă) | ALAMO WATER POLAND | 2026-09-23 10:44 | sursa în Odoo: - | stare: Comandă de achiziție | total: 501.47
+  (nu e în emailuri: doar rândul din lista Odoo)
+COMANDA P01565 (indiciu din perioadă) | ALAMO WATER POLAND | 2026-10-13 10:01 | sursa în Odoo: - | stare: nu e în lista Odoo | total: None
+  Comandă AKRO P01565 trimisă 2026-10-13 10:01 în m2166852 (conversația 640):
+    [14-002100] [10761000008] Pure Resin PC003 strong cation | 200.0 L | 14-002 Medii filtrante
+    [14-002038] [10870000013] Anthracite 0,8 – 1,6 mm | 100.0 L | 14-002 Medii filtrante
+    [14-001082] [V3430-01] WS1.25/WS1.5 Spacer Stack | 1.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-001081] [V3407] WS1.25/WS1.5 Piston Downflow Asy | 1.0 Units | 14-001 Vane automate programabile, accesorii
+
+====================================================================================================
+CONVERSAȚIA c2168132 (nr. 660) | subiect: Oferta revizuita - AKRO SRL - 15.10.2026
+Partener (după adrese): industrialconstructs@yahoo.com INDUSTRIAL CONSTRUCT | grupare nesigură: da
+OFERTĂ S02834-1 v1 trimisă 2026-10-15 10:12 în m2168132 (Odoo: Comandă de vânzare): [13-001303] FDC 150 - filtru deferizare demanganizare, vana Clack CI, racord 1.25" x1.0 buc; [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual x1.0 buc; [11-002098] Rezervor PE - stocare chimicale 50L x1.0 buc; [23-001216] Contor apa rece axial cu cadran uscat - 1"-ZENNER - cu generator de impuls 1/10L x1.0 buc; [-] Reducere: 9.00% x1.0 buc
+OFERTĂ S02834-1 v1 trimisă 2026-10-15 10:50 în m2168196 (Odoo: Comandă de vânzare): 
+OFERTĂ S02834-1 v1 trimisă 2026-10-15 10:50 în m2168196 (Odoo: Comandă de vânzare): [13-001303] FDC 150 - filtru deferizare demanganizare, vana Clack CI, racord 1.25" x1.0 buc; [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual x1.0 buc; [11-002098] Rezervor PE - stocare chimicale 50L x1.0 buc; [23-001216] Contor apa rece axial cu cadran uscat - 1"-ZENNER - cu generator de impuls 1/10L x1.0 buc; [-] Reducere: 9.00% x1.0 buc
+
+--- MESAJ m2168132 | 2026-10-15 10:12 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: industrialconstructs@yahoo.com <industrialconstructs@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Oferta revizuita - AKRO SRL - 15.10.2026
+Buna ziua doamna Adriana,
+
+Va rog sa regasiti anexata oferta de pret revizuita pentru aceasta posibila comanda.
+
+Asteptam acordul dumneavoastra si comanda pentru emiterea facturii de avans.
+
+Produsele se pot livra in termen de aprox 2-3 saptamani de la transmiterea confirmarii de plata.
+
+Pentru orice alte informatii sau intrebari, va stau cu placere la dispozitie!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02834-1 - SERBAN INDUSTRIAL CONSTRUCT - 15.10.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2133924 | 2026-10-15 10:23 | Inbox | EXTERN
+De la: INDUSTRIAL CONSTRUCT <industrialconstructs@yahoo.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Re: Oferta revizuita - AKRO SRL - 15.10.2026
+Buna ziua,
+
+Multumim pentru acordarea discountului.
+
+Va rugam sa livrati echipamentele ofertate.
+
+Asteptam factura proforma.
+
+http://serbanindustrialconstruct.ro
+
+SC SERBAN INDUSTRIAL CONSTRUCT SRL
+
+Str. Valeni Nr.97 , Loc. Ploiesti, Jud. Prahova – ROMANIA
+
+Nr.Reg.Com. : J29 /761 /1994
+
+CIF : RO 5420374
+
+Cu stima,
+Ganea Adriana
+Tel. contact - 0723 276 995
+
+INFORMARE
+
+Prin continuarea acestei comunicări vă exprimați acordul cu privire la
+prelucrarea de către noi, S.C. SERBAN INDUSTRIAL CONSTRUCT S.R.L, a datelor Dvs
+cu caracter personal (nume, prenume, telefon, adresă electronică) exclusiv în
+scopul și pe durata colaborării (Regulament UE nr.679/2016).
+
+--- MESAJ m2168196 | 2026-10-15 10:50 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: INDUSTRIAL CONSTRUCT <industrialconstructs@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Oferta revizuita - AKRO SRL - 15.10.2026
+Buna ziua ,
+
+Va multumim pentru comanda!
+
+Va rog sa regasiti anexata confirmarea de comanda AKRO si factura proforma pentru avans.
+
+Va rog sa reveniti la noi cu confirmarea de plata pentru a putea demara procedura de aprovizionare.
+
+O zi cu spor!
+[ATAȘAMENT: Factură proforma - Serban Industrial Construct - 15.10.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: Comanda - S02834-1 - Serban Industrial Construct - 15.10.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2134148 | 2026-10-15 13:39 | Inbox | EXTERN
+De la: INDUSTRIAL CONSTRUCT <industrialconstructs@yahoo.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Re: Oferta revizuita - AKRO SRL - 15.10.2026
+Va transmitem confirmarea platii.
+
+Multumim !
+
+http://serbanindustrialconstruct.ro
+
+SC SERBAN INDUSTRIAL CONSTRUCT SRL
+
+Str. Valeni Nr.97 , Loc. Ploiesti, Jud. Prahova – ROMANIA
+
+Nr.Reg.Com. : J29 /761 /1994
+
+CIF : RO 5420374
+
+Cu stima,
+Ganea Adriana
+Tel. contact - 0723 276 995
+
+INFORMARE
+
+Prin continuarea acestei comunicări vă exprimați acordul cu privire la
+prelucrarea de către noi, S.C. SERBAN INDUSTRIAL CONSTRUCT S.R.L, a datelor Dvs
+cu caracter personal (nume, prenume, telefon, adresă electronică) exclusiv în
+scopul și pe durata colaborării (Regulament UE nr.679/2016).
+[ATAȘAMENT: OP AKRO.pdf | PDF fără text (scanat)]

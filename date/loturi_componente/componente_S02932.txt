@@ -1,0 +1,109 @@
+
+####################################################################################################
+OFERTA S02932 | client: ANTREPRIZA CONNECTING CORPORATE S.R.L. | trimisă: 2026-10-08 09:37 | Odoo: nu e în lista Odoo | conversații: c2130468 (nr. 614)
+
+####################################################################################################
+RÂND c2130468 (nr. 614) | stare: Completă | categorie: 13-Filtre multistrat diferite medii | cerere: 3 dedurizatoare galvanice KalyxX 3/4
+CERINȚA: Comandă pentru 3 filtre dedurizatoare galvanice KalyxX cu filet de 3/4. [m2130468] «Dorim să facem o comandă pentru filtru dedurizator Kalix cu filet de»
+CERINȚĂ FINALĂ (cantitate): 3 bucăți [m2165348] «confirmarea de comanda si avizul de expeditie pentru cele 3 dedurizatoare»
+CERINȚĂ FINALĂ (loc livrare): Timișoara, Strada Armoniei nr. 20A [m2130468] «Livrare în Timișoara Strada Armoniei Nr 20A.»
+REZULTAT: acceptată — Comandă trimisă de client, confirmată și expediată prin FAN Courier. [m2130468] «Dorim să facem o comandă pentru filtru dedurizator Kalix»
+PREȚURI Confirmare de comandă S02932 v1 (2026-10-08), total 1903.75 RON:
+  [13-001107] Dedurizator galvanic IPS KalyxX BlueLine G3/4" | 3.0 buc × 617.0 RON (reducere 15.0%) | referință
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12 luni de la livrare
+VÂNDUTĂ 2026-10-08 09:37 | lanț: fără comandă | lipsește: ['nicio comandă către furnizor nu e legată sigur (în Odoo sau în PDF-ul comenzii) de această vânzare']
+
+====================================================================================================
+CONVERSAȚIA c2130468 (nr. 614) | subiect: Comandă Filtru Galvanic
+Partener (după adrese): instalatii.antrepriza@gmail.com ANTREPRIZA INSTALATII | grupare nesigură: nu
+OFERTĂ S02932 v1 trimisă 2026-10-08 09:37 în m2165348 (Odoo: nu e în lista Odoo): [13-001107] Dedurizator galvanic IPS KalyxX BlueLine G3/4" x3.0 buc
+
+--- MESAJ m2130468 | 2026-10-08 09:24 | Inbox | EXTERN
+De la: ANTREPRIZA INSTALATII <instalatii.antrepriza@gmail.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Comandă Filtru Galvanic
+Bună ziua
+
+Dorim să facem o comandă pentru filtru dedurizator Kalix cu filet de ¾ , 3 bucăți .
+
+Livrare în Timișoara Strada Armoniei Nr 20A.
+
+--- MESAJ m2165316 | 2026-10-08 09:31 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: Comandă Filtru Galvanic
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: ANTREPRIZA INSTALATII <instalatii.antrepriza@gmail.com>
+Sent: Thursday, October 8, 2026 9:25 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: Comandă Filtru Galvanic
+
+Bună ziua
+
+Dorim să facem o comandă pentru filtru dedurizator Kalix cu filet de ¾ , 3 bucăți .
+
+Livrare în Timișoara Strada Armoniei Nr 20A.
+
+--- MESAJ m2165348 | 2026-10-08 09:37 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: ANTREPRIZA INSTALATII <instalatii.antrepriza@gmail.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Comandă Filtru Galvanic
+Buna ziua,
+
+Va multumim pentru comanda!
+
+Va rog sa regasiti anexata confirmarea de comanda si avizul de expeditie pentru cele 3 dedurizatoare.
+
+Produsele sunt in stoc si se vor incarca astazi la FAN CURIER.
+
+Colegii mei vor reveni cu reply la e-mail – factura fiscala si AWB.
+
+Cu respect.
+[ATAȘAMENT: Operațiuni de ridicare - _Mateiasi Laurentiu - WH_OUT_01280.pdf | text extras]
+[ATAȘAMENT: Comanda - S02932 - Antrepriza - 08.10.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2130500 | 2026-10-08 10:09 | Inbox | AKRO
+De la: andrei.dobrei@akro.ro <andrei.dobrei@akro.ro>
+Către: instalatii.antrepriza@gmail.com <instalatii.antrepriza@gmail.com>
+Cc: alexandru.soare@akro.ro, office@akro.ro
+Subiect: FW: Comandă Filtru Galvanic
+Buna ziua,
+
+Va rog sa regasiti in atasament AWB in vederea livrarii dedurizatoarelor catre dumneavoastra. Produsele vor fi colectate astazi de catre Fan Courier.
+
+Va multumim!
+
+Cu stima,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Thursday, October 8, 2026 9:38 AM
+To: 'ANTREPRIZA INSTALATII' <instalatii.antrepriza@gmail.com>
+Cc: office@akro.ro; andrei.dobrei@akro.ro
+Subject: RE: Comandă Filtru Galvanic
+
+Buna ziua,
+
+Va multumim pentru comanda!
+
+Va rog sa regasiti anexata confirmarea de comanda si avizul de expeditie pentru cele 3 dedurizatoare.
+
+Produsele sunt in stoc si se vor incarca astazi la FAN CURIER.
+
+Colegii mei vor reveni cu reply la e-mail – factura fiscala si AWB.
+
+Cu respect.
+
+From: ANTREPRIZA INSTALATII <instalatii.antrepriza@gmail.com>
+Sent: Thursday, October 8, 2026 9:25 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: Comandă Filtru Galvanic
+
+Bună ziua
+
+Dorim să facem o comandă pentru filtru dedurizator Kalix cu filet de ¾ , 3 bucăți .
+
+Livrare în Timișoara Strada Armoniei Nr 20A.
+[ATAȘAMENT: 7000171618253_ANTREPRIZA CONNECTING CORPORATE_08.10.2026.pdf | text extras]

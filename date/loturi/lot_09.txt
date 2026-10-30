@@ -1,0 +1,4172 @@
+
+====================================================================================================
+CONVERSAȚIA c2150756 (nr. 321) | subiect: Oferte pentru PETROLINE RAFINARIE
+Partener (după adrese): nagyistefanioan@gmail.com Stefan-Ioan NAGY | grupare nesigură: nu
+OFERTĂ S02694 v1 trimisă 2026-08-19 11:19 în m2150756 (Odoo: Ofertă trimisă): [13-001208] FMC 250 - Filtru multimedia, 250L mediu filtrant, vana Clack CI, racord 2" x2.0 buc; [13-001298] FECM 400-2/duplex, Statie ecomix A - duplex, vane Clack CI, racord 2", 400L rasi x1.0 buc; [-] Reducere: 15.00% x1.0 buc
+OFERTĂ S02695 v1 trimisă 2026-08-19 11:19 în m2150756 (Odoo: Ofertă trimisă): [13-001194] FMC 400 - Filtru multimedia, 400L mediu filtrant, vana Clack CI, racord 2" x2.0 buc; [13-001299] FECM 600-2/duplex, Statie ecomix A - duplex, vane Clack CI, racord 2", 600L rasi x1.0 buc; [-] Reducere: 15.00% x1.0 buc
+OFERTĂ S02693 v1 trimisă 2026-08-19 11:19 în m2150756 (Odoo: Ofertă trimisă): [-] Masa filtranta, vana de comanda Clack CI 1.5" si componente interne noi pentru r xNone ; [-] Masa filtranta, vana de comanda Clack TT 1" si componente interne noi pentru rea xNone ; [-] REDUCERE Reducere: 15.00% x1.0 buc
+
+--- MESAJ m2150756 | 2026-08-19 11:19 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Stefan-Ioan NAGY <nagyistefanioan@gmail.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Oferte pentru PETROLINE RAFINARIE
+Salut Stefan,
+
+Te rog sa regasesti cele 3 oferte pentru Petroline Rafinarie astfel:
+
+Oferta pentru reabilitarea statiei actuale [ dar cu incarcare statie dedurizare cu ECOMIX]
+
+Oferta pentru linie noua – debit de tratat 7 mc/h – tot cu rasina ecomix
+
+Oferta pentru linie noua – debit 12 mc/h – tot cu rasina ecomix.
+
+Las anexate si fisele tehnice ale echipamentelor.
+
+Din punctul meu de vedere, daca aplicatia nu este extrem de sensibila, Fierul si manganul conform incarcaturilor trimise , nu necesita atentie deosebita. Daca se accepta sa nu se umble la ele, varianta cu dedurizatoare in locul statiilor cu ecomix – iese mult mai rentabila atat ca si cost initial , cat si ca exploatare.
+
+Cu respect,
+[ATAȘAMENT: Oferta - S02694 - NAGY STEFAN - furnizare statie de 7 mc - 19.08.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: Oferta - S02695 - NAGY Stefan - furnizare statie de 12 mc - 19.08.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: Oferta - S02693 - NAGY STEFAN - Reabilitare statie actuala cu Ecomix - 19.08.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: SKM_C250i260723114500.pdf | PDF fără text (scanat)]
+[ATAȘAMENT: Fisa tehnica - Statii DEFERIZARE, DEMANGANIZARE, ELIMINARE AMONIU rasina ecomix - duplex, 2 - 400&600L.pdf | text extras]
+[ATAȘAMENT: Fisa tehnica - Filtre multimedia, racord 2 - 250 &400L.pdf | text extras]
+
+====================================================================================================
+CONVERSAȚIA c2150884 (nr. 322) | subiect: ORDER P01411 - AKRO ROMANIA - 19.08.2026
+Partener (după adrese): alamowaterpoland.com Dominik Mirowski, Alamo Water Poland | grupare nesigură: da
+
+--- MESAJ m2150884 | 2026-08-19 12:14 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Cc: alamo@alamowaterpoland.com, office@akro.ro
+Subiect: ORDER P01411 - AKRO ROMANIA - 19.08.2026
+Hello Dominik,
+
+Please find a new order for a duplex softener unit with 2” CI clack valves, with 450L of resin on each column.
+
+I am looking forward in receiving the OC.
+
+Best regards,
+[ATAȘAMENT: Comandă de achiziție - P01411 - ALAMO WATER POLAND - 19.08.2026.pdf | text extras]
+
+--- MESAJ m2113732 | 2026-08-19 13:33 | Inbox | EXTERN
+De la: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: alamo@alamowaterpoland.com, office@akro.ro
+Subiect: ODP: ORDER P01411 - AKRO ROMANIA - 19.08.2026
+Hello Alexandru,
+
+thank you for your order.
+
+Attached you can find our OC.
+
+All items in stock.
+
+Pozdrawiam/Best regards,
+
+Dominik Mirowski
+
+Alamo Water Poland Sp. Z o.o.
+
+Ul. Gen. Tadeusza Kutrzeby 17
+
+05-082 Stare Babice, Poland
+
+T. +48 22 270 13 82
+
+dom@alamowaterpoland.com
+
+www.alamowaterpoland.com
+[ATAȘAMENT: Order SO2605470-1400-1.pdf | text extras]
+Alamo Water Poland Sp. z o.o. Telephone +48 22 270 13 81
+ul. Gen. Tadeusza Kutrzeby 17 Email alamo@alamowaterpoland.com
+05-082 STARE BABICE
+Poland
+
+0041090 SC AKRO SRL
+Str. Zizinului Nr. 110, etaj 2
+500407 BRASOV
+Romania
+
+Pro forma confirmation
+Confirmation........................: SO2605470-1400-1 Telephone .................................: +40.268.413180
+Sales order..........................: SO2605470-1400 Fax… : +40.268.413183
+Date.....................................: 19/08/2026 Email ........................................: office@akro.ro; contact@spectra.ro;
+Customer reference ............: #P01411 alexandru.soare@akro.ro
+VAT number .............................: RO14205979
+Terms of delivery .......................: Ex Works, Stare Babice, Poland
+Payment conditions ...................: 30 days invoice date
+
+Item number Description Qty. Unit. Ship date Net UP Amount
+10440000234 (V3080BSPT) 2.00 PCS to be defined €76.16 €152.32
+WS DLFC ASY M1,5'' x F1,5'' BSPT
+
+10340000097 (V2CIDTD-05) 2.00 PCS to be defined €909.49 €1818.98
+WS2CI Valve DN T I-D
+
+10240000029 (D1199-04) Top Distributor 50mm Type Stack 2.00 PCS to be defined €31.58 €63.16
+
+10440000184 (V3186EU-06) 2.00 PCS to be defined €9.36 €18.72
+WS1 DC Power Supply EU 15V DC
+
+10440000066 (V3076BSPT) 1.00 PCS to be defined €366.65 €366.65
+Motor Alternating Valve 2" BSPT
+
+10440000130 (V3094BSPT-15) 1.00 PCS to be defined €291.03 €291.03
+WS2 Meter Asy MxF BSPT 15' m Cable
+
+14170000129 TEE 1/2" (CLACK TWIN) 1.00 PCS to b
+
+--- MESAJ m2150980 | 2026-08-19 13:40 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Cc: alamo@alamowaterpoland.com, office@akro.ro
+Subiect: RE: ORDER P01411 - AKRO ROMANIA - 19.08.2026
+Hello Dominik, add me please also the DLFC restrictors required .[ Our system does not import those small components and I forgot about them] .
+
+Best regards,
+[ATAȘAMENT: Order SO2605470-1400-1.pdf | text extras]
+
+--- MESAJ m2113764 | 2026-08-19 13:46 | Inbox | EXTERN
+De la: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: alamo@alamowaterpoland.com, office@akro.ro
+Subiect: ODP: ORDER P01411 - AKRO ROMANIA - 19.08.2026
+No problem I will add
+
+2x V3190-250
+
+Pozdrawiam/Best regards,
+
+Dominik Mirowski
+
+Alamo Water Poland Sp. Z o.o.
+
+Ul. Gen. Tadeusza Kutrzeby 17
+
+05-082 Stare Babice, Poland
+
+T. +48 22 270 13 82
+
+dom@alamowaterpoland.com
+
+www.alamowaterpoland.com
+
+====================================================================================================
+CONVERSAȚIA c2113700 (nr. 323) | subiect: ORDER PO1331
+Partener (după adrese): cleanova.com Carol Pettitt | grupare nesigură: nu
+
+--- MESAJ m2113700 | 2026-08-19 13:16 | Inbox | EXTERN
+De la: Carol Pettitt <carol.pettitt@cleanova.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: ORDER PO1331
+Good morning,
+
+I am pleased to advise your order PO1331 is ready for collection.
+
+1 box: 61 x 47 x 57cm, 12.5kg
+
+Please find attached a copy of the invoice for customs.
+
+Thank you
+
+Kind Regards
+
+Carol
+
+Carol Pettitt
+|
+Senior Administrator
+
+Cleanova | Allied Filter Systems Limited
+
+Huntsman Drive, Northbank Industrial Park, Irlam, Manchester, M445EG
+
+Mobile: 0161 777 7571 | Office: 0161 777 9500
+
+Carol.Pettitt@cleanova.com
+
+www.cleanova.com
+
+www.alliedfilter.co.uk
+[ATAȘAMENT: 2026F000004924.pdf | text extras]
+Invoice Number Invoice Date
+
+2026/F000004924 19-08-2026
+Bill To Sold To Purchase Order/Buyer
+1AKRO01 1AKRO01 PO1331
+
+Allied Filter Systems Limited ®
+Huntsman Drive Telephone: + 44 (0)161 777 9500 Invoice
+Northbank Industrial Park
+Irlam
+Manchester M44 5EG
+Great Britain
+UK VAT Reg No: GB262362024
+Swedish VAT Reg No: SE502062631201
+Company Reg No. 3043 174
+Shipper UK EORI: GB262362024000
+Bill To
+
+Ship To
+SC Akro SRL Akro SRL
+Zizinului 110 Str Zizinului Nr. 110
+cod 500407 Brasov BV 500407
+Brasov Romania
+Romania
+Romania
+alexandru.soare@akro.ro
+40268413180
+Customer EORI RO14205979
+VAT Reg No: RO14205979
+
+Sales Order/Reference Order Date Ship To Ship Via Ship Date
+
+51000 22-07-2026 20084427 OWN COLLECTION 18-08-2026
+Payment Terms Due Date Bill of Lading Incoterms
+
+Net 30 Days 18-09-2026 SH0016460 EXW IRLAM UK
+Remarks Sales Channel Sales Rep
+Box/Label=Cleanova RESALE Emota
+Package: Carton: 1
+Weight: Gross Weight: 12.5Kg Nett Weight: 12.3Kg
+
+Item Number Order Qty invoice_qty bo_qty Net Price Extended Price
+600NMO1SR 150.0 EA 150.0 EA 0.0 EA 2.68 402.00
+Country of Origin: GB
+Nylon Monofilament Mesh 600 Micron Size 1 HTS Code: 8421298090
+
+409123 150.0
+
+1 of 2
+Declaration:
+The exporter of the products covered by this document (EORI: GB262362024000) declares that, except where
+otherwise clearly indicated, these products are of United Kingdom preferential origin Customs
+Authorisation Number : GB17772/21
+
+Signature:
+Invoice Number Invoice Date
+
+2026/F000004924 19-08-2026
+Bill To Sold To Pur
+
+--- MESAJ m2150948 | 2026-08-19 13:23 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Akro Filtrare <office@akro.ro>
+Cc: andrei.dobrei@akro.ro
+Subiect: FW: ORDER PO1331
+DE ADUS LA NOI
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Carol Pettitt <Carol.Pettitt@cleanova.com>
+Sent: Wednesday, August 19, 2026 1:16 PM
+To: 'AKRO Romania , Alexandru Soare' <alexandru.soare@akro.ro>
+Subject: ORDER PO1331
+
+Good morning,
+
+I am pleased to advise your order PO1331 is ready for collection.
+
+1 box: 61 x 47 x 57cm, 12.5kg
+
+Please find attached a copy of the invoice for customs.
+
+Thank you
+
+Kind Regards
+
+Carol
+
+Carol Pettitt | Senior Administrator
+Cleanova | Allied Filter Systems Limited
+Huntsman Drive, Northbank Industrial Park, Irlam, Manchester, M445EG
+Mobile: 0161 777 7571 | Office: 0161 777 9500
+Carol.Pettitt@cleanova.com
+
+www.cleanova.com
+
+www.alliedfilter.co.uk
+[ATAȘAMENT: 2026F000004924.pdf | text extras]
+
+--- MESAJ m2113796 | 2026-08-19 14:28 | Inbox | AKRO
+De la: office@akro.ro <office@akro.ro>
+Către: Carol.Pettitt@cleanova.com <carol.pettitt@cleanova.com>
+Cc: andrei.dobrei@akro.ro, alexandru.soare@akro.ro
+Subiect: FW: ORDER PO1331
+Hello,
+
+DHL will pick up our order tomorrow.
+
+Please find attach the transport documents.
+
+Thank you,
+
+Best regards,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Carol Pettitt <Carol.Pettitt@cleanova.com>
+Sent: Wednesday, August 19, 2026 1:16 PM
+To: 'AKRO Romania , Alexandru Soare' <alexandru.soare@akro.ro>
+Subject: ORDER PO1331
+
+Good morning,
+
+I am pleased to advise your order PO1331 is ready for collection.
+
+1 box: 61 x 47 x 57cm, 12.5kg
+
+Please find attached a copy of the invoice for customs.
+
+Thank you
+
+Kind Regards
+
+Carol
+
+Carol Pettitt | Senior Administrator
+Cleanova | Allied Filter Systems Limited
+Huntsman Drive, Northbank Industrial Park, Irlam, Manchester, M445EG
+Mobile: 0161 777 7571 | Office: 0161 777 9500
+Carol.Pettitt@cleanova.com
+
+www.cleanova.com
+
+www.alliedfilter.co.uk
+[ATAȘAMENT: TransportLabel_9901065436.pdf | text extras]
+[ATAȘAMENT: WaybillDoc_9901065436.pdf | text extras]
+
+--- MESAJ m2113828 | 2026-08-19 14:57 | Inbox | EXTERN
+De la: Carol Pettitt <carol.pettitt@cleanova.com>
+Către: office@akro.ro <office@akro.ro>
+Cc: andrei.dobrei@akro.ro, alexandru.soare@akro.ro
+Subiect: RE: ORDER PO1331
+Hi,
+
+Received with thanks
+
+Have a good day.
+
+Kind Regards
+
+Carol Pettitt
+|
+Senior Administrator
+
+Cleanova | Allied Filter Systems Limited
+
+Huntsman Drive, Northbank Industrial Park, Irlam, Manchester, M445EG
+
+Mobile: 0161 777 7571 | Office: 0161 777 9500
+
+Carol.Pettitt@cleanova.com
+
+www.cleanova.com
+
+www.alliedfilter.co.uk
+
+====================================================================================================
+CONVERSAȚIA c2114180 (nr. 324) | subiect: Order confirmation: SO2605501-1400-1
+Partener (după adrese): alamowaterpoland.com Alamo | grupare nesigură: nu
+
+--- MESAJ m2114180 | 2026-08-20 12:08 | Inbox | EXTERN
+De la: Alamo <dominik.mirowski@alamowaterpoland.com>
+Către: office@akro.ro <office@akro.ro>, contact@spectra.ro <contact@spectra.ro>, alexandru.soare@akro.ro <alexandru.soare@akro.ro>
+Cc: dominik.mirowski@alamowaterpoland.com
+Subiect: Order confirmation: SO2605501-1400-1
+Dear SC AKRO SRL,
+
+Thank you very much for your new order.
+Enclosed you will find the confirmation of your order SO2605501-1400-1 with customer reference #P01380
+
+We kindly ask you to carefully check the article references, quantities, prices and the delivery address. If you have any further questions or comments, please do not hesitate to contact us.
+
+Kind regards,
+
+Alamo Water Poland Sp. z o.o.
+ul. Gen. Tadeusza Kutrzeby 17
+05-082 Stare Babice, Poland
+T: +48 22 270 13 81
+www.alamowaterpoland.com
+[ATAȘAMENT: Order SO2605501-1400-1.pdf | text extras]
+Alamo Water Poland Sp. z o.o. Telephone +48 22 270 13 81
+ul. Gen. Tadeusza Kutrzeby 17 Email alamo@alamowaterpoland.com
+05-082 STARE BABICE
+Poland
+
+0041090 SC AKRO SRL
+Str. Zizinului Nr. 110, etaj 2
+500407 BRASOV
+Romania
+
+Pro forma confirmation
+Confirmation........................: SO2605501-1400-1 Telephone .................................: +40.268.413180
+Sales order..........................: SO2605501-1400 Fax… : +40.268.413183
+Date.....................................: 20/08/2026 Email ........................................: office@akro.ro; contact@spectra.ro;
+Customer reference ............: #P01380 alexandru.soare@akro.ro
+VAT number .............................: RO14205979
+Terms of delivery .......................: Ex Works, Stare Babice, Poland
+Payment conditions ...................: 30 days invoice date
+
+Item number Description Qty. Unit. Ship date Net UP Amount
+10440000184 (V3186EU-06) 4.00 PCS to be defined €9.34 €37.36
+WS1 DC Power Supply EU 15V DC
+
+10440000328 (V3008-05) 4.00 PCS to be defined €14.67 €58.68
+WS2 Straight Drain Fitting 1”male w/o silence
+
+10440000220 (V3190-110) 4.00 PCS to be defined €2.59 €10.36
+WS1 DLFC 110 (11,0 gpm) For 1''
+
+10240000013 (D1199-11) 4.00 PCS to be defined €32.69 €130.76
+TOP STACK DIST CLACK SNAP IN 50mm
+
+10340000097 (V2CIDTD-05) 4.00 PCS to be defined €907.83 €3631.32
+WS2CI Valve DN T I-D
+
+10440000170 (V3098BSPT) 4.00 PCS to be defined €194.39 €777.56
+NOHARDWATERBYPASS 2IN MXF BSPT
+
+10761000008 PC003 Gel type 1000.00 LTR to b
+
+====================================================================================================
+CONVERSAȚIA c2114340 (nr. 325) | subiect: Cotatie transport
+Partener (după adrese): lkwelt.ro  | grupare nesigură: nu
+
+--- MESAJ m2114340 | 2026-08-20 12:48 | Inbox | AKRO
+De la: andrei.dobrei@akro.ro <andrei.dobrei@akro.ro>
+Către: cristina.staicu@lkwelt.ro <cristina.staicu@lkwelt.ro>
+Cc: office@akro.ro, alexandru.soare@akro.ro
+Subiect: Cotatie transport
+Buna ziua,
+
+Va rog sa ne ajutati cu o cotatie de transport, dupa cum urmeaza:
+
+Incarcare:
+
+ALAMO WATER POLAND Sp. z o.o.
+
+ul. Kutrzeby 17
+
+05 - 082 Stare Babice, POLAND
+
+Dominik Mirowski
+
+Tel. +48 22 270 13 82
+
+Tel 48 22 733 16 45
+
+Descarcare:
+
+S.C. AKRO SRL
+
+BRASOV,
+
+Str.Zizinului, nr 110, etaj.2
+
+Tel/Fax: 0268-413180;
+
+Andrei DOBREI - 0743343364
+
+Detalii marfa:
+
+4 paleti
+
+1 palet -80 x 80 x 230 / 80 kg
+
+1 palet 80 x 80 x 230 / 80 kg
+
+1 palet115 x 115 x 110 / 793kg
+
+1 palet 100 x 120 x 140 / 91 kg
+
+Asteptam cu interest un cost pentru aceasta livrare si data de incarcare/descarcare.
+
+Va multumesc anticipat!
+
+Cu stima,
+
+====================================================================================================
+CONVERSAȚIA c2151268 (nr. 326) | subiect: RE: Cerere Oferta pret AKRO SRL MEDII FILTRANTE
+Partener (după adrese): clarum.ro  | grupare nesigură: nu
+
+--- MESAJ m2151268 | 2026-08-20 13:12 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: office@clarum.ro <office@clarum.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Cerere Oferta pret AKRO SRL MEDII FILTRANTE
+Buna ziua,
+
+Va las mai jos pretul unitar /sac si comanda minima pe care o putem procesa pentru fiecare reper.
+
+Mediu filtrant Ecomix A – pret /sac 25L – 165 euro fara TVA – comanda minima – 20 saci
+
+Rasina Dedurizare PURE – PC003 – pret/sac 25L – 65 euro fara TVA – comanda minima – 40 saci
+
+Rasina denitrare PURE - PA202 – pret/sac 25 L –160 euor fara TVA - comanda minima – 20 saci
+
+Pyrolux regular – pret/sac 25 kg – 98 euro fara TVA – comanda minima – 40 saci
+
+Nisip orice granulatie – pret/sac 25kg – 14.5 euro fara TVA – comanda minima -40 saci
+
+Antracit – pret/sac de 50L – 100 euro fara TVA – comanda minima 20 saci
+
+Carbune bituminous – LG85 – pret/sac de 40L – 84 euro fara TVA – comanda minima- 25 saci
+
+Carbune pe baza de coaja de nuca cocos – LGCO100 – pret/sac 40L – 122euro fara TVA – comanda minima 25 saci
+
+Nu obisnuim sa tinem in stoc mase filtrante - va rog sa aveti in vedere un timp de livrare de +-2-4 saptamani de la comanda, indiferent de material ales.
+
+Asteptam cu interes raspunsul dumneavoastra!
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: office@clarum.ro <office@clarum.ro>
+Sent: Thursday, August 20, 2026 12:24 PM
+To: sales@akro.ro
+Subject: Cerere Oferta pret AKRO SRL MEDII FILTRANTE
+
+Buna ziua!
+
+Va contactez din partea firmei PRB Clarum SRL.
+
+Dorim o oferta de pret pentru urmatoarele medii filtrante: zeolit, ecomix, rasina dedurizare, rasina denitrare, antracit, turbidex, pyrolox, carbune activ si nisip cuartos.
+
+Asteptam raspunsul dumneavoastra si va multumim anticipat pentru ajutor !
+
+PRB CLARUM SRL
+
+Penu David Eugen
+
+Tel: 0743353991
+
+====================================================================================================
+CONVERSAȚIA c2151332 (nr. 327) | subiect: COMANDA PENTRU MIERCURI - 26.08.2026
+Partener (după adrese): ecofusiondevelopment@gmail.com Eco Eco Fusion Development | grupare nesigură: da
+
+--- MESAJ m2151332 | 2026-08-20 13:41 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: ecofusiondevelopment@gmail.com <ecofusiondevelopment@gmail.com>, lkaroly@gmail.com <lkaroly@gmail.com>, service@akro.ro <service@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: COMANDA PENTRU MIERCURI - 26.08.2026
+Salut,
+
+Iti trimit anexate comenzile pentru miercuri – Bucuresti [UM TEISANI] + Snagov [ SOLITAIRE IMOB]
+
+Trebuie sa ridici de la noi lampa pentru Snagov + procesele verbale.
+
+Cu respect,
+[ATAȘAMENT: Comandă de achiziție- P01415 - ECO FUSION - SOLITAIRE - 20.08.2026.pdf | text extras]
+[ATAȘAMENT: Comandă de achiziție- P01414 - ECO FUSION - CONRAD - 20.08.2026.pdf | text extras]
+
+--- MESAJ m2116132 | 2026-08-27 11:27 | Inbox | EXTERN
+De la: Eco Eco Fusion Development <ecofusiondevelopment@gmail.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>, lkaroly@gmail.com <lkaroly@gmail.com>, service@akro.ro <service@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Re: COMANDA PENTRU MIERCURI - 26.08.2026
+Buna,
+
+Atasat gasiti cele doua PV scanate.
+
+Cu stimă/Best regards,
+[ATAȘAMENT: PV Conrad.pdf | PDF fără text (scanat)]
+[ATAȘAMENT: PV Solitaire invest.pdf | PDF fără text (scanat)]
+
+====================================================================================================
+CONVERSAȚIA c2114404 (nr. 328) | subiect: Re: cerere oferta pret
+Partener (după adrese): fzl.ro Achizitii FZL, Rares Bogatean, Vali Porojan | grupare nesigură: nu
+
+--- MESAJ m2114404 | 2026-08-20 14:32 | Inbox | EXTERN
+De la: Achizitii FZL <achizitii@fzl.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: rares.bogatean@fzl.ro, vali.porojan@fzl.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Re: cerere oferta pret
+Buna ziua,
+
+Va confirmam comanda noastra pentru filtre ofertate :
+
+Element (cartus) filtrant apa condens, Cod: PRNW050-29 50µ (microni), DOE, De = 65 mm,Di = 27 mm,L = 740 mm - 32 bucăți
+
+Cu stima,
+
+Gutiu Crina
+
+Fabrica de zahăr premium Ludus SA
+
+Ludus, Mures, str. Fabricii nr. 3
+
+mail: crina.gutiu@fzl.ro, achizitii@fzl.ro
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+
+Sent: Thursday, 4 June 2026 1:02 pm
+
+To: Achizitii FZL <achizitii@fzl.ro>
+
+Cc: Rares Bogatean <rares.bogatean@fzl.ro>; Vali Porojan <vali.porojan@fzl.ro>; 'Akro Filtrare' <office@akro.ro>; andrei.dobrei@akro.ro <andrei.dobrei@akro.ro>
+
+Subject: RE: cerere oferta pret
+
+Buna ziua Doamna Gutiu,
+
+Va multumim pentru solicitarea dumneavoastra!
+
+Va rog sa regasiti anexata cotatia de pret pentru 32 de cartuse PRNW050-29.
+
+Estimam livrarea produselor in termen de 3-4 saptamani [ exclus luna August] de la transmiterea comenzii si a confirmarii de plata.
+
+Asteptam cu interes raspunsul dumneavoastra!
+
+Numai bine,
+
+From: office@akro.ro <office@akro.ro>
+
+Sent: Thursday, June 4, 2026 9:19 AM
+
+To: 'AKRO Romania , Alexandru Soare' <alexandru.soare@akro.ro>
+
+Subject: FW: cerere oferta pret
+
+From: Achizitii FZL <achizitii@fzl.ro>
+
+Sent: miercuri, 3 iunie 2026 15:50
+
+To: office@akro.ro;
+logistic@akro.ro
+
+Cc: Rares Bogatean <rares.bogatean@fzl.ro>; Vali Porojan <vali.porojan@fzl.ro>
+
+Subject: cerere oferta pret
+
+Buna ziua,
+
+Va rugăm sa ne faceti oferta de pret, cu termen de livrare si condiții de plata pentru urmatorul produs:
+
+Element (cartus) filtrant apa condens, Cod: PRNW050-29 50µ (microni), DOE, De = 65 mm,Di = 27 mm,L = 740 mm - 32 bucăți
+
+Va multumim si asteptam cu interes raspunsul dumnevoastră,
+
+Cu stima,
+
+Gutiu Crina
+
+Fabrica de zahăr premium Ludus SA
+
+Ludus, Mures, str. Fabricii nr. 3
+
+mail:
+crina.gutiu@fzl.ro,
+achizitii@fzl.ro
+[ATAȘAMENT: Oferta - S02357 - Fabrica de Zahar Ludus - 04.06.2026 (1).pdf | text extras]
+AKRO SRL
+RO14205979
+J2001000977088
+
+Furnizor Client:
+AKRO SRL FABRICA DE ZAHAR PREMIUM LUDUS
+Str. Zizinului Nr. 110 S.A., Gutiu Crina
+Brașov BV 500407 Str. Fabricii 3
+România Ludus MS
+VAT: RO14205979 România
+TVA: RO1233870
+
+În atenția
+Gutiu Crina, achizitii@fzl.ro
+Phone: +40 268 413 180
+
+Oferta S02357
+Data ofertă: Expiră: Agent de vânzări:
+04.06.2026 04.07.2026 Alexandru Soare , +40 268 413 180
+
+DESCRIERE CANTITATE P.U. SUMĂ
+
+[01-010031] Cartus filtrant proxis prnz050-29 32,00 buc 38,25 1.224,00 €
+Echivalent CUNO G78F8-3-Finete de filtrare 50 microni.
+Termen livrare: 25 zile
+
+Valoare fără taxe 1.224,00 €
+
+TVA 21% 257,04 €
+
+Total 1.481,04 €
+
+Termeni:
+
+Modul de livrare: In sarcina Akro
+
+Termen de plata: 100% in avans
+
+Str. Zizinului Nr. 110; Brașov; Cod 500407; ROMANIA
+Tel: +40 268 413 180; E-mail: contact@akro.ro; http://www.akro.ro; www.kalyxx.ro; www.spectra.ro
+
+Pagina: 1 / 1
+
+--- MESAJ m2151364 | 2026-08-20 14:50 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Achizitii FZL <achizitii@fzl.ro>
+Cc: rares.bogatean@fzl.ro, vali.porojan@fzl.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: cerere oferta pret
+Buna ziua Doamna Gutiu,
+
+Va multumim pentru comanda transmisa!
+
+Va rog sa regasiti anexata confirmarea de comanda si factura proforma pentru plata.
+
+Termenul de productie + livrare estimat la acest moment este de aprox 30 de zile calculate din momentul in care se primeste confirmarea de plata.
+
+Asteptam cu interes raspunsul dumneavoastra!
+
+Numai bine,
+[ATAȘAMENT: Factură proforma - Fabrica de Zahar Ludus - 20.08.2026.pdf | text extras]
+[ATAȘAMENT: Comanda - S02357 - Fabrica de Zahar Ludus - 20.08.2026.pdf | text extras]
+
+--- MESAJ m2116036 | 2026-08-27 09:16 | Inbox | EXTERN
+De la: Achizitii FZL <achizitii@fzl.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: rares.bogatean@fzl.ro, vali.porojan@fzl.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Re: cerere oferta pret
+Buna ziua,
+
+Va trimitem atasat OP-ul cu plata facturii proforme.
+
+Va multumim si asteptam comanda,
+
+Multumesc frumos
+
+Gutiu Crina
+
+Fabrica de zahăr premium Ludus SA
+
+Ludus, Mures, str. Fabricii nr. 3
+
+tel: +740158659
+
+mail:
+
+crina.gutiu@fzl.ro,
+achizitii@fzl.ro
+[ATAȘAMENT: OP AKRO2608 (1).pdf | text extras]
+X RON
+Suma ORDIN DE PLATA
+Amount
+7.768,35 EUR
+|_|_|_| Payment Order
+Cont IBAN platitor RO79BRDE270SV26228582700 Nr. 2075
+Customer's account
+
+CUI/CNP / Identity Code Tipul transferului * X NORMAL
+Platitor FABRICA DE ZAHAR PREMIUM URGENT
+Customer 1233870
+* Necompletarea acestei rubrici inseamna
+Cont IBAN beneficiar RO98INGB0000999902843963 acordul pentru optiunea NORMAL.
+Beneficiary's account
+Detalii de plata / Payment details
+CUI/CNP / Identity Code
+Beneficiar AKRO FPROFS02357
+Beneficiary 14205979
+
+Platitor / Customer Banca / Bank
+
+Data emiterii 26.08.2026 Primit,
+Issue date Received,
+
+Ordinul de plata se va completa cu majuscule,
+corect si lizibil.
+
+Acest document a fost emis printr­un instrument de plata electronica.
+
+--- MESAJ m2152580 | 2026-08-27 09:27 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Achizitii FZL <achizitii@fzl.ro>
+Cc: rares.bogatean@fzl.ro, vali.porojan@fzl.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: cerere oferta pret
+Buna ziua ,
+
+Va multumim pentru confirmare!
+
+Astazi am trimis in productie cartusele.
+
+Revin la dumneavoastra de indata ce produsele ajung in depozitul din BRASOV.
+
+O zi cu spor!
+
+--- MESAJ m2167716 | 2026-10-14 14:54 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Achizitii FZL <achizitii@fzl.ro>
+Cc: rares.bogatean@fzl.ro, vali.porojan@fzl.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: cerere oferta pret
+Buna ziua Doamna Gutiu,
+
+Conform discutiei telefonice, va informam ca am pregatit pentru livrare cartusele comandate.
+
+Estimam ca acestea vor ajunge la dumneavoastra cel tarziu vineri 16.10.2026.
+
+Colegii mei vor reveni cu restul de documente.
+
+O zi cu spor!
+[ATAȘAMENT: Operațiuni de ridicare - Gutiu Crina - WH_OUT_01166.pdf | text extras]
+
+====================================================================================================
+CONVERSAȚIA c2114724 (nr. 329) | subiect: Rezervoare sub presiune FRP pentru tratarea apei – Snowate
+Partener (după adrese): snowate.com Bella | grupare nesigură: nu
+
+--- MESAJ m2114724 | 2026-08-21 10:31 | Inbox | EXTERN
+De la: Bella <bella@snowate.com>
+Către: Alexandru.soare <alexandru.soare@akro.ro>
+Subiect: Rezervoare sub presiune FRP pentru tratarea apei – Snowate
+Bună ziua,
+
+Sper că sunteți bine.
+
+Numele meu este Bella și reprezint Snowate, un furnizor profesionist din China de echipamente și componente pentru tratarea apei.
+
+Furnizăm rezervoare sub presiune FRP pentru dedurizarea apei, filtrarea cu medii filtrante și sisteme industriale de tratare a apei.
+
+Principalele caracteristici ale rezervoarelor FRP Snowate:
+
+Căptușeli interioare din PE de calitate alimentară, cu rezistență chimică excelentă
+
+Construcție din fibră de sticlă și rășină epoxidică de înaltă rezistență
+
+Disponibile în versiuni de 125 PSI și 150 PSI
+
+Diametre disponibile între 6" și 80"
+
+Dimensiuni ale deschiderilor de 2,5", 4" și 6"
+
+Modele certificate NSF și CE disponibile
+
+Disponibile în culoare naturală, albastră sau personalizată
+
+Vă rugăm să ne transmiteți modelele sau specificațiile utilizate în mod obișnuit, iar noi vă vom recomanda opțiunile potrivite și vă vom oferi o ofertă competitivă.
+
+Cu stimă,
+
+Bella
+
+Bella Liu Marketing Manager - One-stop Water Treatment Solutions Provider
+
+Hengshui Snowate Environmental Technology Co., Ltd.
+
+A: No. 285 Renmin Road, Hengshui City, Hebei, China.
+
+Suzhou Snowate Enviro Tech Co., Ltd.
+
+A: No. 35, Aigehao Road, Weitang Town, Xiangcheng District Suzhou City, China.
+
+C: 86 - 15297639209 (WhatsApp/WeChat)
+
+E: Bella@snowate.comW: www.snowate.com
+
+Warm Tip: Under no circumstances change the beneficiary's bank account.
+
+====================================================================================================
+CONVERSAȚIA c2114756 (nr. 330) | subiect: comanda nr 38834_ AKRO_semnata
+Partener (după adrese): artrom.com Dinca Ionela, Nitu Remus, Galben Petrica | grupare nesigură: nu
+
+--- MESAJ m2114756 | 2026-08-21 11:58 | Inbox | EXTERN
+De la: Dinca Ionela <ionela.dinca@artrom.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: remus.nitu@artrom.com, petrica.galben@artrom.com, office@akro.ro, andrei.dobrei@akro.ro, aurel.caras@akro.ro
+Subiect: comanda nr 38834_ AKRO_semnata
+Buna ziua,
+
+Atachat va transmit comanda nr. 38834 semnata.
+
+O zi placuta!
+
+Cu stima,
+
+Ioana Dinca
+
+Serviciul Management Resurse Energetice
+
+ARTROM STEEL TUBES S.A.
+
+Draganesti street no. 30, 230119, Slatina, Olt, Romania,
+
+Phone:+40 372 498 192;
+
+Fax: +40 249 431 144
+
+E-mail:
+ionela.dinca@artrom.com
+
+www.artrom.com
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: AKRO Romania , Alexandru Soare [mailto:alexandru.soare@akro.ro]
+
+Sent: Tuesday, August 11, 2026 2:07 PM
+
+To: Dinca Ionela <ionela.dinca@artrom.com>
+
+Cc: Neacsu Constantin <constantin.neacsu@artrom.com>; Nitu Remus <remus.nitu@artrom.com>; Galben Petrica <petrica.galben@artrom.com>; 'Akro Filtrare' <office@akro.ro>; andrei.dobrei@akro.ro; 'Aurel CARAS - AKRO' <aurel.caras@akro.ro>
+
+Subject: RE: Contract nr.40043 AKRO_semnat
+
+Buna ziua Doamna Dinca,
+
+La acest moment, termenul estimat de livrare pentru echipamente este de 8 saptamani [ poate +1-2 saptamani – dat fiind ca Augustul se lucreaza cu efectiv mai mic la majoritatea furnizorilor].
+
+O zi cu spor!
+
+From: Dinca Ionela <ionela.dinca@artrom.com>
+
+Sent: Tuesday, August 11, 2026 1:25 PM
+
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+
+Cc: Neacsu Constantin <constantin.neacsu@artrom.com>; Nitu Remus <remus.nitu@artrom.com>; Galben Petrica <petrica.galben@artrom.com>;
+'Akro Filtrare' <office@akro.ro>;
+andrei.dobrei@akro.ro; 'Aurel CARAS - AKRO' <aurel.caras@akro.ro>
+
+Subject: Contract nr.40043 AKRO_semnat
+
+Buna ziua,
+
+Atachat gasiti Contractul semnat.
+
+Maine trimit un exemplar prin FAN CURIER.
+
+Pentru a emite comanda va rog un termen aproximativ de livrare a echipamentelor.
+
+Zi buna!
+
+Cu stima,
+
+Ioana Dinca
+
+Serviciul Management Resurse Energetice
+
+ARTROM STEEL TUBES S.A.
+
+Draganesti street no. 30, 230119, Slatina, Olt, Romania,
+
+Phone:+40 372 498 192;
+
+Fax: +40 249 431 144
+
+E-mail:
+ionela.dinca@artrom.com
+
+www.artrom.com
+
+From: AKRO Romania , Alexandru Soare [mailto:alexandru.soare@akro.ro]
+
+Sent: Wednesday, August 5, 2026 9:37 AM
+
+To: Dinca Ionela <ionela.dinca@artrom.com>
+
+Cc: Neacsu Constantin <constantin.neacsu@artrom.com>; Nitu Remus <remus.nitu@artrom.com>; Galben Petrica <petrica.galben@artrom.com>;
+'Akro Filtrare' <office@akro.ro>;
+andrei.dobrei@akro.ro; 'Aurel CARAS - AKRO' <aurel.caras@akro.ro>
+
+Subject: RE: ref contract AKRO
+
+Buna ziua Doamna Dinca,
+
+Va rog sa regasiti anexat contractul semnat.
+
+Ramane sa tinem legatura pentru a da ok-ul pentru productia filtrelor mari.
+
+O zi cu spor!
+
+From: Dinca Ionela <ionela.dinca@artrom.com>
+
+Sent: Thursday, July 30, 2026 12:00 PM
+
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+
+Cc: Neacsu Constantin <constantin.neacsu@artrom.com>; Nitu Remus <remus.nitu@artrom.com>; Galben Petrica <petrica.galben@artrom.com>
+
+Subject: ref contract AKRO
+
+Buna ziua,
+
+Atachat gasiti draft contract “proiectarea solutiei tehnice, furnizarea echipamentelor, asistenta la montaj, punerea in functiune a unei
+Instalatii de Filtare Apa”,oferta SO 2400 anexa la contract, si rapoartele de incercare pentru probele de apa potabila prelevate inainte si dupa filtru cu carbune activ.
+
+Din rapoartele atachate se observa ca valoarea determinata a parametrului”tetracloretena “a scazut de
+la 213,01 µg/l(inainte de filtru ) la 0,63 µg/l (dupa filtru cu carbune activ).
+
+La inceputul saptamanii viitoare vom primi rapoarte de la un laborator acreditat de MINISTERUL SANATATII,cu care colaboram,pentru inca un set de probe prelevate inainte si dupa filtru cu carbune activ.
+
+Asteptam punctul dumneavoastra de vedere privind draft contract atachat pentru a putea demara procedura de semnare.
+
+Cu stima,
+
+Ioana Dinca
+
+Serviciul Management Resurse Energetice
+
+ARTROM STEEL TUBES S.A.
+
+Draganesti street no. 30, 230119, Slatina, Olt, Romania,
+
+Phone:+40 372 498 192;
+
+Fax: +40 249 431 144
+
+E-mail:
+ionela.dinca@artrom.com
+
+www.artrom.com
+
+Acest mesaj și orice fișiere sau documente anexate conțin informații destinate doar persoanei căreia îi sunt adresate. În cazul în care dumneavoastră nu sunteți în această situație,
+prin aceasta vă informăm că orice dezvăluire, copiere, distribuire sau orice altă acțiune bazată pe conținutul acestor informații este strict interzisă și pot fi aplicate sancțiuni, potrivit legii. Dacă ați primit acest email din greșeală, vă rugăm să ne informați
+imediat și să ștergeți mesajul din sistemul dumneavoastră.
+
+This message and
+[ATAȘAMENT: c-da38834 AKRO BRASOV-signed.pdf | text extras]
+COMANDA ACHIZITIE CA-00038834-S / 18.08.2026
+Contract ART40043 / 06.08.2026
+Semnat digital de ARTROM STEEL TUBES SA
+Se certifica acest document ca fiind controlat si aprobat electronic.
+Semnatura solicitata de Ioana Dinca
+in data 2026-08-21 11:53:37.056+03:00
+CA-00038834-S-1 / 18.08.2026 Pagina 1 din 2
+&ĄWUH AKRO BRASOV Adresa STR. ZIZINULUI,NR.110,ETAJ 2 BRASOV, Romania
+In atentia Nr. inregistrare TVA RO14205979
+Nr. Reg. Comertului J08/977/01.10.2001
+Va rugam livrati catre/executati pentru/preluati de la ARTROM STEEL TUBES SA, UZINA PRODUCTIE METALURGICA, Draganesti 30 SLATINA, OT,230119 Romania, materialele/serviciile enumerate mai jos.
+Societatea ARTROM STEEL TUBES SA este inregistrata in Registrul Comertului la J1991000009283, cod unic de inregistrare RO1510210, Draganesti 30 SLATINA,, OT,230119, Romania. Plata se face din contul
+bancar RO66CECEB00030RON2770770 deschis la CEC BANK.. Marfurile vor fi insotite de certificate de calitate si garantie. Receptia se va face conform legislatiei in vigoare. Rugam confirmati.
+
+Nr Descriere Unitate Cantitate Pret Valoare Valuta Termen Concentratie Nr Referinta Obs
+crt livrare (%)
+1 GRUP DE POMPARE GRUNDFOS TIP HYDROF2XCM25- buc 1.000 10,544.0 10,544.00 EUR 27.10.2026 CA-00038834-S_1
+2DN80 400V-2X20 mc/ora 0
+2 FILTRU BS4872AT/RV CU 1000LCARBUNE SORBOTECH buc 1.000 42,622.5 42,622.50 EUR 27.10.2026 CA-00038834-S_3
+LGCO100 SI STATIE CLORINARE FINALA 0
+3 CONTOR ZENNER ,WPD ,DN100, CU MODUL EDC MBus- buc 1.000 501.20 501.20 EUR 27.10.202
+
+--- MESAJ m2151524 | 2026-08-24 09:36 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dinca Ionela <ionela.dinca@artrom.com>
+Cc: remus.nitu@artrom.com, petrica.galben@artrom.com, office@akro.ro, andrei.dobrei@akro.ro, aurel.caras@akro.ro
+Subiect: RE: comanda nr 38834_ AKRO_semnata
+Buna dimineata doamna Dinca,
+
+Va multumim pentru comanda!
+
+Va rog sa regasiti anexata confirmarea oficiala AKRO.
+
+O zi cu spor!
+[ATAȘAMENT: Comanda - S02400 - ARTROM STEEL TUBES - 24.08.2026.pdf | text extras]
+
+====================================================================================================
+CONVERSAȚIA c2151492 (nr. 331) | subiect: RE: Cerere sprijin verificare sistem clorinare apa curenta
+Partener (după adrese): roaf.ro achizitii_um01829 | grupare nesigură: nu
+OFERTĂ S02707 v1 trimisă 2026-08-24 10:12 în m2151588 (Odoo: Comandă de vânzare): [-] Deplasare la beneficiar - Verificare instalatie de clorinare + filtre, operatiun xNone 
+OFERTĂ S02814 v1 trimisă 2026-09-14 15:10 în m2157732 (Odoo: Comandă de vânzare): [14-002008] Turbidex x622.0 L; [14-002033] Nisip cuartos 2-4 mm b x150.0 kg; [23-001219] Contor apa rece axial cu cadran uscat - 2"-ZENNER - cu generator de impuls 1/10L x1.0 buc; [-] Livrare materiale, inlocuire masa filtranta si contor, reparametrizare - PIF xNone 
+
+--- MESAJ m2151492 | 2026-08-24 08:47 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: achizitii_um01829 <achizitii_um01829@roaf.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Cerere sprijin verificare sistem clorinare apa curenta
+Buna dimineata,
+
+Va multumim pentru solicitarea dumneavoastra!
+
+Am verificat istoricul pentru U.M.01829 si nu va regasim in baza noastra de date client.
+
+Ati putea sa ne transmiteti daca sistemul a fost achizitionat de la AKRO prin intermediul unei terte parti?
+
+Va rog sa ne transmiteti si fotografia sistemului – probabil s-a omis . In acest mod ne putem da seama, in cazul in care sistemul nu a fost cumparat de la noi, daca putem interveni asupra acestuia sau nu.
+
+Asteptam cu interes raspunsul dumneavoastra!
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: achizitii_um01829 <achizitii_um01829@roaf.ro>
+Sent: Monday, August 24, 2026 7:49 AM
+To: sales@akro.ro
+Subject: Cerere sprijin verificare sistem clorinare apa curenta
+
+Bună dimineata,
+
+Vă adresăm rugămintea de a ne sprijini în realizarea următoarelor demersuri la locația U.M. 01829 București, situată în str. Padina nr. 41-47, sector 1:
+
+● efectuarea unei verificări privind modul de funcționare a sistemului de clorinare a apei curente menajere, instalat de societatea dumneavoastră la locația menționată (conform fotografiei atașate), precum și identificarea și efectuarea, după caz, a operațiunilor de mentenanță preventivă și corectivă necesare pentru asigurarea funcționării corespunzătoare a acestuia;
+
+● analizarea posibilității tehnice de extindere a sistemului existent prin instalarea unor filtre pentru deferizare și demanganizare, în vederea reducerii valorilor parametrilor menționați în buletinul de analiză a apei anexat.
+
+În vederea efectuării verificărilor și stabilirii soluției tehnice optime, vă rugăm să luați legătura cu punctul de contact desemnat din cadrul unității, respectiv Leustean Adrian - 0753.666.895, pentru stabilirea unei vizite la locație și a tuturor detaliilor necesare.
+
+Totodată, vă rugăm să ne comunicați, în urma evaluării, recomandările dumneavoastră tehnice, operațiunile de mentenanță necesare și, după caz, o propunere tehnică și financiară pentru extinderea sistemului.
+
+Vă mulțumim pentru sprijin și colaborare.
+
+Cu respect,
+
+Compartiment Achizitii Publice UM 01829 Bucuresti
+
+0725 054 478
+
+This email was scanned by Bitdefender
+
+--- MESAJ m2114980 | 2026-08-24 09:11 | Inbox | EXTERN
+De la: achizitii_um01829 <achizitii_um01829@roaf.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Re: Cerere sprijin verificare sistem clorinare apa curenta
+Din pacate, nu cunoastem aceasta informatie.
+
+Am atasat poza!
+
+Vă mulțumim!
+
+Cu respect,
+
+Compartiment Achizitii Publice UM 01829 Bucuresti
+
+0725 054 478
+[ATAȘAMENT: IMG-20260824-WA0002.jpg | imagine]
+
+--- MESAJ m2151556 | 2026-08-24 09:45 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: achizitii_um01829 <achizitii_um01829@roaf.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Cerere sprijin verificare sistem clorinare apa curenta
+Buna ziua,
+
+Am primit fotografia, va multumim!
+
+Lucrarea a fost executata de UBITECH CONSTRUCTII , noi am fost furnizorul de echipamente pentru acestia conform caietului de sarcini.
+
+Aceasta instalatie a fost pusa in functiune in Februarie 2022 – Anexez procesul verbal de PIF.
+
+Referitor la solicitarea dumneavoastra, da putem asigura mentenanta sau reparatii pentru aceste echipamente.
+
+Revin in cursul zilei de astazi cu o propunere comerciala pentru trimiterea unui reprezentant AKRO la locatie , constatare si operatiune de mentenanta.
+
+Numai bine,
+[ATAȘAMENT: 2.1.F22 - Proces Verbal de punere in functiune - UBITECH CONSTRUCTII - 02.02.2022.pdf | PDF fără text (scanat)]
+
+--- MESAJ m2151588 | 2026-08-24 10:12 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: achizitii_um01829 <achizitii_um01829@roaf.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Cerere sprijin verificare sistem clorinare apa curenta
+Buna ziua,
+
+Va trimitem anexata oferta de pret pentru o interventie de verificare a instalatiei actuale.
+
+Interventia va consta in :
+
+Verificare etanseitati sistem
+
+Verificare setari, curatare pompa dozatoare
+
+Verificare setari si buna executie a spalarilor la filtrele Turbidex
+
+Constatare generala
+
+Reglaje pe aplicatia client .
+
+In cazul in care se vor gasi echipamente/piese care trebuiesc inlocuite, acestea se vor nota in procesul verbal de service, urmand a se emite o oferta noua pentru furnizare piese si inlocuire.
+
+Pentru orice alte informatii sau intrebari, va stau cu placere la dispozitie!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02707 - UM 01829 - 24.08.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2117220 | 2026-09-01 08:51 | Inbox | EXTERN
+De la: achizitii_um01829 <achizitii_um01829@roaf.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Re: Cerere sprijin verificare sistem clorinare apa curenta
+Buna dimineata,
+
+Va rugam sa postati oferta de pret pe SEAP si sa ne tranmsiteti nr de referinta.
+
+Vă mulțumim!
+
+Cu respect,
+
+Compartiment Achizitii Publice UM 01829 Bucuresti
+
+0725 054 478
+
+--- MESAJ m2153924 | 2026-09-01 09:33 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: achizitii_um01829 <achizitii_um01829@roaf.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Cerere sprijin verificare sistem clorinare apa curenta
+Buna ziua,
+
+Va informam ca produsul a fost publicat in catalogul electronic din SICAP.
+
+Las anexate informatiile de achizitie.
+
+O zi cu spor!
+[ATAȘAMENT: image.png | imagine]
+
+--- MESAJ m2154180 | 2026-09-01 14:53 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: achizitii_um01829 <achizitii_um01829@roaf.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Cerere sprijin verificare sistem clorinare apa curenta
+Buna ziua,
+
+Va rog sa regasiti anexata confirmarea de comanda, in baza achizitiei de astazi din SICAP.
+
+Vom incerca programarea pentru saptamana urmatoare, revin pana vineri 04.09.2026 – cu un telefon pentru confirmarea persoanei si a datei exacte.
+
+O zi cu spor!
+[ATAȘAMENT: Comanda - S02707 - UM 01829 - 01.09.2026.pdf | text extras]
+
+--- MESAJ m2155268 | 2026-09-04 11:18 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: achizitii_um01829 <achizitii_um01829@roaf.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: PROGRAMARE INTERVENTIE
+Buna ziua,
+
+Va trimit acest mail pentur a va informa ca interventia de mentenanta la instalatia de tratare a fost programata pentru data de 10.09.2026 [Joi]
+
+Colegul de service delegat: LASZLO KAROLY : 0740.561.592
+
+O zi cu spor!
+
+--- MESAJ m2157700 | 2026-09-14 14:53 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: achizitii_um01829 <achizitii_um01829@roaf.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: PROGRAMARE INTERVENTIE
+Buna ziua ,
+
+Va informam ca interventia de verificare la instalatia de tratare s-a finalizat cu succes in data de 10.09.2026.
+
+Va las anexat procesul verbal de service.
+
+Singurul lucru defect este contorul cu impulsuri – care trebuie obligatoriu inlocuit pentru ca statia sa poata doza din nou clor corect. In rest pompa de dozare/ filtrele lucreaza conform]
+
+Ca si recomandare tinand cont ca imediat se implinesc 5 ani de la functionare, ar fi sa se inlocuiasca si masa filtranta din cele doua filtre [ turbidexul ]
+
+Revin in cel mai scurt timp cu o propunere pentru materiale si manopera de schimb pentru toate cele enumerate.
+
+Colegii mei vor reveni cu un reply la acest e-mail in care vor anexa factura pentru interventia de joi.
+
+Numai bine,
+[ATAȘAMENT: 2.0.F23 - Proces Verbal de service - UM01829 - 10.09.2026 2 din 2.jpeg | imagine]
+[ATAȘAMENT: 2.0.F23 - Proces Verbal de service - UM01829 - 10.09.2026 1 din 2.jpeg | imagine]
+
+--- MESAJ m2157732 | 2026-09-14 15:10 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: achizitii_um01829 <achizitii_um01829@roaf.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: PROGRAMARE INTERVENTIE
+Buna ziua,
+
+Va trimit anexata cotatia de pret pentru materialele necesare pentru inlocuirea in cele doua filtre 24x72 + contorul de 2” la care s-a adaugat si manopera de inlocuire.
+
+In cazul unei comenzi estimam livrarea produselor in termen maxim de 2-3 saptamani – iar programarea interventiei de inlocuire in maxim 10 zile de la livrarea marfii.
+
+Asteptam cu interes raspunsul dumneavoastra!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02814 - UM 01829 - 14.09.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2121796 | 2026-09-15 09:44 | Inbox | EXTERN
+De la: achizitii_um01829 <achizitii_um01829@roaf.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Re: PROGRAMARE INTERVENTIE
+Bună ziua!
+
+Suntem de acord cu oferta dumneavoatră și vă rugăm să postați în SEAP cu denumirea de „Serviciu mentenanta preventiva si corectiva - statie de clorinare”, iar la descriere sa treceti operatiunile din oferta, inclusiv manopera și apoi să-mi trimiteți nr.
+de referință pentru a iniția comanda.
+
+Va mulțumesc!!
+
+--- MESAJ m2158020 | 2026-09-15 11:10 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: achizitii_um01829 <achizitii_um01829@roaf.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: PROGRAMARE INTERVENTIE
+Buna ziua ,
+
+Va multumim pentru comanda!
+
+Interventia a fost postata in catalogul electronic SICAP. Va rog sa regasiti anexate informatiile necesare pentru achizitie.
+
+Asteptam demararea procedurii!
+
+O zi cu spor!
+[ATAȘAMENT: image.png | imagine]
+
+--- MESAJ m2162884 | 2026-10-02 13:09 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: achizitii_um01829 <achizitii_um01829@roaf.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: PROGRAMARE INTERVENTIE - Reabilitare - 06.010.2026
+Buna ziua,
+
+Conform discutiei telefonice, va informam ca in data de 06.10.2026 – s-a programat interventia de reabilitare a statiei de tratare.
+
+Colegul de service coordonator : Laszlo Karoly: 0740561592.
+
+Pana luni voi trimite detaliile colegilor de service [ copie buletine si nr auto] – pentru access.
+
+O zi cu spor!
+
+--- MESAJ m2163044 | 2026-10-02 14:18 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: achizitii_um01829 <achizitii_um01829@roaf.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: PROGRAMARE INTERVENTIE - Reabilitare - 06.010.2026
+Buna ziua,
+Va trimitem anexate copii dupa buletinele colegilor de service.
+
+Masina cu care vor ajunge in locatie, are numarul de inmatriculare BV-93-ECO
+
+O zi cu spor!
+[ATAȘAMENT: WhatsApp Image 2026-10-02 at 14.02.43.jpeg | imagine]
+[ATAȘAMENT: WhatsApp Image 2026-10-02 at 14.01.21.jpeg | imagine]
+[ATAȘAMENT: CI LASZLO KAROLY.pdf | PDF fără text (scanat)]
+
+--- MESAJ m2165060 | 2026-10-07 16:14 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: achizitii_um01829 <achizitii_um01829@roaf.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Finalizare interventie de reabilitare statie
+Buna ziua,
+
+Va informam ca interventia de reabilitare a statiei de tratare s-a finalizat cu success in data de 06.10.2026.
+
+Va rog sa regasiti anexat procesul verbal de service.
+
+Colegii mei vor reveni cu un reply la acest e-mail in care vor anexa factura fiscala.
+
+Numai bine,
+[ATAȘAMENT: 2.0.F23 - Proces Verbal de service - UM01829 - 06.10.2026 - 2 din 3.jpeg | imagine]
+[ATAȘAMENT: 2.0.F23 - Proces Verbal de service - UM01829 - 06.10.2026 - 3 din 3.jpeg | imagine]
+[ATAȘAMENT: 2.0.F23 - Proces Verbal de service - UM01829 - 06.10.2026 - 1 din 3.jpeg | imagine]
+
+====================================================================================================
+CONVERSAȚIA c2115140 (nr. 332) | subiect: Solicitare Oferta Pret - POMPA HIPOCLORIT
+Partener (după adrese): catd.ro Achizitii CATD | grupare nesigură: nu
+
+--- MESAJ m2115140 | 2026-08-24 12:48 | Inbox | EXTERN
+De la: Achizitii CATD <achizitii@catd.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Solicitare Oferta Pret - POMPA HIPOCLORIT
+Entitatea
+Contractantă: Compania de Apă Târgoviște Dâmbovița SA cu sediul
+în Târgoviște, Bd. I.C. Brătianu nr. 50, jud. Dâmbovița, cod
+postal 130135, telefon 0245 614403, fax 0245 611774,
+înregistrată la Registrul Comerțului J1998000005152, cod fiscal
+RO 10084149, vă solicită ofertă de preț pentru următoarele
+repere:
+
+1. POMPA HIPOCLORIT MICRODOS ME1-I
+
+Cerințe:
+
+-Prețul ofertei va fi exprimat în lei, fără TVA;
+
+-Condiții de livrare: la sediul beneficiarului, fără costuri
+suplimentare
+
+-Condiții de plată: OP la maxim 30 de zile de la livrarea
+produselor și înregistrarea facturii
+
+-Termen transmitere ofertă : 5 zile calendaristice
+
+-Criteriul de atribuire: prețul cel mai scăzut aplicat ofertelor
+admisibile;
+
+În vederea inițierii achiziției, la solicitarea entității
+contractante, produsele/serviciile se vor posta în Catalogul
+SEAP
+
+Mulțumim anticipat pentru colaborare!
+
+Serviciul Achiziții Publice si Aprovizionare
+
+Expert Achizitii Publice
+
+Adriana Tudor
+
+Tel. 0729 830 777
+
+Compania de Apă Târgoviște Dâmbovița Bd. I.C.Brătianu, nr.50,
+cod postal 130055, Târgoviște, jud. Dâmbovița
+
+--- MESAJ m2151716 | 2026-08-24 13:20 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: Solicitare Oferta Pret - POMPA HIPOCLORIT
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Achizitii CATD <achizitii@catd.ro>
+Sent: Monday, August 24, 2026 12:49 PM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: Solicitare Oferta Pret - POMPA HIPOCLORIT
+
+Entitatea Contractantă: Compania de Apă Târgoviște Dâmbovița SA cu sediul în Târgoviște, Bd. I.C. Brătianu nr. 50, jud. Dâmbovița, cod postal 130135, telefon 0245 614403, fax 0245 611774, înregistrată la Registrul Comerțului J1998000005152, cod fiscal RO 10084149, vă solicită ofertă de preț pentru următoarele repere:
+
+1. POMPA HIPOCLORIT MICRODOS ME1-I
+
+Cerințe:
+-Prețul ofertei va fi exprimat în lei, fără TVA;
+-Condiții de livrare: la sediul beneficiarului, fără costuri suplimentare
+-Condiții de plată: OP la maxim 30 de zile de la livrarea produselor și înregistrarea facturii
+-Termen transmitere ofertă : 5 zile calendaristice
+-Criteriul de atribuire: prețul cel mai scăzut aplicat ofertelor admisibile;
+În vederea inițierii achiziției, la solicitarea entității contractante, produsele/serviciile se vor posta în Catalogul SEAP
+
+Mulțumim anticipat pentru colaborare!
+
+Serviciul Achiziții Publice si Aprovizionare
+
+Expert Achizitii Publice
+
+Adriana Tudor
+
+Tel. 0729 830 777
+
+Compania de Apă Târgoviște Dâmbovița Bd. I.C.Brătianu, nr.50, cod postal 130055, Târgoviște, jud. Dâmbovița
+
+--- MESAJ m2151812 | 2026-08-24 14:00 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Achizitii CATD <achizitii@catd.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Solicitare Oferta Pret - POMPA HIPOCLORIT
+Buna ziua Doamna Tudor,
+
+Va multumim pentru solicitarea dumneavoastra!
+
+Pompa MICRODOS ME1-I – Verder – nu face parte din portofoliul AKRO.
+
+Daca se accepta , va putem oferta o pompa echivalenta marca SEKO . – in cazul ME1-I – echivalenta SEKO este TPG800 [ poate doza 7L/h la o contrapresiune de 16 bar] , desi credem ca TPG603 ar fi la fel de potrivita daca vorbim de dozare a hipocloritului de sodiu pentru dezinfectie [ pompa poate doza cu debit de 4L/h – la o contrapresiune de 12 bar]
+
+Va las anexata si fisa tehnica pentru ambele pompe.
+
+Va rog sa ne transmiteti daca se accepta varianta alternativa, iar in caz afirmativ pentru care din cele doua modele doriti cotatie.
+
+Asteptam cu interes raspunsul dumneavoastra!
+
+Numai bine,
+[ATAȘAMENT: Fisa tehnica Tekna Evo TPG_RO.pdf | text extras]
+
+====================================================================================================
+CONVERSAȚIA c2151748 (nr. 333) | subiect: RE: Biofilm
+Partener (după adrese): cristian.balan@outlook.com Cristian Balan | grupare nesigură: nu
+
+--- MESAJ m2151748 | 2026-08-24 13:35 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Cristian Balan <cristian.balan@outlook.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Biofilm
+Buna ziua Dl Balan,
+Va multumim pentru solicitarea dumneavoastra!
+Din pacate nu avem disponibile in portofoliu produse de tipul solutii/chimicale .
+
+De asemenea va aducem in vedere ca firma AKRO activeaza in special in cazul instalatiilor industriale.
+
+Pentru orice alte intrebari sau informatii din domeniul tratarii apelor, va stam la dispozitie !
+Numai bine,
+
+Alexandru SOARE
+Manager tehnic | AKRO SRL
+
+(+40) 728 994472 | (+40) 268 413180
+alexandru.soare@akro.ro
+
+Strada Zizinului, Nr 110, Brașov, 500407, România
+www.akro.ro | contact@akro.ro | www.spectra.ro
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+-----Original Message-----
+From: Cristian Balan <cristian.balan@outlook.com>
+Sent: Monday, August 24, 2026 12:32 PM
+To: sales@akro.ro
+Subject: Biofilm
+
+Buna,
+
+Cristi Balan ma numesc,
+
+am un sistem de filtrare apa cu osmoza inversa compus din 5 filtre + rezervor 5L. Achizitionat de la Dedeman, Sistema 5 se numeste.
+Plec destul de des cate 1-2 saptamani de acasa si cand revin apa are un gust neplacut si observ biofilm la robinet. Am luat filtre de schimb dar as vrea sa curat cat de bine pot rezervorul de apa si conductele inainte sa le pun.
+Ma intereseaza o solutie de curatat sau hipoclorit de sodiu.
+
+Multumesc mult,
+
+Cristi Balan
+
+====================================================================================================
+CONVERSAȚIA c2151780 (nr. 334) | subiect: RE: sac filtrant dual layer
+Partener (după adrese): catoni.ro Andrei Gache | grupare nesigură: nu
+OFERTĂ S02717 v1 trimisă 2026-08-25 08:31 în m2151940 (Odoo: Ofertă trimisă): [01-011102] Sac filtrant multi layer WE25/5P2VWR - 25/5microni Termen livrare: 30 zile x50.0 buc; [16-003005] Livrare si ambalare x1.0 buc
+
+--- MESAJ m2151780 | 2026-08-24 13:49 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: andrei.gache@catoni.ro <andrei.gache@catoni.ro>
+Cc: andrei.dobrei@akro.ro, office@akro.ro
+Subiect: RE: sac filtrant dual layer
+Buna ziua,
+
+Va multumim pentru solicitarea dumneavoastra!
+
+Totul clar cu privire la dimensiunea sacului [ marimea 2] – cu inel de PP -probabil termosudat de material.
+
+Nu cunosc in schimb, la ce faceti referire cand solicitati ca sacul sa fie “dublu layer” . Va referiti ca sacul este compus practic din 2 straturi din panza de pp [ una de 25 microni si cealalta de 5 microni?]
+
+Din ce cunosc, nu se poate confectiona acest tip de sac dat fiind ca el va lucra ca si un sac de 5 microni dar mult mai slab calitativ.
+
+Daca ati achizitionat in trecut astfel de saci, ne puteti transmite un cod de produs sa intrebam pentru o echivalenta la producator?
+
+Firma AKRO este unic distribuitor de saci filtranti marca Allied Filters [ Cleanova] – UK. Comenzile pentru produse de tip sac filtrant sunt procesate doar la comanda – [comanda minima standard 50 saci] iar termenul de livrare standard este de 30 de zile de la comanda.
+
+Asteptam cu interes detaliile de produs pe care le cautati!
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: APP_NAME <no-reply@akro.ro>
+Sent: Monday, August 24, 2026 12:37 PM
+To: sales@akro.ro
+Subject: sac filtrant dual layer
+
+Un nou mesaj a fost trimis de pe site:
+
+Nume complet: Gache Andrei
+Nume companie: Catoni And Co Romania
+Numar de telefon: 0724565784
+Adresa de email: andrei.gache@catoni.ro
+Mesaj: 30 buc - sac filtrant dual layer / multistrat 25/5 micron=, size 2, PP felt, inel polipropilena
+
+UTM Parameters: {"utm_campaign":"","utm_=ource":"","utm_medium":"","utm_term":"","utm=5Fcontent":"","gclid":"","gad_source":"","gad_=ampaignid":"","gbraid":""}
+
+APP_COPYRIGHT
+
+--- MESAJ m2115172 | 2026-08-24 14:09 | Inbox | EXTERN
+De la: Andrei Gache <andrei.gache@catoni.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: andrei.dobrei@akro.ro, office@akro.ro
+Subiect: RE: sac filtrant dual layer
+Buna ziua,
+
+Da, este un sac in 2 straturi
+
+BAG, BAG FILTER, #2, DUAL LAYER 25/5 MIC
+
+PN GM-41102-BAG-25/5
+
+MFG RECOVERED ENERGY INC
+
+Va multumesc,
+
+Andrei Gache
+
+CATONI AND CO. ROMANIA S.R.L.
+
+232 Mamaia Blvd., Bl. LR, Ap. 8, 900546 Constanta
+
+Mob: +40724 56 57 84
+
+Website: www.catoni.com.tr
+
+--- MESAJ m2151876 | 2026-08-24 14:20 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Andrei Gache <andrei.gache@catoni.ro>
+Cc: andrei.dobrei@akro.ro, office@akro.ro
+Subiect: RE: sac filtrant dual layer
+Buna ziua,
+
+Va multumesc pentru informatiile furnizate!
+
+Am scris la producator si revin cu un raspuns in cel mai scurt timp in aceasta directie !
+
+Cu respect,
+
+--- MESAJ m2151940 | 2026-08-25 08:31 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Andrei Gache <andrei.gache@catoni.ro>
+Cc: andrei.dobrei@akro.ro, office@akro.ro
+Subiect: RE: sac filtrant dual layer
+Buna ziua,
+
+Va trimitem anexata cotatia de pret pentru sacii solicitati.
+
+Comanda minima acceptata pentru acest produs este de 50 bucati.
+
+Asteptam cu interes raspunsul dumneavoastra!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02717- CATONI AND CO ROMANIA - 25.08.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2115300 | 2026-08-25 08:43 | Inbox | EXTERN
+De la: Andrei Gache <andrei.gache@catoni.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: andrei.dobrei@akro.ro, office@akro.ro
+Subiect: RE: sac filtrant dual layer
+Buna ziua,
+
+Am transmis oferta colegilor si voi reveni cu raspunsul lor in cel mai scurt timp posibil,
+
+Va multumesc.
+
+Andrei Gache
+
+CATONI AND CO. ROMANIA S.R.L.
+
+232 Mamaia Blvd., Bl. LR, Ap. 8, 900546 Constanta
+
+Mob: +40724 56 57 84
+
+Website: www.catoni.com.tr
+
+====================================================================================================
+CONVERSAȚIA c2151844 (nr. 335) | subiect: Equivalence for filter bags
+Partener (după adrese): cleanova.com Catherine Challal | grupare nesigură: da
+
+--- MESAJ m2151844 | 2026-08-24 14:16 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Catherine Challal <catherine.challal@cleanova.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Equivalence for filter bags
+Dear Catherine,
+
+I hope this e-mail finds you well!
+
+We have a possible client for 50 bags size 2 – with pp ring and felt material , but he’s asking for a double layer material [ one 25 microns, the other 5 microns] .
+
+Bellow you may find the details I have
+
+BAG, BAG FILTER, #2, DUAL LAYER 25/5 MIC
+
+PN GM-41102-BAG-25/5
+
+MFG RECOVERED ENERGY INC
+
+Do we have such product and please let me know a unit price if the answer is yes.
+
+Looking forward for your response!
+
+With kind regards,
+
+--- MESAJ m2115268 | 2026-08-24 17:53 | Inbox | EXTERN
+De la: Catherine Challal <catherine.challal@cleanova.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Equivalence for filter bags
+Good afternoon Alexandru,
+
+I am fine thanks and hope it’s the same for you.
+
+Yes we can manufacture multi layers bags.
+
+In this case our article code is: WE25/5P2VWR (Fully welded multi layer bags (one 25 micron and one 5 micron ) Polypropylene felt, size 2, with welseal PP ring).
+
+Your price for this bag is: €8.99 exwork Manchester
+
+The lead time is: 14-16 working days
+
+Do not hesitate to contact me if you have any question.
+
+Have a nice day
+
+Best regards
+
+Catherine
+
+Catherine Challal
+|
+Export Sales Manager
+
+Cleanova | Allied Filter Systems Limited
+
+Huntsman Drive, Northbank Industrial Park, Irlam, Manchester, M445EG
+
+Catherine.Challal@cleanova.com
+
+www.cleanova.com
+
+www.alliedfilter.co.uk
+
+====================================================================================================
+CONVERSAȚIA c2151908 (nr. 336) | subiect: RE: Cerere oferta
+Partener (după adrese): ship-supply.ro iBB Supply and Services | grupare nesigură: nu
+OFERTĂ S02716 v1 trimisă 2026-08-25 08:29 în m2151908 (Odoo: Ofertă trimisă): [01-011102] Sac filtrant multi layer WE25/5P2VWR - 25/5microni Termen livrare: 30 zile x50.0 buc; [16-003005] Livrare si ambalare x1.0 buc
+OFERTĂ S02716 v1 trimisă 2026-09-07 10:09 în m2155620 (Odoo: Ofertă trimisă): [01-011102] Sac filtrant multi layer WE25/5P2VWR - 25/5microni Termen livrare: 30 zile x50.0 buc; [16-003005] Livrare si ambalare x1.0 buc
+
+--- MESAJ m2151908 | 2026-08-25 08:29 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: iBB Supply and Services <office@ship-supply.ro>
+Cc: andrei.dobrei@akro.ro, office@akro.ro
+Subiect: RE: Cerere oferta
+Buna ziua,
+
+Va trimitem anexata cotatia de pret pentru sacii solicitati.
+
+Comanda minima acceptata pentru acest produs este de 50 bucati.
+
+Asteptam cu interes raspunsul dumneavoastra!
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: iBB Supply and Services <office@ship-supply.ro>
+Sent: Monday, August 24, 2026 3:57 PM
+To: sales@akro.ro
+Subject: Cerere oferta
+
+Buna ziua,
+
+Va rog sa ne transmiteti oferta dumneavoastra pentru:
+
+30 PCS BAG, BAG FILTER, #2, DUAL LAYER 25/5 MIC PN GM-41102-BAG-25/5 MFG RECOVERED ENERGY INC
+
+Va multumesc,
+
+Ana Imparatu
+
+--
+
+.
+
+.
+
+This message has been sent as a part of discussion between iBB Supply and Services and the addressee whose name is specified above. Should you receive this message by mistake, we would be most grateful if you informed us that the message has been sent to you. In this case, we also ask that you delete this message from your mailbox, and do not forward it or any part of it to anyone else. Thank you for your cooperation and understanding.
+[ATAȘAMENT: Oferta - S02716 - IBB SUPPLY AND SERVICES - 25.08.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2155620 | 2026-09-07 10:09 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: iBB Supply and Services <office@ship-supply.ro>
+Cc: andrei.dobrei@akro.ro, office@akro.ro
+Subiect: RE: Cerere oferta
+Buna ziua,
+
+Pentru evidentele interne ne puteti transmite un feedback cu privire la oferta de pret anexata ? [ saci marimea 2 Dual layer – 25/5 microni]
+
+Asteptam cu interes raspunsul dumneavoastra!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02716 - IBB SUPPLY AND SERVICES - 25.08.2026.pdf | ofertă Odoo, parsată mai sus]
+
+====================================================================================================
+CONVERSAȚIA c2151972 (nr. 337) | subiect: RE: Cerere de ofertă DNK-010-16 – Stație de tratare și dezinfectare ape uzate medicale
+Partener (după adrese): luzconstruct.ro Petru Rumega | grupare nesigură: nu
+
+--- MESAJ m2151972 | 2026-08-25 08:47 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Petru Rumega <petru.rumega@luzconstruct.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Cerere de ofertă DNK-010-16 – Stație de tratare și dezinfectare ape uzate medicale
+Buna ziua,
+
+Firma AKRO nu activeaza in tratarea apelor uzate, prin urmare nu va putem prezenta o propunere in aceasta directie.
+
+Suntem specializati in tot tratarea apelor primare cu scop de potabilizare sau obtinere ape tehnice.
+
+Pentru orice alte intrebari din domeniul tratarii apelor, va stam cu placere la dispozitie!
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Petru Rumega <petru.rumega@luzconstruct.ro>
+Sent: Tuesday, August 25, 2026 8:41 AM
+To: terradinamic@gmail.com
+Subject: Cerere de ofertă DNK-010-16 – Stație de tratare și dezinfectare ape uzate medicale
+
+Stimate Domnule / Stimată Doamnă,
+
+Prin prezenta, vă rugăm să ne transmiteți o ofertă de preț și termenul de livrare pentru o stație compactă de tratare și dezinfectare a apelor uzate medicale (sau componentele aferente), destinată unei clinici dentare.
+
+Cerințe și specificații tehnice:
+
+Debit de procesare: 3 m³/zi (funcționare în flux continuu)
+
+Gabarit maxim disponibil: L = 4,0 m × l = 2,0 m × H = 2,0 m
+
+Putere electrică maximă consumată: 4 kW (alimentare 230V / 400V)
+
+Temperatura mediului de lucru: +5°C
+
+Calitate apă evacuată: Conform normativ NTPA 002/2002 (deversare în rețeaua publică)
+
+Configurație tehnologică / Echipamente incluse:
+
+Bazin sterilizare cu Ozon: Ø 800 mm, H 1000 mm (1 buc) + Generator ozon (capacitate 8 g/h)
+
+Bazin sterilizare cu UV: Ø 800 mm, H 1000 mm (1 buc) + Lămpi UV imersate (2 buc)
+
+Bazin sterilizare cu Clor: Ø 800 mm, H 1000 mm (1 buc)
+
+Sistem dozare NaClO: Rezervor stocare 20 L + Pompă dozatoare hipoclorit ($Q_{\text{max}} = 8\text{ l/h}$)
+
+Pompe recirculare/transvazare: Rezistente la medii oxidante (3 buc)
+
+Automatizare: Tablou electric complet de comandă și control
+
+Auxiliare: Set complet de montaj și racordare
+
+Vă rugăm să ne precizați în ofertă:
+
+Prețul unitar (fără TVA) și condițiile de plată
+
+Termenul de livrare și garanția oferită
+
+Asistența la montaj / punere în funcțiune (dacă este inclusă)
+
+Așteptăm răspunsul dumneavoastră pe această adresă de e-mail.
+
+Vă mulțumim!
+
+Cu stimă,
+
+--
+
+Petru Rumega
+
+Manager de Proiect
+
++40 775 382 796
+
+petru.rumega@luzconstruct.ro
+
+Building Value. Building Legacy.
+
+====================================================================================================
+CONVERSAȚIA c2115332 (nr. 338) | subiect: Modul separare -filtrare particule solide
+Partener (după adrese): icpebn.ro Sorin Ulinici | grupare nesigură: nu
+
+--- MESAJ m2115332 | 2026-08-25 12:26 | Inbox | EXTERN
+De la: Sorin Ulinici <sorin_ulinici@icpebn.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Modul separare -filtrare particule solide
+Salut Alexandru,
+
+Acum mai multa veme discutasem cu voi in legatura cu sisteme de
+separare mecanica, cred ca la momentul respectiv era vorba de ceva
+sisteme dedicate pentru irigatii (daca imi aduc aminte..)
+
+Am o problema la un sistem semidomestic, acasa la unul din
+colaboratorii nostri , unde are un filtru cu pirolusita sub
+presiune de 16" alimentat cu apa dintr-un foraj, utilizat pentru
+apa de spalat caile de acces (dale cu pretentii...) si gazon (apa
+din foraj are continut ridicat de Fe, pentru declorinare are si un
+filtru CAG dupa pirolusita)
+
+Problema consta in faptul ca particulele solide antrenate din
+foraj infunda fantele crepinei superioare (0.4 mm cred ) si
+presiunea pe filtru creste mult, cu scaderea debitului, chiar si
+dupa spalari succesive. Am desfacut filtrul si colegul meu a
+gasit particule "indesate" in sectiunea fantei.
+
+Puteti recomannda o varianta de filtru cu ciclon, care sa poata
+functiona la debit emici de 0,8-1,2 mc/ h, pentru separarea
+particulelor solide ?
+
+Dupa unitatea cu ciclon as vrea sa pun si un filtru cu cartus
+detasabil.
+
+Multumesc.
+
+--
+Sorin ULINICI
+S.C. ICPE Bistrita S.A.
+Manager produs- Tehnologii si statii de tratare apa potabila
+www.icpebn.ro
+
+sorin_ulinici@icpebn.ro
+Tel.0263210938/0263210747
+Mobil: 0723-151451
+
+--- MESAJ m2152068 | 2026-08-25 13:41 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Sorin Ulinici <sorin_ulinici@icpebn.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Modul separare -filtrare particule solide
+Salutare Sorin,
+
+Variante de filtre cu spalare automata asa de mici nu avem in portofoliu.
+
+Problema este ca daca crepina actuala se infunda rapid tind sa cred ca este o turbiditate > 20 NTU in apa [ sau ceva particule mari sunt antrenate de pompa [ adica pompa este supradimensionata sau pozitionata gresit].
+
+Oricum ar fi sunt doua solutii pe care le pot recomanda , sa fie si intr-un buget nu foarte ridicat:
+
+1 – sa faceti o linistire inainte de alimentarea filtrelor [un decantor] - [ asa se asigura si o mai buna oxidare a fierului/manganului iar particulele mari ar trebui sa ramana la fundul vasului.
+
+Eventual sa montati un filtru cu purjare manuala si ceva element filtrant lavabil. Noi lucram cu CINTROPUR – si as recomanda un filtru NW400 [ pentru suprafata mai mare, echipat cu membrana de 150 sau 300 microni. La acest filtru exista si purjare manuala.
+
+Eventual daca se doreste o automatizare se poate monta o electrovana de ½” cu timer pe aceasta purjare dar nu avem astfel de produs in stoc .
+
+Fisa tehnica NW400 - https://akro.ro/public/fise/282-Fisa_tehnica_Filtru_mecanic_sedimente_NW280-340-400.pdf
+
+Pret Filtru NW400 - pentru ICPE - complet echipat - 270 euro fara TVA
+
+Carcasa de filtru – cu 2 o-ladnezi de 1.5” ,
+
+2 manometre
+
+Consola de prindere
+
+Cheie
+
+Cartus din PP dur – echipat cu membrana 300 microni sau 150 [ la cerere]
+
+Doar ca momentan nu avem in stoc – estimam reaprovizionarea in 2-3 saptamani.
+
+Cu respect,
+
+--- MESAJ m2115492 | 2026-08-25 14:41 | Inbox | EXTERN
+De la: Sorin Ulinici <sorin_ulinici@icpebn.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Re: Modul separare -filtrare particule solide
+Salut Alexandru,
+
+Multumesc de sfat. De sistem de
+decantare nu poate fi vorba, insa am sa incerc pentru inceput sa
+le recomand sa incerece repozitionarea pompei in put.
+
+Sorin
+
+====================================================================================================
+CONVERSAȚIA c2115460 (nr. 339) | subiect: Cerere oferta filtru 10µ 40 inch / C-da La Fantana Bucuresti 25.08.2026 - filtre 1µ
+Partener (după adrese): lafantana.ro Catalin Bobe, Daniel Preda | grupare nesigură: nu
+OFERTĂ S02721 v1 trimisă 2026-08-25 15:08 în m2152228 (Odoo: Comandă de vânzare): [01-010260] Cartus filtrant PRM10TX4C8S x14.0 buc; [16-003005] Livrare si ambalare x1.0 buc
+
+--- MESAJ m2115460 | 2026-08-25 14:24 | Inbox | EXTERN
+De la: Catalin Bobe <catalin.bobe@lafantana.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, daniel.preda@lafantana.ro
+Subiect: Cerere oferta filtru 10µ 40 inch / C-da La Fantana Bucuresti 25.08.2026 - filtre 1µ
+Va salut, dle Soare,
+
+Sper ca sunteti bine. Dorim sa plasam o comanda pentru cate un set de filtre de 1µ, de 30 si 40 inch
+
+SFM1K3P7S = 18 buc (30 inch)
+
+PRM1TX4C8S
+= 12 buc (40 inch)
+
+Aveti cumva in catalog si filtre de 10µ de 40 inch? Daca da va rugam sa ne trimiteti o oferta de pret.
+😊
+
+Multumesc,
+
+Catalin Bobe
+
+Inginer Productie Bucuresti
+
++(40) 740235521
+
+catalin.bobe@lafantana.ro
+
+Bvd. Gării Obor 8C, Sector 2 București, România
+
++(40)212007200
+
+lafantana.ro
+
+--- MESAJ m2152132 | 2026-08-25 14:31 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: Cerere oferta filtru 10µ 40 inch / C-da La Fantana Bucuresti 25.08.2026 - filtre 1µ
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Catalin Bobe <catalin.bobe@lafantana.ro>
+Sent: Tuesday, August 25, 2026 2:24 PM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: 'Akro Filtrare' <office@akro.ro>; Daniel Preda <daniel.preda@lafantana.ro>
+Subject: Cerere oferta filtru 10µ 40 inch / C-da La Fantana Bucuresti 25.08.2026 - filtre 1µ
+
+Va salut, dle Soare,
+
+Sper ca sunteti bine. Dorim sa plasam o comanda pentru cate un set de filtre de 1µ, de 30 si 40 inch
+
+SFM1K3P7S = 18 buc (30 inch)
+
+PRM1TX4C8S = 12 buc (40 inch)
+
+Aveti cumva in catalog si filtre de 10µ de 40 inch? Daca da va rugam sa ne trimiteti o oferta de pret. 😊
+
+Multumesc,
+
+Catalin Bobe
+
+Inginer Productie Bucuresti
+
++(40) 740235521
+
+catalin.bobe@lafantana.ro
+
+Bvd. Gării Obor 8C, Sector 2 București, România
+
++(40)212007200
+
+lafantana.ro
+
+--- MESAJ m2152164 | 2026-08-25 14:38 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Catalin Bobe <catalin.bobe@lafantana.ro>
+Cc: office@akro.ro, daniel.preda@lafantana.ro
+Subiect: RE: Cerere oferta filtru 10µ 40 inch / C-da La Fantana Bucuresti 25.08.2026 - filtre 1µ
+Buna ziua Dl Catalin,
+
+Va multumim pentru comanda!
+
+Va rog sa regasiti anexata confirmarea de comanda pentru cartusele obisnuite .
+
+Referitor la solicitarea dumneavoastra, desigur avem orice tip de cartus si la dimensiune de 40”
+
+Oare ce tip de prindere doriti la acestea, si unde il utilizati? [ doriti sa fie pliat [ SFM sau MELT Blown – ca cele de 1micron la 40”]
+
+Cu respect,
+[ATAȘAMENT: Comanda - S02720 - LA FANTANA - 25.08.2026.pdf | text extras]
+
+--- MESAJ m2152228 | 2026-08-25 15:08 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Catalin Bobe <catalin.bobe@lafantana.ro>
+Cc: office@akro.ro, daniel.preda@lafantana.ro
+Subiect: RE: Cerere oferta filtru 10µ 40 inch / C-da La Fantana Bucuresti 25.08.2026 - filtre 1µ
+Buna ziua Dl Catalin,
+
+Conform discutiei telefonice va trimitem anexata cotatia de pret pentru doua seturi de cartuse de 10 microni [ melt blown] pentru ultima carcasa achizitionata in 2025.
+
+Carcasa cumparata in iulie 2025 – este model MVB7S4D65C8L:
+
+Primeste 7 x cartuse de 40” cu prindere C8S
+
+Are racord – in/out D65 [ Din 11851 ]
+
+Carcasa s-a livrat initial cu cartuse de 1 micron.
+
+Pentru orice alte informatii sau intrebari, va stau cu placere la dispozitie!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02721 - LA FANTANA - Cartuse 10 microni - 40 prindere C8S.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2115652 | 2026-08-25 15:11 | Inbox | EXTERN
+De la: Catalin Bobe <catalin.bobe@lafantana.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, daniel.preda@lafantana.ro
+Subiect: RE: Cerere oferta filtru 10µ 40 inch / C-da La Fantana Bucuresti 25.08.2026 - filtre 1µ
+Buna ziua, dle Alexandru,
+
+Multumim pentru oferta si informatii, analizam si revenim catre dumneavoastra.
+
+Cu stima,
+
+Catalin Bobe
+
+Inginer Productie Bucuresti
+
++(40) 740235521
+
+catalin.bobe@lafantana.ro
+
+Bvd. Gării Obor 8C, Sector 2 București, România
+
++(40)212007200
+
+lafantana.ro
+
+--- MESAJ m2116772 | 2026-08-28 10:11 | Inbox | EXTERN
+De la: Catalin Bobe <catalin.bobe@lafantana.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: daniel.preda@lafantana.ro
+Subiect: FW: Cerere oferta filtru 10µ 40 inch / C-da La Fantana Bucuresti 25.08.2026 - filtre 1µ
+Buna ziua, dle Soare,
+
+Aceptam oferta dvs pentru 2 x seturi cartuse de 10 microni - pentru carcasa MVB7S4D65C8L.
+
+Va multumesc si toate cele bune!
+
+Catalin Bobe
+
+Inginer Productie Bucuresti
+
++(40) 740235521
+
+catalin.bobe@lafantana.ro
+
+Bvd. Gării Obor 8C, Sector 2 București, România
+
++(40)212007200
+
+lafantana.ro
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+
+Sent: Tuesday, August 25, 2026 3:09 PM
+
+To: Catalin Bobe <catalin.bobe@lafantana.ro>
+
+Cc: 'Akro Filtrare' <office@akro.ro>; Daniel Preda <daniel.preda@lafantana.ro>
+
+Subject: RE: Cerere oferta filtru 10µ 40 inch / C-da La Fantana Bucuresti 25.08.2026 - filtre 1µ
+
+Buna ziua Dl Catalin,
+
+Conform discutiei telefonice va trimitem anexata cotatia de pret pentru doua seturi de cartuse de 10 microni [ melt blown] pentru ultima carcasa achizitionata in 2025.
+
+Carcasa cumparata in iulie 2025 – este model MVB7S4D65C8L:
+
+Primeste 7 x cartuse de 40” cu prindere C8S
+
+Are racord – in/out D65 [ Din 11851 ]
+
+Carcasa s-a livrat initial cu cartuse de 1 micron.
+
+Pentru orice alte informatii sau intrebari, va stau cu placere la dispozitie!
+
+Numai bine,
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+
+Sent: Tuesday, August 25, 2026 2:38 PM
+
+To: 'Catalin Bobe' <catalin.bobe@lafantana.ro>
+
+Cc: 'Akro Filtrare' <office@akro.ro>; 'Daniel Preda' <daniel.preda@lafantana.ro>
+
+Subject: RE: Cerere oferta filtru 10µ 40 inch / C-da La Fantana Bucuresti 25.08.2026 - filtre 1µ
+
+Buna ziua Dl Catalin,
+
+Va multumim pentru comanda!
+
+Va rog sa regasiti anexata confirmarea de comanda pentru cartusele obisnuite .
+
+Referitor la solicitarea dumneavoastra, desigur avem orice tip de cartus si la dimensiune de 40”
+
+Oare ce tip de prindere doriti la acestea, si unde il utilizati? [ doriti sa fie pliat [ SFM sau MELT Blown – ca cele de 1micron la 40”]
+
+Cu respect,
+
+From: Catalin Bobe <catalin.bobe@lafantana.ro>
+
+Sent: Tuesday, August 25, 2026 2:24 PM
+
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+
+Cc: 'Akro Filtrare' <office@akro.ro>; Daniel Preda <daniel.preda@lafantana.ro>
+
+Subject: Cerere oferta filtru 10µ 40 inch / C-da La Fantana Bucuresti 25.08.2026 - filtre 1µ
+
+Va salut, dle Soare,
+
+Sper ca sunteti bine. Dorim sa plasam o comanda pentru cate un set de filtre de 1µ, de 30 si 40 inch
+
+SFM1K3P7S = 18 buc (30 inch)
+
+PRM1TX4C8S
+= 12 buc (40 inch)
+
+Aveti cumva in catalog si filtre de 10µ de 40 inch? Daca da va rugam sa ne trimiteti o oferta de pret.
+😊
+
+Multumesc,
+
+Catalin Bobe
+
+Inginer Productie Bucuresti
+
++(40) 740235521
+
+catalin.bobe@lafantana.ro
+
+Bvd. Gării Obor 8C, Sector 2 București, România
+
++(40)212007200
+
+lafantana.ro
+
+CAUTION: This email originated from outside the organization. Do not click links or open attachments
+unless you recognize the sender and know the content is safe.
+
+ATENTIE: Acest e-mail este expediat din afara organizatiei. Nu dați click pe linkuri și nu deschideți
+fișierele care pot însoți mesajul decât dacă recunoașteți expeditorul și aveți încredere în siguranța conținutului.
+[ATAȘAMENT: Oferta - S02721 - LA FANTANA - Cartuse 10 microni - 40 prindere C8S.pdf | text extras]
+AKRO SRL
+RO14205979
+J2001000977088
+
+Furnizor Client:
+AKRO SRL LA FANTANA S.R.L., Catalin Bobe
+Str. Zizinului Nr. 110 B-dul Gării Obor nr. 8C
+Brașov BV 500407 Sector2 B
+România România
+VAT: RO14205979 TVA: RO50455254
+
+În atenția
+Catalin Bobe, catalin.bobe@lafantana.ro
+Phone: +40 740 235 521
+
+Oferta S02721
+Data ofertă: Expiră: Agent de vânzări:
+25.08.2026 24.09.2026 Alexandru Soare , +40 268 413 180
+
+DESCRIERE CANTITATE P.U. DISC.% SUMĂ
+
+[01-010260] Cartus filtrant PRM10TX4C8S 14,00 buc 28,15 20,00 315,28 €
+
+[16-003005] Livrare si ambalare 1,00 buc 7,76 0,00 7,76 €
+
+Valoare fără taxe 323,04 €
+
+TVA 21% 67,84 €
+
+Total 390,88 €
+
+Termeni:
+
+Modul de livrare: In sarcina Akro
+
+2 x seturi cartuse de 10 microni - pentru carcasa MVB7S4D65C8L - comandata in Iulie 2025
+
+Condiții de plată: 30 de zile
+
+Str. Zizinului Nr. 110; Brașov; Cod 500407; ROMANIA
+Tel: +40 268 413 180; E-mail: contact@akro.ro; http://www.akro.ro; www.kalyxx.ro; www.spectra.ro
+
+Pagina: 1 / 1
+
+--- MESAJ m2153316 | 2026-08-28 10:25 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Catalin Bobe <catalin.bobe@lafantana.ro>
+Cc: daniel.preda@lafantana.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Cerere oferta filtru 10µ 40 inch / C-da La Fantana Bucuresti 25.08.2026 - filtre 1µ
+Buna ziua,
+
+Va multumim pentru noua comanda!
+
+Va rog sa regasiti anexata confirmarea AKRO.
+
+Cu respect,
+[ATAȘAMENT: Comanda - S02721 - LA FANTANA - 28.08.2026.pdf | text extras]
+
+--- MESAJ m2161796 | 2026-09-29 10:04 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Catalin Bobe <catalin.bobe@lafantana.ro>
+Cc: daniel.preda@lafantana.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Cerere oferta filtru 10µ 40 inch / C-da La Fantana Bucuresti 25.08.2026 - filtre 1µ
+Buna ziua Dl Catalin,
+
+Va rog sa regasiti anexate cele doua avize aferente comenzilor dumneavoastra.
+
+Astazi vom incarca cele 3 colete la FAN CURIER si ar trebui sa ajunga la dumneavoastra in cursul zilei de maine.
+
+Colegii mei vor reveni cu facturile si actele de transport!
+
+O zi cu spor!
+[ATAȘAMENT: Operațiuni de ridicare - LA FANTANA - WH_OUT_01169.pdf | text extras]
+[ATAȘAMENT: Operațiuni de ridicare - LA FANTANA - WH_OUT_01179.pdf | text extras]
+
+--- MESAJ m2126948 | 2026-09-29 10:17 | Inbox | EXTERN
+De la: Catalin Bobe <catalin.bobe@lafantana.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: daniel.preda@lafantana.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Cerere oferta filtru 10µ 40 inch / C-da La Fantana Bucuresti 25.08.2026 - filtre 1µ
+Buna ziua,
+
+Multumesc frumos, dle Soare.
+
+Toate cele bune!
+
+Catalin Bobe
+
+Inginer Productie Bucuresti
+
++(40) 740235521
+
+catalin.bobe@lafantana.ro
+
+Bvd. Gării Obor 8C, Sector 2 București, România
+
++(40)212007200
+
+lafantana.ro
+
+--- MESAJ m2127044 | 2026-09-29 11:04 | Inbox | AKRO
+De la: andrei.dobrei@akro.ro <andrei.dobrei@akro.ro>
+Către: catalin.bobe@lafantana.ro <catalin.bobe@lafantana.ro>
+Cc: daniel.preda@lafantana.ro, alexandru.soare@akro.ro, office@akro.ro
+Subiect: FW: Cerere oferta filtru 10µ 40 inch / C-da La Fantana Bucuresti 25.08.2026 - filtre 1µ
+Buna ziua,
+
+Va rog sa regasiti in atasament AWB in vederea livrarii produselor catre dumneavoastra prin Fan Courier.
+
+Va multumim!
+
+Cu stima,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Tuesday, September 29, 2026 10:05 AM
+To: 'Catalin Bobe' <catalin.bobe@lafantana.ro>
+Cc: 'Daniel Preda' <daniel.preda@lafantana.ro>; office@akro.ro; andrei.dobrei@akro.ro
+Subject: RE: Cerere oferta filtru 10µ 40 inch / C-da La Fantana Bucuresti 25.08.2026 - filtre 1µ
+
+Buna ziua Dl Catalin,
+
+Va rog sa regasiti anexate cele doua avize aferente comenzilor dumneavoastra.
+
+Astazi vom incarca cele 3 colete la FAN CURIER si ar trebui sa ajunga la dumneavoastra in cursul zilei de maine.
+
+Colegii mei vor reveni cu facturile si actele de transport!
+
+O zi cu spor!
+
+From: Catalin Bobe <catalin.bobe@lafantana.ro>
+Sent: Friday, August 28, 2026 10:11 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: Daniel Preda <daniel.preda@lafantana.ro>
+Subject: FW: Cerere oferta filtru 10µ 40 inch / C-da La Fantana Bucuresti 25.08.2026 - filtre 1µ
+
+Buna ziua, dle Soare,
+
+Aceptam oferta dvs pentru 2 x seturi cartuse de 10 microni - pentru carcasa MVB7S4D65C8L.
+
+Va multumesc si toate cele bune!
+
+Catalin Bobe
+
+Inginer Productie Bucuresti
+
++(40) 740235521
+
+catalin.bobe@lafantana.ro
+
+Bvd. Gării Obor 8C, Sector 2 București, România
+
++(40)212007200
+
+lafantana.ro
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Tuesday, August 25, 2026 3:09 PM
+To: Catalin Bobe <catalin.bobe@lafantana.ro>
+Cc: 'Akro Filtrare' <office@akro.ro>; Daniel Preda <daniel.preda@lafantana.ro>
+Subject: RE: Cerere oferta filtru 10µ 40 inch / C-da La Fantana Bucuresti 25.08.2026 - filtre 1µ
+
+Buna ziua Dl Catalin,
+
+Conform discutiei telefonice va trimitem anexata cotatia de pret pentru doua seturi de cartuse de 10 microni [ melt blown] pentru ultima carcasa achizitionata in 2025.
+
+Carcasa cumparata in iulie 2025 – este model MVB7S4D65C8L:
+
+Primeste 7 x cartuse de 40” cu prindere C8S
+
+Are racord – in/out D65 [ Din 11851 ]
+
+Carcasa s-a livrat initial cu cartuse de 1 micron.
+
+Pentru orice alte informatii sau intrebari, va stau cu placere la dispozitie!
+
+Numai bine,
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Tuesday, August 25, 2026 2:38 PM
+To: 'Catalin Bobe' <catalin.bobe@lafantana.ro>
+Cc: 'Akro Filtrare' <office@akro.ro>; 'Daniel Preda' <daniel.preda@lafantana.ro>
+Subject: RE: Cerere oferta filtru 10µ 40 inch / C-da La Fantana Bucuresti 25.08.2026 - filtre 1µ
+
+Buna ziua Dl Catalin,
+
+Va multumim pentru comanda!
+
+Va rog sa regasiti anexata confirmarea de comanda pentru cartusele obisnuite .
+
+Referitor la solicitarea dumneavoastra, desigur avem orice tip de cartus si la dimensiune de 40”
+
+Oare ce tip de prindere doriti la acestea, si unde il utilizati? [ doriti sa fie pliat [ SFM sau MELT Blown – ca cele de 1micron la 40”]
+
+Cu respect,
+
+From: Catalin Bobe <catalin.bobe@lafantana.ro>
+Sent: Tuesday, August 25, 2026 2:24 PM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: 'Akro Filtrare' <office@akro.ro>; Daniel Preda <daniel.preda@lafantana.ro>
+Subject: Cerere oferta filtru 10µ 40 inch / C-da La Fantana Bucuresti 25.08.2026 - filtre 1µ
+
+Va salut, dle Soare,
+
+Sper ca sunteti bine. Dorim sa plasam o comanda pentru cate un set de filtre de 1µ, de 30 si 40 inch
+
+SFM1K3P7S = 18 buc (30 inch)
+
+PRM1TX4C8S = 12 buc (40 inch)
+
+Aveti cumva in catalog si filtre de 10µ de 40 inch? Daca da va rugam sa ne trimiteti o oferta de pret. 😊
+
+Multumesc,
+
+Catalin Bobe
+
+Inginer Productie Bucuresti
+
++(40) 740235521
+
+catalin.bobe@lafantana.ro
+
+Bvd. Gării Obor 8C, Sector 2 București, România
+
++(40)212007200
+
+lafantana.ro
+
+CAUTION: This email originated from outside the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+ATENTIE: Acest e-mail este expediat din afara organizatiei. Nu dați click pe linkuri și nu deschideți fișierele care pot însoți mesajul decât dacă recunoașteți expeditorul și aveți încredere în siguranța conținutului.
+[ATAȘAMENT: 7000169476847_LA FANTANA_29.09.2026.pdf | text extras]
+
+====================================================================================================
+CONVERSAȚIA c2152196 (nr. 340) | subiect: ORDER - P01424 - AKRO ROMANIA - 25.08.2026
+Partener (după adrese): filterflo.com  | grupare nesigură: nu
+
+--- MESAJ m2152196 | 2026-08-25 14:50 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: filterflo@filterflo.com <filterflo@filterflo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, lucia.bianchi@filterflo.com
+Subiect: ORDER - P01424 - AKRO ROMANIA - 25.08.2026
+Dears,
+
+Please find attached our order for :
+
+18 pcs – SFM1K3P7S cartridges
+
+12 pcs – PRM1TX4C8S
+
+I am looking forward in receiving the OC.
+
+With kind regards,
+[ATAȘAMENT: Comandă de achiziție - P01424 - FILTERFLO - 25.08.2026.pdf | text extras]
+
+====================================================================================================
+CONVERSAȚIA c2115620 (nr. 341) | subiect: CMR + Eticheta in vederea ridicarii marfii prin Pall-EX
+Partener (după adrese): begaminerale.ro Dorina Resteman | grupare nesigură: da
+
+--- MESAJ m2115620 | 2026-08-25 14:59 | Inbox | AKRO
+De la: andrei.dobrei@akro.ro <andrei.dobrei@akro.ro>
+Către: Dorina Resteman <dorina.resteman@begaminerale.ro>
+Cc: alexandru.soare@akro.ro, office@akro.ro
+Subiect: CMR + Eticheta in vederea ridicarii marfii prin Pall-EX
+Buna ziua,
+
+Vă rog să regăsiți atașate documentele necesare pentru ridicarea mărfii prin Pall-EX
+
+Va multumim!
+
+Cu stima,
+[ATAȘAMENT: BEGA MINERALE_25.08.2026_736959.pdf | text extras]
+[ATAȘAMENT: ETICHETA_BEGA MINERALE_25.08.2026_736959.pdf | text extras]
+
+--- MESAJ m2117412 | 2026-09-01 14:59 | Inbox | AKRO
+De la: andrei.dobrei@akro.ro <andrei.dobrei@akro.ro>
+Către: Dorina Resteman <dorina.resteman@begaminerale.ro>
+Cc: alexandru.soare@akro.ro, office@akro.ro
+Subiect: CMR + Eticheta in vederea ridicarii marfii prin Pall-EX
+Buna ziua,
+
+Vă rog să regăsiți atașate documentele necesare pentru ridicarea mărfii prin Pall-EX
+
+Va multumim!
+
+Cu stima,
+[ATAȘAMENT: Bega Minerale_01.09.2026_761698.pdf | text extras]
+[ATAȘAMENT: Bega Minerale_01.09.2026_761698.pdf | text extras]
+
+====================================================================================================
+CONVERSAȚIA c2152292 (nr. 342) | subiect: GDPR -SALFIN
+Partener (după adrese): laura.andreea.megelea@gmail.com Laura Megelea | grupare nesigură: nu
+
+--- MESAJ m2152292 | 2026-08-26 08:32 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Laura Megelea <laura.andreea.megelea@gmail.com>
+Cc: soare.alex.marian@gmail.com
+Subiect: GDPR -SALFIN
+
+[ATAȘAMENT: SAL_FIN - GDPR.pdf | PDF fără text (scanat)]
+
+====================================================================================================
+CONVERSAȚIA c2115844 (nr. 343) | subiect: R: Domestic water treatment - request for recommended filtration configuration
+Partener (după adrese): atlasfiltri.com Tatiana Iabanji, Backoffice Atlas Filtri Srl, Damiano Moro | grupare nesigură: nu
+
+--- MESAJ m2115844 | 2026-08-26 14:58 | Inbox | EXTERN
+De la: Tatiana Iabanji <tatiana.iabanji@atlasfiltri.com>
+Către: dan.teodorescu@akro.ro <dan.teodorescu@akro.ro>
+Cc: backoffice@atlasfiltri.com, contact@akro.ro, damiano.moro@atlasfiltri.com, paola.chieppa@atlasfiltri.com, alexandru.soare@akro.ro
+Subiect: R: Domestic water treatment - request for recommended filtration configuration
+Dear Dan,
+
+as per our phone conversation here below the 2 configurations:
+
+1st configuration: total 1.054,42 €
+
+1 pc x Pegasus 24 AVL double body:
+982,00 €
+
+Filters, accessories, and cartridges:
+72,42 €
+
+1 pc x RA112T711 Senior Duplex Plus 3P BFO SX TS (1”): 21,04 €
+
+1 pc x RB7400009 WALL BRACKET - D – BLU: 1,49 €
+
+1 pc x RB7403013 SPANNER "U": 0,88 €
+
+1 pc x RA5015114 RL 10 SX 50 mcr cartrdige (1st stage) : 4,18 €
+
+1 pc x RA5706511 CPP 10 SX 25 mcr cartrdige (2nd stage): 1,93 €
+
+1 pc x RE4050520 Dosaplus 7: 42,90 €
+
+2nd configuration: total 1.114,42 €
+
+1 pc x Pegasus 24 AVL cabinet:
+1.042,00 €
+
+Filters, accessories, and cartridges:
+72,42 €
+
+1 pc x RA112T711 Senior Duplex Plus 3P BFO SX TS (1”): 21,04 €
+
+1 pc x RB7400009 WALL BRACKET - D – BLU: 1,49 €
+
+1 pc x RB7403013 SPANNER "U": 0,88 €
+
+1 pc x RA5015114 RL 10 SX 50 mcr cartrdige (1st stage) : 4,18 €
+
+1 pc x RA5706511 CPP 10 SX 25 mcr cartrdige (2nd stage): 1,93 €
+
+1 pc x RE4050520 Dosaplus 7: 42,90 €
+
+For additional pictures and technical information, please check below links shared with you.
+
+Have a nice day!
+
+Kind regards / Cu stima / С уважением
+
+Tatiana Iabanji
+
+International Area Manager
+
+tatiana.iabanji@atlasfiltri.com
+| M +39 342 7544841
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ATLAS FILTRI S.r.l.
+
+via L. Pierobon 32, 35010 Limena (Italy) | T +39 049 769055 | F +39 049 769994
+
+www.atlasfiltri.com |
+Facebook
+|
+LinkedIn
+| YouTube
+| WeChat/AtlasFiltri
+
+Please consider the environment before printing this email
+
+Atlas Filtri è conforme al D.lgs. 24/2023 / whistleblowing
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+Da: Tatiana Iabanji
+
+Inviato: mercoledì 26 agosto 2026 12:54
+
+A: 'dan.teodorescu@akro.ro' <dan.teodorescu@akro.ro>
+
+Cc: Backoffice Atlas Filtri Srl <backoffice@atlasfiltri.com>; Aurel Caraș <contact@akro.ro>; Damiano Moro <damiano.moro@atlasfiltri.com>; Paola Chieppa <paola.chieppa@atlasfiltri.com>
+
+Oggetto: R: Domestic water treatment - request for recommended filtration configuration
+
+Dear Dan,
+
+Thank you for your patience.
+
+We just come back in the offices after 2 weeks of summer break and start processing all requests.
+
+Regarding your below request, we recommend below configuration:
+
+Duplex filter with RL 50 micron and CPP 25 micron cartridges
+
+Pegasus 24 AVL (cabinet or double body) or, for greater flow, a Pegasus 48.
+
+Considering that the Pegasus also removes hardness, we would also recommend installing a polyphosphate dispenser (our Dosaplus
+5-6-7).
+
+Kindly find enclosed the prices and below the datasheets:
+
+Senior Duplex housings:
+01_PLUS_SX.qxp_Layout 1
+
+RL cartridges:
+23_SEDIMENT_CARTRIDGES.qxp_Layout 1
+
+CPP cartridges:
+
+https://atlasfiltri.com/sites/default/files/prodotti/resources/CPP_SX.pdf
+
+Pegasus (check pages 30-31):
+IndEng_GeneralCatalogue23_1.pdf
+
+Dosaplus 5-6-7(check the last page):
+28_DOSAPLUS.qxp_Layout 1
+
+As always, please send your order to our Backoffice team.
+
+Kind regards / Cu stima / С уважением
+
+Tatiana Iabanji
+
+International Area Manager
+
+tatiana.iabanji@atlasfiltri.com
+| M +39 342 7544841
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ATLAS FILTRI S.r.l.
+
+via L. Pierobon 32, 35010 Limena (Italy) | T +39 049 769055 | F +39 049 769994
+
+www.atlasfiltri.com |
+Facebook
+|
+LinkedIn
+| YouTube
+| WeChat/AtlasFiltri
+
+Please consider the environment before printing this email
+
+Atlas Filtri è conforme al D.lgs. 24/2023 / whistleblowing
+
+Da:
+dan.teodorescu@akro.ro <dan.teodorescu@akro.ro>
+
+Inviato: Wednesday, 19 August 2026 13:26:31
+
+A: Backoffice Atlas Filtri Srl <backoffice@atlasfiltri.com>;
+Tatiana Iabanji <tatiana.iabanji@atlasfiltri.com>
+
+Oggetto: Domestic water treatment - request for recommended filtration configuration
+
+Questa è la prima volta che ricevi un'email da questo mittente. Assicurati che sia qualcuno di cui ti fidi.
+
+Dear Angela & Tatiana,
+
+I would like to ask for your technical recommendation for a domestic water treatment application.
+
+We have a customer with a
+new drilled well, supplying a private house for 3 people. The customer is looking for a water treatment solution including filtration and UV disinfection.
+
+I am attaching the
+original water analysis report for your reference. The report is in Romanian, so I have summarized the main parameters below:
+
+Water analysis results:
+
+pH:
+7.1
+
+Conductivity:
+682 µS/cm
+
+Hardness:
+18.7 °dH
+
+Iron (Fe):
+0.797 mg/L
+
+Manganese (Mn):
+0.596 mg/L
+
+Nitrates (NO3):
+<0.177 mg/L
+
+Nitrites (NO2):
+<0.041 mg/L
+
+Ammonium (NH4):
+0.130 mg/L
+
+E. coli:
+12 CFU/100 ml
+
+Coliform bacteria:
+21 CFU/100 ml
+
+Intestinal enterococci:
+48 CFU/100 ml
+
+The customer already has a
+water softener, but we do not yet have the exact model and specifications.
+
+Based on these results, we would appreciate your technical recommendation for the
+most suitable filtration and water treatment configuration for this application, particularly considering the elevated iron and manganese levels.
+
+Could you please advise us on:
+
+The recommended equipment for removing
+Fe = 0.797 mg/L and Mn = 0.596 mg/L at pH 7.1.
+
+Whether a dedicated
+iron/manganese filter is required, or whether these levels could potentially be handled by the existing water softener.
+
+The recommended filtration sequence and equipment.
+
+The appropriate filter size and media volume for a
+3-person domestic application supplied by a drilled well.
+
+Any additional water parameters or analysis you would require before selecting the equipment.
+
+Any specific pretreatment or operating conditions required for the recommended iron/manganese filtration system.
+
+Regardi
+[ATAȘAMENT: Akro-PEGASUS-SENIOR DUPLEX-RL-CPP-DOSAPLUS - PRICES - 2026 (ENG).pdf | text extras]
+CLIENT | CONTACT:
+
+Alexandru Soare alexandru.soare@akro.ro – Technical Manager
+Dan Teodorescu dan.teodorescu@akro.ro - Sales Engineer
+
+AKRO SRL
+Str. Zizinului, Nr. 110
+Cod: 500407
+Brasov
+ROMANIA
+Web: www.akro.ro
+
+DATE: 26/08/2026
+
+PRICES:
+
+Pegasus 24 AVL cabinet: 1.042,00 €/pc
+Pegasus 24 AVL double body: 982,00 €/pc
+Pegasus 48 AVL double body: 1.245,00 €/pc
+
+CODE ITEM SUITABLE IN/OUT EUR NET PCS X BOX
+CARTRIGE PRICE
+01-06-2026
+RB7400009 WALL BRACKET - D - BLU 100
+1,35 €
+RA112T411 Senior Duplex Plus 3P AFO SX TS 10" 3/4" 6
+18,98 €
+RA112T711 Senior Duplex Plus 3P BFO SX TS 10" 1" 6
+19,13 €
+RA5706511 CPP 10 SX 25 mcr 10" 50
+1,75 €
+RA5015114 RL 10 SX 50 mcr 10" 50
+3,80 €
+RE4050500 Dosaplus 5 3/4" 6
+67,30 €
+RE4050515 Dosaplus 6 1" 6
+67,90 €
+RE4050520 Dosaplus 7 3/4"-1" 6
+39,00 €
+
+SALE TERMS
+- Unit net price, EXW LIMENA, Italy
+- MOQ: full box; +10% for not full boxes
+- Price validity: December 2026
+- Other terms: as in use
+
+ATLAS FILTRI s.r.l.
+Headquarter: via Pierobon, 32 - Production site: via del Santo, 227
+35010 Limena (PD) Italy - Tel. +39 049 76 90 55 - Fax +39 049 76 99 94 - www.atlasfiltri.com
+REG. IMPR. PD - C.F. e P. IVA IT 02007430289 (VAT) - REA PD 195989 - N. Mecc. PD 008365 - Cap. Soc. € 500.000,00 i.v.
+Società soggetta all’attività di direzione e coordinamento da parte di Atlas Filtri Holding Srl.
+Nr. Iscrizione RAEE IT18090000010771
+
+--- MESAJ m2115876 | 2026-08-26 15:24 | Inbox | AKRO
+De la: dan.teodorescu@akro.ro <dan.teodorescu@akro.ro>
+Către: Tatiana Iabanji <tatiana.iabanji@atlasfiltri.com>
+Cc: backoffice@atlasfiltri.com, contact@akro.ro, damiano.moro@atlasfiltri.com, paola.chieppa@atlasfiltri.com, alexandru.soare@akro.ro
+Subiect: RE: Domestic water treatment - request for recommended filtration configuration
+Dear Tatiana,
+
+It was a pleasure speaking with you over the phone and discussing the requirements.
+
+I will review the proposal with our customer and will come back to you with an update as soon as we have further information and, hopefully, once we can move forward together with the project.
+
+Have a nice day!
+
+Kind regards,
+
+====================================================================================================
+CONVERSAȚIA c2152452 (nr. 344) | subiect: ORDERS P01380 & P01372
+Partener (după adrese): alamowaterpoland.com Dominik Mirowski, Alamo Water Poland | grupare nesigură: da
+
+--- MESAJ m2152452 | 2026-08-26 15:47 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Cc: alamo@alamowaterpoland.com, office@akro.ro
+Subiect: ORDERS P01380 & P01372
+Hello Dominik,
+
+Is there a chance the order P01380 to be ready for collection by the end of the week ? [ As you must receive the 21x62 missing tanks]
+
+Regarding order P01372 – I know that The Fabric from Italy just reopened after summer break on 24th August, but I am writing just to check if everything is fine with this order ] – Actually we are only waiting for this order to arrive in order to start the treatment plant in location.
+
+Looking forward for your response!
+
+Best regards,
+
+--- MESAJ m2115908 | 2026-08-26 15:58 | Inbox | EXTERN
+De la: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: alamo@alamowaterpoland.com, office@akro.ro
+Subiect: ODP: ORDERS P01380 & P01372
+Hello Alexandru,
+
+order P01372 - status pending - we are waiting for delivery of 24" tanks.
+
+order P01380 - will be ready till Friday (today we received 21" tanks)
+
+as soon as I receive packing details I will inform you accordingly.
+
+Pozdrawiam/Best regards,
+
+Dominik Mirowski
+
+Alamo Water Poland Sp. Z o.o.
+
+Ul. Gen. Tadeusza Kutrzeby 17
+
+05-082 Stare Babice, Poland
+
+T. +48 22 270 13 82
+
+dom@alamowaterpoland.com
+
+www.alamowaterpoland.com
+
+--- MESAJ m2152964 | 2026-08-27 13:57 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Cc: alamo@alamowaterpoland.com, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: ORDERS P01380 & P01372
+Excelent Dominik,
+
+Please let me know as soon as possible the dimensions of the pallets for order P01380 than.
+
+We need to arrange the transport!
+
+Thank you !
+
+BR,
+
+====================================================================================================
+CONVERSAȚIA c2152484 (nr. 345) | subiect: RE: AKRO :: Cerere oferta
+Partener (după adrese): gaby_cryss13@yahoo.com  | grupare nesigură: nu
+
+--- MESAJ m2152484 | 2026-08-26 16:05 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: gaby_cryss13@yahoo.com <gaby_cryss13@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: AKRO :: Cerere oferta
+Buna ziua Dl Anton,
+
+Va multumim pentru solicitarea dumneavoastra!
+
+Conform discutiei telefonice va trimit si in scris sa considerati un cost de 400 euro /tona de zeolit fara TVA – si fara transport!
+
+In mod normal big-bag-ul se incarca la 1200 kg
+
+Granulatiile disponibile :
+
+0.5-1.5mm
+
+1.5-3mm
+
+3-5mm
+
+Costul prin Pallex estimat – 60-70 euro
+
+Termenele de livrare – maxim 2 saptamani [ exclus perioada de iarna cand din cauza inghetului se inchide cariera]
+
+Pentru orice alte intrebari sau informatii , va stau cu placere la dispozitie!
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Akro <office@akro.ro>
+Sent: Wednesday, August 26, 2026 3:43 PM
+To: sales@akro.ro
+Subject: AKRO :: Cerere oferta
+
+O noua cerere a fost trimisa de pe site:
+
+Denumire produs: Zeolit
+Link produs: https://akro.ro/produse/produs/zeolit/
+
+Nume: Anton
+Prenume: Cristian
+Adresa de email: gaby_cryss13@yahoo.com
+Numar de telefon: 0762859160
+Cantitate: Bigbag
+Companie: Cardilater Fishing SRL
+Mesaj: Buna ziua. Ma intereseaza o oferta legata de pret pentru bigbag-ul de zeolit. Multumesc
+
+UTM Parameters: {"utm_campaign":"","utm_source":"chatgpt.com","utm_medium":"","utm_term":"","utm_content":"","gclid":"","gad_source":"","gad_campaignid":"","gbraid":""}
+
+Akro © 2026
+
+====================================================================================================
+CONVERSAȚIA c2115940 (nr. 346) | subiect: Ridica modul de la puscasu
+Partener (după adrese): -  | grupare nesigură: nu
+
+--- MESAJ m2115940 | 2026-08-26 17:31 | Inbox | AKRO
+De la: Alexandru Soare AKRO <alexandru.soare@akro.ro>
+Către: Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Ridica modul de la puscasu
+
+
+====================================================================================================
+CONVERSAȚIA c2115972 (nr. 347) | subiect: Re: AKRO :: Cerere oferta
+Partener (după adrese): rambellifabrizio@yahoo.it Fabrizio Rambelli | grupare nesigură: nu
+OFERTĂ S02725 v1 trimisă 2026-08-27 09:07 în m2152516 (Odoo: Ofertă trimisă): [13-001217] - FNC60 - Filtru cu nisip, 60L mediu filtrant, racord 1" - spalare volumetrica xNone ; [13-001272] FECM 50/V, Statie ecomix A - simplex, 50L mediu filtrant, racord 1" xNone ; [27-001155] Sistem UV apa_VIQUA VH410_Debit 3.2 m3/h_Doza UV 40 mJ/cm2_Putere 60 W_Racord 3/ xNone 
+
+--- MESAJ m2115972 | 2026-08-26 17:48 | Inbox | EXTERN
+De la: Fabrizio Rambelli <rambellifabrizio@yahoo.it>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Re: AKRO :: Cerere oferta
+Buna ziua,trebuie sa reluam discutii referitoare la sistem de mai jos.Rog sa tineti cont de analizele anexate si cei 2 noi parametri reluati si actualizati acum 3 saptamani.Multumesc.
+
+Rambelli Fabrizio
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+Il venerdì 12 dicembre 2025 alle ore 10:24:24 EET, AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro> ha scritto:
+
+Buna ziua,
+
+Va multumim pentru solicitarea dumneavoastra si pentru toate informatiile furnizate.
+
+Pentru aplicatia dumneavoastra recomandam urmatorul flux:
+
+Un filtru de nisip cu 60L – cu spalare volumetrica [ acesta este un produs optional dat fiind ca turbiditatea este usor crescuta] – fisa tehnica: https://akro.ro/public/fise/171-Fisa_tehnica_-_Filtre_cu_nisip_cuartos,_racord_1.pdf
+
+O statie cu rasina ecomix simplex – 50L – cu spalare volumetrica - https://akro.ro/public/fise/210-Fisa_tehnica_-_Statii_DEFERIZARE,_DEMANGANIZARE,_ELIMINARE_AMONIU_rasina_ecomix_-_simplex,_1.pdf
+
+Un sistem de dezinfectie apa cu lumina UV – Viqua VH410 – de 60W - https://www.spectra.ro/public/produse_files/viqua_dezinfectare-apa_spectra.pdf
+
+Oferta anexata include livrarea echipamentelor gata asamblate si presetate pe aplicatia client la beneficiar.
+
+Montajul si punerea in functiune nu sunt incluse in cotatia anexata.
+
+Prin fluxul propus, se va retine o apa fara turbiditate, cu duritatea 0 , fara fier , fara mangan, fara microbiologie, iar valoarea amoniului va fi <0.5mg/L.
+
+Statia cu ecomix se va regenera la fiecare 6 mc de apa tratati.
+
+Pentru a va face o idee despre cum arata sistemul, va trimit anexata o fotografie cu produse similare – montate la o brutarie .
+
+Pentru orice alte informatii sau intrebari, va stau cu placere la dispozitie!
+
+Numai bine,
+
+From: Akro <office@akro.ro>
+Sent: Thursday, December 11, 2025 6:33 PM
+To: sales@akro.ro
+Subject: AKRO :: Cerere oferta
+
+O noua cerere a fost trimisa de pe site:
+
+Denumire produs: Filtre eliminare amoniu cu rasina Crystal Right
+Link produs: https://akro.ro/produse/produs/filtre-eliminare-amoniu-cu-rasina-crystal-right/
+
+Nume: rambelli
+Prenume: fabrizio
+Adresa de email: rambellifabrizio@yahoo.it
+Numar de telefon: 0721056503
+Cantitate: 3 mc pe zi
+Companie: timstyle
+Mesaj: Buna seara, ma intereseaza un sistem pentru a reduce cantitatea de amoniu din apa di foraj de 135 mt. Am 2,07 in loc de 0.5. Exista si o presenta de E. coli. Multumesc
+
+Akro © 2025
+[ATAȘAMENT: 6996 Timstyle.pdf | text extras]
+LABORATOR CONTROL CALITATE APĂ
+Str. Mistral 1, TIMIŞOARA
+
+RAPORT DE ÎNCERCARE
+Nr. 6996 eliberat în data 08.12.2025
+
+BENEFICIAR: TIMSTYLE S.R.L.
+ADRESĂ: Timișoara str. Maramureș nr.2
+NUMĂR COMANDĂ: 398
+PROBĂ PRELEVATĂ DE: Beneficiar, pe răspunderea acestuia
+DATA PRELEVĂRII: 04.12.2025
+LOCUL PRELEVĂRII: Herendești Ferma 3, jud. Timiș, foraj
+TIPUL PROBEI: Apă subterană
+CODUL PROBEI: CC 6996
+DATA PRIMIRII PROBEI DE APĂ: 04.12.2025
+DATA EFECTUĂRII ÎNCERCĂRILOR: 04 – 08.12.2025
+VOLUM DE PROBĂ PRELEVAT: 1000 ml pentru încercări fizico-chimice și 500 ml pentru încercări microbiologice
+
+REZULTATUL ÎNCERCĂRILOR FIZICO-CHIMICE
+Valoare admisă de Incertitudinea
+Nr. Valoare către Ordonanța extinsă U METODA DE
+PARAMETRU UM
+crt. determinată nr.7/2023 aprobată (k=2, nivel de ÎNCERCARE
+prin legea nr.96/2024 încredere 95%)
+8,1 SR EN ISO 10523:2012
+1. pH unit.pH ≥ 6,5 ; ≤ 9,5 -
+(temp.măs.19,8ºC) PSL-03-06
+
+Conductivitate SR EN 27888:1997
+2. 393 µS/cm 2500 -
+electrică la 20ºC PSL-03-07
+Acceptabilă pentru
+SR EN ISO 7027-1:2016
+3. *Turbiditate 3,09 UNT consumatori și fără -
+modificări anormale PSL-03-08
+
+Suma de calciu și 1,26 mmoli/l ≥ 0,89 SR ISO 6059:2008
+4. -
+magneziu (7,07) (grade germane) ( ≥5 ) PSL-03-03
+
+SR ISO 6332:1996/C91:2006
+5. Fier total 46,0 µg/l 200 -
+PSL-02-07
+
+SR ISO 7150-1:2001
+6. Amoniu 2,07 mg/l 0,5 -
+PSL-02-01
+
+SR EN 26777:2002/C91:2006
+7. Nitriţi 0,05 mg/l 0,5 -
+PSL-02-02
+
+SR ISO 7890-3:2000
+8. Nitraţi 0,121 mg/l 50 -
+PSL-02-03, Ed.5, Rev.0
+
+Indice de SR EN ISO 8467:2001
+9. 0
+[ATAȘAMENT: 4477 Timstyle (1).pdf | text extras]
+Laborator Control Calitate Apă
+Str. Mistral 1, Timișoara
+
+Raport de încercare
+Nr. 4477 eliberat în data 04.08.2026
+
+Beneficiar: Timstyle S.R.L.
+Adresă: Timișoara str. Maramureș nr. 2
+Număr comandă: 225
+Probă prelevată de: Beneficiar, pe răspunderea acestuia
+Dată prelevare: 03.08.2026
+Volum de probă prelevat: 500 ml pentru încercări fizico-chimice
+Loc prelevare: Victor Vlad Delamarina, foraj
+Tip probă: Apă subterană
+Dată primire probă de apă: 03.08.2026
+Cod probă: CC 4477
+Perioadă efectuare încercări: 03 – 04.08.2026
+
+Rezultatul încercărilor fizico-chimice
+Nr. Valoare Incertitudine
+Parametru UM Valoare admisă** Metodă de încercare
+crt. determinată extinsă U
+7,8 SR EN ISO 10523:2012
+1. pH unit.pH ≥ 6,5 ; ≤ 9,5 -
+(temp.măs.20,0ºC) PSL-03-06
+
+SR ISO 7150-1:2001
+2. Amoniu 1,99 mg/l 0,5 - PSL-02-01
+
+Autorizat, Întocmit,
+Şef Laborator Control Calitate Apă Responsabil compartiment încercări
+dr.ing. Diana Landi fizico-chimice
+fiz. Anca Toma
+
+OBSERVAŢII:
+Prezentul raport de încercare se referă numai la proba de apă supusă încercării.
+* - Aceste activități NU sunt acoperite de acreditarea RENAR. Pentru detalii suplimentare consultați https://www.renar.ro/index.php/oec
+** - de către Ordonanța nr.7/2023 aprobată prin legea nr.96/2024
+Beneficiarul a fost instruit în ceea ce priveşte procedura de prelevare/Activitatea de prelevare este acoperită de acreditarea RENAR în
+conformitate cu Anexa nr. 1 la certificatul de acreditare nr. LI 1222
+”< ” - limita de cuantificare.
+Incertitudinea de măsu
+
+--- MESAJ m2152516 | 2026-08-27 09:07 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Fabrizio Rambelli <rambellifabrizio@yahoo.it>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: AKRO :: Cerere oferta
+Buna ziua,
+
+Va multumim pentru noile informatii!
+
+Valoarea amoniului a scazut nesemnificat de la 2.07 – la 1.99 [ s-ar putea sa fie strict din cauza erorii metodei de incercare care de regula este de +- 0.1mg/L pentru amoniu]
+
+Scaderea Valorii de pH de la 8.1 – la 7.8 - la fel nu este o problema. Aceasta influenta poate fi cauzata de timpul scurs din momentul prelevarii pana la analiza probei.
+
+Din punct de vedere al tratarii, sistemul ofertat in decembrie va face fata in continuare aplicatiei conform cu solicitarea dumneavoastra!
+
+Recomandarea este ca totusi sa instalati si filtrul cu nisip [ tind sa cred ca turbiditatea este de fapt cauzata de prezenta ionilor de fier in apa].
+
+Las anexata si oferta de pret actualizata pentru sistemul propus in 2025.
+
+Asteptam vesti din partea dumneavoastra!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02725 - TIMSTYLE - 27.08.2026.pdf | ofertă Odoo, parsată mai sus]
+
+====================================================================================================
+CONVERSAȚIA c2116004 (nr. 348) | subiect: RE:Handling shipments from China
+Partener (după adrese): sklogistics.net Elena_liang | grupare nesigură: nu
+
+--- MESAJ m2116004 | 2026-08-27 04:38 | Inbox | EXTERN
+De la: Elena_liang <elena_liang@sklogistics.net>
+Către: Alexandru.soare <alexandru.soare@akro.ro>
+Subiect: RE:Handling shipments from China
+Good day!!!
+
+It’s my pleasure to get in touch with you. I’m writing to introduce our full logistics solutions based in China.
+
+We provide sea freight, air freight, inland trucking, customs, and door delivery for clients importing goods from China.
+
+We learn that you import materials from China and require regular shipping arrangements. Could you kindly share your cargo specs, destination, and required timeline?
+
+We highly appreciate your feedback at your earliest convenience.
+
+Warm Regards
+Elena | Business Manager
+
+Cell/We chat/WhatsApp(+86)15089570117 | Email:Elena_liang@sea-kara.com
+
+SHENZHEN SEAKARA INTERNATIONAL LOGISTICS CO., LTD
+Room 607, Building B, Chengshishanhai Center, Zhongxing Road, Bantian Street, Longgang District, Shenzhen, China
+
+WCA Network ID:142737
+
+====================================================================================================
+CONVERSAȚIA c2152548 (nr. 349) | subiect: ORDER P01416 - AKRO ROMANIA - 27.08.2026
+Partener (după adrese): filterflo.com Mara Manzi, Bruno Danesi | grupare nesigură: da
+
+--- MESAJ m2152548 | 2026-08-27 09:26 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: filterflo@filterflo.com <filterflo@filterflo.com>
+Cc: lucia.bianchi@filterflo.com, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: ORDER P01416 - AKRO ROMANIA - 27.08.2026
+Dears,
+
+Please find attached our order for:
+
+32 cartridges – PRNZ050-29
+
+I am looking forward in receiving the OA.
+
+With kind regards,
+[ATAȘAMENT: Comandă de achiziție - P01416 - FILTERFLO - 27.08.2026.pdf | text extras]
+
+--- MESAJ m2116164 | 2026-08-27 11:44 | Inbox | EXTERN
+De la: Mara Manzi <mara.manzi@filterflo.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: lucia.bianchi@filterflo.com, office@akro.ro, andrei.dobrei@akro.ro, bruno.danesi@filterflo.com
+Subiect: R: ORDER P01416 - AKRO ROMANIA - 27.08.2026
+Dear Alexandru,
+
+please note that we have only 30 pcs. available. May we consider your order closed at that quantity?
+
+The new supply will takes about 5 or 6 weeks.
+
+The correct price for PRNZ050-29 is: 31.40€/each – less 50% discount.
+
+Please let us know.
+
+Thank you
+
+Best regards
+
+Mara
+
+Mara Manzi
+
+Customer Service and Shipping Dpt.
+
+Via Copernico 2/4
+
+20082 Binasco (MI)
+
+tel. 02/90091439 – int. 205
+
+fax. 02/90096393
+
+mail: mara.manzi@filterflo.com
+
+--- MESAJ m2152708 | 2026-08-27 11:46 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Mara Manzi <mara.manzi@filterflo.com>
+Cc: lucia.bianchi@filterflo.com, office@akro.ro, andrei.dobrei@akro.ro, bruno.danesi@filterflo.com
+Subiect: RE: ORDER P01416 - AKRO ROMANIA - 27.08.2026
+Dear Mara,
+
+Unfortunately we cannot accept a smaller quantity as it is a special order for a client .
+
+So we will need for a total of 32 cartridges and we prefer to collect the entire order when it is complete.
+
+Please advise!
+
+With kind regards,
+
+--- MESAJ m2116196 | 2026-08-27 11:56 | Inbox | EXTERN
+De la: Mara Manzi <mara.manzi@filterflo.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: lucia.bianchi@filterflo.com, office@akro.ro, andrei.dobrei@akro.ro, bruno.danesi@filterflo.com
+Subiect: R: ORDER P01416 - AKRO ROMANIA - 27.08.2026
+Thank you Alexandru
+
+BR
+
+Mara
+
+--- MESAJ m2116228 | 2026-08-27 11:58 | Inbox | EXTERN
+De la: Mara Manzi <mara.manzi@filterflo.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: lucia.bianchi@filterflo.com, office@akro.ro, andrei.dobrei@akro.ro, bruno.danesi@filterflo.com, ilenia.gianfelice@filterflo.com
+Subiect: R: ORDER P01416 - AKRO ROMANIA - 27.08.2026 // FILTERFLO Sales order acknowledgement OC26/--2322
+Dear Alexandru,
+
+here enclosed you can find our order acknowledgment.
+
+best regards
+
+Mara
+
+Mara Manzi
+
+Customer Service and Shipping Dpt.
+
+Via Copernico 2/4
+
+20082 Binasco (MI)
+
+tel. 02/90091439 – int. 205
+
+fax. 02/90096393
+
+mail: mara.manzi@filterflo.com
+[ATAȘAMENT: OC26--2322_AKRO S.R.L.pdf | text extras]
+FILTERFLO SRL
+Via Copernico 2/4 20082 - Binasco MI P.Iva 11451800152 - Tel. 02.90091439 - Fax. 02.90096393 CONFERMA D'ORDINE/ ORDER ACKNOWLEDGEMENT
+www.filterflo.com - filterflo@filterflo.com
+
+Destinazione Merce/Destination of goods Spettabile Ditta/Company name Nostra Conferma/Our confirmation del
+
+OC26/--2322 27/08/2026
+AKRO S.R.L AKRO S.R.L
+Vostro Ordine/Your order del/of
+STR.ZIZINULUI,NR.110 ETAJ 2 STR.ZIZINULUI,NR.110 ETAJ 2
+PO1416 27/08/2026
+500407 BRASOV-ROMANIA 500407 BRASOV-ROMANIA Sez. Commerciale
+Romania
+
+Cliente Partita Iva Sconto/Discount Condizioni di Pagamento/Payment terms Sconto/Discount Valuta/Currency Agente/Agent
+001183 RO14205979 0048 BB 30 GG FM Euro EXP Export
+Porto/Freight Mezzo di Spedizione/Forwarder Imballo IBAN:account
+Banca d'Appoggio/Bank IT07T0306932550100000005191 / BIC: BCITITMMXXX
+0008 EX WORKS V Vettore NEUTRO c/o INTESA SAN PAOLO
+
+PRODOTTO/CODE DESCRIZIONE/DESCRIPTION UDM QUANTITA'/ PREZZO UNITARIO/ SC.1 SC.2 SC.3 CONSEGNA/ IMPORTO NETTO/ IVA/
+QTY UNIT PRICE DELIVERY NET AMOUNT VAT
+PRNZ050-29 PROXIS - CARTUCCIA MICROFIBRA NYLON NR 32,000 31,40 50,00 14/10/2026 502,40 94
+MELT-BLOWN FILTER CARTR.
+Vs. Prodotto: 01-010031
+
+-----------
+
+Any changes/additions must be made within
+3 days from our order acknowledgement.
+
+Totale Omaggi Tot.Sco.Merce/Discount Totale Merci/Goods Amount Spese di Trasporto/Shipping cost Spese di Imballo/Packaging cost Spese di Trasporto/Shipping cost Totale Sconto Cassa/Discount
+
+502,40
+Tot.Imponi.IVA/Taxable amount Cod.
+
+--- MESAJ m2128996 | 2026-10-05 16:40 | Inbox | EXTERN
+De la: ilenia.gianfelice@filterflo.com <ilenia.gianfelice@filterflo.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: lucia.bianchi@filterflo.com, office@akro.ro, andrei.dobrei@akro.ro, mara.manzi@filterflo.com
+Subiect: *** ORDER READY ***   ORDER P01416 + P01394
+Dear Alexandru,
+
+your orders are ready:
+
+1 box dims. 40x30xh87 cm gross weight: 10 Kgs;
+
+1 box dims. 40x30xh87 cm gross weight: 5 Kgs;
+
+2 boxes eachone dims.: 41x30xh30 cm gross weight: 2 Kgs/eachone;
+
+2 boxes eachone dims.: 27x63xh42 cm gross weight: 5Kgs/eachone;
+
+Please, arrange the shipment from tomorrow .
+
+Pick up ADDRESS :
+
+FILTERFLO SRL
+
+VIA COPERNICO 2/4
+
+20082 BINASCO (MI)
+
+Ph.+39 02 90091439
+
+Opening hours:
+
+9-12h-14-17h
+
+Friday: 9-12h-14-15.30h
+
+Inform me about the name of your forwarder, thanks!!
+
+Best regards
+
+Ilenia Gianfelice
+
+Customer Service & Shipping Dpt.
+
+Via Copernico, 2/4
+
+20082 Binasco MI
+
++39 0290091439-207 (DIRETTO)
++39 0290096393
+
+N.B. SI PREGA VOLER INVIARE GLI ORDINI A:
+
+filterflo@filterflo.com
+
+--- MESAJ m2163844 | 2026-10-05 16:42 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: andrei.dobrei@akro.ro <andrei.dobrei@akro.ro>, office@akro.ro <office@akro.ro>
+Subiect: FW: *** ORDER READY ***   ORDER P01416 + P01394
+De ridicat incepand de maine
+
+Marfa pentru Calul Bun + Fab de Zahar
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: ilenia.gianfelice@filterflo.com <ilenia.gianfelice@filterflo.com>
+Sent: Monday, October 5, 2026 4:40 PM
+To: 'AKRO Romania , Alexandru Soare' <alexandru.soare@akro.ro>
+Cc: lucia.bianchi@filterflo.com; 'Akro Filtrare' <office@akro.ro>; andrei.dobrei@akro.ro; 'Mara Manzi' <mara.manzi@filterflo.com>
+Subject: *** ORDER READY *** ORDER P01416 + P01394
+
+Dear Alexandru,
+
+your orders are ready:
+
+1 box dims. 40x30xh87 cm gross weight: 10 Kgs;
+
+1 box dims. 40x30xh87 cm gross weight: 5 Kgs;
+
+2 boxes eachone dims.: 41x30xh30 cm gross weight: 2 Kgs/eachone;
+
+2 boxes eachone dims.: 27x63xh42 cm gross weight: 5Kgs/eachone;
+
+Please, arrange the shipment from tomorrow .
+
+Pick up ADDRESS :
+
+FILTERFLO SRL
+
+VIA COPERNICO 2/4
+
+20082 BINASCO (MI)
+
+Ph.+39 02 90091439
+
+Opening hours:
+
+9-12h-14-17h
+
+Friday: 9-12h-14-15.30h
+
+Inform me about the name of your forwarder, thanks!!
+
+Best regards
+
+Ilenia Gianfelice
+
+Customer Service & Shipping Dpt.
+
+Via Copernico, 2/4
+
+20082 Binasco MI
+
++39 0290091439-207 (DIRETTO)
++39 0290096393
+
+N.B. SI PREGA VOLER INVIARE GLI ORDINI A:
+
+filterflo@filterflo.com
+
+--- MESAJ m2163876 | 2026-10-06 08:46 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: ilenia.gianfelice@filterflo.com <ilenia.gianfelice@filterflo.com>
+Cc: lucia.bianchi@filterflo.com, office@akro.ro, andrei.dobrei@akro.ro, mara.manzi@filterflo.com
+Subiect: RE: *** ORDER READY ***   ORDER P01416 + P01394
+Dear Ilenia,
+
+Thank you for the information!
+
+As usual if it is possible to prepare everything on a small pallet? [ it is better for us to collect it like this – especially when we have more than 3 boxes]
+
+Thank you for understanding!
+
+--- MESAJ m2129284 | 2026-10-06 11:58 | Inbox | EXTERN
+De la: ilenia.gianfelice@filterflo.com <ilenia.gianfelice@filterflo.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: lucia.bianchi@filterflo.com, office@akro.ro, andrei.dobrei@akro.ro, mara.manzi@filterflo.com
+Subiect: *** ORDER READY ***   ORDER P01416 + P01394
+Dear Alexandru,
+
+1 pallet dims: 80x80xh100 cm gross weight: 48 Kgs
+
+Please, arrange the shipment from tomorrow .
+
+Pick up ADDRESS :
+
+FILTERFLO SRL
+
+VIA COPERNICO 2/4
+
+20082 BINASCO (MI)
+
+Ph.+39 02 90091439
+
+Opening hours:
+
+9-12h-14-17h
+
+Friday: 9-12h-14-15.30h
+
+Inform me about the name of your forwarder, thanks!!
+
+Best regards
+
+Ilenia Gianfelice
+
+Customer Service & Shipping Dpt.
+
+Via Copernico, 2/4
+
+20082 Binasco MI
+
++39 0290091439-207 (DIRETTO)
++39 0290096393
+
+N.B. SI PREGA VOLER INVIARE GLI ORDINI A:
+
+filterflo@filterflo.com
+
+--- MESAJ m2164100 | 2026-10-06 11:59 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: office@akro.ro <office@akro.ro>
+Cc: andrei.dobrei@akro.ro
+Subiect: FW: *** ORDER READY ***   ORDER P01416 + P01394
+De adus la noi
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: ilenia.gianfelice@filterflo.com <ilenia.gianfelice@filterflo.com>
+Sent: Tuesday, October 6, 2026 11:59 AM
+To: 'AKRO Romania , Alexandru Soare' <alexandru.soare@akro.ro>
+Cc: lucia.bianchi@filterflo.com; 'Akro Filtrare' <office@akro.ro>; andrei.dobrei@akro.ro; 'Mara Manzi' <mara.manzi@filterflo.com>
+Subject: *** ORDER READY *** ORDER P01416 + P01394
+
+Dear Alexandru,
+
+1 pallet dims: 80x80xh100 cm gross weight: 48 Kgs
+
+Please, arrange the shipment from tomorrow .
+
+Pick up ADDRESS :
+
+FILTERFLO SRL
+
+VIA COPERNICO 2/4
+
+20082 BINASCO (MI)
+
+Ph.+39 02 90091439
+
+Opening hours:
+
+9-12h-14-17h
+
+Friday: 9-12h-14-15.30h
+
+Inform me about the name of your forwarder, thanks!!
+
+Best regards
+
+Ilenia Gianfelice
+
+Customer Service & Shipping Dpt.
+
+Via Copernico, 2/4
+
+20082 Binasco MI
+
++39 0290091439-207 (DIRETTO)
++39 0290096393
+
+N.B. SI PREGA VOLER INVIARE GLI ORDINI A:
+
+filterflo@filterflo.com
+
+Da: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Inviato: martedì 6 ottobre 2026 07:46
+A: ilenia.gianfelice@filterflo.com
+Cc: lucia.bianchi@filterflo.com; 'Akro Filtrare' <office@akro.ro>; andrei.dobrei@akro.ro; 'Mara Manzi' <mara.manzi@filterflo.com>
+Oggetto: RE: *** ORDER READY *** ORDER P01416 + P01394
+
+Dear Ilenia,
+
+Thank you for the information!
+
+As usual if it is possible to prepare everything on a small pallet? [ it is better for us to collect it like this – especially when we have more than 3 boxes]
+
+Thank you for understanding!
+
+From: ilenia.gianfelice@filterflo.com <ilenia.gianfelice@filterflo.com>
+Sent: Monday, October 5, 2026 4:40 PM
+To: 'AKRO Romania , Alexandru Soare' <alexandru.soare@akro.ro>
+Cc: lucia.bianchi@filterflo.com; 'Akro Filtrare' <office@akro.ro>; andrei.dobrei@akro.ro; 'Mara Manzi' <mara.manzi@filterflo.com>
+Subject: *** ORDER READY *** ORDER P01416 + P01394
+
+Dear Alexandru,
+
+your orders are ready:
+
+1 box dims. 40x30xh87 cm gross weight: 10 Kgs;
+
+1 box dims. 40x30xh87 cm gross weight: 5 Kgs;
+
+2 boxes eachone dims.: 41x30xh30 cm gross weight: 2 Kgs/eachone;
+
+2 boxes eachone dims.: 27x63xh42 cm gross weight: 5Kgs/eachone;
+
+Please, arrange the shipment from tomorrow .
+
+Pick up ADDRESS :
+
+FILTERFLO SRL
+
+VIA COPERNICO 2/4
+
+20082 BINASCO (MI)
+
+Ph.+39 02 90091439
+
+Opening hours:
+
+9-12h-14-17h
+
+Friday: 9-12h-14-15.30h
+
+Inform me about the name of your forwarder, thanks!!
+
+Best regards
+
+Ilenia Gianfelice
+
+Customer Service & Shipping Dpt.
+
+Via Copernico, 2/4
+
+20082 Binasco MI
+
++39 0290091439-207 (DIRETTO)
++39 0290096393
+
+N.B. SI PREGA VOLER INVIARE GLI ORDINI A:
+
+filterflo@filterflo.com
+
+--- MESAJ m2129508 | 2026-10-06 14:17 | Inbox | AKRO
+De la: office@akro.ro <office@akro.ro>
+Către: ilenia.gianfelice@filterflo.com <ilenia.gianfelice@filterflo.com>
+Cc: lucia.bianchi@filterflo.com, andrei.dobrei@akro.ro, mara.manzi@filterflo.com, alexandru.soare@akro.ro
+Subiect: RE: *** ORDER READY ***   ORDER P01416 + P01394
+Hello Ilenia,
+
+We would like to inform you that the goods will be picked up tomorrow by the transport company RABEN.
+
+Please find the transport documents attached,
+
+Best regards,
+[ATAȘAMENT: all_documents_2026_10_06.pdf | text extras]
+
+====================================================================================================
+CONVERSAȚIA c2152612 (nr. 350) | subiect: RE: AKRO :: Cerere oferta
+Partener (după adrese): hvacproinstal@gmail.com HVAC Pro Instal | grupare nesigură: nu
+OFERTĂ S02728 v1 trimisă 2026-08-27 09:53 în m2152612 (Odoo: Comandă de vânzare): [13-001107] Dedurizator galvanic IPS KalyxX BlueLine G3/4" Termen livrare: 5 zile x1.0 buc; [16-003005] Livrare si ambalare x1.0 buc
+
+--- MESAJ m2152612 | 2026-08-27 09:53 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: hvacproinstal@gmail.com <hvacproinstal@gmail.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: AKRO :: Cerere oferta
+Buna ziua,
+
+Va multumim pentru solicitarea dumneavoastra!
+
+Conform discutiei telefonice, va rog sa regasiti anexata oferta de pret pentru un dedurizator galvanic Blue Line – de ľ”
+
+Produsul este in stoc si putem organiza livrarea in termen de maxim 1-2 zile din momentul comenzii si transmiterii confirmarii de comanda.
+
+Asteptam cu interes raspunsul dumneavoastra!
+
+O zi cu spor!
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Akro <office@akro.ro>
+Sent: Wednesday, August 26, 2026 6:01 PM
+To: sales@akro.ro
+Subject: AKRO :: Cerere oferta
+
+O noua cerere a fost trimisa de pe site:
+
+Denumire produs: Dedurizator galvanic IPS KalyxX
+Link produs: https://akro.ro/produse/produs/dedurizator-galvanic-ips-kalyxx/
+
+Nume: HVAC PRO INSTAL
+Prenume: SRL
+Adresa de email: hvacproinstal@gmail.com
+Numar de telefon: 0742756000
+Cantitate: 1
+Companie: HVAC PRO INSTAL SRL
+Mesaj: Buna ziu. Rog oferta dedurizator galvanic IPS KalyxX BlueLine
+
+UTM Parameters: {"utm_campaign":"","utm_source":"","utm_medium":"","utm_term":"","utm_content":"","gclid":"","gad_source":"","gad_campaignid":"","gbraid":""}
+
+Akro © 2026
+[ATAȘAMENT: Oferta - S02728 - HVAC PRO INSTAL - 27.08.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2120324 | 2026-09-10 14:15 | Inbox | EXTERN
+De la: HVAC Pro Instal <hvacproinstal@gmail.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Re: AKRO :: Cerere oferta
+Buna ziua,
+
+Puteți va rog sa ne trimiteți o proforma sau factura de avans pentru a achita produsul.
+
+Datele firmei:
+
+SC HVAC PRO INSTAL SRL
+
+CUI: 40963328
+
+Adresă livrare:
+
+Strada Partizanilor, Nr. 108B, Cluj-Napoca
+
+Contact: Andrei - 0742 754 167
+
+Mulțumesc!
+
+--- MESAJ m2156900 | 2026-09-10 14:20 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: HVAC Pro Instal <hvacproinstal@gmail.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: AKRO :: Cerere oferta
+Buna ziua,
+
+Va multumim pentru comanda!
+
+Va rog sa regasiti anexata factura proforma pentru produsul solicitat.
+
+De indata ce ne trimiteti confirmarea de plata, organizam transportul la adresa indicata – in atentia D-ului Andrei.
+
+Numai bine,
+[ATAȘAMENT: Factură proforma HVAC PRO INSTAL - 10.09.2026.pdf | text extras]
+
+--- MESAJ m2156932 | 2026-09-10 14:31 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: HVAC Pro Instal <hvacproinstal@gmail.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: AKRO :: Cerere oferta
+Buna ziua,
+
+Conform discutiei telefonice, revin cu factura proforma pentru dedurizatorul de 1”
+
+Asteptam confirmarea de plata !
+
+Cu respect,
+[ATAȘAMENT: Factura proforma - HVAC PRO INSTAL - kalyx 1 - 10.09.2026.pdf | text extras]
+
+====================================================================================================
+CONVERSAȚIA c2152644 (nr. 351) | subiect: RE: Filtrare Akro Factura (Ref AKF 260502)
+Partener (după adrese): valvis-holding.com Mihai Saramet | grupare nesigură: nu
+
+--- MESAJ m2152644 | 2026-08-27 10:11 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Mihai Saramet <mihai.saramet@valvis-holding.com>
+Cc: aurel.caras@akro.ro, andrei.dobrei@akro.ro, office@akro.ro
+Subiect: RE: Filtrare Akro Factura (Ref AKF 260502)
+Buna ziua ,
+
+Va informam ca interventia de PIF la generatorul de ozon – a fost programata pentru data de Vineri - 4.septembrie .
+
+Colegul de service delegat : LASZLO KAROLY:
+
+Contact:0740.561.592
+
+Cu stima,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Mihai Saramet <mihai.saramet@valvis-holding.com>
+Sent: Wednesday, August 26, 2026 1:55 PM
+To: contact@akro.ro
+Cc: Aurel CARAS - AKRO <aurel.caras@akro.ro>
+Subject: RE: Filtrare Akro Factura (Ref AKF 260502)
+
+D-lui Aurel Caras ,
+
+Stimate domn ,
+
+Va rog sa programati tehnician pentru PIF generator de ozon .
+
+Multumesc .
+
+Cu stima/Best regards ,
+
+Mihail Gavril Saramet
+
++40 740 307653
+
+From: Daniela BABA <contact@akro.ro>
+Sent: miercuri, 19 august 2026 16:01
+To: Mihai Saramet <mihai.saramet@valvis-holding.com>
+Subject: Filtrare Akro Factura (Ref AKF 260502)
+
+Buna ziua Mihai Saramet (CARPATHIAN SPRINGS S.A.), Atasat regasiti factura AKF 260502 (cu referinta: S02469) in valoare de 101.957,09 RON. [...] ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+
+VizualizareFactură
+
+AKF 260502
+101.957,09 RON datorat 03.09.2026
+
+Buna ziua Mihai Saramet (CARPATHIAN SPRINGS S.A.),
+
+Atasat regasiti factura AKF 260502 (cu referinta: S02469) in valoare de 101.957,09 RON.
+
+Pentru informatii suplimentare va rugam sa ne contactati.
+
+--
+Daniela BABA
+
+AKRO SRL
+
++40 268 413 180 | contact@akro.ro | https://www.akro.ro; www.kalyxx.ro; www.spectra.ro
+
+Cu sprijinul Odoo
+
+====================================================================================================
+CONVERSAȚIA c2152772 (nr. 352) | subiect: Factura Interventie mentenanta - AKRO ROMANIA
+Partener (după adrese): solitaire.immo  | grupare nesigură: nu
+
+--- MESAJ m2152772 | 2026-08-27 12:01 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Laura.radu@solitaire.immo <laura.radu@solitaire.immo>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Factura Interventie mentenanta - AKRO ROMANIA
+Buna ziua Doamna RADU,
+
+Va rog sa regasiti anexata factura fiscala pentru interventia de service de ieri 26.08.2026 si procesul verbal de service.
+
+Aceasta factura are ca referinta – comanda STEFAN ION – Revizie statie de tratare apa.
+
+Va rugam sa ne transmiteti confirmarea de plata.
+
+O zi cu spor!
+[ATAȘAMENT: AKF 260514.pdf | text extras]
+[ATAȘAMENT: 2.0.F23 - Proces Verbal de service - SOLITAIRE - 26.08.2026.pdf | PDF fără text (scanat)]
+
+====================================================================================================
+CONVERSAȚIA c2116260 (nr. 353) | subiect: R: Order  P01376 - AKRO ROMANIA - 07.08.2026 // FILTERFLO Sales order acknowledgement OC26/--2320
+Partener (după adrese): filterflo.com Mara Manzi | grupare nesigură: nu
+
+--- MESAJ m2116260 | 2026-08-27 12:34 | Inbox | EXTERN
+De la: Mara Manzi <mara.manzi@filterflo.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: lucia.bianchi@filterflo.com, office@akro.ro, andrei.dobrei@akro.ro, ilenia.gianfelice@filterflo.com
+Subiect: R: Order  P01376 - AKRO ROMANIA - 07.08.2026 // FILTERFLO Sales order acknowledgement OC26/--2320
+Dear Alexandru,
+
+please find our order acknowledgment her enclosed.
+
+Thank you
+
+Best regards
+
+Mara
+
+Mara Manzi
+
+Customer Service and Shipping Dpt.
+
+Via Copernico 2/4
+
+20082 Binasco (MI)
+
+tel. 02/90091439 – int. 205
+
+fax. 02/90096393
+
+mail: mara.manzi@filterflo.com
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+Da: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Inviato: venerdì 7 agosto 2026 12:15
+A: filterflo@filterflo.com
+Cc: lucia.bianchi@filterflo.com; 'Akro Filtrare' <office@akro.ro>; andrei.dobrei@akro.ro
+Oggetto: Order P01376 - AKRO ROMANIA - 07.08.2026
+
+Dears,
+
+Please find attached our order for:
+
+1 housing with 3 cartridges P8L – 30 “
+
+6 cartridges SMF1K3P8S [
+
+I am looking forward in receiving the OC.
+
+Best regards,
+[ATAȘAMENT: OC26--2320_AKRO S.R.L.pdf | text extras]
+FILTERFLO SRL
+Via Copernico 2/4 20082 - Binasco MI P.Iva 11451800152 - Tel. 02.90091439 - Fax. 02.90096393 CONFERMA D'ORDINE/ ORDER ACKNOWLEDGEMENT
+www.filterflo.com - filterflo@filterflo.com
+
+Destinazione Merce/Destination of goods Spettabile Ditta/Company name Nostra Conferma/Our confirmation del
+
+OC26/--2320 27/08/2026
+AKRO S.R.L AKRO S.R.L
+Vostro Ordine/Your order del/of
+STR.ZIZINULUI,NR.110 ETAJ 2 STR.ZIZINULUI,NR.110 ETAJ 2
+PO1376 07/08/2026
+500407 BRASOV-ROMANIA 500407 BRASOV-ROMANIA Sez. Commerciale
+Romania
+
+Cliente Partita Iva Sconto/Discount Condizioni di Pagamento/Payment terms Sconto/Discount Valuta/Currency Agente/Agent
+001183 RO14205979 0048 BB 30 GG FM Euro EXP Export
+Porto/Freight Mezzo di Spedizione/Forwarder Imballo IBAN:account
+Banca d'Appoggio/Bank IT07T0306932550100000005191 / BIC: BCITITMMXXX
+0008 EX WORKS V Vettore NEUTRO c/o INTESA SAN PAOLO
+
+PRODOTTO/CODE DESCRIZIONE/DESCRIPTION UDM QUANTITA'/ PREZZO UNITARIO/ SC.1 SC.2 SC.3 CONSEGNA/ IMPORTO NETTO/ IVA/
+QTY UNIT PRICE DELIVERY NET AMOUNT VAT
+MVB3S3G40P8L E - CONTENITORE MULTICARTUCCIA MULTI NR 1,000 1.129,00 25/09/2026 1.129,00 94
+CARTRID
+SFM1K3P8S STARFINE-CARTUCCIA PIEGHETTATA PLEATED NR 6,000 110,90 45,00 25/09/2026 365,97 94
+FILTER CARTRIDGE
+
+-----------
+
+Any changes/additions must be made within
+3 days from our order acknowledgement.
+
+Totale Omaggi Tot.Sco.Merce/Discount Totale Merci/Goods Amount Spese di Trasporto/Shipping cost Spese di Imballo/Packaging cost Spese di Trasporto/Shipping cost To
+
+====================================================================================================
+CONVERSAȚIA c2116292 (nr. 354) | subiect: R: Order - P01394 - 13.08.2026 - AKRO ROMANIA // FILTERFLO Sales order acknowledgement OC26/--2321
+Partener (după adrese): filterflo.com Mara Manzi | grupare nesigură: nu
+
+--- MESAJ m2116292 | 2026-08-27 12:36 | Inbox | EXTERN
+De la: Mara Manzi <mara.manzi@filterflo.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>, filterflo@filterflo.com <filterflo@filterflo.com>
+Cc: lucia.bianchi@filterflo.com, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: R: Order - P01394 - 13.08.2026 - AKRO ROMANIA // FILTERFLO Sales order acknowledgement OC26/--2321
+Dear Alexandru,
+
+thank you for your order.
+
+Her e enclosed our order acknowledgement.
+
+Best regards
+
+Mara
+
+Mara Manzi
+
+Customer Service and Shipping Dpt.
+
+Via Copernico 2/4
+
+20082 Binasco (MI)
+
+tel. 02/90091439 – int. 205
+
+fax. 02/90096393
+
+mail: mara.manzi@filterflo.com
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+Da: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Inviato: giovedì 13 agosto 2026 08:21
+A: filterflo@filterflo.com
+Cc: lucia.bianchi@filterflo.com; 'Akro Filtrare' <office@akro.ro>; andrei.dobrei@akro.ro
+Oggetto: Order - P01394 - 13.08.2026 - AKRO ROMANIA
+
+Dears,
+
+Please find attached our order for some cartridges we need.
+
+I am looking forward in receiving the OC.
+With kind regards,
+[ATAȘAMENT: OC26--2321_AKRO S.R.L.pdf | text extras]
+FILTERFLO SRL
+Via Copernico 2/4 20082 - Binasco MI P.Iva 11451800152 - Tel. 02.90091439 - Fax. 02.90096393 CONFERMA D'ORDINE/ ORDER ACKNOWLEDGEMENT
+www.filterflo.com - filterflo@filterflo.com
+
+Destinazione Merce/Destination of goods Spettabile Ditta/Company name Nostra Conferma/Our confirmation del
+
+OC26/--2321 27/08/2026
+AKRO S.R.L AKRO S.R.L
+Vostro Ordine/Your order del/of
+STR.ZIZINULUI,NR.110 ETAJ 2 STR.ZIZINULUI,NR.110 ETAJ 2
+PO1394 13/08/2026
+500407 BRASOV-ROMANIA 500407 BRASOV-ROMANIA Sez. Commerciale
+Romania
+
+Cliente Partita Iva Sconto/Discount Condizioni di Pagamento/Payment terms Sconto/Discount Valuta/Currency Agente/Agent
+001183 RO14205979 0048 BB 30 GG FM Euro EXP Export
+Porto/Freight Mezzo di Spedizione/Forwarder Imballo IBAN:account
+Banca d'Appoggio/Bank IT07T0306932550100000005191 / BIC: BCITITMMXXX
+0008 EX WORKS V Vettore NEUTRO c/o INTESA SAN PAOLO
+
+PRODOTTO/CODE DESCRIZIONE/DESCRIPTION UDM QUANTITA'/ PREZZO UNITARIO/ SC.1 SC.2 SC.3 CONSEGNA/ IMPORTO NETTO/ IVA/
+QTY UNIT PRICE DELIVERY NET AMOUNT VAT
+SFM1K1A1S STARFINE-CARTUCCIA PIEGHETTATA PLEATED NR 4,000 49,10 45,00 12/10/2026 108,02 94
+FILTER CARTRIDGE
+PRM5TX247 PROXIS - CARTUCCIA MICROFIBRA MELT-BLOWN NR 30,000 2,60 45,00 12/10/2026 42,90 94
+FILTER CARTRIDGE
+PRM50TX247 PROXIS - CARTUCCIA MICROFIBRA MELT-BLOWN NR 30,000 2,60 45,00 12/10/2026 42,90 94
+FILTER CARTRIDGE
+PRM25TX247 PROXIS - CARTUCCIA MICROFIBRA MELT-BLOWN NR 15,000 2,60 45,00 12/10/2026 21,45 94
+FILTER CARTRIDGE
+PRM10TX247 PROXIS - CARTUCCIA 
+
+====================================================================================================
+CONVERSAȚIA c2116324 (nr. 355) | subiect: R: ORDER - P01424 - AKRO ROMANIA - 25.08.2026 // FILTERFLO Sales order acknowledgement OC26/--2324
+Partener (după adrese): filterflo.com Mara Manzi | grupare nesigură: nu
+
+--- MESAJ m2116324 | 2026-08-27 12:39 | Inbox | EXTERN
+De la: Mara Manzi <mara.manzi@filterflo.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, lucia.bianchi@filterflo.com, ilenia.gianfelice@filterflo.com
+Subiect: R: ORDER - P01424 - AKRO ROMANIA - 25.08.2026 // FILTERFLO Sales order acknowledgement OC26/--2324
+Dear Alexandru,
+
+please find our order acknowledgment here enclosed.
+Thank you
+
+Best regards
+
+Mara
+
+Mara Manzi
+
+Customer Service and Shipping Dpt.
+
+Via Copernico 2/4
+
+20082 Binasco (MI)
+
+tel. 02/90091439 – int. 205
+
+fax. 02/90096393
+
+mail: mara.manzi@filterflo.com
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+Da: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Inviato: martedì 25 agosto 2026 13:50
+A: filterflo@filterflo.com
+Cc: 'Akro Filtrare' <office@akro.ro>; andrei.dobrei@akro.ro; lucia.bianchi@filterflo.com
+Oggetto: ORDER - P01424 - AKRO ROMANIA - 25.08.2026
+
+Dears,
+
+Please find attached our order for :
+
+18 pcs – SFM1K3P7S cartridges
+
+12 pcs – PRM1TX4C8S
+
+I am looking forward in receiving the OC.
+
+With kind regards,
+[ATAȘAMENT: OC26--2324_AKRO S.R.L.pdf | text extras]
+FILTERFLO SRL
+Via Copernico 2/4 20082 - Binasco MI P.Iva 11451800152 - Tel. 02.90091439 - Fax. 02.90096393 CONFERMA D'ORDINE/ ORDER ACKNOWLEDGEMENT
+www.filterflo.com - filterflo@filterflo.com
+
+Destinazione Merce/Destination of goods Spettabile Ditta/Company name Nostra Conferma/Our confirmation del
+
+OC26/--2324 27/08/2026
+AKRO S.R.L AKRO S.R.L
+Vostro Ordine/Your order del/of
+STR.ZIZINULUI,NR.110 ETAJ 2 STR.ZIZINULUI,NR.110 ETAJ 2
+PO1424 25/08/2026
+500407 BRASOV-ROMANIA 500407 BRASOV-ROMANIA Sez. Commerciale
+Romania
+
+Cliente Partita Iva Sconto/Discount Condizioni di Pagamento/Payment terms Sconto/Discount Valuta/Currency Agente/Agent
+001183 RO14205979 0048 BB 30 GG FM Euro EXP Export
+Porto/Freight Mezzo di Spedizione/Forwarder Imballo IBAN:account
+Banca d'Appoggio/Bank IT07T0306932550100000005191 / BIC: BCITITMMXXX
+0008 EX WORKS V Vettore NEUTRO c/o INTESA SAN PAOLO
+
+PRODOTTO/CODE DESCRIZIONE/DESCRIPTION UDM QUANTITA'/ PREZZO UNITARIO/ SC.1 SC.2 SC.3 CONSEGNA/ IMPORTO NETTO/ IVA/
+QTY UNIT PRICE DELIVERY NET AMOUNT VAT
+SFM1K3P7S STARFINE-CARTUCCIA PIEGHETTATA PLEATED NR 18,000 110,90 45,00 14/09/2026 1.097,91 94
+FILTER CARTRIDGE
+PRM1TX4C8S PROXIS - CARTUCCIA MICROFIBRA MELT-BLOWN NR 12,000 21,00 45,00 14/09/2026 138,60 94
+FILTER CARTRIDGE
+
+-----------
+
+Any changes/additions must be made within
+3 days from our order acknowledgement.
+
+Totale Omaggi Tot.Sco.Merce/Discount Totale Merci/Goods Amount Spese di Trasporto/Shipping cost Spese di Imballo/Packaging cost Spese di Trasporto/
+
+====================================================================================================
+CONVERSAȚIA c2152836 (nr. 356) | subiect: ORDER - P01434 - AKRO ROMANIA
+Partener (după adrese): cintropur.com Loic Feller | grupare nesigură: nu
+
+--- MESAJ m2152836 | 2026-08-27 13:32 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: valerie.bondanelli@cintropur.com <valerie.bondanelli@cintropur.com>
+Cc: loic.feller@cintropur.com, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: ORDER - P01434 - AKRO ROMANIA
+Dear Valerie,
+
+Please find attached our order for some filters and membranes we need for our warehouse.
+
+I am looking forward in receiving the proforma invoice.
+
+With kind regards,
+[ATAȘAMENT: Comandă de achiziție - P01434 - AIRWATEC - 27.08.2026.pdf | text extras]
+
+====================================================================================================
+CONVERSAȚIA c2152868 (nr. 357) | subiect: Comanda P01435 - AKRO ROMANIA - 27.08.2026
+Partener (după adrese): seko.com Stelian Maris, Catalin Rusu | grupare nesigură: da
+
+--- MESAJ m2152868 | 2026-08-27 13:39 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Stelian Maris <s.maris@seko.ro>
+Cc: vanzari@seko.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Comanda P01435 - AKRO ROMANIA - 27.08.2026
+Buna ziua,
+Va rog sa regasiti anexata comanda pentru o pompa TPG603
+
+Cu respect,
+[ATAȘAMENT: Comandă de achiziție - P01435 - SEKO - 27.08.2026.pdf | text extras]
+
+--- MESAJ m2116388 | 2026-08-27 13:55 | Inbox | EXTERN
+De la: Stelian Maris <s.maris@seko.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: vanzari@seko.ro, office@akro.ro, andrei.dobrei@akro.ro, c.rusu@seko.com
+Subiect: RE: Comanda P01435 - AKRO ROMANIA - 27.08.2026
+Buna ziua,
+
+Comanda dumneavoastra a fost inregistrata.
+
+Pompa este in stoc si o vom expedia in cel mai scurt timp.
+
+Cu stimă / Best regards,
+
+Rareș-Stelian
+Mariș
+
+Sales Support Engineer
+
+Birou vânzări / Sales office:
++40 737 505 699
+
+Departament Tehnic / Technical Department:
++40 742 845 449
+
+email: s.maris@seko.com
+
+www.seko.com
+[ATAȘAMENT: OC_46249.PDF | text extras]
+SEKO SIETA SRL
+Nr.ord. Reg.com/an.: ROONRCJ2006001095120
+Cod unic inreg.: RO18528115
+IBAN: RO15 BACX 0000 0045 3714 1000 RON
+RO85 BACX 0000 0045 3714 1001 EUR
+Banca: UNICREDIT BANK
+CAPITAL SOCIAL: 100.000 EUR
+Cluj-Napoca, str. Piata 1 MAI nr. 4-5, COD:400141
+Phone: +40 264415251 - Fax: +40 264415622
+E-mail: info.dpro@seko.com, - Internet: www.seko.com
+
+CONFIRMARE COMANDA Client:
+Adresa de livrare: Akro S.R.L.
+Nr. Comanda.: 46249 Sediu livrare Cod unic inreg.: RO14205979
+Data: 27.08.2026 Adresa:
+(zi, luna, an) Zizinului Nr. 110
+ZIZINULUI Nr. 110
+BRASOV, BV, Romania
+BRASOV, Romania
+
+Banca: UNICREDIT TIRIAC BANK SWIFT: BACXROBU Cont RO85BACX0000004537141000
+Referinta client:
+Termeni de livrare: EXW Cluj Napoca
+
+Nr. Cod Descriere Cod U.M. Pret Cantit. Valoare Estimare
+vamal unitar Totala expediere
+1 TPG603NHH0000 Pompa dozatoare Tekna TPG603, 84135040 BUC 239,85 1 239,85 28.08.2026
+PVDF/FKM-B, 4x6 mm, 240 Vac, kit de
+instalare inclus
+TOTAL GENERAL: 239,85
+WinMENTOR ENTERPRISE v26,041
+
+Semnatura & stampila Observatii:Comanda achizi¿ie # P01435
+furnizor Valoarea totala EURO: 239,85
+TVA nu este inclus
+Semnatura & stampila client
+
+====================================================================================================
+CONVERSAȚIA c2152900 (nr. 358) | subiect: Comanda P01431 - AKRO ROMANIA - 27.08.2026
+Partener (după adrese): aplisens.com Adrian Munteanu - Aplisens SRL | grupare nesigură: nu
+
+--- MESAJ m2152900 | 2026-08-27 13:41 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Adrian Munteanu - Aplisens SRL <adrian.munteanu.ro@aplisens.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Comanda P01431 - AKRO ROMANIA - 27.08.2026
+Sanatate Dl Munteanu,
+
+Va rog sa regasiti anexata o comanda noua pentru 1 contor 2” cu racorduri si garnituri + modul reed.
+
+Asteptam confirmare!
+
+Cu respect,
+[ATAȘAMENT: Comandă de achiziție - P01431 - APLISENS - 27.08.2026.pdf | text extras]
+
+====================================================================================================
+CONVERSAȚIA c2152932 (nr. 359) | subiect: ORDER  - P01436 - AKRO ROMANIA - 27.08.2026
+Partener (după adrese): alamowaterpoland.com Dominik Mirowski, Alamo Water Poland | grupare nesigură: nu
+
+--- MESAJ m2152932 | 2026-08-27 13:54 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Cc: alamo@alamowaterpoland.com, office@akro.ro
+Subiect: ORDER  - P01436 - AKRO ROMANIA - 27.08.2026
+Hello Dominik,
+
+I really hope you have received PMB101-2 in stock.
+
+I am sending you our order for some media we need for stock.
+
+Best regards,
+[ATAȘAMENT: Comandă de achiziție - P01436 - ALAMO WATER POLAND - 27.08.2026.pdf | text extras]
+
+====================================================================================================
+CONVERSAȚIA c2152996 (nr. 360) | subiect: COMANDA P01406 - livrare direct catre client
+Partener (după adrese): begaminerale.ro Dorina Resteman | grupare nesigură: nu
+
+--- MESAJ m2152996 | 2026-08-27 14:14 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dorina Resteman <dorina.resteman@begaminerale.ro>
+Cc: daniela.muresan@begaminerale.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: COMANDA P01406 - livrare direct catre client
+Buna ziua Doamna Resteman,
+
+Asa cum am discutat zilele trecute, va trimitem anexata comanda noastra pentru nisipul necesar la o lucrare in desfasurare.
+
+Aceasta comanda o vom ridica de la dumneavoastra si o vom trimite direct la client cand va fi gata.
+
+Dorim sa o ridicam incepand cu saptamana urmatoare [ in functie de cum aveti disponibile sorturile in stoc].
+
+Va multumim si asteptam confirmarea dumneavoastra!
+
+Numai bine,
+[ATAȘAMENT: Comandă de achiziție - P01406 - BEGA MINERALE - 27.08.2026.pdf | text extras]

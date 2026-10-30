@@ -1,0 +1,80 @@
+X-PQ-Received: mpq-producer--production-gq1-cc8794ff7-c8569; Wed Aug 26 08:28:57 UTC 2026
+Received: from 127.0.0.1
+ by atlas-production.v2-mail-prod1-gq1.omega.yahoo.com pod-id atlas--production-gq1-78cfbd4cd4-dlft8.gq1.yahoo.com with HTTP; Wed, 26 Aug 2026 08:28:53 +0000
+Return-Path: <alexandru.soare@akro.ro>
+X-Originating-Ip: [91.216.156.230]
+Received-SPF: pass (domain of akro.ro designates 91.216.156.230 as permitted sender)
+Authentication-Results: mta.yahoo.com;
+ dkim=temp_fail header.i=@akro.ro header.s=default arc_overridden_status=NOT_OVERRIDDEN;
+ spf=pass smtp.mailfrom=akro.ro arc_overridden_status=NOT_OVERRIDDEN;
+ dmarc=unknown header.from=akro.ro arc_overridden_status=NOT_OVERRIDDEN;
+X-Apparently-To: ble_bd@yahoo.com; Wed, 26 Aug 2026 08:28:53 +0000
+X-YMailISG: 4Ng_4W4WLDvhqa_1GIcC6LnUUiywTXJzCAIzN8twGyUJu.h5
+ .TOyYEuG6VkCul__hbsqtq0ih8EsVQ_0d36SFeQQ6eXVBK7lGa9Xvl_QJBKJ
+ hmq3fZ81UC27imsbNGU8Z87_mgseLKLi.pagavQ8aPrB25pRCB3iNrjymsYG
+ Oaj2lSaQn8uMd7Tvn93J0zsacC1Ifm0hjl19dVX7LT1i9FVz2LqYXLjPwFH6
+ G44YoOtGADW4f8GWq.c90dfCQFWkA_Gpo_VX2UE.sc6NtsKkkWPgdYmPKZma
+ KG3PipU.biomQ88q6LZ.bJzZnxY5KpzH0piwWzkcHyy10ScxaUfEZS4J2hqW
+ TIEg_WRZaqOC.F55uNr0ByW2KS9L2_x6wHyrGLs5gkCseQ8fcGdUiJEC.jAZ
+ f_rheQv7HSh6XFLnGY2ulRuKLGXSniHuFfbkpF1A_vSgTyCzjkVNCRv43V1Y
+ mlletcuIyko6IYbHtP5fa3LpseyFld6ujuHpefcyGYzGdOPlYvEW8_psOamn
+ TsISqiN5uV2jxQk.lVdIlambUKZnqHhWgh4xKQz77d.DddT1FZYbd2OzH9tp
+ fHSewymDLXhSreQwKYyn7_CZDViCYF__sY.srppUl1U80sLnCEdD3lkjjtnb
+ UEMoUZyqWXIM0PgLtq8.0AwPLs7gb4kXC5lNdllRbAawOUnshDU2zlRId3Ez
+ dqIg7N8XVeOCAzOxBddzybpFJVNhxUl0CVhfGxJ9h611ZQqEwSbHVNyzTpzv
+ h0SdhXH.HPac4NKxJqPg.GQs4A90qH7WnUzpjEKwp2O28aVHG8RYIUtizQSH
+ uSj8j6Nd7VGmpvGreT92HFBlbQ_mvGxGl45pSXmjrN2FkbJ5hGWYqzcuH3GQ
+ abjfRfRT82p3p6_qK.v_2E2BCuL9oDfWJQv5hgaS3Y.yZSNxuXbWdOu9jZFo
+ ly1rVKgN_i0czvl.5qb9b2EtJPT2W_rw4535dAYVsRckzxLEKhNv6nFgaTD4
+ twbzyXNiO12eBk_MReJsBbeUJYLWcb5ZAWNE5xJyyZOMgPGLfmgywmtFXqbP
+ OHvAQh69BCXeTDf3VpCfB6xaxDtW7z79YTxtqq6VDf.pwliqvE4XcqI8Lo3Q
+ CAPtftjTjlbtViAlVUDsvjpjO.R.SOUep8_VF.7HXQy_jA5x3w--
+X-Rocket-Delivery: iiI_Op04ZBtUzKWadLUWlz70cB568KUGk17CKwzUSuspV8nwvBF8Yx8S3IPSGdD5DdhOvR3.AgWEDn1XONLjjffClHvNV5pSCO5qbyzIc6tAknOybQRAQQbWtOK9G4RO3JU7yKvFJ7c.DBCJz9n1iT3JFMEWdv40e5Gash_lybRRZmecuHFI7qXpnF5lxNTEt48Ihn.AAM3DwIhmaVJ4iH6G1YoMGp7Z9rKrn5eUTokNP9IqnlNaalUddBUydVSYGC13ES1QTnU0XmYzwmi4Xjzj8C7adtvu9pQRmC716JVVcg5WaFYJp8w_SPKiDgFn2tI72Q99j17yhgqypXRB8pX3bBsuKrtug7uhzHQr76DNWkOW4BLxzjxn1raVuBrGWm8LnD9L4pHpnT7b1rGPcOXKdRuspJ8akoz_n1624LdW4E5qE1Bw
+Received: from 91.216.156.230 (EHLO s010.host-age.ro)
+ by 10.253.62.159 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Wed, 26 Aug 2026 08:28:53 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=akro.ro;
+	s=default; h=Content-Type:MIME-Version:Message-ID:Date:Subject:In-Reply-To:
+	References:Cc:To:From:Sender:Reply-To:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:List-Id:List-Help:List-Unsubscribe:List-Subscribe:
+	List-Post:List-Owner:List-Archive;
+	bh=+vFksAiTyQauiFNg0uFBMDrzhhF3sqkCW7JExEva9zM=; b=CA6TA7D1TXIRDdoJfZwCzwBEbC
+	dA3GEQ7GJCIzIm3jqWxvXXwAstX5tzmWYk137upw8A9TS/mEv/+TU1/FtnvhSiLiIKKa8GTyEYrCV
+	kl0XJsFcbBhxXjf2Gr6cyN2bJcY3xKFMeJaO9xsb3JWv21xIUaYPJocurSOVU5YmZlEhP8G17vceA
+	1o4O0LZl3UBJjHWi3OFNUwyITA4/h8/PVN5Rcg3sKIzGwYQ0rZEUaW5T2l9bVp7IIdrI4HtMcsij6
+	NQkeFSM2T4g6v+9YSaogQcxX8pK81VlK13UbRb+sC8fYB+GUxO4gfHJ83WT4q376yU0eWdoTazfsb
+	pzjrTPuA==;
+Received: from [82.78.174.40] (port=61237 helo=AKR100)
+	by s010.host-age.ro with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.99.5)
+	(envelope-from <alexandru.soare@akro.ro>)
+	id 1wz906-00000007Ooa-0K3k;
+	Wed, 26 Aug 2026 11:28:50 +0300
+From: "AKRO Romania , Alexandru Soare" <alexandru.soare@akro.ro>
+To: <ble_vd@yahoo.com>,
+	<ble_bd@yahoo.com>
+Cc: "'Akro Filtrare'" <office@akro.ro>,
+	<andrei.dobrei@akro.ro>
+References: 
+In-Reply-To: 
+Subject: RE: Oferta pret sterilizator + filtru dublu
+Date: Wed, 26 Aug 2026 11:28:49 +0300
+Message-ID: <017c01dd3534$ebbaead0$c330c070$@akro.ro>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_017D_01DD354E.11090D30"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: Ad0liQ4+as/9EZdLRCC/1YqlYRl5uwPq2Q4w
+Content-Language: en-us
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - s010.host-age.ro
+X-AntiAbuse: Original Domain - yahoo.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - akro.ro
+X-Get-Message-Sender-Via: s010.host-age.ro: authenticated_id: alexandru.soare@akro.ro
+X-Authenticated-Sender: s010.host-age.ro: alexandru.soare@akro.ro
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 

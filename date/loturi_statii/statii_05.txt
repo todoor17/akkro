@@ -1,0 +1,3070 @@
+
+####################################################################################################
+OFERTA S02902 | client: CELECTRO | trimisă: 2026-10-02 11:31 | Odoo: nu e în lista Odoo | conversații: c2127748 (nr. 569)
+
+####################################################################################################
+RÂND c2127748 (nr. 569) | stare: Completă | categorie: 13-Filtre multistrat diferite medii | cerere: Două stații de dedurizare duplex (175 L și 16 L)
+CERINȚA: Cere ofertă pentru o stație de dedurizare duplex 5 mc/h (175+175 L rășină) și una de 1,3 mc/h (16+16 L), cu contor de apă dedurizată. [m2127748] «Statie dedurizare duplex avand debitul de 5 mc/h, continut de rasini 175l + 175l»
+CERINȚĂ FINALĂ (debit): Stația 1: 5 mc/h, 175 L + 175 L rășină [m2127748] «Statie dedurizare duplex avand debitul de 5 mc/h, continut de rasini 175l + 175l»
+CERINȚĂ FINALĂ (debit): Stația 2: 1,3 mc/h, 16 L + 16 L rășină [m2127748] «Statie dedurizare duplex avand debitul de 1.3 mc/h, continut de rasini 16l + 16l»
+CERINȚĂ FINALĂ (capacitate): Stația 1: capacitate ciclică 1050 + 1050 m3x°F, racorduri 1 1/2" [m2127748] «racorduri 1 1/2'' si capacitate ciclica 1050 + 1050 m3xoFr»
+CERINȚĂ FINALĂ (racord): Stația 2: racorduri DN25, capacitate ciclică 75 + 75 m3 [m2127748] «racorduri DN25 si capacitate ciclica 75 + 75 m3»
+CERINȚĂ FINALĂ (tensiune): 220V-50Hz, 10 W [m2127748] «tensiune de alimentare 220V-50Hz; 10 W.»
+CERINȚĂ FINALĂ (loc livrare): Mediaș [m2127748] «Locatia Livrare Medias. Sa ne comunicati va rog termenul de livrare.»
+CERINȚĂ FINALĂ (altele): Fișe tehnice și certificate de calitate pentru aprobarea beneficiarului; livrare completă cu suporți și accesorii de montaj [m2127748] «Pentru aprobarea beneficiarului avem nevoie de fise tehnice si certificatele de calitate.»
+CLARIFICARE: întrebare Clientul cere termenul de livrare. [m2127748] «Sa ne comunicati va rog termenul de livrare.» → răspuns Termen standard de livrare aproximativ 2 săptămâni; montajul și PIF-ul nu sunt incluse. [m2162724] «Termenul standard de livrare pentru aceste produse este de +- 2 saptamani.» | schimbare: S-a precizat termenul de ~2 săptămâni; AKRO ofertează stație duplex twin 16 L (racord 1") și duplex alternant 175 L (racord 1.5"), fără montaj/PIF.
+REZULTAT: necunoscut
+PREȚURI Ofertă S02902 v1 (2026-10-02), total 7669.35 EUR:
+  [13-001173] DEC 16-1/duplex, Statie dedurizare duplex twin, 16L rasina, vana Clack CITT - 1" | 1.0 buc × 1388.74 EUR | referință
+  [13-001307] DEC 175-1.5/duplex, Statie dedurizare - duplex, racord 1.5", 175L rasina pe fiecare coloana - Vane Clack - CI -1.5" - Pl | 1.0 buc × 5653.82 EUR | referință
+  [-] Reducere: 10.00% | 1.0 buc × -704.26 EUR | serviciu
+  termen: Metoda de plata: O.P. 50% in avans; 50% la 15 zile de la livrarea produselor
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12 luni de la livrare
+
+====================================================================================================
+CONVERSAȚIA c2127748 (nr. 569) | subiect: oferta statie dedurizare
+Partener (după adrese): celectro.ro  | grupare nesigură: nu
+OFERTĂ S02902 v1 trimisă 2026-10-02 11:31 în m2162724 (Odoo: nu e în lista Odoo): [13-001173] DEC 16-1/duplex, Statie dedurizare duplex twin, 16L rasina, vana Clack CITT - 1" x1.0 buc; [13-001307] DEC 175-1.5/duplex, Statie dedurizare - duplex, racord 1.5", 175L rasina pe fiec x1.0 buc; [-] Reducere: 10.00% x1.0 buc
+
+--- MESAJ m2127748 | 2026-10-01 16:21 | Inbox | EXTERN
+De la: Radu Remus @Celectro <radu.remus@celectro.ro>
+Către: remus <ioanremusradu@gmail.com>
+Cc: mihai.pap@celectro.ro, cornelprostean@celectro.ro
+Subiect: oferta statie dedurizare
+Buna ziua,
+
+Va rog sa ne faceti oferta pentru :
+
+1.Statie dedurizare duplex avand debitul de 5 mc/h, continut de rasini 175l + 175l, consum sare 26,2 kg/ciclu, racorduri 1 1/2'' si capacitate ciclica 1050 + 1050 m3xoFr, presiune de lucru 2-6 bar, tensiune de alimentare 220V-50Hz; 10 W.
+Accesorii:
+- contor de apa dedurizata
+Nota: Se va livra complet echipat cu suporti de sustinere si toate accesorile de montaj.
+
+2.Statie dedurizare duplex avand debitul de 1.3 mc/h, continut de rasini 16l + 16l, consum sare 2.5 kg/ciclu, racorduri DN25 si capacitate ciclica 75 + 75 m3, presiune de lucru 2-6 bar, tensiune de alimentare 220V-50Hz; 10 W.
+Accesorii:
+- contor de apa dedurizata
+Nota: Se va livra complet echipat cu suporti de sustinere si toate accesorile de montaj.
+
+Locatia Livrare Medias.
+
+Sa ne comunicati va rog termenul de livrare.
+
+Pentru aprobarea beneficiarului avem nevoie de fise tehnice si certificatele de calitate.
+
+Va atasez specificatiile proiectantului
+
+--
+
+Multumesc pentru intelegere
+Radu Remus
+0727951678
+
+CELECTRO
+
+--- MESAJ m2162628 | 2026-10-01 16:23 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: oferta statie dedurizare
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Radu Remus @Celectro <radu.remus@celectro.ro>
+Sent: Thursday, October 1, 2026 4:21 PM
+To: remus <ioanremusradu@gmail.com>
+Cc: mihai.pap@celectro.ro; cornelprostean@celectro.ro
+Subject: oferta statie dedurizare
+
+Buna ziua,
+
+Va rog sa ne faceti oferta pentru :
+
+1.Statie dedurizare duplex avand debitul de 5 mc/h, continut de rasini 175l + 175l, consum sare 26,2 kg/ciclu, racorduri 1 1/2'' si capacitate ciclica 1050 + 1050 m3xoFr, presiune de lucru 2-6 bar, tensiune de alimentare 220V-50Hz; 10 W.
+
+Accesorii:
+- contor de apa dedurizata
+Nota: Se va livra complet echipat cu suporti de sustinere si toate accesorile de montaj.
+
+2.Statie dedurizare duplex avand debitul de 1.3 mc/h, continut de rasini 16l + 16l, consum sare 2.5 kg/ciclu, racorduri DN25 si capacitate ciclica 75 + 75 m3, presiune de lucru 2-6 bar, tensiune de alimentare 220V-50Hz; 10 W.
+Accesorii:
+- contor de apa dedurizata
+Nota: Se va livra complet echipat cu suporti de sustinere si toate accesorile de montaj.
+
+Locatia Livrare Medias.
+
+Sa ne comunicati va rog termenul de livrare.
+
+Pentru aprobarea beneficiarului avem nevoie de fise tehnice si certificatele de calitate.
+
+Va atasez specificatiile proiectantului
+
+--
+
+Multumesc pentru intelegere
+
+Radu Remus
+
+0727951678
+
+CELECTRO
+
+--- MESAJ m2162724 | 2026-10-02 11:31 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Radu Remus @Celectro <radu.remus@celectro.ro>, remus <ioanremusradu@gmail.com>
+Cc: mihai.pap@celectro.ro, cornelprostean@celectro.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: oferta statie dedurizare
+Buna ziua Dl Remus,
+
+Va multumim pentru solicitarea dumneavoastra!
+
+Va rog sa regasiti anexata oferta de pret pentru doua sisteme de dedurizare :
+
+Statie duplex twin cu 16 L rasina pe fiecare coloana – racord in/out -1” [ debitmetrul este integrat – utilizatorul poate vedea doar debitul instant de apa prin instalatie] – Sistemul se regenereaza volumetric
+
+Statie duplex alternant cu 175 L rasina pe fiecare coloana – racord in/out 1.5” [ debitemtrul este exterior – dar nu are afisaj local. Utilizatorul poate vedea doar debitul instant prin instalatie ] – Sistemul se regenereaza volumetric.
+
+Oferta anexata include livrarea statiilor la beneficiar.
+
+Oferta nu include montajul echipamentelor, asamblarea lor [ pentru ca cel putin statia de 175 L- va fi livrata dezasamblat ] si punerea in functiune. Acordam in schimb asistenta tehnica telefonica la PIF si asamblare.
+
+Las anexate si fisele tehnice ale produselor .
+
+Termenul standard de livrare pentru aceste produse este de +- 2 saptamani.
+
+Pentru orice alte informatii sau intrebari, va stau cu placere la dispozitie!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02902 - CELECTRO - 02.10.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: Fisa tehnica - Statie de dedurizare 175L - duplex, 1.5P - CI - corp ABS.pdf | text extras]
+[ATAȘAMENT: Fisa tehnica - Statie de dedurizare - duplex, 1 - de 16L -saramura 70L.pdf | text extras]
+
+####################################################################################################
+OFERTA S02903 | client: Knauf Insulation SRL | trimisă: 2026-10-02 12:39 | Odoo: nu e în lista Odoo | conversații: c2128036 (nr. 575)
+
+####################################################################################################
+RÂND c2128036 (nr. 575) | stare: Completă | categorie: 16-Prestari servicii | cerere: Inspecție tehnică stație de dedurizare
+CERINȚA: Cere o inspecție tehnică la stația de dedurizare, de preferat luni. [m2128036] «Am dori o inspectie tehnica la statia de dedurizare .»
+CERINȚĂ FINALĂ (termen): Luni (cerut „luni 05.09.2026”) [m2128036] «Avem rugamintea sa ne confirmati daca se poate pentru luni 05.09.2026»
+CERINȚĂ FINALĂ (loc livrare): Knauf Insulation, Str. Armatei 82, Târnăveni [m2128036] «Str. Armatei, no.82, 545600 Tarnaveni»
+CERINȚĂ FINALĂ (buget): Comanda fermă 4502677018: 2.313,63 RON fără TVA [m2129412] «Total amount w/o tax RON 2.313,63»
+TELEFON: Conform discuției telefonice, AKRO trimite confirmarea de comandă pentru intervenția de verificare și resetare a erorii, programată luni. [m2162788] «Conform discutiei telefonice, va trimitem anexata confirmarea de comanda pentru interventia de verificare si resetare a erorii.»
+REZULTAT: acceptată — Knauf confirmă comanda și trimite comanda fermă; intervenția s-a efectuat. [m2128228] «Confirmam comanda. Va rog sa asteptati primirea numarului nostru de comanda»
+PREȚURI Confirmare de comandă S02903 v1 (2026-10-02), total 2799.49 RON:
+  [16-002001] Deplasare la beneficiar - verificare instalatie de dedurizare - teste functionale - rezolvare problema E102 | None  × None RON | serviciu
+  termen: Modul de livrare: In sarcina Akro
+
+====================================================================================================
+CONVERSAȚIA c2128036 (nr. 575) | subiect: inspectie periodica statie dedurizare
+Partener (după adrese): knauf.com Dragoman, Daria | grupare nesigură: nu
+OFERTĂ S02903 v1 trimisă 2026-10-02 12:39 în m2162788 (Odoo: nu e în lista Odoo): [-] Deplasare la beneficiar - verificare instalatie de dedurizare - teste functional xNone 
+
+--- MESAJ m2128036 | 2026-10-02 12:03 | Inbox | EXTERN
+De la: Tompi, Alexandru <alexandru.tompi@knaufinsulation.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: inspectie periodica statie dedurizare
+Buna ziua !
+
+Am dori o inspectie tehnica la statia de dedurizare .
+
+Avem rugamintea sa ne confirmati daca se poate pentru luni 05.09.2026
+
+Multumesc pentru intelegere !
+
+Alexandru Tompi
+
+Process & Quality Manager
+
+Mobile +40 753184250
+
+Knauf Insulation SRL
+
+Str. Armatei, no.82, 545600 Tarnaveni
+
+Romania
+
+www.knauf.com
+
+Classified as Internal and General Business
+
+--- MESAJ m2162756 | 2026-10-02 12:27 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: inspectie periodica statie dedurizare
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Tompi, Alexandru <Alexandru.Tompi@knaufinsulation.com>
+Sent: Friday, October 2, 2026 12:03 PM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: inspectie periodica statie dedurizare
+
+Buna ziua !
+
+Am dori o inspectie tehnica la statia de dedurizare .
+
+Avem rugamintea sa ne confirmati daca se poate pentru luni 05.09.2026
+
+Multumesc pentru intelegere !
+
+Alexandru Tompi
+Process & Quality Manager
+
+Mobile +40 753184250
+
+Knauf Insulation SRL
+
+Str. Armatei, no.82, 545600 Tarnaveni
+
+Romania
+
+www.knauf.com
+
+Classified as Internal and General Business
+
+--- MESAJ m2162788 | 2026-10-02 12:39 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Tompi, Alexandru <alexandru.tompi@knaufinsulation.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: inspectie periodica statie dedurizare
+Buna ziua,
+
+Conform discutiei telefonice, va trimitem anexata confirmarea de comanda pentru interventia de verificare si resetare a erorii.
+
+Am programat interventia pentru luni : Colegul de service delegat: Lucian Aiftimie:0759.597.674
+
+Cu respect,
+[ATAȘAMENT: Comanda - S02903 - KNAUF INSULATION - 02.10.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2128228 | 2026-10-02 13:09 | Inbox | EXTERN
+De la: Dragoman, Daria <daria.dragoman@knauf.com>
+Către: alexandru.soare@akro.ro <alexandru.soare@akro.ro>
+Cc: alexandru.tompi@knaufinsulation.com, laura.babau@knaufinsulation.com
+Subiect: RE: inspectie periodica statie dedurizare
+Buna ziua,
+
+Confirmam comanda.
+
+Va rog sa asteptati primirea numarului nostru de comanda pe care va rog sa-l mentionati pe factura in momentul emiterii acesteia.
+
+Cu stima,
+
+Daria Dragoman
+
+Data Steward
+
+Mobile +40 742 135 938
+
+Classified as Internal and General Business
+
+Classified as Internal and General Business
+
+--- MESAJ m2129412 | 2026-10-06 13:18 | Inbox | EXTERN
+De la: Dragoman, Daria <daria.dragoman@knauf.com>
+Către: alexandru.soare@akro.ro <alexandru.soare@akro.ro>
+Cc: alexandru.tompi@knaufinsulation.com, laura.babau@knaufinsulation.com
+Subiect: RE: inspectie periodica statie dedurizare   4502677018; AKRO; 349046
+Buna ziua,
+
+Conform e-mailului meu anterior, revin cu comanda ferma,
+
+Va rog verificati si confirmati pretul, cantitatea si termenul de livrare.
+
+! In momentul emiterii facturii va rog sa mentionati numarul comenzii noastre !
+
+Multumesc,
+
+Daria Dragoman
+
+Data Steward
+
+Mobile +40 742 135 938
+
+Classified as Internal and General Business
+[ATAȘAMENT: 4502677018; AKRO; 349046.PDF | text extras]
+Page 1 from 2
+
+KNAUF Insulation S.R.L. - Bd. Tudor Vladimirescu nr. 29, Sector 5, 050881 Bucharest Purchase Order
+Purchase Order Number Date
+
+AKRO SRL 4502677018-R12 06.10.2026
+ZIZINULUI Contact Details Requestor
+500407 Brasov Alexandru Tompi
+E-Mail
+România
+Alexandru.Tompi@knaufinsulation.com
+Contact Details Purchasing Department
+Daria Dragoman
+E-Mail
+Daria.Dragoman@knauf.com
+
+Delivery to Invoice Address:
+Company KNAUF INSULATION S.R.L.
+KNAUF INSULATION S.R.L. BD. TUDOR VLADIMIRESCU 29
+Strada Armatei 010432 Bucuresti
+545600 Târnăveni România
+România
+VAT Reg. No.
+RO24527521
+4502677018
+
+Delivery conditions Delivery Date
+CIF Bestimmungsort 10.10.2026
+Payment Terms Currency
+within 30 days Due net RON
+
+Item Material Order Quantity Price/Unit Net Value
+10 Inspectie tehnica statie de 1 PC 2.313,63 / PC 2.313,63
+dedurizare
+
+Total amount w/o tax RON 2.313,63
+
+We expect your confirmation for the order electronically or in written form. Please send the confirmation to the above mentioned contact person for this order.
+
+Note:
+Please indicate our purchase order number and the material number on delivery notes, invoices and shipping documents.
+The invoice can be processed on time only in case of a correct indication of the purchase order number on the requested documents. We cannot be held
+responsible for any delays in processing due to lack of the correct purchase order number on the requested documents.
+
+Please create all documents with reference to the location of your Company (Address)
+[ATAȘAMENT: Obligatie facturi 2025_Mandatory invoices 2025.pdf | text extras]
+Stimati Parteneri, Dear Partners,
+
+Va reamintim ca in cazul We remind you that in the case of
+facturilor emise catre Knauf invoices issued to Knauf
+Insulation SRL . Insulation SRL.
+It is mandatory to enter the
+Este oblogatoriu sa fie trecut
+number of the purchasing order
+numarul comenzii de that is the basis of the purchase.
+aprovizionare care sta la baza
+achizitiei. All invoices sent to Knauf
+Insulation must have the
+Toate facturile care sunt internal number of the
+incarcate in SPV, trebuie sa purchasing order mentioned
+aiba mentionat numarul and it is mandatory
+intern al comenzii de invoices4222@knaufinsulatio
+aprovizionare . n.com
+EX:4502312345 EX: 4502312345
+
+In cazul in care acest numar If this number is missing, we
+lipseste, va informam ca inform you that the invoices
+facturile nu vor fi inregistrate , will not be registered,
+implicit achitate . implicitly paid.
+
+Va multumim, Thank you,
+Knauf Insulation SRL Knauf Insulation SRL
+
+Clădirea AFI Tech Park 1
+București, Bd. Tudor Vladimirescu nr. 29, etaj 1, Sector 5
+Registrul Comerțului: J40/16492/2008, C.U.I.: 24527521
+Telefon +40 21 224 02 06
+RO80 BACX 0000 0002 5779 5001 deschis la banca UNICREDIT BANK
+www.knaufinsulation.ro
+
+--- MESAJ m2164388 | 2026-10-06 15:37 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dragoman, Daria <daria.dragoman@knauf.com>
+Cc: alexandru.tompi@knaufinsulation.com, laura.babau@knaufinsulation.com, andrei.dobrei@akro.ro, office@akro.ro
+Subiect: RE: inspectie periodica statie dedurizare   4502677018; AKRO; 349046
+Buna ziua ,
+
+Va multumim pentru comanda!
+
+Vom tine cont de indicatiile trimise la generarea facturii finale.
+
+Va trimit anexat, copia scanata a procesului verbal de service pentru interventia de ieri.
+
+Colegul de service a desfacut vana cu eroarea [ dar totul in interior era intact ]. Probabil eroarea a aparut pentru ca vana ori a prins un span/particula mai mare in actuator, ori a fost o cadere de tensiune chiar in momentul in care statia era in regenerare si nu a mai revenit la pozitia initiala.
+
+Statia a fost verificata /s-a facut mentenanta periodica - iar totul este functional.
+
+Colegii mei vor reveni cu reply la acest e-mail pentru transmiterea facturii pentru interventie.
+
+Pentru orice alte intrebari sau informatii, va stau cu placere la dispozitie!
+
+O zi cu spor!
+[ATAȘAMENT: 2.0.F23 - Proces Verbal de service - KNAUF INSULATION - 06.10.2026.pdf | PDF fără text (scanat)]
+
+####################################################################################################
+OFERTA S02907 | client: primaria draganesti | trimisă: 2026-10-02 15:25 | Odoo: nu e în lista Odoo | conversații: c2128260 (nr. 580)
+
+####################################################################################################
+RÂND c2128260 (nr. 580) | stare: Completă | categorie: 13-Filtre multistrat diferite medii | cerere: Ofertă actualizată stație tratare apă Drăgănești
+CERINȚA: După pierderea finanțării GAL, cere o ofertă actualizată (cu dată nouă) pentru aceeași stație de tratare cu aceleași specificații. [m2128260] «DORIM DIN PARTEA DUMNEAVOASTRA, O NOUA OFERTA, ACTUALIZATĂ ( DATA TREBUIE MODIFICATA) PENTRU ACEEASI STATIE DE TRATARE CU ACELEASI SPECIFICATII.»
+CERINȚĂ FINALĂ (tip echipament): Aceeași stație de tratare cu aceleași specificații (filtre deferizare Pyrolox, cărbune activ, dozare, rezervoare, grup pompare) [m2128260] «PENTRU ACEEASI STATIE DE TRATARE CU ACELEASI SPECIFICATII.»
+CERINȚĂ FINALĂ (altele): Oferta să menționeze branșarea la apa existentă și testarea calității apei de un laborator autorizat/DSP [m2128644] «oferta contine atat bransarea la apa existenta cat si testarea calitatii apei rezultate»
+CLARIFICARE: întrebare Clientul cere completarea ofertei cu branșarea la apa existentă. [m2128644] «Am primit solicitare sa completati oferta cu informatia conform careia oferta contine atat bransarea la apa existenta» → răspuns Oferta include montajul în camera tehnică și PIF-ul, deci și conectarea la rețeaua de apă; beneficiarul asigură conductele DN80, spațiul, încălzirea, canalizarea și alimentarea electrică. [m2163460] «Oferta include montajul in camera tehnica si PIF-ul instalatiei – asta inseamna ca este inclusa si conectarea la reteaua de apa.» | schimbare: Confirmat că branșarea (conectarea la rețea) este inclusă prin montaj și PIF.
+CLARIFICARE: întrebare Clientul cere includerea testării calității apei de un laborator autorizat/DSP. [m2128644] «testarea calitatii apei rezultate, dupa montarea echipamentelor, de un laborator autorizat/DSP.» → răspuns AKRO refuză includerea analizelor de laborator; verificarea calității apei rămâne în sarcina beneficiarului. [m2163460] «Oferta de pret NU include serviciul de analize la un laborator autorizat» | schimbare: Analizele de laborator nu sunt incluse în ofertă.
+REZULTAT: necunoscut
+PREȚURI Ofertă S02907 v1 (2026-10-02), total 81317.42 EUR:
+  [01-008153] FILTRU Y 221 - DN80 PN16 | 1.0 buc × 176.0 EUR | referință
+  [23-001188] Contor-ZENNER - WPD DN80 cu modul EDC MBus si impuls - 1/100 | 1.0 buc × 483.0 EUR | referință
+  [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie de un semn | 1.0 buc × 408.32 EUR | referință
+  [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 | 1.0 buc × 134.58 EUR | referință
+  [23-003032] Rezervor stocare polipropilena suprateran - 6.5mc - Lxd = 2250x 1950mm | 2.0 buc × 2410.5 EUR | referință
+  [23-001200] HYDRO 2 CRE32-2-1 DN100 400V -Grup 1A+1R cu doua pompe Grundfos cu convertizoare integrate in motoare. -Complet echipat. | 1.0 buc × 16921.0 EUR | referință
+  [01-008174] Filtru deferizare si demanganizare cu Pyrolox - 3672PA - vana RX-111A- DTF 2” | 4.0 buc × 4864.22 EUR | referință
+  [01-008098] Filtru cu Carbune Activ - 3672AT, 560 L masa filtranta - vana RX-111A- DTF 2” | 4.0 buc × 3894.45 EUR | referință
+  [23-001188] Contor-ZENNER - WPD DN80 cu modul EDC MBus si impuls - 1/100 | 1.0 buc × 483.0 EUR | referință
+  [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie de un semn | 1.0 buc × 408.32 EUR | referință
+  [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 | 1.0 buc × 134.58 EUR | referință
+  [16-001015] Estimare materiale + manopera de PIF si Montaj - in cadrul camerei tehnice de 6x8m | None  × None EUR | serviciu
+  termen: Metoda de plata: O.P. se va stabili la momentul contractarii
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12luni de la livrare
+
+====================================================================================================
+CONVERSAȚIA c2128260 (nr. 580) | subiect: Re: Oferta statie tratare apa pentru comuna Draganesti, Judet Neamt
+Partener (după adrese): primariadraganesti@yahoo.com primaria draganesti | grupare nesigură: nu
+OFERTĂ S02907 v1 trimisă 2026-10-02 15:25 în m2163140 (Odoo: nu e în lista Odoo): [01-008153] FILTRU Y 221 - DN80 PN16 x1.0 buc; [23-001188] Contor-ZENNER - WPD DN80 cu modul EDC MBus si impuls - 1/100 x1.0 buc; [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual x1.0 buc; [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 x1.0 buc; [23-003032] Rezervor stocare polipropilena suprateran - 6.5mc - Lxd = 2250x 1950mm x2.0 buc; [23-001200] HYDRO 2 CRE32-2-1 DN100 400V -Grup 1A+1R cu doua pompe Grundfos cu convertizoare x1.0 buc; [01-008174] Filtru deferizare si demanganizare cu Pyrolox - 3672PA - vana RX-111A- DTF 2” x4.0 buc; [01-008098] Filtru cu Carbune Activ - 3672AT, 560 L masa filtranta - vana RX-111A- DTF 2” x4.0 buc; [23-001188] Contor-ZENNER - WPD DN80 cu modul EDC MBus si impuls - 1/100 x1.0 buc; [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual x1.0 buc; [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 x1.0 buc; [-] Estimare materiale + manopera de PIF si Montaj - in cadrul camerei tehnice de 6x xNone 
+
+--- MESAJ m2128260 | 2026-10-02 13:41 | Inbox | EXTERN
+De la: primaria draganesti <primariadraganesti@yahoo.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Re: Oferta statie tratare apa pentru comuna Draganesti, Judet Neamt
+BUNA ZIUA! AM PIERDUT SI A DOUA FINANTARE LA GAL, IAR ACUM SE REDESCHIDE ALTA. DORIM DIN PARTEA DUMNEAVOASTRA, O NOUA OFERTA, ACTUALIZATĂ ( DATA TREBUIE MODIFICATA) PENTRU ACEEASI STATIE DE TRATARE CU ACELEASI SPECIFICATII. MULTUMIM FRUMOS!
+
+--- MESAJ m2163140 | 2026-10-02 15:25 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: primaria draganesti <primariadraganesti@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Oferta statie tratare apa pentru comuna Draganesti, Judet Neamt
+Buna ziua,
+
+Va rog sa regasiti anexata oferta de pret actualizata.
+
+O zi cu spor!
+[ATAȘAMENT: Oferta - S02907 - Primaria Draganesti Neamt - 02.10.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2128644 | 2026-10-02 18:25 | Inbox | EXTERN
+De la: primaria draganesti <primariadraganesti@yahoo.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Re: Oferta statie tratare apa pentru comuna Draganesti, Judet Neamt
+Buna seara! Am primit solicitare sa completati oferta cu informatia conform careia oferta contine atat bransarea la apa existenta cat si testarea calitatii apei rezultate, dupa montarea echipamentelor, de un laborator autorizat/DSP. Multumim din suflet pentru promptitudine!
+
+--- MESAJ m2163460 | 2026-10-05 09:17 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: primaria draganesti <primariadraganesti@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Oferta statie tratare apa pentru comuna Draganesti, Judet Neamt
+Buna ziua,
+
+Oferta include montajul in camera tehnica si PIF-ul instalatiei – asta inseamna ca este inclusa si conectarea la reteaua de apa.
+
+DAR,
+
+BENEFICIARUL trebuie sa asigure in camera tehnica
+
+Conducta de apa de la foraje DN 80
+
+Conducta de apa catre bazinul final – DN 80
+
+Spatiul tehnic suficient pentru amplasare echipamente
+
+Incalzirea spatiului tehnic [ temperatura minima 4 grade C]
+
+Racord Canalizare de debit mare
+
+Tensiune electrica – curent monofazic si trifazic
+
+Spatiul protejat de intemperii
+
+Oferta de pret NU include serviciul de analize la un laborator autorizat si nici nu vom include un astfel de serviciu pentru furnizarea instalatiei.
+
+Reamintim ca instalatia ofertata de AKRO – a fost solicitata punctual de catre dumneavoastra [ exact echipamentele necesare], prin urmare verificarile calitatii apei rezultate intra in sarcina beneficiarului.
+
+O zi cu spor!
+
+####################################################################################################
+OFERTA S02908 | client: Her&stra cyprinus (Tanase Tudor) | trimisă: 2026-10-05 09:45 | Odoo: nu e în lista Odoo | conversații: c2163492 (nr. 585)
+
+####################################################################################################
+RÂND c2163492 (nr. 585) | stare: Completă | categorie: 12-Chimicale pentru conditionare si intretinere | cerere: Antiscalant RO1 pentru osmoză, 40 litri
+CERINȚA: Cerere de ofertă de pe site pentru agent antiscalant RO1, 40 litri. [m2163492] «Denumire produs: Agent antiscalant RO1»
+CERINȚĂ FINALĂ (cantitate): 40 litri [m2163492] «Cantitate: 40 litri Companie: Her&stra cyprinus»
+FIȘĂ DE SECURITATE (odată cu oferta): AKRO trimite fișa de date de securitate (Scheda di sicurezza SS 222) pentru Gel Antiscalant RO1 împreună cu oferta și cu fișa tehnică SP0222. [m2163492] «Va rog sa regasiti anexata oferta de pret si fisa de date pentru acesta.»
+REZULTAT: necunoscut
+PREȚURI Ofertă S02908 v1 (2026-10-05), total 3005.04 RON:
+  [12-002026] ANTISCALANT PENTRU INTRETINEREA INSTALATIILOR DE OSMOZA - GEL ANTISCALANT RO1 - 25KG | 2.0 buc × 1364.56 RON (reducere 9.0%) | referință
+  termen: Modul de livrare: In sarcina Akro
+  termen: Termen de plata: 100% in avans
+
+====================================================================================================
+CONVERSAȚIA c2163492 (nr. 585) | subiect: RE: AKRO :: Cerere oferta
+Partener (după adrese): ferma6martie@yahoo.com  | grupare nesigură: nu
+OFERTĂ S02908 v1 trimisă 2026-10-05 09:45 în m2163492 (Odoo: nu e în lista Odoo): [12-002026] ANTISCALANT PENTRU INTRETINEREA INSTALATIILOR DE OSMOZA - GEL ANTISCALANT RO1 -  x2.0 buc
+
+--- MESAJ m2163492 | 2026-10-05 09:45 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: ferma6martie@yahoo.com <ferma6martie@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: AKRO :: Cerere oferta
+Buna ziua ,
+Va multumim pentru solicitarea dumneavoastra!
+
+Singurul antiscalant pe care il comercializam este antiscalantul GEL – RO1
+
+Va rog sa regasiti anexata oferta de pret si fisa de date pentru acesta.
+
+La acest moment avem produsul disponibil in stoc si putem livra in termen de 2-3 zile de la comanda dumneavoastra ferma!
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Akro <office@akro.ro>
+Sent: Sunday, October 4, 2026 7:43 AM
+To: sales@akro.ro
+Subject: AKRO :: Cerere oferta
+
+O noua cerere a fost trimisa de pe site:
+
+Denumire produs: Agent antiscalant RO1
+Link produs: https://akro.ro/produse/produs/agent-antiscalant-ro1/
+
+Nume: Tanase
+Prenume: Tudor
+Adresa de email: ferma6martie@yahoo.com
+Numar de telefon: 0792176198
+Cantitate: 40 litri
+Companie: Her&stra cyprinus
+Mesaj:
+
+UTM Parameters: {"utm_campaign":"","utm_source":"","utm_medium":"","utm_term":"","utm_content":"","gclid":"","gad_source":"","gad_campaignid":"","gbraid":""}
+
+Akro © 2026
+[ATAȘAMENT: Oferta - S02908 - HER & STRA CYPRINUS - 05.10.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: EN_Scheda di sicurezza N_SS 222_CLP_14_GEL ANTISCALANT RO1.pdf | text extras]
+[ATAȘAMENT: SP0222-gel antiscalant ro1_eng.pdf | text extras]
+[ATAȘAMENT: SP0222-GEL ANTISCALANT RO 1-GB.pdf | text extras]
+[ATAȘAMENT: RM_Scheda di sicurezza N_SS 222_CLP_14_GEL ANTISCALANT RO1.pdf | text extras]
+
+####################################################################################################
+OFERTA S02909 | client: ELECTROTERM (Marius Ciotlausi) | trimisă: 2026-10-05 10:45 | Odoo: nu e în lista Odoo | conversații: c2163524 (nr. 586)
+
+####################################################################################################
+RÂND c2163524 (nr. 586) | stare: Completă | categorie: 13-Filtre multistrat diferite medii | cerere: Stație de dedurizare industrială EWS 100 duplex
+CERINȚA: Cere preț, stoc și termen de livrare pentru o stație de dedurizare industrială EWS 100 duplex, 1", 5 m3/h, duplex alternant. [m2163524] «Va rugam, pret, stoc, timp de livarare pt una buc statie de dedurizare industriala EWS 100 DUPLEX»
+CERINȚĂ FINALĂ (cantitate): 1 buc [m2163524] «pt una buc statie de dedurizare industriala»
+CERINȚĂ FINALĂ (debit): 5 m3/h, sistem duplex alternant [m2163524] «Q: 5 m3/h cu sistem duplex alternant»
+CERINȚĂ FINALĂ (racord): 1" [m2163524] «EWS 100 DUPLEX – 1″ – Q: 5 m3/h»
+CLARIFICARE: întrebare Clientul cere stocul și timpul de livrare. [m2163524] «Va rugam, pret, stoc, timp de livarare pt una buc» → răspuns Termen de livrare ~10 zile de la finalizarea procedurii de achiziție; AKRO ofertează varianta twin cu 100 L pe coloană, preasamblată, fără rășină încărcată. [m2163524] «Termenul de livrare pentru un astfel de sistem este de +- 10 zile din momentul finalizarii procedurii de achizitie.» | schimbare: Ofertat dedurizator duplex twin 100 L pe coloană (în loc de alternant), livrare inclusă, termen ~10 zile.
+REZULTAT: necunoscut
+PREȚURI Ofertă S02909 v1 (2026-10-05), total 11957.03 RON:
+  [13-001248] DEC 100-1/duplex, Statie dedurizare duplex twin, 100L rasina, vana Clack CITT - 1" | 1.0 buc × 11625.69 RON (reducere 15.0%) | referință
+  termen: Metoda de plata: O.P. 50% in avans ; 50% la 5 zile de la livrare
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12 luni de la livrare
+  termen: Termen de livrare: 2 saptamani
+
+====================================================================================================
+CONVERSAȚIA c2163524 (nr. 586) | subiect: RE: solicitare
+Partener (după adrese): electroterm@gmail.com Marius Ciotlausi | grupare nesigură: nu
+OFERTĂ S02909 v1 trimisă 2026-10-05 10:45 în m2163524 (Odoo: nu e în lista Odoo): [13-001248] DEC 100-1/duplex, Statie dedurizare duplex twin, 100L rasina, vana Clack CITT -  x1.0 buc
+
+--- MESAJ m2163524 | 2026-10-05 10:45 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Marius Ciotlausi <electroterm@gmail.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: solicitare
+Buna ziua,
+
+Va multumim pentru solicitare!
+
+Va rog sa regasiti anexata oferta de pret pentru dedurizatorul solicitat [ twin x 100L pe fiecare coloana] – cu livrarea inclusa [ preasamblat – dar fara a fi incarcat cu rasina]
+
+Anexez si fisa tehnica pentru produs.
+
+Termenul de livrare pentru un astfel de sistem este de +- 10 zile din momentul finalizarii procedurii de achizitie.
+
+Pentru orice alte informatii sau intrebari, va stau cu placere la dispozitie!
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Marius Ciotlausi electroterm@gmail.com
+Sent: Sunday, October 4, 2026 4:16 PM
+To: sales@akro.ro
+Subject: solicitare
+
+Buna ziua,
+
+Va rugam, pret, stoc, timp de livarare pt una buc statie de dedurizare industriala EWS 100 DUPLEX – 1″ – Q: 5 m3/h cu sistem duplex alternant
+
+Cu stima,
+
+Marius Ciotlausi
+
+0722.230.147.
+[ATAȘAMENT: Oferta - S02909 - ELECTROTERM - 05.10.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: Fisa tehnica - Statii de dedurizare - duplex - twin 100L , racord  1.pdf | text extras]
+
+####################################################################################################
+OFERTA S02910 | client: MASPEX ROMANIA S.R.L. | trimisă: 2026-10-05 12:50 | Odoo: nu e în lista Odoo | conversații: c2163588 (nr. 588)
+
+####################################################################################################
+RÂND c2163588 (nr. 588) | stare: După vânzare | categorie: 16-Prestari servicii | cerere: Reparație generator de ozon G-P60 GY072S12TW0027
+CERINȚA: -
+CERINȚĂ FINALĂ (tip echipament): Generator de ozon G-P60 GY072S12TW0027 (reabilitat și în 2024), trimis la reparat în Germania [m2163588] «Generatorul GY072S12TW0027. [care a mai fost reabilitat in 2024]»
+CERINȚĂ FINALĂ (termen): Livrare estimată în 1-2 săptămâni [m2163588] «Doriti livrarea acestui generator de indata ce este gata? [ estimam livrare in 1-2 saptamani]»
+CLARIFICARE: întrebare AKRO întreabă dacă clientul vrea livrarea acestui generator imediat ce e gata, fără să aștepte celelalte. [m2163588] «Doriti livrarea acestui generator de indata ce este gata? [ estimam livrare in 1-2 saptamani]» → răspuns Clientul confirmă. [m2128900] «Buna ziua, Confirmam!» | schimbare: Generatorul reparat se livrează separat, înaintea celorlalte două.
+REZULTAT: acceptată — Clientul confirmă devizul/comanda S02910. [m2128900] «Buna ziua, Confirmam!»
+PREȚURI Confirmare de comandă S02910 v1 (2026-10-05), total 39161.76 RON:
+  [16-003002] Livrare si ambalare externa - Livrare palet - Vatra Dornei - Germania si retur | 2.0 buc × 968.75 RON | referință
+  [16-001016] Piese si manopera de schimb - reparatie GENERATOR OZON GP-60 [ GY072S12TW0027] | None  × None RON | serviciu
+  termen: Modul de livrare: In sarcina Akro
+  termen: Condiții de plată: 30 de zile
+
+====================================================================================================
+CONVERSAȚIA c2163588 (nr. 588) | subiect: Deviz lucrari + cotatie materiale - generator GY072S12TW0027
+Partener (după adrese): maspex.ro Valentin Cupsan | grupare nesigură: da
+OFERTĂ S02910 v1 trimisă 2026-10-05 12:50 în m2163588 (Odoo: nu e în lista Odoo): [16-003002] Livrare si ambalare externa - Livrare palet - Vatra Dornei - Germania si retur x2.0 buc; [-] Piese si manopera de schimb - reparatie GENERATOR OZON GP-60 [ GY072S12TW0027] xNone 
+
+--- MESAJ m2163588 | 2026-10-05 12:50 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Valentin Cupsan <v.cupsan@maspex.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Deviz lucrari + cotatie materiale - generator GY072S12TW0027
+Sanatate Dl Cupsan,
+
+Facem progrese in verificarea si remedierea generatoarelor trimise in Germania.
+
+Va las anexat devizul de materiale si cotatia de reparatie pentru unul din cele 2 generatoare trimise in vara .
+
+Generatorul GY072S12TW0027. [care a mai fost reabilitat in 2024]
+
+Pentru celelalte doua generatoare – inca se asteapta uscarea modulelor de ozon [ toate sistemele aveau apa in sistem].
+
+Doriti livrarea acestui generator de indata ce este gata? [ estimam livrare in 1-2 saptamani]
+
+Asteptam raspuns!
+
+Cu respect,
+[ATAȘAMENT: DEVIZ LUCRARI - MASPEX ROMANIA - GENERATOR DE OZON - GY072S12TW0027 - 05.10.2026.pdf | text extras]
+[ATAȘAMENT: Comanda - S02910 - MASPEX - 05.10.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2128900 | 2026-10-05 14:17 | Inbox | EXTERN
+De la: Valentin Cupsan <v.cupsan@maspex.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Re: Deviz lucrari + cotatie materiale - generator GY072S12TW0027
+Buna ziua,
+
+Confirmam!
+
+Get
+Outlook for Android
+
+####################################################################################################
+OFERTA S02916 | client: RAP Confectionery | trimisă: 2026-10-05 15:38 | Odoo: nu e în lista Odoo | conversații: c2128868 (nr. 589)
+
+####################################################################################################
+RÂND c2128868 (nr. 589) | stare: Completă | categorie: 01-Filtre impuritati | cerere: Cartușe filtrante Proxis PRM5TX3
+CERINȚA: Cere ofertă și termen de livrare pentru 18 cartușe filtrante Proxis PRM5TX3. [m2128868] «Cartus filtrant proxis (filtru de apa UV)- PRM5TX3 - 18 buc.»
+CERINȚĂ FINALĂ (cantitate): 18 buc (comanda refăcută) [m2133668] «Am atasat comanda refacuta pentru 18 buc.»
+CLARIFICARE: întrebare Clientul comandă doar 12 bucăți; AKRO întreabă dacă se poate respecta cantitatea din oferta S02916, pentru că furnizorul nu acceptă producția doar pentru 12. [m2167876] «Se poate sa respectam cantitatile din comanda conform ofertei S02916 la care faceti referire?» → răspuns Clientul reface comanda pentru 18 bucăți. [m2133668] «Am atasat comanda refacuta pentru 18 buc.» | schimbare: Comanda inițială de 12 buc a fost refăcută la 18 buc.
+REZULTAT: acceptată — Comandă C-DA 15454 refăcută pentru 18 buc; AKRO trimite confirmarea de comandă. [m2167908] «Va trimit anexata confirmarea de comanda!»
+PREȚURI Ofertă S02916 v1 (2026-10-05), total 280.15 EUR:
+  [01-010067] Cartus filtrant proxis prm5tx3 Termen livrare: 7 sapt. | 18.0 buc × 13.86 EUR (reducere 10.0%) | referință
+  [16-002005] AMBALARE LIVRARE ASIGURARE | 1.0 buc × 7.0 EUR | referință
+  termen: Modul de livrare: In sarcina Akro
+  termen: Condiții de plată: 30 de zile
+PREȚURI Confirmare de comandă S02916 v1 (2026-10-14), total 280.15 EUR:
+  [01-010067] Cartus filtrant proxis prm5tx3 Termen livrare: 7 sapt. | 18.0 buc × 13.86 EUR (reducere 10.0%) | referință
+  [16-002005] AMBALARE LIVRARE ASIGURARE | 1.0 buc × 7.0 EUR | referință
+  termen: Modul de livrare: In sarcina Akro
+  termen: Condiții de plată: 30 de zile
+
+====================================================================================================
+CONVERSAȚIA c2128868 (nr. 589) | subiect: Cerere de oferta cartus filtru
+Partener (după adrese): rap-group.ro Iudith Elekes, cezar.irimie, Ioan Muntean | grupare nesigură: nu
+OFERTĂ S02916 v1 trimisă 2026-10-05 15:38 în m2163812 (Odoo: nu e în lista Odoo): [01-010067] Cartus filtrant proxis prm5tx3 Termen livrare: 7 sapt. x18.0 buc; [16-002005] AMBALARE LIVRARE ASIGURARE x1.0 buc
+OFERTĂ S02916 v1 trimisă 2026-10-14 15:30 în m2167876 (Odoo: nu e în lista Odoo): [01-010067] Cartus filtrant proxis prm5tx3 Termen livrare: 7 sapt. x18.0 buc; [16-002005] AMBALARE LIVRARE ASIGURARE x1.0 buc
+OFERTĂ S02916 v1 trimisă 2026-10-14 15:48 în m2167908 (Odoo: nu e în lista Odoo): [01-010067] Cartus filtrant proxis prm5tx3 Termen livrare: 7 sapt. x18.0 buc; [16-002005] AMBALARE LIVRARE ASIGURARE x1.0 buc
+
+--- MESAJ m2128868 | 2026-10-05 13:27 | Inbox | EXTERN
+De la: Iudith Elekes <iudith.elekes@rap-group.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Cerere de oferta cartus filtru
+Buna ziua,
+
+Va rog sa ne trimiteti oferta si termen de livrare pentru Rap
+Confectionery:
+
+- Cartus filtrant proxis (filtru de apa UV)- PRM5TX3 - 18
+buc.
+
+Multumesc
+
+Cu stima
+
+Iudith
+Elekes
+
+Buyer
+
+Str.
+Mica 8, 500053
+
+Brasov, Romania
+
+Phone: +40
+268 406 220
+
+Mobile: +40
+731 606 015
+
+www.rap-group.ro
+
+Before
+you print think about the environment
+
+« The
+information enclosed in this document/ e-mail are to be
+treated as confidential. In this respect the addressee/
+the holder of this document/ e-mail, is obliged not to
+disclose or to allow the disclosure, to any third party,
+in total or in part, the terms, of the conditions or any
+information contained therein without having the prior
+written consent of the sender. If you are not the intended
+receiver of this e-mail message/ document, please notify
+us immediately by sending us a message/ replying to this
+message; furthermore please delete the document/ message
+and all the attachments/ annexes from any servers, hard
+drives or any other media and do not make use, in any way,
+of its content. Any inobservance of the above shall be
+considered as damaging for the sender who shall be
+entitled to claim and to obtain any compensation. Thank
+you.
+
+Informatiile continute in prezentul document/
+e-mail au caracter confidential. In acest sens,
+destinatarul prezentului document/ e-mail are obligatia de
+a nu divulga sau de a nu permite divulgarea catre un tert,
+in mod partial sau total, a prevederilor, conditiilor sau
+a oricarei informatii continute de acesta, fara a obtine
+in prealabil acordul scris al expeditorului. In cazul in
+care nu sunteti persoana careia ii este destinat acest
+mesaj/ document, va rugam sa ne notificati imediat prin
+trimiterea unui mesaj/ trimiterea unui raspuns la acest
+mesaj; in plus va rugam sa stergeti acest mesaj/ document,
+precum si toate atasamentele/ anexele de pe orice servere,
+hard drives sau orice alte componente media si sa nu
+folositi, in niciun fel, continutul acestuia. Orice
+nerespectare a celor de mai sus va fi considerata drept
+cauzatoare de prejudiciu pentru expeditor, care va fi
+indreptatit sa solicite si sa obtina acoperirea oricaror
+daune. Va multumim. »
+
+--- MESAJ m2163780 | 2026-10-05 15:33 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: Cerere de oferta cartus filtru
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Iudith Elekes <iudith.elekes@rap-group.ro>
+Sent: Monday, October 5, 2026 1:27 PM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: Cerere de oferta cartus filtru
+
+Buna ziua,
+
+Va rog sa ne trimiteti oferta si termen de livrare pentru Rap Confectionery:
+
+- Cartus filtrant proxis (filtru de apa UV)- PRM5TX3 - 18 buc.
+
+Multumesc
+
+Cu stima
+
+Iudith Elekes
+Buyer
+
+Str. Mica 8, 500053
+Brasov, Romania
+Phone: +40 268 406 220
+Mobile: +40 731 606 015
+www.rap-group.ro
+
+Before you print think about the environment
+
+« The information enclosed in this document/ e-mail are to be treated as confidential. In this respect the addressee/ the holder of this document/ e-mail, is obliged not to disclose or to allow the disclosure, to any third party, in total or in part, the terms, of the conditions or any information contained therein without having the prior written consent of the sender. If you are not the intended receiver of this e-mail message/ document, please notify us immediately by sending us a message/ replying to this message; furthermore please delete the document/ message and all the attachments/ annexes from any servers, hard drives or any other media and do not make use, in any way, of its content. Any inobservance of the above shall be considered as damaging for the sender who shall be entitled to claim and to obtain any compensation. Thank you.
+
+Informatiile continute in prezentul document/ e-mail au caracter confidential. In acest sens, destinatarul prezentului document/ e-mail are obligatia de a nu divulga sau de a nu permite divulgarea catre un tert, in mod partial sau total, a prevederilor, conditiilor sau a oricarei informatii continute de acesta, fara a obtine in prealabil acordul scris al expeditorului. In cazul in care nu sunteti persoana careia ii este destinat acest mesaj/ document, va rugam sa ne notificati imediat prin trimiterea unui mesaj/ trimiterea unui raspuns la acest mesaj; in plus va rugam sa stergeti acest mesaj/ document, precum si toate atasamentele/ anexele de pe orice servere, hard drives sau orice alte componente media si sa nu folositi, in niciun fel, continutul acestuia. Orice nerespectare a celor de mai sus va fi considerata drept cauzatoare de prejudiciu pentru expeditor, care va fi indreptatit sa solicite si sa obtina acoperirea oricaror daune. Va multumim. »
+
+--- MESAJ m2163812 | 2026-10-05 15:38 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Iudith Elekes <iudith.elekes@rap-group.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Cerere de oferta cartus filtru
+Buna ziua,
+
+Va rog sa regasiti anexata oferta de pret actualizata pentru produsele solicitate.
+
+Asteptam raspunsul dumneavoastra!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02916 - RAP CONFECTIONERY - 05.10.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2133636 | 2026-10-14 15:20 | Inbox | EXTERN
+De la: Iudith Elekes <iudith.elekes@rap-group.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, cezar.irimie@rap-group.ro, ioan.muntean@rap-group.ro, magazie-mr.rapconf@rap-group.ro, daniela.popescu@rap-group.ro
+Subiect: C-DA AKRO NR. 15454 Re: Cerere de oferta cartus filtru
+Buna ziua,
+
+Atasat regasiti comanda pentru 12 bucati.
+
+Va multumesc si va rog sa ne trimiteti confirmarea comenzii.
+
+Multumesc
+
+--
+
+Cu stima
+
+Iudith
+Elekes
+
+Buyer
+
+Str.
+Mica 8, 500053
+
+Brasov, Romania
+
+Phone: +40
+268 406 220
+
+Mobile: +40
+731 606 015
+
+www.rap-group.ro
+
+Before
+you print think about the environment
+
+« The
+information enclosed in this document/ e-mail are to be
+treated as confidential. In this respect the addressee/
+the holder of this document/ e-mail, is obliged not to
+disclose or to allow the disclosure, to any third party,
+in total or in part, the terms, of the conditions or any
+information contained therein without having the prior
+written consent of the sender. If you are not the intended
+receiver of this e-mail message/ document, please notify
+us immediately by sending us a message/ replying to this
+message; furthermore please delete the document/ message
+and all the attachments/ annexes from any servers, hard
+drives or any other media and do not make use, in any way,
+of its content. Any inobservance of the above shall be
+considered as damaging for the sender who shall be
+entitled to claim and to obtain any compensation. Thank
+you.
+
+Informatiile continute in prezentul document/
+e-mail au caracter confidential. In acest sens,
+destinatarul prezentului document/ e-mail are obligatia de
+a nu divulga sau de a nu permite divulgarea catre un tert,
+in mod partial sau total, a prevederilor, conditiilor sau
+a oricarei informatii continute de acesta, fara a obtine
+in prealabil acordul scris al expeditorului. In cazul in
+care nu sunteti persoana careia ii este destinat acest
+mesaj/ document, va rugam sa ne notificati imediat prin
+trimiterea unui mesaj/ trimiterea unui raspuns la acest
+mesaj; in plus va rugam sa stergeti acest mesaj/ document,
+precum si toate atasamentele/ anexele de pe orice servere,
+hard drives sau orice alte componente media si sa nu
+folositi, in niciun fel, continutul acestuia. Orice
+nerespectare a celor de mai sus va fi considerata drept
+cauzatoare de prejudiciu pentru expeditor, care va fi
+indreptatit sa solicite si sa obtina acoperirea oricaror
+daune. Va multumim. »
+[ATAȘAMENT: C-DA AKRO NR. 15454.pdf | PDF fără text (scanat)]
+
+--- MESAJ m2167876 | 2026-10-14 15:30 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Iudith Elekes <iudith.elekes@rap-group.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, cezar.irimie@rap-group.ro, ioan.muntean@rap-group.ro, magazie-mr.rapconf@rap-group.ro, daniela.popescu@rap-group.ro
+Subiect: RE: C-DA AKRO NR. 15454 Re: Cerere de oferta cartus filtru
+Buna ziua Doamna Elekes,
+
+Va multumim pentru comanda!
+
+Din pacate doar 12 cartuse la acest moment nu mi se accepta pentru incepere productie de catre furnizor.
+
+Se poate sa respectam cantitatile din comanda conform ofertei S02916 la care faceti referire? Oferta anexata.
+
+Astept cu interes raspuns!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02916 - RAP CONFECTIONERY - 05.10.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2133668 | 2026-10-14 15:34 | Inbox | EXTERN
+De la: Iudith Elekes <iudith.elekes@rap-group.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, cezar.irimie@rap-group.ro, ioan.muntean@rap-group.ro, magazie-mr.rapconf@rap-group.ro, daniela.popescu@rap-group.ro
+Subiect: C-DA AKRO NR. 15454 REFACUTA Re: C-DA AKRO NR. 15454 Re: Cerere de oferta cartus filtru
+Am atasat comanda refacuta pentru 18 buc.
+
+--
+
+Cu stima
+
+Iudith
+Elekes
+
+Buyer
+
+Str.
+Mica 8, 500053
+
+Brasov, Romania
+
+Phone: +40
+268 406 220
+
+Mobile: +40
+731 606 015
+
+www.rap-group.ro
+
+Before
+you print think about the environment
+
+« The
+information enclosed in this document/ e-mail are to be
+treated as confidential. In this respect the addressee/
+the holder of this document/ e-mail, is obliged not to
+disclose or to allow the disclosure, to any third party,
+in total or in part, the terms, of the conditions or any
+information contained therein without having the prior
+written consent of the sender. If you are not the intended
+receiver of this e-mail message/ document, please notify
+us immediately by sending us a message/ replying to this
+message; furthermore please delete the document/ message
+and all the attachments/ annexes from any servers, hard
+drives or any other media and do not make use, in any way,
+of its content. Any inobservance of the above shall be
+considered as damaging for the sender who shall be
+entitled to claim and to obtain any compensation. Thank
+you.
+
+Informatiile continute in prezentul document/
+e-mail au caracter confidential. In acest sens,
+destinatarul prezentului document/ e-mail are obligatia de
+a nu divulga sau de a nu permite divulgarea catre un tert,
+in mod partial sau total, a prevederilor, conditiilor sau
+a oricarei informatii continute de acesta, fara a obtine
+in prealabil acordul scris al expeditorului. In cazul in
+care nu sunteti persoana careia ii este destinat acest
+mesaj/ document, va rugam sa ne notificati imediat prin
+trimiterea unui mesaj/ trimiterea unui raspuns la acest
+mesaj; in plus va rugam sa stergeti acest mesaj/ document,
+precum si toate atasamentele/ anexele de pe orice servere,
+hard drives sau orice alte componente media si sa nu
+folositi, in niciun fel, continutul acestuia. Orice
+nerespectare a celor de mai sus va fi considerata drept
+cauzatoare de prejudiciu pentru expeditor, care va fi
+indreptatit sa solicite si sa obtina acoperirea oricaror
+daune. Va multumim. »
+[ATAȘAMENT: C-DA AKRO NR. 15454 REFACUTA.pdf | PDF fără text (scanat)]
+
+--- MESAJ m2167908 | 2026-10-14 15:48 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Iudith Elekes <iudith.elekes@rap-group.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, cezar.irimie@rap-group.ro, ioan.muntean@rap-group.ro, magazie-mr.rapconf@rap-group.ro, daniela.popescu@rap-group.ro
+Subiect: RE: C-DA AKRO NR. 15454 REFACUTA Re: C-DA AKRO NR. 15454 Re: Cerere de oferta cartus filtru
+Buna ziua,
+
+Va multumesc pentru intelegere!
+
+Va trimit anexata confirmarea de comanda!
+
+De indata ce avem produsele in stoc, revin cu informatii legate de livrare!
+
+Numai bine,
+[ATAȘAMENT: Comanda - S02916 - RAP CONFECTIONERY - 14.10.2026.pdf | ofertă Odoo, parsată mai sus]
+
+####################################################################################################
+OFERTA S02917 | client: Hotel Avanti Beach, Venus | trimisă: 2026-10-06 10:04 | Odoo: nu e în lista Odoo | conversații: c2163940 (nr. 595)
+
+####################################################################################################
+RÂND c2163940 (nr. 595) | stare: Completă | categorie: 13-Filtre multistrat diferite medii | cerere: Stație filtrare și dedurizare apă pentru hotel
+CERINȚA: Cere ofertă pentru stație de filtrare (filtru cu autocurățare) și dedurizare apă pentru Hotel Avanti Beach, Venus. [m2163940] «Solicitare ofertă – stație filtrare și dedurizare apă – Hotel Avanti Beach, Venus»
+CERINȚĂ FINALĂ (debit): Debit nominal 5 m3/h [m2163940] «consum 24h – maxim 30mc , debit nominal de 5 m3/h»
+CERINȚĂ FINALĂ (capacitate): Consum maxim 30 mc/24h [m2163940] «consum 24h – maxim 30mc , debit nominal de 5 m3/h»
+CERINȚĂ FINALĂ (calitate apă): Calciu 50,5 mg/l, magneziu 36 mg/l, duritate 15,4 °G (date RAJA Constanța) [m2163940] «CALCIU 50,5 (mg/l Ca 2+), MAGNEZIU 36 (mg/l Mg 2+), DURITATE 15,4 (grade germane).»
+CERINȚĂ FINALĂ (altele): Duritate țintă 5-8 °G prin mixare apă tratată cu apă brută (blending) [m2163940] «nu va fi functional daca doriti sa obtineti 5-8 grade G»
+CERINȚĂ FINALĂ (tip echipament): Filtru de impurități Cintropur NW400 cu purjare manuală și stație duplex alternant 150 L (variante ABS 1.25" sau alamă 1.5") [m2163940] «La alegerea dumneavoastra – o statie de dedurizare duplex alternant de 150L cu MAV»
+CLARIFICARE: întrebare AKRO cere debitul maxim orar, consumul zilnic, racordul, presiunea și duritatea apei brute. [m2163940] «Care este debitul maxim orar necesar la instalatia de dedurizare?» → răspuns Clientul retrimite cerințele tehnice și datele RAJA pentru Venus (Ca, Mg, duritate 15,4 °G); valoarea Na o va cere separat. [m2163940] «Referitor la analiza proprietatilor fizico-chimice ale apei, va transmit datele de pe site RAJA Constanta pentru localitatea VENUS:» | schimbare: S-au stabilit 5 m3/h, maxim 30 mc/zi și duritatea de 15,4 °G, pe baza cărora s-a dimensionat stația de 150 L.
+CLARIFICARE: întrebare - → răspuns AKRO nu are filtre automate atât de mici și propune filtrul Cintropur cu purjare manuală; protecția antiretur, blending-ul și restul hidraulicii nu sunt ofertate. [m2163940] «Filtre automate asa de mici nu avem in portofoliu» | schimbare: Filtrul cu autocurățare cerut a fost înlocuit cu un filtru Cintropur NW400 cu purjare manuală; blending-ul se face prin by-pass de instalator.
+OFERTĂ ÎN TEXT: Contorul cerut poate fi un debitmetru electromagnetic 1.5" cu 4-20mA și MODBUS, aproximativ 7000 lei fără TVA [m2163940] «care costa in jur de 7000 de lei fara TVA – capabil sa trimita semnal 4-20mA si are comunicare MODBUS.»
+REZULTAT: necunoscut
+PREȚURI Ofertă S02917 v1 (2026-10-06), total 12522.09 EUR:
+  [01-008048] Filtru impuritati NW400 - 1.5" - echipat cu membrana lavabila din nylon 150 microni | 1.0 Units × 281.6 EUR | referință
+  [01-008049] Consola de prindere pentru carcasa cintropur NW 280/340/400 | 1.0 Units × 30.15 EUR | referință
+  [13-001297] DEC 150-1,25/duplex, Statie dedurizare duplex alternating, 150L rasina, vane Clack CI - 1,25" | 1.0 Units × 3485.48 EUR | referință
+  [13-001278] DEC 150-1.5/duplex, Statie dedurizare - duplex, racord 1.5", 150L rasina pe fiecare coloana - Vana Clack - CI -1.5" | 1.0 Units × 6551.6 EUR | referință
+  termen: Metoda de plata: O.P. - se va stabili la momentul contractarii
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12 luni de la livrare
+
+====================================================================================================
+CONVERSAȚIA c2163940 (nr. 595) | subiect: RE: Solicitare ofertă – stație filtrare și dedurizare apă – Hotel Avanti Beach, Venus
+Partener (după adrese): fionita04@yahoo.com Florentina Ionita - Radu | grupare nesigură: nu
+OFERTĂ S02917 v1 trimisă 2026-10-06 10:04 în m2163940 (Odoo: nu e în lista Odoo): [01-008048] Filtru impuritati NW400 - 1.5" - echipat cu membrana lavabila din nylon 150 micr x1.0 Units; [01-008049] Consola de prindere pentru carcasa cintropur NW 280/340/400 x1.0 Units; [13-001297] DEC 150-1,25/duplex, Statie dedurizare duplex alternating, 150L rasina, vane Cla x1.0 Units; [13-001278] DEC 150-1.5/duplex, Statie dedurizare - duplex, racord 1.5", 150L rasina pe fiec x1.0 Units
+
+--- MESAJ m2163940 | 2026-10-06 10:04 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Florentina Ionita - Radu <fionita04@yahoo.com>
+Cc: marcelio05@yahoo.com, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Solicitare ofertă – stație filtrare și dedurizare apă – Hotel Avanti Beach, Venus
+Buna ziua,
+
+Va multumim pentru clarificari!
+
+Pentru datele de intrare prezentate – consum 24h – maxim 30mc , debit nominal de 5 m3/h – statia de dedurizare de 150 L [ cu coloane de 18x65] va fi suficienta mai ales in ideea ca doriti si mixare de apa tratata cu apa bruta.
+
+Acestea fiind spuse va prezentam urmatoarea oferta de pret ce include :
+
+Un filtru de impuritati Cintropur NW400 – cu purjare manuala – echipat cu membrana lavabila din Nylon - fisa tehnica: https://akro.ro/public/fise/282-Fisa_tehnica_Filtru_mecanic_sedimente_NW280-340-400.pdf
+
+La alegerea dumneavoastra – o statie de dedurizare duplex alternant de 150L cu MAV
+
+Statie duplex 150L -cu vane din ABS – racord de 1.25” - si un singur tank de saramura de 350L
+
+Statie duplex 150L cu vane din Alama – racord de 1.5” - si un singur tank de saramura de 350L
+
+Va las anexate ambele fise tehnice ale sistemelor de dedurizare
+
+Indiferent de modelul de statie ales, oferta include livrarea produselor la beneficiar.
+
+Montajul, asamblarea si PIF-ul nu sunt incluse – insa vom asigura asistenta tehnica telefonica inclusiv schema de montaj si instructiuni de PIF.
+
+Legat de lista de echipamente va las mai jos detaliat raspunsul nostru:
+
+Protectie antiretur – nu am ofertat – face parte din componentele de hidraulica - se poate monta o supapa de sens [ de preferat dupa statia de dedurizare!]
+
+Filtrul mecanic – am ofertat varianta Belgiana Cintropur cu purjare manuala. Filtre automate asa de mici nu avem in portofoliu – iar spre exemplu o varianta de filtru de tip FTA + DP switch – cu vana electronica de purjare [ cum are NOBEL] – consider ca nu este necesara. Explic mai jos:
+
+Aceste filtre de tip purjare automata nu fac altceva decat sa deschida periodic vana de purja – la un timp setat sau la o cadere de presiune atinsa. Din experienta va transmit ca daca spre exemplu filtru initiaza spalare la DP – O simpla purjare va fi ineficienta [ particulele care obtureaza filtru de obicei nu pot fi purjate , ramamand “ agitate “ pe cartus]. In aceste cazuri tot o curatare manuala va trebui executata pentru decolmatare.
+
+Filtrele automate profesionale – ce sunt utilizate in industrie, sunt filtrele care curata cosul filtrant prin vacuum sau periaj – insa un astfel de filtru nu isi are sens in cazul aplicatiei dumneavoastra mai ales ca apa este potabila!
+
+Statie de dedurizare – am prezentat doua variante
+
+Sistem blending – nu am ofertat – acesta de obicei se face tot printr-un by-pass pe instalatie -partial deschis – si intra tot in cadrul componentelor de hidraulica. Intr-adevar , vanele Clack au integrate si un sistem de blend – insa in cazul dumneavoastra nu va fi functional daca doriti sa obtineti 5-8 grade G . Sistemul de blend integrat permite un debit de maxim 10-15% din debitul total – iar din calculatie – pe apa dumneavoastra se va obtine o duritate de +-2-3grade G
+
+Ar mai fi contorul solicitat . In principiu pentru aceasta pozitie se poate oferta un debitmetru electromagnetic – de 1.5” - care costa in jur de 7000 de lei fara TVA – capabil sa trimita semnal 4-20mA si are comunicare MODBUS.
+
+Restul de piese - By-pass + manometre + evacuare canal – pregatire pentru pompa booster – la fel vor trebui achizitionate si construite in site de instalator.
+
+Pentru orice alte informatii sau intrebari, va stau cu placere la dispozitie!
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Florentina Ionita - Radu <fionita04@yahoo.com>
+Sent: Monday, October 5, 2026 3:44 PM
+To: Alexandru Soare <sales@akro.ro>
+Cc: Marcel <marcelio05@yahoo.com>
+Subject: Re: Solicitare ofertă – stație filtrare și dedurizare apă – Hotel Avanti Beach, Venus
+
+Buna ziua, domnule Soare,
+
+Multumesc pentru raspuns.
+
+Datele tehnice sunt specificate in cerinte, pe care le reatasez.
+
+Referitor la analiza proprietatilor fizico-chimice ale apei, va transmit datele de pe site RAJA Constanta pentru localitatea VENUS: CALCIU 50,5 (mg/l Ca 2+), MAGNEZIU 36 (mg/l Mg 2+), DURITATE 15,4 (grade germane). Voi cere explicit valoarea Na, nu este in tipicul lor.
+
+Pentru mai multe detalii, va stau la dispozitie. Ma puteti contacta la tel 0744360344.
+
+Cu stima,
+
+Marcel Ionita-Radu
+
+Hotel Avanti Beach
+
+Venus
+
+On Monday, October 5, 2026 at 09:23:22 AM GMT+3, Alexandru Soare <sales@akro.ro> wrote:
+
+Buna ziua, Va multumim pentru solicitarea dumneavoastra! Pentru a va putea dimensiona instalatia de dedurizare respectiv filtrul cu [...] ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+
+Solicitare ofertă – stație filtrare și dedurizare apă – Hotel Avanti Beach, Venus
+
+Buna ziua,
+Va multumim pentru solicitarea dumneavoastra!
+Pentru a va putea dimensiona instalatia de dedurizare respectiv filtrul cu autocuratare, va rog sa clarificati:
+
+- Care este debitul maxim orar necesar la instalatia de dedurizare?
+- Care este consumul de apa tratata in 24h?
+- Care este dimensiunea racordului in locul in care urmeaza a fi montata instalatia de tratare?
+- Care este presiunea in conducta in locul in care urmeaza a fi montata instalatia de tratare?
+- Care este duritatea apei brute ? [ ar ajuta sa cunoastem si valoarea de sodiu din apa si conductivitatea acesteia].
+
+Asteptam cu interes raspunsul dumneavoastra!
+Numai bine,
+
+--
+Cu stima/Best regards,
+
+AKRO SRL
+
++40 268 413 180 | contact@akro.ro | https://www.akro.ro; www.kalyxx.ro; www.spectra.ro
+
+Powered by Odoo
+[ATAȘAMENT: Fisa tehnica - Statie de dedurizare - duplex 150L, 1.5.pdf | text extras]
+[ATAȘAMENT: Fisa tehnica - Statie de dedurizare - duplex, 1.25 - 150 L.pdf | text extras]
+[ATAȘAMENT: Oferta - S02917 - Hotel Avanti Beach - 06.10.2026.pdf | ofertă Odoo, parsată mai sus]
+
+####################################################################################################
+OFERTA S02921 | client: pald.ro | trimisă: 2026-10-06 14:29 | Odoo: nu e în lista Odoo | conversații: c2129476 (nr. 601)
+
+####################################################################################################
+RÂND c2129476 (nr. 601) | stare: Completă | categorie: 13-Filtre multistrat diferite medii | cerere: Stație de dedurizare pentru licitația UMF Timișoara
+CERINȚA: Cere ofertă tehnico-comercială pentru o stație de dedurizare conform fișei FT_IT14, plus fișa tehnică, termenul de livrare și garanția. [m2129476] «vă rugăm să ne transmiteți o ofertă tehnico-comercială pentru stația de dedurizare – 1 buc., conform fișei tehnice»
+CERINȚĂ FINALĂ (aplicație): Procedura de ofertare pentru UMF Victor Babeș Timișoara [m2129476] «În cadrul procedurii de ofertare pentru UMF»
+CERINȚĂ FINALĂ (cantitate): 1 buc [m2129476] «pentru stația de dedurizare – 1 buc., conform fișei tehnice»
+CERINȚĂ FINALĂ (tip echipament): Stație duplex alternantă [m2129604] «variantă duplex alternantă care să asigure debitul solicitat de minimum 3 m³/h»
+CERINȚĂ FINALĂ (debit): Minimum 3 m³/h [m2129604] «variantă duplex alternantă care să asigure debitul solicitat de minimum 3 m³/h»
+CERINȚĂ FINALĂ (capacitate): Minimum 150 m³×°G pe fiecare coloană [m2129604] «minimum 150 m³×°G pentru fiecare coloană.»
+CERINȚĂ FINALĂ (altele): Garanție minimum 3 ani de la punerea în funcțiune [m2129604] «minimum 3 ani de la punerea în funcțiune.»
+CLARIFICARE: întrebare - → răspuns AKRO interpretează fișa ca stație duplex alternant 2 x 150 m³×°G (schema funcțională arată o stație compactă) și ofertează stația twin 1" cu 50 L pe coloană. [m2164260] «se cauta o statie de dedurizare duplex alternant cu capacitate de 150mc x G0 pe fiecare coloana» | schimbare: Ofertat DEC 50 duplex twin, 50 L pe coloană, livrat asamblat, fără montaj și PIF.
+CLARIFICARE: întrebare Clientul observă că DEC 50 duplex are 1,4 m³/h nominal / 2,5 m³/h maxim, sub cei 3 m³/h ceruți, și cere o variantă potrivită. [m2129604] «DEC 50 DUPLEX este indicat un debit nominal de 1,4 m³/h și un debit maxim de» → răspuns AKRO corectează calculația debitului maxim pentru stația de 50 L (viteză de filtrare până la 45-50 m/h) și retrimite fișa tehnică. [m2164324] «Va trimit anexata calculatia de debit maxim corectat pentru statia de 50L.» | schimbare: Se păstrează stația de 50 L, cu fișa tehnică recalculată pentru debitul cerut.
+CLARIFICARE: întrebare Clientul întreabă dacă garanția de 24 luni poate fi extinsă la minimum 3 ani de la PIF. [m2129604] «garanția de 24 luni de la livrare poate fi extinsă/aliniată la cerința proiectului de» → răspuns Extinderea garanției la 3 ani costă suplimentar 6-7%. [m2164324] «puteti lua in calcul un cost suplimentar de 6-7% pentru extinderea garantiei la 3 ani in total.» | schimbare: Garanție de 3 ani posibilă cu cost suplimentar de 6-7%.
+OFERTĂ ÎN TEXT: Extinderea garanției la 3 ani: cost suplimentar de 6-7% [m2164324] «puteti lua in calcul un cost suplimentar de 6-7% pentru extinderea garantiei la 3 ani in total.»
+REZULTAT: necunoscut
+PREȚURI Ofertă S02921 v1 (2026-10-06), total 9090.93 RON:
+  [13-001263] DEC 50-1/duplex, Statie dedurizare duplex twin, 50L rasina, vana Clack CITT - 1" | 1.0 buc × 8839.04 RON | referință
+  [-] Reducere: 15.00% | 1.0 buc × -1325.88 RON | serviciu
+  termen: Metoda de plata: O.P. se va discuta la momentul contractarii
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 24luni de la livrare
+
+====================================================================================================
+CONVERSAȚIA c2129476 (nr. 601) | subiect: CERERE OFERTA LICITATIE_UMF TM
+Partener (după adrese): pald.ro Rada Alexandru | grupare nesigură: nu
+OFERTĂ S02921 v1 trimisă 2026-10-06 14:29 în m2164260 (Odoo: nu e în lista Odoo): [13-001263] DEC 50-1/duplex, Statie dedurizare duplex twin, 50L rasina, vana Clack CITT - 1" x1.0 buc; [-] Reducere: 15.00% x1.0 buc
+
+--- MESAJ m2129476 | 2026-10-06 13:48 | Inbox | EXTERN
+De la: Rada Alexandru <alexandru.rada@pald.ro>
+Către: alexandru.soare@akro.ro <alexandru.soare@akro.ro>
+Cc: office@akro.ro
+Subiect: CERERE OFERTA LICITATIE_UMF TM
+Bună ziua,
+
+În cadrul procedurii de ofertare pentru UMF „Victor Babeș” Timișoara, vă rugăm să ne transmiteți o ofertă tehnico-comercială pentru
+stația de dedurizare – 1 buc., conform fișei tehnice
+FT_IT14 atașate.
+
+Vă rugăm să ne transmiteți și fișa tehnică a echipamentului ofertat, termenul de livrare și garanția acordată.
+
+Având în vedere termenul apropiat pentru finalizarea ofertei, am aprecia un răspuns în cel mai scurt timp posibil.
+
+Vă mulțumim pentru sprijin.
+
+Cu stimă,
+
+Disclaimer: This
+message contains confidential information and is intended only for the individual named. If you are not the named addressee you should not disseminate, distribute or copy this e-mail. Please notify the sender immediately by e-mail if you have received this
+e-mail by mistake and delete this e-mail from your system. E-mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted, lost, destroyed, arrive late or incomplete, or contain viruses. The sender therefore
+does not accept liability for any errors or omissions in the contents of this message, which arise as a result of e-mail transmission. If verification is required please request a hard-copy version.
+
+Please consider the environment before printing this email.
+[ATAȘAMENT: IT13_Schema functionala incalzire.pdf | PDF fără text (scanat)]
+[ATAȘAMENT: FT_IT14_Statie de dedurizare 3 mch.pdf | PDF fără text (scanat)]
+
+--- MESAJ m2164228 | 2026-10-06 14:11 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: CERERE OFERTA LICITATIE_UMF TM
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Rada Alexandru <alexandru.rada@pald.ro>
+Sent: Tuesday, October 6, 2026 1:48 PM
+To: alexandru.soare@akro.ro
+Cc: office@akro.ro
+Subject: CERERE OFERTA LICITATIE_UMF TM
+
+Bună ziua,
+
+În cadrul procedurii de ofertare pentru UMF „Victor Babeș” Timișoara, vă rugăm să ne transmiteți o ofertă tehnico-comercială pentru stația de dedurizare – 1 buc., conform fișei tehnice FT_IT14 atașate.
+
+Vă rugăm să ne transmiteți și fișa tehnică a echipamentului ofertat, termenul de livrare și garanția acordată.
+
+Având în vedere termenul apropiat pentru finalizarea ofertei, am aprecia un răspuns în cel mai scurt timp posibil.
+
+Vă mulțumim pentru sprijin.
+
+Cu stimă,
+
+Disclaimer: This message contains confidential information and is intended only for the individual named. If you are not the named addressee you should not disseminate, distribute or copy this e-mail. Please notify the sender immediately by e-mail if you have received this e-mail by mistake and delete this e-mail from your system. E-mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted, lost, destroyed, arrive late or incomplete, or contain viruses. The sender therefore does not accept liability for any errors or omissions in the contents of this message, which arise as a result of e-mail transmission. If verification is required please request a hard-copy version.
+
+Please consider the environment before printing this email.
+[ATAȘAMENT: IT13_Schema functionala incalzire.pdf | PDF fără text (scanat)]
+[ATAȘAMENT: FT_IT14_Statie de dedurizare 3 mch.pdf | PDF fără text (scanat)]
+
+--- MESAJ m2164260 | 2026-10-06 14:29 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Rada Alexandru <alexandru.rada@pald.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: CERERE OFERTA LICITATIE_UMF TM
+Buna ziua Dl Rada,
+
+Am primit solicitarea , va multumim!
+
+Conform cu descrierea din fisa tehnica, pentru aceasta lucrare se cauta o statie de dedurizare duplex alternant cu capacitate de 150mc x G0 pe fiecare coloana – [Spun asta pentru ca solicitarea este clara 2 x 150].
+
+In schema functionala este reprezentata o statie de dedurizare COMPACTA [ casnica] – dar nu are legatura cu descrierea din fisa.
+
+Acestea fiind spuse, va trimit anexata cotatia de pret pentru 1 statie duplex alternant cu vana Clack twin -1” – cu 50L pe fiecare coloana.
+
+Fisa tehnica anexata
+
+Oferta include livrarea statiei la beneficiar – gata asamblate.
+
+Montajul si PIF-ul nu sunt incluse.
+
+Pentru orice alte intrebari, va stau cu placere la dispozitie!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02921 - PALD - 06.10.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: Fisa tehnica - Statii de dedurizare - duplex, 1 - 50L.pdf | text extras]
+
+--- MESAJ m2129604 | 2026-10-06 14:39 | Inbox | EXTERN
+De la: Rada Alexandru <alexandru.rada@pald.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: CERERE OFERTA LICITATIE_UMF TM
+Bună ziua,
+
+Vă mulțumesc pentru oferta și fișa tehnică transmise.
+
+În urma verificării, am observat că pentru modelul
+DEC 50 DUPLEX este indicat un debit nominal de 1,4 m³/h și un debit maxim de
+2,5 m³/h, în timp ce fișa tehnică a proiectului solicită un debit de 3 m³/h.
+
+Vă rog să ne transmiteți, dacă este posibil, o
+variantă duplex alternantă care să asigure debitul solicitat de minimum 3 m³/h, menținând totodată capacitatea solicitată de
+minimum 150 m³×°G pentru fiecare coloană.
+
+De asemenea, vă rugăm să ne confirmați dacă
+garanția de 24 luni de la livrare poate fi extinsă/aliniată la cerința proiectului de
+minimum 3 ani de la punerea în funcțiune.
+
+Vă mulțumesc pentru sprijin.
+
+Cu stimă,
+
+Disclaimer: This
+message contains confidential information and is intended only for the individual named. If you are not the named addressee you should not disseminate, distribute or copy this e-mail. Please notify the sender immediately by e-mail if you have received this
+e-mail by mistake and delete this e-mail from your system. E-mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted, lost, destroyed, arrive late or incomplete, or contain viruses. The sender therefore
+does not accept liability for any errors or omissions in the contents of this message, which arise as a result of e-mail transmission. If verification is required please request a hard-copy version.
+
+Please consider the environment before printing this email.
+
+--- MESAJ m2164324 | 2026-10-06 14:47 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Rada Alexandru <alexandru.rada@pald.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: CERERE OFERTA LICITATIE_UMF TM
+Buna ziua Dl Rada,
+
+Imi cer scuze , nu stiu de ce prima fisa prezentata era calculata la o viteza de filtrare maxima de 35m/h.
+
+Rasina de dedurizare functioneaza in parametrii la viteze de filtrare maxime de pana la 45-50m/h.
+
+Va trimit anexata calculatia de debit maxim corectat pentru statia de 50L.
+
+Referitor la extinderea garantiei, puteti lua in calcul un cost suplimentar de 6-7% pentru extinderea garantiei la 3 ani in total.
+
+Cu respect,
+[ATAȘAMENT: Fisa tehnica - Statii de dedurizare - duplex, 1 - 50L.pdf | text extras]
+
+--- MESAJ m2129636 | 2026-10-06 14:55 | Inbox | EXTERN
+De la: Rada Alexandru <alexandru.rada@pald.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: CERERE OFERTA LICITATIE_UMF TM
+Bună ziua,
+
+Vă mulțumesc pentru clarificări și pentru fișa tehnică revizuită.
+
+Am verificat documentația transmisă și vom ține cont de informațiile și parametrii actualizați, precum și de costul suplimentar menționat
+pentru extinderea garanției.
+
+Vă mulțumesc pentru suport și promptitudine.
+
+Cu stimă,
+
+Disclaimer: This
+message contains confidential information and is intended only for the individual named. If you are not the named addressee you should not disseminate, distribute or copy this e-mail. Please notify the sender immediately by e-mail if you have received this
+e-mail by mistake and delete this e-mail from your system. E-mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted, lost, destroyed, arrive late or incomplete, or contain viruses. The sender therefore
+does not accept liability for any errors or omissions in the contents of this message, which arise as a result of e-mail transmission. If verification is required please request a hard-copy version.
+
+Please consider the environment before printing this email.
+
+####################################################################################################
+OFERTA S02922 | client: TICKET SOFT S.R.L. | trimisă: 2026-10-07 09:34 | Odoo: nu e în lista Odoo | conversații: c2164484, c2131556 (nr. 605, 629)
+
+####################################################################################################
+RÂND c2164484 (nr. 605) | stare: Fără cerință clară | categorie: 14-Componente pentru filtre multistrat | cerere: Mase filtrante și manoperă de înlocuire, instalația NOBEL
+CERINȚA: -
+CERINȚĂ FINALĂ (tip echipament): Instalația NOBEL: filtru dual FCV 05, filtru FACV07, stație dedurizare AS600 [m2164484] «Filtru dual FCV 05 + Filtru FACV07 + Statie dedurizare AS600metter»
+CERINȚĂ FINALĂ (aplicație): Înlocuirea maselor filtrante și manopera, în baza vizitei AKRO din ziua precedentă [m2164484] «In baza vizitei de ieri , va trimit anexata cotatia de pret pentru materialele filtrante necesare»
+REZULTAT: necunoscut
+
+####################################################################################################
+RÂND c2131556 (nr. 629) | stare: După vânzare | categorie: 14-Componente pentru filtre multistrat | cerere: Mase filtrante și manoperă de înlocuire, instalația NOBEL
+CERINȚA: -
+CERINȚĂ FINALĂ (tip echipament): Instalația NOBEL: filtru dual FCV 05, filtru FACV07, stație dedurizare AS600 [m2131556] «Filtru dual FCV 05 + Filtru FACV07 + Statie dedurizare AS600metter»
+CERINȚĂ FINALĂ (termen): Lucrarea să fie efectuată cât mai repede [m2131556] «Rog efectuati demersurile necesare pentru efectuarea lucrarii in cel mai scurt timp.»
+CERINȚĂ FINALĂ (loc livrare): Clientul ridică materialele de la sediul AKRO [m2131556] «Materialele le vom ridica si transporta la locatie, direct de la sediul dumneavoastra.»
+CLARIFICARE: întrebare - → răspuns Clientul ridică și transportă singur materialele. [m2131556] «Materialele le vom ridica si transporta la locatie, direct de la sediul dumneavoastra.» | schimbare: Livrarea materialelor nu mai cade în sarcina AKRO.
+REZULTAT: acceptată — Clientul confirmă oferta; AKRO trimite confirmarea de comandă S02922. [m2131556] «va confirm. Rog efectuati demersurile necesare pentru efectuarea lucrarii»
+PREȚURI Ofertă S02922 v1 (2026-10-07), total 16743.01 RON:
+  [14-002033] Nisip cuartos 2-4 mm b | 125.0 kg × 2.93 RON | referință
+  [14-002034] Nisip cuartos 0,8-1,2 mm, b | 100.0 kg × 2.93 RON | referință
+  [14-002032] Nisip cuartos 0,4-0,8 mm b | 100.0 kg × 2.93 RON | referință
+  [14-002038] Mediu filtrant hydroanthracite 0,8 – 1,6 mm | 75.0 L × 11.57 RON | referință
+  [14-002052] Carbune activ granular LG85 (0.6-2.4mm) pentru filtrare apa | 120.0 kg × 23.56 RON | referință
+  [14-002100] Rasina dedurizare PURE RESIN PC003 | 100.0 L × 19.9 RON | referință
+  [16-002001] Deplasare - golire si inlocuire mase filtrante in instalatie | None  × None RON | serviciu
+  termen: Modul de livrare: In sarcina Akro
+PREȚURI Confirmare de comandă S02922 v1 (2026-10-09), total 16743.01 RON:
+  [14-002033] Nisip cuartos 2-4 mm b | 125.0 kg × 2.93 RON | referință
+  [14-002034] Nisip cuartos 0,8-1,2 mm, b | 100.0 kg × 2.93 RON | referință
+  [14-002032] Nisip cuartos 0,4-0,8 mm b | 100.0 kg × 2.93 RON | referință
+  [14-002038] Mediu filtrant hydroanthracite 0,8 – 1,6 mm | 75.0 L × 11.57 RON | referință
+  [14-002052] Carbune activ granular LG85 (0.6-2.4mm) pentru filtrare apa | 120.0 kg × 23.56 RON | referință
+  [14-002100] Rasina dedurizare PURE RESIN PC003 | 100.0 L × 19.9 RON | referință
+  [16-002001] Deplasare - golire si inlocuire mase filtrante in instalatie | None  × None RON | serviciu
+  termen: Modul de livrare: In sarcina Akro
+
+====================================================================================================
+CONVERSAȚIA c2164484 (nr. 605) | subiect: Oferta - masa filtranta + manopera de schimb
+Partener (după adrese): yaggerchalet.com  | grupare nesigură: nu
+OFERTĂ S02922 v1 trimisă 2026-10-07 09:34 în m2164484 (Odoo: nu e în lista Odoo): [14-002033] Nisip cuartos 2-4 mm b x125.0 kg; [14-002034] Nisip cuartos 0,8-1,2 mm, b x100.0 kg; [14-002032] Nisip cuartos 0,4-0,8 mm b x100.0 kg; [14-002038] Mediu filtrant hydroanthracite 0,8 – 1,6 mm x75.0 L; [14-002052] Carbune activ granular LG85 (0.6-2.4mm) pentru filtrare apa x120.0 kg; [14-002100] Rasina dedurizare PURE RESIN PC003 x100.0 L; [-] Deplasare - golire si inlocuire mase filtrante in instalatie xNone 
+OFERTĂ S02922 v1 trimisă 2026-10-07 09:35 în m2164516 (Odoo: nu e în lista Odoo): [14-002033] Nisip cuartos 2-4 mm b x125.0 kg; [14-002034] Nisip cuartos 0,8-1,2 mm, b x100.0 kg; [14-002032] Nisip cuartos 0,4-0,8 mm b x100.0 kg; [14-002038] Mediu filtrant hydroanthracite 0,8 – 1,6 mm x75.0 L; [14-002052] Carbune activ granular LG85 (0.6-2.4mm) pentru filtrare apa x120.0 kg; [14-002100] Rasina dedurizare PURE RESIN PC003 x100.0 L; [-] Deplasare - golire si inlocuire mase filtrante in instalatie xNone 
+
+--- MESAJ m2164484 | 2026-10-07 09:34 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: dan.colt@yaggerchalet.com <dan.colt@yaggerchalet.com>, pp.ticketing@gmail.com <pp.ticketing@gmail.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Oferta - masa filtranta + manopera de schimb
+Buna ziua Dl Colt,
+
+In baza vizitei de ieri , va trimit anexata cotatia de pret pentru materialele filtrante necesare si manopera de inlocuire a acestora in cadrul instalatiei de tratare NOBEL.[ Filtru dual FCV 05 + Filtru FACV07 + Statie dedurizare AS600metter]
+
+Produsele le putem avea disponibile pentru livrare in 2-3 saptamani de la comanda
+
+Interventia se va programa in maxim 1 saptamana din momentul in care am trimis materialele la dumneavoastra.
+
+Asteptam cu interes raspunsul dumenavoastra!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02922 - Ticket Soft - 07.10.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2164516 | 2026-10-07 09:35 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: dan.colt@yagerchalet.com <dan.colt@yagerchalet.com>
+Subiect: FW: Oferta - masa filtranta + manopera de schimb
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Wednesday, October 7, 2026 9:35 AM
+To: 'dan.colt@yaggerchalet.com' <dan.colt@yaggerchalet.com>; 'pp.ticketing@gmail.com' <pp.ticketing@gmail.com>
+Cc: 'office@akro.ro' <office@akro.ro>; 'andrei.dobrei@akro.ro' <andrei.dobrei@akro.ro>
+Subject: Oferta - masa filtranta + manopera de schimb
+
+Buna ziua Dl Colt,
+
+In baza vizitei de ieri , va trimit anexata cotatia de pret pentru materialele filtrante necesare si manopera de inlocuire a acestora in cadrul instalatiei de tratare NOBEL.[ Filtru dual FCV 05 + Filtru FACV07 + Statie dedurizare AS600metter]
+
+Produsele le putem avea disponibile pentru livrare in 2-3 saptamani de la comanda
+
+Interventia se va programa in maxim 1 saptamana din momentul in care am trimis materialele la dumneavoastra.
+
+Asteptam cu interes raspunsul dumenavoastra!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02922 - Ticket Soft - 07.10.2026.pdf | ofertă Odoo, parsată mai sus]
+
+====================================================================================================
+CONVERSAȚIA c2131556 (nr. 629) | subiect: AKRO Oferta - masa filtranta + manopera de schimb
+Partener (după adrese): yagerchalet.com Dan Colt | grupare nesigură: nu
+OFERTĂ S02922 v1 trimisă 2026-10-09 12:21 în m2166212 (Odoo: nu e în lista Odoo): [14-002033] Nisip cuartos 2-4 mm b x125.0 kg; [14-002034] Nisip cuartos 0,8-1,2 mm, b x100.0 kg; [14-002032] Nisip cuartos 0,4-0,8 mm b x100.0 kg; [14-002038] Mediu filtrant hydroanthracite 0,8 – 1,6 mm x75.0 L; [14-002052] Carbune activ granular LG85 (0.6-2.4mm) pentru filtrare apa x120.0 kg; [14-002100] Rasina dedurizare PURE RESIN PC003 x100.0 L; [-] Deplasare - golire si inlocuire mase filtrante in instalatie xNone 
+
+--- MESAJ m2131556 | 2026-10-09 11:50 | Inbox | EXTERN
+De la: Dan Colt <dan.colt@yagerchalet.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: pp.ticketing@gmail.com
+Subiect: AKRO Oferta - masa filtranta + manopera de schimb
+Buna ziua,
+
+va confirm.
+
+Rog efectuati demersurile necesare pentru efectuarea lucrarii in cel mai scurt timp.
+
+Materialele le vom ridica si transporta la locatie, direct de la sediul dumneavoastra.
+
+Multumesc.
+
+Cu consideratie,
+
+Dan Colt
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Wednesday, October 7, 2026 9:35 AM
+To: dan.colt@yagerchalet.com
+Subject: FW: Oferta - masa filtranta + manopera de schimb
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Wednesday, October 7, 2026 9:35 AM
+To: 'dan.colt@yaggerchalet.com' <dan.colt@yaggerchalet.com>; 'pp.ticketing@gmail.com' <pp.ticketing@gmail.com>
+Cc: 'office@akro.ro' <office@akro.ro>; 'andrei.dobrei@akro.ro' <andrei.dobrei@akro.ro>
+Subject: Oferta - masa filtranta + manopera de schimb
+
+Buna ziua Dl Colt,
+
+In baza vizitei de ieri , va trimit anexata cotatia de pret pentru materialele filtrante necesare si manopera de inlocuire a acestora in cadrul instalatiei de tratare NOBEL.[ Filtru dual FCV 05 + Filtru FACV07 + Statie dedurizare AS600metter]
+
+Produsele le putem avea disponibile pentru livrare in 2-3 saptamani de la comanda
+
+Interventia se va programa in maxim 1 saptamana din momentul in care am trimis materialele la dumneavoastra.
+
+Asteptam cu interes raspunsul dumenavoastra!
+
+Numai bine,
+
+--- MESAJ m2166212 | 2026-10-09 12:21 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dan Colt <dan.colt@yagerchalet.com>
+Cc: pp.ticketing@gmail.com, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: AKRO Oferta - masa filtranta + manopera de schimb
+Buna ziua Dl Colt,
+Va multumim pentru comanda!
+
+Va rog sa regasiti anexata confirmarea AKRO.
+
+Revin cu detalii de indata ce avem toate produsele in stoc.
+
+Cu respect,
+[ATAȘAMENT: Comanda - S02922 - Ticket Soft - 09.10.2026.pdf | ofertă Odoo, parsată mai sus]
+
+####################################################################################################
+OFERTA S02925 | client: Aconstantinese Mihai | trimisă: 2026-10-07 10:01 | Odoo: nu e în lista Odoo | conversații: c2164580 (nr. 607)
+
+####################################################################################################
+RÂND c2164580 (nr. 607) | stare: Fără cerință clară | categorie: 13-Filtre multistrat diferite medii | cerere: 6 dedurizatoare galvanice KalyxX 3/4 Blue Line
+CERINȚA: -
+CERINȚĂ FINALĂ (cantitate): 6 bucăți [m2164580] «Va rog sa regasiti anexata oferta de pret pentru 6 bucati dedurizatoare galvanice»
+REZULTAT: necunoscut
+PREȚURI Ofertă S02925 v1 (2026-10-07), total 4012.8 RON:
+  [13-001107] Dedurizator galvanic IPS KalyxX BlueLine G3/4" | 6.0 buc × 600.79 RON (reducere 8.0%) | referință
+  termen: Modul de livrare: In sarcina beneficiarului
+  termen: Garantie: 24 luni de la livrare
+  termen: Termen de plata: 100% in avans
+
+====================================================================================================
+CONVERSAȚIA c2164580 (nr. 607) | subiect: Oferta 6 dedurizatoare galvanice 3/4"
+Partener (după adrese): aco_mihai@yahoo.com  | grupare nesigură: nu
+OFERTĂ S02925 v1 trimisă 2026-10-07 10:01 în m2164580 (Odoo: nu e în lista Odoo): [13-001107] Dedurizator galvanic IPS KalyxX BlueLine G3/4" x6.0 buc
+
+--- MESAJ m2164580 | 2026-10-07 10:01 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: aco_mihai@yahoo.com <aco_mihai@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Oferta 6 dedurizatoare galvanice 3/4"
+Buna ziua,
+
+Va rog sa regasiti anexata oferta de pret pentru 6 bucati dedurizatoare galvanice ¾” – blue line.
+
+Produsele sunt in stoc si se pot ridica chiar si astazi.
+
+Va rog sa ne spuneti daca raman pentru a va trimite factura pentru plata si a se pregati de catre colegii mei.
+
+Cu respect,
+[ATAȘAMENT: Oferta - S02925 - ACONSTANTINESE MIHAI- 07.10.2026.pdf | ofertă Odoo, parsată mai sus]
+
+####################################################################################################
+OFERTA S02926 | client: ZERNOFF S.R.L. | trimisă: 2026-10-07 10:31 | Odoo: nu e în lista Odoo | conversații: c2164612 (nr. 608)
+
+####################################################################################################
+RÂND c2164612 (nr. 608) | stare: Completă | categorie: 01-Filtre impuritati | cerere: Carcasă filtrantă multicartuș inox și cartușe 40" pentru etanol
+CERINȚA: Cere ofertă pentru o carcasă filtrantă multicartuș și primul set de cartușe. [m2164612] «Multi-cartridge filter housing + first set of cartridges»
+CERINȚĂ FINALĂ (aplicație): Filtrare etanol ~96% vol, la temperatura mediului [m2164612] «Ethanol, ~96 % vol, ambient temperature»
+CERINȚĂ FINALĂ (debit): Minim 30 m³/h (proiectat 35–40 m³/h) [m2164612] «Min. 30 m³/h (design 35–40 m³/h)»
+CERINȚĂ FINALĂ (tip echipament): Cartușe PP 40", 5 µm și 10 µm nominal [m2164612] «5 µm and 10 µm nominal, PP cartridges 40»
+CERINȚĂ FINALĂ (altele): Carcasă AISI 316L, ≥ 10 bar, capac cu deschidere rapidă [m2164612] «AISI 316L, ≥ 10 bar, flanged DN80, quick-opening lid»
+CERINȚĂ FINALĂ (racord): Flanșe DN80 [m2164612] «AISI 316L, ≥ 10 bar, flanged DN80»
+CERINȚĂ FINALĂ (altele): Conformitate CE / PED, potrivit pentru zonă ATEX [m2164612] «CE / PED, suitable for ATEX zone»
+CERINȚĂ FINALĂ (loc livrare): DAP Chișinău, Moldova [m2164612] «Delivery DAP Chisinau, Moldova, and lead time (stock availability preferred)»
+CLARIFICARE: întrebare - → răspuns Carcasele și filtrele nu au certificat ATEX, doar CE. [m2164612] «Carcasele filtrante si filtrele nu prezinta acest certificat ATEX» | schimbare: Cerința ATEX nu poate fi îndeplinită; produsele au doar certificat CE.
+CLARIFICARE: întrebare - → răspuns AKRO propune o carcasă standard cu 7 cartușe de 40" P8, racord DIN 11851 80 mm, cartușe PP pliate 5 µm. [m2164612] «Racord in/out – Din 11851 – 80mm» | schimbare: Propunere: carcasă standard 7 cartușe 40" P8, racord DIN 11851 80 mm, cartușe 5 µm; ΔP < 0,18 bar la 35 m³/h; execuție 5-8 săptămâni.
+REZULTAT: necunoscut
+PREȚURI Ofertă S02926 v1 (2026-10-07), total 3676.1 EUR:
+  [01-009079] Carcasa filtranta inox, multicartus, MVB7S4D80P8L Primeste 7 cartuse de 40" - prindere P8 | 1.0 Units × 2354.76 EUR | referință
+  [01-009078] Manometru,ventil de aerisire si prelevare probe-pentru carcase SV si MVB XGS-SS010BU-D63 | 1.0 Units × 295.0 EUR | referință
+  [01-010263] Cartus filtrant starfine SFM5K4P8E Cartuse P8 de 40" PP pliata, finete de filtrare 5 microni | 7.0 Units × 146.62 EUR | referință
+  termen: Metoda de plata: O.P.50% in advance; 50% before collection
+  termen: Modul de livrare: EXWORKS AKRO - BRASOV
+
+====================================================================================================
+CONVERSAȚIA c2164612 (nr. 608) | subiect: RE: RFQ Multi-cartridge filter housing + first set of cartridges
+Partener (după adrese): verum.md Serghei Cataraga | grupare nesigură: nu
+OFERTĂ S02926 v1 trimisă 2026-10-07 10:31 în m2164612 (Odoo: nu e în lista Odoo): [01-009079] Carcasa filtranta inox, multicartus, MVB7S4D80P8L Primeste 7 cartuse de 40" - pr x1.0 Units; [01-009078] Manometru,ventil de aerisire si prelevare probe-pentru carcase SV si MVB XGS-SS0 x1.0 Units; [01-010263] Cartus filtrant starfine SFM5K4P8E Cartuse P8 de 40" PP pliata, finete de filtra x7.0 Units
+
+--- MESAJ m2164612 | 2026-10-07 10:31 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Serghei Cataraga <serghei.cataraga@verum.md>
+Cc: aprovizionare@zernoff.md, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: RFQ Multi-cartridge filter housing + first set of cartridges
+Buna ziua Dl Cataraga,
+
+Imi cer scuze pentru raspunsul intarziat, insa a trebuit sa verific cu producatorul timpul real de executie a carcasei si daca aceasta prezinta certificat ATEX.
+
+Carcasele filtrante si filtrele nu prezinta acest certificat ATEX [ nici nu prea are cum sa fie certificate atex dat fiind ca acestea nu au in componenta motoare sau actionari electrice].
+
+Carcasele prezinta certificat CE.
+
+Daca se accepta aceasta varianta, atunci va rog sa regasiti anexata propunerea noastra pentru:
+
+O carcasa standard multicartus – ce poate primi 7 cartuse de 40” cu prindere P8
+
+Racord in/out – Din 11851 – 80mm [ acesta este standardul]
+
+1 manometru + ventil de aerisire si prelevare probe
+
+7 cartuse de 5 microni – PP pliata.
+
+Las anexate si fisele tehnice ale produselor.
+
+Estimatul de DP pe intreaga carcasa cu tot cu cartuse considerand un debit de 35m3/h – este de <0.18bar
+
+Estimarea de productie la acest moment este de aproximativ 5-8 saptamani.
+
+Pentru orice alte informatii sau intrebari va stau cu placere la dispozitie!
+
+Cu respect,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Serghei Cataraga <serghei.cataraga@verum.md>
+Sent: Monday, September 28, 2026 3:31 PM
+To: 'sales@akro.ro' <sales@akro.ro>
+Cc: Aprovizionare Zernoff <aprovizionare@zernoff.md>
+Subject: RFQ Multi-cartridge filter housing + first set of cartridges
+
+Dear Sirs,
+
+Î.M. "ZERNOFF" S.R.L. . kindly invites you to submit your best offer for the supply of the following equipment:
+
+Parameter
+
+Requirement
+
+Equipment
+
+Multi-cartridge filter housing + first set of cartridges
+
+Medium
+
+Ethanol, ~96 % vol, ambient temperature
+
+Flow rate
+
+Min. 30 m³/h (design 35–40 m³/h)
+
+Filtration
+
+5 µm and 10 µm nominal, PP cartridges 40"
+
+Housing
+
+AISI 316L, ≥ 10 bar, flanged DN80, quick-opening lid
+
+Accessories
+
+Inlet/outlet pressure gauges, vent & drain valves, grounding lug, EPDM/PTFE seals
+
+Compliance
+
+CE / PED, suitable for ATEX zone
+
+Option
+
+Duplex version (2 × 100 % with change-over valve)
+
+Please include in your offer:
+
+Price of the housing and of replacement cartridges
+
+Delivery DAP Chisinau, Moldova, and lead time (stock availability preferred)
+
+Payment terms and warranty
+
+Datasheet
+
+With kindest regards,
+
+________________
+
+Serghei CATARAGA
+
+CPO Zernoff Group of Companies
+
+MD-2029, Chisinau,
+
+Republic of Moldova
+
+cell: +373 7999 1493
+
+phone: +373 22 955 419
+
+e-mail: serghei.cataraga@verum.md
+
+www.zernoff.md
+
+• Globally we emit over 36 billion tonnes of CO2 per year (ourworldindata.org)
+
+• The U.N. climate report and subsequent reports have warned us that global carbon pollution must be cut in half in the next 10 years for us to avoid catastrophic, irreversible damage to our planet. (earthday.org)
+
+• Approx 246 million child labourers worldwide
+
+• Approx 27 million are currently enslaved in human trafficking around the world
+
+• Global losses of fraud amount to 5.127 trillion US dollars
+
+• 47% of companies suffered at least one incident of financial crime over the previous 12 months.
+[ATAȘAMENT: MVB_E_05.pdf | text extras]
+[ATAȘAMENT: StarFine_E_05.pdf | text extras]
+[ATAȘAMENT: Oferta - S02926 - ZERNOFF - 07.10.2026.pdf | ofertă Odoo, parsată mai sus]
+
+####################################################################################################
+OFERTA S02931 | client: Cornu Boulangerie SRL | trimisă: 2026-10-08 09:28 | Odoo: nu e în lista Odoo | conversații: c2130436 (nr. 613)
+
+####################################################################################################
+RÂND c2130436 (nr. 613) | stare: Completă | categorie: 12-Chimicale pentru conditionare si intretinere | cerere: Un palet de sare pentru dedurizare
+CERINȚA: Comandă fermă pentru un palet de sare pentru dedurizare, cu livrare la începutul săptămânii următoare. [m2130436] «Prin prezenta aveti comanda ferma de un palet de sare dedurizare cu livrare la inceputul»
+CERINȚĂ FINALĂ (cantitate): 1 palet de sare (40 saci de 25 kg tablete) [m2165252] «Sare tablete AKRO - dedurizare 25 kg 40,00 buc»
+CERINȚĂ FINALĂ (termen): Livrare la începutul săptămânii următoare [m2130436] «cu livrare la inceputul saptamanii viitoare»
+REZULTAT: acceptată — Comandă fermă confirmată de AKRO; livrare prin Pallex. [m2130436] «Prin prezenta aveti comanda ferma de un palet de sare dedurizare»
+PREȚURI Confirmare de comandă S02931 v1 (2026-10-08), total 1996.5 RON:
+  [12-002006] Sare tablete AKRO - dedurizare 25 kg | 40.0 buc × 41.25 RON | referință
+  termen: Modul de livrare: In sarcina Akro
+
+====================================================================================================
+CONVERSAȚIA c2130436 (nr. 613) | subiect: Comanda sare dedurizare 08.10.2026
+Partener (după adrese): cornuboulangerie.ro Eugen Popa | grupare nesigură: nu
+OFERTĂ S02931 v1 trimisă 2026-10-08 09:28 în m2165252 (Odoo: nu e în lista Odoo): [12-002006] Sare tablete AKRO - dedurizare 25 kg x40.0 buc
+
+--- MESAJ m2130436 | 2026-10-08 09:23 | Inbox | EXTERN
+De la: Eugen Popa <eugen.popa@cornuboulangerie.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Comanda sare dedurizare 08.10.2026
+Buna ziua
+
+Prin prezenta aveti comanda ferma de un palet de sare dedurizare cu livrare la inceputul
+saptamanii viitoare
+
+Meilleures salutations et bonne journée / Mit freundlichen Grüssen / Kind regards
+
+Eugen Popa
+
+Responsable exploitation
+
+Cornu Boulangerie SRL
+
+cornu.ch
+
+Cet e-mail est ŕ l'intention exclusive de la personne ŕ laquelle il est adressé, et peut contenir des informations privilégiées et/ou confidentielles. Si vous
+recevez ce message par erreur, il vous est strictement interdit de le garder, de le distribuer, de le faire suivre ou de le copier. Merci d'en avertir immédiatement l'expéditeur par téléphone (+41 24 436 15 42) ou par un e-mail en retour et de supprimer la
+transmission originale ainsi que toute copie.
+
+This e-mail is intended only for the person to which it is addressed and may contain information that is privileged and/or confidential. If you
+are not the intended recipient, you are hereby notified that any dissemination or copying of this communication is prohibited. Please notify us of the error in communication by telephone (+41 24 436 15 42) or by return e-mail and destroy all copies of this
+communication.
+
+--- MESAJ m2165220 | 2026-10-08 09:24 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: Comanda sare dedurizare 08.10.2026
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Eugen Popa <eugen.popa@cornuboulangerie.ro>
+Sent: Thursday, October 8, 2026 9:23 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: Comanda sare dedurizare 08.10.2026
+
+Buna ziua
+
+Prin prezenta aveti comanda ferma de un palet de sare dedurizare cu livrare la inceputul saptamanii viitoare
+
+Meilleures salutations et bonne journée / Mit freundlichen Grüssen / Kind regards
+
+Eugen Popa
+
+Responsable exploitation
+
+Cornu Boulangerie SRL
+
+cornu.ch
+
+Cet e-mail est ŕ l'intention exclusive de la personne ŕ laquelle il est adressé, et peut contenir des informations privilégiées et/ou confidentielles. Si vous recevez ce message par erreur, il vous est strictement interdit de le garder, de le distribuer, de le faire suivre ou de le copier. Merci d'en avertir immédiatement l'expéditeur par téléphone (+41 24 436 15 42) ou par un e-mail en retour et de supprimer la transmission originale ainsi que toute copie.
+
+This e-mail is intended only for the person to which it is addressed and may contain information that is privileged and/or confidential. If you are not the intended recipient, you are hereby notified that any dissemination or copying of this communication is prohibited. Please notify us of the error in communication by telephone (+41 24 436 15 42) or by return e-mail and destroy all copies of this communication.
+
+--- MESAJ m2165252 | 2026-10-08 09:28 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Eugen Popa <eugen.popa@cornuboulangerie.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Comanda sare dedurizare 08.10.2026
+Buna ziua Dl Popa,
+
+Va multumim pentru comanda!
+
+Va rog sa regasiti anexata confirmarea.
+
+Revin de indata ce am incarcat paletul din cariera.
+
+Cu respect,
+[ATAȘAMENT: Comanda - S02931 - Cornu Boulangerie - 08.10.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2165540 | 2026-10-08 10:57 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Eugen Popa <eugen.popa@cornuboulangerie.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Comanda sare dedurizare 08.10.2026
+Buna ziua Dl Popa,
+
+Avem OK-ul pentru incarcarea paletului in aceasta dupa masa .
+
+Produsele se vor livra la dumneavoastra in acest caz luni sau cel tarziu marti prin Pallex.
+
+Anexat va rog sa regasiti avizul de expeditie.
+
+Colegii vor reveni cu detaliile de livrare si factura fiscala!
+
+Cu respect,
+[ATAȘAMENT: Operațiuni de ridicare - EUGEN POPA - WH_OUT_01279.pdf | text extras]
+
+--- MESAJ m2130724 | 2026-10-08 11:12 | Inbox | AKRO
+De la: andrei.dobrei@akro.ro <andrei.dobrei@akro.ro>
+Către: eugen.popa@cornuboulangerie.ro <eugen.popa@cornuboulangerie.ro>
+Cc: office@akro.ro, alexandru.soare@akro.ro
+Subiect: FW: Comanda sare dedurizare 08.10.2026
+Buna ziua,
+
+Va rog sa regasiti in atasament CMR in vederea livrarii paletului de sare catre dumneavoastra.
+
+Estimarea de livrare conform CMR este 12-13 octombrie.
+
+Va multumim!
+
+Cu stima,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Thursday, October 8, 2026 10:57 AM
+To: 'Eugen Popa' <eugen.popa@cornuboulangerie.ro>
+Cc: office@akro.ro; andrei.dobrei@akro.ro
+Subject: RE: Comanda sare dedurizare 08.10.2026
+
+Buna ziua Dl Popa,
+
+Avem OK-ul pentru incarcarea paletului in aceasta dupa masa .
+
+Produsele se vor livra la dumneavoastra in acest caz luni sau cel tarziu marti prin Pallex.
+
+Anexat va rog sa regasiti avizul de expeditie.
+
+Colegii vor reveni cu detaliile de livrare si factura fiscala!
+
+Cu respect,
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Thursday, October 8, 2026 9:28 AM
+To: 'Eugen Popa' <eugen.popa@cornuboulangerie.ro>
+Cc: 'office@akro.ro' <office@akro.ro>; 'andrei.dobrei@akro.ro' <andrei.dobrei@akro.ro>
+Subject: RE: Comanda sare dedurizare 08.10.2026
+
+Buna ziua Dl Popa,
+
+Va multumim pentru comanda!
+
+Va rog sa regasiti anexata confirmarea.
+
+Revin de indata ce am incarcat paletul din cariera.
+
+Cu respect,
+
+From: Eugen Popa <eugen.popa@cornuboulangerie.ro>
+Sent: Thursday, October 8, 2026 9:23 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: Comanda sare dedurizare 08.10.2026
+
+Buna ziua
+
+Prin prezenta aveti comanda ferma de un palet de sare dedurizare cu livrare la inceputul saptamanii viitoare
+
+Meilleures salutations et bonne journée / Mit freundlichen Grüssen / Kind regards
+
+Eugen Popa
+
+Responsable exploitation
+
+Cornu Boulangerie SRL
+
+cornu.ch
+
+Cet e-mail est à l'intention exclusive de la personne à laquelle il est adressé, et peut contenir des informations privilégiées et/ou confidentielles. Si vous recevez ce message par erreur, il vous est strictement interdit de le garder, de le distribuer, de le faire suivre ou de le copier. Merci d'en avertir immédiatement l'expéditeur par téléphone (+41 24 436 15 42) ou par un e-mail en retour et de supprimer la transmission originale ainsi que toute copie.
+
+This e-mail is intended only for the person to which it is addressed and may contain information that is privileged and/or confidential. If you are not the intended recipient, you are hereby notified that any dissemination or copying of this communication is prohibited. Please notify us of the error in communication by telephone (+41 24 436 15 42) or by return e-mail and destroy all copies of this communication.
+[ATAȘAMENT: CORNU BOULANGERIE_08.10.2026_900285.pdf | text extras]
+
+####################################################################################################
+OFERTA S02932 | client: ANTREPRIZA CONNECTING CORPORATE S.R.L. | trimisă: 2026-10-08 09:37 | Odoo: nu e în lista Odoo | conversații: c2130468 (nr. 614)
+
+####################################################################################################
+RÂND c2130468 (nr. 614) | stare: Completă | categorie: 13-Filtre multistrat diferite medii | cerere: 3 dedurizatoare galvanice KalyxX 3/4
+CERINȚA: Comandă pentru 3 filtre dedurizatoare galvanice KalyxX cu filet de 3/4. [m2130468] «Dorim să facem o comandă pentru filtru dedurizator Kalix cu filet de»
+CERINȚĂ FINALĂ (cantitate): 3 bucăți [m2165348] «confirmarea de comanda si avizul de expeditie pentru cele 3 dedurizatoare»
+CERINȚĂ FINALĂ (loc livrare): Timișoara, Strada Armoniei nr. 20A [m2130468] «Livrare în Timișoara Strada Armoniei Nr 20A.»
+REZULTAT: acceptată — Comandă trimisă de client, confirmată și expediată prin FAN Courier. [m2130468] «Dorim să facem o comandă pentru filtru dedurizator Kalix»
+PREȚURI Confirmare de comandă S02932 v1 (2026-10-08), total 1903.75 RON:
+  [13-001107] Dedurizator galvanic IPS KalyxX BlueLine G3/4" | 3.0 buc × 617.0 RON (reducere 15.0%) | referință
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12 luni de la livrare
+
+====================================================================================================
+CONVERSAȚIA c2130468 (nr. 614) | subiect: Comandă Filtru Galvanic
+Partener (după adrese): instalatii.antrepriza@gmail.com ANTREPRIZA INSTALATII | grupare nesigură: nu
+OFERTĂ S02932 v1 trimisă 2026-10-08 09:37 în m2165348 (Odoo: nu e în lista Odoo): [13-001107] Dedurizator galvanic IPS KalyxX BlueLine G3/4" x3.0 buc
+
+--- MESAJ m2130468 | 2026-10-08 09:24 | Inbox | EXTERN
+De la: ANTREPRIZA INSTALATII <instalatii.antrepriza@gmail.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Comandă Filtru Galvanic
+Bună ziua
+
+Dorim să facem o comandă pentru filtru dedurizator Kalix cu filet de ¾ , 3 bucăți .
+
+Livrare în Timișoara Strada Armoniei Nr 20A.
+
+--- MESAJ m2165316 | 2026-10-08 09:31 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: Comandă Filtru Galvanic
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: ANTREPRIZA INSTALATII <instalatii.antrepriza@gmail.com>
+Sent: Thursday, October 8, 2026 9:25 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: Comandă Filtru Galvanic
+
+Bună ziua
+
+Dorim să facem o comandă pentru filtru dedurizator Kalix cu filet de ¾ , 3 bucăți .
+
+Livrare în Timișoara Strada Armoniei Nr 20A.
+
+--- MESAJ m2165348 | 2026-10-08 09:37 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: ANTREPRIZA INSTALATII <instalatii.antrepriza@gmail.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Comandă Filtru Galvanic
+Buna ziua,
+
+Va multumim pentru comanda!
+
+Va rog sa regasiti anexata confirmarea de comanda si avizul de expeditie pentru cele 3 dedurizatoare.
+
+Produsele sunt in stoc si se vor incarca astazi la FAN CURIER.
+
+Colegii mei vor reveni cu reply la e-mail – factura fiscala si AWB.
+
+Cu respect.
+[ATAȘAMENT: Operațiuni de ridicare - _Mateiasi Laurentiu - WH_OUT_01280.pdf | text extras]
+[ATAȘAMENT: Comanda - S02932 - Antrepriza - 08.10.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2130500 | 2026-10-08 10:09 | Inbox | AKRO
+De la: andrei.dobrei@akro.ro <andrei.dobrei@akro.ro>
+Către: instalatii.antrepriza@gmail.com <instalatii.antrepriza@gmail.com>
+Cc: alexandru.soare@akro.ro, office@akro.ro
+Subiect: FW: Comandă Filtru Galvanic
+Buna ziua,
+
+Va rog sa regasiti in atasament AWB in vederea livrarii dedurizatoarelor catre dumneavoastra. Produsele vor fi colectate astazi de catre Fan Courier.
+
+Va multumim!
+
+Cu stima,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Thursday, October 8, 2026 9:38 AM
+To: 'ANTREPRIZA INSTALATII' <instalatii.antrepriza@gmail.com>
+Cc: office@akro.ro; andrei.dobrei@akro.ro
+Subject: RE: Comandă Filtru Galvanic
+
+Buna ziua,
+
+Va multumim pentru comanda!
+
+Va rog sa regasiti anexata confirmarea de comanda si avizul de expeditie pentru cele 3 dedurizatoare.
+
+Produsele sunt in stoc si se vor incarca astazi la FAN CURIER.
+
+Colegii mei vor reveni cu reply la e-mail – factura fiscala si AWB.
+
+Cu respect.
+
+From: ANTREPRIZA INSTALATII <instalatii.antrepriza@gmail.com>
+Sent: Thursday, October 8, 2026 9:25 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: Comandă Filtru Galvanic
+
+Bună ziua
+
+Dorim să facem o comandă pentru filtru dedurizator Kalix cu filet de ¾ , 3 bucăți .
+
+Livrare în Timișoara Strada Armoniei Nr 20A.
+[ATAȘAMENT: 7000171618253_ANTREPRIZA CONNECTING CORPORATE_08.10.2026.pdf | text extras]
+
+####################################################################################################
+OFERTA S02919 | client: UTI CONSTRUCTION AND FACILITY MANAGEMENT SA | trimisă: 2026-10-08 12:45 | Odoo: nu e în lista Odoo | conversații: c2165604 (nr. 619)
+
+####################################################################################################
+RÂND c2165604-1 (nr. 619.1) | stare: Completă | categorie: 13-Filtre multistrat diferite medii | cerere: Stație de dedurizare pentru licitația Spital Buftea
+CERINȚA: Cere ofertă de preț de licitație pentru stația de dedurizare, conform anexelor. [m2165604] «Va rog sa imi transmiteti oferta de pret de licitatie, pentru Statie dedurizare, conform anexe.»
+CERINȚĂ FINALĂ (altele): Garanție 120 luni [m2165604] «pentru Statie dedurizare, conform anexe. Garantie 120 luni»
+CERINȚĂ FINALĂ (termen): Răspuns până la 14.10.2026 [m2165604] «Termen de primire raspuns: v 14.10.2026.»
+CLARIFICARE: întrebare - → răspuns AKRO propune două variante de stație de 700 L: Clack DEC 700-2QC și Runxin. [m2165604] «Fisa tehnica – F5-23 – trebuie sa alegeti o varianta din cele doua propuse de statii de dedurizare» | schimbare: Clientul trebuie să aleagă între Clack DEC 700-2QC și Runxin RX99 (700 L).
+CLARIFICARE: întrebare - → răspuns Garanția standard e 12 luni, extensibilă la max. 5 ani contra cost. [m2165604] «Garantia standard pentru aceste produse este de 12 luni» | schimbare: Garanție 12 luni, extensibilă la max. 5 ani (5% din valoare/an), față de 120 luni cerute.
+REZULTAT: necunoscut
+
+####################################################################################################
+RÂND c2165604-2 (nr. 619.2) | stare: Fără cerință clară | categorie: 27-Uv | cerere: Sterilizator UV PN16 (fișa F5-06)
+CERINȚA: -
+CERINȚĂ FINALĂ (tip echipament): Sterilizator UV PN16 conform fișei F5-06 [m2165604] «Fisa tehnica – F5-06 – Sterilizator UV – PN16»
+CLARIFICARE: întrebare - → răspuns AKRO ofertează SITA AM 96 ECO cu opțiune PN16 (varianta PLUS). [m2165604] «Am ofertat modelul de la SITA – UV AM 96 ECO – PN16 si varianta PLUS» | schimbare: Echipament propus: SITA AM 96 ECO PLUS cu opțiunea de 16 bar.
+REZULTAT: necunoscut
+
+####################################################################################################
+RÂND c2165604-3 (nr. 619.3) | stare: Fără cerință clară | categorie: 11-Pompe de dozare | cerere: Stație de clorinare (fișa F5-07)
+CERINȚA: -
+CERINȚĂ FINALĂ (tip echipament): Stație de clorinare conform fișei F5-07 [m2165604] «Fisa tehnica – F5-07- Statie de clorinare»
+CLARIFICARE: întrebare - → răspuns Fișa nu are detalii de gabarit; AKRO a considerat țeavă DN100 și presiune max. 10 bar. [m2165604] «Aici nu sunt detalii despre gabarit , insa am considerat teava de montaj DN100» | schimbare: S-a presupus țeavă DN100 și max. 10 bar; fără tablou de automatizare separat.
+REZULTAT: necunoscut
+PREȚURI Ofertă S02919 v1 (2026-10-08), total 48363.05 EUR:
+  [27-001300] Sistem_UV_apa_AM 96 ECO PLUS 316L_Putere 666W_doza UV 40 mJ/cmp@UVT 90%_debit max.55 m3/h_SITA | 1.0 buc × 11756.42 EUR | referință
+  [27-001301] Optiune presiune 16_BAR_pentru sitem UV apa_AM96_SITA | 1.0 buc × 600.0 EUR | referință
+  [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 | 1.0 buc × 131.63 EUR | referință
+  [11-002026] LANCE DE ASPIRATIE CU SENZOR DE NIVEL PENTRU REZERVOR 100L, CONEXIUNI 4x6mm | 1.0 buc × 105.98 EUR | referință
+  [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie de un semn | 1.0 buc × 407.75 EUR | referință
+  [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 | 1.0 buc × 525.0 EUR | referință
+  [13-001308] DEC 700-2QC/duplex, Statie dedurizare - duplex, racord 2QC", 700L rasina pe fiecare coloana - Vana Clack - CI -2QC" | 1.0 buc × 15947.64 EUR | referință
+  [13-001164] Statie dedurizare duplex 2x700L, Vana RX99 - 2" | 1.0 buc × 10495.04 EUR | referință
+  termen: Metoda de plata: O.P. se va stabili la momentul contractarii
+  termen: Modul de livrare: In sarcina Akro /
+  termen: Garantie: 12 luni de la livrare - garantia extinsa poate ﬁ asigurata pana la maxim 5 ani - costul pentru extragarantie ﬁind de 5%
+
+====================================================================================================
+CONVERSAȚIA c2165604 (nr. 619) | subiect: RE: Cerere oferta pentru licitatie - Obiectiv: CONSTRUIRE, DOTARE ȘI AMENAJARE A SPITALULUI DE OBSTETRICĂ-GINECOLOGIE BUFTEA
+Partener (după adrese): uticfm.ro Catalin Oprea, Livia Nan, Cristian Paul Popa | grupare nesigură: nu
+OFERTĂ S02919 v1 trimisă 2026-10-08 12:45 în m2165604 (Odoo: nu e în lista Odoo): [27-001300] Sistem_UV_apa_AM 96 ECO PLUS 316L_Putere 666W_doza UV 40 mJ/cmp@UVT 90%_debit ma x1.0 buc; [27-001301] Optiune presiune 16_BAR_pentru sitem UV apa_AM96_SITA x1.0 buc; [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 x1.0 buc; [11-002026] LANCE DE ASPIRATIE CU SENZOR DE NIVEL PENTRU REZERVOR 100L, CONEXIUNI 4x6mm x1.0 buc; [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual x1.0 buc; [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 x1.0 buc; [13-001308] DEC 700-2QC/duplex, Statie dedurizare - duplex, racord 2QC", 700L rasina pe fiec x1.0 buc; [13-001164] Statie dedurizare duplex 2x700L, Vana RX99 - 2" x1.0 buc
+
+--- MESAJ m2165604 | 2026-10-08 12:45 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Catalin Oprea <catalin.oprea@uticfm.ro>
+Cc: livia.nan@uticfm.ro, c.popa@uticfm.ro, ileana.antonescu@akro.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Cerere oferta pentru licitatie - Obiectiv: CONSTRUIRE, DOTARE ȘI AMENAJARE A SPITALULUI DE OBSTETRICĂ-GINECOLOGIE BUFTEA
+Buna ziua Dl Oprea,
+
+Va multumim pentru solicitarea dumneavoastra!
+
+Va rog sa regasiti anexata cotatia de pret pentru 3 din echipamentele solicitate in fisele tehnice aferente acestei licitatii:
+
+Fisa tehnica – F5-06 – Sterilizator UV – PN16
+
+Am ofertat modelul de la SITA – UV AM 96 ECO – PN16 si varianta PLUS [ anexat regasiti fisa tehnica]
+
+Fisa tehnica – F5-07- Statie de clorinare
+
+Aici nu sunt detalii despre gabarit , insa am considerat teava de montaj DN100 si presiune in teava nu mai mare de 10bar.
+
+Rezervor de 100L PE
+
+Lance de aspiratie rigida cu senzor de nivel
+
+Pompa dozatoare TPG 603 [ cu kit de injectie inclus]
+
+Contoar mecanic – DN 100 – cu modul inductiv 1/100 [ care sa trimita semnal la pompa]
+
+Sistemul propus nu are un tablou de automatizare separat – practic statia se alimenteaza cu tensiune – se regleaza si dozaeaza volumetric - din calculatorul integrat in pompa [ meniul pompei]
+
+Fisa tehnica – F5-23 – trebuie sa alegeti o varianta din cele doua propuse de statii de dedurizare :
+
+Produs 13-001308 – Dedurizator CLACK [SUA] – de 700L DEC 700 – 2QC
+
+Produs 13-001164 – Dedurizator RUNXIN[China] – de 700L
+
+Ambele variante de sisteme vor functiona – dar exista diferente de calitate:
+
+Spre exemplu vanele din China nu pot fi servisate in timp ce la Clack se pot inlocui toate piesele interne in mai putin de 10 minute
+
+Vanele Clack au corp din alama – vanele chinezesti sunt complet din plastic.
+
+S.a.
+
+Oferta include livrarea produselor la beneficiar.
+
+Montajul si PIF-ul nu sunt incluse
+
+Garantia standard pentru aceste produse este de 12 luni – se poate extinde garantia pana la maxim 5 ani – contra cost – pretul fiind de 5% din valoarea proiectului/ an
+
+Pentru orice alte informatii sau intrebari, va stau cu placere la dispozitie!
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Catalin Oprea <catalin.oprea@uticfm.ro>
+Sent: Friday, October 2, 2026 6:29 PM
+To: Catalin Oprea <catalin.oprea@uticfm.ro>
+Cc: Livia Nan <livia.nan@uticfm.ro>; Cristian Paul Popa <c.popa@uticfm.ro>
+Subject: Cerere oferta pentru licitatie - Obiectiv: CONSTRUIRE, DOTARE ȘI AMENAJARE A SPITALULUI DE OBSTETRICĂ-GINECOLOGIE BUFTEA
+
+Buna ziua,
+
+Va rog sa imi transmiteti oferta de pret de licitatie, pentru Statie dedurizare, conform anexe.
+
+Garantie 120 luni
+
+Termen de primire raspuns: v 14.10.2026.
+
+Multumesc,
+
+Catalin Oprea
+
+Procurement Analist
+
+UTI CONSTRUCTION AND FACILITY MANAGEMENT SA
+
+Șoseaua Olteniței, nr 107A, 041303, sector 4, București, România
+
+m +40 722 350 076
+
+t +40314 079 222
+
+f +40314 079 291
+
+catalin.oprea@uti.eu.com
+
+www.uti.eu.com
+[ATAȘAMENT: AM 96 ECO eng.pdf | text extras]
+[ATAȘAMENT: Fisa tehnica_Pompa de dozare TPG.pdf | text extras]
+[ATAȘAMENT: Fisa tehnica_Vas stocare chimicale 100 litri.pdf | text extras]
+[ATAȘAMENT: Fisa tehnica WPD WPHD RO DG.pdf | text extras]
+[ATAȘAMENT: Oferta - S02919 - UTI CONSTRUCTION AND FACILITY MANAGEMENT - 08.10.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: Fisa tehnica - Statie de dedurizare - duplex,700L -  2QC.pdf | text extras]
+[ATAȘAMENT: BS_2800_D2_RX99.pdf | text extras]
+[ATAȘAMENT: FT - DEDURIZARE DUPLEX.pdf | text extras]
+
+####################################################################################################
+OFERTA S02934 | client: PORR CONSTRUCT SRL | trimisă: 2026-10-08 12:51 | Odoo: nu e în lista Odoo | conversații: c2129828 (nr. 606)
+
+####################################################################################################
+RÂND c2129828-1 (nr. 606.1) | stare: Completă | categorie: 27-Uv | cerere: Sterilizator UV apă potabilă 40 m³/h (fișa F5-06)
+CERINȚA: Cere ofertă pentru licitația Spitalului Buftea: sterilizator UV apă rece potabilă Q=40 mc/h, conform fișei F5-06. [m2129828] «Sterilizator UV apa rece potabila - Q=40 mc/h | buc | 1 | IS F5-06»
+CERINȚĂ FINALĂ (debit): Debit nominal 40 m³/h (maxim 46 m³/h) [m2129828] «Debit nominal sterilizator UV: 40 m³/h»
+CERINȚĂ FINALĂ (altele): Doză UV garantată ≥ 40 mJ/cm² la UVT 90% [m2129828] «Doză UV garantată: ≥ 40 mJ/cm² la UVT = 90 %/1 cm»
+CERINȚĂ FINALĂ (altele): Reactor din inox AISI 316L [m2129828] «Material reactor: Oțel inox AISI 316L (interior pasivat)»
+CERINȚĂ FINALĂ (altele): Presiune nominală PN 10–16 bar [m2129828] «Presiune nominală: PN 10–16 bar»
+CERINȚĂ FINALĂ (racord): DN 100, flanșe PN16 [m2129828] «Conexiuni: DN 100 – flanșe PN16»
+CLARIFICARE: întrebare - → răspuns AKRO ofertează SITA AM 96 ECO cu opțiune PN16 (varianta PLUS). [m2165636] «Am ofertat modelul de la SITA – UV AM 96 ECO – PN16 si varianta PLUS» | schimbare: Echipament propus: SITA AM 96 ECO PLUS cu opțiunea de 16 bar.
+REZULTAT: necunoscut
+
+####################################################################################################
+RÂND c2129828-2 (nr. 606.2) | stare: Completă | categorie: 11-Pompe de dozare | cerere: Kit de clorinare (fișa F5-07)
+CERINȚA: Cere ofertă pentru un kit de clorinare conform fișei F5-07. [m2129828] «Kit de clorinare | buc | 1 | IS F5-07»
+CERINȚĂ FINALĂ (tip echipament): Vas de stocare hipoclorit cu sorb și senzor de nivel [m2129828] «Vas de stocare soluție hipoclorit cu sorb și senzor de nivel»
+CERINȚĂ FINALĂ (tip echipament): Contor de apă cu generator de impuls pentru dozare proporțională [m2129828] «Contor apa cu generator de impuls pentru dozare proporțională»
+CLARIFICARE: întrebare - → răspuns Fișa nu are detalii de gabarit; AKRO a considerat țeavă DN100 și presiune max. 10 bar. [m2165636] «Aici nu sunt detalii despre gabarit , insa am considerat teava de montaj DN100 si presiune in teava nu mai mare de 10bar.» | schimbare: S-a presupus țeavă DN100 și max. 10 bar; propunere: rezervor 100 L PE, lance cu senzor de nivel, pompă TPG 603, contor DN100 cu modul 1/100.
+CLARIFICARE: întrebare - → răspuns Sistemul propus nu are tablou de automatizare separat. [m2165636] «Sistemul propus nu are un tablou de automatizare separat» | schimbare: Fără tablou local separat; reglajul se face din calculatorul pompei.
+REZULTAT: necunoscut
+
+####################################################################################################
+RÂND c2129828-3 (nr. 606.3) | stare: Completă | categorie: 13-Filtre multistrat diferite medii | cerere: Stație de dedurizare duplex 15 m³/h (fișa F5-23)
+CERINȚA: Cere ofertă pentru o stație de dedurizare duplex conform fișei F5-23. [m2129828] «Statie de dedurizare a apei tip duplex | buc | 1 | IS F5-23»
+CERINȚĂ FINALĂ (debit): 15 m³/h [m2129828] «Statie de dedurizare a apei tip duplex Debitul: 15 m³/h»
+CERINȚĂ FINALĂ (calitate apă): Duritate la intrare 37 °F, la ieșire 6 °F [m2129828] «Valoarea duritatii apei la intrare in statie = 37 grade franceze;»
+CERINȚĂ FINALĂ (altele): Garanție minim 7 ani de la PIF [m2129828] «Garantie: minim 7 ani de la punerea in functiune»
+CLARIFICARE: întrebare - → răspuns AKRO propune două variante de stație de 700 L: Clack DEC 700-2QC și Runxin. [m2165636] «Fisa tehnica – F5-23 – trebuie sa alegeti o varianta din cele doua propuse de statii de dedurizare» | schimbare: Clientul trebuie să aleagă între Clack DEC 700-2QC și Runxin RX99 (700 L).
+CLARIFICARE: întrebare - → răspuns Garanția standard e 12 luni, extensibilă la max. 5 ani contra cost. [m2165636] «Garantia standard pentru aceste produse este de 12 luni» | schimbare: Garanție 12 luni, extensibilă până la 5 ani (5%/an), față de minim 7 ani cerut în fișă.
+REZULTAT: necunoscut
+PREȚURI Ofertă S02934 v1 (2026-10-08), total 48363.05 EUR:
+  [27-001300] Sistem_UV_apa_AM 96 ECO PLUS 316L_Putere 666W_doza UV 40 mJ/cmp@UVT 90%_debit max.55 m3/h_SITA | 1.0 buc × 11756.42 EUR | referință
+  [27-001301] Optiune presiune 16_BAR_pentru sitem UV apa_AM96_SITA | 1.0 buc × 600.0 EUR | referință
+  [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 | 1.0 buc × 131.63 EUR | referință
+  [11-002026] LANCE DE ASPIRATIE CU SENZOR DE NIVEL PENTRU REZERVOR 100L, CONEXIUNI 4x6mm | 1.0 buc × 105.98 EUR | referință
+  [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie de un semn | 1.0 buc × 407.75 EUR | referință
+  [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 | 1.0 buc × 525.0 EUR | referință
+  [13-001308] DEC 700-2QC/duplex, Statie dedurizare - duplex, racord 2QC", 700L rasina pe fiecare coloana - Vana Clack - CI -2QC" | 1.0 buc × 15947.64 EUR | referință
+  [13-001164] Statie dedurizare duplex 2x700L, Vana RX99 - 2" | 1.0 buc × 10495.04 EUR | referință
+  termen: Metoda de plata: O.P. / Cash / CEC / B.O.
+  termen: Modul de livrare: DPD / TNT / Curieri rapid / In sarcina Akro / In sarcina beneficiarului
+  termen: Garantie: 12/24 luni de la livrare
+
+====================================================================================================
+CONVERSAȚIA c2129828 (nr. 606) | subiect: cerere oferta spital Buftea
+Partener (după adrese): porr.ro Cireasa Mihai-Cezar | grupare nesigură: nu
+OFERTĂ S02934 v1 trimisă 2026-10-08 12:51 în m2165636 (Odoo: nu e în lista Odoo): [27-001300] Sistem_UV_apa_AM 96 ECO PLUS 316L_Putere 666W_doza UV 40 mJ/cmp@UVT 90%_debit ma x1.0 buc; [27-001301] Optiune presiune 16_BAR_pentru sitem UV apa_AM96_SITA x1.0 buc; [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 x1.0 buc; [11-002026] LANCE DE ASPIRATIE CU SENZOR DE NIVEL PENTRU REZERVOR 100L, CONEXIUNI 4x6mm x1.0 buc; [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual x1.0 buc; [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 x1.0 buc; [13-001308] DEC 700-2QC/duplex, Statie dedurizare - duplex, racord 2QC", 700L rasina pe fiec x1.0 buc; [13-001164] Statie dedurizare duplex 2x700L, Vana RX99 - 2" x1.0 buc
+
+--- MESAJ m2129828 | 2026-10-07 09:39 | Inbox | EXTERN
+De la: Cireasa Mihai-Cezar <mihai.cireasa@porr.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro
+Subiect: cerere oferta spital Buftea
+Best regards/Cu stima
+
+Cireasa Mihai-Cezar
+
+Project Manager MEP
+
+Building Construction Division
+
+PORR CONSTRUCT SRL
+
+Sediu social: Bd. Dimitrie Pompeiu, nr. 5-7, Spatiul A, Etaj 3
+
+Metroffice, Bucuresti, Sector 2
+
+M.:+40 724 204 899
+
+T. : +40 (0) 21 312 65 00
+
+F. : +40 (0) 21 312 65 01
+
+construct@porr.ro (
+www.porr.ro
+
+Nr. R.C. J2004011341404, C.F. RO16601724
+[ATAȘAMENT: F5-06.xlsx | text extras]
+## F5-06
+Proiect: | CONSTRUIRE, DOTARE ȘI AMENAJARE A SPITALULUI DE OBSTETRICĂ-GINECOLOGIE BUFTEA ȘI DESFIINȚARE CONSTRUCȚII EXISTENTE (C1–C15),RELOCARE STAȚIE DE OXIGEN ȘI RELOCARE GOSPODĂRIE APĂ
+Beneficiar: | Consiliu Judetean Ilfov
+Adresa: | Amplasamentul obiectivului este: pentru imobilul situat în județul ILFOV, orașul BUFTEA, cod poștal 070000, str. STUDIOULUI nr. 5, DOCUMENTAȚII CADASTRALE NR. 56924, 56925
+Proiectant:
+Nr. proiect:
+Specialitate: | INSTALATII SANITARE SI STINGERE INCENDIU
+Faza: | S.F.
+Formular F5: Fisele tehnice pentru echipamente, dotari
+Nr. | Specificatii tehnice impuse prin caietul de sarcini | Corespondenta propunerii tehnice cu specificatiile tehnice impuse prin caietul de sarcini | Furnizor/Producator
+
+0 | 1 | 2 | 3
+Fisa tehnica nr. 06
+Utilajul, echipamentul tehnologic: Sterilizator UV apa rece potabila
+1
+| Debit nominal sterilizator UV: 40 m³/h
+Debit maxim sterilizator UV: 46 m³/h
+Număr lămpi UV: 4–6 × 400 W (amalgam)
+Tip lampă: UV-C 254 nm, tip amalgam, durată de viață ≥ 12 000 h
+Doză UV garantată: ≥ 40 mJ/cm² la UVT = 90 %/1 cm
+Material reactor: Oțel inox AISI 316L (interior pasivat)
+Material manșoane: Cuarț optic UV-C, transparență ≥ 90 %
+Presiune nominală: PN 10–16 bar
+Pierdere de sarcină: ≤ 0,2 bar la debit nominal
+Temperatură maximă apă: 40 °C
+Dimensiune reactor (orientativ): L ≈ 1500 mm; Ø ≈ 300 mm
+Conexiuni: DN 100 – flanșe PN16
+Panou comandă: IP54, montaj pe perete, afișaj digital doză UV, contor ore, alarme vizuale/acustice
+Consum total 
+[ATAȘAMENT: F5-07.xlsx | text extras]
+## F5-07
+Proiect: | CONSTRUIRE, DOTARE ȘI AMENAJARE A SPITALULUI DE OBSTETRICĂ-GINECOLOGIE BUFTEA ȘI DESFIINȚARE CONSTRUCȚII EXISTENTE (C1–C15),RELOCARE STAȚIE DE OXIGEN ȘI RELOCARE GOSPODĂRIE APĂ
+Beneficiar: | Consiliu Judetean Ilfov
+Adresa: | Amplasamentul obiectivului este: pentru imobilul situat în județul ILFOV, orașul BUFTEA, cod poștal 070000, str. STUDIOULUI nr. 5, DOCUMENTAȚII CADASTRALE NR. 56924, 56925
+Proiectant:
+Nr. proiect:
+Specialitate: | INSTALATII SANITARE SI STINGERE INCENDIU
+Faza: | S.F.
+Formular F5: Fisele tehnice pentru echipamente, dotari
+Nr. | Specificatii tehnice impuse prin caietul de sarcini | Corespondenta propunerii tehnice cu specificatiile tehnice impuse prin caietul de sarcini | Furnizor/Producator
+
+0 | 1 | 2 | 3
+Fisa tehnica nr. 07
+Utilajul, echipamentul tehnologic: Kit de clorinare
+1
+| Componență și caracteristici:
+- Vas de stocare soluție hipoclorit cu sorb și senzor de nivel
+- Pompă dozatoare (cap compatibil chimic), supapă de injecție/reținere
+- Contor apă cu generator de impuls pentru dozare proporțională
+- Accesorii: furtun aspirație/refulare, filtre, suporturi, elemente de etanșare
+- Tablou local cu protecții electrice de bază
+2 | SPECIFICATII DE PERFORMANTA SI CONDITII PRIVIND SIGURANTA IN EXPLOATARE
+- Reglaj manual/proporțional
+- Materiale compatibile cu hipoclorit
+3 | CONDITII PRIVIND CONFORMITATEA CU STANDARDELE RELEVANTE
+Executie conform normelor CEE
+Se furnizeaza cu:
+· Certificat de conformitate “CE”
+· Manual de operare si intretin
+[ATAȘAMENT: F5-20.xlsx | text extras]
+## F5-20
+Proiect: | CONSTRUIRE, DOTARE ȘI AMENAJARE A SPITALULUI DE OBSTETRICĂ-GINECOLOGIE BUFTEA ȘI DESFIINȚARE CONSTRUCȚII EXISTENTE (C1–C15),RELOCARE STAȚIE DE OXIGEN ȘI RELOCARE GOSPODĂRIE APĂ
+Beneficiar: | Consiliu Judetean Ilfov
+Adresa: | Amplasamentul obiectivului este: pentru imobilul situat în județul ILFOV, orașul BUFTEA, cod poștal 070000, str. STUDIOULUI nr. 5, DOCUMENTAȚII CADASTRALE NR. 56924, 56925
+Proiectant:
+Nr. proiect:
+Specialitate: | INSTALATII SANITARE SI STINGERE INCENDIU
+Faza: | S.F.
+Formular F5: Fisele tehnice pentru echipamente, dotari
+Nr. | Specificatii tehnice impuse prin caietul de sarcini | Corespondenta propunerii tehnice cu specificatiile tehnice impuse prin caietul de sarcini | Furnizor/Producator
+
+0 | 1 | 2 | 3
+Fisa tehnica nr. 20
+Utilajul, echipamentul tehnologic: Statie completa pentru tratarea apelor uzate
+1
+| Caracteristici tehnice:
+- debit tratat: 42 m³/h (funcționare continuă);
+- sită mecanică cu presă integrată, fante 1 mm, spălare automată; evacuare reziduuri în container tip pubelă min. 660 L;
+- bazin de neutralizare/pH: volum util cca. 4 m³ (≥ 5 min timp de retenție la 42 m³/h), material PP/PEHD, cu agitator vertical inox, senzor nivel (min/max) și senzor pH + regulator;
+- pompe dozare chimicale pH: 2+2 buc. (acid/alcalin) – rezervă 100%, domeniu reglaj 0–60 l/h, presiune min. 5 bar, cap de pompare PVDF/PP, furtun PTFE; include vase de calibrare, supape sens și supape de siguranță;
+- sistem dezinfecție UV pentru efluent preepurat: re
+[ATAȘAMENT: F5-23.xlsx | text extras]
+## F5-23
+Proiect: | CONSTRUIRE, DOTARE ȘI AMENAJARE A SPITALULUI DE OBSTETRICĂ-GINECOLOGIE BUFTEA ȘI DESFIINȚARE CONSTRUCȚII EXISTENTE (C1–C15),RELOCARE STAȚIE DE OXIGEN ȘI RELOCARE GOSPODĂRIE APĂ
+Beneficiar: | Consiliu Judetean Ilfov
+Adresa: | Amplasamentul obiectivului este: pentru imobilul situat în județul ILFOV, orașul BUFTEA, cod poștal 070000, str. STUDIOULUI nr. 5, DOCUMENTAȚII CADASTRALE NR. 56924, 56925
+Proiectant:
+Nr. proiect:
+Specialitate: | INSTALATII SANITARE SI STINGERE INCENDIU
+Faza: | S.F.
+Formular F5: Fisele tehnice pentru echipamente, dotari
+Nr. | Specificatii tehnice impuse prin caietul de sarcini | Corespondenta propunerii tehnice cu specificatiile tehnice impuse prin caietul de sarcini | Furnizor/Producator
+
+0 | 1 | 2 | 3
+Fisa tehnica nr. 23
+Utilajul, echipamentul tehnologic: Statie de dedurizare a apei tip duplex
+1
+| Statie de dedurizare a apei tip duplex
+Debitul: 15 m³/h
+- Valoarea duritatii apei la intrare in statie = 37 grade franceze;
+- Valoarea duritatii apei la iesire din statie = 6 grade franceze.
+2 | Specificatii de performanta si conditii privind siguranta in exploatare
+Echipamentele vor fi insotite de cartea tehnica, certificat de calitate si garantie
+
+3 | Conditii privind conformitatea cu standardele relevante
+Echipamentul va fi fabricat cf. normelor UE ISO 9001, ISO 14001.
+4 | Conditii de garantie si postgarantie
+Garantie: minim 7 ani de la punerea in functiune, orice inlocuire a echipamentului in timpul perioadei de garantie va duce la prel
+[ATAȘAMENT: TRATARE APA.xlsx | text extras]
+## Sheet1
+Statie de dedurizare a apei tip duplex | buc | 1 | IS F5-23
+Sterilizator UV apa rece potabila - Q=40 mc/h | buc | 1 | IS F5-06
+Kit de clorinare | buc | 1 | IS F5-07
+Statie completa pentru tratarea apelor uzate (preepurare mecanica cu sita si presa, bazin egalizare/neutralizare din PP cu agitator si reglare pH, pompe dozare acide/bazice, stocare substante chimice, debitmetru, pompe evacuare, dozare hipoclorit, mixer static, dezinfectie UV, tablou automatizare PLC touchscreen) | buc | 1 | IS F5-20
+
+--- MESAJ m2164548 | 2026-10-07 09:46 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: cerere oferta spital Buftea
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Cireasa Mihai-Cezar <mihai.cireasa@porr.ro>
+Sent: Wednesday, October 7, 2026 9:39 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: 'Akro Filtrare' <office@akro.ro>
+Subject: cerere oferta spital Buftea
+
+Best regards/Cu stima
+
+Cireasa Mihai-Cezar
+
+Project Manager MEP
+
+Building Construction Division
+
+PORR CONSTRUCT SRL
+
+Sediu social: Bd. Dimitrie Pompeiu, nr. 5-7, Spatiul A, Etaj 3
+
+Metroffice, Bucuresti, Sector 2
+
+M.:+40 724 204 899
+
+T. : +40 (0) 21 312 65 00
+
+F. : +40 (0) 21 312 65 01
+
+construct@porr.ro ( www.porr.ro
+
+Nr. R.C. J2004011341404, C.F. RO16601724
+[ATAȘAMENT: F5-06.xlsx | text extras]
+[ATAȘAMENT: F5-07.xlsx | text extras]
+[ATAȘAMENT: F5-20.xlsx | text extras]
+[ATAȘAMENT: F5-23.xlsx | text extras]
+[ATAȘAMENT: TRATARE APA.xlsx | text extras]
+
+--- MESAJ m2165636 | 2026-10-08 12:51 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Cireasa Mihai-Cezar <mihai.cireasa@porr.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: cerere oferta spital Buftea
+Buna ziua Dl Cireasa,
+
+Va multumim pentru solicitarea dumneavoastra!
+
+Va rog sa regasiti anexata cotatia de pret pentru 3 din echipamentele solicitate in fisele tehnice aferente acestei licitatii:
+
+Fisa tehnica – F5-06 – Sterilizator UV – PN16
+
+Am ofertat modelul de la SITA – UV AM 96 ECO – PN16 si varianta PLUS [ anexat regasiti fisa tehnica]
+
+Fisa tehnica – F5-07- Statie de clorinare
+
+Aici nu sunt detalii despre gabarit , insa am considerat teava de montaj DN100 si presiune in teava nu mai mare de 10bar.
+
+Rezervor de 100L PE
+
+Lance de aspiratie rigida cu senzor de nivel
+
+Pompa dozatoare TPG 603 [ cu kit de injectie inclus]
+
+Contoar mecanic – DN 100 – cu modul inductiv 1/100 [ care sa trimita semnal la pompa]
+
+Sistemul propus nu are un tablou de automatizare separat – practic statia se alimenteaza cu tensiune – se regleaza si dozaeaza volumetric - din calculatorul integrat in pompa [ meniul pompei]
+
+Fisa tehnica – F5-23 – trebuie sa alegeti o varianta din cele doua propuse de statii de dedurizare :
+
+Produs 13-001308 – Dedurizator CLACK [SUA] – de 700L DEC 700 – 2QC
+
+Produs 13-001164 – Dedurizator RUNXIN[China] – de 700L
+
+Ambele variante de sisteme vor functiona – dar exista diferente de calitate:
+
+Spre exemplu vanele din China nu pot fi servisate in timp ce la Clack se pot inlocui toate piesele interne in mai putin de 10 minute
+
+Vanele Clack au corp din alama – vanele chinezesti sunt complet din plastic.
+
+S.a.
+
+Oferta include livrarea produselor la beneficiar.
+
+Montajul si PIF-ul nu sunt incluse
+
+Garantia standard pentru aceste produse este de 12 luni – se poate extinde garantia pana la maxim 5 ani – contra cost – pretul fiind de 5% din valoarea proiectului/ an
+
+Pentru orice alte informatii sau intrebari, va stau cu placere la dispozitie!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02934 - PORR CONSTRUCT - 08.10.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: AM 96 ECO eng.pdf | text extras]
+[ATAȘAMENT: Fisa tehnica_Pompa de dozare TPG.pdf | text extras]
+[ATAȘAMENT: Fisa tehnica_Vas stocare chimicale 100 litri.pdf | text extras]
+[ATAȘAMENT: Fisa tehnica WPD WPHD RO DG.pdf | text extras]
+[ATAȘAMENT: Fisa tehnica WPD WPHD RO DG.pdf | text extras]
+[ATAȘAMENT: Fisa tehnica - Statie de dedurizare - duplex,700L -  2QC.pdf | text extras]
+[ATAȘAMENT: BS_2800_D2_RX99.pdf | text extras]
+[ATAȘAMENT: FT - DEDURIZARE DUPLEX.pdf | text extras]
+
+####################################################################################################
+OFERTA S02935 | client: ALLINOX BIO ENERGY S.R.L. | trimisă: 2026-10-08 13:11 | Odoo: nu e în lista Odoo | conversații: c2165700 (nr. 620)
+
+####################################################################################################
+RÂND c2165700 (nr. 620) | stare: Fără cerință clară | categorie: 08-Osmoza si filtrare pe membrane | cerere: Membrane osmoză 4040 (echivalent CSM)
+CERINȚA: -
+CERINȚĂ FINALĂ (tip echipament): Membrană echivalentă 1:1 cu cele CSM; ofertată ULTRAMAR ULP-4040 [m2165700] «Da se accepta in masura in care se poate echivala 1:1.»
+CERINȚĂ FINALĂ (cantitate): 12 membrane ULP-4040 [m2165700] «Membrana osmotica ULTRAMAR - ULP-4040 12,00 buc»
+CLARIFICARE: întrebare AKRO întreabă dacă se acceptă un echivalent pentru membranele CSM. [m2165700] «Membrane osmotice marca CSM nu avem in portofoliu. Oare se accepta din partea dumneavoastra un echivalent la acestea?» → răspuns Clientul acceptă dacă echivalarea e 1:1. [m2165700] «Da se accepta in masura in care se poate echivala 1:1.» | schimbare: În locul membranelor CSM se ofertează echivalentul ULTRAMAR ULP-4040 (Italia).
+REZULTAT: necunoscut
+PREȚURI Ofertă S02935 v1 (2026-10-08), total 2907.63 EUR:
+  [08-002233] Membrana osmotica ULTRAMAR - ULP-4040 Termen livrare: 15 zile | 12.0 buc × 222.5 EUR (reducere 10.0%) | referință
+  termen: Modul de livrare: In sarcina Akro
+  termen: Termen de plata: 100% in avans
+
+====================================================================================================
+CONVERSAȚIA c2165700 (nr. 620) | subiect: RE: Cerere Oferta Membrane RO
+Partener (după adrese): allinoxbioenergy.ro Alin Popa | grupare nesigură: nu
+OFERTĂ S02935 v1 trimisă 2026-10-08 13:11 în m2165700 (Odoo: nu e în lista Odoo): [08-002233] Membrana osmotica ULTRAMAR - ULP-4040 Termen livrare: 15 zile x12.0 buc
+
+--- MESAJ m2165700 | 2026-10-08 13:11 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Alin Popa <alin.popa@allinoxbioenergy.ro>
+Cc: andrei.dobrei@akro.ro, office@akro.ro
+Subiect: RE: Cerere Oferta Membrane RO
+Buna ziua,
+
+Aceasta este varianta de membrana ULP – pe care o putem oferta. Fisa tehnica anexata!
+
+Producatorul este Italian – ULTRAMAR.
+
+Asteptam cu interes raspunsul dumneavoastra!
+
+Cu respect,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Alin Popa <alin.popa@allinoxbioenergy.ro>
+Sent: Wednesday, October 7, 2026 2:04 PM
+To: sales@akro.ro
+Subject: RE: Cerere Oferta Membrane RO
+Importance: High
+
+Buna ziua dl Soare,
+
+Da se accepta in masura in care se poate echivala 1:1.
+
+Multumesc.
+
+Best regards,
+
+Toate cele bune,
+
+Alin Popa
+
+Head of Project Management Office
+
+Allinox Bio Energy SRL
+
+Sos. Virtutii, 19D, sector 6, 060782
+
+Bucuresti
+
+Mob.:+40 742 05 04 03
+
+Email: alin.popa@allinoxbioenergy.ro
+
+From: Alexandru Soare <sales@akro.ro>
+Sent: Wednesday, October 7, 2026 13:42
+To: Alin Popa <alin.popa@allinoxbioenergy.ro>
+Subject: Cerere Oferta Membrane RO
+
+Buna ziua Dl Popa, Va multumim pentru solicitarea dumneavoastra! Membrane osmotice marca CSM nu avem in portofoliu. Oare se accepta din partea [...] ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+
+Cerere Oferta Membrane RO
+
+Buna ziua Dl Popa,
+Va multumim pentru solicitarea dumneavoastra!
+Membrane osmotice marca CSM nu avem in portofoliu. Oare se accepta din partea dumneavoastra un echivalent la acestea?
+Asteptam cu interes raspuns!
+Numai bine,
+
+--
+Cu stima/Best regards,
+
+AKRO SRL
+
++40 268 413 180 | contact@akro.ro | https://www.akro.ro; www.kalyxx.ro; www.spectra.ro
+
+Powered by Odoo
+[ATAȘAMENT: Oferta - S02935 - ALLINOX BIO ENERGY - 08.10.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: ULP-4040 ULTRAMAR-WATER.pdf | text extras]
+
+####################################################################################################
+OFERTA email-c2166244 | client: Eco Life Style | trimisă: 2026-10-09 12:54 | Odoo: nu e în lista Odoo | conversații: c2166244 (nr. 630)
+
+####################################################################################################
+RÂND c2166244 (nr. 630) | stare: Fără cerință clară | categorie: 13-Filtre multistrat diferite medii | cerere: Echipament potabilizare apă din puț forat, 3,6 m³/h
+CERINȚA: -
+CERINȚĂ FINALĂ (debit): 3,6 m³/h [m2166244] «exista doua variante de tratare - considerand debitul de 3.6 mc/h»
+CERINȚĂ FINALĂ (loc livrare): ELS Dascălu, jud. Ilfov [m2166244] «Cerere de ofertă echipament potabilizare apă puț forat – ELS Dascălu, jud. Ilfov»
+CERINȚĂ FINALĂ (calitate apă): Duritate de redus de la 20 °G (dedurizare parțială în varianta 1) [m2166244] «statie de dedurizare partiala - pentru reducerea duritatii de la 20»
+CERINȚĂ FINALĂ (buget): Preț orientativ pentru echipamente și montaj, pentru întocmirea unui buget [m2166244] «Am dori sa avem un preț orientativ pentru echipamente si montaj pentru cele 2 variante pentru a compara si pentru a întocmi un buget»
+CLARIFICARE: întrebare - → răspuns AKRO propune două variante de tratare. [m2166244] «Varianta 1 - mai voluminoasa si mai costisitoare» | schimbare: V1: filtru grosier, clorinare, bazin 2 m³, pompă, filtre Pyrolox, dedurizare parțială, UV (apă potabilă); V2: filtru grosier, filtru de nisip, stație duplex Ecomix, UV (apă tehnică).
+CLARIFICARE: întrebare Clientul cere preț orientativ pentru echipamente și montaj și suprafața necesară pentru varianta 1. [m2166244] «Pentru Varianta 1 am avea nevoie si de o suprafață necesară (estimativă) pentru montajul echipamentelor.» → răspuns AKRO nu poate oferta montajul fără poze din spațiul tehnic. [m2166244] «Montajul nu il putem oferta pentru ca avem nevoie de cateva poze din spatiul tehnic disponibil» | schimbare: Se dau doar prețuri orientative pentru utilaje; montajul necesită poze din spațiul tehnic.
+TELEFON: Clientul a dat clarificări telefonic, după care AKRO a trimis cele două variante. [m2166244] «Va multumim pentru solicitare si pentru clarificarile date telefonic.»
+OFERTĂ ÎN TEXT: Utilaje varianta 1: 10-11.000 € fără TVA [m2166244] «Utilajele in prima varianta ajung la 10-11000 euro fara TVA»
+OFERTĂ ÎN TEXT: Utilaje varianta 2: aprox. 5-6.000 € fără TVA [m2166244] «Utilajele pentru a doua varianta - aprox 5-6000 euro fara TVA»
+REZULTAT: necunoscut
+
+====================================================================================================
+CONVERSAȚIA c2166244 (nr. 630) | subiect: RE: Cerere de ofertă echipament potabilizare apă puț forat – ELS Dascălu, jud. Ilfov
+Partener (după adrese): ecolifestyle.ro Corneliu Bogea, Florentin Andrei | grupare nesigură: nu
+
+--- MESAJ m2166244 | 2026-10-09 12:54 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Corneliu Bogea <corneliu.bogea@ecolifestyle.ro>, sales@akro.ro <sales@akro.ro>
+Cc: florentin.andrei@ecolifestyle.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Cerere de ofertă echipament potabilizare apă puț forat – ELS Dascălu, jud. Ilfov
+Buna ziua,
+
+Utilajele in prima varianta ajung la 10-11000 euro fara TVA
+Utilajele pentru a doua varianta - aprox 5-6000 euro fara TVA
+
+Montajul nu il putem oferta pentru ca avem nevoie de cateva poze din spatiul tehnic disponibil pentru estimarile de calcul.
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Corneliu Bogea <corneliu.bogea@ecolifestyle.ro>
+Sent: Friday, October 9, 2026 10:34 AM
+To: sales@akro.ro
+Cc: Florentin Andrei <florentin.andrei@ecolifestyle.ro>
+Subject: Re: Cerere de ofertă echipament potabilizare apă puț forat – ELS Dascălu, jud. Ilfov
+
+Buna ziua,
+
+Multumesc pentru răspunsul prompt si pentru detaliile de natura tehnica.
+
+Am dori sa avem un preț orientativ pentru echipamente si montaj pentru cele 2 variante pentru a compara si pentru a întocmi un buget. Pentru Varianta 1 am avea nevoie si de o suprafață necesară (estimativă) pentru montajul echipamentelor.
+
+Cu stima
+
+Corneliu Bogea
+
+Eco Life Style
+
+From: Alexandru Soare <sales@akro.ro>
+Date: Thursday, 8 October 2026 at 15:55
+To: Corneliu Bogea <corneliu.bogea@ecolifestyle.ro>
+Subject: FW: Cerere de ofertă echipament potabilizare apă puț forat – ELS Dascălu, jud. Ilfov
+
+Buna ziua Dl Bogea, Va multumim pentru solicitare si pentru clarificarile date telefonic. Asa cum am transmis - exista doua variante de tratare [...] ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+
+FW: Cerere de ofertă echipament potabilizare apă puț forat – ELS Dascălu, jud. Ilfov
+
+Buna ziua Dl Bogea,
+Va multumim pentru solicitare si pentru clarificarile date telefonic.
+Asa cum am transmis - exista doua variante de tratare - considerand debitul de 3.6 mc/h :
+
+Varianta 1 - mai voluminoasa si mai costisitoare [ prima achizitie]
+- Filtru grosier mecanic
+- Clorinare
+- bazin atmosferic - macar 2 mc
+- pompa convertizor 3.6 mc/h
+- Filtre cu pyrolux [ probabil 2 in paralel pentru a se satisface debitul de spalare]
+- statie de dedurizare partiala - pentru reducerea duritatii de la 20 - > la aproximativ 5-10grade G
+- Sistem de dezinfectie UV
+
+Varianta 2 - mai mica si mai ieftina la prima achizite - dar mai costisitoare in timp daca nu se ia in calcul si energia electrica consumata...
+
+- Filtru grosier
+- Filtru automat de nisip sau chiar si un alt filtru mecaic dar cu o panza mai fina
+- Statie duplex cu ecomix
+- Sistem pentru dezinfectie UV
+
+Diferenta dintre cele doua variante din punct de vedere al calitatii apei obtinute este ca :
+-cu varianta 1 - se obtine o apa potabila [ fierul, manganul vor fi in normele impuse de lege si va exista duritate in apa conform legislatiei trebuie sa existe o duritate de minim 5 grade G in apa potabila]. Apa aceasta va face depuneri de piatra pe instalatii!
+
+- cu varianta 2 - se obtine o apa tehnica [ fierul si manganul vor fi in normele impuse de lege iar duritatea va tinde spre 0 - ceea ce nu o face o apa potabila pentru ca legislatie impune un minim de duritate de 5 grade G in apa] . Apa aceasta nu va face depuneri de piatra pe instalatii!
+
+Va rog sa analizati cele doua propuneri si sa reveniti cu o varianta agreata dupa ce discutati cu persoana de la mediu. De asemenea pana atunci poate ies si rezultatele la analizele microbiologice.
+
+Pentru orice alte informatii sau intrebari, va stua cu placere la dispozitie!
+Numai bine,
+Alexandru Soare
+0728994472
+
+--
+Cu stima/Best regards,
+
+AKRO SRL
+
++40 268 413 180 | contact@akro.ro | https://www.akro.ro; www.kalyxx.ro; www.spectra.ro
+
+Powered by Odoo
+
+####################################################################################################
+OFERTA S02941 | client: Banica Silviu | trimisă: 2026-10-09 14:19 | Odoo: nu e în lista Odoo | conversații: c2131716 (nr. 632)
+
+####################################################################################################
+RÂND c2131716 (nr. 632) | stare: Completă | categorie: 13-Filtre multistrat diferite medii | cerere: Filtru grosier NW400 și 2 filtre multimedia FMC 80
+CERINȚA: Trimite raportul de încercare al apei din foraj pentru alegerea instalației de tratare. [m2131716] «Sample details / Detalii probă: Apa foraj»
+CERINȚĂ FINALĂ (calitate apă): Duritate totală 0,72 °G [m2131716] «D - duritate totala grd G 0.72»
+CERINȚĂ FINALĂ (aplicație): Instalare în spațiu tehnic de minim 2,3 m înălțime; 2 filtre de 80 L în paralel [m2166372] «2 filtre multimedia –automate de 80L fiecare [ ce vor trebui montate in paralel]»
+OFERTĂ ÎN TEXT: Stație de clorinare opțională: aprox. 800-1000 € [m2166372] «Fie o statie de clorinare – care costa in jur de 800-1000 euro»
+OFERTĂ ÎN TEXT: Sistem UV de 1" opțional: aprox. 800-1000 € [m2166372] «ajunge la +- 800-1000 euro»
+REZULTAT: necunoscut
+PREȚURI Ofertă S02941 v1 (2026-10-09), total 2354.58 EUR:
+  [01-008048] Filtru impuritati NW400 - 1.5" | 1.0 buc × 281.6 EUR | referință
+  [01-008049] Consola de prindere pentru carcasa cintropur NW 280/340/400 | 1.0 buc × 30.15 EUR | referință
+  [13-001309] FMC 80 - Filtru multimedia, 80L mediu filtrant, vana Clack TC, racord 1" | 2.0 buc × 817.09 EUR | referință
+  termen: Metoda de plata: O.P. - se va discuta la momentul contractarii
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12 luni de la livrare
+
+====================================================================================================
+CONVERSAȚIA c2131716 (nr. 632) | subiect: FW:
+Partener (după adrese): banica.silviu@yahoo.com Banica Silviu | grupare nesigură: nu
+OFERTĂ S02941 v1 trimisă 2026-10-09 14:19 în m2166372 (Odoo: nu e în lista Odoo): [01-008048] Filtru impuritati NW400 - 1.5" x1.0 buc; [01-008049] Consola de prindere pentru carcasa cintropur NW 280/340/400 x1.0 buc; [13-001309] FMC 80 - Filtru multimedia, 80L mediu filtrant, vana Clack TC, racord 1" x2.0 buc
+
+--- MESAJ m2131716 | 2026-10-09 13:30 | Inbox | EXTERN
+De la: Banica Silviu <banica.silviu@yahoo.com>
+Către: alexandru.soare@akro.ro <alexandru.soare@akro.ro>
+Subiect: 
+Yahoo Mail: Căutare, organizare, reușită
+[ATAȘAMENT: DOC-20260929-WA0012_261009_132917.pdf | text extras]
+TÜV AUSTRIA ROMÂNIA S.R.L. LABORATOR INCERCARI FIZICO-CHIMICE
+Calea Plevnei Nr. 139B, Corp A, Centura de Est nr. 277B, Ploiesti, jud.
+060011, Sector 6, București, România Prahova
+
+RAPORT DE ÎNCERCARE
+
+Nr. 2411LIFC29092026 | Data: 29.09.2026
+
+General data / Date generale
+
+Client / Beneficiar: BANICA Silviu
+Client address / Adresă client: CRAIOVA STR ANA IPATESCU NR 79
+Request no. / Nr. comandă: 13609
+Sample delivery / Livrarea probei: PV-701/16.09.2026
+
+Measurement data / Valori măsurate:
+
+Sample identification /
+2411LIFC — Apa foraj
+Identificare probă
+
+Sample code / Cod probă: 2411LIFC
+Sample registration date / Dată recoltare probă: 16.09.2026
+Sample packing / Ambalaj probă: PET
+Sample details / Detalii probă: Apa foraj
+Sample specification / Sample recognized as / Probă recunoscută ca: Apa potabila
+Specificație probă Sample size / Mărime probă: 2L
+
+Sample registration date / Data înregistrării probei: 16.09.2026
+Analysis date / Dată analiză: 16.09.2026 — 29.09.2026
+Reporting date / Dată raportării: 29.09.2026
+
+Meas. unit / Unit. Determined value / Legislation max. limits Testing methods/Guide/SOP /
+Parameter / Indicator
+măsură Valori determinate / Limite maxime conf. Metode de încercare/Ghid/PO
+
+≥ 5 grd G
+Ordonanta 7/2023
+D - duritate totala grd G 0.72 privind calitatea apei SR ISO 6059:2008
+destinate consumului PO-106
+uman
+
+0.5 mg/L
+Ordonanta 7/2023
+NO2 - nitriti/azotiti mg/L <0.1 privind calitatea apei SR EN ISO 10304-1:2009
+destinate consumului PO 120
+uman
+
+50 mg/L
+Ordon
+
+--- MESAJ m2166308 | 2026-10-09 13:58 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW:
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Banica Silviu <banica.silviu@yahoo.com>
+Sent: Friday, October 9, 2026 1:30 PM
+To: alexandru.soare@akro.ro
+Subject:
+
+Yahoo Mail: Căutare, organizare, reușită
+[ATAȘAMENT: DOC-20260929-WA0012_261009_132917.pdf | text extras]
+
+--- MESAJ m2166372 | 2026-10-09 14:19 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Banica Silviu <banica.silviu@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE:  instalatie de tratare apa
+Buna ziua Dl Silviu,
+
+Cam acest flux la-s recomanda pentru problema dumneavoastra :
+
+Un filtru grosier cu purjare -NW400 [ ati spus ca aveti deja ceva instalat – il puteti utiliza si pe acela ] – https://akro.ro/public/fise/282-Fisa_tehnica_Filtru_mecanic_sedimente_NW280-340-400.pdf
+
+2 filtre multimedia –automate de 80L fiecare [ ce vor trebui montate in paralel] – FMC 80 - https://akro.ro/public/fise/186-Fisa_tehnica_-_Filtre_multimedia,_racord_1.pdf
+
+Dupa filtrele acestea puteti lasa filtrele big blue la 5-1 micron.
+
+Prin fluxul propus – cu siguranta se va reduce turbiditatea apei [daca este o problema fizica].
+
+Atentie cele doua filtre de 80L – se vor spala la fiecare 6-7 zile – si vor arunca la canalizare aproximativ 5-700L de apa fiecare!
+
+Sistemele sunt destul de inalte – -Aveti nevoie de un spatiu tehnic de minim 2.3 m inaltime!!!! Pentru instalare
+
+Poate ar trebui sa aveti in vedere integrarea unui sistem de dezinfectie:
+
+Fie o statie de clorinare – care costa in jur de 800-1000 euro
+
+Fie un sistem UV – unul de 1 “ – ajunge la +- 800-1000 euro.
+
+Pentru orice alte intrebari sau informatii, va stau cu placere la dispozitie!
+
+Numai bine,
+[ATAȘAMENT: WhatsApp Image 2026-10-09 at 13.47.36.jpeg | imagine]
+[ATAȘAMENT: Oferta - S02941 - Banica Silviu - 09.10.2026.pdf | ofertă Odoo, parsată mai sus]
+
+####################################################################################################
+OFERTA S02950 | client: ACTIVITATEA GOSCOM SA, Orăștie | trimisă: 2026-10-14 09:13 | Odoo: nu e în lista Odoo | conversații: c2132932, c2133860 (nr. 646, 658)
+
+####################################################################################################
+RÂND c2132932 (nr. 646) | stare: Completă | categorie: 11-Pompe de dozare | cerere: 4 pompe dozatoare solenoidale TPG 603 digitale
+CERINȚA: Cere ofertă pentru 4 pompe dozatoare solenoidale TPG 603 digitale, ca cele cumpărate anterior. [m2132932] «Pompa dozatoare solenoida tpg 603, digitala ( cum am mai luat)»
+CERINȚĂ FINALĂ (tip echipament): Pompă dozatoare solenoidală TPG 603, digitală (ca cea cumpărată anterior) [m2132932] «Pompa dozatoare solenoida tpg 603, digitala ( cum am mai luat)»
+CERINȚĂ FINALĂ (cantitate): 4 bucăți [m2167300] «oferta de pret pentru cele 4 pompe de dozare solicitate»
+REZULTAT: necunoscut
+
+####################################################################################################
+RÂND c2133860 (nr. 658) | stare: După vânzare | categorie: 11-Pompe de dozare | cerere: Comandă 4 pompe dozatoare TPG 603
+CERINȚA: -
+CERINȚĂ FINALĂ (tip echipament): Pompă dozatoare solenoidală TPG 603, digitală [m2168100] «Pompa dozatoare solenoidala tpg 603, digitala cu debit constant»
+CERINȚĂ FINALĂ (cantitate): 4 pompe dozatoare TPG 603 [m2168100] «4 x pompe dozatoare TPG 603»
+REZULTAT: acceptată — Clientul trimite comanda; AKRO confirmă comanda S02950 și trimite proforma de avans 40%. [m2168100] «Va multumim pentru comanda trimisa!»
+PREȚURI Ofertă S02950 v1 (2026-10-14), total 9600.2 RON:
+  [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie de un semn | 4.0 buc × 2066.16 RON (reducere 4.0%) | referință
+  termen: Metoda de plata: O.P. - 40 % in avans - 60% la 30 de zile de la livrare
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12 luni de la livrare
+PREȚURI Confirmare de comandă S02950 v1 (2026-10-15), total 9600.2 RON:
+  [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie de un semn | 4.0 buc × 2066.16 RON (reducere 4.0%) | referință
+  termen: Metoda de plata: O.P. - 40 % in avans - 60% la 30 de zile de la livrare
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12 luni de la livrare
+
+====================================================================================================
+CONVERSAȚIA c2132932 (nr. 646) | subiect: cerere oferta
+Partener (după adrese): laborator_activitatea@yahoo.com LABORATOR ACTIVITATEA | grupare nesigură: nu
+OFERTĂ S02950 v1 trimisă 2026-10-14 09:13 în m2167300 (Odoo: nu e în lista Odoo): [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual x4.0 buc
+
+--- MESAJ m2132932 | 2026-10-14 08:33 | Inbox | EXTERN
+De la: LABORATOR ACTIVITATEA <laborator_activitatea@yahoo.com>
+Către: alexandru.soare@akro.ro <alexandru.soare@akro.ro>
+Subiect: cerere oferta
+Va rugam sa ne faceti o oferta pentru:
+
+Pompa dozatoare solenoida tpg 603, digitala ( cum am mai luat)
+
+-4 bucati
+
+Multumesc,
+
+Elena Trasculescu
+
+Sef Laborator
+
+ACTIVITATEA GOSCOM SA, Orastie
+
+tei: 0736397174
+
+--- MESAJ m2167268 | 2026-10-14 08:59 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: cerere oferta
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: LABORATOR ACTIVITATEA <laborator_activitatea@yahoo.com>
+Sent: Wednesday, October 14, 2026 8:32 AM
+To: alexandru.soare@akro.ro
+Subject: cerere oferta
+
+Va rugam sa ne faceti o oferta pentru:
+
+Pompa dozatoare solenoida tpg 603, digitala ( cum am mai luat)
+
+-4 bucati
+
+Multumesc,
+
+Elena Trasculescu
+
+Sef Laborator
+
+ACTIVITATEA GOSCOM SA, Orastie
+
+tei: 0736397174
+
+--- MESAJ m2167300 | 2026-10-14 09:13 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: LABORATOR ACTIVITATEA <laborator_activitatea@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: cerere oferta
+Buna dimineata Doamna Trasculescu,
+
+Va multumim pentru solicitarea dumneavoastra!
+
+Va rog sa regasiti anexata oferta de pret pentru cele 4 pompe de dozare solicitate.
+
+S-au mentinut aceleasi conditii comerciale ca in 2022:
+
+Discount general pentru aceasta comanda de 4%
+
+Livrare inclusa in pret
+
+Conditii de plata 40% avans, 60% la 30 de zile de la livrare.
+
+La acest moment avem un timp de livrare pentru 4 pompe de aproximativ 5-10 zile de la comanda!
+
+Asteptam cu interes raspunsul dumneavoastra!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02950 - Activitatea GOSCOM - 14.10.2026.pdf | ofertă Odoo, parsată mai sus]
+
+====================================================================================================
+CONVERSAȚIA c2133860 (nr. 658) | subiect: COMANDA
+Partener (după adrese): registratura.goscom@yahoo.com ACTIVITATEA GOSCOM1 | grupare nesigură: nu
+OFERTĂ S02950 v1 trimisă 2026-10-15 09:56 în m2168100 (Odoo: nu e în lista Odoo): [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual x4.0 buc
+
+--- MESAJ m2133860 | 2026-10-15 09:28 | Inbox | EXTERN
+De la: ACTIVITATEA GOSCOM1 <registratura.goscom@yahoo.com>
+Către: alexandru.soare@akro.ro <alexandru.soare@akro.ro>
+Subiect: COMANDA
+Trimis de la Yahoo Mail. Obțineți aplicația
+[ATAȘAMENT: comanda  AKRO.pdf | PDF fără text (scanat)]
+
+--- MESAJ m2168100 | 2026-10-15 09:56 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: ACTIVITATEA GOSCOM1 <registratura.goscom@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, laborator_activitatea@yahoo.com
+Subiect: RE: COMANDA
+Buna ziua,
+
+Va multumim pentru comanda trimisa!
+
+Va rog sa regasiti anexata confirmarea de comanda AKRO si factura proforma de 40% conform ofertei initiale.
+
+Asteptam confirmarea de plata pentru demararea procedurii de aprovizionare.
+
+O zi cu spor!
+[ATAȘAMENT: Comanda - S02950 - ACTIVITATEA GOSCOM - 15.10.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: Factură proforma - ACTIVITATEA GOSCOM - 15.10.2026.pdf | text extras]
+[ATAȘAMENT: comanda  AKRO.pdf | PDF fără text (scanat)]
+
+####################################################################################################
+OFERTA S02955 | client: CARPATHIAN SPRINGS S.A. | trimisă: 2026-10-14 15:19 | Odoo: nu e în lista Odoo | conversații: c2165860 (nr. 621)
+
+####################################################################################################
+RÂND c2165860 (nr. 621) | stare: Fără cerință clară | categorie: 10-Ozonatoare | cerere: 3 distrugătoare catalitice de ozon
+CERINȚA: -
+CERINȚĂ FINALĂ (cantitate): 3 distrugătoare de ozon [m2165860] «Racordul pentru fiecare din cele 3 distrugatoare»
+CERINȚĂ FINALĂ (racord): DN100, stabilit la telefon [m2165860] «pe care l-am ales ca fiind DN100 la telefon»
+CERINȚĂ FINALĂ (debit): Max. 10 m³/h aer pe fiecare tanc [m2132164] «Debitul maxim de aer , intrare/iesire este de 10mc/h pentru fiecare tanc»
+CLARIFICARE: întrebare AKRO cere debitul maxim de aer pentru fiecare bazin, inclusiv recircularea. [m2165860] «Debitul maxim vehiculat de aer - pentru fiecare bazin» → răspuns Clientul: 10 m³/h aer pe fiecare tanc. [m2132164] «Debitul maxim de aer , intrare/iesire este de 10mc/h pentru fiecare tanc» | schimbare: Debit de aer de dimensionare: 10 m³/h pe tanc; AKRO ofertează distrugătoare de 20 m³/h.
+CLARIFICARE: întrebare Clientul cere detalii constructive și întreabă dacă distrugătorul de 20 m³/h poate deservi 2-3 tancuri. [m2134084] «Va rog sa-mi dati detalii constructive despre distrugatorul de ozon» → răspuns - | schimbare: Clientul ia în calcul un singur distrugător pentru două sau trei tancuri.
+TELEFON: La telefon s-a ales racordul DN100 pentru fiecare distrugător. [m2165860] «pe care l-am ales ca fiind DN100 la telefon»
+REZULTAT: necunoscut
+PREȚURI Ofertă S02955 v1 (2026-10-14), total 38432.63 EUR:
+  [10-001082] Distrugator de ozon Qn= 20Nmc/h. Cmax[%]= 12 Distrugator de ozon catalitic cu evacuare fortata -Masa catalitica: MnO2, C | 3.0 buc × 10587.5 EUR | referință
+  termen: Metoda de plata: O.P. - 50 % in avans; 50% la 5zile de la livrare
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 24 luni de la livrare
+
+====================================================================================================
+CONVERSAȚIA c2165860 (nr. 621) | subiect: Distrugatoare de Ozon
+Partener (după adrese): valvis-holding.com Mihai Saramet | grupare nesigură: da
+OFERTĂ S02955 v1 trimisă 2026-10-14 15:19 în m2167812 (Odoo: nu e în lista Odoo): [10-001082] Distrugator de ozon Qn= 20Nmc/h. Cmax[%]= 12 Distrugator de ozon catalitic cu ev x3.0 buc
+
+--- MESAJ m2165860 | 2026-10-08 16:01 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: mihai.saramet@valvis-holding.com <mihai.saramet@valvis-holding.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, aurel.caras@akro.ro
+Subiect: Distrugatoare de Ozon
+Buna ziua Dl Saramet,
+
+Imi cer scuze in numele companiei pentru intarzierea creata – si pentru lipsa de comunicare!
+
+Incepand de astazi ma voi ocupa personal de solicitarea dumneavoastra de distrugatoare de ozon.
+
+Ce trebuie sa clarific pentru dimensionare ar mai fi:
+
+Racordul pentru fiecare din cele 3 distrugatoare – pe care l-am ales ca fiind DN100 la telefon
+
+Debitul maxim vehiculat de aer - pentru fiecare bazin [ va rog sa luati in calcul inclusiv recircularea la dimensionare].
+
+Ce trebuie sa mentionez de asemenea este ca in distrugatoare nu trebuie sa ajunga apa! pentru ca imediat mediul catalitic se inactiveaza.
+
+Astept cu interes raspuns!
+
+Cu stima,
+
+--- MESAJ m2166468 | 2026-10-12 09:08 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: mihai.saramet@valvis-holding.com <mihai.saramet@valvis-holding.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, aurel.caras@akro.ro
+Subiect: RE: Distrugatoare de Ozon
+Buna dimineata Dl Saramet,
+
+Oare ma puteti ajuta cu debitele de aer maxime pentru respiratia fiecarui bazin?
+
+Cu respect,
+
+--- MESAJ m2132164 | 2026-10-12 12:11 | Inbox | EXTERN
+De la: Mihai Saramet <mihai.saramet@valvis-holding.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, aurel.caras@akro.ro
+Subiect: RE: Distrugatoare de Ozon
+Buna ziua ,
+
+Stimate domn ,
+
+Debitul maxim de aer , intrare/iesire este de 10mc/h pentru fiecare tanc .
+
+Daca mai sunt necesare alte precizari , va rog sa-mi spuneti .
+
+Multumesc.
+
+Cu stima/Best regards ,
+
+Mihail Gavril Saramet
+
++40 740 307653
+
+--- MESAJ m2167812 | 2026-10-14 15:19 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Mihai Saramet <mihai.saramet@valvis-holding.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, aurel.caras@akro.ro
+Subiect: RE: Distrugatoare de Ozon
+Buna ziua Dl Saramet,
+
+Va las anexata oferta de pret pentru 3 distrugatoare de ozon – capabile sa trateze un debit de aer maxim de pana la 20mc/h!
+
+Acest producator face distrugatoare de 1; 5; 20; 40m3/h s.a. - am ales varianta acoperitoare.
+
+Las anexat si o fotografie cu distrugatoare similare mai mici.
+
+Pentru orice alte intrebari sau informatii va stau cu placere la dispozitie!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02955 - Carpathian Springs - 14.10.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: IMG-20210215-WA0008.jpg | imagine]
+[ATAȘAMENT: IMG-20210215-WA0009.jpg | imagine]
+
+--- MESAJ m2134084 | 2026-10-15 13:04 | Inbox | EXTERN
+De la: Mihai Saramet <mihai.saramet@valvis-holding.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, aurel.caras@akro.ro
+Subiect: RE: Distrugatoare de Ozon
+Stimate domn ,
+
+Va rog sa-mi dati detalii constructive despre distrugatorul de ozon , este supradimensionat 20 mc/h si este posibil sa-l montez pt doua sau chiar toate trei tancurile .
+
+Multumesc .
+
+Cu stima/Best regards ,
+
+Mihail Gavril Saramet
+
++40 740 307653
+
+####################################################################################################
+OFERTA S02834 | client: SERBAN INDUSTRIAL CONSTRUCT SRL | trimisă: 2026-10-15 10:12 | Odoo: Comandă de vânzare | conversații: c2168132 (nr. 660)
+
+####################################################################################################
+RÂND c2168132 (nr. 660) | stare: După vânzare | categorie: 13-Filtre multistrat diferite medii | cerere: Filtru deferizare FDC 150 cu pompă dozare
+CERINȚA: -
+CLARIFICARE: întrebare - → răspuns AKRO trimite oferta revizuită (cu reducere), clientul mulțumește pentru discount. [m2133924] «Multumim pentru acordarea discountului.» | schimbare: Ofertă revizuită S02834-1 cu reducere de 9%.
+REZULTAT: acceptată — Clientul cere livrarea echipamentelor ofertate și proforma, apoi trimite confirmarea plății. [m2133924] «Va rugam sa livrati echipamentele ofertate.»
+PREȚURI Ofertă S02834-1 v1 (2026-10-15), total 2392.42 EUR:
+  [13-001303] FDC 150 - filtru deferizare demanganizare, vana Clack CI, racord 1.25" | 1.0 buc × 1489.6 EUR | referință
+  [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie de un semn | 1.0 buc × 407.75 EUR | referință
+  [11-002098] Rezervor PE - stocare chimicale 50L | 1.0 buc × 107.5 EUR | referință
+  [23-001216] Contor apa rece axial cu cadran uscat - 1"-ZENNER - cu generator de impuls 1/10L - cu racorduri (o-landezi) si garnituri | 1.0 buc × 167.9 EUR | referință
+  [-] Reducere: 9.00% | 1.0 buc × -195.55 EUR | serviciu
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12luni de la livrare
+  termen: Termen de plata: 100% in avans
+PREȚURI Factură proformă S02834-1 v1 (2026-10-15), total 12773.8 RON:
+  termen: Termen de plata: 100% in avans Valoare fără taxe 10.556,86 RON
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12luni de la livrare
+PREȚURI Confirmare de comandă S02834-1 v1 (2026-10-15), total 2392.42 EUR:
+  [13-001303] FDC 150 - filtru deferizare demanganizare, vana Clack CI, racord 1.25" | 1.0 buc × 1489.6 EUR | referință
+  [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie de un semn | 1.0 buc × 407.75 EUR | referință
+  [11-002098] Rezervor PE - stocare chimicale 50L | 1.0 buc × 107.5 EUR | referință
+  [23-001216] Contor apa rece axial cu cadran uscat - 1"-ZENNER - cu generator de impuls 1/10L - cu racorduri (o-landezi) si garnituri | 1.0 buc × 167.9 EUR | referință
+  [-] Reducere: 9.00% | 1.0 buc × -195.55 EUR | serviciu
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12luni de la livrare
+  termen: Termen de plata: 100% in avans
+
+====================================================================================================
+CONVERSAȚIA c2168132 (nr. 660) | subiect: Oferta revizuita - AKRO SRL - 15.10.2026
+Partener (după adrese): industrialconstructs@yahoo.com INDUSTRIAL CONSTRUCT | grupare nesigură: da
+OFERTĂ S02834-1 v1 trimisă 2026-10-15 10:12 în m2168132 (Odoo: Comandă de vânzare): [13-001303] FDC 150 - filtru deferizare demanganizare, vana Clack CI, racord 1.25" x1.0 buc; [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual x1.0 buc; [11-002098] Rezervor PE - stocare chimicale 50L x1.0 buc; [23-001216] Contor apa rece axial cu cadran uscat - 1"-ZENNER - cu generator de impuls 1/10L x1.0 buc; [-] Reducere: 9.00% x1.0 buc
+OFERTĂ S02834-1 v1 trimisă 2026-10-15 10:50 în m2168196 (Odoo: Comandă de vânzare): 
+OFERTĂ S02834-1 v1 trimisă 2026-10-15 10:50 în m2168196 (Odoo: Comandă de vânzare): [13-001303] FDC 150 - filtru deferizare demanganizare, vana Clack CI, racord 1.25" x1.0 buc; [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual x1.0 buc; [11-002098] Rezervor PE - stocare chimicale 50L x1.0 buc; [23-001216] Contor apa rece axial cu cadran uscat - 1"-ZENNER - cu generator de impuls 1/10L x1.0 buc; [-] Reducere: 9.00% x1.0 buc
+
+--- MESAJ m2168132 | 2026-10-15 10:12 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: industrialconstructs@yahoo.com <industrialconstructs@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Oferta revizuita - AKRO SRL - 15.10.2026
+Buna ziua doamna Adriana,
+
+Va rog sa regasiti anexata oferta de pret revizuita pentru aceasta posibila comanda.
+
+Asteptam acordul dumneavoastra si comanda pentru emiterea facturii de avans.
+
+Produsele se pot livra in termen de aprox 2-3 saptamani de la transmiterea confirmarii de plata.
+
+Pentru orice alte informatii sau intrebari, va stau cu placere la dispozitie!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02834-1 - SERBAN INDUSTRIAL CONSTRUCT - 15.10.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2133924 | 2026-10-15 10:23 | Inbox | EXTERN
+De la: INDUSTRIAL CONSTRUCT <industrialconstructs@yahoo.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Re: Oferta revizuita - AKRO SRL - 15.10.2026
+Buna ziua,
+
+Multumim pentru acordarea discountului.
+
+Va rugam sa livrati echipamentele ofertate.
+
+Asteptam factura proforma.
+
+http://serbanindustrialconstruct.ro
+
+SC SERBAN INDUSTRIAL CONSTRUCT SRL
+
+Str. Valeni Nr.97 , Loc. Ploiesti, Jud. Prahova – ROMANIA
+
+Nr.Reg.Com. : J29 /761 /1994
+
+CIF : RO 5420374
+
+Cu stima,
+Ganea Adriana
+Tel. contact - 0723 276 995
+
+INFORMARE
+
+Prin continuarea acestei comunicări vă exprimați acordul cu privire la
+prelucrarea de către noi, S.C. SERBAN INDUSTRIAL CONSTRUCT S.R.L, a datelor Dvs
+cu caracter personal (nume, prenume, telefon, adresă electronică) exclusiv în
+scopul și pe durata colaborării (Regulament UE nr.679/2016).
+
+--- MESAJ m2168196 | 2026-10-15 10:50 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: INDUSTRIAL CONSTRUCT <industrialconstructs@yahoo.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Oferta revizuita - AKRO SRL - 15.10.2026
+Buna ziua ,
+
+Va multumim pentru comanda!
+
+Va rog sa regasiti anexata confirmarea de comanda AKRO si factura proforma pentru avans.
+
+Va rog sa reveniti la noi cu confirmarea de plata pentru a putea demara procedura de aprovizionare.
+
+O zi cu spor!
+[ATAȘAMENT: Factură proforma - Serban Industrial Construct - 15.10.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: Comanda - S02834-1 - Serban Industrial Construct - 15.10.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2134148 | 2026-10-15 13:39 | Inbox | EXTERN
+De la: INDUSTRIAL CONSTRUCT <industrialconstructs@yahoo.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Re: Oferta revizuita - AKRO SRL - 15.10.2026
+Va transmitem confirmarea platii.
+
+Multumim !
+
+http://serbanindustrialconstruct.ro
+
+SC SERBAN INDUSTRIAL CONSTRUCT SRL
+
+Str. Valeni Nr.97 , Loc. Ploiesti, Jud. Prahova – ROMANIA
+
+Nr.Reg.Com. : J29 /761 /1994
+
+CIF : RO 5420374
+
+Cu stima,
+Ganea Adriana
+Tel. contact - 0723 276 995
+
+INFORMARE
+
+Prin continuarea acestei comunicări vă exprimați acordul cu privire la
+prelucrarea de către noi, S.C. SERBAN INDUSTRIAL CONSTRUCT S.R.L, a datelor Dvs
+cu caracter personal (nume, prenume, telefon, adresă electronică) exclusiv în
+scopul și pe durata colaborării (Regulament UE nr.679/2016).
+[ATAȘAMENT: OP AKRO.pdf | PDF fără text (scanat)]

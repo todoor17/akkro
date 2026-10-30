@@ -1,0 +1,7 @@
+Reporting-MTA: dns; s010.host-age.ro
+
+Action: failed
+Final-Recipient: rfc822;christoph.ruisinger@herco-wt.de
+Status: 5.0.0
+Remote-MTA: dns; mx01.hornetsecurity.com
+Diagnostic-Code: smtp; 550 5.1.1 <christoph.ruisinger@herco-wt.de>: Recipient address rejected: undeliverable address: host hercowt.mail.protection.outlook.com[52.101.68.25] said: 550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors [DB3PEPF0000885D.eurprd02.prod.outlook.com 2026-08-12T10:40:19.256Z 08DEF5A62EE234A7] (in reply to RCPT TO command)

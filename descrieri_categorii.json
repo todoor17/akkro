@@ -1,0 +1,65 @@
+{
+  "01": "Filtre care opresc nisipul, rugina și alte particule din apă, plus carcasele, cartușele și sacii care se montează în ele.",
+  "01-008": "Filtre gata de montat pe conductă: cu sită, cu nisip, autocurățitoare sau hidrocicloane. Unele se curăță manual, altele automat.",
+  "01-009": "Carcasele în care se montează cartușele sau sacii filtranți, plus accesoriile lor: manometre, flanșe, console.",
+  "01-010": "Cartușe de schimb pentru carcase. Se aleg după lungime și după cât de fin filtrează (în microni).",
+  "01-011": "Saci de schimb pentru filtrele cu sac și membrane pentru filtrele NW. Se aleg după mărime, material și finețe (în microni).",
+
+  "08": "Stații de osmoză inversă și membranele lor. Scot din apă sărurile dizolvate, pentru apă de băut sau apă tehnologică foarte curată.",
+  "08-002": "Stații de osmoză, membrane de schimb și accesoriile lor.",
+
+  "10": "Generatoare de ozon și piesele lor. Ozonul dezinfectează apa și elimină mirosurile.",
+  "10-001": "Generatoarele de ozon și piesele lor: injectoare, distrugătoare de ozon, ventilatoare, senzori.",
+
+  "11": "Pompe care adaugă în apă cantități mici și exacte de clor sau alte substanțe, plus senzorii și controlerele care le comandă.",
+  "11-002": "Pompe dozatoare SEKO și accesoriile lor: lănci de aspirație, controlere de clor, senzori.",
+  "11-003": "Pompe dozatoare de la alți producători (de exemplu Grundfos), debitmetre și instalații de preparare a polimerilor.",
+
+  "12": "Substanțe pentru curățarea și întreținerea instalațiilor, de exemplu a membranelor de osmoză, și sarea pentru dedurizatoare.",
+  "12-002": "Soluții de spălare pentru membrane și instalații, antiscalant, inhibitor de coroziune, pompe de spălare și sare pentru dedurizare.",
+
+  "13": "Stații complete care trec apa prin coloane cu material filtrant: dedurizatoare, filtre pentru fier, mangan sau nitrați, filtre cu nisip sau cu cărbune activ.",
+  "13-001": "Stații de dedurizare (scot calcarul), deferizare (scot fierul și manganul) și denitrare (scot nitrații), plus filtre multimedia, cu nisip sau cu cărbune activ.",
+
+  "14": "Piese pentru filtrele cu coloane: vane automate, materiale filtrante, coloane, vase de saramură și distribuitoare.",
+  "14-001": "Vanele automate care comandă spălarea și regenerarea filtrelor, și piesele lor de schimb.",
+  "14-002": "Materialele care umplu coloanele: rășini, nisip, cărbune activ, zeolit, medii pentru fier și mangan.",
+  "14-003": "Coloanele (recipientele sub presiune) în care se pune materialul filtrant, și adaptoarele lor.",
+  "14-004": "Vasele cu saramură folosite la regenerarea dedurizatoarelor, și accesoriile lor.",
+  "14-005": "Piesele din interiorul coloanelor care împart apa uniform prin material: crepine, distribuitoare, tuburi.",
+
+  "16": "Servicii facturate: montaj și service, deplasări, transport și reduceri. Nu sunt produse fizice.",
+  "16-001": "Manoperă și alte servicii: montaj, service, punere în funcțiune, proiectare.",
+  "16-002": "Costuri de deplasare la client: diurnă, cazare.",
+  "16-003": "Transport, livrare și ambalare.",
+  "16-004": "Reduceri și garanție extinsă.",
+
+  "21": "Aparate și truse care măsoară calitatea apei, de exemplu duritatea sau turbiditatea, și reactivii pentru ele.",
+  "21-001": "Analizoare online, truse pentru măsurarea durității și reactivi.",
+
+  "23": "Materiale de instalație folosite în jurul sistemelor de tratare: pompe, hidrofoare, contoare, automatizări, rezervoare, robineți și fitinguri.",
+  "23-001": "Pompe, grupuri de pompare, hidrofoare, contoare și debitmetre, cu accesoriile lor.",
+  "23-002": "Vane electrice, automatizări și componente electrice pentru tablouri.",
+  "23-003": "Rezervoare, bazine și containere pentru apă, chimicale sau echipamente.",
+  "23-006": "Robineți, fitinguri, flanșe, țeavă și alte piese de instalație.",
+
+  "25": "Produse cumpărate o singură dată, pentru un proiect anume, care nu intră în celelalte categorii.",
+  "25-001": "Produse cumpărate o singură dată, pentru un proiect anume.",
+
+  "27": "Sisteme cu lumină ultravioletă care dezinfectează apa sau aerul, plus piesele de schimb: lămpi, teci de cuarț și partea electronică.",
+  "27-001": "Sisteme UV complete care dezinfectează apa: potabilă, de piscină sau uzată.",
+  "27-002": "Sisteme UV care dezinfectează aerul și suprafețele din încăperi.",
+  "27-003": "Lămpi UV de schimb, inclusiv lămpi echivalente pentru sistemele altor producători.",
+  "27-004": "Teci de cuarț (tubul care protejează lampa UV de apă) și garniturile lor.",
+  "27-005": "Partea electronică a sistemelor UV: balasturi, senzori UV, startere, panouri de comandă.",
+
+  "28": "Bunuri ale firmei (mașini, echipamente, dotări), nu produse de vânzare.",
+  "28-001": "Mașinile firmei.",
+  "28-002": "Echipamente electronice ale firmei.",
+  "28-003": "Mobilier și alte dotări ale firmei.",
+
+  "29": "Obiecte de inventar ale firmei, nu produse de vânzare.",
+  "29-003": "Mobilier înregistrat ca obiect de inventar.",
+
+  "Fără categorie": "Produse care în Odoo au doar categoria generală All. Trebuie încadrate de cineva care cunoaște produsele."
+}

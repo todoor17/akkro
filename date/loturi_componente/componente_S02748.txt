@@ -1,0 +1,714 @@
+
+####################################################################################################
+OFERTA S02748 | client: MONTIN SA | trimisă: 2026-09-01 09:53 | Odoo: Comandă de vânzare | conversații: c2117124 (nr. 375)
+
+####################################################################################################
+RÂND c2117124 (nr. 375) | stare: Completă | categorie: 13-Filtre multistrat diferite medii | cerere: Stație de dedurizare obiectiv PARKLANE
+CERINȚA: Cere ofertă pentru o stație de dedurizare (fără potabilitate) pentru obiectivul PARKLANE, debit 11-12 mc/h din 2 foraje. [m2117124] «Pentru Obiectivul PARKLANE , va rugam oferta pentru statie dedurizare, fara potabilitate.»
+CERINȚĂ FINALĂ (debit): 11-12 mc/h de la 2 foraje [m2117124] «Debit total 11-12mc /h de la 2 foraje.»
+CERINȚĂ FINALĂ (calitate apă): Apă subterană din puț forat Parklane, Popești Leordeni (raport de încercări Biosol atașat) [m2117124] «Put forat - Parklane, Soseaua Oltenitei,nr 216,Popesti Leordeni»
+CERINȚĂ FINALĂ (tip echipament): Filtru impurități NW500 2" [m2153956] «pentru retinere impuritati – NW500 – fisa tehnica anexata»
+CERINȚĂ FINALĂ (tip echipament): Stație de clorinare volumetrică: pompă dozatoare TPG603, rezervor 50 L, contor apă rece 2" [m2153956] «O statie de clorinare volumetrica:»
+CERINȚĂ FINALĂ (tip echipament): Stație de dedurizare duplex 700 L cu vană RX99 2" [m2153956] «Statia de dedurizare de 700L duplex cu vana RX 99»
+CERINȚĂ FINALĂ (termen): Livrare estimată 3-5 săptămâni de la comanda fermă [m2153956] «Termen estimat de livrare a produselor 3-5 saptamani de la comanda ferma.»
+CERINȚĂ FINALĂ (altele): Asamblare și PIF incluse în confirmarea de comandă (anexa 1 la contract) [m2154404] «Confirmarea de comanda cu interventia de asamblare si PIF a statiei de dedurizare la Popesti Leordeni»
+CERINȚĂ FINALĂ (altele): Plată: 50% avans din utilaje, 50% la gata de livrare, servicii la 15 zile de la intervenție [m2154404] «50% din valoarea utilajelor in avans;»
+CERINȚĂ FINALĂ (loc livrare): Park Lane, Șos. Olteniței nr. 245, Popești Leordeni; contact Roșu George [m2128292] «LIVRARE STATIE DEDURIZARE - PARK LANE SOS OLTENITEI NR 245 POPESTI LEORDENI»
+CLARIFICARE: întrebare - → răspuns AKRO a clarificat instalația cu Dl Roșu și propune filtru NW500, clorinare volumetrică și dedurizare duplex 700 L (ca la Filipeștii de Târg); montajul și PIF nu sunt incluse în ofertă. [m2153956] «Am discutat cu Dl Rosu ieri si totul este clar din punct de vedere al instalatiei.» | schimbare: Soluția se extinde la filtru + clorinare + dedurizare duplex 700 L.
+CLARIFICARE: întrebare - → răspuns După discuția telefonică, se trimit confirmarea de comandă cu asamblare și PIF, draftul de contract și factura de avans 50%. [m2154404] «Draftul de contract in format editabil» | schimbare: Se adaugă asamblarea și PIF-ul; se încheie contract nr. 129.
+CLARIFICARE: întrebare - → răspuns Pentru FAM, AKRO indică producătorii: Airwatec/Cintropur, Zenner, SEKO, Euro-Clear. [m2155012] «Pentru FAM va las mai jos producatorii la toate produsele din oferta prezentata» | schimbare: Se precizează producătorii echipamentelor.
+CLARIFICARE: întrebare - → răspuns Restul facturilor se pot achita cu bilet la ordin avalizat la 30 de zile. [m2163300] «Am primit aprobare si pentru achitarea cu BO – avalizat la 30 de zile» | schimbare: Plata restului facturilor prin BO avalizat la 30 de zile.
+TELEFON: S-a stabilit comanda cu asamblare și PIF, contractul și avansul de 50%. [m2154404] «Conform discutiei telefonice, va rog sa regasiti anexate:»
+REZULTAT: acceptată — Comandă confirmată cu asamblare și PIF, contract și avans; marfa livrată în octombrie 2026. [m2154404] «Confirmarea de comanda cu interventia de asamblare si PIF»
+PREȚURI Ofertă S02748 v1 (2026-09-01), total 66894.16 RON:
+  [01-008018] Filtru impuritati nw500 - 2" | 1.0 buc × 2281.39 RON | referință
+  [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 | 1.0 buc × 220.07 RON | referință
+  [23-001219] Contor apa rece axial cu cadran uscat - 2"-ZENNER - cu generator de impuls 1/10L - cu racorduri (o-landezi) si garnituri | 1.0 buc × 1922.02 RON | referință
+  [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie de un semn | 1.0 buc × 2144.19 RON | referință
+  [11-002098] Rezervor PE - stocare chimicale 50L | 1.0 buc × 565.3 RON | referință
+  [13-001164] Statie dedurizare duplex 2x700L, Vana RX99 - 2" | 1.0 buc × 57907.55 RON | referință
+  [-] Reducere: 15.00% | 1.0 buc × -9756.08 RON | serviciu
+  termen: Metoda de plata: O.P. 50% in avans; 50% la gata de livrare
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12 luni de la livrare
+PREȚURI Confirmare de comandă S02748 v1 (2026-09-02), total 73586.7 RON:
+  [01-008018] Filtru impuritati nw500 - 2" | 1.0 buc × 2281.39 RON (reducere 15.0%) | referință
+  [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 | 1.0 buc × 220.07 RON (reducere 15.0%) | referință
+  [23-001219] Contor apa rece axial cu cadran uscat - 2"-ZENNER - cu generator de impuls 1/10L - cu racorduri (o-landezi) si garnituri | 1.0 buc × 1922.02 RON (reducere 15.0%) | referință
+  [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie de un semn | 1.0 buc × 2144.19 RON (reducere 15.0%) | referință
+  [11-002098] Rezervor PE - stocare chimicale 50L | 1.0 buc × 565.3 RON (reducere 15.0%) | referință
+  [13-001164] Statie dedurizare duplex 2x700L, Vana RX99 - 2" | 1.0 buc × 57907.55 RON (reducere 15.0%) | referință
+  [16-002001] Deplasare la beneficiar - Popesti Leordeni, asamblare statie pe pozitie, incarcare cu rasina si PIF | None  × None RON | serviciu
+  termen: Metoda de plata: O.P. 50% din valoarea utilajelor in avans; 50% din valoarea utilajelor la gata de livrare, contravaloare asamblare
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12 luni de la livrare
+VÂNDUTĂ 2026-09-02 11:40 | lanț: fără comandă | lipsește: ['nicio comandă către furnizor nu e legată sigur (în Odoo sau în PDF-ul comenzii) de această vânzare']
+COMANDA P01436 (indiciu din perioadă) | ALAMO WATER POLAND | 2026-08-27 13:52 | sursa în Odoo: - | stare: Comandă de achiziție | total: 1053.5
+  Comandă AKRO P01436 trimisă 2026-08-27 13:54 în m2152932 (conversația 359):
+    [14-002101] [10761000004] Pure Resin PMB101-2 mixed bed | 350.0 L | 14-002 Medii filtrante
+COMANDA P01502 (indiciu din perioadă) | ALAMO WATER POLAND | 2026-09-23 10:44 | sursa în Odoo: - | stare: Comandă de achiziție | total: 501.47
+  (nu e în emailuri: doar rândul din lista Odoo)
+COMANDA P01565 (indiciu din perioadă) | ALAMO WATER POLAND | 2026-10-13 10:01 | sursa în Odoo: - | stare: nu e în lista Odoo | total: None
+  Comandă AKRO P01565 trimisă 2026-10-13 10:01 în m2166852 (conversația 640):
+    [14-002100] [10761000008] Pure Resin PC003 strong cation | 200.0 L | 14-002 Medii filtrante
+    [14-002038] [10870000013] Anthracite 0,8 – 1,6 mm | 100.0 L | 14-002 Medii filtrante
+    [14-001082] [V3430-01] WS1.25/WS1.5 Spacer Stack | 1.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-001081] [V3407] WS1.25/WS1.5 Piston Downflow Asy | 1.0 Units | 14-001 Vane automate programabile, accesorii
+
+====================================================================================================
+CONVERSAȚIA c2117124 (nr. 375) | subiect: Fwd: Rapoarte de incercare - MONTIN SA
+Partener (după adrese): montinph@gmail.com MONTIN S.A | grupare nesigură: nu
+OFERTĂ S02748 v1 trimisă 2026-09-01 09:53 în m2153956 (Odoo: Comandă de vânzare): [01-008018] Filtru impuritati nw500 - 2" x1.0 buc; [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 x1.0 buc; [23-001219] Contor apa rece axial cu cadran uscat - 2"-ZENNER - cu generator de impuls 1/10L x1.0 buc; [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual x1.0 buc; [11-002098] Rezervor PE - stocare chimicale 50L x1.0 buc; [13-001164] Statie dedurizare duplex 2x700L, Vana RX99 - 2" x1.0 buc; [-] Reducere: 15.00% x1.0 buc
+OFERTĂ S02748 v1 trimisă 2026-09-02 11:40 în m2154404 (Odoo: Comandă de vânzare): [01-008018] Filtru impuritati nw500 - 2" x1.0 buc; [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 x1.0 buc; [23-001219] Contor apa rece axial cu cadran uscat - 2"-ZENNER - cu generator de impuls 1/10L x1.0 buc; [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual x1.0 buc; [11-002098] Rezervor PE - stocare chimicale 50L x1.0 buc; [13-001164] Statie dedurizare duplex 2x700L, Vana RX99 - 2" x1.0 buc; [-] Deplasare la beneficiar - Popesti Leordeni, asamblare statie pe pozitie, incarca xNone 
+
+--- MESAJ m2117124 | 2026-08-31 15:19 | Inbox | EXTERN
+De la: MONTIN S.A <montinph@gmail.com>
+Către: vanzari@apa.ro <vanzari@apa.ro>, AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Fwd: Rapoarte de incercare - MONTIN SA
+Buna ziua.
+Pentru Obiectivul PARKLANE , va rugam oferta pentru statie dedurizare, fara potabilitate.
+
+Debit total 11-12mc /h de la 2 foraje.
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+---------- Forwarded message ---------
+From: Corina Simionescu <corina.simionescu@biosol.ro>
+Date: Fri, Aug 28, 2026 at 4:00 PM
+Subject: Rapoarte de incercare - MONTIN SA
+To: <montinph@gmail.com>
+
+Cod probă
+
+Data
+prelevării
+
+Data
+primirii
+
+Contract
+
+Responsabil
+
+Locaţie
+
+Descriere
+probă
+
+Indicatori
+
+Facturat
+
+8031 ABC/ABM
+
+17.08.2026
+
+18.08.2026
+
+Comanda 2278 din 18.08.2026
+
+ABC
+
+Evelina Adina Nitu
+
+ABM
+
+Ribana Mihaela Bacioiu
+
+Put forat - Parklane, Soseaua
+Oltenitei,nr 216,Popesti Leordeni (Proiect
+nr.008/2025)
+
+Apa subterana
+
+Turbiditate
+
+(TURB)
+
+pH
+
+(pH)
+
+Conductivitate
+
+(Y)
+
+Clor rezidual liber
+
+(Clżlib)
+
+Amoniu
+
+(NHÁÄ)
+
+Azotiti (Nitriti)
+
+(NOżČ)
+
+Azotati (Nitrati)
+
+(NOŔČ)
+
+Cloruri
+
+(ClČ)
+
+Duritate totala
+
+(Dtot)
+
+Aluminiu
+
+(AlłÄ)
+
+Oxidabilitate (CCOMn)
+
+(CCOMn)
+
+Fier total
+
+(FeŞÄtot)
+
+Mangan
+
+(MnŞÄ)
+
+Bacterii coliforme
+
+(Bcol)
+
+Enterococi intestinali
+
+(ENTi)
+
+Escherichia coli
+
+(Ecoli)
+
+Numar de colonii
+dezvoltate la 22°C
+
+(Ncol22)
+
+Numar de colonii
+dezvoltate la 37°C
+
+(Ncol37)
+
+Sulfati
+
+(SO4ĆČ)
+
+0,4
+
+7,11
+
+1439
+
+<0,1
+
+<0,064 (0,028)
+
+<0,05 (0,03)
+
+38,032
+
+210,294
+
+26,499
+
+19,93
+
+0,816
+
+<25 (21,17)
+
+2,051
+
+0
+
+60
+
+0
+
+1360
+
+690
+
+51,114
+
+BPS 263079
+
+!!! ATENŢIE !!!
+
+Tabelul de mai sus
+prezintă în paranteză valorile determinate sub limita
+metodei şi valorile depăşite pe fond roşu.
+
+Acestea sunt oferite
+doar pentru convenienţa dumneavoastră şi nu sunt acoperite
+de acreditarea RENAR.
+
+Valorile oficiale,
+raportate cu rigoarea impusă de standardul de acreditare, se
+regăsesc în raportul de încercări ataşat.
+
+--
+
+﻿
+
+Biosol psi
+
+Responsabil facturare
+
+ing. chim. Maria Corina
+Simionescu Ivănoiu
+
+Str. Torcători nr. 6, Ploiești
+
+0244.517.408, 0344.107.813, 0371.322.551
+
+www.biosol.ro
+
+--
+
+Va multumim!
+
+SC MONTIN SA
+
+str. Poligonului, nr.3, Ploiesti, jud.Prahova
+
+J29/204/1991
+
+RO1343422
+[ATAȘAMENT: 8031 ABC-ABM din 24.08.2026.pdf | text extras]
+acreditat pentru
+LABORATOR MEDIU BIOSOL ÎNCERCARE
+SC Biosol psi SRL
+Str. Torcători, Nr. 6
+Ploieşti, Prahova
+Tel: 0344 107813 Tel: 0371 322551 Tel/Fax: 0244 517408
+Web: www.biosol.ro E-mail: laborator@biosol.ro
+Societate certificată SR EN ISO 9001:2015 şi SR EN ISO 14001:2015, laborator SR EN ISO/IEC 17025:2018
+acreditat SR EN ISO/IEC 17025:2018, înregistrat la Ministerul Sănătăţii pentru CERTIFICAT DE ACREDITARE
+monitorizarea calităţii apei potabile şi abilitat pentru determinări de noxe profesionale nr. LI 737
+
+RAPORT DE ÎNCERCĂRI / ANALIZE
+Număr raport: 8031 ABC/ABM Dată emitere raport: 24.08.2026
+
+Detalii
+Beneficiar: MONTIN SA, STR. POLIGONULUI NR 3, PLOIESTI
+Nr. comandă/contract: Comanda 2278 din 18.08.2026
+Tip probă: Ape subterane
+Descriere probă: Apa subterana
+Codul probei: 8031 ABC/ABM
+Numărul fişei de primire: 80518
+Locul prelevării probei: Put forat - Parklane, Soseaua Oltenitei,nr 216,Popesti Leordeni (Proiect nr.008/2025)
+Data prelevării/primirii probei: 17.08.2026 / 18.08.2026
+Data efectuării încercărilor: 18.08.2026 - 21.08.2026
+Metoda de prelevare: -
+Date suplimentare despre probele primite: Proba a fost prelevată de beneficiar care işi asumă întreaga răspundere cu privire la data, locul
+şi modul de prelevare al probei
+
+Nr. Indicator Metoda UM Valoare Valoare max conf
+crt. analizat de încercare determinată Ordonanta 7/2023
+
+Ape subterane - Analize fizico-chimice
+1 Aluminiu SR EN ISO 11885/2009 µg/l 19,93 200
+ISO 15923-1/2013
+2 Amoniu LMB-PS.65 ed.3 rev.1 mg/l <0
+
+--- MESAJ m2153732 | 2026-08-31 15:20 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: Rapoarte de incercare - MONTIN SA
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: MONTIN S.A <montinph@gmail.com>
+Sent: Monday, August 31, 2026 3:19 PM
+To: vanzari@apa.ro; AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: Fwd: Rapoarte de incercare - MONTIN SA
+
+Buna ziua.
+
+Pentru Obiectivul PARKLANE , va rugam oferta pentru statie dedurizare, fara potabilitate.
+
+Debit total 11-12mc /h de la 2 foraje.
+
+---------- Forwarded message ---------
+From: Corina Simionescu <corina.simionescu@biosol.ro>
+Date: Fri, Aug 28, 2026 at 4:00 PM
+Subject: Rapoarte de incercare - MONTIN SA
+To: <montinph@gmail.com>
+
+Cod probă
+
+Data prelevării
+
+Data primirii
+
+Contract
+
+Responsabil
+
+Locaţie
+
+Descriere probă
+
+Indicatori
+
+Facturat
+
+8031 ABC/ABM
+
+17.08.2026
+
+18.08.2026
+
+Comanda 2278 din 18.08.2026
+
+ABC
+
+Evelina Adina Nitu
+
+ABM
+
+Ribana Mihaela Bacioiu
+
+Put forat - Parklane, Soseaua Oltenitei,nr 216,Popesti Leordeni (Proiect nr.008/2025)
+
+Apa subterana
+
+Turbiditate
+
+(TURB)
+
+pH
+
+(pH)
+
+Conductivitate
+
+(Y)
+
+Clor rezidual liber
+
+(Clżlib)
+
+Amoniu
+
+(NHÁÄ)
+
+Azotiti (Nitriti)
+
+(NOżČ)
+
+Azotati (Nitrati)
+
+(NOŔČ)
+
+Cloruri
+
+(ClČ)
+
+Duritate totala
+
+(Dtot)
+
+Aluminiu
+
+(AlłÄ)
+
+Oxidabilitate (CCOMn)
+
+(CCOMn)
+
+Fier total
+
+(FeŞÄtot)
+
+Mangan
+
+(MnŞÄ)
+
+Bacterii coliforme
+
+(Bcol)
+
+Enterococi intestinali
+
+(ENTi)
+
+Escherichia coli
+
+(Ecoli)
+
+Numar de colonii dezvoltate la 22°C
+
+(Ncol22)
+
+Numar de colonii dezvoltate la 37°C
+
+(Ncol37)
+
+Sulfati
+
+(SO4ĆČ)
+
+0,4
+
+7,11
+
+1439
+
+<0,1
+
+<0,064 (0,028)
+
+<0,05 (0,03)
+
+38,032
+
+210,294
+
+26,499
+
+19,93
+
+0,816
+
+<25 (21,17)
+
+2,051
+
+0
+
+60
+
+0
+
+1360
+
+690
+
+51,114
+
+BPS 263079
+
+!!! ATENŢIE !!!
+
+Tabelul de mai sus prezintă în paranteză valorile determinate sub limita metodei şi valorile depăşite pe fond roşu.
+
+Acestea sunt oferite doar pentru convenienţa dumneavoastră şi nu sunt acoperite de acreditarea RENAR.
+
+Valorile oficiale, raportate cu rigoarea impusă de standardul de acreditare, se regăsesc în raportul de încercări ataşat.
+
+--
+﻿
+
+Biosol psi
+Responsabil facturare
+ing. chim. Maria Corina Simionescu Ivănoiu
+Str. Torcători nr. 6, Ploiești
+0244.517.408, 0344.107.813, 0371.322.551
+www.biosol.ro
+
+--
+
+Va multumim!
+
+SC MONTIN SA
+
+str. Poligonului, nr.3, Ploiesti, jud.Prahova
+
+J29/204/1991
+
+RO1343422
+[ATAȘAMENT: 8031 ABC-ABM din 24.08.2026.pdf | text extras]
+
+--- MESAJ m2153956 | 2026-09-01 09:53 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: MONTIN S.A <montinph@gmail.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Rapoarte de incercare - MONTIN SA
+Buna ziua Doamna Alina,
+
+Am discutat cu Dl Rosu ieri si totul este clar din punct de vedere al instalatiei.
+
+Recomandarea noastra pentru PARKLANE - este urmatoarea:
+
+Din bazinul de apa bruta, se preia apa cu grupul de pompare cu convertizor [ distribuitor de 2”] – existent;
+
+Un filtru de impuritati de 2” – pentru retinere impuritati – NW500 – fisa tehnica anexata
+
+O statie de clorinare volumetrica:
+
+Pompa dozatoare TPG603
+
+Rezervor 50L
+
+Contor de apa rece 2”
+
+Apoi de preferat ar fi sa montati un bazin hidrofor de minim 300L pentru miscibilitate – am inteles ca exista unul in locatie de 6-750L] – existent + supapa de sens
+
+Statia de dedurizare de 700L duplex cu vana RX 99 – 2” [ este exact acelasi sistem ca la FILIPESTI DE TARG]
+
+Oferta anexata include livrarea produselor la beneficiar .
+
+Montajul , asamblarea si PIF-ul nu sunt incluse!
+
+Termen estimat de livrare a produselor 3-5 saptamani de la comanda ferma.
+
+Asteptam cu interes raspunsul dumenavoastra!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02748 - MONTIN - 01.09.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: BS_2800_D2_RX99.pdf | text extras]
+[ATAȘAMENT: FT - DEDURIZARE DUPLEX.pdf | text extras]
+[ATAȘAMENT: Fisa tehnica_Filtru mecanic sedimente NW500-650-800.pdf | text extras]
+[ATAȘAMENT: Fisa tehnica_Vas stocare chimicale 50 litri.pdf | text extras]
+[ATAȘAMENT: Fisa tehnica_Pompa de dozare TPG.pdf | text extras]
+
+--- MESAJ m2154404 | 2026-09-02 11:40 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: MONTIN S.A <montinph@gmail.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Rapoarte de incercare - MONTIN SA
+Buna ziua Doamna Alina,
+Conform discutiei telefonice, va rog sa regasiti anexate:
+
+Confirmarea de comanda cu interventia de asamblare si PIF a statiei de dedurizare la Popesti Leordeni – devenita anexa 1 la ctr.
+
+Draftul de contract in format editabil
+
+Factura pentru 50% din valoarea utilajelor pentru avans.
+
+La acest contract conditiile de plata agreate sunt:
+
+50% din valoarea utilajelor in avans;
+
+50% din valoarea utilajelor la gata de livrare [ inainte de livrarea produselor in santier]
+
+Contravaloarea serviciilor – la 15 zile de la interventia propriu-zisa.
+
+Asteptam confirmarea de plata pentru factura anexata si contractul semnat din partea dumneavoastra pentru a demara procedura de aprovizionare.
+
+Numai bine,
+[ATAȘAMENT: 1.F1_DRAFT CONTRACT - Nr 129  - MONTIN - 02.09.2026.docx | text extras]
+[ATAȘAMENT: Factură proforma - MONTIN - 02.09.2026.pdf | text extras]
+[ATAȘAMENT: ANEXA 1 la Ctr 129 - Comanda - S02748 - MONTIN - 02.09.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2155012 | 2026-09-03 15:52 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: MONTIN S.A <montinph@gmail.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Rapoarte de incercare - MONTIN SA - FAM
+Buna ziua,
+
+Pentru FAM va las mai jos producatorii la toate produsele din oferta prezentata:
+
+Filtru impuritati + consola de prindere [ primele 2 pozitii] - Producator Airwatec – marca CINTROPUR – BELGIA
+
+Contor apa rece axial 2” – Producator ZENNER
+
+Pompa dozatoare TPG 603 + rezervor 50L – Producator SEKO – Italia
+
+Statie dedurizare - Producator EURO-Clear – Ungaria.
+
+Pentru orice alte informatii va stau cu placere la dispozitie!
+
+Numai bine,
+
+--- MESAJ m2161764 | 2026-09-28 16:28 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: MONTIN S.A <montinph@gmail.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: LIVRAREA STATIEI DE TRATARE - PARK LANE
+Buna ziua,
+
+Va informam ca produsele aferente comenzii dumneavoastra s-au pregatit pentru livrare.
+
+Va rog sa ne transmiteti:
+
+Adresa exacta de livrare si un numar de contact din locatie [ care poate prelua marfa]
+
+Confirmarea de plata pentru factura anexata [ diferenta la livrare doar pentru contravaloarea produselor]
+
+Asteptam cu interes raspunsul dumneavoastra!
+
+Numai bine,
+[ATAȘAMENT: AKF 260588 - MONTIN - Factura 2 - 28.09.2026.pdf | text extras]
+
+--- MESAJ m2128292 | 2026-10-02 13:40 | Inbox | EXTERN
+De la: MONTIN S.A <montinph@gmail.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Re: LIVRAREA STATIEI DE TRATARE - PARK LANE
+LIVRARE STATIE DEDURIZARE - PARK LANE SOS OLTENITEI NR 245 POPESTI LEORDENI
+
+PERS CONTACT : ROSU GEORGE 0757094505
+
+--- MESAJ m2163300 | 2026-10-02 16:46 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: MONTIN S.A <montinph@gmail.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, aurel.caras@akro.ro
+Subiect: RE: LIVRAREA STATIEI DE TRATARE - PARK LANE
+Buna ziua,
+
+Am notat adresa de livrare si vom anunta de indata ce incarcam – cu detaliile transportatorului.
+
+Am primit aprobare si pentru achitarea cu BO – avalizat la 30 de zile - pentru restul facturilor pe acest proiect [ facturile anexate]
+
+Prin urmare pentru a putea organiza transportul, va rog sa emiteti biletul la ordin pentru suma de
+
+40136.70 LEI – cu scadenta in 02.11.2026 - avalizat ,
+
+Si sa il livrati la adresa Str. Zizinului nr.110, Brasov
+
+Asteptam documentul de plata!
+
+Va multumim!
+[ATAȘAMENT: AKF 260588.pdf | text extras]
+[ATAȘAMENT: AKF 260609.pdf | text extras]
+
+--- MESAJ m2166724 | 2026-10-13 09:21 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: MONTIN S.A <montinph@gmail.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: LIVRAREA STATIEI DE TRATARE - PARK LANE
+Buna ziua ,
+
+Va informam ca marfa aferenta comenzii de la PARKLANE – s-a incarcat si urmeaza a se livra la locatie:
+
+Statia de clorinare + filtrul mecanic NW500 - 1 palet – livrat prin PALLEX [astazi sau cel tarziu maine ar trebui sa ajunga]
+
+Statia de dedurizare - s-a incarcat astazi prin DACHSER – si urmeaza a ajunge la locatie – vineri sau cel tarziu luni 19.10.2026. Mai jos va las dimensiunile paletilor pentru aceasta.
+
+Pallet 1
+Dimensions: 120.0 × 100.0 × 180.0 cm
+Weight: 65.0 kg
+
+Pallet 2
+Dimensions: 120.0 × 100.0 × 180.0 cm
+Weight: 75.0 kg
+
+Pallet 3
+Dimensions: 120.0 × 100.0 × 80.0 cm
+Weight: 370.0 kg
+
+Pallet 4
+Dimensions: 120.0 × 100.0 × 80.0 cm
+Weight: 370.0 kg
+
+Pallet 5
+Dimensions: 120.0 × 100.0 × 130.0 cm
+Weight: 890.0 kg
+
+Pallet 6
+Dimensions: 95.0 × 95.0 × 235.0 cm
+Weight: 85.0 kg
+
+Pallet 7
+Dimensions: 95.0 × 95.0 × 235.0 cm
+Weight: 85.0 kg
+
+Va rog sa ne confirmati dupa ce primiti intreaga comanda – pentru a programa de comun acord si asamblarea si PIF.
+
+Cu respect,

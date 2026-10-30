@@ -1,0 +1,5 @@
+Reporting-MTA: dns; mta.mail.yahoo.com
+
+Final-Recipient: rfc822; alexandru.soare@akro.ro
+Action: failed
+Status: 5.0.0

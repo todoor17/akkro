@@ -1,0 +1,191 @@
+
+####################################################################################################
+OFERTA S02795 | client: PROINSTAL SRL | trimisă: 2026-09-09 12:23 | Odoo: Comandă de vânzare | conversații: c2156388, c2120100 (nr. 432, 438)
+
+####################################################################################################
+RÂND c2156388-1 (nr. 432.1) | stare: Fără cerință clară | categorie: 11-Pompe de dozare | cerere: Instalație de clorinare de 1 țol pentru bloc operator
+CERINȚA: -
+CERINȚĂ FINALĂ (tip echipament): Instalație de clorinare de 1 țol [m2156388] «Va rog sa regasiti anexate ofertele pentru : Instalatia de clorinare de 1»
+REZULTAT: necunoscut
+
+####################################################################################################
+RÂND c2120100 (nr. 438) | stare: Completă | categorie: 11-Pompe de dozare | cerere: Comandă pompă dozatoare TPG603 și contor Zenner
+CERINȚA: Plasează comandă din oferta atașată (S02795) pentru o pompă dozatoare TPG603 și un contor axial Zenner de 1 țol. [m2120100] «Din oferta atasata te rog sa plasezi comanda pe urmatoarele 2»
+CERINȚĂ FINALĂ (cantitate): 1 buc. pompă dozatoare solenoidală TPG603 [m2120100] «Pompa dozatoare solenoidala tpg603 -1 buc»
+CERINȚĂ FINALĂ (cantitate): 1 buc. contor apă rece axial cu cadran uscat 1 țol Zenner [m2120100] «Contor apa rece axial cu cadran uscat 1'' Zenner - 1 buc»
+CERINȚĂ FINALĂ (loc livrare): Aleea Olteniei nr. 4B, Baia Mare, Maramureș [m2120100] «Adresa de livrare: Aleea Olteniei nr.4B, Baia Mare, Maramures»
+REZULTAT: acceptată — Clientul comandă pompa și contorul din oferta S02795; AKRO trimite confirmarea. [m2156644] «Iti multumim pentru comanda! Anexat te rog sa regasesti confirmarea!»
+PREȚURI Ofertă S02795 v1 (2026-09-09), total 724.73 EUR:
+  [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie de un semn | 1.0 buc × 407.75 EUR | referință
+  [23-001216] Contor apa rece axial cu cadran uscat - 1"-ZENNER - cu generator de impuls 1/10L - cu racorduri (o-landezi) si garnituri | 1.0 buc × 189.4 EUR | referință
+  [11-002098] Rezervor PE - stocare chimicale 50L | 1.0 buc × 107.5 EUR | referință
+  [-] Reducere: 15.00% | 1.0 buc × -105.7 EUR | serviciu
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12 luni de la livrare
+  termen: Condiții de plată: 30 de zile
+PREȚURI Confirmare de comandă S02795 v1 (2026-09-10), total 614.17 EUR:
+  [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie de un semn | 1.0 buc × 407.75 EUR | referință
+  [23-001216] Contor apa rece axial cu cadran uscat - 1"-ZENNER - cu generator de impuls 1/10L - cu racorduri (o-landezi) si garnituri | 1.0 buc × 189.4 EUR | referință
+  [-] Reducere: 15.00% | 1.0 buc × -89.57 EUR | serviciu
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12 luni de la livrare
+  termen: Condiții de plată: 30 de zile
+VÂNDUTĂ 2026-09-10 09:56 | lanț: fără comandă | lipsește: ['nicio comandă către furnizor nu e legată sigur (în Odoo sau în PDF-ul comenzii) de această vânzare']
+
+====================================================================================================
+CONVERSAȚIA c2156388 (nr. 432) | subiect: Oferte bloc operator
+Partener (după adrese): proinstal.ro  | grupare nesigură: nu
+OFERTĂ S02797 v1 trimisă 2026-09-09 12:23 în m2156388 (Odoo: Ofertă trimisă): [27-001229] Sistem UV apa_405C AL2_Debit 1,8 m3/h_Doza UV 30mJ/cm2_Putere_33W_Racord 3/4"_SI x1.0 buc; [27-001168] Sistem UV apa_VIQUA VH200_Debit 1,6 m3/h_Doza UV 40mJ/cm2_Putere 35 W_Racord 3/4 x1.0 buc
+OFERTĂ S02795 v1 trimisă 2026-09-09 12:23 în m2156388 (Odoo: Comandă de vânzare): [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual x1.0 buc; [23-001216] Contor apa rece axial cu cadran uscat - 1"-ZENNER - cu generator de impuls 1/10L x1.0 buc; [11-002098] Rezervor PE - stocare chimicale 50L x1.0 buc; [-] Reducere: 15.00% x1.0 buc
+
+--- MESAJ m2156388 | 2026-09-09 12:23 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: cristi@proinstal.ro <cristi@proinstal.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Oferte bloc operator
+Buna ziua Dl Soimosan,
+
+Va rog sa regasiti anexate ofertele pentru :
+
+Instalatia de clorinare de 1 “
+
+2 variante de UV [ pe care le avem in stoc]
+
+Sita - 405C -AL 2 – fisa tehnica anexata
+
+Viqua [ aceeasi marca cu sistemul achizitionat in mai] – VH 200 - fisa tehnica anexata
+
+Amandoua sistemele sunt cam mari doar pentru 1 robinet.
+
+As mai avea pe stoc 2 sisteme chinezesti AK-JZ4 – de 10 W – care sunt gandite sa fie montate in spatii mici – debit de tratat maxim 0.5-0.8mc/h – racord in/out ˝” – costul Proinstal - pentru 1 bucata este de 190 euro fara TVA – transport inclus.
+
+Asteptam cu interes raspuns!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02797 - PROINSTAL - 09.09.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: Oferta - S02795 - PROINSTAL - 09.09.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: VIQUA_drinking water_ home uses.pdf | text extras]
+[ATAȘAMENT: UV 405C AL-AL2 eng.pdf | text extras]
+[ATAȘAMENT: Fisa Tehnica AK_JZ4.pdf | text extras]
+
+====================================================================================================
+CONVERSAȚIA c2120100 (nr. 438) | subiect: Comanda pompa dozatoare si contor
+Partener (după adrese): proinstal.ro deac mihai | grupare nesigură: nu
+OFERTĂ S02795 v1 trimisă 2026-09-10 09:56 în m2156644 (Odoo: Comandă de vânzare): [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual x1.0 buc; [23-001216] Contor apa rece axial cu cadran uscat - 1"-ZENNER - cu generator de impuls 1/10L x1.0 buc; [-] Reducere: 15.00% x1.0 buc
+
+--- MESAJ m2120100 | 2026-09-10 09:21 | Inbox | EXTERN
+De la: deac mihai <mihai.deac@proinstal.ro>
+Către: alexandru.soare@akro.ro <alexandru.soare@akro.ro>
+Cc: cristi@proinstal.ro, valentin@proinstal.ro
+Subiect: Comanda pompa dozatoare si contor
+Salut Alexandru,
+
+Din oferta atasata te rog sa plasezi comanda pe urmatoarele 2
+repere:
+
+- Pompa dozatoare solenoidala tpg603 -1 buc
+
+- Contor apa rece axial cu cadran uscat 1'' Zenner - 1 buc
+
+Adresa de livrare: Aleea Olteniei nr.4B, Baia Mare, Maramures
+
+Persoana de contact: Deac Mihai, 0743301392
+
+Mersi mult
+
+--
+
+Cu
+respect,
+
+Ing. Mihai DEAC
+
+Compartiment
+
+Tehnic - Ofertare - Productie
+
+S.C. PROINSTAL S.R.L.
+
+Aleea Olteniei nr.4B
+
+430214 - Baia Mare
+
+Tel: +40 262 227 014
+
+Fax: +40 262 222 707
+
+Mobil: +40 743 301 392
+
+E-mail:
+mihai.deac@proinstal.ro
+
+Web: www.proinstal.ro
+
+P Save a tree...please don't
+print this e-mail unless you really need to
+[ATAȘAMENT: Oferta - S02795 - PROINSTAL - 09.09.2026.pdf | text extras]
+AKRO SRL
+RO14205979
+J2001000977088
+
+Furnizor Client:
+AKRO SRL PROINSTAL S.R.L., Cristian Soimosan
+Str. Zizinului Nr. 110 Aleea Olteniei Nr.4b
+Brașov BV 500407 Baia Mare MM 430214
+România România
+VAT: RO14205979 TVA: RO9858467
+
+În atenția
+Cristian Soimosan, cristi@proinstal.ro
+Phone: 0743397795 0262227014
+
+Oferta S02795
+Data ofertă: Expiră: Agent de vânzări:
+09.09.2026 09.10.2026 Alexandru Soare , +40 268 413 180
+
+DESCRIERE CANTITATE P.U. SUMĂ
+
+[11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil 1,00 buc 407,75 407,75 €
+manual sau proportional, in functie de un semnal extern analog (4-20ma) sau semnal digital
+(debitmetru).
+
+[23-001216] Contor apa rece axial cu cadran uscat - 1"-ZENNER - cu generator de impuls 1,00 buc 189,40 189,40 €
+1/10L - cu racorduri (o-landezi) si garnituri incluse MTKD-N + releu Reed
+
+[11-002098] Rezervor PE - stocare chimicale 50L 1,00 buc 107,50 107,50 €
+
+Reducere: 15.00% 1,00 buc -105,70 -105,70 €
+
+Valoare fără taxe 598,95 €
+
+TVA 21% 125,78 €
+
+Total 724,73 €
+
+Termeni:
+
+Modul de livrare: In sarcina Akro
+Garantie: 12 luni de la livrare
+
+Condiții de plată: 30 de zile
+
+Str. Zizinului Nr. 110; Brașov; Cod 500407; ROMANIA
+Tel: +40 268 413 180; E-mail: contact@akro.ro; http://www.akro.ro; www.kalyxx.ro; www.spectra.ro
+
+Pagina: 1 / 1
+
+--- MESAJ m2156644 | 2026-09-10 09:56 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: deac mihai <mihai.deac@proinstal.ro>
+Cc: cristi@proinstal.ro, valentin@proinstal.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Comanda pompa dozatoare si contor
+Salut Mihai,
+
+Iti multumim pentru comanda!
+
+Anexat te rog sa regasesti confirmarea!
+
+Revin cu detalii cand avem totul disponibil in stoc!
+
+Cu respect,
+[ATAȘAMENT: Comanda - S02795 - PROINSTAL - 10.09.2026.pdf | ofertă Odoo, parsată mai sus]

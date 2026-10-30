@@ -1,0 +1,706 @@
+
+####################################################################################################
+OFERTA S02518 | client: KDC TERMICE BRASOV S.R.L. | trimisă: 2026-07-13 09:45 | Odoo: Comandă de vânzare | conversații: c2098980, c2107620 (nr. 47, 207)
+
+####################################################################################################
+RÂND c2098980 (nr. 47) | stare: Completă | categorie: 13-Filtre multistrat diferite medii | cerere: Stație de dedurizare duplex 6,5 mc
+CERINȚA: Cere ofertă de preț și termen de livrare pentru o stație de dedurizare duplex de 6,5 mc. [m2098980] «STATIE DEDERIZARE DUPLEX -6,5 MC-1 BUC»
+CERINȚĂ FINALĂ (tip echipament): Două sisteme de dedurizare simplex (configurația achiziționată în 2025), vane 2" alamă, tanc saramură 350 L și 2 NHWBP de 2" [m2135620] «va trimit anexata cotatia de pret pentru doua sisteme de dedurizare simplex»
+CLARIFICARE: întrebare - → răspuns După discuția telefonică, AKRO ofertează două stații simplex în configurația din 2025, în loc de duplex. [m2135620] «Conform discutiei telefonice, va trimit anexata cotatia de pret pentru doua sisteme de dedurizare simplex» | schimbare: Stația duplex a devenit două sisteme simplex cu vane de 2" + 2 by-pass NHWBP.
+TELEFON: S-a stabilit telefonic oferta pentru două sisteme simplex în configurația achiziționată în 2025. [m2135620] «Conform discutiei telefonice, va trimit anexata cotatia de pret»
+REZULTAT: necunoscut
+
+####################################################################################################
+RÂND c2107620 (nr. 207) | stare: Completă | categorie: 13-Filtre multistrat diferite medii | cerere: 4 stații dedurizare simplex WS2-250 L cu by-pass
+CERINȚA: Cere preț și termen pentru 4 stații de dedurizare simplex WS2-250 L, 4 valve by-pass anti apă dură și 5 fitinguri QC-QC. [m2107620] «STATIE DE DEDURIZARE SIMPLEX WS2-250 LITRI MF001502-4 buc»
+CERINȚĂ FINALĂ (cantitate): 4 stații de dedurizare simplex WS2-250 L [m2107620] «STATIE DE DEDURIZARE SIMPLEX WS2-250 LITRI MF001502-4 buc»
+CERINȚĂ FINALĂ (cantitate): 4 valve by-pass anti apă dură [m2107620] «VALVA BY-PASS ANTI APA DURA-4 buc»
+CERINȚĂ FINALĂ (altele): comanda confirmată fără fitingurile QC-QC (poziția 3) [m2110404] «Confirmam comanda fara pozitia 3»
+CLARIFICARE: întrebare - → răspuns Clientul confirmă comanda fără poziția 3 (fitinguri WS15P QC-QC). [m2110404] «Confirmam comanda fara pozitia 3» | schimbare: Se renunță la cele 5 fitinguri QC-QC.
+REZULTAT: acceptată — Clientul confirmă comanda (fără poziția 3) și trimite dovada plății avansului. [m2110404] «Confirmam comanda fara pozitia 3»
+PREȚURI Ofertă S02518 v1 (2026-07-13), total 9247.44 EUR:
+  [13-001258] DEC 250/V - Statie dedurizare simplex, 250L rasina, vana Clack CI - 2" | 2.0 buc × 4120.34 EUR (reducere 15.0%) | referință
+  [14-001056] 2" NO HARD WATER BY-PASS VALVE (NHWBP) | 2.0 buc × 375.25 EUR (reducere 15.0%) | referință
+  termen: Metoda de plata: O.P. 30% in avans , 70 % la 30 de zile de la livrare
+  termen: Modul de livrare: In sarcina Akro - statiile se vor livra paletizat la beneficiar dezasamblate
+  termen: Garantie: 12 luni de la livrare
+  termen: Termen de livrare: 2-4 saptamani de la comanda ferma
+PREȚURI Ofertă S02518 v1 (2026-07-31), total 18441.83 EUR:
+  [13-001258] DEC 250/V - Statie dedurizare simplex, 250L rasina, vana Clack CI - 2" | 4.0 buc × 4120.34 EUR (reducere 16.0%) | referință
+  [14-001056] 2" NO HARD WATER BY-PASS VALVE (NHWBP) | 4.0 buc × 375.25 EUR (reducere 16.0%) | referință
+  [14-001154] WS15P Fitting QC-QC | 5.0 buc × 27.2 EUR | referință
+  termen: Metoda de plata: O.P. 30% in avans , 70 % la 30 de zile de la livrare
+  termen: Modul de livrare: In sarcina Akro - statiile se vor livra paletizat la beneficiar dezasamblate
+  termen: Garantie: 12 luni de la livrare
+  termen: Termen de livrare: 2-4 saptamani de la comanda ferma
+PREȚURI Confirmare de comandă S02518 v1 (2026-08-07), total 18277.27 EUR:
+  [13-001258] DEC 250/V - Statie dedurizare simplex, 250L rasina, vana Clack CI - 2" | 4.0 buc × 4120.34 EUR (reducere 16.0%) | referință
+  [14-001056] 2" NO HARD WATER BY-PASS VALVE (NHWBP) | 4.0 buc × 375.25 EUR (reducere 16.0%) | referință
+  termen: Metoda de plata: O.P. 30% in avans , 70 % la 30 de zile de la livrare
+  termen: Modul de livrare: In sarcina Akro - statiile se vor livra paletizat la beneficiar dezasamblate
+  termen: Garantie: 12 luni de la livrare
+  termen: Termen de livrare: 2-4 saptamani de la comanda ferma
+PREȚURI Confirmare de comandă S02518 v2 (2026-08-07), total 18277.27 EUR:
+  [13-001258] DEC 250/V - Statie dedurizare simplex, 250L rasina, vana Clack CI - 2" | 4.0 buc × 4120.34 EUR (reducere 16.0%) | referință
+  [14-001056] 2" NO HARD WATER BY-PASS VALVE (NHWBP) | 4.0 buc × 375.25 EUR (reducere 16.0%) | referință
+  [-] Plăți în avans Avans(ref: AKF 260469pe 07.08.2026) | 0.0 buc × 4531.55 EUR | serviciu
+  termen: Metoda de plata: O.P. 30% in avans , 70 % la 30 de zile de la livrare
+  termen: Modul de livrare: In sarcina Akro - statiile se vor livra paletizat la beneficiar dezasamblate
+  termen: Garantie: 12 luni de la livrare
+  termen: Termen de livrare: 2-4 saptamani de la comanda ferma
+VÂNDUTĂ 2026-08-07 08:59 | lanț: complet | lipsește: []
+COMANDA P01375 (legată în Odoo) | ALAMO WATER POLAND | 2026-08-06 08:54 | sursa în Odoo: S02518 | stare: CdO | total: 901.8
+  (nu e în emailuri: doar rândul din lista Odoo)
+COMANDA P01380 (legată în Odoo) | ALAMO WATER POLAND | 2026-08-10 09:48 | sursa în Odoo: S02518 | stare: Comandă de achiziție | total: 8587.96
+  Comandă AKRO P01380 trimisă 2026-08-11 12:00 în m2147556 (conversația 256):
+    [14-001010] [V3186EU-PL] TRANSFORMER 230/12V 50HZ | 4.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-001019] [V3008-02] DLFC HOUSING 1" w/o silencer | 4.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-001020] [V3190] DLFC RESTRICTOR 1" (9-25 GPM) | 4.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-001042] [D1199-11] TOP BASKET D50 - QC | 4.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-001047] [V2CIDM-X] WS2 CI REGENERATING-METER (SOFTENER/KMNO4) | 4.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-001056] [V3098BSPT] 2" NO HARD WATER BY-PASS VALVE (NHWBP) | 4.0 Units | 14-001 Vane automate programabile, accesorii
+    [14-002100] [10761000008] Pure Resin PC003 strong cation | 1000.0 L | 14-002 Medii filtrante
+    [14-003079] [CN-2162-4] 21x62-4 | 4.0 Units | 14-003 Coloane de presiune pentru filtrare, accesorii vase
+    [14-004011] [GE-JS/Y-350] ROUND TANK 350 L | 4.0 Units | 14-004 Vase de saramura si accesorii
+    [14-004028] [-] Brine valve, polytube, overflow | 4.0 Units | 14-004 Vase de saramura si accesorii
+    [14-005031] [D1197-09-50] DISTRIBUTOR 50MM WITH BOTTOM BASKET D1197-09 | 4.0 Units | 14-005 Crepine, distribuitoare si componente
+    notă: 4 x simplex softeners - 250L each, with NHWBP and Clack Valve 2" CI [ without sand]
+  Confirmare ALAMO SO2605501-1400-1 trimisă 2026-08-20 12:08 în m2114180 (conversația 324):
+    [-] [V3186EU-06] WS1 DC Power Supply EU 15V DC | 4.0 PCS | 9.34 EUR | 
+    [-] [V3008-05] WS2 Straight Drain Fitting 1”male w/o silence | 4.0 PCS | 14.67 EUR | 
+    [-] [V3190-110] WS1 DLFC 110 (11,0 gpm) For 1'' | 4.0 PCS | 2.59 EUR | 
+    [-] [D1199-11] TOP STACK DIST CLACK SNAP IN 50mm | 4.0 PCS | 32.69 EUR | 
+    [-] [V2CIDTD-05] WS2CI Valve DN T I-D | 4.0 PCS | 907.83 EUR | 
+    [-] [V3098BSPT] NOHARDWATERBYPASS 2IN MXF BSPT | 4.0 PCS | 194.39 EUR | 
+    [-] [-] PC003 Gel type | 1000.0 LTR | 1.49 EUR | 
+    [-] [-] Brine tank JIN SHI 350 | 4.0 PCS | 116.44 EUR | 
+    [-] [H4600-02] 474 Safety Brine Valve w/ 1/2 Elbow & Insert | 4.0 PCS | 11.36 EUR | 
+    [-] [H4500-48] 474 Air Check Assembly 1/2 x 48 | 4.0 PCS | 5.12 EUR | 
+    [-] [H4640-32] 474 Float Assembly 32 In w/ Grommets | 4.0 PCS | 3.7 EUR | 
+    [-] [-] Tube LDPE - PN9 - 9,52x12,7 - Transparent | 12.0 M | 1.05 EUR | 
+    [-] [-] Overflow Elbow ½" | 4.0 PCS | 3.75 EUR | 
+    [-] [-] Distributor D1197-09-50 | 4.0 PCS | 40.4 EUR | 
+    [-] [-] Tank 21x62 4" blue color with base | 4.0 PCS | 148.74 EUR | 
+    [-] [V3094BSPT-15] WS2 Meter Asy MxF BSPT 15' m Cable | 4.0 PCS | 290.5 EUR | 
+COMANDA P01229 (indiciu din perioadă) | ALAMO WATER POLAND | 2026-07-15 12:10 | sursa în Odoo: stoc | stare: Comandă de achiziție | total: 176.33
+  (nu e în emailuri: doar rândul din lista Odoo)
+COMANDA P01436 (indiciu din perioadă) | ALAMO WATER POLAND | 2026-08-27 13:52 | sursa în Odoo: - | stare: Comandă de achiziție | total: 1053.5
+  Comandă AKRO P01436 trimisă 2026-08-27 13:54 în m2152932 (conversația 359):
+    [14-002101] [10761000004] Pure Resin PMB101-2 mixed bed | 350.0 L | 14-002 Medii filtrante
+COMANDA P01502 (indiciu din perioadă) | ALAMO WATER POLAND | 2026-09-23 10:44 | sursa în Odoo: - | stare: Comandă de achiziție | total: 501.47
+  (nu e în emailuri: doar rândul din lista Odoo)
+
+====================================================================================================
+CONVERSAȚIA c2098980 (nr. 47) | subiect: Statie dedurizare
+Partener (după adrese): kasper-development.ro Achizitii KDCTermice | grupare nesigură: nu
+OFERTĂ S02518 v1 trimisă 2026-07-13 09:45 în m2135620 (Odoo: Comandă de vânzare): [13-001258] DEC 250/V - Statie dedurizare simplex, 250L rasina, vana Clack CI - 2" x2.0 buc; [14-001056] 2" NO HARD WATER BY-PASS VALVE (NHWBP) x2.0 buc
+
+--- MESAJ m2098980 | 2026-07-06 12:32 | Inbox | EXTERN
+De la: Achizitii KDCTermice <achizitii.kdctermice@kasper-development.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Statie dedurizare
+Buna Alexandru,
+
+Te rog sa ne transmiti o oferta de pret si un termen de livrare pentru:
+
+STATIE DEDERIZARE DUPLEX -6,5 MC-1 BUC
+
+EUGENIA GRIGORE
+
+SPECIALIST ACHIZITII
+
+KDC TERMICE BRASOV SRL
+
+Str. Zaharia Stancu nr. 6, BRASOV
+
+Tel:
++40734303478
+
+Mail:
+achizitii.kdctermice@kasper-development.ro
+
+Achizitii KDCTermice
+
+E:
+achizitii.kdctermice@kasper-development.ro
+
+M:
+
+Str. Zaharia Stancu nr.6, Brașov - România
+
+www.kasper-development.ro
+
+Prezentul e-mail nu constituie acceptarea unei oferte, iar continutul acestui e-mail nu reprezinta în niciun caz
+o oferta de a contracta ori un acord obligatoriu. Nicio propunere comerciala cuprinsa în prezentul mesaj nu va fi considerata oferta, cu exceptia cazului în care este semnata în mod valabil de catre un reprezentant autorizat al dezvoltatorului. Informatiile
+din prezentul email precum si informatiile cuprinse in atasamentele acestuia sunt confidentiale si sunt destinate exclusiv destinatarului. Orice divulgare, a informatiilor primite, catre terte persoane poate atrage consecinte grave, respectiv plata de daune
+interese care vor fi cuantificate in functie de prejudiciul cauzat.
+
+--- MESAJ m2135588 | 2026-07-13 09:20 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: Statie dedurizare
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Achizitii KDCTermice <achizitii.kdctermice@kasper-development.ro>
+Sent: Monday, July 6, 2026 12:33 PM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: Statie dedurizare
+
+Buna Alexandru,
+
+Te rog sa ne transmiti o oferta de pret si un termen de livrare pentru:
+
+STATIE DEDERIZARE DUPLEX -6,5 MC-1 BUC
+
+EUGENIA GRIGORE
+
+SPECIALIST ACHIZITII
+
+KDC TERMICE BRASOV SRL
+
+Str. Zaharia Stancu nr. 6, BRASOV
+
+Tel: +40734303478
+
+Mail: achizitii.kdctermice@kasper-development.ro
+
+Achizitii KDCTermice
+
+E: achizitii.kdctermice@kasper-development.ro
+M:
+
+Str. Zaharia Stancu nr.6, Brașov - România
+www.kasper-development.ro
+
+Prezentul e-mail nu constituie acceptarea unei oferte, iar continutul acestui e-mail nu reprezinta în niciun caz o oferta de a contracta ori un acord obligatoriu. Nicio propunere comerciala cuprinsa în prezentul mesaj nu va fi considerata oferta, cu exceptia cazului în care este semnata în mod valabil de catre un reprezentant autorizat al dezvoltatorului. Informatiile din prezentul email precum si informatiile cuprinse in atasamentele acestuia sunt confidentiale si sunt destinate exclusiv destinatarului. Orice divulgare, a informatiilor primite, catre terte persoane poate atrage consecinte grave, respectiv plata de daune interese care vor fi cuantificate in functie de prejudiciul cauzat.
+
+--- MESAJ m2135620 | 2026-07-13 09:45 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Achizitii KDCTermice <achizitii.kdctermice@kasper-development.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Statie dedurizare
+Buna dimineata,
+
+Va multumim pentru solicitarea dumneavoastra!
+
+Conform discutiei telefonice, va trimit anexata cotatia de pret pentru doua sisteme de dedurizare simplex [ in configuratia achizitionata si in 2025 ] – cu vane de 2” alama + tank saramura 350L pentru fiecare statie + 2 NHWBP de 2” pe iesire.
+
+In mod normal produsele clack sunt in stocul furnizor , prin urmare estimam un termen de livrare de 2-3 saptamani de la comanda ferma.
+
+Asteptam cu interes raspunsul dumneavoastra!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02518 - KDC TERMICE - 13.07.2026.pdf | ofertă Odoo, parsată mai sus]
+
+====================================================================================================
+CONVERSAȚIA c2107620 (nr. 207) | subiect: Solicitare oferta de pret statii dedurizare
+Partener (după adrese): kasper-development.ro Achizitii KDCTermice | grupare nesigură: nu
+OFERTĂ S02518 v1 trimisă 2026-07-31 09:13 în m2144164 (Odoo: Comandă de vânzare): [13-001258] DEC 250/V - Statie dedurizare simplex, 250L rasina, vana Clack CI - 2" x4.0 buc; [14-001056] 2" NO HARD WATER BY-PASS VALVE (NHWBP) x4.0 buc; [14-001154] WS15P Fitting QC-QC x5.0 buc
+OFERTĂ S02518 v1 trimisă 2026-08-07 08:59 în m2146404 (Odoo: Comandă de vânzare): [13-001258] DEC 250/V - Statie dedurizare simplex, 250L rasina, vana Clack CI - 2" x4.0 buc; [14-001056] 2" NO HARD WATER BY-PASS VALVE (NHWBP) x4.0 buc
+OFERTĂ S02518 v2 trimisă 2026-08-07 15:12 în m2146724 (Odoo: Comandă de vânzare): [13-001258] DEC 250/V - Statie dedurizare simplex, 250L rasina, vana Clack CI - 2" x4.0 buc; [14-001056] 2" NO HARD WATER BY-PASS VALVE (NHWBP) x4.0 buc; [-] Plăți în avans Avans(ref: AKF 260469pe 07.08.2026) x0.0 buc
+
+--- MESAJ m2107620 | 2026-07-31 08:44 | Inbox | EXTERN
+De la: Achizitii KDCTermice <achizitii.kdctermice@kasper-development.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Solicitare oferta de pret statii dedurizare
+Buna dimineata,
+
+Rog oferta de pret si termen de livrare :
+
+STATIE DE DEDURIZARE SIMPLEX WS2-250 LITRI MF001502-4 buc
+
+VALVA BY-PASS ANTI APA DURA-4 buc
+
+14-001154WS15P FITTING QC-QC V4430-03-5 buc
+
+Multumesc frumos!
+
+EUGENIA GRIGORE
+
+SPECIALIST ACHIZITII
+
+KDC TERMICE BRASOV SRL
+
+Str. Zaharia Stancu nr. 6, BRASOV
+
+Tel:
++40734303478
+
+Mail:
+achizitii.kdctermice@kasper-development.ro
+
+Achizitii KDCTermice
+
+E:
+achizitii.kdctermice@kasper-development.ro
+
+M:
+
+Str. Zaharia Stancu nr.6, Brașov - România
+
+www.kasper-development.ro
+
+Prezentul e-mail nu constituie acceptarea unei oferte, iar continutul acestui e-mail nu reprezinta în niciun caz
+o oferta de a contracta ori un acord obligatoriu. Nicio propunere comerciala cuprinsa în prezentul mesaj nu va fi considerata oferta, cu exceptia cazului în care este semnata în mod valabil de catre un reprezentant autorizat al dezvoltatorului. Informatiile
+din prezentul email precum si informatiile cuprinse in atasamentele acestuia sunt confidentiale si sunt destinate exclusiv destinatarului. Orice divulgare, a informatiilor primite, catre terte persoane poate atrage consecinte grave, respectiv plata de daune
+interese care vor fi cuantificate in functie de prejudiciul cauzat.
+
+--- MESAJ m2144164 | 2026-07-31 09:13 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Achizitii KDCTermice <achizitii.kdctermice@kasper-development.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Solicitare oferta de pret statii dedurizare
+Buna dimineata,
+
+Trimit anexata cotatia de pret pentru:
+
+4 statii de dedurizare [ exact la fel ca cele de anul trecut – cu vane din ALAMA]
+
+4 vane – anti apa dura [ exact la fel ca cele de anul trecut]
+
+5 x FITTING QC-QC V4430-03
+
+Pentru aceasta cantitate [ 4 statii], am acordat discount-ul maxim posibil de 16% [ ajuta foarte mult rentabilitatea la transport]
+
+Asteptam cu interes raspunsul vostru!
+
+O zi cu spor!
+[ATAȘAMENT: Oferta - S02518 - KDC TERMICE - 31.07.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2110404 | 2026-08-07 08:33 | Inbox | EXTERN
+De la: Achizitii KDCTermice <achizitii.kdctermice@kasper-development.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Solicitare oferta de pret statii dedurizare
+Buna dimineata,
+
+Confirmam comanda fara pozitia 3([14-001154] WS15P Fitting QC-QC)
+
+Multumesc !
+
+--- MESAJ m2146404 | 2026-08-07 08:59 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Achizitii KDCTermice <achizitii.kdctermice@kasper-development.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Solicitare oferta de pret statii dedurizare
+Buna dimineata,
+
+Va multumim pentru comanda!
+
+Va rog sa regasiti anexata confirmarea AKRO si factura proforma pentru 30%.
+
+Va rog sa ne transmiteti confirmarea de plata pentru demararea procedurii de aprovizionare .
+
+O zi cu spor!
+[ATAȘAMENT: Factură proforma - KDC TERMICE - 07.08.2026.pdf | text extras]
+[ATAȘAMENT: Comanda - S02518 - KDC TERMICE - 07.08.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2146436 | 2026-08-07 09:12 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Achizitii KDCTermice <achizitii.kdctermice@kasper-development.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Solicitare oferta de pret statii dedurizare
+Salutare,
+
+Anexez factura fiscala pentru avans. Cred ca a fost trimisa si de colega mea.
+
+O zi frumoasa!
+[ATAȘAMENT: AKF 260469 - KDC - 07.08.2026.pdf | text extras]
+
+--- MESAJ m2146724 | 2026-08-07 15:12 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Achizitii KDCTermice <achizitii.kdctermice@kasper-development.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Solicitare oferta de pret statii dedurizare
+Buna ziua,
+
+Va las anexat si draftul de contract in format editabil si anexa 1 la ctr [ confirmarea de comanda]
+
+Weekend fain!
+[ATAȘAMENT: Anexa 1 la ctr 116 - Comanda - S02518 - KDC TERMICE - 07.08.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: 1.F1_DRAFT CONTRACT - Nr 116- KDC TERMICE BRASOV - 07.08.2026.docx | text extras]
+
+--- MESAJ m2110916 | 2026-08-10 09:39 | Inbox | EXTERN
+De la: Achizitii KDCTermice <achizitii.kdctermice@kasper-development.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Re: Solicitare oferta de pret statii dedurizare
+Buna dimineata,
+
+Atasat aveti dovada platii.
+
+Multumesc!
+
+Cătălin Joldeș
+
+Specialist Achizitii
+
+KDC TERMICE BRASOV SRL
+
+Str. Zaharia Stancu nr. 6, BRASOV
+
+Tel:
++40735444016
+
+Mail:
+
+achizitii.kdctermice@kasper-development.ro
+[ATAȘAMENT: 6912596_PMT_DOMESTIC.pdf | text extras]
+ORDIN DE PLATA Nr. PLATITI 28,780.64 LEI
+ADICA: douazecisioptmiisaptesuteoptzeci si 64% LEI
+
+PLATITOR: KDC TERMICE BRASOV SRL PRIMIREA/ACCEPTAREA
+________________________
+________________________
+________________________
+_ _ Procesat si decontat prin Vista Bank, _ _
+_ valabil fara semnatura si stampila bancii _
+________________________
+COD IBAN PLATITOR: RO91EGNA1010000001238698 ________________________
+DE LA: VISTA BANK ROMANIA SA ________________________
+COD BIC: EGNAROBXXXX
+
+BENEFICIAR: SC AKRO SRL TIPUL TRANSFERULUI
+NORMAL URGENT
+
+COD DE IDENTIFICARE FISCALA:
+DATA EMITERII: 10.08.2026
+ADRESA:
+DATA DEBITARII: 10.08.2026
+
+COD IBAN BENEFICIAR: RO98INGB0000999902843963 SEMNATURA
+LA: ING BANK N.V. AMSTERDAM-SUC. BUCURESTI SI STAMPILA
+COD BIC: INGBROBUXXX PLATITORULUI
+L.S.
+REPREZENTAND: CV.FACT.260469
+
+Acest ordin de plata a fost transmis electronic prin aplicatia Vista Bank.
+VISTA BANK ROMANIA
+
+====================================================================================================
+CONVERSAȚIA c2147556 (nr. 256) | subiect: ORDER - P01380 - AKRO ROMANIA
+Partener (după adrese): alamowaterpoland.com Dominik Mirowski, Alamo Water Poland | grupare nesigură: da
+
+--- MESAJ m2147556 | 2026-08-11 12:00 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, alamo@alamowaterpoland.com
+Subiect: ORDER - P01380 - AKRO ROMANIA
+Hello Dominik,
+
+Please find attached our order for 4 x simplex softeners 250L – with WS2CI clack Valves + 4 NHWBP 2”.
+
+Normally I am waiting greenlight for one more duplex softener 450L also with WS2Ci Valves – but I will let you know lately tomorrow about it.
+
+I am looking forward in receiving the OC for the attached order.
+
+Best regards,
+[ATAȘAMENT: Comandă de achiziție - P01380 - ALAMO WATER POLAND - 10.08.2026.pdf | text extras]
+
+--- MESAJ m2150628 | 2026-08-19 10:13 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, alamo@alamowaterpoland.com
+Subiect: RE: ORDER - P01380 - AKRO ROMANIA
+Dear Dominik,
+
+Is it possible to send me the OC for the order attached – it will help me a lot if we could collect this order by the end of the week.
+
+Please advise!
+[ATAȘAMENT: Comandă de achiziție - P01380 - ALAMO WATER POLAND - 10.08.2026.pdf | text extras]
+
+--- MESAJ m2114052 | 2026-08-20 11:49 | Inbox | EXTERN
+De la: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, alamo@alamowaterpoland.com
+Subiect: ODP: ORDER - P01380 - AKRO ROMANIA
+Hello Alexandru,
+
+thank you for your order.
+
+Currently we don't have CN-21x62 pressure tanks.
+
+Delivery is planned at the end of next week.
+
+At this moment we have only Structural C-2160 tanks but as you know they are more expensive.
+
+Please confirm how do you want to proceed?
+
+Your order #P01411 is already prepared.
+
+4 pallets
+
+80 x 80 x 230 / 80 kg
+
+80 x 80 x 230 / 80 kg
+
+115 x 115 x 110 / 793kg
+
+100 x 120 x 140 / 91 kg
+
+Pozdrawiam/Best regards,
+
+Dominik Mirowski
+
+Alamo Water Poland Sp. Z o.o.
+
+Ul. Gen. Tadeusza Kutrzeby 17
+
+05-082 Stare Babice, Poland
+
+T. +48 22 270 13 82
+
+dom@alamowaterpoland.com
+
+www.alamowaterpoland.com
+
+--- MESAJ m2151140 | 2026-08-20 11:57 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, alamo@alamowaterpoland.com
+Subiect: RE: ORDER - P01380 - AKRO ROMANIA
+Hello Dominik,
+
+In this case we need to wait for the tanks to arrive for order 1380 [ our margin is pretty low to change the tanks with structural ones].
+
+Regarding order P1411 – I will inform now the logistic department and let you know delivery info [ most probably we will collect via raben.
+
+Best regards,
+
+--- MESAJ m2114084 | 2026-08-20 12:00 | Inbox | EXTERN
+De la: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, alamo@alamowaterpoland.com
+Subiect: ODP: ORDER - P01380 - AKRO ROMANIA
+Thank you.
+
+Have a nice holidays 🙂
+
+Pozdrawiam/Best regards,
+
+Dominik Mirowski
+
+Alamo Water Poland Sp. Z o.o.
+
+Ul. Gen. Tadeusza Kutrzeby 17
+
+05-082 Stare Babice, Poland
+
+T. +48 22 270 13 82
+
+dom@alamowaterpoland.com
+
+www.alamowaterpoland.com
+
+--- MESAJ m2151172 | 2026-08-20 12:01 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro, alamo@alamowaterpoland.com
+Subiect: RE: ORDER - P01380 - AKRO ROMANIA
+Thanks!
+
+--- MESAJ m2114884 | 2026-08-21 14:25 | Inbox | AKRO
+De la: andrei.dobrei@akro.ro <andrei.dobrei@akro.ro>
+Către: Dominik.Mirowski@alamowaterpoland.com <dominik.mirowski@alamowaterpoland.com>
+Cc: alexandru.soare@akro.ro, office@akro.ro, alamo@alamowaterpoland.com
+Subiect: FW: ORDER - P01380 - AKRO ROMANIA
+Dear Dominik,
+
+The goods will be loaded by the carrier Dachser on 26/27 August 2026. (#P01411)
+
+At the moment, I do not have the vehicle registration number of the truck that will collect the goods. As soon as I receive this information, I will get back to you with the details.
+
+Thank you for your cooperation.
+
+Kind regards,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Dominik Mirowski <Dominik.Mirowski@alamowaterpoland.com>
+Sent: Thursday, August 20, 2026 11:58 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: 'Akro Filtrare' <office@akro.ro>; andrei.dobrei@akro.ro; Alamo Water Poland <alamo@alamowaterpoland.com>
+Subject: ODP: ORDER - P01380 - AKRO ROMANIA
+
+Thank you.
+
+Have a nice holidays 🙂
+
+Pozdrawiam/Best regards,
+
+Dominik Mirowski
+
+Alamo Water Poland Sp. Z o.o.
+
+Ul. Gen. Tadeusza Kutrzeby 17
+
+05-082 Stare Babice, Poland
+
+T. +48 22 270 13 82
+
+dom@alamowaterpoland.com
+
+www.alamowaterpoland.com
+
+Od: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Wysłane: czwartek, 20 sierpnia 2026 10:57
+Do: Dominik Mirowski <Dominik.Mirowski@alamowaterpoland.com>
+DW: 'Akro Filtrare' <office@akro.ro>; andrei.dobrei@akro.ro <andrei.dobrei@akro.ro>; Alamo Water Poland <alamo@alamowaterpoland.com>
+Temat: RE: ORDER - P01380 - AKRO ROMANIA
+
+Hello Dominik,
+
+In this case we need to wait for the tanks to arrive for order 1380 [ our margin is pretty low to change the tanks with structural ones].
+
+Regarding order P1411 – I will inform now the logistic department and let you know delivery info [ most probably we will collect via raben.
+
+Best regards,
+
+From: Dominik Mirowski <Dominik.Mirowski@alamowaterpoland.com>
+Sent: Thursday, August 20, 2026 11:49 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: 'Akro Filtrare' <office@akro.ro>; andrei.dobrei@akro.ro; Alamo Water Poland <alamo@alamowaterpoland.com>
+Subject: ODP: ORDER - P01380 - AKRO ROMANIA
+
+Hello Alexandru,
+
+thank you for your order.
+
+Currently we don't have CN-21x62 pressure tanks.
+
+Delivery is planned at the end of next week.
+
+At this moment we have only Structural C-2160 tanks but as you know they are more expensive.
+
+Please confirm how do you want to proceed?
+
+Your order #P01411 is already prepared.
+
+4 pallets
+
+80 x 80 x 230 / 80 kg
+
+80 x 80 x 230 / 80 kg
+
+115 x 115 x 110 / 793kg
+
+100 x 120 x 140 / 91 kg
+
+Pozdrawiam/Best regards,
+
+Dominik Mirowski
+
+Alamo Water Poland Sp. Z o.o.
+
+Ul. Gen. Tadeusza Kutrzeby 17
+
+05-082 Stare Babice, Poland
+
+T. +48 22 270 13 82
+
+dom@alamowaterpoland.com
+
+www.alamowaterpoland.com
+
+Od: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Wysłane: wtorek, 11 sierpnia 2026 11:01
+Do: Dominik Mirowski <Dominik.Mirowski@alamowaterpoland.com>
+DW: 'Akro Filtrare' <office@akro.ro>; andrei.dobrei@akro.ro <andrei.dobrei@akro.ro>; Alamo Water Poland <alamo@alamowaterpoland.com>
+Temat: ORDER - P01380 - AKRO ROMANIA
+
+Hello Dominik,
+
+Please find attached our order for 4 x simplex softeners 250L – with WS2CI clack Valves + 4 NHWBP 2”.
+
+Normally I am waiting greenlight for one more duplex softener 450L also with WS2Ci Valves – but I will let you know lately tomorrow about it.
+
+I am looking forward in receiving the OC for the attached order.
+
+Best regards,
+
+--- MESAJ m2114916 | 2026-08-21 14:43 | Inbox | EXTERN
+De la: Dominik Mirowski <dominik.mirowski@alamowaterpoland.com>
+Către: andrei.dobrei@akro.ro <andrei.dobrei@akro.ro>
+Cc: alexandru.soare@akro.ro, office@akro.ro, alamo@alamowaterpoland.com
+Subiect: ODP: ORDER - P01380 - AKRO ROMANIA
+Dear Andrei,
+
+thank you for information.
+
+Pozdrawiam/Best regards,
+
+Dominik Mirowski
+
+Alamo Water Poland Sp. Z o.o.
+
+Ul. Gen. Tadeusza Kutrzeby 17
+
+05-082 Stare Babice, Poland
+
+T. +48 22 270 13 82
+
+dom@alamowaterpoland.com
+
+www.alamowaterpoland.com
+
+====================================================================================================
+CONVERSAȚIA c2114180 (nr. 324) | subiect: Order confirmation: SO2605501-1400-1
+Partener (după adrese): alamowaterpoland.com Alamo | grupare nesigură: nu
+
+--- MESAJ m2114180 | 2026-08-20 12:08 | Inbox | EXTERN
+De la: Alamo <dominik.mirowski@alamowaterpoland.com>
+Către: office@akro.ro <office@akro.ro>, contact@spectra.ro <contact@spectra.ro>, alexandru.soare@akro.ro <alexandru.soare@akro.ro>
+Cc: dominik.mirowski@alamowaterpoland.com
+Subiect: Order confirmation: SO2605501-1400-1
+Dear SC AKRO SRL,
+
+Thank you very much for your new order.
+Enclosed you will find the confirmation of your order SO2605501-1400-1 with customer reference #P01380
+
+We kindly ask you to carefully check the article references, quantities, prices and the delivery address. If you have any further questions or comments, please do not hesitate to contact us.
+
+Kind regards,
+
+Alamo Water Poland Sp. z o.o.
+ul. Gen. Tadeusza Kutrzeby 17
+05-082 Stare Babice, Poland
+T: +48 22 270 13 81
+www.alamowaterpoland.com
+[ATAȘAMENT: Order SO2605501-1400-1.pdf | text extras]
+Alamo Water Poland Sp. z o.o. Telephone +48 22 270 13 81
+ul. Gen. Tadeusza Kutrzeby 17 Email alamo@alamowaterpoland.com
+05-082 STARE BABICE
+Poland
+
+0041090 SC AKRO SRL
+Str. Zizinului Nr. 110, etaj 2
+500407 BRASOV
+Romania
+
+Pro forma confirmation
+Confirmation........................: SO2605501-1400-1 Telephone .................................: +40.268.413180
+Sales order..........................: SO2605501-1400 Fax… : +40.268.413183
+Date.....................................: 20/08/2026 Email ........................................: office@akro.ro; contact@spectra.ro;
+Customer reference ............: #P01380 alexandru.soare@akro.ro
+VAT number .............................: RO14205979
+Terms of delivery .......................: Ex Works, Stare Babice, Poland
+Payment conditions ...................: 30 days invoice date
+
+Item number Description Qty. Unit. Ship date Net UP Amount
+10440000184 (V3186EU-06) 4.00 PCS to be defined €9.34 €37.36
+WS1 DC Power Supply EU 15V DC
+
+10440000328 (V3008-05) 4.00 PCS to be defined €14.67 €58.68
+WS2 Straight Drain Fitting 1”male w/o silence
+
+10440000220 (V3190-110) 4.00 PCS to be defined €2.59 €10.36
+WS1 DLFC 110 (11,0 gpm) For 1''
+
+10240000013 (D1199-11) 4.00 PCS to be defined €32.69 €130.76
+TOP STACK DIST CLACK SNAP IN 50mm
+
+10340000097 (V2CIDTD-05) 4.00 PCS to be defined €907.83 €3631.32
+WS2CI Valve DN T I-D
+
+10440000170 (V3098BSPT) 4.00 PCS to be defined €194.39 €777.56
+NOHARDWATERBYPASS 2IN MXF BSPT
+
+10761000008 PC003 Gel type 1000.00 LTR to b

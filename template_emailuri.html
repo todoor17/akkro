@@ -1,0 +1,1025 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Analiză emailuri</title>
+<style>
+  /* light by default, whatever the system theme: the email thread is easier to follow on white;
+     "Temă întunecată" in the header switches to the dark palette */
+  :root {
+    color-scheme: light;
+    --bg: #f6f7f9; --surface: #ffffff; --text: #1d232b; --muted: #5f6b7a; --border: #dfe3e8;
+    /* text colours keep 4.5:1 on every light surface they sit on (row hover, selection, AKRO tint) */
+    --title: #6d28d9; --step-bg: #e4edfc; --offer-bg: #e1f3e6;
+    --accent: #1860d6; --accent-soft: #e7f0ff; --row-hover: #f2f6fc;
+    --ok: #16752f; --ok-soft: #e6f4ea; --bad: #b42318; --bad-soft: #fdecea; --warn: #875a00; --warn-soft: #fff4d6;
+    --mark: #ffe58a; --akro-soft: #e9f0fc; --akro-line: #bfd2f3; --client-soft: #fbefe4; --client-line: #ebcdb2;
+    --odoo: #6b21a8; --odoo-soft: #f3e8ff; --odoo-line: #d8b4fe;
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --bg: #11151a; --surface: #191f26; --text: #e6e9ed; --muted: #9aa5b1; --border: #2b333d;
+    --title: #c4b5fd; --step-bg: #1c2a3f; --offer-bg: #182f22;
+    --accent: #5b9dff; --accent-soft: #1b2a40; --row-hover: #1f2731;
+    --ok: #5cc27a; --ok-soft: #173322; --bad: #ff8577; --bad-soft: #3a1c1a; --warn: #e6b450; --warn-soft: #362b12;
+    --mark: #6b5a12; --akro-soft: #1e2a3d; --akro-line: #34507a; --client-soft: #2f241b; --client-line: #66472f;
+    --odoo: #dcc2ff; --odoo-soft: #33204d; --odoo-line: #6d4a9c;
+  }
+  * { box-sizing: border-box; }
+  ::selection { background: var(--accent-soft); color: var(--text); }
+  :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  html { scrollbar-color: var(--border) transparent; }
+  /* desktop: the page fills the viewport and each column scrolls on its own */
+  body { margin: 0; background: var(--bg); color: var(--text); font: 14px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    display: flex; flex-direction: column; height: 100vh; height: 100dvh; }
+  header { padding: 16px 20px 8px; }
+  h1 { margin: 0; font-size: 20px; line-height: 1.25; }
+  .title-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+  .theme { flex: none; font-size: 12px; padding: 3px 10px; }
+  .summary { margin-top: 6px; font-size: 12px; color: var(--muted); }
+  .summary > summary { display: flex; align-items: baseline; gap: 6px; width: fit-content; max-width: 100%; cursor: pointer; list-style: none; border-radius: 4px; }
+  .summary > summary::-webkit-details-marker { display: none; }
+  .summary > summary::before { content: ""; flex: none; align-self: center; width: 0; height: 0; border-left: 5px solid currentColor; border-block: 4px solid transparent; transition: transform .15s ease-out; }
+  .summary[open] > summary::before { transform: rotate(90deg); }
+  .summary > summary:hover .summary-title { color: var(--text); }
+  .summary-title { font-weight: 600; }
+  .summary-line { font-variant-numeric: tabular-nums; }
+  .summary-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, max-content)); gap: 8px 32px; margin-top: 8px; }
+  .summary h2 { margin: 0 0 4px; font-size: 12px; font-weight: 600; color: var(--text); }
+  .summary dl { display: grid; grid-template-columns: auto auto; gap: 2px 16px; margin: 0; }
+  .summary dt { margin: 0; }
+  .summary dd { margin: 0; text-align: right; font-weight: 600; color: var(--text); font-variant-numeric: tabular-nums; }
+  .help { max-width: 820px; margin-top: 8px; color: var(--text); font-size: 13px; }
+  .help p { margin: 6px 0; }
+  .help dl { grid-template-columns: max-content 1fr; gap: 4px 14px; margin: 6px 0 10px; }
+  .help dt { font-weight: 600; }
+  .help dd { text-align: left; font-weight: 400; }
+  .src-sample { color: var(--accent); white-space: nowrap; }
+  @media (prefers-reduced-motion: reduce) { .summary > summary::before { transition: none; } }
+  .panel { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; margin: 8px 20px 12px; padding: 12px; }
+  .filters { display: grid; grid-template-columns: minmax(200px, 1.6fr) repeat(6, minmax(110px, 1fr)) minmax(220px, 1.3fr); gap: 10px 12px; }
+  /* controls sit on one line even when a label wraps onto two */
+  .filters label { display: flex; flex-direction: column; justify-content: flex-end; gap: 4px; min-width: 0; font-size: 12px; color: var(--muted); }
+  input[type=search], select { font: inherit; color: var(--text); background: var(--surface); border: 1px solid var(--border); border-radius: 6px; height: 32px; padding: 0 8px; width: 100%; min-width: 0; }
+  input[type=search]::placeholder { color: var(--muted); }
+  input[type=search]:hover, select:hover { border-color: var(--muted); }
+  button { font: inherit; color: var(--text); background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 5px 10px; cursor: pointer; }
+  button:hover:not(:disabled) { border-color: var(--accent); }
+  .bar { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--border); }
+  .count-hint { font-size: 12px; color: var(--muted); }
+  .counter { font-weight: 600; white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .checks { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 13px; }
+  .checks label { display: inline-flex; align-items: center; gap: 6px; cursor: pointer; }
+  .checks input { margin: 0; accent-color: var(--accent); }
+  .sorting { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; color: var(--muted); margin-left: auto; }
+  .sorting select { width: auto; height: 28px; }
+  .view { display: inline-flex; }
+  .view button { border-radius: 0; }
+  .view button:first-child { border-radius: 6px 0 0 6px; }
+  .view button:last-child { border-radius: 0 6px 6px 0; }
+  .view button + button { margin-left: -1px; }
+  /* the Odoo switch sits in the filter row like the selects: label above, controls 32px high */
+  .filter-seg { display: flex; flex-direction: column; justify-content: flex-end; gap: 4px; min-width: 0; font-size: 12px; color: var(--muted); }
+  .seg { display: flex; }
+  .seg button { flex: 1 1 auto; height: 32px; border-radius: 0; padding: 0 6px; font-size: 12px; white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .seg button:nth-of-type(1) { border-radius: 6px 0 0 6px; }
+  .seg button:last-child { border-radius: 0 6px 6px 0; }
+  .seg button + button { margin-left: -1px; }
+  .seg button[aria-pressed=true] { position: relative; background: var(--odoo-soft); border-color: var(--odoo-line); color: var(--odoo); font-weight: 600; }
+  .view button[aria-pressed=true] { position: relative; background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+
+  /* three columns: clients | conversations | the selected conversation */
+  main { flex: 1 1 auto; min-height: 0; display: grid; --c1: 260px; --c2: minmax(300px, 380px); grid-template-columns: var(--c1) var(--c2) minmax(0, 1fr); gap: 12px; margin: 0 20px 16px; }
+  main.no-clients { --c2: minmax(320px, 440px); grid-template-columns: var(--c2) minmax(0, 1fr); }
+  main.no-clients #clients-col { display: none; }
+  .col { min-height: 0; display: flex; flex-direction: column; background: var(--surface); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+  .col-head { padding: 10px 12px; border-bottom: 1px solid var(--border); font-size: 12px; color: var(--muted); }
+  .col-head h2 { margin: 0; font-size: 13px; color: var(--text); }
+  .col-head input { margin-top: 8px; }
+  .col-body { flex: 1 1 auto; min-height: 0; overflow: auto; }
+  /* the side lists collapse, one at a time, to a strip so the open item gets the width */
+  main:has(> .col:nth-child(1).collapsed) { --c1: 40px; }
+  main:has(> .col:nth-child(2).collapsed) { --c2: 40px; }
+  .col-head { position: relative; }
+  .col-head h2 { padding-right: 30px; }
+  .col-toggle { position: absolute; top: 5px; right: 6px; width: 26px; height: 26px; padding: 0; display: grid; place-items: center; color: var(--muted); background: transparent; border-color: transparent; }
+  .col-toggle:hover:not(:disabled) { color: var(--text); border-color: var(--border); }
+  .col-toggle svg { width: 14px; height: 14px; }
+  .col.collapsed .col-body, .col.collapsed .col-head > :not(h2, .col-toggle) { display: none; }
+  .col.collapsed .col-head { flex: 1 1 auto; border-bottom: 0; cursor: pointer; }
+  .col.collapsed .col-toggle svg { transform: rotate(180deg); }
+  @media (min-width: 901px) {
+    .col.collapsed .col-head { padding: 40px 0 12px; }
+    .col.collapsed .col-head h2 { writing-mode: vertical-rl; margin: 0 auto; padding: 0; white-space: nowrap; }
+  }
+  @media (max-width: 900px) {
+    .col-toggle svg { transform: rotate(90deg); }
+    .col.collapsed .col-toggle svg { transform: rotate(-90deg); }
+  }
+  .item { all: unset; box-sizing: border-box; display: block; width: 100%; padding: 8px 12px; border-bottom: 1px solid var(--border); cursor: pointer; }
+  .item:hover { background: var(--row-hover); }
+  .item:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
+  .item[aria-current=true] { background: var(--accent-soft); }
+  .item-top { display: flex; align-items: baseline; gap: 8px; }
+  .item-title { flex: 1 1 auto; min-width: 0; font-weight: 600; overflow-wrap: anywhere; }
+  /* list titles and the open item's title in purple, so they stand out from the details under them */
+  .item-title, .detail-head h2 { color: var(--title); }
+  /* conversation rows: state dot, subject, who and how many emails, what was asked, state in words */
+  .conv { display: grid; grid-template-columns: 10px minmax(0, 1fr); column-gap: 10px; padding: 10px 12px 10px 14px; }
+  .conv > * { grid-column: 2; }
+  .conv .dot { grid-column: 1; grid-row: 1; align-self: center; }
+  .conv .item-title { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; }
+  .item-what { margin-top: 2px; font-size: 13px; color: var(--text); overflow-wrap: anywhere; }
+  .item-state { display: flex; flex-wrap: wrap; align-items: baseline; gap: 2px 10px; margin-top: 4px; font-size: 12px; }
+  .state-text { font-weight: 600; }
+  .flag { color: var(--muted); }
+  .flag.warn { color: var(--warn); }
+  /* the order number from the Odoo list (Excel comenzi) */
+  .tag + .tag { margin-left: 4px; }
+  .tag { display: inline-block; padding: 0 8px; border: 1px solid var(--odoo-line); border-radius: 999px; font-size: 11px; font-weight: 600; line-height: 18px; color: var(--odoo); background: var(--odoo-soft); font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--muted); }
+  .dot.s-ok { background: var(--ok); }
+  .dot.s-bad { background: var(--bad); }
+  .dot.s-warn { background: var(--warn); }
+  .dot.s-info { background: var(--accent); }
+  .state-text.s-info { color: var(--accent); }
+  .state-text.s-ok { color: var(--ok); }
+  .state-text.s-bad { color: var(--bad); }
+  .state-text.s-warn { color: var(--warn); }
+  .state-text.s-none { color: var(--muted); }
+  /* topics: conversations about the same deal, one under the other, oldest first */
+  /* the header and its conversations share one background, so the group reads as a single block */
+  .topic { border-bottom: 1px solid var(--border); background: var(--bg); }
+  .topic-head { padding: 9px 12px 7px 14px; font-size: 12px; color: var(--muted); border-bottom: 1px dashed var(--border); }
+  .topic .conv { border-bottom-style: dashed; }
+  .topic-title { display: block; color: var(--text); font-weight: 600; font-size: 13px; overflow-wrap: anywhere; }
+  .topic .conv { padding-left: 24px; }
+  .topic .conv:last-child { border-bottom: 0; }
+  .flow { margin: 0 0 14px; border: 1px solid var(--border); border-radius: 8px; padding: 8px 12px; }
+  .flow > summary { cursor: pointer; font-size: 13px; font-weight: 600; }
+  .flow > summary span { font-weight: 400; color: var(--muted); }
+  .flow ol { list-style: none; margin: 8px 0 2px; padding: 0; }
+  .flow li { display: grid; grid-template-columns: 112px 64px minmax(0, 1fr); gap: 2px 10px; padding: 4px 6px; border-radius: 6px; font-size: 12px; }
+  .flow li.here { background: var(--accent-soft); }
+  .flow .when { color: var(--muted); font-variant-numeric: tabular-nums; }
+  .flow .side { font-weight: 600; color: var(--muted); }
+  .flow .side.akro { color: var(--accent); }
+  .flow a { overflow-wrap: anywhere; }
+  .flow .doc { color: var(--text); }
+  .hint { padding: 10px 12px; border-bottom: 1px solid var(--border); font-size: 12px; color: var(--muted); }
+  .item-count, .item-date { flex: none; color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; }
+  .item-sub { color: var(--muted); font-size: 12px; margin-top: 2px; overflow-wrap: anywhere; }
+  .item-badges { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 4px; }
+  .card { padding: 12px; border-bottom: 1px solid var(--border); font-size: 12px; color: var(--muted); }
+  .card strong { color: var(--text); font-size: 14px; }
+  .empty { padding: 32px 16px; text-align: center; color: var(--muted); }
+
+  .field { display: block; margin-top: 2px; font-size: 12px; color: var(--text); overflow-wrap: anywhere; }
+  .k { color: var(--muted); font-weight: 400; }
+  .item-what .field { font-size: 13px; }
+  .badge { display: inline-block; border-radius: 999px; padding: 1px 8px; font-size: 12px; white-space: nowrap; background: var(--bg); color: var(--muted); border: 1px solid var(--border); }
+  .b-ok { background: var(--ok-soft); color: var(--ok); border-color: transparent; }
+  .b-bad { background: var(--bad-soft); color: var(--bad); border-color: transparent; }
+  .b-warn { background: var(--warn-soft); color: var(--warn); border-color: transparent; }
+  .b-info { background: var(--accent-soft); color: var(--accent); border-color: transparent; }
+
+  /* the selected conversation */
+  #detail { padding: 0 20px 32px; }
+  #detail > .empty { margin-top: 16px; }
+  /* stays at the top while the emails scroll, so the open conversation is always named */
+  .detail-head { position: sticky; top: 0; z-index: 2; margin: 0 -20px 12px; padding: 14px 20px 10px; background: var(--surface); border-bottom: 1px solid var(--border); }
+  .detail-head-top { display: flex; align-items: flex-start; gap: 12px; }
+  .detail-head h2 { flex: 1 1 auto; min-width: 0; margin: 0 0 6px; font-size: 18px; line-height: 1.3; overflow-wrap: anywhere; text-wrap: balance; }
+  .detail-nav { flex: none; display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .detail-nav button { padding: 3px 8px; font-size: 12px; }
+  .detail-nav button:disabled { opacity: .45; cursor: default; }
+  .detail-head .meta:last-child { margin-bottom: 0; }
+  .meta { color: var(--muted); font-size: 12px; display: flex; flex-wrap: wrap; gap: 4px 14px; margin-bottom: 8px; }
+  .request-head { display: flex; align-items: baseline; flex-wrap: wrap; gap: 8px; margin: 20px 0 8px; padding-top: 12px; border-top: 2px solid var(--border); }
+  .request-head h3 { margin: 0; font-size: 15px; }
+  /* the four steps side by side, read left to right */
+  #detail { container: detail / inline-size; }
+  .steps { display: grid; gap: 1px; background: var(--border); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+  .steps > * { min-width: 0; background: var(--surface); }
+  .steps a.src { white-space: normal; }
+  @container detail (min-width: 960px) {
+    .steps { grid-template-columns: repeat(3, minmax(0, 1fr)) minmax(0, 1.4fr); }
+    .steps > .sds { grid-column: 1 / -1; }
+    .steps .clar { grid-template-columns: minmax(0, 1fr); }
+  }
+  .block { padding: 10px 12px; }
+  .steps > .block { background: var(--step-bg); }
+  .steps > .offer-col { background: var(--offer-bg); }
+  .steps > .sds { background: var(--surface); }
+  .offer-col { container: offer / inline-size; }
+  /* a narrow offer column: each line on two rows, the product, then quantity × price = value */
+  @container offer (max-width: 540px) {
+    .offer-col thead { display: none; }
+    .offer-col tr { display: grid; grid-template-columns: auto auto auto 1fr auto; column-gap: 6px; padding: 6px 0; border-bottom: 1px solid var(--border); }
+    .offer-col td { padding: 0; border: 0; }
+    .offer-col tbody td:first-child, .offer-col tbody td:nth-child(7) { grid-column: 1 / -1; }
+    .offer-col tbody td:first-child { margin-bottom: 2px; }
+    .offer-col tbody td:nth-child(4)::before { content: "× "; color: var(--muted); }
+    .offer-col tbody td:nth-child(5) { text-align: left; color: var(--muted); }
+    .offer-col tbody td:nth-child(5):not(:empty)::before { content: "reducere "; }
+    .offer-col tbody td:nth-child(6)::before { content: "= "; color: var(--muted); }
+    .offer-col tbody td:nth-child(7) { margin-top: 4px; }
+    .offer-col tfoot tr { grid-template-columns: 1fr auto; border-bottom: 0; }
+    .offer-col tfoot td:empty { display: none; }
+  }
+  .block h4 { margin: 0 0 6px; font-size: 13px; display: flex; align-items: center; gap: 8px; }
+  .block h4 .n { display: inline-grid; place-items: center; width: 20px; height: 20px; border-radius: 50%; background: var(--accent-soft); color: var(--accent); font-size: 12px; }
+  .block h5 { margin: 10px 0 4px; font-size: 12px; color: var(--muted); font-weight: 600; }
+  .none { color: var(--muted); font-style: italic; }
+  .fact { margin: 4px 0; }
+  .quote { display: block; margin-top: 2px; padding-left: 8px; border-left: 3px solid var(--border); color: var(--muted); font-size: 12px; overflow-wrap: anywhere; }
+  a { color: var(--accent); text-underline-offset: 2px; }
+  a.src { font-size: 12px; white-space: nowrap; text-decoration: none; margin-left: 4px; }
+  a.src:hover { text-decoration: underline; }
+  ul.plain { margin: 0; padding-left: 18px; }
+  ul.plain li { margin: 3px 0; }
+  .clar { display: grid; grid-template-columns: 110px minmax(0, 1fr); gap: 2px 10px; padding: 6px 0; border-top: 1px dashed var(--border); }
+  .clar:first-of-type { border-top: 0; }
+  .clar .when { color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; }
+  .change { color: var(--text); font-size: 12px; margin-top: 2px; }
+  .change::before { content: "Ce s-a schimbat: "; color: var(--muted); }
+  .table-wrap { overflow-x: auto; }
+  table { border-collapse: collapse; width: 100%; font-size: 12px; }
+  th, td { padding: 4px 6px; border-bottom: 1px solid var(--border); text-align: left; vertical-align: top; }
+  th { color: var(--muted); font-weight: 600; white-space: nowrap; }
+  td.num, th.num { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .offer { margin: 6px 0 12px; }
+  .offer-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; margin-bottom: 4px; }
+  .offer-head strong { font-size: 13px; }
+  .terms { margin: 4px 0 0; padding-left: 18px; color: var(--muted); font-size: 12px; }
+
+  .messages h3 { margin: 24px 0 8px; font-size: 15px; }
+  .msg { border: 1px solid var(--border); border-radius: 8px; margin: 10px 48px 10px 0; scroll-margin-top: 150px; background: var(--surface); }
+  .msg.akro { margin: 10px 0 10px 48px; background: var(--akro-soft); border-color: var(--akro-line); }
+  .msg.akro .msg-head { border-bottom-color: var(--akro-line); }
+  /* emails received from the client: warm, so the two sides of the thread differ at a glance */
+  .msg:not(.akro) { background: var(--client-soft); border-color: var(--client-line); }
+  .msg:not(.akro) .msg-head { border-bottom-color: var(--client-line); }
+  .msg.flash { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .msg-head { padding: 8px 12px; border-bottom: 1px solid var(--border); font-size: 12px; color: var(--muted); display: grid; gap: 2px; }
+  .msg-top { display: flex; align-items: baseline; gap: 8px; }
+  .msg-top .when { margin-left: auto; white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .role { flex: none; font-size: 11px; font-weight: 600; letter-spacing: .02em; color: var(--muted); }
+  .msg.akro .role { color: var(--accent); }
+  .msg-head .who { color: var(--text); font-weight: 600; font-size: 13px; overflow-wrap: anywhere; }
+  .msg-head .line { overflow-wrap: anywhere; }
+  .msg-body { padding: 10px 12px; white-space: pre-wrap; overflow-wrap: anywhere; font-size: 13px; }
+  .msg-body details { margin-top: 8px; color: var(--muted); }
+  .msg-body summary { cursor: pointer; font-size: 12px; white-space: normal; }
+  mark { background: var(--mark); color: inherit; text-decoration: underline; text-decoration-thickness: 2px; border-radius: 2px; }
+  .att { padding: 6px 12px 10px; font-size: 12px; display: flex; flex-wrap: wrap; gap: 4px 12px; border-top: 1px dashed var(--border); }
+  .att span.muted { color: var(--muted); }
+  .note { margin: 6px 12px 0; padding: 6px 8px; border-radius: 6px; background: var(--warn-soft); color: var(--text); font-size: 12px; white-space: normal; }
+
+  @media (max-width: 1300px) {
+    .filters { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+    .filter-seg { grid-column: span 2; }
+    .filters label:first-child { grid-column: 1 / -1; }
+  }
+  @media (max-width: 1100px) {
+    main { --c1: 220px; --c2: minmax(260px, 320px); }
+  }
+  @media (max-width: 900px) {
+    /* phone and small tablets: the page scrolls, the columns stack */
+    body { display: block; height: auto; }
+    header, .panel, main { margin-left: 16px; margin-right: 16px; }
+    header { padding-left: 0; padding-right: 0; }
+    .filters { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    main, main.no-clients { display: flex; flex-direction: column; }
+    .col { max-height: 70dvh; }
+    #detail-col { max-height: none; }
+    .sorting { margin-left: 0; }
+    .clar { grid-template-columns: minmax(0, 1fr); }
+    .msg, .msg.akro { margin-left: 0; margin-right: 0; }
+    .msg.akro { margin-left: 16px; }
+    .detail-head-top { flex-direction: column; gap: 4px; }
+    .flow li { grid-template-columns: minmax(0, 1fr); }
+  }
+</style>
+</head>
+<body>
+<header>
+  __NAV__
+  <div class="title-row">
+    <h1>Analiză emailuri: cerere, clarificări, ofertă</h1>
+    <button type="button" class="theme" id="theme">Temă întunecată</button>
+  </div>
+  <details class="summary">
+    <summary><span class="summary-title">Rezumat</span> <span class="summary-line">__SUMMARY_LINE__</span></summary>
+    <div class="summary-grid">__SUMMARY__</div>
+  </details>
+  <details class="summary">
+    <summary><span class="summary-title">Cum se citește pagina</span></summary>
+    <div class="help">
+      <p>Fiecare conversație de email are patru părți, de la stânga la dreapta: ce a cerut clientul, ce s-a lămurit pe parcurs,
+        ce s-a cerut până la urmă și ce ofertă a trimis AKRO.
+        Lângă fiecare informație e un link <span class="src-sample">↗ data</span>: deschide emailul din care vine, cu textul subliniat.
+        Ce nu reiese din emailuri apare ca „necunoscut”. Când AKRO refuză să oferteze (produs care nu e în portofoliu, lipsă aviz),
+        rezultatul e „AKRO nu a ofertat”, nu „respinsă”.</p>
+      <dl>
+        <dt>Completă</dt><dd>Clientul a cerut ceva și AKRO a trimis o ofertă (PDF, confirmare de comandă sau preț scris în email).</dd>
+        <dt>Fără ofertă</dt><dd>Clientul a cerut ceva, dar în emailuri nu apare nicio ofertă trimisă.</dd>
+        <dt>Fără cerință clară</dt><dd>Există o ofertă sau un răspuns, dar din emailuri nu se vede ce a cerut clientul.</dd>
+        <dt>După vânzare</dt><dd>Clientul a comandat deja: discuția e despre factură, contract, livrare, montaj sau o comandă de pe site. Oferta, dacă a existat, nu e în aceste emailuri.</dd>
+        <dt>Nu e cerere de ofertă</dt><dd>Discuție cu un furnizor, discuție internă, reclamă sau altceva.</dd>
+        <dt>Client neidentificat</dt><dd>Conversația nu se poate lega de o firmă sau de o persoană. Nu apare la discuțiile interne și la reclame, unde nu există client.</dd>
+        <dt>Grupare nesigură</dt><dd>Mesajele au fost puse împreună doar pentru că au același subiect și aceiași oameni. Pot fi discuții diferite.</dd>
+      </dl>
+      <p>În tabelul ofertei, coloana „Nomenclator” arată dacă produsul ofertat se regăsește în nomenclator:</p>
+      <dl>
+        <dt>în nomenclator</dt><dd>Codul din ofertă există în nomenclator.</dd>
+        <dt>de confirmat</dt><dd>Linia a fost legată doar după nume. Un om trebuie să confirme că e același produs.</dd>
+        <dt>serviciu · de confirmat</dt><dd>Transport, manoperă, deplasare sau reducere, legate după nume de un serviciu din nomenclator.</dd>
+        <dt>în afara nomenclatorului</dt><dd>Nu s-a găsit niciun produs potrivit în nomenclator.</dd>
+      </dl>
+    </div>
+  </details>
+</header>
+
+<section class="panel">
+  <div class="filters">
+    <label>Caută în tot textul (client, subiect, mesaje, produse)
+      <input type="search" id="search" placeholder="de ex. dedurizare sau apavital" autocomplete="off">
+    </label>
+    <label>Stare <select id="f-state"></select></label>
+    <label>Tip conversație <select id="f-type"></select></label>
+    <label>An <select id="f-year"></select></label>
+    <label>Categorie produs <select id="f-category"></select></label>
+    <label>Produs ofertat
+      <input type="search" id="f-product" list="products" placeholder="nume sau referință" autocomplete="off">
+      <datalist id="products"></datalist>
+    </label>
+    <label>Ofertă
+      <select id="f-offer">
+        <option value="">Toate</option>
+        <option value="yes">Are ofertă</option>
+        <option value="no">Nu are ofertă</option>
+      </select>
+    </label>
+    <div class="filter-seg">
+      <span id="odoo-label">Apare în Odoo (Excel comenzi)</span>
+      <div class="seg" role="group" aria-labelledby="odoo-label">
+        <button type="button" data-odoo="" aria-pressed="true">Toate</button>
+        <button type="button" data-odoo="yes" aria-pressed="false">Da</button>
+        <button type="button" data-odoo="no" aria-pressed="false">Nu</button>
+      </div>
+    </div>
+  </div>
+  <div class="bar">
+    <div class="counter" id="counter" aria-live="polite"></div>
+    <span class="count-hint">Numărul din paranteză, la fiecare filtru, arată câte rânduri ar rămâne dacă alegi acea valoare.</span>
+    <button id="reset" type="button">Șterge filtrele</button>
+    <div class="checks">
+      <label><input type="checkbox" id="f-outside"> <span data-count-for="outside">cu produse în afara nomenclatorului</span></label>
+      <label><input type="checkbox" id="f-attachments"> <span data-count-for="attachments">cu atașamente</span></label>
+      <label><input type="checkbox" id="f-sds"> <span data-count-for="sds">menționează fișă de securitate</span></label>
+    </div>
+    <label class="sorting"><input type="checkbox" id="by-topic" checked> Grupează pe subiect</label>
+    <label class="sorting">Sortare
+      <select id="sort">
+        <option value="date-desc">Data (cele mai noi)</option>
+        <option value="date-asc">Data (cele mai vechi)</option>
+        <option value="client">Client</option>
+        <option value="state">Stare</option>
+      </select>
+    </label>
+    <div class="view" role="group" aria-label="Mod de afișare">
+      <button type="button" data-view="clients" aria-pressed="true">Pe clienți</button>
+      <button type="button" data-view="all" aria-pressed="false">Toate conversațiile</button>
+      <button type="button" data-view="excluded" aria-pressed="false" id="view-excluded">Mesaje excluse</button>
+    </div>
+  </div>
+</section>
+
+<main id="main">
+  <section class="col" id="clients-col" aria-label="Clienți">
+    <div class="col-head">
+      <h2 id="clients-title">Clienți și parteneri</h2>
+      <input type="search" id="client-search" placeholder="Caută client după nume" autocomplete="off">
+    </div>
+    <div class="col-body" id="clients"></div>
+  </section>
+  <section class="col" id="list-col" aria-label="Conversații">
+    <div class="col-head"><h2 id="list-title">Conversații</h2></div>
+    <div class="col-body" id="list"></div>
+  </section>
+  <section class="col" id="detail-col" aria-label="Conversația selectată">
+    <div class="col-body" id="detail-scroll"><div id="detail"><div class="empty">Alege o conversație din listă.</div></div></div>
+  </section>
+</main>
+
+<script>
+const DATA = /*__DATA__*/{};
+const STATE_ORDER = DATA.states.concat(DATA.flags);
+const stateClass = { "Completă": "b-ok", "Fără ofertă": "b-bad", "Fără cerință clară": "b-warn", "După vânzare": "b-info", "Nu e cerere de ofertă": "", "Client neidentificat": "b-warn", "Grupare nesigură": "b-warn" };
+const MATCH = {
+  "referință": ["b-ok", "în nomenclator"],
+  "de confirmat": ["b-warn", "de confirmat"],
+  "serviciu": ["b-warn", "serviciu · de confirmat"],
+  "în afara nomenclatorului": ["b-bad", "în afara nomenclatorului"],
+};
+// the same explanations as "Cum se citește pagina", shown on hover
+const STATE_HELP = {
+  "Completă": "Clientul a cerut ceva și AKRO a trimis o ofertă.",
+  "Fără ofertă": "Clientul a cerut ceva, dar în emailuri nu apare nicio ofertă trimisă.",
+  "Fără cerință clară": "Există o ofertă sau un răspuns, dar din emailuri nu se vede ce a cerut clientul.",
+  "După vânzare": "Clientul a comandat deja: factură, contract, livrare, montaj sau comandă de pe site.",
+  "Nu e cerere de ofertă": "Discuție cu un furnizor, discuție internă, reclamă sau altceva.",
+  "Client neidentificat": "Conversația nu se poate lega de o firmă sau de o persoană.",
+  "Grupare nesigură": "Mesajele au fost puse împreună doar după subiect și oameni. Pot fi discuții diferite.",
+};
+const MATCH_HELP = {
+  "referință": "Codul din ofertă există în nomenclator.",
+  "de confirmat": "Legat doar după nume. Un om trebuie să confirme că e același produs.",
+  "serviciu": "Serviciu legat după nume de un serviciu din nomenclator. De confirmat.",
+  "în afara nomenclatorului": "Nu s-a găsit niciun produs potrivit în nomenclator.",
+};
+// Odoo offer states, in plain words
+const ODOO_STATE = {
+  "Comandă de vânzare": "clientul a comandat",
+  "Ofertă trimisă": "trimisă, fără comandă încă",
+  "Ofertă": "ciornă în Odoo",
+  "Anulat": "anulată",
+};
+const odooState = s => ODOO_STATE[s] ? `${s} (${ODOO_STATE[s]})` : s;
+// what a conversation that is not an offer request is about, for the empty blocks
+const TYPE_SENTENCE = {
+  furnizor: "conversația e cu un furnizor, de la care cumpără AKRO",
+  intern: "e o discuție internă AKRO",
+  marketing: "e o reclamă sau o ofertă nesolicitată",
+  altele: "conversația e despre altceva",
+};
+const PAGE = 200; // list rows rendered at once; "Arată încă" adds more
+
+const nf = new Intl.NumberFormat("ro-RO", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+const qf = new Intl.NumberFormat("ro-RO", { maximumFractionDigits: 3 });
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const fold = s => String(s ?? "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+const $ = id => document.getElementById(id);
+const byText = (a, b) => String(a).localeCompare(String(b), "ro", { numeric: true });
+const shortDate = d => d ? `${d.slice(8, 10)}.${d.slice(5, 7)}.${d.slice(0, 4)}` : "";
+const dateTime = d => d ? `${shortDate(d)} ${d.slice(11, 16)}` : "";
+// attachment link relative to the page; every path part encoded ("#" and "%" appear in file names)
+const fileHref = path => path.split("/").map(encodeURIComponent).join("/");
+// list rows: one row per request (a conversation asking for two different things has two rows)
+const rowsN = n => `${n} ${n === 1 ? "rând" : (n % 100 === 0 || n % 100 >= 20) ? "de rânduri" : "rânduri"}`;
+const convsN = n => `${n} ${n === 1 ? "conversație" : (n % 100 === 0 || n % 100 >= 20) ? "de conversații" : "conversații"}`;
+// every value shown with its label in front
+const field = (label, value) => `<span class="field"><span class="k">${esc(label)}:</span> ${value}</span>`;
+const badge = (text, cls = "", help = "") => `<span class="badge ${cls}"${help ? ` title="${esc(help)}"` : ""}>${esc(text)}</span>`;
+
+const CONVS = new Map(DATA.convs.map(c => [c.id, c]));
+const CLIENTS = new Map(DATA.clients.map(c => [c.key, c]));
+const MSG = DATA.messages;
+
+// per record: everything the filters and the search need, computed once
+const RECORDS = DATA.records.map(r => {
+  const conv = CONVS.get(r.conv);
+  const offers = conv.offers.filter(o => r.offers.includes(o.number));
+  const lines = offers.flatMap(o => o.lines);
+  const msgs = conv.messages.map(id => MSG[id]);
+  const attachments = msgs.some(m => m.att.length);
+  const products = [...new Set(lines.flatMap(l => [l.name, l.product ? `[${l.product.ref}] ${l.product.name}` : ""]).filter(Boolean))];
+  const analysis = [r.title, r.request?.text, ...r.final.map(f => f.text), ...r.clarifications.flatMap(c => [c.question?.text, c.answer?.text, c.change]), conv.description?.text];
+  return {
+    ...r, convObj: conv, date: conv.first, year: conv.first.slice(0, 4),
+    clientName: conv.clientName || "", lines, products,
+    outside: lines.some(l => l.match === "în afara nomenclatorului"),
+    attachments, hasSds: r.sds.length > 0 || conv.sds.length > 0, productsFolded: products.map(fold),
+    // the rows of the Odoo order list (Excel comenzi) this request's offers match: number and state
+    odoo: [...new Map(offers.filter(o => o.odoo).map(o => [o.odoo.number, o.odoo])).values()],
+    hay: fold([conv.subject, conv.clientName, conv.client, ...products, ...analysis, ...msgs.map(m => `${m.from} ${m.to} ${m.cc} ${m.subject} ${m.body}`)].join(" \u0001 ")),
+  };
+});
+
+// topics: conversations tied together by the same offer, order or purchase-order number
+const TOPIC_CONVS = new Map();
+for (const c of DATA.convs) {
+  if (!TOPIC_CONVS.has(c.topic)) TOPIC_CONVS.set(c.topic, []);
+  TOPIC_CONVS.get(c.topic).push(c);
+}
+const keyLabel = k => k.startsWith("S") ? `oferta/comanda ${k}` : k.startsWith("P") ? `comanda către furnizor ${k}` : `comanda clientului ${k}`;
+function topicKeys(convs) {
+  return [...new Set(convs.flatMap(c => c.topicKeys))].map(keyLabel).join(", ");
+}
+function topicTitle(convs) {
+  const titled = RECORDS.find(r => convs.some(c => c.id === r.conv) && r.title);
+  return titled ? titled.title : convs[0].subject;
+}
+
+const state = { view: "clients", client: "", rid: "", visible: [], byTopic: true, search: "", clientSearch: "", stateF: "", type: "", year: "", category: "", product: "", offer: "", odoo: "", outside: false, attachments: false, sds: false, sort: "date-desc", shown: PAGE };
+
+function fillSelect(select, entries, allLabel) {
+  // data-label keeps the bare text: the count after it changes with the other filters
+  select.innerHTML = `<option value="" data-label="${esc(allLabel)}">${esc(allLabel)}</option>` + entries.map(([value, label]) => `<option value="${esc(value)}" data-label="${esc(label)}">${esc(label)}</option>`).join("");
+}
+function countBy(list, key) {
+  const m = new Map();
+  for (const x of list) { const k = key(x); if (k) m.set(k, (m.get(k) || 0) + 1); }
+  return m;
+}
+function initFilters() {
+  fillSelect($("f-state"), STATE_ORDER.map(s => [s, s]), "Toate");
+  fillSelect($("f-type"), Object.entries(DATA.types), "Toate");
+  fillSelect($("f-year"), [...countBy(RECORDS, r => r.year).keys()].sort().map(y => [y, y]), "Toți anii");
+  fillSelect($("f-category"), [...countBy(RECORDS, r => r.category).keys()].sort(byText).map(c => [c, c]), "Toate");
+  for (const o of $("f-offer").options) o.dataset.label = o.textContent;
+  for (const span of document.querySelectorAll("[data-count-for]")) span.dataset.label = span.textContent;
+  for (const b of document.querySelectorAll("[data-odoo]")) b.dataset.label = b.textContent;
+  const names = new Set();
+  for (const r of RECORDS) for (const p of r.products) names.add(p);
+  $("products").innerHTML = [...names].sort(byText).map(p => `<option value="${esc(p)}">`).join("");
+  $("view-excluded").textContent = `Mesaje excluse (${DATA.excluded.length})`;
+}
+
+// one test per filter; ctx holds what is computed once per render (search hits, folded product text)
+const FILTERS = {
+  search: (r, ctx) => !ctx.hits || ctx.hits.has(r.rid),
+  stateF: r => !state.stateF || r.state === state.stateF || r.flags.includes(state.stateF),
+  type: r => !state.type || r.convObj.type === state.type,
+  year: r => !state.year || r.year === state.year,
+  category: r => !state.category || r.category === state.category,
+  product: (r, ctx) => !ctx.prod || r.productsFolded.some(p => p.includes(ctx.prod)),
+  offer: r => !state.offer || (state.offer === "yes") === r.has_offer,
+  odoo: r => !state.odoo || (state.odoo === "yes") === (r.odoo.length > 0),
+  outside: r => !state.outside || r.outside,
+  attachments: r => !state.attachments || r.attachments,
+  sds: r => !state.sds || r.hasSds,
+};
+function filterContext() {
+  const q = fold(state.search.trim());
+  return { hits: q ? new Set(RECORDS.filter(r => r.hay.includes(q)).map(r => r.rid)) : null, prod: fold(state.product.trim()) };
+}
+// skip: leave one filter out, to count what choosing another value of it would show
+function passes(r, ctx, skip = "") {
+  for (const key in FILTERS) if (key !== skip && !FILTERS[key](r, ctx)) return false;
+  return true;
+}
+
+function filtered(ctx) {
+  const rows = RECORDS.filter(r => passes(r, ctx));
+  const order = s => STATE_ORDER.indexOf(s);
+  const cmp = {
+    "date-desc": (a, b) => byText(b.date, a.date),
+    "date-asc": (a, b) => byText(a.date, b.date),
+    "client": (a, b) => byText(a.clientName || "\uffff", b.clientName || "\uffff") || byText(b.date, a.date),
+    "state": (a, b) => order(a.state) - order(b.state) || byText(b.date, a.date),
+  }[state.sort];
+  return rows.sort(cmp);
+}
+
+// every count follows the other filters: "client (N)" is what choosing "client" would show now
+function updateCounts(ctx) {
+  const pool = key => RECORDS.filter(r => passes(r, ctx, key));
+  // narrow selects and buttons get the bare number (explained next to the counter), the check boxes the full words
+  const label = (el, n) => { el.textContent = `${el.dataset.label} (${el.matches("option, button") ? n : rowsN(n)})`; };
+  const selects = [
+    ["f-state", "stateF", (r, v) => r.state === v || r.flags.includes(v)],
+    ["f-type", "type", (r, v) => r.convObj.type === v],
+    ["f-year", "year", (r, v) => r.year === v],
+    ["f-category", "category", (r, v) => r.category === v],
+    ["f-offer", "offer", (r, v) => (v === "yes") === r.has_offer],
+  ];
+  for (const [id, key, match] of selects) {
+    const rows = pool(key);
+    for (const o of $(id).options) label(o, o.value ? rows.filter(r => match(r, o.value)).length : rows.length);
+  }
+  const checks = { outside: r => r.outside, attachments: r => r.attachments, sds: r => r.hasSds };
+  for (const span of document.querySelectorAll("[data-count-for]")) {
+    const key = span.dataset.countFor;
+    label(span, pool(key).filter(checks[key]).length);
+  }
+  const odooRows = pool("odoo");
+  for (const b of document.querySelectorAll("[data-odoo]")) {
+    const v = b.dataset.odoo;
+    label(b, v ? odooRows.filter(r => (v === "yes") === (r.odoo.length > 0)).length : odooRows.length);
+    b.setAttribute("aria-pressed", String(v === state.odoo));
+  }
+}
+
+function stateBadges(r) {
+  return [badge(r.state, stateClass[r.state], STATE_HELP[r.state]), ...r.flags.map(f => badge(f, stateClass[f], STATE_HELP[f]))].join("");
+}
+
+function renderClients(rows) {
+  const counts = countBy(rows, r => r.convObj.client);
+  const q = fold(state.clientSearch.trim());
+  const list = [...counts].map(([key, n]) => ({ c: CLIENTS.get(key), n }))
+    .filter(x => x.c && (!q || fold(`${x.c.name} ${x.c.key} ${x.c.emails.join(" ")}`).includes(q)))
+    .sort((a, b) => b.n - a.n || byText(a.c.name, b.c.name));
+  $("clients-title").textContent = `Clienți și parteneri (${list.length} în listă)`;
+  $("clients").innerHTML = list.length ? list.map(({ c, n }) => `
+    <button class="item" type="button" data-client="${esc(c.key)}" aria-current="${c.key === state.client}">
+      <span class="item-top"><span class="item-title">${esc(c.name)}</span><span class="item-count" title="Rânduri în listă: o cerere = un rând">${rowsN(n)}</span></span>
+      ${field(c.key.includes("@") ? "Adresa" : "Domeniul", esc(c.key))}
+      ${c.types.length && !(c.types.length === 1 && c.types[0] === "client") ? field("Rol", esc(c.types.map(t => DATA.types[t]).join(", "))) : ""}
+    </button>`).join("") : `<div class="empty">Niciun client pentru filtrele alese.</div>`;
+}
+
+// list row tone: the dot and the state word use the same colour
+const STATE_TONE = { "Completă": "s-ok", "Fără ofertă": "s-bad", "Fără cerință clară": "s-warn", "După vânzare": "s-info", "Nu e cerere de ofertă": "s-none" };
+const emails = n => `${n} ${n === 1 ? "email" : "emailuri"}`;
+const odooTags = r => r.odoo.map(o => `<span class="tag" title="În Odoo (Excel comenzi): ${esc(odooState(o.state))}">Odoo ${esc(o.number)}</span>`).join("");
+
+function renderList(rows) {
+  let list = rows;
+  let card = "";
+  const selected = state.view === "clients" && state.client ? CLIENTS.get(state.client) : null;
+  if (selected) {
+    list = rows.filter(r => r.convObj.client === state.client);
+    const all = selected.convs.length;
+    card = `<div class="card"><strong>${esc(selected.name)}</strong><br>${field("Adrese", esc(selected.emails.join(", ") || selected.key))}${field("Conversații", `${all} în total${list.length !== all ? `, ${rowsN(list.length)} cu filtrele alese` : ""}`)}</div>`;
+  } else if (state.view === "clients") {
+    card = `<div class="hint">Alege un client din stânga ca să vezi doar conversațiile lui.</div>`;
+  }
+  // with grouping on, a topic takes the place of its first row in the sorted list; inside it, oldest first
+  const groups = [];
+  if (state.byTopic) {
+    const byTopic = new Map();
+    for (const r of list) {
+      const key = r.convObj.topic;
+      if (!byTopic.has(key)) { byTopic.set(key, []); groups.push(byTopic.get(key)); }
+      byTopic.get(key).push(r);
+    }
+    for (const rows of groups) rows.sort((a, b) => byText(a.date, b.date) || byText(String(a.nr), String(b.nr)));
+  } else {
+    for (const r of list) groups.push([r]);
+  }
+  const ordered = groups.flat();
+  state.visible = ordered.map(r => r.rid);
+  $("list-title").textContent = selected ? "Conversațiile clientului" : `Toate conversațiile (${rowsN(list.length)}; o cerere = un rând)`;
+  const shownIds = new Set(state.visible.slice(0, state.shown));
+  const row = r => {
+    const tone = STATE_TONE[r.state] || "s-none";
+    return `
+    <button class="item conv" type="button" data-rid="${esc(r.rid)}" aria-current="${r.rid === state.rid}">
+      <span class="dot ${tone}" aria-hidden="true"></span>
+      <span class="item-top"><span class="item-title">${esc(r.convObj.subject)}</span><span class="item-date" title="Data primului email">începută ${shortDate(r.date)}</span></span>
+      ${selected ? "" : field("Client", esc(r.clientName || "client neidentificat"))}
+      ${field("Emailuri", `${r.convObj.messages.length}`)}${field("Nr. conversației", `${esc(r.nr)}${r.parts > 1 ? ` (cererea ${r.part} din ${r.parts})` : ""}`)}
+      ${r.title ? `<span class="item-what">${field("Ce s-a cerut", esc(r.title))}</span>` : ""}
+      <span class="item-state"><span class="k">Stare:</span> <span class="state-text ${tone}" title="${esc(STATE_HELP[r.state] || "")}">${esc(r.state)}</span>${r.has_offer ? `<span class="flag">cu ofertă</span>` : ""}${r.flags.map(f => `<span class="flag warn" title="${esc(STATE_HELP[f] || "")}">${esc(f)}</span>`).join("")}</span>
+      ${r.odoo.length ? field("În lista Odoo", odooTags(r)) : ""}
+    </button>`;
+  };
+  const html = groups.map(rows => {
+    const visible = rows.filter(r => shownIds.has(r.rid));
+    if (!visible.length) return "";
+    const convs = [...new Set(rows.map(r => r.convObj))];
+    if (convs.length < 2) return visible.map(row).join("");
+    const keys = topicKeys(convs);
+    return `<div class="topic"><div class="topic-head"><span class="topic-title">${esc(topicTitle(convs))}</span>
+      ${field("Conversații pe același subiect", convs.length)}${field("Perioada", `${shortDate(rows[0].date)} – ${shortDate(rows[rows.length - 1].date)}`)}${keys ? field("Legate prin", esc(keys)) : ""}</div>${visible.map(row).join("")}</div>`;
+  }).join("");
+  $("list").innerHTML = card + html + (ordered.length > state.shown ? `<div class="empty"><button type="button" id="more">Arată încă ${Math.min(PAGE, ordered.length - state.shown)}</button></div>` : "")
+    + (!list.length ? `<div class="empty">Nicio conversație pentru filtrele alese.</div>` : "");
+}
+
+// selection: one place that marks the row, keeps it in view and opens the conversation
+function select(rid) {
+  state.rid = rid;
+  const index = state.visible.indexOf(rid);
+  if (index >= state.shown) { state.shown = index + 1 + PAGE; render(); }
+  for (const x of document.querySelectorAll("#list [data-rid]")) {
+    const current = x.dataset.rid === rid;
+    x.setAttribute("aria-current", String(current));
+    if (current) x.scrollIntoView({ block: "nearest" });
+  }
+  renderDetail();
+}
+function step(delta) {
+  const index = state.visible.indexOf(state.rid);
+  const next = state.visible[index + delta];
+  if (index >= 0 && next) select(next);
+}
+
+function renderExcluded() {
+  const q = fold(state.search.trim());
+  const rows = DATA.excluded.filter(m => !q || fold(`${m.from} ${m.subject} ${m.reason}`).includes(q));
+  $("counter").textContent = `Afișate: ${rows.length} din ${DATA.excluded.length} mesaje excluse`;
+  $("list-title").textContent = "Mesaje excluse din conversații";
+  $("list").innerHTML = rows.map(m => `
+    <div class="item" style="cursor:default">
+      <span class="item-top"><span class="item-title">${esc(m.subject || "(fără subiect)")}</span><span class="item-date">${shortDate(m.date)}</span></span>
+      ${field("De la", esc(m.from))}${field("Folder în Outlook", esc(m.folder))}
+      ${field("De ce e exclus", badge(m.reason))}
+    </div>`).join("") || `<div class="empty">Niciun mesaj.</div>`;
+  $("detail").innerHTML = `<div class="empty">Aici sunt mesajele care nu țin de nicio discuție cu un client sau furnizor: spam, invitații de calendar, răspunsuri automate, emailuri care nu au ajuns și newslettere la care AKRO nu a răspuns. Nu apar în conversații, dar sunt listate aici ca să se vadă că nu s-a pierdut niciun mesaj din PST.</div>`;
+}
+
+// --- the selected conversation ---------------------------------------------------------------------------
+
+function src(item) {
+  if (!item || !item.src) return "";
+  return `<a href="#${esc(item.src)}" class="src" data-src="${esc(item.src)}" data-q="${esc(item.quote)}" title="Deschide emailul din care vine informația, cu textul subliniat">↗ emailul din ${esc(dateTime(item.date))}</a>`;
+}
+function fact(item, label = "") {
+  if (!item) return "";
+  return `<div class="fact">${label ? `<strong>${esc(label)}:</strong> ` : ""}${esc(item.text)}${src(item)}${item.quote ? `<span class="quote">„${esc(item.quote)}”</span>` : ""}</div>`;
+}
+const NONE = `<div class="none">Nu există în conversație.</div>`;
+const notARequest = conv => `<div class="none">Nu există în conversație: nu e o cerere de ofertă, ${esc(TYPE_SENTENCE[conv.type] || "conversația e despre altceva")}.</div>`;
+
+function money(v, cur) { return v === null || v === undefined ? "" : `${nf.format(v)} ${esc(cur || "")}`; }
+
+function productCell(l) {
+  const [cls, label] = MATCH[l.match] || ["", l.match];
+  const p = l.product ? `<div>[${esc(l.product.ref)}] ${esc(l.product.name)}</div>` : "";
+  return `${badge(label, cls, MATCH_HELP[l.match])}${p}${l.match_note && l.match !== "referință" ? `<div class="none">${esc(l.match_note)}</div>` : ""}`;
+}
+
+function offerBlock(r, conv) {
+  const offers = conv.offers.filter(o => r.offers.includes(o.number)).sort((a, b) => byText(a.sent, b.sent));
+  const parts = [];
+  for (const o of offers) {
+    const odoo = o.odoo ? ` · Stare în Odoo: ${esc(odooState(o.odoo.state))}` : "";
+    const head = `<div class="offer-head"><strong>Document: ${esc(o.kind)} ${esc(o.number)}</strong>${o.kind === "Ofertă" ? `<span>Versiunea: ${o.version}</span>` : ""}${o.resent ? badge("trimisă din nou, identică") : ""}
+      <span>Trimis: ${esc(dateTime(o.sent))}</span><a href="#${esc(o.message)}" class="src" data-src="${esc(o.message)}" data-q="">↗ emailul cu care s-a trimis</a>
+      <span>PDF: ${o.path ? `<a href="${esc(fileHref(o.path))}" target="_blank" rel="noopener">${esc(o.file)}</a>` : esc(o.file)}</span>
+      <span class="none">${o.date ? `Data documentului: ${esc(o.date)}` : ""}${o.expires ? ` · Valabil până la: ${esc(o.expires)}` : ""}${odoo}</span>${o.odoo ? "" : `<span>Stare în Odoo: ${badge("necunoscută", "b-warn", "Documentul nu apare în lista de oferte Odoo primită.")} <span class="none">nu apare în lista de oferte Odoo</span></span>`}</div>`;
+    if (o.resent) { parts.push(`<div class="offer">${head}</div>`); continue; }
+    if (!o.lines.length) { // proforma: an advance-payment invoice, no product lines
+      parts.push(`<div class="offer">${head}<div class="none">Factură de avans, fără listă de produse${o.total !== null ? `. Total cu TVA: ${money(o.total, o.currency)}` : ""}.</div></div>`);
+      continue;
+    }
+    const rows = o.lines.map(l => `<tr><td>${esc(l.name)}${l.section ? `<div class="none">${esc(l.section)}</div>` : ""}</td>
+      <td class="num">${l.qty === null ? "" : qf.format(l.qty)}</td><td>${esc(l.uom)}</td><td class="num">${money(l.price, l.currency)}</td>
+      <td class="num">${l.discount ? qf.format(l.discount) + "%" : ""}</td><td class="num">${money(l.amount, l.currency)}</td><td>${productCell(l)}</td></tr>`).join("");
+    parts.push(`<div class="offer">${head}<div class="table-wrap"><table>
+      <thead><tr><th>Produs în ofertă</th><th class="num">Cantitate</th><th>Unitate</th><th class="num">Preț unitar fără TVA</th><th class="num">Reducere</th><th class="num">Valoare fără TVA</th><th>Găsit în nomenclator</th></tr></thead>
+      <tbody>${rows}</tbody>${o.total !== null ? `<tfoot><tr><td colspan="5"><strong>Total cu TVA</strong></td><td class="num"><strong>${money(o.total, o.currency)}</strong></td><td></td></tr></tfoot>` : ""}</table></div>
+      ${o.terms.length ? `<h5>Condițiile din document</h5><ul class="terms">${o.terms.map(([k, v]) => `<li>${esc(k)}: ${esc(v)}</li>`).join("")}</ul>` : ""}</div>`);
+  }
+  for (const t of r.offer_text) parts.push(fact(t, "Preț dat direct în email"));
+  if (!parts.length) parts.push(NONE);
+  // outcome: from the emails, and the offer state in Odoo
+  const odooStates = [...new Set(offers.filter(o => o.odoo).map(o => `${o.number}: ${odooState(o.odoo.state)}`))];
+  let outcome = r.outcome && r.outcome.value !== "necunoscut" ? fact({ ...r.outcome, text: r.outcome.value + (r.outcome.text ? `. ${r.outcome.text}` : "") }, "Ce spun emailurile") : `<div class="fact"><strong>Ce spun emailurile:</strong> necunoscut, din emailuri nu reiese dacă oferta a fost acceptată.</div>`;
+  if (odooStates.length) outcome += `<div class="fact"><strong>Ce arată Odoo:</strong> ${esc(odooStates.join("; "))}</div>`;
+  return parts.join("") + `<h5>Rezultat</h5>` + outcome;
+}
+
+function clientAttachments(conv) {
+  const items = conv.messages.filter(id => !MSG[id].akro).flatMap(id => MSG[id].att.map(a => ({ a, id })));
+  if (!items.length) return `<div class="none">Clientul nu a trimis atașamente.</div>`;
+  return `<ul class="plain">${items.map(({ a, id }) => `<li>${a.path ? `<a href="${esc(fileHref(a.path))}" target="_blank" rel="noopener">${esc(a.name)}</a>` : esc(a.name)}
+    ${a.reason ? `<span class="none">(${esc(a.reason)})</span>` : ""}<a href="#${esc(id)}" class="src" data-src="${esc(id)}" data-q="">↗ emailul din ${esc(dateTime(MSG[id].date))}</a></li>`).join("")}</ul>`;
+}
+
+function requestBlocks(r, conv) {
+  const notRequest = conv.type && conv.type !== "client";
+  const why = notRequest ? notARequest(conv) : NONE;
+  const asked = r.request || r.final.length;
+  const b1 = asked
+    ? `${r.request ? fact(r.request, "Ce a cerut clientul la început") : `<div class="fact"><strong>Ce a cerut clientul la început:</strong> <span class="none">nu apare în emailurile din conversație</span></div>`}
+       <h5>Atașamente primite de la client</h5>${clientAttachments(conv)}`
+    : why + `<h5>Atașamente primite</h5>${clientAttachments(conv)}`;
+  const bFinal = !asked ? why : r.final.length ? r.final.map(f => fact(f, f.extra.camp || "")).join("") : `<div class="none">necunoscut, emailurile nu dau detalii</div>`;
+  const clar = r.clarifications.map(c => `<div class="clar"><div class="when">Data: ${esc(dateTime((c.question || c.answer).date))}</div><div>
+      ${c.question ? fact(c.question, "Întrebare") : `<div class="fact"><strong>Întrebare:</strong> <span class="none">nu apare în emailuri</span></div>`}
+      ${c.answer ? fact(c.answer, "Răspuns") : `<div class="fact"><strong>Răspuns:</strong> <span class="none">nu s-a răspuns în emailuri</span></div>`}
+      ${c.change ? `<div class="change">${esc(c.change)}</div>` : ""}</div></div>`).join("");
+  const phone = r.phone.map(p => fact({ ...p, text: p.text || "discuție menționată în email, fără detalii" }, "La telefon")).join("");
+  const b2 = clar || phone ? clar + phone : (notRequest ? why : `<div class="none">Nu există în conversație: fie nu a fost nevoie de lămuriri, fie ele nu apar în emailuri.</div>`);
+  const b3 = conv.type === "client" ? offerBlock(r, conv) : why;
+  // analysis items first; then every place the text or the attachments mention one (found by the generator)
+  const who = side => side === "AKRO" ? "AKRO" : "clientul sau furnizorul";
+  const sdsFound = r.part === 1 ? conv.sds.map(h => `<li>${esc(h.where === "text" ? `În email, ${who(h.side)} scrie: „…${h.detail}…”` : `Atașament trimis de ${who(h.side)}: ${h.detail}`)}<a href="#${esc(h.message)}" class="src" data-src="${esc(h.message)}" data-q="">↗ ${esc(dateTime(h.date))}</a></li>`).join("") : "";
+  const sds = r.sds.length || sdsFound ? `<div class="block sds"><h4>Fișă de securitate</h4>${r.sds.map(s => fact({ ...s, text: s.text + (s.extra.moment ? ` (${s.extra.moment})` : "") })).join("")}
+    ${sdsFound ? `<h5>Unde apare în emailuri</h5><ul class="plain">${sdsFound}</ul>` : ""}</div>` : "";
+  return `<div class="steps">
+    <div class="block"><h4><span class="n">1</span>Ce a cerut clientul</h4>${b1}</div>
+    <div class="block"><h4><span class="n">2</span>Ce s-a lămurit pe parcurs</h4>${b2}</div>
+    <div class="block"><h4><span class="n">3</span>Ce s-a cerut până la urmă (după clarificări)</h4>${bFinal}</div>
+    <div class="block offer-col"><h4><span class="n">4</span>Ce ofertă a trimis AKRO</h4>${b3}</div>${sds}</div>`;
+}
+
+const SIDE = { client: "Client", furnizor: "Furnizor" };
+
+function messageHtml(id, conv) {
+  const m = MSG[id];
+  const fresh = m.body.slice(0, m.newLen), quoted = m.body.slice(m.newLen);
+  return `<article class="msg${m.akro ? " akro" : ""}" id="${esc(id)}">
+    <div class="msg-head"><div class="msg-top"><span class="role">${m.akro ? "Email trimis de AKRO" : `Email de la ${(SIDE[conv.type] || "extern").toLowerCase()}`}</span><span class="who"><span class="k">De la:</span> ${esc(m.from)}</span><span class="when"><span class="k">Data:</span> ${esc(dateTime(m.date))}</span></div>
+      <span class="line"><span class="k">Către:</span> ${esc(m.to)}${m.cc ? ` · <span class="k">Cc:</span> ${esc(m.cc)}` : ""}</span>
+      <span class="line"><span class="k">Subiect:</span> ${esc(m.subject)} · <span class="k">Folder în Outlook:</span> ${esc(m.folder)}</span></div>
+    <div class="msg-body" data-body>${esc(fresh) || '<span class="none">(mesajul nu are text nou: doar redirecționează sau citează mesaje anterioare)</span>'}${quoted.trim() ? `<details><summary>Arată textul citat din mesajele anterioare</summary>${esc(quoted)}</details>` : ""}</div>
+    ${m.att.length ? `<div class="att"><span class="k">Atașamente:</span> ${m.att.map(a => a.path ? `<a href="${esc(fileHref(a.path))}" target="_blank" rel="noopener">${esc(a.name)}</a>${a.reason ? `<span class="muted">(${esc(a.reason)})</span>` : ""}` : `<span>${esc(a.name)} <span class="muted">(${esc(a.reason)})</span></span>`).join("")}</div>` : ""}
+  </article>`;
+}
+
+// every email of every conversation in the topic, in date order: the whole deal at a glance
+function topicFlow(conv) {
+  const convs = TOPIC_CONVS.get(conv.topic) || [conv];
+  if (convs.length < 2) return "";
+  const items = convs.flatMap(c => c.messages.map(id => ({ id, c }))).sort((a, b) => byText(MSG[a.id].date, MSG[b.id].date));
+  const rows = items.map(({ id, c }) => {
+    const m = MSG[id];
+    const docs = c.offers.filter(o => o.message === id && !o.resent).map(o => `${o.kind} ${o.number}`);
+    return `<li class="${c.id === conv.id ? "here" : ""}"><span class="when">${esc(dateTime(m.date))}</span>
+      <span class="side${m.akro ? " akro" : ""}">${m.akro ? "AKRO" : SIDE[c.type] || "Extern"}</span>
+      <span>${c.id === conv.id ? esc(m.subject) : `<a href="#" data-open-conv="${esc(c.id)}">${esc(m.subject)}</a>`}${docs.length ? ` <span class="doc">· trimite ${esc(docs.join(", "))}</span>` : ""}</span></li>`;
+  }).join("");
+  const keys = topicKeys(convs);
+  return `<details class="flow" open><summary>Fluxul subiectului <span>· ${convs.length} conversații, ${items.length} emailuri${keys ? `, legate prin ${esc(keys)}` : ""}</span></summary><ol>${rows}</ol></details>`;
+}
+
+function renderDetail() {
+  const r = RECORDS.find(x => x.rid === state.rid);
+  if (!r) { $("detail").innerHTML = `<div class="empty">Alege o conversație din listă.</div>`; return; }
+  const conv = r.convObj;
+  const siblings = RECORDS.filter(x => x.conv === conv.id);
+  const client = conv.client ? CLIENTS.get(conv.client) : null;
+  const clientLine = client
+    ? `<a href="#" data-goto-client="${esc(client.key)}">${esc(client.name)}</a> <span>(${esc(conv.clientSource)})</span>${conv.clientLink ? `<a href="#${esc(conv.clientLink)}" class="src" data-src="${esc(conv.clientLink)}" data-q="">↗ ofertă</a>` : conv.clientItem ? src(conv.clientItem) : ""}`
+    : badge("Client neidentificat", "b-warn", STATE_HELP["Client neidentificat"]);
+  const blocks = siblings.map(s => `<div class="request-head"><h3>${siblings.length > 1 ? `Cererea ${s.part} din ${s.parts}: ` : "Cererea: "}${esc(s.title || (conv.type === "client" ? "fără titlu" : DATA.types[conv.type] || "Conversație"))}</h3>
+      <span class="k">Stare:</span> ${stateBadges(s)}${s.category ? `<span class="k">Categorie de produse:</span> ${badge(s.category)}` : ""}</div>${requestBlocks(s, conv)}`).join("");
+  const convOdoo = [...new Map(siblings.flatMap(x => x.odoo).map(o => [o.number, o])).values()];
+  const index = state.visible.indexOf(r.rid);
+  const nav = index < 0 ? "" : `<div class="detail-nav"><button type="button" data-step="-1"${index === 0 ? " disabled" : ""}>Anterioara</button>
+      <span>Rândul ${index + 1} din ${state.visible.length} afișate</span><button type="button" data-step="1"${index === state.visible.length - 1 ? " disabled" : ""}>Următoarea</button></div>`;
+  $("detail").innerHTML = `
+    <div class="detail-head">
+    <div class="detail-head-top"><h2>${esc(conv.subject)}</h2>${nav}</div>
+    <div class="meta"><span><span class="k">Nr. conversației:</span> ${esc(conv.nr)}</span><span><span class="k">Perioada:</span> ${esc(dateTime(conv.first))} – ${esc(dateTime(conv.last))}</span>
+      <span><span class="k">Emailuri:</span> ${conv.messages.length}</span><span><span class="k">Tip conversație:</span> ${esc(DATA.types[conv.type] || "necunoscut")}</span>
+      ${conv.unsure ? `<span>${badge("Grupare nesigură", "b-warn", STATE_HELP["Grupare nesigură"])} mesajele au fost puse împreună doar pentru că au același subiect și aceiași oameni; verificați că țin de aceeași discuție</span>` : ""}</div>
+    <div class="meta"><span><span class="k">Client:</span> ${clientLine}</span>${convOdoo.length ? `<span><span class="k">În lista Odoo:</span> ${odooTags({ odoo: convOdoo })}</span>` : ""}</div>
+    </div>
+    ${topicFlow(conv)}
+    ${conv.description ? fact(conv.description, "Despre") : ""}
+    ${siblings.length > 1 ? `<div class="meta"><span>În această conversație sunt ${siblings.length} cereri diferite. În listă apar separat, aici sunt una sub alta.</span></div>` : ""}
+    ${blocks}
+    <section class="messages"><h3>Toate emailurile conversației</h3>${conv.messages.map(id => messageHtml(id, conv)).join("")}</section>`;
+  $("detail-scroll").scrollTop = 0;
+}
+
+// --- source links: open the message and underline the quote ---------------------------------------------
+
+function normalizedMap(text) {
+  // folded text with whitespace collapsed + the original offset of every folded character
+  let out = "", map = [], space = false;
+  for (let i = 0; i < text.length; i++) {
+    const ch = text[i];
+    if (/\s/.test(ch)) { if (!space && out) { out += " "; map.push(i); } space = true; continue; }
+    space = false;
+    for (const f of fold(ch)) { out += f; map.push(i); }
+  }
+  return { out, map };
+}
+function findQuote(text, quote) {
+  const q = fold(quote).replace(/\s+/g, " ").trim();
+  if (!q) return null;
+  const { out, map } = normalizedMap(text);
+  const at = out.indexOf(q);
+  return at < 0 ? null : [map[at], map[at + q.length - 1] + 1];
+}
+function openSource(id, quote) {
+  const el = document.getElementById(id);
+  if (!el) return;
+  const m = MSG[id];
+  const body = el.querySelector("[data-body]");
+  el.querySelector(".note")?.remove();
+  const range = quote ? findQuote(m.body, quote) : null;
+  const fresh = m.body.slice(0, m.newLen), quoted = m.body.slice(m.newLen);
+  const wrap = (text, from, to) => esc(text.slice(0, from)) + `<mark>${esc(text.slice(from, to))}</mark>` + esc(text.slice(to));
+  if (range) {
+    const [a, b] = range;
+    let freshHtml = esc(fresh), quotedHtml = esc(quoted), open = false;
+    if (b <= m.newLen) freshHtml = wrap(fresh, a, b);
+    else if (a >= m.newLen) { quotedHtml = wrap(quoted, a - m.newLen, b - m.newLen); open = true; }
+    else { freshHtml = wrap(fresh, a, m.newLen); quotedHtml = wrap(quoted, 0, b - m.newLen); open = true; }
+    body.innerHTML = (freshHtml || '<span class="none">(fără text nou)</span>') + (quoted.trim() ? `<details${open ? " open" : ""}><summary>Text citat din mesajele anterioare</summary>${quotedHtml}</details>` : "");
+  } else if (quote) {
+    body.insertAdjacentHTML("beforebegin", `<div class="note">Informația vine dintr-un atașament al acestui email, nu din textul lui: „${esc(quote)}”</div>`);
+  }
+  el.classList.add("flash");
+  setTimeout(() => el.classList.remove("flash"), 1600);
+  (el.querySelector("mark") || el).scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "center" });
+}
+
+// --- wiring ----------------------------------------------------------------------------------------------
+
+function render() {
+  const main = $("main");
+  main.classList.toggle("no-clients", state.view !== "clients");
+  document.querySelectorAll(".view button").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.view === state.view)));
+  if (state.view === "excluded") { renderExcluded(); return; }
+  const ctx = filterContext();
+  const rows = filtered(ctx);
+  updateCounts(ctx);
+  $("counter").textContent = `Afișate: ${rows.length} din ${rowsN(RECORDS.length)}`;
+  if (state.view === "clients") renderClients(rows);
+  renderList(rows);
+}
+
+let timer;
+const debounced = fn => { clearTimeout(timer); timer = setTimeout(fn, 150); };
+const bind = (id, key, ev = "change", value = el => el.value) => $(id).addEventListener(ev, e => { state[key] = value(e.target); state.shown = PAGE; ev === "input" ? debounced(render) : render(); });
+bind("search", "search", "input");
+bind("client-search", "clientSearch", "input");
+bind("f-product", "product", "input");
+bind("f-state", "stateF"); bind("f-type", "type"); bind("f-year", "year"); bind("f-category", "category"); bind("f-offer", "offer"); bind("sort", "sort");
+for (const k of ["outside", "attachments", "sds"]) bind(`f-${k}`, k, "change", el => el.checked);
+document.querySelectorAll("[data-odoo]").forEach(b => b.addEventListener("click", () => { state.odoo = b.dataset.odoo; state.shown = PAGE; render(); }));
+bind("by-topic", "byTopic", "change", el => el.checked);
+
+$("reset").addEventListener("click", () => {
+  Object.assign(state, { search: "", clientSearch: "", stateF: "", type: "", year: "", category: "", product: "", offer: "", odoo: "", outside: false, attachments: false, sds: false, shown: PAGE });
+  for (const id of ["search", "client-search", "f-product", "f-state", "f-type", "f-year", "f-category", "f-offer"]) $(id).value = "";
+  for (const id of ["f-outside", "f-attachments", "f-sds"]) $(id).checked = false;
+  render();
+});
+document.querySelectorAll(".view button").forEach(b => b.addEventListener("click", () => {
+  state.view = b.dataset.view; state.shown = PAGE; render();
+  if (state.view !== "excluded") renderDetail();
+}));
+$("clients").addEventListener("click", e => {
+  const b = e.target.closest("[data-client]");
+  if (!b) return;
+  state.client = b.dataset.client; state.shown = PAGE; render();
+});
+$("list").addEventListener("click", e => {
+  if (e.target.id === "more") { state.shown += PAGE; render(); return; }
+  const b = e.target.closest("[data-rid]");
+  if (!b) return;
+  select(b.dataset.rid);
+  if (matchMedia("(max-width: 900px)").matches) $("detail-col").scrollIntoView();
+});
+// up / down arrows move through the list, like a mail client
+$("list").addEventListener("keydown", e => {
+  if (e.key !== "ArrowDown" && e.key !== "ArrowUp") return;
+  const items = [...$("list").querySelectorAll("[data-rid]")];
+  const at = items.indexOf(document.activeElement);
+  const next = items[at + (e.key === "ArrowDown" ? 1 : -1)];
+  if (at < 0 || !next) return;
+  e.preventDefault();
+  next.focus();
+  select(next.dataset.rid);
+});
+$("detail").addEventListener("click", e => {
+  const a = e.target.closest("a.src");
+  if (a) { e.preventDefault(); openSource(a.dataset.src, a.dataset.q); return; }
+  const other = e.target.closest("[data-open-conv]");
+  if (other) {
+    e.preventDefault();
+    const rec = RECORDS.find(r => r.conv === other.dataset.openConv);
+    if (rec) select(rec.rid);
+    return;
+  }
+  const stepButton = e.target.closest("[data-step]");
+  if (stepButton) { step(Number(stepButton.dataset.step)); return; }
+  const c = e.target.closest("[data-goto-client]");
+  if (c) { e.preventDefault(); state.view = "clients"; state.client = c.dataset.gotoClient; render(); }
+});
+
+// theme: light unless the viewer chose dark; the choice is remembered in this browser only
+function applyTheme(dark) {
+  document.documentElement.toggleAttribute("data-theme", dark);
+  if (dark) document.documentElement.dataset.theme = "dark";
+  $("theme").textContent = dark ? "Temă luminoasă" : "Temă întunecată";
+}
+let savedTheme = "";
+try { savedTheme = localStorage.getItem("emailuri-tema") || ""; } catch (e) { /* storage blocked: stay light */ }
+applyTheme(savedTheme === "dark");
+$("theme").addEventListener("click", () => {
+  const dark = document.documentElement.dataset.theme !== "dark";
+  applyTheme(dark);
+  try { localStorage.setItem("emailuri-tema", dark ? "dark" : "light"); } catch (e) { /* not remembered */ }
+});
+
+initFilters();
+// emailuri.html#c2134404 opens that conversation (links from the report and the answers document)
+const linked = RECORDS.find(r => r.conv === location.hash.slice(1) || r.rid === location.hash.slice(1));
+if (linked) { state.view = "all"; state.rid = linked.rid; }
+render();
+if (linked) renderDetail();
+
+// collapse buttons on the side lists; a collapsed strip also opens with a click anywhere on it
+document.querySelectorAll("main > .col:not(#detail-col)").forEach(col => {
+  const head = col.querySelector(".col-head");
+  const btn = document.createElement("button");
+  btn.type = "button";
+  btn.className = "col-toggle";
+  btn.innerHTML = '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3.5 5.5 8l4.5 4.5"/></svg>';
+  const sync = () => {
+    const collapsed = col.classList.contains("collapsed");
+    btn.setAttribute("aria-expanded", String(!collapsed));
+    btn.title = (collapsed ? "Extinde: " : "Restrânge: ") + col.getAttribute("aria-label");
+    btn.setAttribute("aria-label", btn.title);
+  };
+  btn.addEventListener("click", e => { e.stopPropagation(); col.classList.toggle("collapsed"); sync(); });
+  head.addEventListener("click", () => { if (col.classList.contains("collapsed")) btn.click(); });
+  head.append(btn);
+  sync();
+});
+</script>
+</body>
+</html>

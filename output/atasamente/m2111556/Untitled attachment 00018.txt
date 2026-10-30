@@ -1,0 +1,22 @@
+Return-path: <alexandru.soare@akro.ro>
+Received: from [82.78.174.40] (port=54586 helo=AKR100)
+	by s010.host-age.ro with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.99.5)
+	(envelope-from <alexandru.soare@akro.ro>)
+	id 1wu6Ne-0000000AjEC-2ZzR;
+	Wed, 12 Aug 2026 13:40:16 +0300
+From: "AKRO Romania , Alexandru Soare" <alexandru.soare@akro.ro>
+To: <christoph.ruisinger@herco-wt.de>
+Cc: "'Akro Filtrare'" <office@akro.ro>,
+	<andrei.dobrei@akro.ro>
+Subject: price request - ETA - for the proforma attached - AKRO ROMANIA
+Date: Wed, 12 Aug 2026 13:40:16 +0300
+Message-ID: <000201dd2a46$f6bece40$e43c6ac0$@akro.ro>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0003_01DD2A60.1C0C0640"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: Ad0qRpUixESVYJ2MTv+dDByml00P1Q==
+Content-Language: en-us
+X-Exim-DSN-Information: Due to administrative limits only headers are returned
+

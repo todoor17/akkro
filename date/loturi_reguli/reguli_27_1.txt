@@ -1,0 +1,3746 @@
+CATEGORIA 27-Uv
+
+####################################################################################################
+RÂND c2103876-1 (nr. 140.1) | stare: Completă | categorie: 27-Uv | cerere: Sterilizare UV și stație de clorinare Spital Oradea
+CERINȚA: F Haus cere ofertă pentru stație de clorinare și lămpi UV pentru tratarea apei la Spitalul Oradea. [m2103876] «Initial, clientul ne-a solicitat doar o oferta pentru un echipament UV.»
+CERINȚĂ FINALĂ (debit): Debit UV 20 m³/h, ulterior variantă cu 4 lămpi pentru 30 m³/h [m2105700] «revizuita pentru varianta cu 4 lampi UV, corespunzatoare debitului de»
+CERINȚĂ FINALĂ (debit): Debit circuit clorinare/recirculare 30 m³/h [m2103876] «Debit pt clorinare 30 mc/h»
+CERINȚĂ FINALĂ (calitate apă): Apă potabilă din rețeaua orașului [m2103876] «Calitate apă = apă potabilă de la oraș»
+CERINȚĂ FINALĂ (altele): Reactor UV din inox 316L [m2103876] «reactorul UV va fi ofertat in executie»
+CERINȚĂ FINALĂ (altele): Rezervor de 100 L la stația de clorinare în loc de 50 L [m2103876] «am recomandat utilizarea unui rezervor de 100 L»
+CLARIFICARE: întrebare Spectra cere clarificări privind debitul maxim, UVT, materialul camerei și configurația cu 4 lămpi. [m2103876] «Va rugam sa confirmati debitul maxim care va traversa reactorul UV.» → răspuns Clientul precizează debitele (30 m³/h clorinare, 20 m³/h UV) și preferă inox 316L. [m2103876] «Debit pt sterilizare UV 20 mc/h» | schimbare: UV 20 m³/h, inox 316L, rezervor clorinare 100 L.
+CLARIFICARE: întrebare Clientul cere modificarea ofertei pentru sterilizare UV cu 4 lămpi și cele mai bune prețuri. [m2106852] «Rog modificarea ofertei privind Sterilizarea UV, folosind o varianta cu 4 lămpi.» → răspuns Spectra trimite oferta actualizată S02571-1 pentru 4 lămpi UV la 30 m³/h, cu discount 6% (avans 100%) sau 3%. [m2105700] «Conform discutiei telefonice, atasat regasiti oferta comerciala actualizata pentru proiectul» | schimbare: UV 80/4 cu 4 lămpi pentru 30 m³/h, cu discount pentru plată în avans.
+TELEFON: Dan Teodorescu clarifică telefonic cu beneficiarul debitele, inoxul 316L și rezervorul de 100 L și discută și partea de filtrare. [m2103876] «Ulterior am discutat telefonic cu beneficiarul si am clarificat toate aceste aspecte.»
+TELEFON: Oferta actualizată e trimisă în urma unei discuții telefonice. [m2105700] «Conform discutiei telefonice, atasat regasiti oferta comerciala actualizata pentru proiectul»
+OFERTĂ ÎN TEXT: Oferta S02571: 10.907,89 € + TVA pentru UV SITA 80/3 PLUS și stația de clorinare SEKO. [m2106852] «S02571, in valoare de 10.907,89 € + TVA»
+REZULTAT: acceptată — F Haus confirmă că dorește achiziția variantei ofertate și cere draft de contract. [m2106852] «Dorim achiziționarea acestei variante de ofertă,»
+PREȚURI Ofertă S02571-1 v1 (2026-07-27), total 15189.13 EUR:
+  [11-002012] Sistem Clorinare Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in f | 1.0 buc × 407.75 EUR (reducere 6.0%) | referință
+  [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 | 1.0 buc × 131.63 EUR (reducere 6.0%) | referință
+  [11-002026] LANCE DE ASPIRATIE CU SENZOR DE NIVEL PENTRU REZERVOR 100L, CONEXIUNI 4x6mm | 1.0 buc × 105.98 EUR (reducere 6.0%) | referință
+  [11-002158] Panou K800 model KPS06PM00000, pentru pH/Clor liber: 0-14 pH / clor, H2O2, PAA, brom: 0÷0,5 / 1 / 2 / 5 / 10 / 20 / 200  | 1.0 buc × 2768.54 EUR (reducere 6.0%) | referință
+  [11-002159] Senzor de clor liber anorganic model FCL5: 0-2 ppm, 45° C, 1 bar, 6- 9 pH, (ØxL) 24x222 mm, corp din PVC, iesire 4-20 mA | 1.0 buc × 1458.09 EUR (reducere 6.0%) | referință
+  [11-002004] Cablu pentru senzori FCL, TCL, DCL, PAA, H2O2, O3, brom. Lungime: 1 m | 1.0 buc × 15.18 EUR (reducere 6.0%) | referință
+  [27-001233] Sistem UV apa_UV 80/4 RACK LCD PLUS - 316 RM_Debit 30 m3/h_Doza UV 40 mJ/cm2_Putere 355W_Racord DN80_SITA cu curatare ma | 1.0 buc × 8071.09 EUR (reducere 6.0%) | referință
+  [27-005397] Optional SITA pentru gama LCD Rack protectie termica apa calda | 4.0 buc × 99.0 EUR (reducere 6.0%) | referință
+  termen: Modul de livrare: In sarcina Akro, 6-8 saptamani, dupa confirmarea de plata.
+  termen: Termen de plata: 100% in avans
+
+====================================================================================================
+CONVERSAȚIA c2103876 (nr. 140) | subiect: Solicitare configuratie filtrare - Proiect tratare apa spital
+Partener (după adrese): fhaus.ro Istvan Molnar, ofertare, Dragos Florin | grupare nesigură: nu
+OFERTĂ S02571-1 v1 trimisă 2026-07-27 09:31 în m2105700 (Odoo: nu e în lista Odoo): [11-002012] Sistem Clorinare Pompa dozatoare solenoidala tpg 603, digitala cu debit constant x1.0 buc; [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 x1.0 buc; [11-002026] LANCE DE ASPIRATIE CU SENZOR DE NIVEL PENTRU REZERVOR 100L, CONEXIUNI 4x6mm x1.0 buc; [11-002158] Panou K800 model KPS06PM00000, pentru pH/Clor liber: 0-14 pH / clor, H2O2, PAA,  x1.0 buc; [11-002159] Senzor de clor liber anorganic model FCL5: 0-2 ppm, 45° C, 1 bar, 6- 9 pH, (ØxL) x1.0 buc; [11-002004] Cablu pentru senzori FCL, TCL, DCL, PAA, H2O2, O3, brom. Lungime: 1 m x1.0 buc; [27-001233] Sistem UV apa_UV 80/4 RACK LCD PLUS - 316 RM_Debit 30 m3/h_Doza UV 40 mJ/cm2_Put x1.0 buc; [27-005397] Optional SITA pentru gama LCD Rack protectie termica apa calda x4.0 buc
+OFERTĂ S02571-1 v1 trimisă 2026-07-29 15:37 în m2106852 (Odoo: nu e în lista Odoo): [11-002012] Sistem Clorinare Pompa dozatoare solenoidala tpg 603, digitala cu debit constant x1.0 buc; [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 x1.0 buc; [11-002026] LANCE DE ASPIRATIE CU SENZOR DE NIVEL PENTRU REZERVOR 100L, CONEXIUNI 4x6mm x1.0 buc; [11-002158] Panou K800 model KPS06PM00000, pentru pH/Clor liber: 0-14 pH / clor, H2O2, PAA,  x1.0 buc; [11-002159] Senzor de clor liber anorganic model FCL5: 0-2 ppm, 45° C, 1 bar, 6- 9 pH, (ØxL) x1.0 buc; [11-002004] Cablu pentru senzori FCL, TCL, DCL, PAA, H2O2, O3, brom. Lungime: 1 m x1.0 buc; [27-001233] Sistem UV apa_UV 80/4 RACK LCD PLUS - 316 RM_Debit 30 m3/h_Doza UV 40 mJ/cm2_Put x1.0 buc; [27-005397] Optional SITA pentru gama LCD Rack protectie termica apa calda x4.0 buc
+
+--- MESAJ m2103876 | 2026-07-22 09:54 | Inbox | AKRO
+De la: Dan Teodorescu <dan.teodorescu@spectra.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: aurel.caras@akro.ro
+Subiect: Solicitare configuratie filtrare - Proiect tratare apa spital
+Salutare,
+
+Am nevoie de ajutorul tau pentru partea de filtrare aferenta unui proiect de tratare a apei pentru un spital.
+
+Este un proiect care, din cate am inteles de la beneficiar, a fost initiat in urma cu ceva timp, ulterior s-a renuntat la el, iar in prezent a fost reluat si se afla in faza de achizitie.
+
+Sursa de apa este apa potabila provenita din reteaua publica.
+
+Initial, clientul ne-a solicitat doar o oferta pentru un echipament UV. In urma analizei documentatiei am identificat mai multe neconcordante privind debitele, materialul reactorului si alte aspecte tehnice,
+motiv pentru care am solicitat clarificari.
+
+Ulterior am discutat telefonic cu beneficiarul si am clarificat toate aceste aspecte. Am convenit urmatoarele:
+
+debit reactor UV:
+20 m³/h,
+
+debit circuit clorinare / recirculare:
+30 m³/h,
+
+reactorul UV va fi ofertat in executie
+Inox 316L,
+
+pentru statia de clorinare, desi in fisa tehnica este mentionat un rezervor de
+50 L, am recomandat utilizarea unui rezervor de 100 L, argumentand autonomia mai mare si exploatarea mai usoara. Beneficiarul a fost de acord, confirmand ca rezervorul de 50 L nu reprezinta o cerinta obligatorie.
+
+In urma acestor discutii am pregatit deja oferta
+S02514, care include solutia pentru dezinfectia UV si clorinarea.
+
+In cadrul aceleiasi discutii telefonice am abordat si partea de filtrare, si l-am convins ca ar fi indicat, sa achizitioneze de la noi intreaga solutie de tratare a apei, respectiv:
+
+filtrare,
+
+clorinare,
+
+dezinfectie UV.
+
+Astazi urmeaza sa aiba o sedinta interna in care vor decide daca vor include si partea de filtrare in achizitie.
+
+As vrea sa fim pregatiti in cazul in care decid sa mearga pe o solutie completa din partea noastra.
+
+Te rog, cand ai putin timp, sa analizezi documentatia tehnica atasata si sa imi propui configuratia de filtrare pe care o consideri potrivita pentru aceasta aplicatie.
+
+Daca se confirma ca vor dori si filtrarea prin noi, te rog sa imi transmiti:
+
+configuratia tehnica recomandata,
+
+codurile tuturor echipamentelor si accesoriilor necesare,
+
+eventualele particularitati tehnice pe care le consideri importante,
+
+termenele de livrare estimate.
+
+De asemenea, daca pentru dimensionarea corecta ai nevoie de informatii suplimentare pe care momentan nu le avem, te rog sa imi spui exact ce ar trebui sa solicit beneficiarului, iar eu il voi contacta ulterior
+pentru clarificari.
+
+Am atasat documentatia tehnica primita de la client, inclusiv schema de principiu a statiei de tratare.
+
+Cu stima,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Istvan Molnar <istvan.molnar@fhaus.ro>
+
+Sent: Tuesday, July 21, 2026 5:07 PM
+
+To: Sales <sales@spectra.ro>
+
+Cc: ofertare <ofertare@fhaus.ro>; Dragos Florin <dragos@fhaus.ro>; Karcsi Darabos <darabos@fhaus.ro>; Beata Pandi <beata.pandi@fhaus.ro>
+
+Subject: Stație de clorinare și lămpi UV - Spital Oradea
+
+Bună ziua,
+
+Mulțumesc pentru răspuns și observațiile făcute.
+
+Conform convorbirii telefonice revin cu completarea pentru clorinare, respectiv clarificări de ultimă oră.
+
+Atașat vă transmit o schemă de principiu a stației de tratare propusă de noi, cu debitele corecte pe diferite tronsoane.
+
+Mențiuni:
+
+Pompa de recirculare către bazin are 30 mc/h, iar grupul hidrofor,
+către consum, are doar 20 mc/h (chiar dacă în fișe sunt alte valori!).
+
+Răspunsuri punctuale:
+
+Debit pt clorinare 30 mc/h
+
+Debit pt sterilizare UV 20 mc/h
+
+Calitate apă = apă potabilă de la oraș
+
+Fișa este pt Inox 304, dar credem că ar fi mai indicat Inox 316L (așteptăm și părerea dumneavoastră
+
+Despre celelalte revin mai târziu.
+
+Fișe tehnice (poze!):
+
+Pentru eventuale informații suplimentare vă rog să mă contactați.
+
+Mulțumesc anticipat.
+
+Cu stimă / Tisztelettel / Best regards,
+
+Istvan Molnar
+
+F Haus SRL | Satu Mare , 440115, Str. Iuliu Maniu nr.7 | Romania
+
+T: +40361-733.004 | F: +40261-710.737 | M : +40744-856.895
+
+E: istvan.molnar@fhaus.ro | www.fhaus.ro
+
+From: Dan Teodorescu <sales@spectra.ro>
+
+Sent: Tuesday, July 21, 2026 4:03 PM
+
+To: Istvan Molnar <istvan.molnar@fhaus.ro>
+
+Subject: Re: Sterilizare cu lămpi UV - Spital Oradea clarificari tehnice
+
+Buna ziua, Istvan Molnar (F HAUS S.R.L.), Va multumim pentru solicitarea transmisa si pentru documentatia atasata. Pentru
+a putea selecta corect [...] ͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+͏
+
+Sterilizare cu lămpi UV - Spital Oradea
+
+Buna ziua, Istvan Molnar (F HAUS S.R.L.),
+
+Va multumim pentru solicitarea transmisa si pentru documentatia atasata.
+
+Pentru a putea selecta corect sterilizatorul UV si pentru a va transmite o oferta tehnico-comerciala adaptata aplicatiei dumneavoastra, va rugam sa ne ajutati cu urmatoarele
+clarificari:
+
+Debit maxim de exploatare
+
+Va rugam sa confirmati debitul maxim care va traversa reactorul UV. In documentatia transmisa apar mai multe valori (19,4 m³/h, 20-25 m³/h si 30 m³/h), iar dimensionarea echipamentului si garantarea unei doze UV de minimum 40 mJ/cm² se realizeaza la debitul
+maxim de functionare.
+
+Calitatea apei - UVT (UV Transmittance)
+
+Exista un buletin de analiza a apei sau cel putin valoarea UVT (UV Transmittance) la 254 nm? Acest parametru este esential pentru dimensionarea corecta a echipamentului si garantarea dozei UV solicitate.
+
+In cazul in care aceasta valoare nu este disponibila, va putem oferi suport prin efectuarea determinarii UVT la sediul nostru. Pentru aceasta, va rugam sa ne transmiteti
+o proba de apa intr-un recipient curat si etans, iar noi vom realiza masuratoarea necesara pentru dimensionarea corecta a sistemului UV.
+
+3. Materialul camerei de iradiere
+
+Va rugam sa confirmati materialul dorit al camerei de iradiere. In solicitarea initiala este specificat
+inox 316L, iar in fisa tehnica apare inox 304.
+
+Configuratia reactorului UV
+
+Va rugam sa confirmati daca cerinta privind "4 lampi UV x 80 W" reprezinta o conditie obligatorie sau daca acceptati o solutie tehnica echivalenta. Dimensionarea unui sistem UV se realizeaza in functie de debitul de apa, calitatea apei si doza UV garantata,
+iar numarul de lampi poate varia in functie de tehnologia utilizata de fiecare producator.
+
+Clarificare privind circuitul hidraulic
+
+In fisa tehnica, filtrul automat este dimensionat pentru un debit de
+[ATAȘAMENT: Schema tratare apa spital.pdf | text extras]
+
+--- MESAJ m2140100 | 2026-07-22 10:00 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dan Teodorescu <dan.teodorescu@spectra.ro>
+Cc: aurel.caras@akro.ro, office@akro.ro
+Subiect: RE: Solicitare configuratie filtrare - Proiect tratare apa spital
+Salut.
+
+Cine este clientul si despre ce spital este vorba?
+
+--- MESAJ m2103972 | 2026-07-22 10:06 | Inbox | AKRO
+De la: Dan Teodorescu <dan.teodorescu@spectra.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: aurel.caras@akro.ro, office@akro.ro
+Subiect: RE: Solicitare configuratie filtrare - Proiect tratare apa spital
+Spital Oradea,
+
+Client FHaus
+
+--- MESAJ m2140228 | 2026-07-22 11:23 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Dan Teodorescu <dan.teodorescu@spectra.ro>
+Cc: aurel.caras@akro.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Solicitare configuratie filtrare - Proiect tratare apa spital
+Salut, mersi de info, dar nu inteleg cum a ajuns clientul la tine si in ce circumstante. Si nu inteleg de ce ai schimbat solutia
+
+Iti aduc aminte ca:
+
+In data de 30.06.2026 – te-am pus in CC cu privire la acest proiect, [ este proiectul pentru care ai solicitat informatiile de semnale din panou de la SITA, si functionare la temperaturi mai mari]. – produsul a fost declarat castigator.
+
+Licitatia din 2025 – era configurata cu:
+
+- Filtru zeolit
+
+- Clorinare
+
+- UV
+
+Sunt in faza de achizitie acum . ca si informatie, s-a renuntat la filtrul cu zeolit pentru ca nu este ok din punct de vedere functional.
+
+Am facut oferta actualizata acum 4 zile cu un filtru de inox + un filtru automat de la STF.[ din acelasi considerent de inlocuire a filtrului cu zeolit dar este o mentiune obligatorie in caietul de sarcini] – s-a facut dispozitie de santier si se asteptau ca pretul pentru filtre sa fie cel putin la jumatatea costului de filtru zeolit.
+
+Eu am discutat cu Dl Karcsi Darabos si cu Dragos Florin.
+
+Propunerea mea a fost – oferta S02458 .
+
+Daca propunerea mea de UV nu a fost buna si doresti si tu sa trimiti o oferta, poti completa cu filtrele mecanice din oferta mea . [ eu am discutat cu clientul si mi-a spus ca discutam de apa curata- dar vrea totusi sa fie din inox filtrele]. Daca ai alte caracteristici ale apei imi poti trimite si discutam cu Aurel ce sa ofertam.
+
+Referitor la coduri din ODOO, cel putin la tot ce inseamna echipamente sau produse speciale [ cu configuratie din mai multe surse] – Dl Aurel va trimite codurile – eu nu voi face asta. Departamentul de achizitii/ vazari va creea coduri, va discuta cu furnizorii pe proiecte, va actualiza preturile in ODDO si alte sarcini de operare.
+
+Doresc ca in viitorul apropiat sa facem o sedinta comuna sa vedem exact fiecare ce are de facut, prezentare proceduri, de unde pana unde tine de post si asa mai departe. Dupa ce ajungem la un acord comun , doresc si o sedinta individuala , sa discutam pe fisele de post, modul de lucru si proceduri, prioritizare si sarcini si salarizare.
+[ATAȘAMENT: atașament 1 | fără extensie]
+
+--- MESAJ m2104228 | 2026-07-22 11:34 | Inbox | AKRO
+De la: Dan Teodorescu <dan.teodorescu@spectra.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: aurel.caras@akro.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Solicitare configuratie filtrare - Proiect tratare apa spital
+Salut, Alex,
+
+Mersi pentru clarificari si pentru contextul proiectului.
+
+Sincer, nu am asociat solicitarea primita de la client cu proiectul pentru care fusesem pus in CC la sfarsitul lunii iunie.Clientul m-a contactat ieri 21.08.2026 direct pentru partea de UV, iar pe parcursul
+discutiilor telefonice am identificat ca are nevoie si de statia de clorinare. Ulterior mi-a transmis documentatia aferenta si, dupa sedinta pe care au avut-o astazi, mi-a solicitat si o oferta pentru partea de filtrare.
+
+In urma discutiilor telefonice am clarificat impreuna mai multe aspecte tehnice fata de documentatia initiala:
+
+debitul pentru UV este 20 m³/h,
+
+debitul pentru circuitul de clorinare este 30 m³/h,
+
+am convenit utilizarea unui reactor UV in executie Inox 316L,
+
+pentru statia de clorinare am recomandat utilizarea unui rezervor de 100 L in locul celui de 50 L mentionat in fisa tehnica, iar beneficiarul a fost de acord, considerand ca
+este o solutie mai potrivita din punct de vedere al exploatarii.
+
+Pe baza acestor clarificari am pregatit si transmis deja oferta pentru solutia de UV si clorinare.
+
+Astazi am primit si solicitarea pentru partea de filtrare, impreuna cu informatia ca momentan este analizata o solutie bazata pe filtrul Resideo Braukmann F78TS DN80, cu actuator de spalare si presostat diferential
+cu purjare automata, insa sunt deschisi si la o propunere tehnica din partea noastra.
+
+Regret suprapunerea aparuta. Nu a fost intentia mea sa dublez munca sau sa modific o solutie existenta fara sa discutam inainte. Pur si simplu nu am asociat solicitarea primita cu proiectul pe care il aveai
+deja in lucru.
+
+Multumesc!
+
+--- MESAJ m2105700 | 2026-07-27 09:31 | Inbox | AKRO
+De la: Dan Teodorescu <dan.teodorescu@spectra.ro>
+Către: Istvan Molnar <istvan.molnar@fhaus.ro>
+Cc: ofertare@fhaus.ro, dragos@fhaus.ro, darabos@fhaus.ro, beata.pandi@fhaus.ro
+Subiect: Transmitere oferta actualizata – Tratare apa | Spital Oradea
+Buna ziua, domnule Molnar,
+
+Conform discutiei telefonice, atasat regasiti oferta comerciala actualizata pentru proiectul
+Tratare apa | Spital Oradea, revizuita pentru varianta cu 4 lampi UV, corespunzatoare debitului de
+30 m³/h, conform cerintei beneficiarului.
+
+In atasament regasiti si fisa tehnica a echipamentului UV ofertat.
+
+Oferta anexata include varianta cu
+discount 6%, valabil pentru plata 100% in avans.
+
+Alternativ, poate fi aplicata si urmatoarea conditie comerciala:
+
+discount 3% pentru plata
+50% in avans, iar diferenta de 50% la notificarea ca echipamentele sunt pregatite pentru livrare.
+
+Asteptam confirmarea dumneavoastra pentru lansarea comenzii.
+
+Cu stima,
+[ATAȘAMENT: UV 80.4 eng.pdf | text extras]
+[ATAȘAMENT: Oferta - S02571-1.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2106852 | 2026-07-29 15:37 | Inbox | AKRO
+De la: Dan Teodorescu <dan.teodorescu@spectra.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: FW: Transmitere oferta actualizata – Tratare apa | Spital Oradea
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Istvan Molnar <istvan.molnar@fhaus.ro>
+
+Sent: Wednesday, July 29, 2026 3:25 PM
+
+To: Dan Teodorescu <dan.teodorescu@spectra.ro>
+
+Cc: ofertare <ofertare@fhaus.ro>; Dragos Florin <dragos@fhaus.ro>; Karcsi Darabos <darabos@fhaus.ro>; Beata Pandi <beata.pandi@fhaus.ro>; Evelyn Stepper <evelyn.stepper@fhaus.ro>
+
+Subject: RE: Transmitere oferta actualizata – Tratare apa | Spital Oradea
+
+Bună ziua,
+
+Dorim achiziționarea acestei variante de ofertă,
+
+rugămintea este să ne pregătiți un draft de contract, menționând ambele variante de discount, urmând să ne decidem în curând.
+
+Mulțumesc anticipat.
+
+Cu stimă / Tisztelettel / Best regards,
+
+Istvan Molnar
+
+F Haus SRL | Satu Mare , 440115, Str. Iuliu Maniu nr.7 | Romania
+
+T: +40361-733.004 | F: +40261-710.737 | M : +40744-856.895
+
+E: istvan.molnar@fhaus.ro | www.fhaus.ro
+
+From: Dan Teodorescu <dan.teodorescu@spectra.ro>
+
+Sent: Monday, July 27, 2026 9:32 AM
+
+To: Istvan Molnar <istvan.molnar@fhaus.ro>
+
+Cc: ofertare <ofertare@fhaus.ro>; Dragos Florin <dragos@fhaus.ro>; Karcsi Darabos <darabos@fhaus.ro>; Beata Pandi <beata.pandi@fhaus.ro>
+
+Subject: Transmitere oferta actualizata – Tratare apa | Spital Oradea
+
+Buna ziua, domnule Molnar,
+
+Conform discutiei telefonice, atasat regasiti oferta comerciala actualizata pentru proiectul
+Tratare apa | Spital Oradea, revizuita pentru varianta cu 4 lampi UV, corespunzatoare debitului de
+30 m³/h, conform cerintei beneficiarului.
+
+In atasament regasiti si fisa tehnica a echipamentului UV ofertat.
+
+Oferta anexata include varianta cu
+discount 6%, valabil pentru plata
+100% in avans.
+
+Alternativ, poate fi aplicata si urmatoarea conditie comerciala:
+
+discount 3% pentru plata
+50% in avans, iar diferenta de 50% la notificarea ca echipamentele sunt pregatite pentru livrare.
+
+Asteptam confirmarea dumneavoastra pentru lansarea comenzii.
+
+Cu stima,
+
+From: Istvan Molnar <istvan.molnar@fhaus.ro>
+
+Sent: Friday, July 24, 2026 4:06 PM
+
+To: Dan Teodorescu <dan.teodorescu@spectra.ro>
+
+Cc: ofertare <ofertare@fhaus.ro>; Dragos Florin <dragos@fhaus.ro>; Karcsi Darabos <darabos@fhaus.ro>; Beata Pandi <beata.pandi@fhaus.ro>
+
+Subject: RE: Oferta comerciala S02571 - Solutie tratare apa | Spital Oradea
+
+Bună ziua,
+
+Rog modificarea ofertei privind Sterilizarea UV, folosind o varianta cu 4 lămpi.
+
+De asemenea, rugămintea ar fi setarea celor mai favorabile prețuri pentru noi, în vederea lansării comenzii atât pentru Sterilizare, cât și pentru Clorinare.
+
+Vă mulțumesc anticipat.
+
+Cu stimă / Tisztelettel / Best regards,
+
+Istvan Molnar
+
+F Haus SRL | Satu Mare , 440115, Str. Iuliu Maniu nr.7 | Romania
+
+T: +40361-733.004 | F: +40261-710.737 | M : +40744-856.895
+
+E: istvan.molnar@fhaus.ro | www.fhaus.ro
+
+From: Dan Teodorescu <dan.teodorescu@spectra.ro>
+
+Sent: Wednesday, July 22, 2026 11:21 AM
+
+To: Istvan Molnar <istvan.molnar@fhaus.ro>
+
+Cc: ofertare <ofertare@fhaus.ro>; Dragos Florin <dragos@fhaus.ro>; Karcsi Darabos <darabos@fhaus.ro>; Beata Pandi <beata.pandi@fhaus.ro>
+
+Subject: Oferta comerciala S02571 - Solutie tratare apa | Spital Oradea
+
+Buna ziua, domnule Molnar,
+
+Asa cum am discutat, atasat regasiti oferta noastra comerciala
+S02571, in valoare de 10.907,89 € + TVA, precum si fisele tehnice aferente echipamentelor ofertate.
+
+In urma analizei documentatiei tehnice si a clarificarilor discutate telefonic, am configurat urmatoarea solutie:
+
+Sterilizator UV industrial SITA UV 80/3 PLUS, executie
+Inox 316L, dimensionat pentru un debit de 20 m³/h, capabil sa asigure o doza UV de minimum
+40 mJ/cm² la sfarsitul duratei de viata a lampilor, conform cerintelor proiectului. Solutia propusa include monitorizarea intensitatii UV, contorizarea orelor de functionare si contacte de alarma pentru integrarea in sistemul de automatizare.
+
+Statie de clorinare SEKO, configurata pentru circuitul de recirculare al bazinului (30 m³/h), cu control automat al concentratiei
+de clor liber. Solutia propusa permite monitorizarea si reglarea continua a procesului de dezinfectie, asigurand mentinerea parametrilor
+[ATAȘAMENT: Oferta - S02571-1.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2106948 | 2026-07-29 16:56 | Inbox | AKRO
+De la: Dan Teodorescu <dan.teodorescu@spectra.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: aurel.caras@akro.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Solicitare configuratie filtrare - Proiect tratare apa spital
+Salut, Alex,
+
+Vreau sa iti multumesc pentru faptul ca ai lasat proiectul sa mearga mai departe prin mine. Apreciez abordarea si faptul ca am putut duce eu acest proiect pana la final.
+
+Cred ca situatia asta a evidentiat o problema de proces, nu una intre noi. Pentru ca departamentul Spectra sa poata prelua in mod eficient proiectele de tratare a apei (filtrare, clorinare etc.) din cadrul
+AKRO, este necesar un hand-over operational clar, care sa includa produsele, codurile din Odoo, configuratiile standard, procedurile de lucru si responsabilitatile. In lipsa acestor informatii, este normal sa mai apara astfel de suprapuneri.
+
+Totodata, cred ca ar fi util sa implementam o functionalitate in Odoo prin care, la accesarea fisei unui client, sa fie afisate automat toate ofertele active asociate acelui client, persoana responsabila si
+statusul acestora (ofertare, negociere, comanda etc.). Astfel, este mult mai usor pentru oricine acceseaza acel client sa observe daca exista deja proiecte in lucru si cine le gestioneaza, evitand suprapunerile si dublarea activitatilor.
+
+Cred ca o astfel de functionalitate ne-ar ajuta pe toti si ar face colaborarea dintre departamente mult mai eficienta.
+
+Sper sa clarificam cat mai curand modul de lucru, astfel incat fiecare sa stie exact responsabilitatile si fluxul de lucru.
+
+Cu stima,
+
+####################################################################################################
+RÂND c2105892 (nr. 176) | stare: Completă | categorie: 27-Uv | cerere: Teacă de cuarț pentru sistem UV
+CERINȚA: Clientul are scurgeri la capetele filtrului UV și vrea să comande o teacă de cuarț nouă 23x20x330 mm. [m2105892] «I have not replaced the quartz sleeve before, and its been 2-3 years. So I'd like to order one.»
+CERINȚĂ FINALĂ (tip echipament): 1 teacă de cuarț 27-004607, 23 x 20 x 330 mm DO [m2105892] «1 × teacă de cuarț pentru sistemul UV – 27-004607 – Teacă de Quartz 23 × 20 × 330 mm DO»
+CERINȚĂ FINALĂ (loc livrare): 79 Valea Tișei, Șimon, 507028 [m2105892] «Can you ship it to 79 Valea Tisei, Șimon, ROMANIA 507028?»
+CERINȚĂ FINALĂ (termen): Expediere cât mai curând [m2105892] «As soon as possible if you can.»
+CERINȚĂ FINALĂ (altele): AKRO adaugă gratuit 2 garnituri O-ring D22 x 3 mm [m2142308] «I have added 2 O-rings D22 with 3 mm thickness [ this will be sent with no charge]»
+CLARIFICARE: întrebare - → răspuns AKRO trimite proforma pentru teaca de cuarț din stoc și adaugă gratuit 2 O-ring-uri, fiindcă furnizorul nu le livrează. [m2142308] «The supplier does not deliver the O-rings and this are the closest ones to be used on your system.» | schimbare: Se adaugă gratuit 2 garnituri O-ring D22 x 3 mm.
+REZULTAT: acceptată — Clientul plătește proforma și trimite dovada plății. [m2106244] «I'll do it now. Apologies.»
+PREȚURI Factură proformă S02596 v1 (2026-07-27), total None :
+  termen: Modul de livrare: In sarcina Akro
+
+====================================================================================================
+CONVERSAȚIA c2105892 (nr. 176) | subiect: Re: Replace filters - information
+Partener (după adrese): jonathantapitt@gmail.com Jonathan Sherry | grupare nesigură: nu
+OFERTĂ S02596 v1 trimisă 2026-07-27 13:07 în m2142308 (Odoo: Comandă de vânzare): 
+OFERTĂ S02596 v1 trimisă 2026-07-28 09:42 în m2142436 (Odoo: Comandă de vânzare): 
+
+--- MESAJ m2105892 | 2026-07-27 12:18 | Inbox | EXTERN
+De la: Jonathan Sherry <jonathantapitt@gmail.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Re: Replace filters - information
+Hi there.
+
+I have been having some minimal leakage at each end of my UV filter. I removed the quartz sleeve and found it had built up kalkar (because our water is very magnesium and calcium from the mountain water. I cleaned the sleeve, but the O-rings on each side are a little dislodged or not working as well as they used to, and that is why it is leaking.
+
+I have not replaced the quartz sleeve before, and its been 2-3 years. So I'd like to order one.
+
+To be exact:
+1 quartz sleeve - for the UV [ normally this should be exchange every 2-3 years ] – [27-004607] Teaca de Quartz 23 x 20 x 330 mm DO ------- you can visual check it [ stop the water and remove it ] – it must be completely clear . Usually after 2 years some spots appear on it’s surface, and this will reduce the UV light pass through it. I also want to inform you – you can clean it with vinegar and a soft towel [ not to scratch it] – and if the spots disappear you can safely reuse it.
+
+Can you ship it to 79 Valea Tisei, Șimon, ROMANIA 507028? As soon as possible if you can. Thank you.
+
+Thank you!
+
+= = = = = =
+
+RO:
+
+Bună ziua,
+
+Am observat o mică scurgere la ambele capete ale filtrului meu UV. Am demontat teaca de cuarț și am constatat că s-a depus calcar pe ea, deoarece apa de la noi, din zona montană, are un conținut ridicat de magneziu și calciu. Am curățat teaca, însă garniturile O-ring de la ambele capete par să fie ușor deplasate sau nu mai etanșează la fel de bine ca înainte, motiv pentru care apare scurgerea.
+
+Nu am înlocuit niciodată teaca de cuarț, iar aceasta este în funcțiune de aproximativ 2–3 ani, așa că aș dori să comand una nouă.
+
+Mai exact:
+
+1 × teacă de cuarț pentru sistemul UV – 27-004607 – Teacă de Quartz 23 × 20 × 330 mm DO
+
+Puteți expedia produsul la următoarea adresă?
+
+79 Valea Tișei
+Șimon, România 507028
+
+Dacă este posibil, aș aprecia foarte mult dacă ați putea face expedierea cât mai curând.
+
+Vă mulțumesc!
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+On Thu, Jan 29, 2026 at 4:00 PM AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro> wrote:
+
+Dear Mr. Jonathan,
+
+I hope this e-mail finds you well!
+
+I want to inform you that based on our service program, one year has passed from the last changing of the UV lamp at the water treatment system.
+
+This is the reason I am sending you attached the updated price quote for all the consumables needed:
+
+2 filter cartridges – 25 microns
+
+2 filter cartridges – 1 micron
+
+1 lamp for the UV system [mandatory to be changed each year – you also have a timer on the ballast that alarms you when the UV lamp lifetime has reached its end]
+
+1 quartz sleeve - for the UV [ normally this should be exchange every 2-3 years ] – you can visual check it [ stop the water and remove it ] – it must be completely clear . Usually after 2 years some spots appear on it’s surface, and this will reduce the UV light pass through it. I also want to inform you – you can clean it with vinegar and a soft towel [ not to scratch it] – and if the spots disappear you can safely reuse it.
+
+I am looking forward in receiving a feedback from your side!
+
+All the best!
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Friday, January 31, 2025 1:34 PM
+To: 'Jonathan Sherry' <jonathantapitt@gmail.com>
+Cc: 'Akro Filtrare' <office@akro.ro>
+Subject: RE: Replace filters question
+
+Dear Mr. Jonathan,
+
+Thank you , we will load at the currier today the goods.
+
+There will be 2 boxes.
+
+My colleague will revert ASAP with all the transport details.
+
+With kind regards,
+
+From: Jonathan Sherry <jonathantapitt@gmail.com>
+Sent: Friday, January 31, 2025 1:11 PM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: Re: Replace filters question
+
+Hello,
+
+I have paid the invoice. Please ship the materials. I'll attach an image with payment confirmation.
+
+Jonathan
+
+On Fri, Jan 31, 2025 at 12:50 PM AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro> wrote:
+
+Dear Mr. Jonathan,
+
+Thank you for your confirmation!
+
+You can find attached the proforma invoice.
+
+We will deliver the goods in about 1-2 days from the moment we receive the payment proof.
+
+Thank you again!
+
+Best regards,
+
+From: Jonathan Sherry <jonathantapitt@gmail.com>
+Sent: Friday, January 31, 2025 12:44 PM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: Re: Replace filters question
+
+Hello. Thank you for the quick response.
+
+The 1 micron filters will work fine. Thank you. I can pay in advance via Bank Transfer. Send me the information for the bank transfer please.
+
+Shipping address:
+
+79 Valea Tisei
+Simon, Romania 507028
+
+Thank you!
+
+Yours kindly,
+
+Jonathan
+
+On Fri, Jan 31, 2025 at 12:30 PM AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro> wrote:
+
+Dear Mr. Jonathan,
+
+Thank you for your request!
+
+Unfortunately at this time we do not have in stock PRM5TX247 [ the cartridges of 5 microns] and it will take several weeks until we refill stocks;
+
+We can either replace them with 10 microns ones or 1 micron ones[ as you chose]. [ but we recommend the 1 microns for a more effective filtration]
+
+All the other parts + lamp are available in stock .
+
+Please find attached our offer [ I have put 1 micron cartridges instead of the 5 microns ones]
+
+We have also included the delivery via FAN CURIER to : Jon Sherry : 0792.308.221 ; 79 Valea Tisei, Simon, ROMANIA 507028
+
+Please let me know if our offer is corresponding to your demand , and if you agree with it , please inform us how would you like to make the payment [ in advance via Bank transfer before delivering of the goods, or cash at delivery to the currier]
+
+I am looking forward for your response!
+
+Best regards,
+
+From: Jonathan Sherry <jonathantapitt@gmail.com>
+Sent: Friday, January 31, 2025 12:06 PM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: Re: Replace filters question
+
+Hello Alexandru Soare and Akro,
+
+Am vorbit in trecuta despre filtrele mele. Asi avea nevoie de niste filtre. Gasiti mai jos filtrele de care am n
+
+--- MESAJ m2142244 | 2026-07-27 12:32 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: Replace filters - information
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Jonathan Sherry <jonathantapitt@gmail.com>
+Sent: Monday, July 27, 2026 12:18 PM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: Re: Replace filters - information
+
+Hi there.
+
+I have been having some minimal leakage at each end of my UV filter. I removed the quartz sleeve and found it had built up kalkar (because our water is very magnesium and calcium from the mountain water. I cleaned the sleeve, but the O-rings on each side are a little dislodged or not working as well as they used to, and that is why it is leaking.
+
+I have not replaced the quartz sleeve before, and its been 2-3 years. So I'd like to order one.
+
+To be exact:
+
+1 quartz sleeve - for the UV [ normally this should be exchange every 2-3 years ] – [27-004607] Teaca de Quartz 23 x 20 x 330 mm DO ------- you can visual check it [ stop the water and remove it ] – it must be completely clear . Usually after 2 years some spots appear on it’s surface, and this will reduce the UV light pass through it. I also want to inform you – you can clean it with vinegar and a soft towel [ not to scratch it] – and if the spots disappear you can safely reuse it.
+
+Can you ship it to 79 Valea Tisei, Șimon, ROMANIA 507028? As soon as possible if you can. Thank you.
+
+Thank you!
+
+= = = = = =
+
+RO:
+
+Bună ziua,
+
+Am observat o mică scurgere la ambele capete ale filtrului meu UV. Am demontat teaca de cuarț și am constatat că s-a depus calcar pe ea, deoarece apa de la noi, din zona montană, are un conținut ridicat de magneziu și calciu. Am curățat teaca, însă garniturile O-ring de la ambele capete par să fie ușor deplasate sau nu mai etanșează la fel de bine ca înainte, motiv pentru care apare scurgerea.
+
+Nu am înlocuit niciodată teaca de cuarț, iar aceasta este în funcțiune de aproximativ 2–3 ani, așa că aș dori să comand una nouă.
+
+Mai exact:
+
+1 × teacă de cuarț pentru sistemul UV – 27-004607 – Teacă de Quartz 23 × 20 × 330 mm DO
+
+Puteți expedia produsul la următoarea adresă?
+
+79 Valea Tișei
+Șimon, România 507028
+
+Dacă este posibil, aș aprecia foarte mult dacă ați putea face expedierea cât mai curând.
+
+Vă mulțumesc!
+
+On Thu, Jan 29, 2026 at 4:00 PM AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro> wrote:
+
+Dear Mr. Jonathan,
+
+I hope this e-mail finds you well!
+
+I want to inform you that based on our service program, one year has passed from the last changing of the UV lamp at the water treatment system.
+
+This is the reason I am sending you attached the updated price quote for all the consumables needed:
+
+2 filter cartridges – 25 microns
+
+2 filter cartridges – 1 micron
+
+1 lamp for the UV system [mandatory to be changed each year – you also have a timer on the ballast that alarms you when the UV lamp lifetime has reached its end]
+
+1 quartz sleeve - for the UV [ normally this should be exchange every 2-3 years ] – you can visual check it [ stop the water and remove it ] – it must be completely clear . Usually after 2 years some spots appear on it’s surface, and this will reduce the UV light pass through it. I also want to inform you – you can clean it with vinegar and a soft towel [ not to scratch it] – and if the spots disappear you can safely reuse it.
+
+I am looking forward in receiving a feedback from your side!
+
+All the best!
+
+From: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Sent: Friday, January 31, 2025 1:34 PM
+To: 'Jonathan Sherry' <jonathantapitt@gmail.com>
+Cc: 'Akro Filtrare' <office@akro.ro>
+Subject: RE: Replace filters question
+
+Dear Mr. Jonathan,
+
+Thank you , we will load at the currier today the goods.
+
+There will be 2 boxes.
+
+My colleague will revert ASAP with all the transport details.
+
+With kind regards,
+
+From: Jonathan Sherry <jonathantapitt@gmail.com>
+Sent: Friday, January 31, 2025 1:11 PM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subject: Re: Replace filters question
+
+Hello,
+
+I have paid the invoice. Please ship the materials. I'll attach an image with payment confirmation.
+
+Jonathan
+
+On Fri, Jan 31, 2025 at 12:
+
+--- MESAJ m2142308 | 2026-07-27 13:07 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Jonathan Sherry <jonathantapitt@gmail.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Replace filters - information
+Hello Mr. Jonathan,
+
+Please find attached the proforma invoice for 1 quartz sleeve.
+
+We have the product in stock .
+
+I have added 2 O-rings D22 with 3 mm thickness [ this will be sent with no charge] .
+
+The supplier does not deliver the O-rings and this are the closest ones to be used on your system.
+
+Please sent me the payment proof in order to organize the delivery!
+
+Thank you in advance!
+
+Best regards,
+[ATAȘAMENT: Factură proforma - SHERRY DIANA CRISTINA - 27.07.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2142436 | 2026-07-28 09:42 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Jonathan Sherry <jonathantapitt@gmail.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Replace filters - information
+Hello Mr. Jonathan,
+
+I want to inform you the goods are packed and ready for delivery.
+
+Could you please send me the payment proof in order for my colleagues to arrange the transport?
+
+I am looking forward for your response!
+
+Best regards,
+[ATAȘAMENT: Factură proforma - SHERRY DIANA CRISTINA - 27.07.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2106244 | 2026-07-28 12:50 | Inbox | EXTERN
+De la: Jonathan Sherry <jonathantapitt@gmail.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Re: Replace filters - information
+I'll do it now. Apologies.
+
+jonathan
+
+--- MESAJ m2106276 | 2026-07-28 12:52 | Inbox | EXTERN
+De la: Jonathan Sherry <jonathantapitt@gmail.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Re: Replace filters - information
+see attached
+[ATAȘAMENT: Transaction_DR00014885131473.pdf | PDF fără text (scanat)]
+
+####################################################################################################
+RÂND c2145540-2 (nr. 226.2) | stare: Completă | categorie: 27-Uv | cerere: Sisteme UV SITA de 30 și 20 mc/h
+CERINȚA: Cere ofertă pentru sistemele de tratare din caietul de sarcini atașat. [m2145540] «va rugam sa ne transmiteti o oferta de pret pentru sistemele de tratare din atasament.»
+CERINȚĂ FINALĂ (debit): UV DN80, 4 lămpi x 80 W, 30 mc/h [m2145540] «1 sistem UV – DN 80 – producator SITA – Italia – 4 lampi x 80 W»
+CERINȚĂ FINALĂ (debit): UV DN50, 3 lămpi x 80 W, 20 mc/h [m2145540] «1 sistem UV – DN 50 – producator SITA – Italia – 3 lampi x 80 W»
+CERINȚĂ FINALĂ (altele): protecție la supraîncălzire, funcționare cu apă caldă [m2145540] «cu protectie la supraincalzire [ sistemul poate lucra si cu apa calda]»
+CERINȚĂ FINALĂ (termen): 7-10 săptămâni pentru UV [m2145540] «pentru UV indiferent de varianta – 7-10 saptamani»
+TELEFON: După discuția telefonică, AKRO trimite o propunere proprie, făcând abstracție de caietul de sarcini. [m2145540] «Conform discutiei telefonice, revin la dumneavoastra cu propunerea noastra»
+REZULTAT: necunoscut
+PREȚURI Ofertă S02634 v1 (2026-08-05), total 22017.73 EUR:
+  [11-002151] Panou K800 model KPW05 pentru clor liber, H2O2, PAA, brom. Domeniu de masura pentru clor: 0÷0,5 / 1 / 2 / 5 / 10 / 20 /  | 1.0 buc × 1883.43 EUR | referință
+  [11-002150] Senzor de clor liber model K-FCL ORG/INOR: 0-5 ppm, 45°C, 3 bar, 4-10 pH, 0,01-60 mS, corp din PVC, electrozi din argint | 1.0 buc × 1289.79 EUR | referință
+  [11-002004] Cablu pentru senzori FCL, TCL, DCL, PAA, H2O2, O3, brom. Lungime: 1 m | 1.0 buc × 15.18 EUR | referință
+  [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie de un semn | 1.0 buc × 407.75 EUR | referință
+  [11-002098] Rezervor PE - stocare chimicale 50L | 1.0 buc × 112.5 EUR | referință
+  [27-001233] Sistem UV apa_UV 80/4 RACK LCD PLUS - 316 RM_Debit 30 m3/h_Doza UV 40 mJ/cm2_Putere 355W_Racord DN80_SITA , 4 lampi x 80 | 1.0 buc × 8071.09 EUR | referință
+  [27-005397] Optional SITA pentru gama LCD Rack - functionare cu apa calda | 4.0 buc × 99.0 EUR | referință
+  [27-001270] Sistem UV apa_80/3 RACK LCD PLUS 316_Debit 20 m3/h_Doza UV 40 mJ/cm2_Putere 266 W_Racord 2"_SITA | 1.0 buc × 5723.72 EUR | referință
+  [27-005397] Optional SITA pentru gama LCD Rack | 3.0 buc × 99.0 EUR | referință
+  termen: Metoda de plata: O.P.- se va discuta la momentul contractarii
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12luni de la livrare
+
+====================================================================================================
+CONVERSAȚIA c2145540 (nr. 226) | subiect: RE: cerere oferta
+Partener (după adrese): licam-prest.ro Marian Moldovan | grupare nesigură: nu
+OFERTĂ S02634 v1 trimisă 2026-08-05 10:23 în m2145540 (Odoo: Ofertă trimisă): [11-002151] Panou K800 model KPW05 pentru clor liber, H2O2, PAA, brom. Domeniu de masura pen x1.0 buc; [11-002150] Senzor de clor liber model K-FCL ORG/INOR: 0-5 ppm, 45°C, 3 bar, 4-10 pH, 0,01-6 x1.0 buc; [11-002004] Cablu pentru senzori FCL, TCL, DCL, PAA, H2O2, O3, brom. Lungime: 1 m x1.0 buc; [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual x1.0 buc; [11-002098] Rezervor PE - stocare chimicale 50L x1.0 buc; [27-001233] Sistem UV apa_UV 80/4 RACK LCD PLUS - 316 RM_Debit 30 m3/h_Doza UV 40 mJ/cm2_Put x1.0 buc; [27-005397] Optional SITA pentru gama LCD Rack - functionare cu apa calda x4.0 buc; [27-001270] Sistem UV apa_80/3 RACK LCD PLUS 316_Debit 20 m3/h_Doza UV 40 mJ/cm2_Putere 266  x1.0 buc; [27-005397] Optional SITA pentru gama LCD Rack x3.0 buc
+
+--- MESAJ m2145540 | 2026-08-05 10:23 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Marian Moldovan <marian.moldovan@licam-prest.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: cerere oferta
+Buna ziua Dl Moldovan,
+
+Va multumim pentru solicitarea dumneavoastra!
+
+Conform discutiei telefonice, revin la dumneavoastra cu propunerea noastra [ care face abstractie la caietul de sarcini trimis].
+
+Oferta anexata include:
+
+1 sistem de clorinare – pentru corectare nivel de clor in apa – pe recircularea unui bazin. Sistemul este compus din:
+
+Pompa Tpg 603 - TPG – Google Drive
+
+Rezervor 50L– Rezervoare Seko – Google Drive
+
+Panou K800 complet cu senzor de clor liber anorganic [ plaja0-2ppm ] – Model KPW005 – aplicatie de potabilizare cu certificat sanitar : https://drive.google.com/drive/folders/1VP5wHh0GSml5zA3_vLLHKYzmqk1KDJlM
+
+Fisa tehnica senzor: https://drive.google.com/drive/folders/14Q2OBarG3-w4iQERPMx14JDmNDLJbWOV
+
+1 sistem UV – DN 80 – producator SITA – Italia – 4 lampi x 80 W – cu protectie la supraincalzire [ sistemul poate lucra si cu apa calda] – Debit 30 mc/h
+
+Fise tehnice + manual anexat + informatie despre protectia la apa calda
+
+1 sistem UV – DN 50 – producator SITA – Italia – 3 lampi x 80 W – cu protectie la supraincalzire [ sistemul poate lucra si cu apa calda] – Debit 20 mc/h
+
+Fise tehnice + manual anexat + informatie despre protectia la apa calda
+
+Oferta anexata include livrarea produselor la beneficiar.
+
+Montajul , asamblarea si PIF-ul nu sunt incluse.
+
+Termenul estimate de livrare [ pentru clorinare 2-3 saptamani, pentru UV indiferent de varianta – 7-10 saptamani ]
+
+Pentru orice alte intrebari sau informatii, va stau cu placere la dispozitie!
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+-----Original Message-----
+From: Marian Moldovan marian.moldovan@licam-prest.ro
+Sent: Tuesday, August 4, 2026 1:04 PM
+To: sales@akro.ro
+Subject: cerere oferta
+
+Buna ziua,
+
+va rugam sa ne transmiteti o oferta de pret pentru sistemele de tratare din atasament.
+
+Va multumesc
+
+--
+
+Cu stima,
+
+SC LICAM PREST SRL
+
+ing Marian Moldovan
+
+0766757803
+[ATAȘAMENT: Oferta - S02634 - LICAM PREST - 05.08.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: OPT52_Acqua calda.pdf | text extras]
+[ATAȘAMENT: UV Rack LCD 80 W 110V - 120V EN 05-2023 RevD.pdf | text extras]
+[ATAȘAMENT: UV 80.3_LCD8005 eng.pdf | text extras]
+[ATAȘAMENT: UV 80.4 Spectra.pdf | text extras]
+
+####################################################################################################
+RÂND c2124580 (nr. 509) | stare: Completă | categorie: 27-Uv | cerere: Lampă UV și teacă de cuarț de schimb
+CERINȚA: Clientul semnalează că lampa UV nu mai funcționează (piuie transformatorul) și întreabă ce poate face. [m2124580] «Am constatat ca lampa uv din poza nu mai functioneaza.»
+CERINȚĂ FINALĂ (tip echipament): Lampă UV de schimb [m2124580] «Am constatat ca lampa uv din poza nu mai functioneaza.»
+CERINȚĂ FINALĂ (tip echipament): Teacă de schimb (cea existentă e crăpată) [m2126116] «Cand ne puteti trimite si o teaca?»
+CLARIFICARE: întrebare - → răspuns La schimbarea lămpii clientul constată că teaca e crăpată și cere și o teacă. [m2126116] «Incercand sa schimbam lampa a constata ca teaca este crapata si intra apa.» | schimbare: Pe lângă lampă, se cere și o teacă nouă.
+REZULTAT: acceptată — AKRO trimite confirmarea de comandă S02879 și expediază cu FAN Curier. [m2160868] «Anexata confirmarea – o punem astazi la FAN CURIER.»
+PREȚURI Confirmare de comandă S02879 v1 (2026-09-28), total 452.45 RON:
+  [27-004595] Teaca de Quartz 23 x 1.5 x 680 mm SO | 1.0 buc × 326.9 RON | referință
+  [27-004654] O-ring D23 | 1.0 buc × 6.22 RON | referință
+  [16-003005] Livrare si ambalare | 1.0 buc × 40.8 RON | referință
+  termen: Modul de livrare: In sarcina Akro
+
+====================================================================================================
+CONVERSAȚIA c2124580 (nr. 509) | subiect: Fwd: Lampă uv
+Partener (după adrese): geamanu.com Alexandru Geamanu | grupare nesigură: nu
+OFERTĂ S02879 v1 trimisă 2026-09-28 09:04 în m2160868 (Odoo: Comandă de vânzare): [27-004595] Teaca de Quartz 23 x 1.5 x 680 mm SO x1.0 buc; [27-004654] O-ring D23 x1.0 buc; [16-003005] Livrare si ambalare x1.0 buc
+
+--- MESAJ m2124580 | 2026-09-22 18:47 | Inbox | EXTERN
+De la: Alexandru Geamanu <alex@geamanu.com>
+Către: Lampi UV Adrian Ciobanu <vanzari@lampi-uv.ro>
+Cc: alexandru.soare@akro.ro
+Subiect: Fwd: Lampă uv
+Buna ziua,
+
+Am constatat ca lampa uv din poza nu mai functioneaza. Sau cel putin asa credem, pentru ca piuie transformatorul. Ce putem face?
+
+Multumesc,
+
+Alexandru
+
+Sent from my iPhone
+
+Begin forwarded message:
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Alexandru Geamanu <alex@geamanu.com>
+Date: 22 September 2026 at 18:44:23 EEST
+To: Alexandru Geamanu <alex@geamanu.com>
+Subject: Lampă uv
+
+﻿
+
+Sent from my iPhone
+
+--- MESAJ m2126116 | 2026-09-28 08:14 | Inbox | EXTERN
+De la: Alexandru Geamanu <alex@geamanu.com>
+Către: Lampi UV Adrian Ciobanu <vanzari@lampi-uv.ro>
+Cc: alexandru.soare@akro.ro
+Subiect: Re: Lampă uv
+Buna ziua,
+
+Incercand sa schimbam lampa a constata ca teaca este crapata si intra apa. Cand ne puteti trimite si o teaca?
+
+Multumesc,
+
+Alexandru
+
+--- MESAJ m2160836 | 2026-09-28 08:55 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: Lampă uv
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Alexandru Geamanu <alex@geamanu.com>
+Sent: Monday, September 28, 2026 8:15 AM
+To: Lampi UV Adrian Ciobanu <vanzari@lampi-uv.ro>
+Cc: Romania , Alexandru Soare Akro <alexandru.soare@akro.ro>
+Subject: Re: Lampă uv
+
+Buna ziua,
+
+Incercand sa schimbam lampa a constata ca teaca este crapata si intra apa. Cand ne puteti trimite si o teaca?
+
+Multumesc,
+
+Alexandru
+
+On Tue, Sep 22, 2026 at 6:47 PM Alexandru Geamanu <alex@geamanu.com> wrote:
+
+Buna ziua,
+
+Am constatat ca lampa uv din poza nu mai functioneaza. Sau cel putin asa credem, pentru ca piuie transformatorul. Ce putem face?
+
+Multumesc,
+
+Alexandru
+
+Sent from my iPhone
+
+Begin forwarded message:
+
+From: Alexandru Geamanu <alex@geamanu.com>
+Date: 22 September 2026 at 18:44:23 EEST
+To: Alexandru Geamanu <alex@geamanu.com>
+Subject: Lampă uv
+
+﻿
+
+Sent from my iPhone
+
+--
+
+Alexandru Geamanu
+
+0731 707 344
+
+Owner Fabrica de bere buna
+
+--- MESAJ m2160868 | 2026-09-28 09:04 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Alexandru Geamanu <alex@geamanu.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Lampă uv
+Buna dimineata,
+
+Anexata confirmarea – o punem astazi la FAN CURIER.
+
+Cu respect,
+[ATAȘAMENT: Comanda - S02879 - Fabrica de Bere Buna - 28.09.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2126212 | 2026-09-28 09:10 | Inbox | EXTERN
+De la: Alexandru Geamanu <alex@geamanu.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Re: Lampă uv
+Mulțumim
+
+####################################################################################################
+RÂND c2161956-3 (nr. 556.3) | stare: Completă | categorie: 27-Uv | cerere: Sterilizator UV 60 m³/h DN100
+CERINȚA: Cere un sterilizator UV pentru distribuția către consumatori, 60 m³/h, DN100, inox 316L. [m2161956] «3. Sterilizator UV pentru distribuția către consumatori – 1 buc.»
+CERINȚĂ FINALĂ (debit): Debit maxim 60 m³/h la T10 = 90% [m2161956] «debit maxim tratat: 60 m³/h la T10 = 90%;»
+CERINȚĂ FINALĂ (tensiune): 220 V / 50 Hz [m2161956] «alimentare: 220 V / 50 Hz;»
+CERINȚĂ FINALĂ (racord): DN100 cu flanșe [m2161956] «conexiuni: DN100, cu flanșe;»
+CERINȚĂ FINALĂ (altele): Doză UV minimum 25 mJ/cm² la sfârșitul duratei de viață a lămpii [m2161956] «doză de radiație UV: minimum 25 mJ/cm²,»
+CERINȚĂ FINALĂ (altele): Camera reactorului din inox 316L [m2161956] «camera reactorului: oțel inoxidabil 316L.»
+CLARIFICARE: întrebare - → răspuns AKRO ofertă sistemul UV cu racorduri DN100 (conexiuni înlocuite din fabrică), curățare manuală a tecilor, reactor inox 316. [m2161956] «cu sistem de curatare al tecilor actionat manual, reactor din inox 316» | schimbare: UV AM 60 RM cu curățare manuală a tecilor (nu automată) și racorduri DN100.
+REZULTAT: necunoscut
+PREȚURI Ofertă S02891 v1 (2026-09-29), total 32133.73 EUR:
+  [01-008099] Filtru automat cu cos filtrant - orizontal, sita din inox -100 micron - SUF 4" - DN100 - Vopsit epoxy albastru | 1.0 buc × 6912.0 EUR | referință
+  [01-008126] Filtru cu turbidex - BS-4272HF/111, 792 L masa filtranta - vana RX-111A- DTF 2” | 2.0 buc × 5857.38 EUR | referință
+  [27-001254] Sistem UV apa_AM 60 RM_Debit 60 m3/h_Doza UV 25mJ/cm2_Putere 400W_Racord DN80_316_RM_SITA_ cu sistem de curatare manuala | 1.0 buc × 12616.53 EUR | referință
+  [-] Reducere: 15.00% | 1.0 buc × -4686.49 EUR | serviciu
+  termen: Metoda de plata: O.P. - se va stabili la momentul contractarii
+  termen: Modul de livrare: In sarcina Akro
+  termen: Garantie: 12 luni de la livrare
+
+====================================================================================================
+CONVERSAȚIA c2161956 (nr. 556) | subiect: RE: CERERE OFERTA LICITATIE_Spital IROT Timisoara
+Partener (după adrese): pald.ro Rada Alexandru | grupare nesigură: nu
+OFERTĂ S02891 v1 trimisă 2026-09-29 14:30 în m2161956 (Odoo: Ofertă trimisă): [01-008099] Filtru automat cu cos filtrant - orizontal, sita din inox -100 micron - SUF 4" - x1.0 buc; [01-008126] Filtru cu turbidex - BS-4272HF/111, 792 L masa filtranta - vana RX-111A- DTF 2” x2.0 buc; [27-001254] Sistem UV apa_AM 60 RM_Debit 60 m3/h_Doza UV 25mJ/cm2_Putere 400W_Racord DN80_31 x1.0 buc; [-] Reducere: 15.00% x1.0 buc
+
+--- MESAJ m2161956 | 2026-09-29 14:30 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Rada Alexandru <alexandru.rada@pald.ro>
+Cc: andrei.dobrei@akro.ro, office@akro.ro
+Subiect: RE: CERERE OFERTA LICITATIE_Spital IROT Timisoara
+Buna ziua Dl Rada,
+
+Asa cum am discutat la telefon, va trimitem anexata cea mai ieftina varianta de oferta pentru sistemul de filtrare solicitat, dar care sa respecte si caracteristicile tehnice indicate. [ pentru licitatie]
+
+Oferta anexata include:
+
+Un filtru SUF 4” cu autocuratare – orizontal – automat – vopsit in rasina epoxy albastra [ singurul lucru pe care nu il respecta acest filtru este strict temperatura maxima a apei acceptate – care nu poate depasi 40 de grade C]
+
+Doua filtre cu turbidex cu 792 kg material fiecare: fisa tehnica + poza din catalog cu produsul anexate
+
+Sistem UV – conform configuratiei cerute - cu racorduri in/out Dn100 [ fisa tehnica este pentru standard – dar pretul oferit include costul de inlocuire al conexiunilor din fabrica pe Dn100] – cu sistem de curatare al tecilor actionat manual, reactor din inox 316 – debit de tratat 60m3/h considerand o doza de uv de 25mJ/cm2
+
+Oferta anexata include livrarea produselor la beneficiar.
+
+Asamblarea produselor, montajul si PIF-ul nu sunt incluse.
+
+Pentru orice alte informatii sau intrebari, va stau cu placere la dispozitie!
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Rada Alexandru alexandru.rada@pald.ro
+Sent: Monday, September 28, 2026 10:12 AM
+To: sales@akro.ro; contact@akro.ro
+Subject: FW: CERERE OFERTA LICITATIE_Spital IROT Timisoara
+
+Bună ziua,
+
+În completarea solicitării transmise anterior, vă atașăm și schema funcțională aferentă gospodăriei de apă pentru consum menajer, pentru o mai bună înțelegere a configurației instalației și a modului de integrare a echipamentelor solicitate.
+
+Mulțumesc.
+
+Cu stima,
+
+Disclaimer: This message contains confidential information and is intended only for the individual named. If you are not the named addressee you should not disseminate, distribute or copy this e-mail. Please notify the sender immediately by e-mail if you have received this e-mail by mistake and delete this e-mail from your system. E-mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted, lost, destroyed, arrive late or incomplete, or contain viruses. The sender therefore does not accept liability for any errors or omissions in the contents of this message, which arise as a result of e-mail transmission. If verification is required please request a hard-copy version.
+
+Please consider the environment before printing this email.
+
+From: Rada Alexandru
+Sent: Friday, September 25, 2026 1:21 PM
+To: 'sales@akro.ro' <sales@akro.ro>; 'contact@akro.ro' <contact@akro.ro>
+Subject: CERERE OFERTA LICITATIE_Spital IROT Timisoara
+
+Bună ziua,
+
+În vederea participării la procedura de ofertare pentru proiectul „Institutul Regional de Oncologie Timișoara”, vă rugăm să ne transmiteți oferta dumneavoastră tehnico-comercială pentru următoarele echipamente aferente stației de tratare a apei potabile:
+
+1. Filtru mecanic industrial cu spălare inversă automată – 1 buc.
+
+Caracteristici solicitate:
+
+presiune maximă: 10 bar;
+
+conexiune: DN100;
+
+debit maxim: 85 m³/h;
+
+finețe de filtrare: 100 microni;
+
+elemente filtrante lavabile din oțel inoxidabil;
+
+prindere cu flanșe;
+
+2 manometre;
+
+domeniu temperatură: 4–93°C.
+
+2. Instalație automată de filtrare cu Turbidex – sistem duplex paralel – 1 ansamblu (2 filtre)
+
+Caracteristici solicitate:
+
+număr filtre: 2;
+
+funcționare: în paralel;
+
+mediu filtrant: Turbidex;
+
+cantitate mediu filtrant: aprox. 793 kg/filtru;
+
+suprafață de filtrare: 0,88 m²/filtru;
+
+debit apă filtrată: 26–43 m³/h/filtru;
+
+debit necesar pentru spălare inversă: 30,8 m³/h/filtru;
+
+presiune minimă: 2,5 bar;
+
+presiune maximă: 5,5 bar;
+
+proces automat de spălare;
+
+spălarea mediului filtrant cu apă curată.
+
+3. Sterilizator UV pentru distribuția către consumatori – 1 buc.
+
+Caracteristici solicitate:
+
+debit maxim tratat: 60 m³/h la T10 = 90%;
+
+alimentare: 220 V / 50 Hz;
+
+sistem complet automatizat, cu avertizare lampă defectă și contor ore de funcționare;
+
+senzor UV;
+
+sistem de curățare a tecilor de quartz;
+
+doză de radiație UV: minimum 25 mJ/cm², valoare medie la sfârșitul duratei de viață a lămpii;
+
+presiune maximă apă: minimum 6 bar;
+
+conexiuni: DN100, cu flanșe;
+
+camera reactorului: oțel inoxidabil 316L.
+
+Vă rugăm ca oferta să includă toate componentele și accesoriile necesare realizării unor sisteme complete și funcționale, precum și fișele tehnice aferente echipamentelor ofertate.
+
+În cazul în care configurațiile solicitate nu sunt disponibile în gama dumneavoastră standard, vă rugăm să ne propuneți echipamente echivalente sau superioare, cu respectarea parametrilor tehnici menționați.
+
+Atașat vă transmitem și extrasul din memoriul tehnic aferent instalației de tratare a apei, pentru o mai bună înțelegere a soluției proiectate.
+
+De asemenea, vă rugăm să ne comunicați prețurile pentru faza de ofertare, termenul estimativ de livrare, condițiile de plată, valabilitatea ofertei și garanția echipamentelor.
+
+Mulțumesc,
+
+Cu stima,
+
+Disclaimer: This message contains confidential information and is intended only for the individual named. If you are not the named addressee you should not disseminate, distribute or copy this e-mail. Please notify the send
+[ATAȘAMENT: Fisa tehnica_Filtru cu autocuratare_otel carbon.pdf | text extras]
+[ATAȘAMENT: Fisa tehnica - filtru 792 -cu Turbidex - VANE RX.pdf | text extras]
+[ATAȘAMENT: Detalii tehnice amanuntite - filtru turbidex.png | imagine]
+[ATAȘAMENT: AM 60 Rack LCD RM_uvt90pct_TDS.pdf | text extras]
+[ATAȘAMENT: Oferta - S02891 - PALD - 29.09.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2127236 | 2026-09-29 14:33 | Inbox | EXTERN
+De la: Rada Alexandru <alexandru.rada@pald.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: andrei.dobrei@akro.ro, office@akro.ro
+Subiect: RE: CERERE OFERTA LICITATIE_Spital IROT Timisoara
+Buna ziua,
+
+Multumesc frumos pentru oferta transmisa.
+
+O sa va tin la curent cu evolutia proiectului si cu informatiile noi care o sa apara.
+
+Cu stima,
+
+Disclaimer: This
+message contains confidential information and is intended only for the individual named. If you are not the named addressee you should not disseminate, distribute or copy this e-mail. Please notify the sender immediately by e-mail if you have received this
+e-mail by mistake and delete this e-mail from your system. E-mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted, lost, destroyed, arrive late or incomplete, or contain viruses. The sender therefore
+does not accept liability for any errors or omissions in the contents of this message, which arise as a result of e-mail transmission. If verification is required please request a hard-copy version.
+
+Please consider the environment before printing this email.
+
+####################################################################################################
+RÂND c2129828-1 (nr. 606.1) | stare: Completă | categorie: 27-Uv | cerere: Sterilizator UV apă potabilă 40 m³/h (fișa F5-06)
+CERINȚA: Cere ofertă pentru licitația Spitalului Buftea: sterilizator UV apă rece potabilă Q=40 mc/h, conform fișei F5-06. [m2129828] «Sterilizator UV apa rece potabila - Q=40 mc/h | buc | 1 | IS F5-06»
+CERINȚĂ FINALĂ (debit): Debit nominal 40 m³/h (maxim 46 m³/h) [m2129828] «Debit nominal sterilizator UV: 40 m³/h»
+CERINȚĂ FINALĂ (altele): Doză UV garantată ≥ 40 mJ/cm² la UVT 90% [m2129828] «Doză UV garantată: ≥ 40 mJ/cm² la UVT = 90 %/1 cm»
+CERINȚĂ FINALĂ (altele): Reactor din inox AISI 316L [m2129828] «Material reactor: Oțel inox AISI 316L (interior pasivat)»
+CERINȚĂ FINALĂ (altele): Presiune nominală PN 10–16 bar [m2129828] «Presiune nominală: PN 10–16 bar»
+CERINȚĂ FINALĂ (racord): DN 100, flanșe PN16 [m2129828] «Conexiuni: DN 100 – flanșe PN16»
+CLARIFICARE: întrebare - → răspuns AKRO ofertează SITA AM 96 ECO cu opțiune PN16 (varianta PLUS). [m2165636] «Am ofertat modelul de la SITA – UV AM 96 ECO – PN16 si varianta PLUS» | schimbare: Echipament propus: SITA AM 96 ECO PLUS cu opțiunea de 16 bar.
+REZULTAT: necunoscut
+PREȚURI Ofertă S02934 v1 (2026-10-08), total 48363.05 EUR:
+  [27-001300] Sistem_UV_apa_AM 96 ECO PLUS 316L_Putere 666W_doza UV 40 mJ/cmp@UVT 90%_debit max.55 m3/h_SITA | 1.0 buc × 11756.42 EUR | referință
+  [27-001301] Optiune presiune 16_BAR_pentru sitem UV apa_AM96_SITA | 1.0 buc × 600.0 EUR | referință
+  [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 | 1.0 buc × 131.63 EUR | referință
+  [11-002026] LANCE DE ASPIRATIE CU SENZOR DE NIVEL PENTRU REZERVOR 100L, CONEXIUNI 4x6mm | 1.0 buc × 105.98 EUR | referință
+  [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie de un semn | 1.0 buc × 407.75 EUR | referință
+  [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 | 1.0 buc × 525.0 EUR | referință
+  [13-001308] DEC 700-2QC/duplex, Statie dedurizare - duplex, racord 2QC", 700L rasina pe fiecare coloana - Vana Clack - CI -2QC" | 1.0 buc × 15947.64 EUR | referință
+  [13-001164] Statie dedurizare duplex 2x700L, Vana RX99 - 2" | 1.0 buc × 10495.04 EUR | referință
+  termen: Metoda de plata: O.P. / Cash / CEC / B.O.
+  termen: Modul de livrare: DPD / TNT / Curieri rapid / In sarcina Akro / In sarcina beneficiarului
+  termen: Garantie: 12/24 luni de la livrare
+
+====================================================================================================
+CONVERSAȚIA c2129828 (nr. 606) | subiect: cerere oferta spital Buftea
+Partener (după adrese): porr.ro Cireasa Mihai-Cezar | grupare nesigură: nu
+OFERTĂ S02934 v1 trimisă 2026-10-08 12:51 în m2165636 (Odoo: nu e în lista Odoo): [27-001300] Sistem_UV_apa_AM 96 ECO PLUS 316L_Putere 666W_doza UV 40 mJ/cmp@UVT 90%_debit ma x1.0 buc; [27-001301] Optiune presiune 16_BAR_pentru sitem UV apa_AM96_SITA x1.0 buc; [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 x1.0 buc; [11-002026] LANCE DE ASPIRATIE CU SENZOR DE NIVEL PENTRU REZERVOR 100L, CONEXIUNI 4x6mm x1.0 buc; [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual x1.0 buc; [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 x1.0 buc; [13-001308] DEC 700-2QC/duplex, Statie dedurizare - duplex, racord 2QC", 700L rasina pe fiec x1.0 buc; [13-001164] Statie dedurizare duplex 2x700L, Vana RX99 - 2" x1.0 buc
+
+--- MESAJ m2129828 | 2026-10-07 09:39 | Inbox | EXTERN
+De la: Cireasa Mihai-Cezar <mihai.cireasa@porr.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro
+Subiect: cerere oferta spital Buftea
+Best regards/Cu stima
+
+Cireasa Mihai-Cezar
+
+Project Manager MEP
+
+Building Construction Division
+
+PORR CONSTRUCT SRL
+
+Sediu social: Bd. Dimitrie Pompeiu, nr. 5-7, Spatiul A, Etaj 3
+
+Metroffice, Bucuresti, Sector 2
+
+M.:+40 724 204 899
+
+T. : +40 (0) 21 312 65 00
+
+F. : +40 (0) 21 312 65 01
+
+construct@porr.ro (
+www.porr.ro
+
+Nr. R.C. J2004011341404, C.F. RO16601724
+[ATAȘAMENT: F5-06.xlsx | text extras]
+## F5-06
+Proiect: | CONSTRUIRE, DOTARE ȘI AMENAJARE A SPITALULUI DE OBSTETRICĂ-GINECOLOGIE BUFTEA ȘI DESFIINȚARE CONSTRUCȚII EXISTENTE (C1–C15),RELOCARE STAȚIE DE OXIGEN ȘI RELOCARE GOSPODĂRIE APĂ
+Beneficiar: | Consiliu Judetean Ilfov
+Adresa: | Amplasamentul obiectivului este: pentru imobilul situat în județul ILFOV, orașul BUFTEA, cod poștal 070000, str. STUDIOULUI nr. 5, DOCUMENTAȚII CADASTRALE NR. 56924, 56925
+Proiectant:
+Nr. proiect:
+Specialitate: | INSTALATII SANITARE SI STINGERE INCENDIU
+Faza: | S.F.
+Formular F5: Fisele tehnice pentru echipamente, dotari
+Nr. | Specificatii tehnice impuse prin caietul de sarcini | Corespondenta propunerii tehnice cu specificatiile tehnice impuse prin caietul de sarcini | Furnizor/Producator
+
+0 | 1 | 2 | 3
+Fisa tehnica nr. 06
+Utilajul, echipamentul tehnologic: Sterilizator UV apa rece potabila
+1
+| Debit nominal sterilizator UV: 40 m³/h
+Debit maxim sterilizator UV: 46 m³/h
+Număr lămpi UV: 4–6 × 400 W (amalgam)
+Tip lampă: UV-C 254 nm, tip amalgam, durată de viață ≥ 12 000 h
+Doză UV garantată: ≥ 40 mJ/cm² la UVT = 90 %/1 cm
+Material reactor: Oțel inox AISI 316L (interior pasivat)
+Material manșoane: Cuarț optic UV-C, transparență ≥ 90 %
+Presiune nominală: PN 10–16 bar
+Pierdere de sarcină: ≤ 0,2 bar la debit nominal
+Temperatură maximă apă: 40 °C
+Dimensiune reactor (orientativ): L ≈ 1500 mm; Ø ≈ 300 mm
+Conexiuni: DN 100 – flanșe PN16
+Panou comandă: IP54, montaj pe perete, afișaj digital doză UV, contor ore, alarme vizuale/acustice
+Consum total 
+[ATAȘAMENT: F5-07.xlsx | text extras]
+## F5-07
+Proiect: | CONSTRUIRE, DOTARE ȘI AMENAJARE A SPITALULUI DE OBSTETRICĂ-GINECOLOGIE BUFTEA ȘI DESFIINȚARE CONSTRUCȚII EXISTENTE (C1–C15),RELOCARE STAȚIE DE OXIGEN ȘI RELOCARE GOSPODĂRIE APĂ
+Beneficiar: | Consiliu Judetean Ilfov
+Adresa: | Amplasamentul obiectivului este: pentru imobilul situat în județul ILFOV, orașul BUFTEA, cod poștal 070000, str. STUDIOULUI nr. 5, DOCUMENTAȚII CADASTRALE NR. 56924, 56925
+Proiectant:
+Nr. proiect:
+Specialitate: | INSTALATII SANITARE SI STINGERE INCENDIU
+Faza: | S.F.
+Formular F5: Fisele tehnice pentru echipamente, dotari
+Nr. | Specificatii tehnice impuse prin caietul de sarcini | Corespondenta propunerii tehnice cu specificatiile tehnice impuse prin caietul de sarcini | Furnizor/Producator
+
+0 | 1 | 2 | 3
+Fisa tehnica nr. 07
+Utilajul, echipamentul tehnologic: Kit de clorinare
+1
+| Componență și caracteristici:
+- Vas de stocare soluție hipoclorit cu sorb și senzor de nivel
+- Pompă dozatoare (cap compatibil chimic), supapă de injecție/reținere
+- Contor apă cu generator de impuls pentru dozare proporțională
+- Accesorii: furtun aspirație/refulare, filtre, suporturi, elemente de etanșare
+- Tablou local cu protecții electrice de bază
+2 | SPECIFICATII DE PERFORMANTA SI CONDITII PRIVIND SIGURANTA IN EXPLOATARE
+- Reglaj manual/proporțional
+- Materiale compatibile cu hipoclorit
+3 | CONDITII PRIVIND CONFORMITATEA CU STANDARDELE RELEVANTE
+Executie conform normelor CEE
+Se furnizeaza cu:
+· Certificat de conformitate “CE”
+· Manual de operare si intretin
+[ATAȘAMENT: F5-20.xlsx | text extras]
+## F5-20
+Proiect: | CONSTRUIRE, DOTARE ȘI AMENAJARE A SPITALULUI DE OBSTETRICĂ-GINECOLOGIE BUFTEA ȘI DESFIINȚARE CONSTRUCȚII EXISTENTE (C1–C15),RELOCARE STAȚIE DE OXIGEN ȘI RELOCARE GOSPODĂRIE APĂ
+Beneficiar: | Consiliu Judetean Ilfov
+Adresa: | Amplasamentul obiectivului este: pentru imobilul situat în județul ILFOV, orașul BUFTEA, cod poștal 070000, str. STUDIOULUI nr. 5, DOCUMENTAȚII CADASTRALE NR. 56924, 56925
+Proiectant:
+Nr. proiect:
+Specialitate: | INSTALATII SANITARE SI STINGERE INCENDIU
+Faza: | S.F.
+Formular F5: Fisele tehnice pentru echipamente, dotari
+Nr. | Specificatii tehnice impuse prin caietul de sarcini | Corespondenta propunerii tehnice cu specificatiile tehnice impuse prin caietul de sarcini | Furnizor/Producator
+
+0 | 1 | 2 | 3
+Fisa tehnica nr. 20
+Utilajul, echipamentul tehnologic: Statie completa pentru tratarea apelor uzate
+1
+| Caracteristici tehnice:
+- debit tratat: 42 m³/h (funcționare continuă);
+- sită mecanică cu presă integrată, fante 1 mm, spălare automată; evacuare reziduuri în container tip pubelă min. 660 L;
+- bazin de neutralizare/pH: volum util cca. 4 m³ (≥ 5 min timp de retenție la 42 m³/h), material PP/PEHD, cu agitator vertical inox, senzor nivel (min/max) și senzor pH + regulator;
+- pompe dozare chimicale pH: 2+2 buc. (acid/alcalin) – rezervă 100%, domeniu reglaj 0–60 l/h, presiune min. 5 bar, cap de pompare PVDF/PP, furtun PTFE; include vase de calibrare, supape sens și supape de siguranță;
+- sistem dezinfecție UV pentru efluent preepurat: re
+[ATAȘAMENT: F5-23.xlsx | text extras]
+## F5-23
+Proiect: | CONSTRUIRE, DOTARE ȘI AMENAJARE A SPITALULUI DE OBSTETRICĂ-GINECOLOGIE BUFTEA ȘI DESFIINȚARE CONSTRUCȚII EXISTENTE (C1–C15),RELOCARE STAȚIE DE OXIGEN ȘI RELOCARE GOSPODĂRIE APĂ
+Beneficiar: | Consiliu Judetean Ilfov
+Adresa: | Amplasamentul obiectivului este: pentru imobilul situat în județul ILFOV, orașul BUFTEA, cod poștal 070000, str. STUDIOULUI nr. 5, DOCUMENTAȚII CADASTRALE NR. 56924, 56925
+Proiectant:
+Nr. proiect:
+Specialitate: | INSTALATII SANITARE SI STINGERE INCENDIU
+Faza: | S.F.
+Formular F5: Fisele tehnice pentru echipamente, dotari
+Nr. | Specificatii tehnice impuse prin caietul de sarcini | Corespondenta propunerii tehnice cu specificatiile tehnice impuse prin caietul de sarcini | Furnizor/Producator
+
+0 | 1 | 2 | 3
+Fisa tehnica nr. 23
+Utilajul, echipamentul tehnologic: Statie de dedurizare a apei tip duplex
+1
+| Statie de dedurizare a apei tip duplex
+Debitul: 15 m³/h
+- Valoarea duritatii apei la intrare in statie = 37 grade franceze;
+- Valoarea duritatii apei la iesire din statie = 6 grade franceze.
+2 | Specificatii de performanta si conditii privind siguranta in exploatare
+Echipamentele vor fi insotite de cartea tehnica, certificat de calitate si garantie
+
+3 | Conditii privind conformitatea cu standardele relevante
+Echipamentul va fi fabricat cf. normelor UE ISO 9001, ISO 14001.
+4 | Conditii de garantie si postgarantie
+Garantie: minim 7 ani de la punerea in functiune, orice inlocuire a echipamentului in timpul perioadei de garantie va duce la prel
+[ATAȘAMENT: TRATARE APA.xlsx | text extras]
+## Sheet1
+Statie de dedurizare a apei tip duplex | buc | 1 | IS F5-23
+Sterilizator UV apa rece potabila - Q=40 mc/h | buc | 1 | IS F5-06
+Kit de clorinare | buc | 1 | IS F5-07
+Statie completa pentru tratarea apelor uzate (preepurare mecanica cu sita si presa, bazin egalizare/neutralizare din PP cu agitator si reglare pH, pompe dozare acide/bazice, stocare substante chimice, debitmetru, pompe evacuare, dozare hipoclorit, mixer static, dezinfectie UV, tablou automatizare PLC touchscreen) | buc | 1 | IS F5-20
+
+--- MESAJ m2164548 | 2026-10-07 09:46 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: cerere oferta spital Buftea
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Cireasa Mihai-Cezar <mihai.cireasa@porr.ro>
+Sent: Wednesday, October 7, 2026 9:39 AM
+To: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: 'Akro Filtrare' <office@akro.ro>
+Subject: cerere oferta spital Buftea
+
+Best regards/Cu stima
+
+Cireasa Mihai-Cezar
+
+Project Manager MEP
+
+Building Construction Division
+
+PORR CONSTRUCT SRL
+
+Sediu social: Bd. Dimitrie Pompeiu, nr. 5-7, Spatiul A, Etaj 3
+
+Metroffice, Bucuresti, Sector 2
+
+M.:+40 724 204 899
+
+T. : +40 (0) 21 312 65 00
+
+F. : +40 (0) 21 312 65 01
+
+construct@porr.ro ( www.porr.ro
+
+Nr. R.C. J2004011341404, C.F. RO16601724
+[ATAȘAMENT: F5-06.xlsx | text extras]
+[ATAȘAMENT: F5-07.xlsx | text extras]
+[ATAȘAMENT: F5-20.xlsx | text extras]
+[ATAȘAMENT: F5-23.xlsx | text extras]
+[ATAȘAMENT: TRATARE APA.xlsx | text extras]
+
+--- MESAJ m2165636 | 2026-10-08 12:51 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Cireasa Mihai-Cezar <mihai.cireasa@porr.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: cerere oferta spital Buftea
+Buna ziua Dl Cireasa,
+
+Va multumim pentru solicitarea dumneavoastra!
+
+Va rog sa regasiti anexata cotatia de pret pentru 3 din echipamentele solicitate in fisele tehnice aferente acestei licitatii:
+
+Fisa tehnica – F5-06 – Sterilizator UV – PN16
+
+Am ofertat modelul de la SITA – UV AM 96 ECO – PN16 si varianta PLUS [ anexat regasiti fisa tehnica]
+
+Fisa tehnica – F5-07- Statie de clorinare
+
+Aici nu sunt detalii despre gabarit , insa am considerat teava de montaj DN100 si presiune in teava nu mai mare de 10bar.
+
+Rezervor de 100L PE
+
+Lance de aspiratie rigida cu senzor de nivel
+
+Pompa dozatoare TPG 603 [ cu kit de injectie inclus]
+
+Contoar mecanic – DN 100 – cu modul inductiv 1/100 [ care sa trimita semnal la pompa]
+
+Sistemul propus nu are un tablou de automatizare separat – practic statia se alimenteaza cu tensiune – se regleaza si dozaeaza volumetric - din calculatorul integrat in pompa [ meniul pompei]
+
+Fisa tehnica – F5-23 – trebuie sa alegeti o varianta din cele doua propuse de statii de dedurizare :
+
+Produs 13-001308 – Dedurizator CLACK [SUA] – de 700L DEC 700 – 2QC
+
+Produs 13-001164 – Dedurizator RUNXIN[China] – de 700L
+
+Ambele variante de sisteme vor functiona – dar exista diferente de calitate:
+
+Spre exemplu vanele din China nu pot fi servisate in timp ce la Clack se pot inlocui toate piesele interne in mai putin de 10 minute
+
+Vanele Clack au corp din alama – vanele chinezesti sunt complet din plastic.
+
+S.a.
+
+Oferta include livrarea produselor la beneficiar.
+
+Montajul si PIF-ul nu sunt incluse
+
+Garantia standard pentru aceste produse este de 12 luni – se poate extinde garantia pana la maxim 5 ani – contra cost – pretul fiind de 5% din valoarea proiectului/ an
+
+Pentru orice alte informatii sau intrebari, va stau cu placere la dispozitie!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02934 - PORR CONSTRUCT - 08.10.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: AM 96 ECO eng.pdf | text extras]
+[ATAȘAMENT: Fisa tehnica_Pompa de dozare TPG.pdf | text extras]
+[ATAȘAMENT: Fisa tehnica_Vas stocare chimicale 100 litri.pdf | text extras]
+[ATAȘAMENT: Fisa tehnica WPD WPHD RO DG.pdf | text extras]
+[ATAȘAMENT: Fisa tehnica WPD WPHD RO DG.pdf | text extras]
+[ATAȘAMENT: Fisa tehnica - Statie de dedurizare - duplex,700L -  2QC.pdf | text extras]
+[ATAȘAMENT: BS_2800_D2_RX99.pdf | text extras]
+[ATAȘAMENT: FT - DEDURIZARE DUPLEX.pdf | text extras]
+
+####################################################################################################
+RÂND c2101508 (nr. 94) | stare: Fără ofertă | categorie: 27-Uv | cerere: Documente de calitate pentru sistemul UV Izvoare Resort
+CERINȚA: Cere documentele de calitate (declarație de conformitate CE, declarație de performanță etc.) pentru sistemul UV cumpărat pentru Izvoare Resort. [m2101508] «trimiti te rog documentele de calitate disponibile (declaratie de»
+CERINȚĂ FINALĂ (altele): Sistemul UV a fost achiziționat cu factura 260290 din 28.05.2026 [m2101508] «cu factura 260290 din 28.05.2026»
+REZULTAT: necunoscut
+
+
+====================================================================================================
+CONVERSAȚIA c2101508 (nr. 94) | subiect: Izvoare Resort - Documente calitate sistem UV
+Partener (după adrese): proinstal.ro deac mihai | grupare nesigură: nu
+
+--- MESAJ m2101508 | 2026-07-15 13:52 | Inbox | EXTERN
+De la: deac mihai <mihai.deac@proinstal.ro>
+Către: alexandru.soare@akro.ro <alexandru.soare@akro.ro>
+Subiect: Izvoare Resort - Documente calitate sistem UV
+Salut Alexandru,
+
+Pentru proiectul de la Izvoare Resort unde am achiztionat partea
+de tratare apa cu sistem UV cu factura 260290 din 28.05.2026 imi
+trimiti te rog documentele de calitate disponibile (declaratie de
+conformitate CE, declaratie de performanta daca este, orice alte
+documente disponibile)
+
+Pentru contoarele de apa am documentele.
+
+Mersi mult
+
+--
+
+Cu
+respect,
+
+Ing. Mihai DEAC
+
+Compartiment
+
+Tehnic - Ofertare - Productie
+
+S.C. PROINSTAL S.R.L.
+
+Aleea Olteniei nr.4B
+
+430214 - Baia Mare
+
+Tel: +40 262 227 014
+
+Fax: +40 262 222 707
+
+Mobil: +40 743 301 392
+
+E-mail:
+mihai.deac@proinstal.ro
+
+Web: www.proinstal.ro
+
+P Save a tree...please don't
+print this e-mail unless you really need to
+
+--- MESAJ m2137668 | 2026-07-15 14:17 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: deac mihai <mihai.deac@proinstal.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Izvoare Resort - Documente calitate sistem UV
+Salut Mihai,
+
+Anexat, te rog sa regasesti documentatia de calitate la pompele de dozare si la sistemul UV.
+
+Cu respect,
+[ATAȘAMENT: Aquaz all in_EU Declaration of Conformity.pdf | PDF fără text (scanat)]
+[ATAȘAMENT: VIQUA ISO 9001 2015 Certificate_2021 2024.pdf | text extras]
+[ATAȘAMENT: VIQUA Listing Category Search Page _ NSF International.pdf | text extras]
+[ATAȘAMENT: 520377-R_RevA-Pro Series Submittal Package.pdf | text extras]
+[ATAȘAMENT: DECLARATIE DE CONFORMITATE UE-POMPE.pdf | text extras]
+
+####################################################################################################
+RÂND c2102404 (nr. 115) | stare: Fără ofertă | categorie: 27-Uv | cerere: Teacă de cuarț 23 x 1,5 x 750 mm pentru UV
+CERINȚA: Cere ofertă pentru teaca de cuarț [27-004581] 23 x 1,5 x 750 mm. [m2102404] «[27-004581] Teaca de Quartz 23 x 1.5 x 750 mm SO»
+REZULTAT: necunoscut
+
+
+====================================================================================================
+CONVERSAȚIA c2102404 (nr. 115) | subiect: Cerere oferta
+Partener (după adrese): constantin.todoran@yahoo.ro Constantin Todoran | grupare nesigură: nu
+
+--- MESAJ m2102404 | 2026-07-18 22:18 | Inbox | EXTERN
+De la: Constantin Todoran <constantin.todoran@yahoo.ro>
+Către: Alexandru Soare AKRO Romania <alexandru.soare@akro.ro>
+Subiect: Cerere oferta
+Bună ziua,
+
+Vă rog să-mi faceți o ofertă pentru
+
+[27-004581] Teaca de Quartz 23 x 1.5 x 750 mm SO
+
+Mulțumesc,
+
+####################################################################################################
+RÂND c2140420-2 (nr. 146.2) | stare: Fără ofertă | categorie: 27-Uv | cerere: Dezinfecție UV pe trasee de 40 și 80 mc/h
+CERINȚA: Clientul dorește dezinfecție UV a apei din foraje pe țevi D90, la două debite (40 și 80 mc/h), pentru creșterea peștilor. [m2140420] «Ca doriti o dezinfectie a apei cu UV pe aceste trasee»
+CERINȚĂ FINALĂ (debit): Debit maxim de exploatare 90 m³/h, reglabil prin turația pompei [m2105348] «DEBITUL MAXIM DE EXPLOATARE ESTE 90 m³/h»
+CERINȚĂ FINALĂ (racord): Țeavă PEHD diametru 90 mm [m2105348] «TEAVA PEHD - DIAMETRUL 90mm»
+CERINȚĂ FINALĂ (aplicație): Reducerea încărcării bacteriene generale, alimentare continuă cu apă proaspătă (acvacultură) [m2105348] «REDUCEREA INCARCARII BACTERIENE GENERALE»
+CERINȚĂ FINALĂ (calitate apă): Apă din foraje, temperatură 5–15 °C, presiune maxim 2 bari [m2105348] «PRESIUNE NORMALA LUCRU - MAXIM 2 BARI»
+CERINȚĂ FINALĂ (tensiune): 230 V și 400 V disponibile [m2105348] «SUNT DISPONIBILE AMBELE VARIANTE.»
+CLARIFICARE: întrebare Spectra întreabă despre analiza apei, UVT, debitele maxime, temperatura, presiunea, tipul instalației și scopul UV. [m2105348] «Valoarea transmitanței UV (UVT la 254 nm), dacă aceasta a fost determinată» → răspuns Clientul trimite buletinul de analiză și o probă de apă; debit maxim 90 m³/h, fără filtrare sau ozonizare existente. [m2105348] «NU EXISTA SISTEME DE FILTRARE SAU OZONIZARE» | schimbare: Debitul maxim devine 90 m³/h și se constată că nu există filtrare; se propune un filtru cu autocurățare înainte de UV.
+CLARIFICARE: întrebare Ileana (Spectra) cere o recomandare de filtrare înainte de UV. [m2105348] «Te rog daca poti sa ma ajuti cu recomandarea pentru o solutie de filtrare inainte de UV.» → răspuns AKRO recomandă filtrul cu autocurățare SUF-4, cod 01-008099. [m2141604] «Poti da un SUF-4 – Cod 01-008099» | schimbare: Se adaugă filtrul cu autocurățare SUF-4 înainte de UV.
+REZULTAT: necunoscut
+
+
+====================================================================================================
+CONVERSAȚIA c2140420 (nr. 146) | subiect: RE: AKRO :: Cerere oferta
+Partener (după adrese): richterhaus.ro  | grupare nesigură: nu
+OFERTĂ S02573 v1 trimisă 2026-07-22 13:11 în m2140420 (Odoo: Ofertă trimisă): [10-001028] Generator de ozon g-p60 (60 g/h). contine generator de oxigen Termen livrare: 7  x1.0 buc
+
+--- MESAJ m2140420 | 2026-07-22 13:11 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: iulian.bordea@richterhaus.ro <iulian.bordea@richterhaus.ro>
+Cc: office@akro.ro, contact@spectra.ro, dan.teodorescu@spectra.ro, ileana.antonescu@spectra.ro, sales@spectra.ro
+Subiect: RE: AKRO :: Cerere oferta
+Buna ziua Dl Bordea,
+
+Va multumim pentru solicitare!
+
+Conform discutiei telefonice, va trimitem anexata cotatia de pret pentru un generator de ozon marca AIRTREE [ Germania] – model GP60 – capabil sa produca ozon cu 60 g/h .
+
+Sistemul are integrat compresor si concentrator de oxigen[ sita moleculara]
+
+Fisa tehnica anexata.
+
+Referitor la sistemele de dezinfectie UV , colegii mei de pe departamentul UV, vor analiza cererea si vor reveni cu intrebari/ oferta.
+
+Ca si informatie pentru acestia ati spus ca:
+
+Apa provine din foraje pe tevi D90
+
+Ca doriti o dezinfectie a apei cu UV pe aceste trasee
+
+Sunt doua debite de exploatare : 40 mc/h respective 80 mc/h [ sa consideram doua trasee diferite]
+
+Scopul este dezinfectia apei pentru utilizare in cresterea pestilor
+
+Partea de filtrare exista [ atat pentru ozon cat si pentru prefiltrarea apei din foraje]
+
+Pentru orice alte intrebari sau informatii, va stau cu placere la dispozitie!
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Akro <office@akro.ro>
+Sent: Monday, July 20, 2026 5:42 PM
+To: sales@akro.ro
+Subject: AKRO :: Cerere oferta
+
+O noua cerere a fost trimisa de pe site:
+
+Denumire produs: Generator de ozon AirTree seria G-P
+Link produs: https://akro.ro/produse/produs/generator-de-ozon-airtree-seria-g-p/
+
+Nume: BORDEA
+Prenume: IULIAN
+Adresa de email: iulian.bordea@richterhaus.ro
+Numar de telefon: 0744472976
+Cantitate: 1
+Companie: RICHTERHAUS
+Mesaj: detinem o pastravarie,
+
+UTM Parameters: {"utm_campaign":"","utm_source":"","utm_medium":"","utm_term":"","utm_content":"","gclid":"","gad_source":"","gad_campaignid":"","gbraid":""}
+
+Akro © 2026
+[ATAȘAMENT: Oferta - S02573 - Richer Haus - 22.07.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: DESCRIPTION - GP60.PNG | imagine]
+[ATAȘAMENT: G-P60 ELECTRICAL DRAWING.pdf | PDF fără text (scanat)]
+[ATAȘAMENT: GP-Series_eng.pdf | text extras]
+
+--- MESAJ m2105348 | 2026-07-24 12:06 | Inbox | AKRO
+De la: Ileana Antonescu <ileana.antonescu@spectra.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Subiect: Solutie filtrare tratare apa inainte de UV
+Buna, Alex,
+
+Te rog daca poti sa ma ajuti cu recomandarea pentru o solutie de filtrare inainte de UV. Am atasat buletinul de analiza a apei trimis de client.
+
+Eu ma gandesc ca aici ar fi indicat un filtru mecanic cu autocuratare, pentru protejarea sistemului UV. In rest analizele sunt bune din ce vad eu.
+
+Te rog daca poti sa imi indici si un produs pe care noi il furnizam ca sa il ofertez.
+
+Atasez buletinul de analiza sim ai jos detaliile primite de la client.
+
+Multumesc!
+
+“Buna dimineata,
+
+Va raspundem la intrebarile dumneavoastra, dupa cum urmeaza :
+
+* Analiza fizico-chimică și microbiologică a apei din foraje; - ATASAT
+
+* Valoarea transmitanței UV (UVT la 254 nm), dacă aceasta a fost determinată; In cazul in care aceasta analiza nu este disponibila noi o putem realiza la sediul nostru. Va rugam doar ne puneti la dispozitie o proba de apa
+(500 ml). - VA TRIMITEM PRIN CURIER O PROBA DE APA
+
+* Confirmarea că debitele de 40 m³/h și 80 m³/h reprezintă debitele maxime de exploatare; DEBITUL MAXIM DE EXPLOATARE ESTE 90 m³/h CARE POATE FI DIMINUAT PRIN CONTROLUL TURATIEI POMPEI
+
+* Temperatura apei în regim normal de funcționare; - TEMPERATURA MINIMA IARNA +5 °C - TEMPERATURA MAXIMA VARA +15 °C
+
+* Presiunea de lucru a instalației; - PRESIUNE NORMALA LUCRU - MAXIM 2 BARI
+
+* Tipul instalației: alimentare continuă cu apă proaspătă sau sistem cu recirculare (RAS); - ALIMENTARE CONTINUA CU APA PROASPATA
+
+* Scopul instalației UV (de exemplu: reducerea încărcării bacteriene generale sau controlul unor agenți patogeni specifici din acvacultură); REDUCEREA INCARCARII BACTERIENE GENERALE
+
+* Dacă există o doză UV impusă prin proiect sau de către proiectant/beneficiar; - NU
+
+* Schema tehnologică a instalației sau o schiță simplificată din care să rezulte poziția sistemului UV față de etapele existente de filtrare și ozonizare; - NU EXISTA SISTEME DE FILTRARE SAU OZONIZARE, SISTEMUL UV VA FI
+MONTAT PE TEAVA CU DIAMETRUL DE 90 mm, INAINTE DE CELE 4 BAZINE DE DECANTARE IN TREPTE CARE AU UN VOLUM TOTAL DE 30 MC APA, BAZINE DIN CARE SE ALIMENTEAZA MATERNITATEA GRAVITATIONAL.
+
+* Diametrul și materialul conductelor pe care vor fi montate sistemele UV; TEAVA PEHD - DIAMETRUL 90mm
+
+* Alimentarea electrică disponibilă (230 V / 400 V). - SUNT DISPONIBILE AMBELE VARIANTE.”
+
+Cu stima/Best regards,
+[ATAȘAMENT: Analize apa RICHTER_260701_204600.pdf | PDF fără text (scanat)]
+
+--- MESAJ m2141604 | 2026-07-24 12:52 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Ileana Antonescu <ileana.antonescu@spectra.ro>
+Cc: aurel.caras@akro.ro, office@akro.ro
+Subiect: RE: Solutie filtrare tratare apa inainte de UV
+https://akro.ro/public/fise/238-Fisa_tehnica_Filtru_cu_autocuratare_otel_carbon.pdf
+
+Poti da un SUF-4 – Cod 01-008099
+
+####################################################################################################
+RÂND c2105988-1 (nr. 178.1) | stare: Fără ofertă | categorie: 27-Uv | cerere: Consumabile pentru sistemul UV MR1-350 SS ADV
+CERINȚA: Cere oferte de preț actualizate pentru consumabilele din atașament (lampă UV și O-ring pentru MR1-350 SS ADV). [m2105988] «Va rugam sa ne transmiteti ofertele de pret actualizate pentru consumabilele din atasament.»
+CERINȚĂ FINALĂ (tip echipament): Lampă UV 350 Ultratherm pentru MR1-350 SS ADV, 1 buc [m2105988] «Lampa UV 350 Ultratherm pentru MR1-350 SS ADV»
+CERINȚĂ FINALĂ (tip echipament): O-ring D28 Viton pentru MR 220/350, 1 buc [m2105988] «O-ring D28 Viton pentru MR 220/350»
+REZULTAT: necunoscut
+
+
+====================================================================================================
+CONVERSAȚIA c2105988 (nr. 178) | subiect: FW: oferta actualizata consumabile sistem UV MR1-350 SS ADV
+Partener (după adrese): carpatina.ro  | grupare nesigură: nu
+
+--- MESAJ m2105988 | 2026-07-27 13:13 | Inbox | EXTERN
+De la: dana.stavar@carpatina.ro <dana.stavar@carpatina.ro>
+Către: Flavia Purice <flavia.purice@spectra.ro>, office@akro.ro <office@akro.ro>, Contact SPECTRA <contact@spectra.ro>, contact@akro.ro <contact@akro.ro>, AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: florin.tifui@floriandra.ro
+Subiect: FW: oferta actualizata consumabile sistem UV MR1-350 SS ADV
+Buna ziua,
+
+Va rugam sa ne transmiteti ofertele de pret actualizate pentru consumabilele din atasament.
+
+Multumim!
+
+Dana Stavar
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Flavia Purice <flavia.purice@spectra.ro>
+Sent: luni, 2 mai 2022 15:49
+To: dana.stavar@carpatina.ro
+Cc: Contact SPECTRA <contact@spectra.ro>; florin.tifui@floriandra.ro
+Subject: RE: oferta actualizata consumabile sistem UV MR1-350 SS ADV
+
+Buna ziua,
+
+Gasiti in attach oferta actualizata pentru lampa/o-ring compatibile cu sistem UV MR1-350SS ADV achizitionat in 2020.
+
+Preturile au suferit mici modificari fata de ultima data cand ati achizitionat aceste piese.
+
+Avand in vedere schimbarile la nivel global si cresterea preturilor, recomandam sa aveti un stoc de siguranta format din: lampa (1 buc), teaca (1 buc), o-ring/ballast (1 buc).
+
+Multumesc si astept cu interes raspunsul dvs!
+
+Cu stima/Best regards,
+
+Flavia PURICE
+
+Manager Tehnic
+
+(+40) 770 187379 | (+40) 268 413180
+
+flavia.purice@spectra.ro
+
+Strada Zizinului, Nr. 110, Brașov, 500407, România
+www.spectra.ro | contact@spectra.ro | www.akro.ro
+Spectra is a trademark of AKRO.
+
+From: Flavia Purice
+Sent: Monday, May 2, 2022 2:06 PM
+To: dana.stavar@carpatina.ro
+Cc: Contact SPECTRA <contact@spectra.ro>; florin.tifui@floriandra.ro
+Subject: oferta actualizata consumabile sistem UV MR1-350 SS ADV
+
+Buna ziua, dna Stavar,
+
+Am primit solicitarea dvs si ma voi ocupa sa revin cat mai curand cu oferta actualizata.
+
+Cu stima/Best regards,
+
+Flavia PURICE
+
+Manager Tehnic
+
+(+40) 770 187379 | (+40) 268 413180
+
+flavia.purice@spectra.ro
+
+Strada Zizinului, Nr. 110, Brașov, 500407, România
+www.spectra.ro | contact@spectra.ro | www.akro.ro
+Spectra is a trademark of AKRO.
+[ATAȘAMENT: 02-05-2022--nr.8932-8-CARPATINA-BEVERAGES-oferta.pdf | text extras]
+Pagina 1 din 1
+
+www.spectra.ro
+110 Zizinului Street, 500407, Brasov, Romania
+(+40) 268 413 180 / contact@spectra.ro
+SPECTRA is a trademark of AKRO.
+
+Oferta de Pret
+Beneficiar Ofertant
+CARPATINA BEVERAGES S.A., Caldararu, Romania Firma: AKRO s.r.l.
+CUI: RO14205979
+Reg. Com.: J08/977/2001
+In atentia
+DANA STAVAR, dana.stavar@carpatina.ro Date oferta
+telefon: 0731041019
+Oferta nr: 8932-8
+
+Consultant Tehnic AKRO Data emitere: 02-05-2022
+Valabilitate oferta: 30 zile
+FLAVIA PURICE, telefon: +40 268413180; Mobil: +40 770187379
+Moneda oferta: EUR
+
+Nr. Total
+Cod produs / denumire produs P.U. EUR Discount P.U.D. EUR Cant. U.M.
+crt. EUR
+1. 27-003580 303.02 0.00% 303.02 1 BUC 303.02
+Lampa UV 350 Ultratherm pentru MR1-350 SS ADV Termen de livrare: 2-3 sapt..
+
+2. 27-004608 7.15 0.00% 7.15 1 BUC 7.15
+O-ring D28 Viton pentru MR 220/350 Termen de livrare: 2-3 sapt..
+
+3. 16-002005 7.00 0.00% 7.00 1 colet 7.00
+AMBALARE+LIVRARE+ASIGURARE si deschidere la Termen de livrare: .
+livrare (curier rapid)
+
+Termeni oferta Valoare oferta
+Mod plata: O.P. Valoare (fara TVA): 317.17 EUR
+Detalii mod plata: 100% in avans Valoare TVA: 60.26 EUR
+Mod livrare: in sarcina AKRO Valoare (cu TVA): 377.43 EUR
+
+Alte detalii oferta
+Piese de schimb pentru sistemul UV MR1-350 SS ADV achizitionat in 2020
+
+Nota
+• Preturile NU includ TVA. (19%)
+• Preturile se calculeaza la cursul de schimb lei/euro comunicat de BNR in ziua facturarii.
+• Retransmiterea semnata si stampilata a prezentei oferte tine loc de comanda ferma.
+
+Pentru 
+[ATAȘAMENT: 11-07-2024--nr.11308-2-PRODAL-94-oferta.pdf | text extras]
+Pagina 1 din 1
+
+www.akro.ro
+110 Zizinului Street, 500407, Brasov, Romania
+(+40) 268 413 180 / contact@akro.ro
+
+Oferta de Pret
+Beneficiar Ofertant
+PRODAL 94 S.R.L., Caldararu, Romania Firma: AKRO s.r.l.
+CUI: RO14205979
+Reg. Com.: J08/977/2001
+In atentia
+DANA STAVAR, dana.stavar@carpatina.ro Date oferta
+telefon: 0731041019
+Oferta nr: 11308-2
+
+Consultant Tehnic AKRO Data emitere: 11-07-2024
+Valabilitate oferta: 30 zile
+ALEXANDRU SOARE, telefon: +40 268-413180; Mobil:+40 728994472
+Moneda oferta: RON
+Responsabil Client AKRO
+ALEXANDRU SOARE, telefon: +40 268-413180; Mobil:+40 728994472
+
+Nr.
+Cod produs / denumire produs P.U. RON Discount P.U.D. RON Cant. U.M. Total RON
+crt.
+1. 01-010109 95.23 0.00% 95.23 15 buc 1,428.45
+Cartus filtrant PRM1TX4 Termen de livrare: 5-6 sapt.
+
+Termeni oferta Valoare oferta
+Mod plata: O.P. Valoare (fara TVA): 1,428.45 RON
+Detalii mod plata: in avans Valoare TVA: 271.41 RON
+Mod livrare: in sarcina Cumparatorului Valoare (cu TVA): 1,699.86 RON
+
+Alte detalii oferta
+nu sunt alte detalii
+
+Nota
+• Preturile NU includ TVA. (19%)
+• Retransmiterea semnata si stampilata a prezentei oferte tine loc de comanda ferma.
+
+Pentru orice alte detalii va stam cu placere la dispozitie.
+Va multumim pentru atentia acordata produselor si serviciilor noastre si asteptam cu interes comanda dvs..
+
+Cu respect,
+Alexandru Soare Aurel CARAS
+Manager Tehnic Manager General
+Telefon: +40 268-413180; Mobil:+40 728994472
+E-mail: alexandru.soare@akro.ro
+
+####################################################################################################
+RÂND c2149156-2 (nr. 283.2) | stare: Fără ofertă | categorie: 27-Uv | cerere: Sterilizator UV 6,4 m3/h
+CERINȚA: Climatec cere și un sterilizator UV pe conducta de distribuție, debit maxim 6,4 m3/h. [m2149156] «7.Sterilizator UV - amplasat dupa rezervorul de inmagazinare apa tratata, pe conducta de distributie apa catre consumatori»
+CERINȚĂ FINALĂ (debit): Debit maxim tratat 6,4 m3/h la T10 = 90% [m2149156] «Debit maxim tratat : 6.4 m3 / oră la T10 = 90%»
+CERINȚĂ FINALĂ (tensiune): Alimentare 230 V / 50 Hz [m2149156] «Alimentare 230 V / 50 Hz»
+CERINȚĂ FINALĂ (racord): Conexiuni 2" filet interior, cameră reactor inox 316L [m2149156] «Conexiuni : 2” filet interior - Camera reactorului : Oțel Inox 316L»
+CERINȚĂ FINALĂ (altele): Doză UV 25 mJ/cm2, o lampă tip C35, presiune maximă 6 bari [m2149156] «Doză de radiație UV : 25 mJ/cm2 ( valoare medie la sfârșitul vieții lămpii )»
+REZULTAT: necunoscut
+
+
+====================================================================================================
+CONVERSAȚIA c2149156 (nr. 283) | subiect: FW: CERERE OFERTA-SP.FOISOR
+Partener (după adrese): -  | grupare nesigură: nu
+
+--- MESAJ m2149156 | 2026-08-14 10:47 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Ileana Antonescu <ileana.antonescu@spectra.ro>
+Cc: office@akro.ro
+Subiect: FW: CERERE OFERTA-SP.FOISOR
+Salut,
+Daca vrei sa preiei tu aceasta cerere , pentru clorinare + UV poti oferta urmatoarele piese echivalente:
+
+- Pompa dozatoare TPG 800 - 11-002040 - https://drive.google.com/drive/folders/15icWfe8Cz1PsnOg-WMbK6rskgx3r18ko
+- Lance aspiratie - 11-002026 - https://drive.google.com/file/d/1voCIMYCBQ09fbn3sbvz8hO9tV_jPikk8/view
+- rezervor - 11-002027 - https://drive.google.com/drive/folders/1fLm4a0hrW-L7pAWpr_D1-ujBl8U0Ikeh
+- Panou K 800 - KPW05... - 11-002151 - https://drive.google.com/drive/folders/1VP5wHh0GSml5zA3_vLLHKYzmqk1KDJlM
+- cablu pentru senzor - 11-002004
+- Senzor de clor 11-002159 - https://drive.google.com/drive/folders/14Q2OBarG3-w4iQERPMx14JDmNDLJbWOV
+
+Eu nu stiu ce sa dau pentru UV .
+
+Senzori de nivel nu avem in stoc - ii poti comanda sau oferta daca te intereseaza [ APLISENS are]
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+-----Original Message-----
+From: contact@climatec.ro <contact@climatec.ro>
+Sent: Thursday, August 13, 2026 11:33 PM
+To: sales@akro.ro
+Subject: CERERE OFERTA-SP.FOISOR
+
+6.Instalatie de clorinare pentru dezinfectie compusa din: Pompa dozatoare de hipoclorit SMF 115-02 AAE, avand urmatoarele
+caracteristici: - maxim 5 l/h si presiune maxima 15 bari - afisaj digital si microprocesor - conducta de aspiratie, furtun de legatura si injector - intrare de impuls de la apometru (pentru apa potabila), - sonda de nivel pentru oprire de siguranta la terminarea hipocloritului,
+- posibilitate de multiplicare a impulsului (1 x n, 1 : n, 1 x n -
+constanta) Vas stocare solutie hipoclorit de sodiu - capacitate: 100 litri - material: PE - dimensiuni: D=46 cm, H=64 cm Analizor de clor rezidual (Kontrol 800 Clor Pot, Panou,Modbus) Sonda clor: plaja 0÷2ppm,
+model: FCL5, 45°c; 1 Bar; 6÷9pH, cablu: n/a, conn: Ø24mm, Clor Liber Anorganic
+
+7.Sterilizator UV - amplasat dupa rezervorul de inmagazinare apa tratata, pe conducta de distributie apa catre consumatori - Debit maxim tratat : 6.4 m3 / oră la T10 = 90% - Alimentare 230 V / 50 Hz - Sistem complet automatizat cu avertizare lampă defectă, contor ore de funcționare, etc. - Senzor UV și sistem manual de curățare a tecilor de quartz - Sistem cu o lampă UV tip C35 – schimbare lampă defectă sub presiune - Doză de radiație UV : 25 mJ/cm2 ( valoare medie la sfârșitul vieții lămpii ) - Consum total : 0.06 kW - Presiune maximă apă : 6 bari
+- Conexiuni : 2” filet interior - Camera reactorului : Oțel Inox 316L
+
+8.Senzori de nivel complet echipat inclusiv:
+- Modul automatizare senzori de nivel.
+____________________________________
+ing.Dan Caruntu
+director
+
+CLIMATEC SRL
+str. Baldovin Parcalab nr.10,
+sector 1, Bucuresti
+
+Tel./Fax: +40-21-317.15.26
+mobil: +40-722-846.872
+http://www.climatec.ro
+
+####################################################################################################
+RÂND c2117732 (nr. 391) | stare: Fără ofertă | categorie: 27-Uv | cerere: Lampă UV XLR30 cod 60061985
+CERINȚA: Cere ofertă pentru articolul 60061985 LAMP,XLR30,UV,220,1000. [m2117732] «Am rugamintea sa ne ofertati articolul : 60061985 /LAMP,XLR30,UV,220,1000»
+CERINȚĂ FINALĂ (tip echipament): Lampă UV XLR30, 220 V, cod 60061985 [m2117732] «60061985 /LAMP,XLR30,UV,220,1000»
+CLARIFICARE: întrebare Clientul trimite un cod suplimentar primit de la clientul final și întreabă dacă e corect. [m2117796] «Am mai primit acest cod de la client, va rog sa imi spuneti daca este ok.» → răspuns - | schimbare: Cod suplimentar de verificat (nu apare în textul emailului).
+REZULTAT: necunoscut
+
+
+====================================================================================================
+CONVERSAȚIA c2117732 (nr. 391) | subiect: Solicitare oferta
+Partener (după adrese): tdfpompe.ro Cristian Marin, Laura Nicolae, Cristina Ghinet | grupare nesigură: nu
+
+--- MESAJ m2117732 | 2026-09-02 10:08 | Inbox | EXTERN
+De la: Cristian Marin <cristian.marin@tdfpompe.ro>
+Către: alexandru.soare@akro.ro <alexandru.soare@akro.ro>
+Cc: info@tdfpompe.ro, contact@akro.ro, comenzi@tdfpompe.ro, abarla@tdfpompe.ro
+Subiect: Solicitare oferta
+Buna ziua,
+
+Am rugamintea sa ne ofertati articolul :
+
+60061985 /LAMP,XLR30,UV,220,1000
+
+Multumesc !
+
+Cu stima / Best Regards,
+
+Cristian MARIN
+
+Manager Zonal/ Area Sales Manager
+
+Mobile: (+40) 724.571.161
+
+Mail: cristian.marin@tdfpompe.ro
+
+www.tdfpompe.ro
+
+Adresa/
+Adress :
+
+Parc industrial TBM/
+Industrial park TBM
+
+Hala 6B/
+Hall 6B
+
+Sat Chiajna, Comuna Chiajna, Judetul Ilfov/ Chiajna Village, Chiajna Commune, Ilfov County
+
+Cod Postal 077040/ Postal code 077040
+
+--- MESAJ m2117796 | 2026-09-02 13:10 | Inbox | EXTERN
+De la: Cristian Marin <cristian.marin@tdfpompe.ro>
+Către: alexandru.soare@akro.ro <alexandru.soare@akro.ro>
+Cc: info@tdfpompe.ro, contact@akro.ro, comenzi@tdfpompe.ro, abarla@tdfpompe.ro
+Subiect: RE: Solicitare oferta
+Buna ziua,
+
+Am mai primit acest cod de la client, va rog sa imi spuneti daca este ok.
+
+Multumesc!
+
+Cu stima / Best Regards,
+
+Cristian MARIN
+
+Manager Zonal/ Area Sales Manager
+
+Mobile: (+40) 724.571.161
+
+Mail: cristian.marin@tdfpompe.ro
+
+www.tdfpompe.ro
+
+Adresa/
+Adress :
+
+Parc industrial TBM/
+Industrial park TBM
+
+Hala 6B/
+Hall 6B
+
+Sat Chiajna, Comuna Chiajna, Judetul Ilfov/ Chiajna Village, Chiajna Commune, Ilfov County
+
+Cod Postal 077040/ Postal code 077040
+
+####################################################################################################
+RÂND c2117764 (nr. 393) | stare: Fără ofertă | categorie: 27-Uv | cerere: Instalație dezinfecție UV apă uzată 56 mc/h
+CERINȚA: Cere ofertă tehnică și de preț pentru o instalație de sterilizare UV a apei uzate cu debit 56 mc/h, cu fișă tehnică atașată. [m2117764] «o instalatie de sterilizare cu UV a apei uzate cu Q = 56 mc/h.»
+CERINȚĂ FINALĂ (debit): 56 m³/h [m2117764] «Debit vehiculat m3/h 56»
+CERINȚĂ FINALĂ (racord): DN 250 [m2117764] «Conexiune DN de racordare 250»
+CERINȚĂ FINALĂ (tensiune): 220 V / 50 Hz [m2117764] «Alimentare V/Hz 220/50»
+CERINȚĂ FINALĂ (aplicație): Stație de epurare (Chilia Veche / Sulina), apă uzată [m2117764] «CL8 STATIE NOUA DE EPURARE IN LOCALITATEA CHILIA VECHE.»
+CERINȚĂ FINALĂ (altele): Presiune maximă de operare 3 bar [m2117764] «Presiunea de operare maxima 3 bar»
+CERINȚĂ FINALĂ (altele): 6 lămpi, putere instalată 1,32 kW, durată de viață lămpi 9000 h [m2117764] «Puterea instalata kW 1,32»
+REZULTAT: necunoscut
+
+
+====================================================================================================
+CONVERSAȚIA c2117764 (nr. 393) | subiect: Cerere oferta INSTALATIE DEZINFECTIE cu UV
+Partener (după adrese): euromarket-ro.com EWWE-Doina | grupare nesigură: nu
+
+--- MESAJ m2117764 | 2026-09-02 11:05 | Inbox | EXTERN
+De la: EWWE-Doina <doina@euromarket-ro.com>
+Către: alexandru.soare@akro.ro <alexandru.soare@akro.ro>
+Cc: sales@akro.ro
+Subiect: Cerere oferta INSTALATIE DEZINFECTIE cu UV
+Buna ziua,
+
+Va rog sa ne transmiteti o oferta tehnica si de pret o instalatie de sterilizare cu UV a apei uzate cu Q = 56 mc/h.
+
+Atasam fisa tehnica.
+
+Multumim anticipat!
+
+Cu stima,
+
+Dpl. Ing. Doina GRINEA
+
+Executive Manager
+
+Tel: +4.0232.233.693
+
+Fax: +4.0232.220.273
+
+Gsm: +4.0723.141.962
+
+Email: doina@euromarket-ro.com
+
+Web: www.euromarket-ro.com
+
+PBefore printing think about your
+[ATAȘAMENT: FT INSTALATIE DEZINFECTIE CU UV.pdf | text extras]
+CL8 STATIE NOUA DE EPURARE IN LOCALITATEA CHILIA VECHE. DOCUMENTATIE DE ATRIBUIRE
+EXTINDERE (COMPLETARE) STATIE DE EPURARE Capitol 4 : Liste
+IN SULINA Sectiunea 3 : Propunerea Contractorului Partea 2: Liste informatii tehnice
+
+FISA TEHNICA NR.7.7
+
+Lista T 27 / Instalatie dezinfectie cu UV
+
+Unitate
+Debit vehiculat m3/h 56
+Conexiune DN de racordare 250
+Adiss Romania Umex GmbH
+de origine Romania -Germania
+Presiunea de operare maxima 3 bar
+Nr. de (in functiune / de 1
+
+Alimentare V/Hz 220/50
+Temperatura apei min/max C 5/30
+Puterea instalata kW 1,32
+Durata de viata a lampilor h 9000
+Dimensiuni 2100X456X482
+Input/output/SCADA
+
+Nr de lampi 6 buc.
+
+S.C. AQUASERV S.A. TULCEA 9
+1
+UV ADISS MONTAT IN CUTIE UM UV B1 UV B2
+Debitul vehiculat mc/h 18,5-26,5 30-60
+Conexiune DN 65-250
+bar 3
+Temperatura min/max a apei ºC 5/30
+Temperatura min/max a mediului ambiant ºC 5/40
+W 880 1320
+h 9000
+Alimentare V/Hz 220/50 220/50
+IP 68 68
+Dimensiuni (Lxlxh) mm 2100x326x477 2100X456X482
+Greutate Kg 111 131
+Buc 4 6
+
+2
+UE DATE TEHNICE- LAMPA UV
+
+Lampa UV a seriei ABOX are emisia lor la o lungime de de 253.7 nm.
+sunt prevazu i cu un amalgam special, in care presiunea vaporilor de mercur este redusa.
+este de mai mult decât dubla
+comparativ cu . sunt echipate cu
+baza f din plastic sau cu 4 pini, cu conexiune Aceste UV sunt
+ideale pentru utilizare la temperaturi mai ridicate ale apei.
+
+UV Lungime Puterea Curentul Tensiunea
+
+Tip mm W A V 253,7 nm, W
+
+HGA 40/4 305 40 1,2 47 12,5
+
+HGA 60/4 435 60 1,2 60 18,5
+
+HGA 12
+
+####################################################################################################
+RÂND c2120804 (nr. 451) | stare: Fără ofertă | categorie: 27-Uv | cerere: 2 aparate de dezinfecție UV pentru Spital Regina Maria
+CERINȚA: Cere ofertă de preț pentru 2 aparate de dezinfecție cu lămpi UV (gospodărie apă potabilă, Spital Metropolitan Regina Maria). [m2120804] «Va rugam sa ne transmiteti oferta de pret pentru echipamentele din fisierul atasat.»
+CERINȚĂ FINALĂ (cantitate): 2 buc aparat de dezinfecție cu lămpi UV [m2120804] «Aparat de dezinfectie cu lampi UV | FT 8 | buc | 2»
+CERINȚĂ FINALĂ (debit): Debit maxim 50 mc/h [m2120804] «Aparat de dezinfectie cu lampi UV, inclusiv panou electric propriu»
+CERINȚĂ FINALĂ (racord): Racord intrare/ieșire DN 80 mm [m2120804] «- racord intrare/iesire: Dn 80 mm;»
+CERINȚĂ FINALĂ (tip echipament): 2 lămpi x 200 W, doză UV-C > 400 J/m2, carcasă inox AISI 304 (316L), configurație L, presiune max 9 bar [m2120804] «- doza UV-C: > 400 J/m2 (12.000 h);»
+CERINȚĂ FINALĂ (tensiune): Alimentare 230 V / 50/60 Hz [m2120804] «- alimentare electrica: 230 V / 50/60 Hz»
+CERINȚĂ FINALĂ (aplicație): Gospodărie apă potabilă, Spital Metropolitan Regina Maria, Șos. Pipera nr. 59 [m2120804] «Proiect - Spital Metropolitan Regina Maria»
+REZULTAT: necunoscut
+
+
+====================================================================================================
+CONVERSAȚIA c2120804 (nr. 451) | subiect: Cerere oferta - Spital Regina Maria
+Partener (după adrese): climat.ro Radu Iloiu | grupare nesigură: nu
+
+--- MESAJ m2120804 | 2026-09-11 15:25 | Inbox | EXTERN
+De la: Radu Iloiu <radu.iloiu@climat.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: contact@akro.ro
+Subiect: Cerere oferta - Spital Regina Maria
+Buna ziua,
+
+Va rugam sa ne transmiteti oferta de pret pentru echipamentele din fisierul atasat.
+
+Cu stima,
+
+Radu Iloiu
+
+Inginer - Tehnic-Ofertare
+
++40753
+087 513
+
+radu.iloiu@climat.ro
+
+Șos.
+Berceni, Nr. 11, Popești-Leordeni,
+
+Jud. Ilfov, 077160
+
++40212
+550 320
+
+www.climat.ro
+
+Prezentul mesaj si orice fisier atasat constituie informatie confidentiala si este proprietatea exclusiva a HIGH TECH CLIMA S.A. Mesajul se adreseaza doar destinatarului vizat. Daca ati primit acest mesaj dintr-o eroare, va rugam sa ne anuntati imediat si sa-l
+stergeti apoi din sistemul dvs.
+
+Te rog nu printa acest mesaj decat daca este absolut necesar. Fii prietenul
+naturii!
+[ATAȘAMENT: COF_Spital Regina Maria - statie UV.xlsx | text extras]
+## Sheet1
+Proiect - Spital Metropolitan Regina Maria
+Amplasament - Șos. PIPERA, NR.59
+Beneficiar - S.C. Delta Health Care S.R.L
+Nr. crt. | CAPITOL | Cod Articol | Descriere Articol | Specificatii Proiectant | U.M. | Cantitate
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 9 | 8
+9 | GOSPODARIE APA POTABILA | INS | IS-E | 8 | Aparat de dezinfectie cu lampi UV | FT 8 | buc | 2 | H2O International, Philips, Nobel
+[ATAȘAMENT: FT08-S - Aparat de dezinfectie cu lampi UV.docx | text extras]
+Obiectiv: MODUL 3 - PUD Șos. PIPERA, NR.59, NC 242523, FAZA 1
+“CONSTRUIRE CORP NOU DE CLĂDIRE SPITAL ȘI PARCARE SUBTERANĂ, REGIM DE ÎNĂLȚIME 3S+P+2E+Etaj tehnic+4E; PLATFORMA TEHNOLOGICĂ ȘI ANEXE, REȚELE DE UTILITĂȚI ÎN INCINTĂ, DRUMURI INTERIOARE, PARCAJE, ÎMPREJMUIRE ȘI SISTEMATIZARE TEREN; ORGANIZARE DE ȘANTIER”
+Adresa: Șos. Pipera, nr.59, NC 242523, sector 2, București
+Proiectant General: S.C. KICKLAND PROIECT CONSULT S.R.L.
+Proiectant instalatii: S.C. TEHNOCLIMA S.R.L
+Cod proiect: 2117
+Faza: PT / Revizia: 02
+FISA TEHNICA FT 08-S
+Utilajul, echipamentul tehnologic
+Aparat de dezinfectie cu lampi UV
+
+Proiectant specialitate, Executant,
+S.C. TEHNOCLIMA SRL
+Nr. crt. | Specificatii tehnice impuse
+prin Caietul de sarcini | Corespondenta propunerii tehnice cu specificatiile
+tehnice impuse prin Caietul de sarcini | Producator
+0 | 1 | 2 | 3
+1. | Aparat de dezinfectie cu lampi UV, inclusiv panou electric propriu
+- debit maxim: 50 mc/h;
+- numar lampi: 2 x 200 W;
+- racord intrare/iesire: Dn 80 mm;
+- putere consumata: 440 W
+- doza UV-C: > 400 J/m2 (12.000 h);
+- durata de viata a lampii: 12.000 h;
+- material carcasa : otel inox AISI 304 (316 L)
+- configuratie: “L” SHAPE
+- presiune maxima: 9 bar;
+- alimentare electrica: 230 V / 50/60 Hz | | H2O International sau similar
+2. | Specificatii de performanta si conditii privind siguranta in exploatare. Performante tehnice, fiabilitate. | |
+3. | Conditii privind conformitatea cu standarde relevante. Caracteristicile utilajului si conditiile de 
+
+####################################################################################################
+RÂND c2157348-2 (nr. 453.2) | stare: Fără ofertă | categorie: 27-Uv | cerere: Tratare UV bazine rezervă incendiu și ceață de apă
+CERINȚA: Clientul cere soluție de tratare și menținere a calității apei pentru rezervorul de ceață de apă (13 m³, apă purificată, deservește săli de operație) și pentru celelalte rezerve de incendiu. [m2121604] «vă rugăm să ne propuneți pentru rezervorul de ceață»
+CERINȚĂ FINALĂ (capacitate): Rezervă hidranți 232 m³, sprinklere 155 m³, ceață de apă 13 m³ [m2121604] «un volum util de 155 m³, nu 144 m³. Vă rog să aveți în vedere valoarea de»
+CERINȚĂ FINALĂ (tip echipament): Recircularea se păstrează, fără clorinare, cu sisteme UV în perna de aer și imersate în bazine [m2121604] «menținerea recirculării, eliminarea instalațiilor de clorinare și prevederea sistemelor UV la nivelul bazinelor»
+CERINȚĂ FINALĂ (aplicație): Ceața de apă deservește săli de operație; apă purificată [m2121604] «Instalația deservește inclusiv sălile de operație»
+CLARIFICARE: întrebare AKRO cere dimensiunile exacte ale bazinelor de incendiu, inclusiv înălțimea utilă. [m2157860] «Va rog sa ne trimiteti dimensiunile exacte ale celor doua bazine» → răspuns Clientul transmite dimensiunile rezervoarelor (ex. hidranți 11,25 x 7,53 x 3,5 m) și corectează volumul sprinklerelor la 155 m³. [m2121604] «Lxlxh = 11.25m x 7.53m x 3.5m» | schimbare: Volumul rezervei de sprinklere este 155 m³, nu 144 m³.
+REZULTAT: necunoscut — Producătorul UV nu a dat încă un răspuns favorabil pentru bazinele de incendiu. [m2161924] «inca nu am primit un raspuns favorabil din partea producatorului»
+
+
+====================================================================================================
+CONVERSAȚIA c2157348 (nr. 453) | subiect: Proiect - Spital Pneumoftiziologie si Boli Infectioase - BRASOV
+Partener (după adrese): leviatan.ro Laura Oita, Gabriel Marcu, Corina Bacanu | grupare nesigură: da
+OFERTĂ S02853 v1 trimisă 2026-09-29 12:33 în m2161924 (Odoo: Ofertă trimisă): [01-008187] STF FMA-1006E - Filtru cu autocuratare - DN150 x1.0 buc; [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual x2.0 buc; [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 x2.0 buc; [11-002026] LANCE DE ASPIRATIE CU SENZOR DE NIVEL PENTRU REZERVOR 100L, CONEXIUNI 4x6mm x2.0 buc; [11-002151] Panou K800 model KPW05 pentru clor liber, H2O2, PAA, brom. Domeniu de masura pen x2.0 buc; [11-002159] Senzor de clor liber anorganic model FCL5: 0-2 ppm, 45° C, 1 bar, 6-9 pH, (ØxL)  x2.0 buc; [11-002004] Cablu pentru senzori FCL, TCL, DCL, PAA, H2O2, O3, brom. Lungime: 1 m x2.0 buc; [27-001232] Sistem UV apa_Pureline ECO 85_Debit 79 m3/h_Doza UV 30 mJ/cm2_Putere 750 W_Racor x2.0 buc; [27-001235] Sistem UV apa_PureLIne ECO 125_Debit 142,4 m3/h_Doza UV 30mJ/cm2_Putere 1,08 kW_ x1.0 buc
+
+--- MESAJ m2157348 | 2026-09-11 16:22 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Iuliana Nica <iuliana.nica@ubitechag.ro>
+Cc: laura.oita@leviatan.ro, procurement@ubitechag.ro, cristina.achim@ubitechag.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Proiect - Spital Pneumoftiziologie si Boli Infectioase - BRASOV
+Buna ziua,
+
+Va multumesc pentru intalnirea de astazi !
+
+Las mai jos structurat pe capitolele discutate – informatii necesare si detalii :
+
+Alimentarea cu apa – cele doua bazine de 350mc
+
+Filtrul de la STF – FMA 1006E – poate fi montat pe aductiunea comuna catre cele doua bazine – ca filtrare grosiera – anexata fisa tehnica si DWG – Sistemul vine cu certificare ACS
+
+La nivelul recircularii pe fiecare din bazine recomandam sisteme de clorinare cu monitorizare clor rezidual compuse din:
+
+Pompa tpg 603 - https://drive.google.com/drive/folders/15icWfe8Cz1PsnOg-WMbK6rskgx3r18ko
+
+Panou de masura K800 – model KPW05 - https://drive.google.com/drive/folders/1VP5wHh0GSml5zA3_vLLHKYzmqk1KDJlM
+
+Echipat cu senzor de clor anorganic : https://drive.google.com/drive/folders/14Q2OBarG3-w4iQERPMx14JDmNDLJbWOV
+
+Rezervor de stocare chimicale 100L : Dosar – Google Drive
+
+Lance de aspiratie rigida – Technical Data_Suction Device and Level Probe_rev 1.0.pdf - Google Drive
+
+Sistemul UV este recomandat in aceste aplicatii ca etapa finala de dezinfectie [ protectie ] – insa conform la schema prezentata – ar trebui sa cunoastem:
+
+Diametrele conductelor aferente celor doua puncte de consum [ care pleaca din distribuitorul general]
+
+Debitul maximal pe fiecare din trasee
+
+Presiunea maxima in punctele unde se vor monta sistemele UV
+
+In aceasta directie vom merge tot cu o propunere de la NUVONIC – care este un producator specializat in aplicatiile sanitare – las anexata o fisa generala de produs .
+
+Ca si recomandare , la aceste sisteme UV, cel mai probabil vom propune si sisteme de curatare a tecilor de quartz
+
+Bazinele de incendiu
+
+Pentru aceasta etapa, am discutat cu colegii de la departamentul SPECTRA si recomandarea noastra este:
+
+O lampa UV ce se monteaza in perna de aer a fiecarui tank – de preferat chiar in proximitatea gurii de ventilatie [ pe unde respire tankul]
+
+Un sistem UV – imersat in fiecare din cele doua bazine care vor functiona continuu
+
+Obligatoriu – trebuie ca apa sa se miste la nivelul bazinelor – si atunci ar trebui facuta si o recirculare la acesta . [ astfel incat apa sa se “ miste” in jurul lampilor imersate]
+
+Nu vom doza clor !
+
+Ce avem nevoie pentru dimensionare:
+
+In principiu dimensiunile bazinelor
+
+Echipa de montaj – recomandata
+
+Pe domeniul industrial am lucrat foarte bine cu cei de la BWORKS :
+
+Szoke Barna : 0728.085.039
+
+Statii de dedurizare
+
+Va putem ajuta cu dimensionare – asteptam datele .
+
+Este nevoie ori de o fisa tehnica pentru produse:
+
+Ori
+
+Date intrare:
+
+Duritate apa bruta [putem considera] 14-15 0F – daca nu aveti informatii
+
+Debit maxim de tratat
+
+Consum estimativ in 24h
+
+Pentru orice alte intrebari sau informatii, va stau cu placere la dispozitie!
+
+Numai bine,
+[ATAȘAMENT: FMA-1006E - TRILINGUAL GENERAL DRAWING.DWG | tip necitit (.dwg)]
+[ATAȘAMENT: FMA-1006E - TRILINGUAL GENERAL DRAWING.pdf | text extras]
+[ATAȘAMENT: DS FMA 1000 E - TRI Ver.00.25.pdf | text extras]
+[ATAȘAMENT: PureLineECO 910061-0001-10.pdf | text extras]
+
+--- MESAJ m2120932 | 2026-09-11 17:30 | Inbox | EXTERN
+De la: Laura Oita <laura.oita@leviatan.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: gabriel.marcu@leviatan.ro
+Subiect: RE: Proiect - Spital Pneumoftiziologie si Boli Infectioase - BRASOV
+Laura Oita reacted to your message:
+
+--- MESAJ m2121508 | 2026-09-14 15:41 | Inbox | EXTERN
+De la: Laura Oita <laura.oita@leviatan.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: procurement@ubitechag.ro, cristina.achim@ubitechag.ro, office@akro.ro, andrei.dobrei@akro.ro, iuliana.nica@ubitechag.ro, corina.bacanu@leviatan.ro, sinziana.barbu@ubitechag.ro, iuliana.nica@ubitechag.ro, gabriel.marcu@leviatan.ro
+Subiect: RE: Proiect - Spital Pneumoftiziologie si Boli Infectioase - BRASOV
+Bună ziua,
+
+În continuarea întâlnirii și a informațiilor solicitate pentru dimensionarea soluțiilor de tratare a apei, vă transmitem datele disponibile în această etapă, respectiv
+volumele bazinelor/rezervoarelor aferente diferitelor categorii de apă:
+
+Apă potabilă – două bazine a câte
+350 m³ fiecare, cu tratare individuală;
+
+Rezerva de incendiu, defalcată pe sistemele deservite:
+
+hidranți interiori și exteriori (HI + HE) –
+volum util 232 m³;
+
+sprinklere (SPK) –
+volum util 155 m³;
+
+ceață de apă –
+volum util 13 m³, cu mențiunea că pentru acest sistem discutăm despre apă purificată, fiind necesară o soluție de tratare corespunzătoare cerințelor specifice instalației;
+
+Irigații spații verzi –
+volum util 70 m³.
+
+Referitor la
+pct. 4 – Stații de dedurizare, momentan nu avem disponibile datele solicitate pentru dimensionare. Urmează să revenim cu acestea imediat ce vor fi stabilite.
+
+Vă transmit atașat și
+schema instalației de alimentare cu apă potabilă / incendiu si irigatii. Vă rugăm să analizați soluția de tratare a apei prevăzută în scheme și să ne transmiteți eventualele observații sau modificări pe care le considerați necesare, astfel încât soluția
+să poată fi definitivată și corelată cu echipamentele propuse de dumneavoastră.
+
+Vă rugăm să analizați informațiile transmise și să ne comunicați dacă, pentru definitivarea soluțiilor și dimensionarea echipamentelor, mai sunt necesare și alte date
+din partea noastră.
+
+Mulțumesc!
+
+Laura Oiță
+
+Inginer Instalatii Sanitare
+
+0747 164 631| laura.oita@leviatan.ro
+
+Splaiul Unirii, nr. 165, TN Offices 2, etaj 8, Sector 3, Bucuresti, 030133
+
+Follow us on:
+
+leviatan.ro
+
+P Te
+rugăm gândește-te înâinte să printezi acest e-mail. Ajută la protejarea mediului!
+[ATAȘAMENT: 0040325_IS_Ob.03_SCHEMA FUNCTIOANALA GOSPODARIE APA POTABILA.dwg | tip necitit (.dwg)]
+[ATAȘAMENT: 0040325_IS_Ob.06_SCHEMA FUNCTIONALA IRIGATII SPATII VERZI.dwg | tip necitit (.dwg)]
+[ATAȘAMENT: 0040325_ISI_Ob.03_SCHEMA FUNCTIONALA GOSPODARIE STINGERE INCENDIU CU APA.dwg | tip necitit (.dwg)]
+[ATAȘAMENT: 0040325_IS-Ob-03-AMPLASARE ECHIPAMENTE SUBSOL.dwg | tip necitit (.dwg)]
+
+--- MESAJ m2157860 | 2026-09-14 16:45 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Laura Oita <laura.oita@leviatan.ro>
+Cc: procurement@ubitechag.ro, cristina.achim@ubitechag.ro, office@akro.ro, andrei.dobrei@akro.ro, iuliana.nica@ubitechag.ro, corina.bacanu@leviatan.ro, sinziana.barbu@ubitechag.ro, iuliana.nica@ubitechag.ro, gabriel.marcu@leviatan.ro
+Subiect: RE: Proiect - Spital Pneumoftiziologie si Boli Infectioase - BRASOV
+Buna ziua,
+
+Am verificat documentatiile trimise!
+
+Va rog sa clarificati:
+
+La obiectivul – tratare apa potabila va rog sa ne transmiteti:
+
+Diametrul tevilor care pleaca din distribuitorul final catre – distribuitorul Cladire spital [ locatia unde sunt pozitionate cele doua sisteme UV]
+
+Este o neconcordanta intre schema de amplasament si schema de flux - la nivelul aspiratiei pompelor care trimit apa in distribuitorul de consum . Va rog clarificati:
+
+pe ce diametru de teava se face aceasta aspiratie din fiecare bazin ? [ in schema de flux apare DN125, in schema de amplasament apare DN200]
+
+Nu inteleg cum se uneste aspiratia pompelor din aceste doua bazine – este un distribuitor unde se aduna cele doua conducte din fiecare bazin , de unde trage grupul de pompare? ce diametru are? - sau se lucreaza pe rand cu fiecare din foraje? [ aspiratie alternativa]
+
+La obiectivul – stingere incendii:
+
+Va rog sa ne trimiteti dimensiunile exacte ale celor doua bazine – de 232 respectiv 144mc inclusiv inaltime si H util [ apa]
+
+In formula in care vom propune statia de tratare pentru cele doua bazine de irigatii, va trebui sa pastram recircularea asa cum este reprezentant si in desene, vom scoate instalatiile de clorinare si se vor monta sisteme uv strict la niveloul celor doua bazine [ in perna de aer, respectiv imersat ]
+
+Asteptam raspuns!
+
+Numai bine,
+
+--- MESAJ m2121604 | 2026-09-14 18:50 | Inbox | EXTERN
+De la: Laura Oita <laura.oita@leviatan.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: procurement@ubitechag.ro, cristina.achim@ubitechag.ro, office@akro.ro, andrei.dobrei@akro.ro, iuliana.nica@ubitechag.ro, corina.bacanu@leviatan.ro, sinziana.barbu@ubitechag.ro, iuliana.nica@ubitechag.ro, gabriel.marcu@leviatan.ro, mariola.berbece@leviatan.ro
+Subiect: RE: Proiect - Spital Pneumoftiziologie si Boli Infectioase - BRASOV
+Mulțumesc pentru analiza documentației transmise.
+
+Menționez că
+în această etapă dezvoltăm și detaliem schemele pentru faza PTh, motiv pentru care pot exista momentan anumite necorelări între schema functionala și schema de amplasament. Acestea vor fi verificate și corelate în cadrul dezvoltării documentației.
+
+Revin mai jos cu clarificările solicitate:
+
+1. Tratare apă potabilă
+
+Diametrele conductelor care pleacă din distribuitorul final către distribuitorul clădirii Spital, aferente punctelor în care sunt prevăzute
+cele două sisteme UV: [am completat mai jos in poza si am adaugat un filtru UV si pe conducta care alimenteaza centrala termica].
+
+Referitor la neconcordanța semnalată privind aspirația grupului de pompare:
+
+diametrul final al conductelor de aspirație din fiecare bazin;
+Dn200
+
+configurația exactă a aspirației grupului de pompare și modul de interconectare a celor două bazine:
+
+diametrul colectorului comun de aspirație, dacă acesta este prevăzut.
+(fara colector comun; vezi imaginea de mai sus)
+
+2. Rezerva de incendiu
+
+Mai jos gasiti dimensiunile geometrice ale bazinelor (
+lungime × lățime × înălțime, precum și înălțimea utilă a apei (H util)).
+
+Rezervor apa potabila 1:
+Lxlxh = 12.25m x 8.25m x 3.5m
+
+Rezervor apa potabila 2:
+Lxlxh = 12.25m x 8.75m x 3.5m
+
+Rezervor hidranti:
+Lxlxh = 11.25m x 7.53m x 3.5m
+
+Rezervor sprinklere:
+Lxlxh = 9.47m x 4.7m x 3.5m; Menționez o diferență față de datele transmise anterior: pentru rezerva aferentă instalației de sprinklere am comunicat
+un volum util de 155 m³, nu 144 m³. Vă rog să aveți în vedere valoarea de
+155 m³ pentru analiza soluției.
+
+Rezervor irigatii:
+Lxlxh = 7.0m x 4.0m x 2.5m
+
+Rezervor ceata de apa:
+acesta va fi un rezervor prefabricat – asteptam detaliile de la proiectantul sistemului de ceata de apa;
+În ceea ce privește rezervorul aferent instalației de stingere cu ceață de apă, cu volum util de 13 m³ avem nevoie de o abordare distinctă față de celelalte rezerve de incendiu.
+Instalația deservește inclusiv sălile de operație, astfel încât dorim ca apa stocată să fie menținută la o calitate corespunzătoare și să fie evitată contaminarea acesteia pe durata stocării. În acest sens, vă rugăm să ne propuneți pentru rezervorul de ceață
+o soluție de tratare și menținere a calității apei adaptată acestei aplicații, ținând cont inclusiv de faptul că vorbim despre
+apă purificată. De asemenea, vă rugăm să ne recomandați:
+
+dacă este necesară împrospătarea periodică a apei din rezervor;
+
+dacă aceasta trebuie realizată prin golire parțială sau totală și completare cu apă proaspătă;
+
+intervalul recomandat pentru această operațiune;
+
+eventualele măsuri suplimentare de monitorizare/tratare necesare pentru limitarea contaminării microbiologice pe perioada stocării.
+
+Considerăm important acest aspect având în vedere că sistemul deservește și săli de operație, unde pot exista pacienți cu plăgi deschise și o vulnerabilitate crescută
+la contaminare.
+
+Pentru
+celelalte rezerve de incendiu, cerințele privind calitatea apei nu sunt la același nivel. Aici poate fi avută în vedere o schemă de tratare mai generală, orientată în principal către
+limitarea stagnării apei, dezvoltării biologice/vegetației și degradării calității apei pe perioada stocării. Și pentru aceste bazine putem avea în vedere o strategie de
+golire parțială și completare periodică cu apă proaspătă, dacă o considerați necesară. Vă rugăm să ne recomandați soluția și periodicitatea adecvată.
+
+De asemenea, în ultimul paragraf al mesajului dumneavoastră este menționată „stația de tratare pentru cele două bazine de irigații”. Presupunem că referirea este la
+bazinele aferente rezervei de incendiu. Vă rugăm să ne confirmați.
+
+Am înțeles că, pentru acestea, soluția propusă presupune
+menținerea recirculării, eliminarea instalațiilor de clorinare și prevederea sistemelor UV la nivelul bazinelor, respectiv în perna de aer și imersat.
+
+Mulțumesc!
+
+Laura Oiță
+
+Inginer Instalatii Sanitare
+
+0747 164 631| laura.oita@leviatan.ro
+
+Splaiul Unirii, nr. 165, TN Offices 2, etaj 8, Sector 3, Bucuresti, 030133
+
+Follow us on:
+
+leviatan.ro
+
+P Te
+rugăm gândește-te înâinte să printezi acest e-mail. Ajută la protejarea mediului!
+
+--- MESAJ m2158148 | 2026-09-16 08:42 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Laura Oita <laura.oita@leviatan.ro>
+Cc: procurement@ubitechag.ro, cristina.achim@ubitechag.ro, office@akro.ro, andrei.dobrei@akro.ro, iuliana.nica@ubitechag.ro, corina.bacanu@leviatan.ro, sinziana.barbu@ubitechag.ro, iuliana.nica@ubitechag.ro, gabriel.marcu@leviatan.ro, mariola.berbece@leviatan.ro
+Subiect: RE: Proiect - Spital Pneumoftiziologie si Boli Infectioase - BRASOV
+Buna dimineata,
+
+Am primit informatiile va multumim!
+
+Analizam cu producatorii si revenim cu variantele recomandate in urmatoarea perioada.
+
+O zi cu spor!
+
+--- MESAJ m2122500 | 2026-09-16 17:06 | Inbox | EXTERN
+De la: Laura Oita <laura.oita@leviatan.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: gabriel.marcu@leviatan.ro
+Subiect: RE: Proiect - Spital Pneumoftiziologie si Boli Infectioase - BRASOV
+Laura Oita reacted to your message:
+
+--- MESAJ m2097380 | 2026-09-21 10:35 | Deleted Items | EXTERN
+De la:  <>
+Către: Laura Oita <laura.oita@leviatan.ro>
+Cc: procurement@ubitechag.ro, cristina.achim@ubitechag.ro, office@akro.ro, andrei.dobrei@akro.ro, iuliana.nica@ubitechag.ro, corina.bacanu@leviatan.ro, sinziana.barbu@ubitechag.ro, iuliana.nica@ubitechag.ro, gabriel.marcu@leviatan.ro, mariola.berbece@leviatan.ro
+Subiect: RE: Proiect - Spital Pneumoftiziologie si Boli Infectioase - BRASOV
+Buna dimineata,
+
+Revin la dumneavoastra cu o lista de intrebari de la producatorul de UV – pentru tratarea apelor potabile – pentru care vom avea nevoie de un raspuns din partea dumneavoastra :
+
+Pentru a putea face dimensionarea corecta si sa ne transmita modelele, preturile si documentatia tehnica, imi solicita 3 informatii:
+
+Debitul maxim de proiect pentru fiecare echipament (m³/h) – chiar si o valoare estimata/provizorie este suficienta pentru etapa actuala.
+
+UVT minim (%T10) al apei din reteaua publica Brasov – daca avem o valoare masurata. Daca nu, Nuvonic poate dimensiona pe baza unei valori asumate, dar trebuie sa stim ca este o ipoteza. [ aici va putem ajuta noi, daca nu exista un buletin complet]
+
+Cerinta de dezinfectie – fie doza RED necesara (mJ/cm²), fie standardul/norma pe care trebuie sa o respecte instalatia.
+
+Pentru ca este vorba despre un proiect de spital, Nuvonic mentioneaza ca, in principiu, se orienteaza catre un sistem cu bio-validare third-party, PureLine PQ, dar vor sa confirme mai intai cerinta de conformitate a proiectului.
+
+Atasat gama PureLine PQ pentru referinta.
+
+Va rog sa verificati aceste 3 puncte. In special trebuie sa stabilim ce debit de proiect avem pentru cele 2 echipamente DN100 si pentru cel DN150 si ce cerinta de UV/dezinfectie este prevazuta in proiect.
+
+Dupa ce avem informatiile, in principiu putem obtine selectia exacta, pretul si documentatia pentru proiect.
+
+Asteptam cu interes raspuns!
+
+Numai bine,
+[ATAȘAMENT: PureLine-PQ-EO-910433-2400-02-EN.pdf | text extras]
+PureLine PQ EO
+Our PureLine PQ EO UV systems are
+BIOASSAYED UV aimed specifically at providing third
+party bioassayed UV treatment for
+
+TREATMENT FOR product and process waters used
+in the food and beverage industry.
+Integrating innovative single medium
+FOOD & BEVERAGE pressure lamp chamber design
+with sensors and intelligent control
+technology to automatically deliver
+optimum treatment performance with
+high operational efficiency. Eliminating
+harmful micro-organisms, reduce the
+bioburden, protect against bio-fouling,
+and lead to fewer CIP / SIP cycles.
+With a certified dry UV sensor that
+measures the germicidal output of
+the UV system and a UV dose read
+out makes it easy to monitor and log
+performance. The control system can
+take ow and transmittance meter
+inputs and calculate the UV dose based
+on real time operating conditions.
+
+Application
+Optimised UV for
+Food & Beverage
+POTENTIAL LOCATIONS OF THE PURELINE PQ EO™
+Food & Absolute
+Beverage
+insurance
+before
+bottling
+Micro-
+Source receiving filtration
+& inspection
+Blend
+tank
+Water storage
+& monitoring
+Concentrate/
+Potable Flavour
+water Deaeration
+supply
+Packaging
+control Sugar syrup
+Demineralisation
+(RO)
+
+Firewall Prevent
+Food & protection of Food & downstream
+Beverage incoming water Beverage contamination
+to prevent after carbon
+Bottling
+pretreatment filtration control
+contamination minimise
+bio-fouling
+
+Prevent To cleaning
+contamination in place Carbo-
+during CIP nation
+
+Pretreatment Activated CIP system
+Food &
+carbon
+Bever
+[ATAȘAMENT: PureLine PQ EO O&M Manual 190160-2400EN06.pdf | text extras]
+PureLine PQ EO
+
+OPERATION AND
+MAINTENANCE MANUAL
+
+4
+6
+8
+10
+12
+
+190160-2400EN06
+Contact Details
+
+If, after reading all the sections of the manuals provided, you still experience problems with
+your UV system, contact your local Technical Support representative:
+
+EMEA: ASIA / CHINA: AMERICAS:
+E: emea.tech@nuvonicuv.com E: apac.tech@nuvonicuv.com E: amer.tech@nuvonicuv.com
+T: +44 (0) 1753 515300 T: +86 21 6167 9599 T: +001 (980) 256 5700
+
+Please have the system’s serial number available (printed on the rating label on the front of
+the cabinet).
+
+Visit us on the web: www.nuvonicuv.com
+
+To order a further copy of this manual, use the contact details above quoting the code on the
+front cover.
+
+Warranty
+
+Nuvonic warrants their UV systems against defective materials and manufacturing defects for
+a period of 18 months from date of receipt.
+
+Refer to our website for full details of the terms and conditions of warranty for systems, UV
+lamps, and other consumables.
+
+Copyright © 2025 Hanovia Limited
+
+All rights and subsequent amendments reserved.
+Registered names, trademarks, etc., used in this document, even when not specifically marked as
+such, are protected by law.
+This document contains proprietary information that is protected by copyright and is subject to change
+without notice. No part of this publication may be reproduced, printed, photocopied, stored on
+microfilm and/or otherwise made public in any form whatsoever without obtaining the prior written
+permission of Hanovia Limited.
+
+[ATAȘAMENT: NUVONIC.png | imagine]
+
+--- MESAJ m2161924 | 2026-09-29 12:33 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Laura Oita <laura.oita@leviatan.ro>
+Cc: procurement@ubitechag.ro, cristina.achim@ubitechag.ro, office@akro.ro, andrei.dobrei@akro.ro, iuliana.nica@ubitechag.ro, corina.bacanu@leviatan.ro, sinziana.barbu@ubitechag.ro, iuliana.nica@ubitechag.ro, gabriel.marcu@leviatan.ro, mariola.berbece@leviatan.ro
+Subiect: RE: Proiect - Spital Pneumoftiziologie si Boli Infectioase - BRASOV
+Buna ziua,
+
+Imi cer scuze pentru timpul de raspuns indelungat, insa abia luni am reusit sa clarific cu producatorul UV variantele de tratare.
+
+Va rog sa regasiti anexata propunerea noastra de echipamente de tratare pentru partea de alimentare cu apa potabila.
+
+Pentru acest flux am propus:
+
+1 filtru STF- Dn 150 – cu curatare automata pentru alimentarea generala cu apa a rezervoarelor:
+
+2 sisteme de clorinare [ cate una pentru fiecare recirculare de bazin] compuse din:
+
+Pompa TPG 603 - TPG – Google Drive
+
+Rezervor 100L - Rezervoare Seko – Google Drive
+
+Sonda de aspiratie rigida cu senzor de nivel - Technical Data_Suction Device and Level Probe_rev 1.0.pdf - Google Drive
+
+Panou K800 complet cu senzor de clor liber anorganic [ plaja0-2ppm ] – Model KPW005 – aplicatie de potabilizare cu certificat sanitar : https://drive.google.com/drive/folders/1VP5wHh0GSml5zA3_vLLHKYzmqk1KDJlM
+
+Fisa tehnica senzor: https://drive.google.com/drive/folders/14Q2OBarG3-w4iQERPMx14JDmNDLJbWOV
+
+Pentru 3 sisteme UV ce doriti sa le montati pe iesirea din distribuitorul general:
+
+2 bucati Pureline ECO 85 – cu autowiper – DN100
+
+1 bucata Pureline ECO 125 – cu atuowiper – DN125
+
+Oferta anexata include livrarea produselor la beneficiar.
+
+Montajul si punerea in functiune nu sunt incluse in cotatie.
+
+Doresc sa mai precizez ca producatorul de UV a transmis, ca in cazul in care nu sunt create probleme in cazul in care facem reductii pe cele 3 trasee de apa ce pleaca din distribuitor catre consumator, si dat fiind ca apa este potabila, acesta ar recomanda varianta mai mica si mai economa:
+
+2 sisteme Pureline ECO 40 – DN 75 - cu autowiper – pe circuitele de DN 100 . aceste sisteme ar fi capabile sa trateze debite maxime de pana la 50mc/h considerand o radiatie de 30mJ/cm2 - costul pentru acestea ar fi : 2 x 14350 euro = 28700 euro
+
+1 sistem Pureline ECO 85 – DN100 – cu autowiper – pe circuitul de DN150 . Acest sistem este capabil sa trateze debit maxim de 79mc/h considerand o radiatie de 30mJ/cm2 – costul pentru acest sistem ramane de : 18219 euro
+
+Legat de proiectul pentru tratarea bazinelor de incendiu – inca nu am primit un raspuns favorabil din partea producatorului [ problema se pune ca de obicei in bazinele de beton, aceste sisteme devin ineficiente din motiv ca peretii tankurilor sunt porosi si dezvolta oricum microbiologie]. Din acest motiv ar trebui o supradimensionare a sistemelor UV imersate, insa in acest caz nu ne putem pronunta daca varianta de tratare ar mai fi fezabila din punct de vedere al costului.
+
+De indata ce avem un raspuns oficial in aceasta directie revin la dumneavoastra!
+
+Pentru orice alte informatii sau intrebari, va stau cu placere la dispozitie!
+
+Numai bine,
+[ATAȘAMENT: Oferta - S02853 - UBITECH - 29.09.2026.pdf | ofertă Odoo, parsată mai sus]
+[ATAȘAMENT: DS FMA 1000 E - TRI Ver.00.25.pdf | text extras]
+[ATAȘAMENT: FMA-1006E - TRILINGUAL GENERAL DRAWING.pdf | text extras]
+[ATAȘAMENT: PureLine-ECO-910061-0001-03-EN.pdf | text extras]
+
+--- MESAJ m2128004 | 2026-10-02 11:36 | Inbox | EXTERN
+De la: Laura Oita <laura.oita@leviatan.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: procurement@ubitechag.ro, cristina.achim@ubitechag.ro, office@akro.ro, andrei.dobrei@akro.ro, iuliana.nica@ubitechag.ro, corina.bacanu@leviatan.ro, sinziana.barbu@ubitechag.ro, iuliana.nica@ubitechag.ro, gabriel.marcu@leviatan.ro, mariola.berbece@leviatan.ro
+Subiect: RE: Proiect - Spital Pneumoftiziologie si Boli Infectioase - BRASOV
+Buna ziua, dl. Soare,
+
+Conform discuției telefonice, vă transmit atașat schema funcțională aferentă instalației de apă potabilă, în format PDF.
+
+Vă rugăm să analizați zona aferentă sistemului de tratare a apei și să ne confirmați dacă soluția reprezentată este conformă sau dacă sunt necesare modificări/completări.
+
+Totodată, vă rugăm să indicați pe plan fiecare echipament propus în cadrul sistemului de tratare, împreună cu principalele caracteristici tehnice ale acestuia, astfel
+încât acestea să poată fi integrate în documentația de proiectare.
+
+Vă mulțumim!
+
+Laura Oiță
+
+Inginer Instalatii Sanitare
+
+0747 164 631| laura.oita@leviatan.ro
+
+Splaiul Unirii, nr. 165, TN Offices 2, etaj 8, Sector 3, Bucuresti, 030133
+
+Follow us on:
+
+leviatan.ro
+
+P Te
+rugăm gândește-te înâinte să printezi acest e-mail. Ajută la protejarea mediului!
+[ATAȘAMENT: 0040325_IS_Ob.03_SCHEMA FUNCTIOANALA GOSPODARIE APA POTABILA.pdf | text extras]
+SCHEMA FUNCTIONALA GOSPODARIE DE APA RECE
+Panou de analiza clor liber
+amperometric;
+
+Pompa de dozare clor, solenoidala,
+
+Tablou actionare electrovana
+De la senzori nivel actionare electrovana
+alimentare rezervor apa potabila
+alimentare rezervor apa potabila (SN) din
+cele doua bazina de apa
+
+PEHD110
+de la viitorul put forat Vas stocare clor
+
+Dn100
+La alimentare cu apa Ol-Zn Dn125 Ol-Zn Dn150 Ol-Zn Dn125 Ol-Zn Dn125
+PEHD200 gospodarie de incendiu Ol-Zn Dn80
+Piesa de trecere de
+APOMETRU RETEA la PEHD la OlZn (vezi schema functionala gospodarie incendiu)
+PUBLICA Ol-Zn Dn150
+Dn80 Ob.01 - Cladire Spital
+EV6" EV6" Catre echipamente HVAC
+Ol-Zn Dn125 RT6" RT6" RT6" RT6" Ob.03 - Cladire Spatii tehnice Spatiu tehnic (S.203)
+STATIE TRATARE
+de la reteaua publica Ol-Zn Dn125 M Ol-Zn Dn100
+CAMIN RETEA PUBLICA Dn 110
+APA DIN PUT FORAT Dn 110
+6 4
+
+8 2
+
+Ol-Zn Dn150 RT FI CR RT
+01 aPOk2=H0m1x 0
+
+de apa potabila Ol-Zn Dn100
+GW GW
+0 0 0 0 0 0 0 0 mł
+0
+
+Dn100
+Ol-Zn Dn150 RT6" PP RT6" PP B METER
+S
+
+Dn100 3xRP2" Dn100 3xRP2" RPS CA Catre preparare apa calda de consum
+Dn 200 (normal inchis) (normal inchis) Ob.03 - Cladire Spatii tehnice
+SN3 SN3 Ol-Zn Dn125 8
+6 4
+2
+M
+FI CR RT
+01 aPOk2=H0m1x
+
+RT
+0
+
+LIMITA PROIECT
+Dn125
+
+GW
+
+GW
+0 0 0 0 0 0 0 0 mł
+
+B METER
+0
+
+8
+6 4
+2 M
+Catre distribuitor apa RT5" RT5"
+S
+
+01 aPOk2=H0m1x 0
+
+CA RP5"
+Rezevor apa potabila Rezevor apa potabila Ol-Zn Dn125
+Ob.01 - Cladire Spital Dn125
+RT 3" RT6" M Alimentare inel apa potabila
+M
+6 4
+
+RT6" 350mc RT 350mc RT CR5"
+2
+
+M
+4 6 8
+2 8
+
+F
+
+--- MESAJ m2128100 | 2026-10-02 12:32 | Inbox | EXTERN
+De la: Laura Oita <laura.oita@leviatan.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: procurement@ubitechag.ro, cristina.achim@ubitechag.ro, office@akro.ro, andrei.dobrei@akro.ro, iuliana.nica@ubitechag.ro, corina.bacanu@leviatan.ro, sinziana.barbu@ubitechag.ro, iuliana.nica@ubitechag.ro, gabriel.marcu@leviatan.ro, mariola.berbece@leviatan.ro
+Subiect: RE: Proiect - Spital Pneumoftiziologie si Boli Infectioase - BRASOV
+Dl. Soare,
+
+Va rog sa ne ajutati si cu actualizarea urmatorului text, a.i. sa fim in concordanta cu echipamentele si fluxul propus de tartare:
+
+“Rezervoarele sunt prevăzute cu sistem de recirculare și tratare a apei, cu menținerea parametrilor de potabilitate.
+
+Pe conducta de alimentare cu apa, de la bransamentul stradal, se va prevedea un filtru din otel carbon cu autocuratare. Acest
+filtru asigura o filtrare la 100 microni a apei (o filtrare grosiera) – si are capacitatea de a se auto-spala la un timp setat sau la atingerea unei caderi de presiune setate. Rolul său este de a reține impuritățile mecanice grosiere provenite din rețeaua
+publică, protejând echipamentele din aval. Filtrul se spală automat, fie la un interval de timp prestabilit, fie la atingerea unui prag de cădere de presiune setat, fără întreruperea alimentării.
+Apa astfel pregătită mecanic este stocată în două rezervoare de apă potabilă.
+
+Menținerea calității microbiologice a apei stocate este asigurată printr-un sistem de recirculare continuă și dezinfecție
+cu clor, dedicat rezervoarelor. O pompă de recirculare preia apa din rezervoare și o redirecționează printr-o buclă de tratare, prevenind stagnarea și, implicit, proliferarea biofilmului bacterian – cu precădere a
+Legionella pneumophila, patogen cu risc major în instalațiile de apă ale unităților sanitare. Pe această buclă este amplasat un panou de analiză a clorului liber de tip amperometric, care măsoară în timp real concentrația de clor rezidual liber din apă.
+În funcție de valoarea măsurată, o pompă de dozare solenoidală injectează automat soluție de hipoclorit din vasul de stocare, menținând concentrația de clor liber în limitele impuse de HG 1020/2021 privind calitatea apei potabile. Sistemul funcționează integral
+automatizat, cu posibilitate de intervenție manuală și alarmare la depășirea limitelor admise, atât la valori minime cât și maxime de clor.”
+
+Multumesc.
+
+Laura Oiță
+
+Inginer Instalatii Sanitare
+
+0747 164 631| laura.oita@leviatan.ro
+
+Splaiul Unirii, nr. 165, TN Offices 2, etaj 8, Sector 3, Bucuresti, 030133
+
+Follow us on:
+
+leviatan.ro
+
+P Te
+rugăm gândește-te înâinte să printezi acest e-mail. Ajută la protejarea mediului!
+
+--- MESAJ m2128164 | 2026-10-02 12:46 | Inbox | EXTERN
+De la: Laura Oita <laura.oita@leviatan.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: procurement@ubitechag.ro, cristina.achim@ubitechag.ro, office@akro.ro, andrei.dobrei@akro.ro, iuliana.nica@ubitechag.ro, corina.bacanu@leviatan.ro, sinziana.barbu@ubitechag.ro, iuliana.nica@ubitechag.ro, gabriel.marcu@leviatan.ro, mariola.berbece@leviatan.ro
+Subiect: RE: Proiect - Spital Pneumoftiziologie si Boli Infectioase - BRASOV
+Si urmatorul text de confirmat, va rog:
+
+„Pe conducta de refulare a grupului de pompare, înainte de distribuția către obiectele sanitare, este intercalat un
+sistem de tratare a apei prin iradiere ultravioletă (UV). Sistemul este echipat cu o lampă UV, cu durată de viață de aprox. 14.000 de ore în funcționare continuă, montată într-un reactor din oțel inoxidabil. Un senzor UV monitorizează permanent intensitatea
+radiației, generând alarmă și după caz, blocând distribuția în situația în care intensitatea scade sub pragul minim necesar pentru inactivarea microorganismelor. Panoul de control cu afișaj și touchscreen permite setarea parametrilor de funcționare și înregistrarea
+istoricului de operare. Tratamentul UV completează dezinfecția chimică cu clor, constituind o a doua barieră microbiologică independentă – fără adaos de substanțe chimice suplimentare și fără modificarea proprietăților organoleptice ale apei – cu eficiență
+dovedită împotriva bacteriilor, virusurilor și protozoarelor, patogeni de interes direct în contextul unui spital de boli infecțioase.”
+
+Multumesc.
+
+Laura Oiță
+
+Inginer Instalatii Sanitare
+
+0747 164 631|
+laura.oita@leviatan.ro
+
+Splaiul Unirii, nr. 165, TN Offices 2, etaj 8, Sector 3, Bucuresti, 030133
+
+Follow us on:
+
+leviatan.ro
+
+P Te
+rugăm gândește-te înâinte să printezi acest e-mail. Ajută la protejarea mediului!
+
+--- MESAJ m2163332 | 2026-10-05 08:43 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Laura Oita <laura.oita@leviatan.ro>
+Cc: procurement@ubitechag.ro, cristina.achim@ubitechag.ro, office@akro.ro, andrei.dobrei@akro.ro, iuliana.nica@ubitechag.ro, corina.bacanu@leviatan.ro, sinziana.barbu@ubitechag.ro, iuliana.nica@ubitechag.ro, gabriel.marcu@leviatan.ro, mariola.berbece@leviatan.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Proiect - Spital Pneumoftiziologie si Boli Infectioase - BRASOV
+Buna ziua,
+
+Va trimit anexata schema la care am notat pozitiile fiecarui echipament.
+
+O zi cu spor!
+[ATAȘAMENT: 0040325_IS_Ob.03_SCHEMA FUNCTIOANALA GOSPODARIE APA POTABILA.pdf | text extras]
+
+--- MESAJ m2163364 | 2026-10-05 08:49 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Laura Oita <laura.oita@leviatan.ro>
+Cc: procurement@ubitechag.ro, cristina.achim@ubitechag.ro, office@akro.ro, andrei.dobrei@akro.ro, iuliana.nica@ubitechag.ro, corina.bacanu@leviatan.ro, sinziana.barbu@ubitechag.ro, iuliana.nica@ubitechag.ro, gabriel.marcu@leviatan.ro, mariola.berbece@leviatan.ro
+Subiect: RE: Proiect - Spital Pneumoftiziologie si Boli Infectioase - BRASOV
+Buna ziua,
+
+Las mai jos textul corectat:
+
+“
+
+“Rezervoarele sunt prevăzute cu sistem de recirculare și tratare a apei, cu menținerea parametrilor de potabilitate.
+
+Pe conducta de alimentare cu apa, de la bransamentul stradal, se va prevedea un filtru din otel carbon cu autocuratare. Acest filtru asigura o filtrare la 100 microni a apei (o filtrare grosiera) – si are capacitatea de a se auto-spala la un timp setat sau la atingerea unei caderi de presiune setate. Rolul său este de a reține impuritățile mecanice grosiere provenite din rețeaua publică, protejând echipamentele din aval. Filtrul se spală automat, fie la un interval de timp prestabilit, fie la atingerea unui prag de cădere de presiune setat, fără întreruperea alimentării. Apa astfel pregătită mecanic este stocată în două rezervoare de apă potabilă.
+
+Menținerea calității microbiologice a apei stocate este asigurată printr-un sistem de recirculare continuă și dezinfecție cu hipoclorit de sodiu. S-a propus cate un sistem independent de tratare si recirculare pentru fiecare rezervor de 350m3. La nivelul fiecarui rezervor, o pompă de recirculare preia apa și o redirecționează printr-o buclă de tratare, prevenind stagnarea și, implicit, proliferarea biofilmului bacterian – cu precădere a Legionella pneumophila, patogen cu risc major în instalațiile de apă ale unităților sanitare. Pe această buclă este amplasat un panou de analiză a clorului liber de tip potentiostatic, cu senzor de clor liber anorganic (plaja de masura 0-2ppm], care măsoară în timp real concentrația de clor rezidual liber din apă. În funcție de valoarea măsurată, o pompă de dozare solenoidală injectează automat soluție de hipoclorit din vasul de stocare, menținând concentrația de clor liber în limitele impuse de HG 1020/2021 privind calitatea apei potabile. Sistemul funcționează integral automatizat, cu posibilitate de intervenție manuală și alarmare la depășirea limitelor admise, atât la valori minime cât și maxime de clor.”
+
+--- MESAJ m2163396 | 2026-10-05 09:01 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Laura Oita <laura.oita@leviatan.ro>
+Cc: procurement@ubitechag.ro, cristina.achim@ubitechag.ro, office@akro.ro, andrei.dobrei@akro.ro, iuliana.nica@ubitechag.ro, corina.bacanu@leviatan.ro, sinziana.barbu@ubitechag.ro, iuliana.nica@ubitechag.ro, gabriel.marcu@leviatan.ro, mariola.berbece@leviatan.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Proiect - Spital Pneumoftiziologie si Boli Infectioase - BRASOV
+Buna ziua,
+
+Aici nu pot confirma textul pentru ca s-au solicitat sisteme UV montate dupa distribuitorul de apa [ mai multe] – si nu unul singur montat la iesirea din bazin. Doriti sa modificam schema conform cu descrierea?
+
+Legat de proprietatile sistemelor propuse acestea au in componenta:
+
+Senzor UV [ dar atentie – acesta afiseaza pe HMI-ul sistemului- intensitatea doar pentru a putea fi monitorizate lampile / eficacitatea acestora]
+
+Sistemele propuse au 2 si respective 3 lampi nu una singura cum este in descriere !
+
+Sistemele pot monitoriza Intensitatea radiatiei cu senzorul UV inclus, insa nu pot inchide circuitul de apa la un prag atins – cum este in descriere ! [ probabil acest lucru se poate face cu o automatizare externa + electrovana – insa nu asiguram acest optional]
+
+Toate sistemele ofertate includ si sistem de curatare a tecilor de quartz
+
+--- MESAJ m2163428 | 2026-10-05 09:06 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Laura Oita <laura.oita@leviatan.ro>
+Cc: procurement@ubitechag.ro, cristina.achim@ubitechag.ro, office@akro.ro, andrei.dobrei@akro.ro, iuliana.nica@ubitechag.ro, corina.bacanu@leviatan.ro, sinziana.barbu@ubitechag.ro, iuliana.nica@ubitechag.ro, gabriel.marcu@leviatan.ro, mariola.berbece@leviatan.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Proiect - Spital Pneumoftiziologie si Boli Infectioase - BRASOV
+Va las anexata si brosura cu descrierea PLC-ului - la sistemele UV ofertate.
+
+Sistemele au integrate si senzori de temperatura;
+
+Sistemele au intrari – de semnal de debit 4-20mA sau control start/stop de la distanta
+
+Sistemele pot furniza o multime de iesiri de date, prin urmare se pot monitoriza sau executa automatizari externe:
+
+Intensitate UV – in semnal 4-20mA
+
+Orice tip de alarma a sistemului
+
+Orice tip de avertizare
+
+Doza UV neconforma
+
+S.a.
+
+O zi cu spor!
+[ATAȘAMENT: PureLine-ECO-910061-0001-03-EN.pdf | text extras]
+
+--- MESAJ m2128708 | 2026-10-05 11:08 | Inbox | EXTERN
+De la: Laura Oita <laura.oita@leviatan.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: gabriel.marcu@leviatan.ro
+Subiect: RE: Proiect - Spital Pneumoftiziologie si Boli Infectioase - BRASOV
+Laura Oita reacted to your message:
+
+--- MESAJ m2128676 | 2026-10-05 11:09 | Inbox | EXTERN
+De la: Laura Oita <laura.oita@leviatan.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: gabriel.marcu@leviatan.ro
+Subiect: RE: Proiect - Spital Pneumoftiziologie si Boli Infectioase - BRASOV
+Laura Oita reacted to your message:
+
+--- MESAJ m2128772 | 2026-10-05 11:11 | Inbox | EXTERN
+De la: Laura Oita <laura.oita@leviatan.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: procurement@ubitechag.ro, cristina.achim@ubitechag.ro, office@akro.ro, andrei.dobrei@akro.ro, iuliana.nica@ubitechag.ro, corina.bacanu@leviatan.ro, sinziana.barbu@ubitechag.ro, iuliana.nica@ubitechag.ro, gabriel.marcu@leviatan.ro, mariola.berbece@leviatan.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Proiect - Spital Pneumoftiziologie si Boli Infectioase - BRASOV
+Buna ziua,
+
+Nu doresc sa modificam schema, doresc sa actualizam textul in concordanta cu schema. Puteti sa propuneti un text reprezentativ.
+
+Multumesc.
+
+Laura Oiță
+
+Inginer Instalatii Sanitare
+
+0747 164 631| laura.oita@leviatan.ro
+
+Splaiul Unirii, nr. 165, TN Offices 2, etaj 8, Sector 3, Bucuresti, 030133
+
+Follow us on:
+
+leviatan.ro
+
+P Te
+rugăm gândește-te înâinte să printezi acest e-mail. Ajută la protejarea mediului!
+
+--- MESAJ m2128740 | 2026-10-05 11:11 | Inbox | EXTERN
+De la: Laura Oita <laura.oita@leviatan.ro>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: gabriel.marcu@leviatan.ro
+Subiect: RE: Proiect - Spital Pneumoftiziologie si Boli Infectioase - BRASOV
+Laura Oita reacted to your message:
+
+--- MESAJ m2163556 | 2026-10-05 11:43 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Laura Oita <laura.oita@leviatan.ro>
+Cc: procurement@ubitechag.ro, cristina.achim@ubitechag.ro, office@akro.ro, andrei.dobrei@akro.ro, iuliana.nica@ubitechag.ro, corina.bacanu@leviatan.ro, sinziana.barbu@ubitechag.ro, iuliana.nica@ubitechag.ro, gabriel.marcu@leviatan.ro, mariola.berbece@leviatan.ro, office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: Proiect - Spital Pneumoftiziologie si Boli Infectioase - BRASOV
+Buna ziua,
+
+Las mai jos o propunere de descriere - pe acelasi plan cu textul initial.
+
+“Pe toate din cele 3 puncte de consum alimentate din distribuitorul de apa potabila DN250, se vor prevedea Sisteme UV astfel:
+
+Catre Distribuitor apa Ob.1 – Cladire spital – un sistem UV Pureline Eco 85
+
+Catre Distribuitor apa Ob.1 – Cladire spital – un alt sistem UV Pureline Eco 85
+
+Catre preparare apa calda de consum + alimentare echipamente HVAC – un sistem UV Purline Eco 125
+
+Sistemele UV propuse sunt echipate cu lampi UV -Amalgam de joasa presiune – cu o durata de functionare de aproximativ 9000 de ore , montate in reactoare din otel inoxidabil [ cate 2 bucati pentru sistemele pureline Eco 85, respectiv 3 bucati pentru sistemul Pureline Eco 125]. Iradierea apei de la lampa UV catre interiorul reactorului se face prin niste tuburi speciale din sticla, rezistente la presiune [ tuburi de quartz] – care au rol dublu :
+
+1. De a mentine uscate lampile/ etansare
+
+2. De a lasa lumina UV sa treaca neobturata catre interiorul reactorului.
+
+Sistemele propuse – vin echipate si cu sisteme de curatare in flux a tuburilor de quartz, astfel incat utilizatorul poate mentine curate tecile -fara a depresuriza sistemele. De asemenea, pentru ca utilizatorul sa poata verifica eficienta fiecarui sistem UV, acestea au fost propuse cu senzori UV si senzori de temperatura integrati – care afiseaza intr-o interfanta intuitiva – eficacitatea de iradiere.
+
+Fiecare din cele 3 echipamente, au fost interconectate la iesirea din distribuitorul comun pentru a completa dezinfectia chimica cu clor la toate punctele de consum sanitar din cadrul spitalului.
+
+Tratamentul cu UV constituie o a doua bariera microbiologica independenta, fara adaos de substante chimice suplimentare si fara modificarea proprietatilor organoleptice ale apei – cu eficienta dovedita impotriva bacteriilor, virusurilor si protozoarelor, patogeni de interes direct in contextul unui spital de boli infectiooase”
+
+####################################################################################################
+RÂND c2122148 (nr. 475) | stare: Fără ofertă | categorie: 27-Uv | cerere: Sistem UV industrial DN300 pentru apă potabilă
+CERINȚA: Cere ofertă pentru un sistem UV conform RFQ atașat (preț, termen, condiții de plată, excluderi, PIF și training, piese de schimb). [m2122148] «Va rog sa gasiti atasat documentul RFQ aferent proiectului mentionat in subiect.»
+CERINȚĂ FINALĂ (tip echipament): Sistem UV industrial Hanovia sau echivalent, cu reactor, lămpi, curățare, tablou, PLC/HMI [m2122148] «Soluția va fi bazată pe tehnologie Hanovia sau echivalent aprobat»
+CERINȚĂ FINALĂ (racord): Conductă DN300 (PEHD OD 315 mm SDR 11) [m2122148] «Piese de racordare la conducta PEHD OD 315 mm SDR 11»
+CERINȚĂ FINALĂ (aplicație): Dezinfecția apei potabile după filtrele cu cărbune activ, înainte de producerea apei demineralizate [m2122148] «Unitatea va fi instalată înainte de alimentarea sistemului de producere a apei demineralizate.»
+CERINȚĂ FINALĂ (termen): Oferta solicitată până la 22.09.2026 [m2122148] «Am aprecia primirea ofertei pana la data de 22.09.2026»
+REZULTAT: necunoscut
+
+
+====================================================================================================
+CONVERSAȚIA c2122148 (nr. 475) | subiect: Solicitare oferta system UV pentru dezinfectia apei potabile
+Partener (după adrese): ecolab.com Zaharia, Catalin Viorel | grupare nesigură: nu
+
+--- MESAJ m2122148 | 2026-09-16 10:49 | Inbox | EXTERN
+De la: Zaharia, Catalin Viorel <catalin.zaharia@ecolab.com>
+Către: alexandru.soare@akro.ro <alexandru.soare@akro.ro>
+Subiect: Solicitare oferta system UV pentru dezinfectia apei potabile
+Buna ziua,
+
+Va rog sa gasiti atasat documentul RFQ aferent proiectului mentionat in subiect.
+
+Va rugam sa analizati cerintele tehnice si comerciale incluse in documentatie si sa ne transmiteti oferta dumneavoastra, impreuna cu urmatoarele informatii:
+
+Pretul ofertat si baza de livrare;
+
+Termenul estimat de livrare;
+
+Conditiile de plata;
+
+Lista excluderilor si a eventualelor optiuni recomandate;
+
+Cerintele privind instalarea, punerea in functiune si trainingul;
+
+Lista pieselor de schimb recomandate;
+
+Orice observatii sau recomandari tehnice pe care le considerati relevante pentru aceasta aplicatie.
+
+In cazul in care sunt necesare clarificari suplimentare sau informatii tehnice adiționale pentru elaborarea ofertei, va rog sa ma contactati.
+
+Am aprecia primirea ofertei pana la data de 22.09.2026
+
+Va multumesc anticipat pentru suport si astept cu interes raspunsul dumneavoastra.
+
+Regards,
+
+––––––––––––––––––––––––
+
+Catalin Zaharia
+
+Technical Department Manager
+
+––––––––––––––––––––––––
+
+Purolite™ Resins
+
+Str.Aleea Uzinei Nr.11
+
+505700 Victoria, Jud.Brasov, Romania
+
+T:
+00 40 268 243004 to 243010
+
+M: 00 40 740 930674
+
+catalin.zaharia@ecolab.com
+[ATAȘAMENT: Sistem UV pentru dezinfecția apei potabile.docx | text extras]
+Sistem UV pentru dezinfecția apei potabile
+
+Instalare după filtrele cu cărbune activ | Conductă DN300
+1. Scopul solicitării
+Prezenta cerere de ofertă definește cerințele minime pentru proiectarea, furnizarea, montajul, testarea și punerea în funcțiune a unui sistem UV industrial destinat dezinfecției apei potabile după noile filtre cu cărbune activ. Unitatea va fi instalată înainte de alimentarea sistemului de producere a apei demineralizate.
+Soluția va fi bazată pe tehnologie Hanovia sau echivalent aprobat, adecvată funcționării continue și aplicațiilor cu cerințe ridicate de control microbiologic.
+2. Context și baza de proiectare
+Filtrarea cu cărbune activ reduce clorul și contaminanții organici, dar eliminarea dezinfectantului rezidual poate favoriza dezvoltarea microbiologică. Sistemul UV solicitat reprezintă o barieră microbiologică amplasată imediat după filtrele cu cărbune activ.
+
+3. Limitele furniturii
+Inginerie de detaliu și selectarea configurației UV pe baza datelor finale de proces și a testului de transmitanță UV.
+Reactor UV complet, lămpi, manșoane de cuarț, senzori, sistem de curățare, tablou electric, PLC/HMI și instrumentația aferentă.
+Piese de racordare la conducta PEHD OD 315 mm SDR 11, inclusiv tranziții, flanșe, garnituri și suporturi necesare.
+Debitmetru electromagnetic, dacă acesta este necesar pentru calculul și validarea dozei UV și nu există deja un semnal adecvat disponibil.
+Cablare locală în limita skidului/pachetului și interfețe pentru integrare 
+
+--- MESAJ m2158436 | 2026-09-16 10:59 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: sales@akro.ro <sales@akro.ro>
+Subiect: FW: Solicitare oferta system UV pentru dezinfectia apei potabile
+Solicitare siste,m UV - PUROLITE
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Zaharia, Catalin Viorel <catalin.zaharia@ecolab.com>
+Sent: Wednesday, September 16, 2026 10:50 AM
+To: alexandru.soare@akro.ro
+Subject: Solicitare oferta system UV pentru dezinfectia apei potabile
+
+Buna ziua,
+
+Va rog sa gasiti atasat documentul RFQ aferent proiectului mentionat in subiect.
+
+Va rugam sa analizati cerintele tehnice si comerciale incluse in documentatie si sa ne transmiteti oferta dumneavoastra, impreuna cu urmatoarele informatii:
+
+Pretul ofertat si baza de livrare;
+
+Termenul estimat de livrare;
+
+Conditiile de plata;
+
+Lista excluderilor si a eventualelor optiuni recomandate;
+
+Cerintele privind instalarea, punerea in functiune si trainingul;
+
+Lista pieselor de schimb recomandate;
+
+Orice observatii sau recomandari tehnice pe care le considerati relevante pentru aceasta aplicatie.
+
+In cazul in care sunt necesare clarificari suplimentare sau informatii tehnice adiționale pentru elaborarea ofertei, va rog sa ma contactati.
+
+Am aprecia primirea ofertei pana la data de 22.09.2026
+
+Va multumesc anticipat pentru suport si astept cu interes raspunsul dumneavoastra.
+
+Regards,
+
+––––––––––––––––––––––––
+
+Catalin Zaharia
+
+Technical Department Manager
+
+––––––––––––––––––––––––
+
+Purolite™ Resins
+
+Str.Aleea Uzinei Nr.11
+
+505700 Victoria, Jud.Brasov, Romania
+
+T: 00 40 268 243004 to 243010
+
+M: 00 40 740 930674
+
+catalin.zaharia@ecolab.com
+[ATAȘAMENT: Sistem UV pentru dezinfecția apei potabile.docx | text extras]
+
+####################################################################################################
+RÂND c2125860 (nr. 536) | stare: Fără ofertă | categorie: 27-Uv | cerere: Sistem UV pentru apă tehnologică
+CERINȚA: Trimite fluxul de tratare a apei tehnologice completat cu un sistem UV și cere ofertă pentru acesta. [m2125860] «fluxul completat cu UV sistem , astept oferta si pt acest sistem»
+CERINȚĂ FINALĂ (debit): Debit mediu 1,40-2,30 l/s (izvor Călimănel) [m2125860] «Izv Calimanel ; Qmediu = 1,40-2,30 l/s»
+REZULTAT: necunoscut
+
+
+====================================================================================================
+CONVERSAȚIA c2125860 (nr. 536) | subiect: Flux tratare apa tehnologica
+Partener (după adrese): valvis-holding.com Mihai Saramet | grupare nesigură: nu
+
+--- MESAJ m2125860 | 2026-09-25 13:36 | Inbox | EXTERN
+De la: Mihai Saramet <mihai.saramet@valvis-holding.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: aurel.caras@akro.ro
+Subiect: Flux tratare apa tehnologica
+Stimate domn ,
+
+Va rog sa gasiti in atasament fluxul completat cu UV sistem , astept oferta si pt acest sistem .
+
+Multumesc .
+
+Cu stima/Best regards ,
+
+Mihail Gavril Saramet
+
++40 740 307653
+[ATAȘAMENT: Flux tratare_apa_Apa tehnologica.xlsx | text extras]
+## Sheet1
+3 | 5 | 6
+1 | 2
+7
+9
+4
+8
+1 | Izv Calimanel ; Qmediu = 1,40-2,30 l/s
+2 | Filtru 40" 2-5 microni
+3 | Tanc stocare apa bruta/tratata ozon
+4 | Dozator ozon
+5 | Tanc stocare apa tratata ozon
+6 | Tanc stocare apa tratata ozon
+7 | Filtru 30" 0.8-0.45 microni
+8 | Fabrica
+9 | UV sistem
+Distrugator ozon
+Robinet intrare iesire aer
+Robinet trecere apa
+B | Tub Venturi
+P | Pompa
+Q | Analizor continut ozon
+S | Supapa sens
+
+--- MESAJ m2160804 | 2026-09-25 15:12 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Aurel CARAS - AKRO <aurel.caras@akro.ro>
+Cc: office@akro.ro
+Subiect: FW: Flux tratare apa tehnologica
+Daca ati mai vorbit altceva cu el, eu nu cunosc la ce se refera.
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Mihai Saramet <mihai.saramet@valvis-holding.com>
+Sent: Friday, September 25, 2026 1:36 PM
+To: 'AKRO Romania , Alexandru Soare' <alexandru.soare@akro.ro>
+Cc: Aurel CARAS - AKRO <aurel.caras@akro.ro>
+Subject: Flux tratare apa tehnologica
+
+Stimate domn ,
+
+Va rog sa gasiti in atasament fluxul completat cu UV sistem , astept oferta si pt acest sistem .
+
+Multumesc .
+
+Cu stima/Best regards ,
+
+Mihail Gavril Saramet
+
++40 740 307653
+[ATAȘAMENT: Flux tratare_apa_Apa tehnologica.xlsx | text extras]
+
+####################################################################################################
+RÂND c2164004 (nr. 596) | stare: Fără ofertă | categorie: 27-Uv | cerere: Reclamație lămpi UV sparte la livrare
+CERINȚA: La recepția comenzii PO 4502961733 (S02820), 2 lămpi UV au sosit sparte; clientul cere instrucțiuni de urmat. [m2164004] «Din pacate 2 dintre lampi sunt sparte.( mai mult ca sigur,acestea au fost ambatale/transportate necorespunzator.»
+CERINȚĂ FINALĂ (tip echipament): Consumabile UV Aquafine OptiVenn 04DDM [m2164004] «pentru Consumabile UV | Aquafine OptiVenn 04DDM este pregatita pentru livrare.»
+CERINȚĂ FINALĂ (cantitate): 2 lămpi sparte [m2164004] «Din pacate 2 dintre lampi sunt sparte.»
+REZULTAT: necunoscut
+
+
+====================================================================================================
+CONVERSAȚIA c2164004 (nr. 596) | subiect: FW: RECLAMATIE PO  4502961733 (Ref S02820)
+Partener (după adrese): -  | grupare nesigură: nu
+
+--- MESAJ m2164004 | 2026-10-06 10:27 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: andrei.dobrei@akro.ro <andrei.dobrei@akro.ro>
+Subiect: FW: RECLAMATIE PO  4502961733 (Ref S02820)
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: ALEXANDRA-CODRUTA SIMION <Alexandra-Codruta.Simion@cchellenic.com>
+Sent: Tuesday, October 6, 2026 9:57 AM
+To: contact@akro.ro
+Cc: Razvan Micu <Razvan.Micu@cchellenic.com>; Michel-Catalin Jipa <michel.jipa@cchellenic.com>; Andreea Croitoru <andreea.croitoru@cchellenic.com>
+Subject: RECLAMATIE PO 4502961733 (Ref S02820)
+
+Buna ziua,
+
+Tocmai am primit reperele din comanda anexata.
+
+Din pacate 2 dintre lampi sunt sparte.( mai mult ca sigur,acestea au fost ambatale/transportate necorespunzator.
+
+Desi au venit infoliate in plastic + tub de carton,in momentul in care le-am desfacut le-am gasit conform pozelor de mai jos.
+
+Va rugam sa ne ajutati si sa ne spuneti cum procedam in aceasta situatie.
+
+Multumim frumos!
+
+Codruta
+
+Maintenance Planner
+
+CCHBC Romania
+
+Street,Gh.Grigore Cantacuzino
+
+Street No. 285
+
+Ploiesti-Prahova 100291
+
+Tel: 0758055925
+
+From: ALEXANDRA-CODRUTA SIMION
+Sent: Monday, September 28, 2026 11:24 AM
+To: contact@akro.ro
+Subject: RE: Livrare Nr. comanda aprovizionare: 4502961733 (Ref S02820)
+
+ALEXANDRA-CODRUTA SIMION reacted to your message:
+
+From: Dan Teodorescu <contact@akro.ro>
+Sent: Monday, 28 September 2026 08:08:41
+To: ALEXANDRA-CODRUTA SIMION <Alexandra-Codruta.Simion@cchellenic.com>
+Subject: Livrare Nr. comanda aprovizionare: 4502961733 (Ref S02820)
+
+Buna ziua ALEXANDRA-CODRUTA SIMION (COCA COLA HBC ROMANIA S. R. L. ), Comanda dumneavoastra S02820 conform Nr. comanda aprovizionare: 4502961733 [. . . ] ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+
+ZjQcmQRYFpfptBannerStart
+
+ATTENTION:This is an external email. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+ZjQcmQRYFpfptBannerEnd
+
+Buna ziua ALEXANDRA-CODRUTA SIMION (COCA COLA HBC ROMANIA S.R.L.), Comanda dumneavoastra S02820 conform Nr. comanda aprovizionare: 4502961733 [...] ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+
+S02820
+2.196,13 €
+
+Buna ziua ALEXANDRA-CODRUTA SIMION (COCA COLA HBC ROMANIA S.R.L.),
+
+Comanda dumneavoastra S02820 conform Nr. comanda aprovizionare: 4502961733 pentru Consumabile UV | Aquafine OptiVenn 04DDM este pregatita pentru livrare.
+
+Atasat regasiti avizul de expeditie & AWB.
+
+Va rog sa ma contactati daca aveti nevoie de informatii suplimentare.
+
+Cu consideratie,
+
+AKRO SRL
+
++40 268 413 180 | contact@akro.ro | https://www.akro.ro; www.kalyxx.ro; www.spectra.ro
+
+Cu sprijinul Odoo
+
+LEGAL DISCLAIMER: This e-mail contains proprietary information some or all of which may be legally privileged. It is for the intended recipient only. If an addressing or transmission error has misdirected this e-mail, please notify the author by replying to this e-mail. If you are not the intended recipient you must not use, disclose, distribute, copy, or print this e-mail.
+
+E-mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted, lost, destroyed, arrive late or incomplete, or contain viruses. The sender therefore does not accept liability for any errors or omissions in the contents of this message, which arise as a result of e-mail transmission.
+
+For information about processing your personal information, please read our Privacy Policy https://coca-colahellenic.com/en/privacy-notice and cookies notice https://www.coca-colahellenic.com/en/cookie-notice /
+
+P Please think of the environment before you print this message and any attachments.
+[ATAȘAMENT: PO 4502961733.PDF | text extras]
+
+####################################################################################################
+RÂND c2106308 (nr. 181) | stare: După vânzare | categorie: 27-Uv | cerere: Factură teacă de cuarț UV (S02596)
+CERINȚA: -
+REZULTAT: acceptată — AKRO emite factura AKF 260444 (referință S02596) de 352,67 RON, deja plătită. [m2106308] «This invoice is already paid.»
+
+
+====================================================================================================
+CONVERSAȚIA c2106308 (nr. 181) | subiect: Akro Invoice (Ref AKF 260444)
+Partener (după adrese): jonathantapitt@gmail.com Jonathan Sherry | grupare nesigură: nu
+
+--- MESAJ m2106308 | 2026-07-28 12:59 | Inbox | AKRO
+De la: Daniela BABA <contact@akro.ro>
+Către: SHERRY DIANA-CRISTINA P.F. <alexandru.soare@akro.ro>
+Subiect: Akro Invoice (Ref AKF 260444)
+Dear SHERRY DIANA-CRISTINA P.F., Here is your invoice AKF 260444 (with reference: S02596) amounting to 352.67 RON. This invoice is already paid. [...]
+
+͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+
+View Invoice
+
+AKF 260444
+
+352.67 RON
+
+Dear
+SHERRY DIANA-CRISTINA P.F.,
+
+Here is your
+invoice AKF 260444
+(with reference: S02596)
+amounting to 352.67 RON.
+
+This invoice is already paid.
+
+If you need more information please contact us.
+
+--
+Daniela BABA
+
+AKRO SRL
+
++40 268 413 180
+|
+contact@akro.ro
+|
+https://www.akro.ro; www.kalyxx.ro; www.spectra.ro
+
+Powered by Odoo
+[ATAȘAMENT: AKF 260444.pdf | text extras]
+
+--- MESAJ m2142596 | 2026-07-28 13:09 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: Jonathan Sherry <jonathantapitt@gmail.com>
+Subiect: FW: Akro Invoice (Ref AKF 260444)
+
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Daniela BABA <contact@akro.ro>
+Sent: Tuesday, July 28, 2026 1:00 PM
+To: SHERRY DIANA-CRISTINA P.F. <alexandru.soare@akro.ro>
+Subject: Akro Invoice (Ref AKF 260444)
+
+Dear SHERRY DIANA-CRISTINA P.F., Here is your invoice AKF 260444 (with reference: S02596) amounting to 352.67 RON. This invoice is already paid. [...] ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+
+View Invoice
+
+AKF 260444
+352.67 RON
+
+Dear SHERRY DIANA-CRISTINA P.F.,
+
+Here is your invoice AKF 260444 (with reference: S02596) amounting to 352.67 RON.
+
+This invoice is already paid.
+
+If you need more information please contact us.
+
+--
+Daniela BABA
+
+AKRO SRL
+
++40 268 413 180 | contact@akro.ro | https://www.akro.ro; www.kalyxx.ro; www.spectra.ro
+
+Powered by Odoo
+[ATAȘAMENT: AKF 260444.pdf | text extras]

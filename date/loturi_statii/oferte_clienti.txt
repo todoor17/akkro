@@ -1,0 +1,1325 @@
+OFERTELE TRIMISE CLIENȚILOR (pentru legăturile cu cererile către ALAMO)
+
+OFERTA S02476 | GRUP PRIMACONS SRL | 2026-07-01 11:56 | Odoo: Ofertă trimisă | cerere: Stație tratare apă pentru licitația Hârtiești, Argeș | conversații: c2134308
+  Ofertă S02476 v1 trimisă în m2134308:
+    [01-008188] Industrial flange type filter(time controlled) with cleaner tap and washable 100µm stainless steel cartridge | 1.0 buc
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 1.0 buc
+    [11-002026] LANCE DE ASPIRATIE CU SENZOR DE NIVEL PENTRU REZERVOR 100L, CONEXIUNI 4x6mm | 1.0 buc
+    [11-002005] Supapa multifunctionala cu 2 setari: - contrapresiune intre 0-5 bar - supapa de siguranta intre 0 - 18 bar | 1.0 buc
+    [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 | 1.0 buc
+    [11-002144] Placa de ranforsare pentru rezervor SER 100 - 100L / Grosime:10mm/Material PP | 1.0 buc
+    [23-001188] Contor-ZENNER - WPD DN80 cu modul EDC MBus si impuls - 1/100 | 1.0 buc
+    [01-008153] FILTRU Y 221 - DN80 PN16 | 1.0 buc
+    [01-008189] Filtru cu greensand - BS-4272GT/111, 795 L masa filtranta - vana RX- 111A-DTF 2” | 2.0 buc
+    [13-001160] Filtru automat cu carbune activ-784L, 4272AT/111 - spalare dupa timp - in/out 2" | 2.0 buc
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 1.0 buc
+    [11-002026] LANCE DE ASPIRATIE CU SENZOR DE NIVEL PENTRU REZERVOR 100L, CONEXIUNI 4x6mm | 1.0 buc
+    [11-002005] Supapa multifunctionala cu 2 setari: - contrapresiune intre 0-5 bar - supapa de siguranta intre 0 - 18 bar | 1.0 buc
+    [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 | 1.0 buc
+    [11-002144] Placa de ranforsare pentru rezervor SER 100 - 100L / Grosime:10mm/Material PP | 1.0 buc
+    [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 | 1.0 buc
+    [11-002125] Panou K800 (KPW05PM00000) cu sonda de clor liber anorganic->plaja 0- 2ppm [9900101190] | 1.0 buc
+    [27-001278] Sistem UV apa_80/5 RACK LCD PLUS -316_Debit 40 m3/h_Doza UV 40 mJ/cm2_Putere 444W_Racord DN80_SITA | 1.0 buc
+    [-] REDUCERE Reducere: 15.00% | 1.0 buc
+
+OFERTA email-c2134372 | Ion Florin | 2026-07-01 12:22 | Odoo: nu e în lista Odoo | cerere: Filtru eliminare amoniu pentru apă de puț | conversații: c2134372
+  preț în email [m2134372]: Filtru de impurități + stație ecomix + UV pentru toată casa: cost estimativ 9000 lei cu TVA, livrare inclusă, fără montaj.
+
+OFERTA S02477 | ENNI ECOLOGIC SRL | 2026-07-01 13:30 | Odoo: Ofertă trimisă | cerere: Antiscalant pentru stație de osmoză | conversații: c2134404
+  Ofertă S02477 v1 trimisă în m2134404:
+    [12-002026] ANTISCALANT PENTRU INTRETINEREA INSTALATIILOR DE OSMOZA - GEL ANTISCALANT RO1 - 25KG | 2.0 buc
+
+OFERTA S02480 | SERVICIUL PUBLIC APA | 2026-07-02 09:53 | Odoo: Ofertă trimisă | cerere: Set membrane filtrante 150 microni | conversații: c2097988
+  Ofertă S02480 v1 trimisă în m2134660:
+    [01-011003] Membrana filtranta 150 microni nylon lavabil nw 500/650/800 set 5 buc | 1.0 buc
+
+OFERTA S02430 | U.A.T. Comuna Șoarș | 2026-07-02 11:59 | Odoo: nu e în lista Odoo | cerere: Instalație de tratare apă Șoarș (achiziție SICAP) | conversații: c2134820
+  Ofertă S02430 v1 trimisă în m2134820:
+    [01-008048] Filtru impuritati NW400 - 1.5" | 3.0 buc
+    [01-008049] Consola de prindere pentru carcasa cintropur NW 280/340/400 | 3.0 buc
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 3.0 buc
+    [11-002098] Rezervor PE - stocare chimicale 50L | 3.0 buc
+    [23-001195] Contor 1.5"-ZENNER - cu generator de impuls 1/100L - cu racorduri (o-landezi) si garnituri incluse MTKD-N+EDC | 3.0 buc
+    [13-001192] FDC 250 - filtru deferizare demanganizare, vana Clack CI, racord 2" | 2.0 buc
+    [13-001216] FCC 250 Filtru cu carbune, 250L mediu filtrant, vana Clack CI, racord 2" | 4.0 buc
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 1.0 buc
+    [23-001196] Contor 2"-ZENNER - cu generator de impuls 1/100L - cu racorduri (o- landezi) si garnituri incluse MTKD-N+EDC | 1.0 buc
+    [11-002098] Rezervor PE - stocare chimicale 50L | 1.0 buc
+    [27-001258] Sistem UV apa_80/4 RACK LCD_PLUS_Debit 30 m3/h_Doza UV 40 mJ/cm2_Putere 355W_Racord DN80_SITA | 1.0 buc
+    [23-003035] Rezervor cilindric orizontal suprateran PAFS - 7mc - Criber | 1.0 buc
+    [16-001015] Transport echipamente, asamblare pe locatie, mutare automatizare, materiale si manopera de montaj , PIF, teste | None 
+
+OFERTA S02482 | MASPEX ROMANIA S.R.L. | 2026-07-02 13:51 | Odoo: Comandă de vânzare | cerere: 20 membrane osmotice XLE 440 cu înlocuire | conversații: c2134980
+  Ofertă S02482 v1 trimisă în m2134980:
+    [08-002099] Membrana osmotica 8" - FILMTEC XLE 440 Termen livrare: 15 zile | 20.0 buc
+    [16-002001] Deplasare la beneficiar, transport echipamente, inlocuire membrane osmotice, PIF | None 
+  Ofertă S02482 v2 trimisă în m2135236:
+    [08-002099] Membrana osmotica 8" - FILMTEC XLE 440 Termen livrare: 15 zile | 20.0 buc
+    [16-002001] Deplasare la beneficiar, transport echipamente, inlocuire membrane osmotice, PIF | None 
+
+OFERTA email-c2135012 | SERVICIUL DE GOSPODARIE COMUNALA COROD | 2026-07-02 14:09 | Odoo: nu e în lista Odoo | cerere: Filtru eliminare nitrați FDEC 350/V - 400V | conversații: c2135012
+  preț în email [m2135012]: Stație de minim 450 L rășină simplex cu vană de 2": cca 10000 EUR fără TVA; sare 1650 lei/t fără TVA, cca 1,55 lei/mc de apă produsă.
+
+OFERTA S02487 | PRO PIPING PRODUCTS S.R.L. | 2026-07-03 09:10 | Odoo: Comandă de vânzare | cerere: Antiscalant bidon 25 kg | conversații: c2135076
+  Ofertă S02487 v1 trimisă în m2135076:
+    [12-002026] ANTISCALANT PENTRU INTRETINEREA INSTALATIILOR DE OSMOZA - GEL ANTISCALANT RO1 - 25KG | 1.0 buc
+  Confirmare de comandă S02487 v1 trimisă în m2135428:
+    [12-002026] ANTISCALANT PENTRU INTRETINEREA INSTALATIILOR DE OSMOZA - GEL ANTISCALANT RO1 - 25KG | 1.0 buc
+
+OFERTA S02488 | TRANS GRUP AGAPIA SRL | 2026-07-03 10:01 | Odoo: Ofertă trimisă | cerere: 2 sisteme de clorinare pentru licitația Amnaș, Sibiu | conversații: c2135108
+  Ofertă S02488 v1 trimisă în m2135108:
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 2.0 buc
+    [11-002026] LANCE DE ASPIRATIE CU SENZOR DE NIVEL PENTRU REZERVOR 100L, CONEXIUNI 4x6mm | 2.0 buc
+    [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 | 2.0 buc
+    [11-002005] Supapa multifunctionala cu 2 setari: - contrapresiune intre 0-5 bar - supapa de siguranta intre 0 - 18 bar | 2.0 buc
+    [23-001188] Contor-ZENNER - WPD DN80 cu modul EDC MBus si impuls - 1/100 | 2.0 buc
+    [01-008153] FILTRU Y 233 - DN80 PN16 material corp: fonta cenusie ; material intern: inox, F304; etansare: EPDM; mesh:1,5m | 2.0 buc
+    [23-006045] ROBINET SERTAR PANA 181 DN80 material corp: fonta ductila, GGG50; material sertar: acoperit in totalitate cu E | 4.0 buc
+
+OFERTA S02518 | KDC TERMICE BRASOV S.R.L. | 2026-07-13 09:45 | Odoo: Comandă de vânzare | cerere: Stație de dedurizare duplex 6,5 mc; 4 stații dedurizare simplex WS2-250 L cu by-pass | conversații: c2098980, c2107620
+  Ofertă S02518 v1 trimisă în m2135620:
+    [13-001258] DEC 250/V - Statie dedurizare simplex, 250L rasina, vana Clack CI - 2" | 2.0 buc
+    [14-001056] 2" NO HARD WATER BY-PASS VALVE (NHWBP) | 2.0 buc
+  Ofertă S02518 v1 trimisă în m2144164:
+    [13-001258] DEC 250/V - Statie dedurizare simplex, 250L rasina, vana Clack CI - 2" | 4.0 buc
+    [14-001056] 2" NO HARD WATER BY-PASS VALVE (NHWBP) | 4.0 buc
+    [14-001154] WS15P Fitting QC-QC | 5.0 buc
+  Confirmare de comandă S02518 v1 trimisă în m2146404:
+    [13-001258] DEC 250/V - Statie dedurizare simplex, 250L rasina, vana Clack CI - 2" | 4.0 buc
+    [14-001056] 2" NO HARD WATER BY-PASS VALVE (NHWBP) | 4.0 buc
+  Confirmare de comandă S02518 v2 trimisă în m2146724:
+    [13-001258] DEC 250/V - Statie dedurizare simplex, 250L rasina, vana Clack CI - 2" | 4.0 buc
+    [14-001056] 2" NO HARD WATER BY-PASS VALVE (NHWBP) | 4.0 buc
+    [-] Plăți în avans Avans(ref: AKF 260469pe 07.08.2026) | 0.0 buc
+
+OFERTA S02519 | ALEV INTERIORS S.R.L. | 2026-07-13 10:17 | Odoo: Ofertă trimisă | cerere: Două pompe dozatoare Tekna Evo TPG600 | conversații: c2100196
+  Ofertă S02519 v1 trimisă în m2135684:
+    [11-002058] POMPA DOZATOARE SOLENOIDALA TPG 600, DIGITALA CU DEBIT CONSTANT AJUSTABIL MANUAL SAU PROPORTIONAL, IN FUNCTIE  | 2.0 buc
+
+OFERTA S02517 | GUHRING S.R.L. | 2026-07-13 10:38 | Odoo: Comandă de vânzare | cerere: Încărcare 3 butelii purificator apă (iulie) | conversații: c2099492
+  Confirmare de comandă S02517 v1 trimisă în m2135780:
+    [-] Schimb rasina demineralizare x 2 butelii standard | None 
+    [-] Schimb rasina demineralizare x 1 butelie P42 | None 
+
+OFERTA S02522 | COMPANIA DE UTILITATI PUBLICE SA | 2026-07-13 11:19 | Odoo: Comandă de vânzare | cerere: Transmițător de impuls (modul EDC) pentru contor Zenner DN50 | conversații: c2135844
+  Ofertă S02522 v1 trimisă în m2136004:
+    [23-001213] Modul EDC - pentru corp contor WPD - Zenner 1 imp / 10L Termen livrare: 10 zile | 1.0 buc
+
+OFERTA S02524 | S.C. ACI CLUJ S.A. | 2026-07-13 12:17 | Odoo: Ofertă trimisă | cerere: Stație de dedurizare – licitație Regimentul 46 Sibiu | conversații: c2136068
+  Ofertă S02524 v1 trimisă în m2136068:
+    [-] DEC 350 - Dedurizator cu 350L rasina - simplex, Vana Clack 2" CI , coloana 24x72, vas saramura 750L | None 
+
+OFERTA S02525 | APAVITAL S.A. | 2026-07-13 14:56 | Odoo: Ofertă trimisă | cerere: Pyrolox Regular 8-20 mesh – 10 tone | conversații: c2135940
+  Ofertă S02525 v1 trimisă în m2136420:
+    [14-002035] Mediu filtrant deferizare pyrolox regular mno2 (8x20) (0.8-2.4 mm) | 2820.0 L
+    [14-002035] Mediu filtrant deferizare pyrolox regular mno2 (8x20) (0.8-2.4 mm) | 2820.0 L
+  Ofertă S02525 v2 trimisă în m2136484:
+    [14-002035] Mediu filtrant deferizare pyrolox regular mno2 (8x20) (0.8-2.4 mm) | 2820.0 L
+    [14-002035] Mediu filtrant deferizare pyrolox regular mno2 (8x20) (0.8-2.4 mm) | 2820.0 L
+    [-] Reducere: 5.00% Eficientizare transport | 1.0 buc
+
+OFERTA S02528 | DANEX CONSULT S.R.L. | 2026-07-13 16:32 | Odoo: Ofertă trimisă | cerere: Filtru deferizare-demanganizare simplex 10 m³/h | conversații: c2099844
+  Ofertă S02528 v1 trimisă în m2136580:
+    [13-001159] Filtru automat cu pyrolux advantage-800L, 4272PA/112 - spalare dupa timp - in/out 2.5" | 1.0 buc
+    [13-001143] Filtru cu pyrolux advantage 4272PA/RV, cu coloana FRP 42x72 cu skid de vane individuale actionate electric - D | 1.0 buc
+  preț în email [m2136292]: AKRO estimează +-10000 euro pentru o tratare la nivel de locuință (5 mc/zi: deferizare, antiscalant, osmoză, stocare, dezinfecție).
+
+OFERTA S02530 | SERVICIUL PUBLIC DE ALIMENTARE CU APĂ ŞI DE CANALIZARE AL COMUNEI SĂRMAŞ | 2026-07-14 11:55 | Odoo: Ofertă trimisă | cerere: Înlocuire mase filtrante în 3 filtre STAP | conversații: c2136836
+  Ofertă S02530 v1 trimisă în m2136836:
+    [14-002033] Nisip cuartos 2-4 mm b | 1500.0 kg
+    [14-002034] Nisip cuartos 0,8-1,2 mm, b | 2000.0 kg
+    [14-002032] Nisip cuartos 0,4-0,8 mm b | 2800.0 kg
+    [14-002033] Nisip cuartos 2-4 mm b | 750.0 kg
+    [14-002052] Carbune activ granular LG85 (0.6-2.4mm) pentru filtrare apa | 800.0 kg
+    [16-002001] Deplasare la beneficiar, transport mase filtrante, manopera de inlocuire masa filtranta, PIF. | None 
+
+OFERTA S02531 | HYDROKOV S.A. | 2026-07-14 12:36 | Odoo: Ofertă trimisă | cerere: Nisip cuarțos 1-3 mm pentru filtre (37 t) | conversații: c2136932
+  Ofertă S02531 v1 trimisă în m2136932:
+    [14-002084] Nisip cuartos uscat difertie granulatii la big bag - ECO | 37000.0 kg
+
+OFERTA S02532 | COMPANIA REGIONALA DE APA BACAU S.A. | 2026-07-14 12:57 | Odoo: Comandă de vânzare | cerere: Cărbune activ LG85 și nisip cuarțos 2-4 mm | conversații: c2100932
+  Ofertă S02532 v1 trimisă în m2136996:
+    [14-002052] Carbune activ granular LG85 (0.6-2.4mm) pentru filtrare apa | 1350.0 kg
+    [14-002033] Nisip cuartos 2-4 mm b | 300.0 kg
+
+OFERTA S02535 | PRESIDENT MINERAL WATER SOCIETATE CU RASPUNDERE LIMITATĂ | 2026-07-14 16:36 | Odoo: Comandă de vânzare | cerere: Filtrare pentru linie de îmbuteliere apă de izvor | conversații: c2101060
+  Ofertă S02535 v1 trimisă în m2137124:
+    [01-008131] Filtru impuritati NW400 - 1.5" - cu cartus din inox 50 microni | 1.0 buc
+    [01-008049] Consola de prindere pentru carcasa cintropur NW 280/340/400 | 1.0 buc
+    [01-009138] Carcasa filtranta inox multicartus - MVB3S3G40P8L | 2.0 buc
+    [01-009078] Manometru,ventil de aerisire si prelevare probe-pentru carcase SV si MVB XGS-SS010BU-D63 | 2.0 buc
+    [01-010086] Cartus filtrant StarFine SFM3K3P8S | 9.0 buc
+    [01-010081] Cartus filtrant star fine SFM1K3P7S | 9.0 buc
+    [-] Reducere: 8.00% | 1.0 buc
+  Ofertă S02535 v2 trimisă în m2146468:
+    [01-009138] Carcasa filtranta inox multicartus - MVB3S3G40P8L | 1.0 buc
+    [01-010081] Cartus filtrant star fine SFM1K3P7S | 6.0 buc
+    [-] Reducere: 8.00% | 1.0 buc
+  Confirmare de comandă S02535 v1 trimisă în m2146500:
+    [01-009138] Carcasa filtranta inox multicartus - MVB3S3G40P8L | 1.0 buc
+    [01-010081] Cartus filtrant star fine SFM1K3P7S | 6.0 buc
+    [-] Reducere: 8.00% | 1.0 buc
+  Factură proformă S02535 v1 trimisă în m2146500:
+  preț în email [m2137124]: Sistem UV de 70-80 W cu racord 1,5": aprox. 1500 euro fără TVA (opțional)
+
+OFERTA S02538 | PFEIFFER VACUUM ROMANIA SRL | 2026-07-15 09:28 | Odoo: Comandă de vânzare | cerere: Înlocuire masă filtrantă în 6 butelii Gewapur | conversații: c2101156
+  Confirmare de comandă S02538 v1 trimisă în m2137284:
+    [16-001004] Inlocuire masa filtranta - 6 x Butelie 25 L Mixed Bed - manopera inclusa | None 
+    [16-003003] Livrare si ambalare pallex - intern | 2.0 buc
+
+OFERTA email-c2100900 | S.C. IZVORUL MUNTELUI EM S.R.L. | 2026-07-15 10:05 | Odoo: nu e în lista Odoo | cerere: Cartușe filtrante 0,5 / 0,2 / 0,1 microni | conversații: c2100900
+  preț în email [m2137316]: Cartușe melt blown PRM: aprox. 45 euro/buc fără TVA
+  preț în email [m2137316]: Cartușe StarFine SFM pliate: aprox. 125 euro/buc fără TVA
+  preț în email [m2137316]: Cartușe MicroFine MF (membrană, absolut): aprox. 425 euro/buc fără TVA
+
+OFERTA S02540 | SOCOT S.A. | 2026-07-16 09:06 | Odoo: Ofertă trimisă | cerere: Stație dozare NaOH și preparare polimer – licitație STAP Valea Lungă | conversații: c2099396
+  Ofertă S02540 v1 trimisă în m2137860:
+    [23-003009] Instalatie de preparare emulsii model PLM1000SP, 1000litri, mixer lent de 0.12kW, 200rpm, trifazat, palnie pen | 1.0 buc
+    [11-002162] Traductor de nivel ultrasonic model METER 1F4D: 0,25 - 6 m, 4-20 mA, 20-30 Vdc, cablu cu 2 fire, ecran LCD - M | 1.0 buc
+    [11-002163] Skid de dozare cu 2 pompe MS1 cu convertizor Elektra (1A+1R), 5,5 l/h, 10 bar, PP/EPDM, 1 linie de aspiratie,  | 1.0 buc
+    [11-002164] Polycendos PL10 Dual pentru polimer pudra si emulsie cu panou de control Basic Plus, 1000 l/h, 3 camere, 3 mix | 1.0 buc
+    [11-002165] Skid de dozare cu 2 pompe MS1 cu convertizor Elektra (1A+1R), 230 l/h, 5 bar, PP/FPM, 1 linie de aspiratie, 1  | 2.0 buc
+    [-] Reducere: 15.00% | 1.0 buc
+  preț în email [m2137860]: Debitmetru PEM1000 DN32: 1.529 euro/buc preț net, livrare estimată ~8 săptămâni
+
+OFERTA S02544 | SAMTEC SRL | 2026-07-16 09:22 | Odoo: Ofertă trimisă | cerere: Filtru impurități NW500 cu membrane 100 microni | conversații: c2137892
+  Ofertă S02544 v1 trimisă în m2137892:
+    [01-008018] Filtru impuritati nw500 - 2" Termen livrare: 15 zile | 1.0 buc
+    [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 Termen livrare: 15 zile | 1.0 buc
+    [01-011004] Membrana filtranta 100mcr nw500/650/800 set 5 buc Termen livrare: 15 zile | 1.0 buc
+
+OFERTA email-c2099908 | Textil Service | 2026-07-16 10:48 | Odoo: nu e în lista Odoo | cerere: Instalație de osmoză inversă pentru spălătorie industrială | conversații: c2099908
+  preț în email [m2137988]: Varianta 1 (tratare foraj + osmoză 3 mc/h): aprox. 67000 euro fără TVA
+  preț în email [m2137988]: Varianta 2 (filtrare + dedurizare duplex apă de rețea): aprox. 7000 euro fără TVA
+  preț în email [m2137988]: Varianta 3 (apă de rețea + osmoză 3 mc/h): aprox. 32000 euro, fără bazinul final
+
+OFERTA S02550 | SERGIANA PRODIMPEX S.R.L. | 2026-07-16 15:22 | Odoo: Ofertă | cerere: Repunere în funcțiune filtru FCV 18/T | conversații: c2138084
+  Ofertă S02550 v1 trimisă în m2138116:
+    [16-002001] Deplasare la beneficiar, interventie de mentenanta verificare instalatie Filtru nobel + dedurizare clack | None 
+
+OFERTA S02551 | SERGIANA PRODIMPEX S.R.L. | 2026-07-16 15:22 | Odoo: Ofertă trimisă | cerere: Repunere în funcțiune filtru FCV 18/T | conversații: c2138084
+  Ofertă S02551 v1 trimisă în m2138116:
+    [16-001004] Masa filtranta + manopera de inlocuire masa in cadrul filtrului existent | None 
+
+OFERTA S02553 | SERGIANA PRODIMPEX S.R.L. | 2026-07-16 15:22 | Odoo: Ofertă trimisă | cerere: Repunere în funcțiune filtru FCV 18/T | conversații: c2138084
+  Ofertă S02553 v1 trimisă în m2138116:
+    [13-001194] FMC 400 - Filtru multimedia, 400L mediu filtrant, vana Clack CI, racord 2" | 1.0 buc
+    [16-001015] Deplasare la beneficiar, asablare si PIF filtru, materiale de montaj [PVC] si adaptare la reteaua de apa cu By | None 
+
+OFERTA S02555 | STABILUS ROMANIA S.R.L. | 2026-07-16 16:02 | Odoo: Comandă de vânzare | cerere: Mentenanță instalație osmoză – înlocuire membrane; Înlocuire membrane osmoză (11 x 4040) | conversații: c2098916, c2139428
+  Ofertă S02555 v1 trimisă în m2138180:
+    [16-002001] Deplasare la beneficiar, manopera de inlocuire membrane in cadrul instalatiei de osmoza mici [ 11 buc x 4040 ] | None 
+  Confirmare de comandă S02555 v1 trimisă în m2139428:
+    [16-002001] Deplasare la beneficiar, manopera de inlocuire membrane in cadrul instalatiei de osmoza mici [ 11 buc x 4040 ] | None 
+
+OFERTA S02559 | ARTEMA PLAST SRL | 2026-07-17 13:19 | Odoo: Comandă de vânzare | cerere: Saci filtranți nylon monofilament 600NMO1S | conversații: c2102276
+  Ofertă S02559 v1 trimisă în m2138564:
+    [01-011080] Sac filtrant nylon monofilament 600NMO1SR Termen livrare: 30 zile | 100.0 buc
+    [16-003005] Livrare si ambalare | 1.0 buc
+  Confirmare de comandă S02559 v1 trimisă în m2140356:
+    [01-011080] Sac filtrant nylon monofilament 600NMO1SR Termen livrare: 30 zile | 150.0 buc
+    [16-003005] Livrare si ambalare | 1.0 buc
+
+OFERTA S02458 | F Haus SRL | 2026-07-17 13:35 | Odoo: nu e în lista Odoo | cerere: Filtre grosier și autocurățitor pentru maternitate Oradea | conversații: c2099332
+  Ofertă S02458 v1 trimisă în m2138596:
+    [01-008159] FILTRU Y INOX 240L DN100 PN16 material corp: inox; material intern: inox, F304; mesh:3mm; lungime: 350mm; pres | 1.0 buc
+    [01-008190] STF FMA-1003E - full SS 304- Filtru cu autocuratare - DN80- inox 304 | 1.0 buc
+    [27-001233] Sistem UV apa_UV 80/4 RACK LCD PLUS - 316 RM_Debit 30 m3/h_Doza UV 40 mJ/cm2_Putere 355W_Racord DN80_SITA , 4  | 1.0 buc
+    [27-005397] Optional SITA pentru gama LCD Rack - functionare cu apa calda | 4.0 buc
+    [11-002158] Panou K800 model KPS06PM00000, pentru pH/Clor liber: 0-14 pH / clor, H2O2, PAA, brom: 0÷0,5 / 1 / 2 / 5 / 10 / | 1.0 buc
+    [11-002150] Senzor de clor liber model K-FCL ORG/INOR: 0-5 ppm, 45°C, 3 bar, 4-10 pH, 0,01-60 mS, corp din PVC, electrozi  | 1.0 buc
+    [11-002004] Cablu pentru senzori FCL, TCL, DCL, PAA, H2O2, O3, brom. Lungime: 1 m | 1.0 buc
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 1.0 buc
+    [11-002098] Rezervor PE - stocare chimicale 50L | 1.0 buc
+
+OFERTA S02564 | MARGARETA POENARU P.F. | 2026-07-20 15:09 | Odoo: Ofertă trimisă | cerere: Stație de tratare a apei din puț pentru o casă | conversații: c2138692
+  Ofertă S02564 v1 trimisă în m2138852:
+    [01-009002] Carcasa filtranta simplex 10", doua manometre, racord 1" | 1.0 buc
+    [01-009054] Cheie carcasa filtranta - U | 1.0 buc
+    [01-009001] Consola de prindere pt carcasa simplex | 1.0 buc
+    [01-010016] Cartus filtrant 10&quot; inox 70 mcr, prindere sx -doe | 1.0 buc
+    [13-001272] FECM 50/V, Statie ecomix A - simplex, 50L mediu filtrant, racord 1" | 1.0 buc
+    [27-001168] Sistem UV apa_VIQUA VH200_Debit 1,6 m3/h_Doza UV 40mJ/cm2_Putere 35 W_Racord 3/4" - 1"_VIQUA | 1.0 buc
+    [-] Reducere: 10.00% | 1.0 buc
+
+OFERTA S02568 | ISOPAN EST SRL | 2026-07-21 15:12 | Odoo: Comandă de vânzare | cerere: Două pompe dozatoare AKL 600; Comandă două pompe dozatoare AKL600 | conversații: c2139620, c2103492
+  Ofertă S02568 v1 trimisă în m2139620:
+    [11-002166] Pompa dozatoare solenoidala AKL600, analogica, cu debit constant ajustabil manual, PVDF+FKM-B, Kit: PVDF, 100- | 2.0 buc
+  Confirmare de comandă S02568 v1 trimisă în m2139748:
+    [11-002166] Pompa dozatoare solenoidala AKL600, analogica, cu debit constant ajustabil manual, PVDF+FKM-B, Kit: PVDF, 100- | 2.0 buc
+
+OFERTA S02570 | DEVELOPMENT GENERAL SYSTEM INDUSTRY S.R.L. | 2026-07-22 08:53 | Odoo: Ofertă trimisă | cerere: Saci filtranți PP 25 și 50 microni, mărimea 2 | conversații: c2138660
+  Ofertă S02570 v1 trimisă în m2140036:
+    [01-011092] Sac filtrant WE25P2VWR - 25 microni - Produs echivalent LT-PPNF-025-WS-2-PV | 50.0 buc
+    [01-011035] Sac filtrant WE50P2VWR - 50 microni - Produs echivalent LT-PPNF-050-WS-2-PV | 50.0 buc
+    [-] Reducere: 7.00% | 1.0 buc
+
+OFERTA S01922 | CORAL CONSTRUCT SRL | 2026-07-22 12:32 | Odoo: nu e în lista Odoo | cerere: Revizie 2 stații dedurizare și 1 osmoză Fuerda | conversații: c2103940
+  Confirmare de comandă S01922 v1 trimisă în m2140324:
+    [16-002001] Deplasare la beneficiar o persoana + diurna | 50.0 buc
+    [01-010136] Prm5tx2/114 cartus filtrant 5microni, 20" big blue | 1.0 buc
+    [-] Mentenanta - filtru cu tank 10 x 44 , 2 x statii dedurizare Twin + statie de osmoza Aquatech 6 membrane - 4040 | None 
+  preț în email [m2140324]: Prețul intervenției rămâne neschimbat; confirmare S01922 și proformă (2.731,83 RON plătiți).
+
+OFERTA S02573 | RICHTER HAUS S.R.L. | 2026-07-22 13:11 | Odoo: Ofertă trimisă | cerere: Generator de ozon AirTree G-P60 pentru păstrăvărie | conversații: c2140420
+  Ofertă S02573 v1 trimisă în m2140420:
+    [10-001028] Generator de ozon g-p60 (60 g/h). contine generator de oxigen Termen livrare: 7 sapt. | 1.0 buc
+
+OFERTA S02575 | PROCONCORD S.R.L. | 2026-07-22 13:50 | Odoo: Comandă de vânzare | cerere: Stație nouă dedurizare cu filtru și UV - Viișoara | conversații: c2140516
+  Ofertă S02575 v1 trimisă în m2140516:
+    [01-008018] Filtru impuritati nw500 - 2" | 1.0 buc
+    [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 | 1.0 buc
+    [01-011041] Membrana filtranta 50mcr nw500/650/800 set 5 buc | 2.0 buc
+    [13-001293] DEC 300/V - Statie dedurizare simplex, 300L rasina, vana Clack CI - 1.5" | 1.0 buc
+    [27-001156] Sistem UV apa_VP 950_Debit 8 m3/h_Doza UV 40 mJ/cm2_Putere 96 W_Racord 1" 1/2"_VIQUA | 1.0 buc
+    [-] Reducere: 13.00% | 1.0 buc
+  Confirmare de comandă S02575 v1 trimisă în m2144068:
+    [01-008018] Filtru impuritati nw500 - 2" | 1.0 buc
+    [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 | 1.0 buc
+    [01-011041] Membrana filtranta 50mcr nw500/650/800 set 5 buc | 2.0 buc
+    [13-001293] DEC 300/V - Statie dedurizare simplex, 300L rasina, vana Clack CI - 1.5" | 1.0 buc
+    [27-001156] Sistem UV apa_VP 950_Debit 8 m3/h_Doza UV 40 mJ/cm2_Putere 96 W_Racord 1" 1/2"_VIQUA | 1.0 buc
+    [14-002033] Nisip cuartos 2-4 mm b | 100.0 kg
+    [14-002100] Rasina dedurizare PURE RESIN PC003 | 300.0 L
+    [14-001042] TOP BASKET D50 - QC | 1.0 buc
+    [14-005065] DISTRIBUTOR 50MM WITH BOTTOM BASKET D1197-09 | 1.0 buc
+    [16-001015] O singura deplasare la beneficiar, materiale de montaj, manopera de montaj si PIF - in cadrul Containerului, m | None 
+    [-] Reducere: 13.00% | 1.0 buc
+
+OFERTA S02576 | PROCONCORD S.R.L. | 2026-07-22 13:50 | Odoo: Anulat | cerere: Înlocuire rășină în stația de dedurizare veche | conversații: c2140516
+  Ofertă S02576 v1 trimisă în m2140516:
+    [14-002033] Nisip cuartos 2-4 mm b | 100.0 kg
+    [14-002100] Rasina dedurizare PURE RESIN PC003 | 300.0 L
+    [14-001042] TOP BASKET D50 - QC | 1.0 buc
+    [14-005065] DISTRIBUTOR 50MM WITH BOTTOM BASKET D1197-09 | 1.0 buc
+    [16-002001] Deplasare la beneficiar, manopera de inlocuire masa filtranta dedurizator , verificare statie si PIF | None 
+    [-] Reducere: 13.00% | 1.0 buc
+
+OFERTA S01872 | TERAX SRL | 2026-07-22 15:09 | Odoo: nu e în lista Odoo | cerere: Stație de clorinare cu NaOCl pentru apă menajeră | conversații: c2140548
+  Ofertă S01872 v1 trimisă în m2140548:
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 1.0 buc
+    [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 | 1.0 buc
+    [11-002026] Sonda de aspiratie cu senzor de nivel, tub 4x6 pentru rezervor 100 l | 1.0 buc
+    [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 | 1.0 buc
+  Confirmare de comandă S01872 v1 trimisă în m2142020:
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 1.0 buc
+    [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 | 1.0 buc
+    [11-002026] Sonda de aspiratie cu senzor de nivel, tub 4x6 pentru rezervor 100 l | 1.0 buc
+    [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 | 1.0 buc
+    [16-003003] Livrare si ambalare pallex - intern | 1.0 buc
+  Factură proformă S01872 v1 trimisă în m2142020:
+  preț în email [m2140548]: Transport prin Pallex 35 EUR fără TVA; PIF executat de AKRO 380 EUR fără TVA.
+
+OFERTA S02577 | MARKANT C.L. GROUP SRL | 2026-07-22 15:31 | Odoo: Anulat | cerere: Reparație scurgere vană stație dedurizare | conversații: c2140612
+  Ofertă S02577 v1 trimisă în m2140612:
+    [14-001144] WS1 Spacer Stack | 1.0 buc
+    [14-004026] Brine valve 464 3/8" HF white - Draw 1Gpm | 1.0 buc
+    [16-002001] Deplasare la beneficiar, inlocuire piese - verificare instalatie | None 
+
+OFERTA S02578 | SYLC CON TRANS SRL | 2026-07-23 09:34 | Odoo: Ofertă trimisă | cerere: Stație filtrare apă din foraj pentru băi și dușuri | conversații: c2140804
+  Ofertă S02578 v1 trimisă în m2140804:
+    [01-008018] Filtru impuritati nw500 - 2" | 1.0 buc
+    [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 | 1.0 buc
+    [13-001294] FMC 200 - Filtru multimedia, 200L mediu filtrant, vana Clack CI, racord 1.5" | 2.0 buc
+    [13-001295] FECM 200/V, Statie ecomix A - simplex, 200L mediu filtrant, racord 1.5" | 1.0 buc
+    [27-001156] Sistem UV apa_VP 950_Debit 8 m3/h_Doza UV 40 mJ/cm2_Putere 96 W_Racord 1" 1/2"_VIQUA | 1.0 buc
+    [12-002006] Sare tablete AKRO - dedurizare 25 kg BONUS | 40.0 buc
+    [-] Reducere: 7.00% | 1.0 buc
+
+OFERTA email-c2140964-1 | Stabilus Romania S.R.L. | 2026-07-23 14:10 | Odoo: nu e în lista Odoo | cerere: Alimentare cu apă rece industrială pentru stațiile de osmoză (pompe + traseu) | conversații: c2140964
+  preț în email [m2140964]: Ofertele S01986 (furnizare produse) și S02214 (execuție traseu la înălțime), total inițial 21.459,70 EUR + TVA; versiunile finale cu discount 2% trimise pe 04.06.2026.
+
+OFERTA email-c2140964-2 | Stabilus Romania S.R.L. | 2026-07-23 14:10 | Odoo: nu e în lista Odoo | cerere: Stație de osmoză 3 mc/h și bazin de 10 mc pentru vopsitoria nouă | conversații: c2140964
+  preț în email [m2140964]: Ofertă trimisă pe 17.03.2026: filtru NW500, 2 filtre nisip și 2 cărbune de 150 L, dedurizare duplex, osmoză ROMO-3-inox, bazin PAFS 10 mc, 2 UV VIQUA VH 410, montaj (număr de ofertă nemenționat).
+
+OFERTA email-c2104804 | Danex Echipamente SRL | 2026-07-23 15:56 | Odoo: nu e în lista Odoo | cerere: Instalație tratare apă potabilă Oteșani (bugetare) | conversații: c2104804
+  preț în email [m2141060]: Sursa Stadion: filtru + clorinare 12 m³/h ≈ 1500 EUR fără TVA (plus ≈ 6500 EUR pentru dedurizare duplex 200 L).
+  preț în email [m2141060]: Sursa Moara Arsă: osmoză obligatorie, ≈ 59.000 EUR echipamente (2 filtre multimedia 400 L, duplex 600 L, osmoză 6 m³/h, clorinare).
+
+OFERTA S02584 | COMUNA BUDILA I.P. | 2026-07-23 16:57 | Odoo: Ofertă trimisă | cerere: Pompă dozatoare nouă cu montaj și PIF | conversații: c2100740
+  Ofertă S02584 v1 trimisă în m2141220:
+    [11-002119] Pompa dozatoare APG603, PVDF+FKM-B, 24Vac, kit de instalare inclus | 1.0 buc
+    [16-001015] Interventie de montaj pompa dozatoare, PIF | None 
+
+OFERTA S02586 | KDC TERMICE BRASOV S.R.L. | 2026-07-24 10:52 | Odoo: Comandă de vânzare | cerere: Sare pentru dedurizare, 115 saci | conversații: c2105156
+  Confirmare de comandă S02586 v1 trimisă în m2141476:
+    [12-002006] Sare tablete AKRO - dedurizare 25 kg | 60.0 buc
+
+OFERTA S02587 | KDC TERMICE BRASOV S.R.L. | 2026-07-24 10:52 | Odoo: Comandă de vânzare | cerere: Sare pentru dedurizare, 115 saci | conversații: c2105156
+  Confirmare de comandă S02587 v1 trimisă în m2141476:
+    [12-002006] Sare tablete AKRO - dedurizare 25 kg | 60.0 buc
+
+OFERTA S02590 | SANTIERUL NAVAL CONSTANTA SA | 2026-07-24 13:01 | Odoo: Ofertă trimisă | cerere: Saci filtranți dubli tip manșon 5 și 10 microni; Saci filtranți Cleanova WE5P și WE10P; Saci filtranți WE5P pentru filtrarea uleiului de motor | conversații: c2141636, c2143812, c2107428
+  Ofertă S02590 v1 trimisă în m2141636:
+    [01-011100] WE5P/1.4/7VWR/HC ( high capacity bags , size 2, PP felt, 5 micron, pp ring) Finete de filtrare 5 microni Terme | 40.0 buc
+    [01-011101] WE10P/1.4/7VWR/HC ( high capacity bags , size 2, PP felt, 10 micron, pp ring) Finete de filtrare 10 microni Te | 40.0 buc
+
+OFERTA S02592 | JUNIOR DIVISION SOCIETY S.R.L. | 2026-07-24 14:45 | Odoo: Ofertă trimisă | cerere: Stație de clorinare automatizată 14 m³/h | conversații: c2141700
+  Ofertă S02592 v1 trimisă în m2141796:
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 1.0 buc
+    [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 | 1.0 buc
+    [11-002026] LANCE DE ASPIRATIE CU SENZOR DE NIVEL PENTRU REZERVOR 100L, CONEXIUNI 4x6mm | 1.0 buc
+    [11-002005] Supapa multifunctionala cu 2 setari: - contrapresiune intre 0-5 bar - supapa de siguranta intre 0 - 18 bar | 1.0 buc
+    [11-002125] Panou K800 (KPW05PM00000) cu sonda de clor liber anorganic->plaja 0- 2ppm [9900101190] | 1.0 buc
+
+OFERTA S02571 | F HAUS S.R.L. | 2026-07-27 09:31 | Odoo: nu e în lista Odoo | cerere: Sterilizare UV și stație de clorinare Spital Oradea | conversații: c2103876
+  Ofertă S02571-1 v1 trimisă în m2105700:
+    [11-002012] Sistem Clorinare Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proporti | 1.0 buc
+    [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 | 1.0 buc
+    [11-002026] LANCE DE ASPIRATIE CU SENZOR DE NIVEL PENTRU REZERVOR 100L, CONEXIUNI 4x6mm | 1.0 buc
+    [11-002158] Panou K800 model KPS06PM00000, pentru pH/Clor liber: 0-14 pH / clor, H2O2, PAA, brom: 0÷0,5 / 1 / 2 / 5 / 10 / | 1.0 buc
+    [11-002159] Senzor de clor liber anorganic model FCL5: 0-2 ppm, 45° C, 1 bar, 6- 9 pH, (ØxL) 24x222 mm, corp din PVC, iesi | 1.0 buc
+    [11-002004] Cablu pentru senzori FCL, TCL, DCL, PAA, H2O2, O3, brom. Lungime: 1 m | 1.0 buc
+    [27-001233] Sistem UV apa_UV 80/4 RACK LCD PLUS - 316 RM_Debit 30 m3/h_Doza UV 40 mJ/cm2_Putere 355W_Racord DN80_SITA cu c | 1.0 buc
+    [27-005397] Optional SITA pentru gama LCD Rack protectie termica apa calda | 4.0 buc
+  preț în email [m2106852]: Oferta S02571: 10.907,89 € + TVA pentru UV SITA 80/3 PLUS și stația de clorinare SEKO.
+
+OFERTA S02594 | AUTORO SRL | 2026-07-27 09:36 | Odoo: Comandă de vânzare | cerere: Membrane filtrante pentru filtru NW500 | conversații: c2141988
+  Ofertă S02594 v1 trimisă în m2141988:
+    [01-011010] Membrana filtranta 1mcr nw500/650/800 set 5 buc | 1.0 buc
+    [01-011011] Membrana filtranta 5 microni nw 500/650/800 set 5 buc | 2.0 buc
+    [01-011002] Membrana filtranta 10 microni nw 500/650/800 set 5 buc | 2.0 buc
+    [01-011040] Membrana filtranta 25 mcr nw500/650/800 set 5 buc | 2.0 buc
+    [-] Reducere: 10.00% | 1.0 buc
+
+OFERTA S02596 | SHERRY DIANA-CRISTINA P.F. | 2026-07-27 13:07 | Odoo: Comandă de vânzare | cerere: Teacă de cuarț pentru sistem UV | conversații: c2105892
+  Factură proformă S02596 v1 trimisă în m2142308:
+
+OFERTA email-c2138884-1 | S.R.L. Naiman-Com | 2026-07-28 13:28 | Odoo: nu e în lista Odoo | cerere: Cărbune activ granular 28,5 t pentru apă potabilă | conversații: c2138884
+  preț în email [m2142628]: Sorbotech LG 85, granulație 0,6–2,36 mm: 2,35 EUR/kg x 28.500 kg = 66.975 EUR, EXW Polonia, livrare 10-15 zile lucrătoare.
+  preț în email [m2143300]: Sorbotech LG 85, sort special 1,7–2,36 mm: 2,35 EUR/kg x 28.500 kg = 66.975 EUR, plată 100% avans, termen 3,5-4 luni.
+
+OFERTA email-c2142852 | SC START SELL SRL | 2026-07-29 09:50 | Odoo: nu e în lista Odoo | cerere: Pompă pentru spălare chimică PROMAX 20 | conversații: c2142852
+  preț în email [m2142852]: Pompa nu mai e în portofoliu; AKRO oferă doar soluția de dezincrustare BOILER CLEANER pulbere, găleată 10 kg, 570 lei fără TVA.
+
+OFERTA S02607 | GREENTECH SA | 2026-07-29 12:02 | Odoo: Comandă de vânzare | cerere: Intervenție curățare capete de vană stație dedurizare Frasinu | conversații: c2143076
+  Ofertă S02607 v1 trimisă în m2143076:
+    [16-002001] Deplasare la beneficiar, interventie de mentenanta - curatare - Statie dedurizare FRASINU | None 
+
+OFERTA S02469 | CARPATHIAN SPRINGS S.A. | 2026-07-29 12:17 | Odoo: nu e în lista Odoo | cerere: Generator de ozon pentru preclătire sticle | conversații: c2143108
+  Confirmare de comandă S02469 v1 trimisă în m2143108:
+    [10-001080] Generator de ozon g-p30 (30 g/h). contine generator de oxigen | 1.0 buc
+
+OFERTA S02610 | HOFSTETTER ENVIRONMENTAL S.R.L. | 2026-07-30 13:06 | Odoo: Comandă de vânzare | cerere: Nisip filtrant în trei granulații, două livrări | conversații: c2107364
+  Confirmare de comandă S02610 v1 trimisă în m2143908:
+    [14-002084] Nisip cuartos uscat difertie granulatii la big bag - ECO - HGT00006906 - Nisip 0.7-1.2mm - 700kg [ big bag sep | 2300.0 kg
+
+OFERTA S02611 | HOFSTETTER ENVIRONMENTAL S.R.L. | 2026-07-30 13:54 | Odoo: Comandă de vânzare | cerere: Nisip filtrant în trei granulații, două livrări | conversații: c2107364
+  Confirmare de comandă S02611 v1 trimisă în m2144004:
+    [14-002084] Nisip cuartos uscat difertie granulatii la big bag - ECO - HGT00006906 - Nisip 0.7-1.2mm - 700kg [ big bag sep | 2300.0 kg
+
+OFERTA S02613 | AIRBUS AEROSTRUCTURES S.R.L. | 2026-07-31 12:31 | Odoo: Comandă de vânzare | cerere: Stație dedurizare duplex 10 mc/h cu filtru impurități | conversații: c2107716
+  Ofertă S02613 v1 trimisă în m2144292:
+    [01-008018] Filtru impuritati nw500 - 2" | 1.0 buc
+    [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 | 1.0 buc
+    [13-001176] DEC 450-2/duplex, Statie dedurizare - duplex, racord 2", 450L rasina pe fiecare coloana - Vana Clack - CI -2" | 1.0 buc
+    [-] Reducere: 10.00% | 1.0 buc
+  Ofertă S02613 v2 trimisă în m2144516:
+    [01-008018] Filtru impuritati nw500 - 2" | 1.0 buc
+    [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 | 1.0 buc
+    [13-001176] DEC 450-2/duplex, Statie dedurizare - duplex, racord 2", 450L rasina pe fiecare coloana - Vana Clack - CI -2" | 1.0 buc
+    [-] Reducere: 13.00% | 1.0 buc
+  Confirmare de comandă S02613 v1 trimisă în m2150852:
+    [01-008018] Filtru impuritati nw500 - 2" | 1.0 buc
+    [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 | 1.0 buc
+    [13-001176] DEC 450-2/duplex, Statie dedurizare - duplex, racord 2", 450L rasina pe fiecare coloana - Vana Clack - CI -2" | 1.0 buc
+    [-] Reducere: 13.00% | 1.0 buc
+
+OFERTA S02616 | NEOBRAL S.R.L. | 2026-07-31 13:38 | Odoo: Ofertă trimisă | cerere: Cărbune activ pudră pentru instalație de dozare | conversații: c2107556
+  Ofertă S02616 v1 trimisă în m2144388:
+    [14-002103] Carbune activ SORBOTECH LPW 90 - CA pulbere Termen livrare: 15 zile | 500.0 kg
+
+OFERTA S02630 | BUSINESS INFOCONS SRL | 2026-08-04 10:42 | Odoo: Ofertă trimisă | cerere: Recondiționare stație dedurizare: înlocuire rășină și nisip | conversații: c2144740
+  Ofertă S02630 v1 trimisă în m2144740:
+    [14-002033] Nisip cuartos 2-4 mm b | 50.0 kg
+    [14-002100] Rasina dedurizare PURE RESIN PC003 | 100.0 L
+    [16-001004] Manopera de inlocuire rasina | None 
+
+OFERTA email-c2144964 | Kastamonu Romania S.A. | 2026-08-04 13:27 | Odoo: nu e în lista Odoo | cerere: Nisip cuarțos 0,5-1,2 mm și 2-5 mm | conversații: c2144964
+  preț în email [m2144964]: Saci de 25 kg: 3000 lei/t fără TVA, cu livrare inclusă, indiferent de granulație.
+  preț în email [m2144964]: Big bag: 1500 lei/t fără TVA, cu livrare inclusă.
+  preț în email [m2144964]: Termen de livrare aprox. 1-2 săptămâni de la comanda fermă.
+
+OFERTA S02634 | LICAM-PREST SRL | 2026-08-05 10:23 | Odoo: Ofertă trimisă | cerere: Sistem de clorinare pe recircularea unui bazin; Sisteme UV SITA de 30 și 20 mc/h | conversații: c2145540
+  Ofertă S02634 v1 trimisă în m2145540:
+    [11-002151] Panou K800 model KPW05 pentru clor liber, H2O2, PAA, brom. Domeniu de masura pentru clor: 0÷0,5 / 1 / 2 / 5 /  | 1.0 buc
+    [11-002150] Senzor de clor liber model K-FCL ORG/INOR: 0-5 ppm, 45°C, 3 bar, 4-10 pH, 0,01-60 mS, corp din PVC, electrozi  | 1.0 buc
+    [11-002004] Cablu pentru senzori FCL, TCL, DCL, PAA, H2O2, O3, brom. Lungime: 1 m | 1.0 buc
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 1.0 buc
+    [11-002098] Rezervor PE - stocare chimicale 50L | 1.0 buc
+    [27-001233] Sistem UV apa_UV 80/4 RACK LCD PLUS - 316 RM_Debit 30 m3/h_Doza UV 40 mJ/cm2_Putere 355W_Racord DN80_SITA , 4  | 1.0 buc
+    [27-005397] Optional SITA pentru gama LCD Rack - functionare cu apa calda | 4.0 buc
+    [27-001270] Sistem UV apa_80/3 RACK LCD PLUS 316_Debit 20 m3/h_Doza UV 40 mJ/cm2_Putere 266 W_Racord 2"_SITA | 1.0 buc
+    [27-005397] Optional SITA pentru gama LCD Rack | 3.0 buc
+
+OFERTA S02637 | S.C. CARPATHIAN SPRINGS S.A. (Valvis Holding) | 2026-08-05 17:03 | Odoo: nu e în lista Odoo | cerere: Stație ozonare apă tehnologică – generator ozon GP60 | conversații: c2101892
+  Ofertă S02637 v1 trimisă în m2109540:
+    [10-001028] Generator de ozon g-p60 (60 g/h). contine generator de oxigen Termen livrare: 18 sapt. | 1.0 buc
+  Confirmare de comandă S02637 v1 trimisă în m2152804:
+    [10-001028] Generator de ozon g-p60 (60 g/h). contine generator de oxigen Termen livrare: 18 sapt. | 1.0 buc
+
+OFERTA S02640 | AMANN ROMANIA S.R.L. | 2026-08-06 10:50 | Odoo: Ofertă | cerere: Înlocuire rășină și crepine la stație dedurizare duplex | conversații: c2109604
+  Ofertă S02640 v1 trimisă în m2146116:
+    [14-005055] Distribuitor superior cilindric D90 - 40mc/h | 2.0 buc
+    [14-005071] Distribuitor inferior tip bradut, 8brate pentru tank 42", tip flansa, D 90 | 2.0 buc
+    [14-002033] Nisip cuartos 2-4 mm b | 400.0 kg
+    [16-002001] Deplasare la beneficiar, transport echipamente, inlocuire masa filtranta si componente din statia de dedurizar | None 
+  preț în email [m2146116]: Rășină PURE RESIN PC003, 2000 L cu livrare: 6900 EUR fără TVA.
+  preț în email [m2146116]: Rășină Brightion SFC 90, 2000 L cu livrare: 6400 EUR fără TVA.
+  preț în email [m2146116]: Rășină Lewatit S1567, 2000 L cu livrare: 7600 EUR fără TVA.
+  preț în email [m2146116]: Rășină DOWEX HCRS, 2000 L cu livrare: 9700 EUR fără TVA.
+
+OFERTA S02643 | BLEJAN DAN P.F. | 2026-08-06 12:57 | Odoo: Ofertă trimisă | cerere: Carcasă filtrantă duplex cu cartușe; Sterilizator UV pentru apă | conversații: c2146148
+  Ofertă S02643 v1 trimisă în m2146148:
+    [01-009081] Carcasa filtranta duplex 10, racord 1" | 1.0 buc
+    [01-010011] Consola de prindere pt carcasa duplex | 1.0 buc
+    [01-009054] Cheie carcasa filtranta - U | 1.0 buc
+    [01-010016] Cartus filtrant 10&quot; inox 70 mcr, prindere sx -doe | 1.0 buc
+    [01-010038] Cartus filtrant proxis prm10tx247 | 3.0 buc
+    [27-001168] Sistem UV apa_VIQUA VH200_Debit 1,6 m3/h_Doza UV 40mJ/cm2_Putere 35 W_Racord 3/4" - 1"_VIQUA | 1.0 buc
+    [-] Reducere: 8.00% | 1.0 buc
+
+OFERTA S02644 | MEPA ENERGIE S.R.L. | 2026-08-06 13:19 | Odoo: Ofertă trimisă | cerere: Stație dedurizare duplex BS3200 cu filtre FTA | conversații: c2106916
+  Ofertă S02644 v1 trimisă în m2146180:
+    [01-008014] Filtru mecanic autocuratitor automat FTA 180/E 2” - Cartus inox 50 microni | 3.0 buc
+    [01-008013] Fta-dp. dispozitiv automat de comanda functie de pierderea de presiune. poate controla 1, 2 sau 3 filtre fta/e | 1.0 buc
+    [13-001147] Duplex softener BS3200D2/RV - unit with 800L resin/each tank, with electric valve skid, 2 brine tanks, backwas | 1.0 buc
+    [-] Displacement to the beneficiary, asembly of the unit and comissioning | None 
+    [-] Materials + manwork - mounting system [ we have calculated this services considering a max hydraulic circuit o | None 
+    [12-002006] Sare tablete AKRO - dedurizare 25 kg | 40.0 buc
+  Ofertă S02644 v2 trimisă în m2148932:
+    [01-008014] Filtru mecanic autocuratitor automat FTA 180/E 2” - Cartus inox 50 microni | 3.0 buc
+    [01-008013] Fta-dp. dispozitiv automat de comanda functie de pierderea de presiune. poate controla 1, 2 sau 3 filtre fta/e | 1.0 buc
+    [13-001147] Duplex softener BS3200D2/RV - unit with 800L resin/each tank, with electric valve skid, 2 brine tanks, backwas | 1.0 buc
+    [-] Displacement to the beneficiary, asembly of the unit and comissioning | None 
+    [-] Materials + manwork - mounting system [ we have calculated this services considering a max hydraulic circuit o | None 
+    [12-002006] Sare tablete AKRO - dedurizare 25 kg | 40.0 buc
+
+OFERTA S02647 | CONEST SA | 2026-08-07 12:53 | Odoo: Ofertă trimisă | cerere: Instalație clorinare hipoclorit pentru lucrarea Focuri | conversații: c2146532
+  Ofertă S02647 v1 trimisă în m2146564:
+    [11-002013] Pompa dozatoare solenoidala tpg 803, digitala cu debit constant ajustabil manual sau proportional, in functie  | 1.0 buc
+    [23-001191] Contor-ZENNER - WPD DN150 cu modul EDC MBus si impuls - 1/1000 | 1.0 buc
+    [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 | 1.0 buc
+
+OFERTA S02651 | AQUA TRANSALPINA S.R.L. | 2026-08-10 16:17 | Odoo: Ofertă trimisă | cerere: Microfiltrare și UV pentru linie îmbuteliere apă izvor | conversații: c2147108
+  Ofertă S02651 v1 trimisă în m2147108:
+    [01-009139] Carcasa filtranta inox, multicartus, MVB7S3D50P8L | 2.0 buc
+    [01-009078] Manometru,ventil de aerisire si prelevare probe-pentru carcase SV si MVB XGS-SS010BU-D63 | 2.0 buc
+    [01-010086] Cartus filtrant StarFine SFM3K3P8S - finete de filtrare 3 microni | 7.0 buc
+    [01-010083] Cartus filtrant StarFine - SFM1K3P8S - finete de filtrare 1 micron | 7.0 buc
+    [27-001262] Sistem UV apa_80/2 RACK LCD PLUS_Debit 12 m3/h_Doza UV 40 mJ/cm2_Putere 160 W_Racord 2"_SITA_cu senzor UV | 1.0 buc
+
+OFERTA S02654 | CORNU BOULANGERIE S.R.L. | 2026-08-10 16:24 | Odoo: Comandă de vânzare | cerere: Un palet de sare tablete pentru dedurizare | conversații: c2111044
+  Confirmare de comandă S02654 v1 trimisă în m2147140:
+    [12-002006] Sare tablete AKRO - dedurizare 25 kg | 40.0 buc
+
+OFERTA S02655 | ILIVAS COMSERV S.R.L. | 2026-08-11 09:54 | Odoo: Comandă de vânzare | cerere: Contor Zenner DN100 cu modul EDC | conversații: c2147300
+  Ofertă S02655 v1 trimisă în m2147300:
+    [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 Termen livrare: 10 zile | 1.0 buc
+  Confirmare de comandă S02655 v1 trimisă în m2147460:
+    [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 Termen livrare: 10 zile | 1.0 buc
+
+OFERTA S02656 | APA CANAL TURNU ROSU SRL | 2026-08-11 12:23 | Odoo: Comandă de vânzare | cerere: Masă filtrantă, crepine și înlocuire la filtre; Înlocuire mase filtrante și crepine la 2 filtre NOBEL | conversații: c2147588, c2113124
+  Ofertă S02656 v1 trimisă în m2147588:
+    [14-005076] Crepina NOBEL completa - duza+piulita blocare+ancora surub PP | 284.0 buc
+    [14-002032] Nisip cuartos 0,4-0,8 mm b | 2500.0 kg
+    [14-002029] Nisip cuartos 1 -2 mm b | 1200.0 kg
+    [14-002033] Nisip cuartos 2-4 mm b | 900.0 kg
+    [13-001193] Antracit 0.6-1.6mm - ACES - saci individuali -50L | 1000.0 L
+    [16-002001] Deplasare la beneficiar, transport masa filtranta, inlocuire masa filtranta, inlocuire crepine, incarcare masa | None 
+  Confirmare de comandă S02656 v1 trimisă în m2150244:
+    [14-005076] Crepina NOBEL completa - duza+piulita blocare+ancora surub PP | 284.0 buc
+    [14-002032] Nisip cuartos 0,4-0,8 mm b | 2500.0 kg
+    [14-002029] Nisip cuartos 1 -2 mm b | 1200.0 kg
+    [14-002033] Nisip cuartos 2-4 mm b | 900.0 kg
+    [13-001193] Antracit 0.6-1.6mm - ACES - saci individuali -50L | 1000.0 L
+    [16-002001] Deplasare la beneficiar, transport masa filtranta, inlocuire masa filtranta, inlocuire crepine, incarcare masa | None 
+
+OFERTA email-c2111076 |  | 2026-08-11 14:35 | Odoo: nu e în lista Odoo | cerere: Sistem complet tratare apă puț forat 20 mc/h | conversații: c2111076
+  preț în email [m2147748]: Prețuri nete pe echipamente, buget total echipamente 72000 euro NET.
+
+OFERTA S02662 | PFEIFFER VACUUM ROMANIA SRL | 2026-08-12 11:41 | Odoo: Comandă de vânzare | cerere: Înlocuire masă filtrantă în 6 butelii Gewapur | conversații: c2111492
+  Confirmare de comandă S02662 v1 trimisă în m2147940:
+    [16-001004] Inlocuire masa filtranta - 6 x Butelie 25 L Mixed Bed - manopera inclusa | None 
+    [16-003003] Livrare si ambalare pallex - intern | 2.0 buc
+
+OFERTA S02664 | BERĂRIA CALUL BUN SRL | 2026-08-13 08:35 | Odoo: Comandă de vânzare | cerere: Cartușe filtrante SFM1K1A1S și Atlas CA-SE-10-SX | conversații: c2111748
+  Confirmare de comandă S02664 v1 trimisă în m2148484:
+    [01-010101] Cartus filtrant starfine sfm1k1a1s | 4.0 buc
+    [01-010205] Cartus carbune activ impregnat cu argint - bloc 0.3 microni, 10" case10sx prindere doe | 12.0 buc
+    [16-003005] Livrare si ambalare | 1.0 buc
+
+OFERTA S02667 | CONRAD CONSINSTAL S.R.L. | 2026-08-13 09:58 | Odoo: Comandă de vânzare | cerere: Repunere în funcțiune stație clorinare UM Teișani | conversații: c2111396
+  Ofertă S02667 v1 trimisă în m2148644:
+    [16-002001] Deplasare la beneficiar, constatare, verificare sistem - repunere in functiune | None 
+
+OFERTA S02668 | MOB GLOBAL IMPACT SRL | 2026-08-13 12:21 | Odoo: Comandă de vânzare | cerere: Filtru impurități 2" și stație clorinare volumetrică | conversații: c2148708
+  Ofertă S02668 v1 trimisă în m2148708:
+    [01-008018] Filtru impuritati nw500 - 2" | 1.0 buc
+    [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 | 1.0 buc
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 1.0 buc
+    [11-002098] Rezervor PE - stocare chimicale 50L | 1.0 buc
+    [23-001196] Contor 2"-ZENNER - cu generator de impuls 1/100L - cu racorduri (o-landezi) si garnituri incluse MTKD-N+EDC | 1.0 buc
+
+OFERTA email-c2148772 | Ervin Laszlo | 2026-08-13 13:23 | Odoo: nu e în lista Odoo | cerere: 4 saci Pyrolox cu transport | conversații: c2148772
+  preț în email [m2148772]: 440 euro fără TVA pentru 4 saci Pyrolux, cu livrare inclusă în România.
+
+OFERTA S02674 | Tuchel Marian | 2026-08-14 08:27 | Odoo: Ofertă trimisă | cerere: Pompă dozatoare SEKO AKL 800 N | conversații: c2149060
+  Ofertă S02674 v1 trimisă în m2149060:
+    [11-002074] Pompa dozatoare solenoidala AKL800, analogica, cu debit constant ajustabil manual, debit: max 18 l/h @ 1 bar;  | 1.0 buc
+
+OFERTA S02677 | FARMA - IDIL SRL | 2026-08-14 11:16 | Odoo: Ofertă trimisă | cerere: Sistem de apă demineralizată pentru producție cosmetice | conversații: c2142916
+  Ofertă S02677 v1 trimisă în m2149188:
+    [01-008048] Filtru impuritati NW400 - 1.5" | 1.0 buc
+    [01-008049] Consola de prindere pentru carcasa cintropur NW 280/340/400 | 1.0 buc
+    [13-001171] FCC 150 Filtru cu carbune, 150L mediu filtrant, Clack CI - racord 1.25" | 1.0 buc
+    [13-001297] DEC 150-1.25/duplex, Statie dedurizare duplex alternating, 150L rasina, vane Clack CI - 1.25" | 1.0 buc
+    [08-002231] Statie osmoza Ecosoft MO24000TP5 - 1000L/h permeat, membrane XLE incluse | 1.0 buc
+    [23-003029] Rezervor polipropilena suprateran - 2 mc | 1.0 buc
+    [23-001141] Pompa Grundfos - cu convertizor -CMBE1-44 I-U-C-C-G-A 1x220-240V 50/60Hz - 1.5mc/h | 1.0 buc
+    [27-001155] Sistem UV apa_VIQUA VH410_Debit 3.2 m3/h_Doza UV 40 mJ/cm2_Putere 60 W_Racord 3/4"-1"_VIQUA | 1.0 buc
+  preț în email [m2148836]: Echipamentele din flux (strict livrare) ajung la 18.200 EUR fără TVA.
+
+OFERTA S02679 | COCA COLA HBC ROMANIA S.R.L. | 2026-08-17 08:46 | Odoo: Ofertă trimisă | cerere: 15 membrane osmoză HSRO 390 FF | conversații: c2112228
+  Ofertă S02679 v1 trimisă în m2149380:
+    [08-002144] Membrana osmotica sanitizabila-Filmtec - HSRO 390-FF | 15.0 buc
+
+OFERTA S02671 | TERMOSISTEM EHP SRL | 2026-08-17 11:17 | Odoo: Ofertă trimisă | cerere: Echipamente clorinare: pompă, rezervor, lance, contor DN100 | conversații: c2149028
+  Ofertă S02671 v1 trimisă în m2149476:
+    [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 | 1.0 buc
+    [11-002026] LANCE DE ASPIRATIE CU SENZOR DE NIVEL PENTRU REZERVOR 100L, CONEXIUNI 4x6mm | 1.0 buc
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 1.0 buc
+    [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 - sau reed la cerere | 1.0 buc
+
+OFERTA S02681 | OMNIA EUROPE S.A. | 2026-08-17 13:48 | Odoo: Ofertă trimisă | cerere: 100 membrane osmoză 8040 ESPA2 MAX | conversații: c2112484
+  Ofertă S02681 v1 trimisă în m2149764:
+    [08-002193] Membrana osmotica 8040 ESPA2 MAX | 100.0 buc
+
+OFERTA S02682 | GEA REFRIGERATION ROMANIA S.R.L. | 2026-08-17 14:21 | Odoo: Comandă de vânzare | cerere: Cărbune activ extrudat pentru reținere clor din aer; Comandă cărbune GE 604 - proiect Perla Harghitei | conversații: c2149796, c2112932
+  Ofertă S02682 v1 trimisă în m2149796:
+    [14-002085] Sorbotech® GE 604 - carbune activ extrudat - filtrare aer | 100.0 kg
+    [16-003003] Livrare si ambalare pallex - intern | 1.0 buc
+  Confirmare de comandă S02682 v1 trimisă în m2150020:
+    [14-002085] Sorbotech® GE 604 - carbune activ extrudat - filtrare aer | 100.0 kg
+    [16-003003] Livrare si ambalare pallex - intern | 1.0 buc
+
+OFERTA S02686 | HOME & OFFICE GLASS DESIGN S.R.L. | 2026-08-17 16:18 | Odoo: Comandă de vânzare | cerere: Nisip cuarțos 0,8-1,2 mm și 2-4 mm | conversații: c2112900
+  Confirmare de comandă S02686 v1 trimisă în m2149956:
+    [14-002034] Nisip cuartos 0,8-1,2 mm, b | 50.0 kg
+    [14-002033] Nisip cuartos 2-4 mm b | 50.0 kg
+    [16-003005] Livrare si ambalare | 1.0 buc
+
+OFERTA email-c2149668 | Veselin Mitev | 2026-08-17 16:42 | Odoo: nu e în lista Odoo | cerere: Generator de ozon rezidențial Ozone Water 3000/1000 | conversații: c2149668
+  preț în email [m2149988]: Ozone Water 1000/8: 260,56 EUR fără TVA
+  preț în email [m2149988]: Transport DHL estimat la circa 50 EUR
+
+OFERTA S02688 | CENTER FUSION DUK SRL | 2026-08-18 09:26 | Odoo: Ofertă trimisă | cerere: 23 tone nisip cuarțos 1-3 mm în big bag | conversații: c2150084
+  Ofertă S02688 v1 trimisă în m2150084:
+    [14-002084] Nisip cuartos uscat difertie granulatii la big bag - ECO Granualtie 1-3mm | 23000.0 kg
+
+OFERTA S02021 | Moldocor | 2026-08-18 10:15 | Odoo: nu e în lista Odoo | cerere: Stație dedurizare - Danubiana Roman | conversații: c2150148
+  Ofertă S02021 v1 trimisă în m2150148:
+    [13-001283] DEC 16/V - Statie dedurizare simplex, 16L rasina, vana Clack CI - 1" - vas saramura 100L | None 
+    [16-001015] Deplasare la beneficiar, materiale si manopera de montaj | None 
+
+OFERTA S02068 | Moldocor | 2026-08-18 10:15 | Odoo: nu e în lista Odoo | cerere: Stații dedurizare - Grădinița 12 și Școala 2 Piatra Neamț | conversații: c2150148
+  Ofertă S02068 v1 trimisă în m2150148:
+    [13-001249] DEC 100/V - Statie dedurizare simplex, 100L rasina, vana Clack CI - 1" - rezervor saramura 200L | None 
+    [-] Reducere: 15.00% | 1.0 buc
+
+OFERTA S02121 | Moldocor | 2026-08-18 10:15 | Odoo: nu e în lista Odoo | cerere: Stație dedurizare - Liceul Economic Piatra Neamț | conversații: c2150148
+  Ofertă S02121 v1 trimisă în m2150148:
+    [13-001256] DEC 25/V - Statie dedurizare simplex, 25L rasina, vana Clack CI - 1" - tank saramura 70L | None 
+    [-] Reducere: 15.00% | 1.0 buc
+
+OFERTA S02405 | Moldocor | 2026-08-18 10:15 | Odoo: nu e în lista Odoo | cerere: Stație dedurizare - Creșa Izvoare, Neamț | conversații: c2150148
+  Ofertă S02405 v1 trimisă în m2150148:
+    [13-001256] DEC 25/V - Statie dedurizare simplex, 25L rasina, vana Clack CI - 1" - tank saramura 70L | None 
+    [-] Reducere: 15.00% | 1.0 buc
+
+OFERTA S02694 | Nagy Stefan Ioan | 2026-08-19 11:19 | Odoo: Ofertă trimisă | cerere: Stație tratare cu ecomix și filtre multimedia (reabilitare / linie nouă) | conversații: c2150756
+  Ofertă S02694 v1 trimisă în m2150756:
+    [13-001208] FMC 250 - Filtru multimedia, 250L mediu filtrant, vana Clack CI, racord 2" | 2.0 buc
+    [13-001298] FECM 400-2/duplex, Statie ecomix A - duplex, vane Clack CI, racord 2", 400L rasina pe fiecare coloana | 1.0 buc
+    [-] Reducere: 15.00% | 1.0 buc
+
+OFERTA S02695 | Nagy Stefan Ioan | 2026-08-19 11:19 | Odoo: Ofertă trimisă | cerere: Stație tratare cu ecomix și filtre multimedia (reabilitare / linie nouă) | conversații: c2150756
+  Ofertă S02695 v1 trimisă în m2150756:
+    [13-001194] FMC 400 - Filtru multimedia, 400L mediu filtrant, vana Clack CI, racord 2" | 2.0 buc
+    [13-001299] FECM 600-2/duplex, Statie ecomix A - duplex, vane Clack CI, racord 2", 600L rasina pe fiecare coloana | 1.0 buc
+    [-] Reducere: 15.00% | 1.0 buc
+
+OFERTA S02693 | Nagy Stefan Ioan | 2026-08-19 11:19 | Odoo: Ofertă trimisă | cerere: Stație tratare cu ecomix și filtre multimedia (reabilitare / linie nouă) | conversații: c2150756
+  Ofertă S02693 v1 trimisă în m2150756:
+    [-] Masa filtranta, vana de comanda Clack CI 1.5" si componente interne noi pentru reabilitare Filtru Nobel FCV 07 | None 
+    [-] Masa filtranta, vana de comanda Clack TT 1" si componente interne noi pentru reabilitare Statie dedurizare AS  | None 
+    [-] REDUCERE Reducere: 15.00% | 1.0 buc
+
+OFERTA S02700 | BEMADA S.R.L. | 2026-08-19 13:53 | Odoo: Ofertă trimisă | cerere: Contor apă cu impuls DN 65 | conversații: c2113444
+  Ofertă S02700 v1 trimisă în m2151044:
+    [23-001187] Contor-ZENNER - WPD DN65 cu modul EDC MBus si impuls - 1/100 | 1.0 buc
+
+OFERTA email-c2151268 | PRB CLARUM SRL | 2026-08-20 13:12 | Odoo: nu e în lista Odoo | cerere: Medii filtrante diverse (zeolit, ecomix, rășini, antracit, cărbune, nisip) | conversații: c2151268
+  preț în email [m2151268]: Ecomix A: 165 EUR/sac 25 L fără TVA, comandă minimă 20 saci
+  preț în email [m2151268]: Rășină dedurizare PC003: 65 EUR/sac 25 L fără TVA, comandă minimă 40 saci
+  preț în email [m2151268]: Rășină denitrare PA202: 160 EUR/sac 25 L fără TVA, comandă minimă 20 saci
+  preț în email [m2151268]: Pyrolux: 98 EUR/sac 25 kg fără TVA, comandă minimă 40 saci
+  preț în email [m2151268]: Nisip (orice granulație): 14,5 EUR/sac 25 kg fără TVA, comandă minimă 40 saci
+  preț în email [m2151268]: Antracit: 100 EUR/sac 50 L fără TVA, comandă minimă 20 saci
+  preț în email [m2151268]: Cărbune bituminos LG85: 84 EUR/sac 40 L fără TVA, comandă minimă 25 saci
+  preț în email [m2151268]: Cărbune din coajă de nucă de cocos LGCO100: 122 EUR/sac 40 L fără TVA, comandă minimă 25 saci
+
+OFERTA S02357 | Fabrica de zahăr premium Ludus SA | 2026-08-20 14:50 | Odoo: nu e în lista Odoo | cerere: Cartușe filtrante PRNW050-29 50 µm pentru apă de condens | conversații: c2114404
+  Factură proformă S02357 v1 trimisă în m2151364:
+  Confirmare de comandă S02357 v1 trimisă în m2151364:
+    [01-010031] Cartus filtrant proxis prnz050-29 Echivalent CUNO G78F8-3-Finete de filtrare 50 microni. Termen livrare: 25 zi | 32.0 buc
+
+OFERTA S02400 | ARTROM STEEL TUBES S.A. | 2026-08-24 09:36 | Odoo: nu e în lista Odoo | cerere: Instalație filtrare apă cu cărbune activ, clorinare și grup de pompare | conversații: c2114756
+  Confirmare de comandă S02400 v1 trimisă în m2151524:
+    [23-001211] HYDRO F 2xCM25-2 DN80 400V - 2 x 20mc/h Grup de pompare, Grundfos, 1A+1R, functionare in cascada, alternare, f | 1.0 buc
+    [-] Baterie filtrare compusa din 3 x Filtre Skid 4872 FRP cu 1000L carbune Sorbotech LGCO100 /fiecare | None 
+    [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 | 1.0 buc
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 1.0 buc
+    [11-002026] LANCE DE ASPIRATIE CU SENZOR DE NIVEL PENTRU REZERVOR 100L, CONEXIUNI 4x6mm | 1.0 buc
+    [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 | 1.0 buc
+    [16-001010] Deplasari echipe service, transport echipamente, Automatizare - senzor de nivel cu vana de comanda electrica p | None 
+
+OFERTA S02707 | UNITATEA MILITARA NR. 01829 | 2026-08-24 10:12 | Odoo: Comandă de vânzare | cerere: Verificare și mentenanță sistem de clorinare apă menajeră | conversații: c2151492
+  Ofertă S02707 v1 trimisă în m2151588:
+    [16-002001] Deplasare la beneficiar - Verificare instalatie de clorinare + filtre, operatiune de mentenanta - constatare | None 
+  Confirmare de comandă S02707 v1 trimisă în m2154180:
+    [16-002001] Deplasare la beneficiar - Verificare instalatie de clorinare + filtre, operatiune de mentenanta - constatare | None 
+
+OFERTA S02716 | IBB SUPPLY AND SERVICES S.R.L. | 2026-08-25 08:29 | Odoo: Ofertă trimisă | cerere: Saci filtranți dual layer 25/5 µm, mărimea 2 | conversații: c2151908
+  Ofertă S02716 v1 trimisă în m2151908:
+    [01-011102] Sac filtrant multi layer WE25/5P2VWR - 25/5microni Termen livrare: 30 zile | 50.0 buc
+    [16-003005] Livrare si ambalare | 1.0 buc
+
+OFERTA S02717 | CATONI AND CO ROMANIA SRL | 2026-08-25 08:31 | Odoo: Ofertă trimisă | cerere: Saci filtranți dual layer 25/5 µm, mărimea 2 | conversații: c2151780
+  Ofertă S02717 v1 trimisă în m2151940:
+    [01-011102] Sac filtrant multi layer WE25/5P2VWR - 25/5microni Termen livrare: 30 zile | 50.0 buc
+    [16-003005] Livrare si ambalare | 1.0 buc
+
+OFERTA email-c2115332 | S.C. ICPE Bistrita S.A. | 2026-08-25 13:41 | Odoo: nu e în lista Odoo | cerere: Filtru cu ciclon și filtru cu cartuș pentru apă de foraj | conversații: c2115332
+  preț în email [m2152068]: Filtru Cintropur NW400 complet echipat: 270 EUR fără TVA (reaprovizionare în 2-3 săptămâni).
+
+OFERTA S02720 | LA FANTANA S.R.L. | 2026-08-25 14:38 | Odoo: Comandă de vânzare | cerere: Cartușe 1 µm SFM1K3P7S și PRM1TX4C8S | conversații: c2115460
+  Confirmare de comandă S02720 v1 trimisă în m2152164:
+    [01-010081] Cartus filtrant star fine sfm1k3p7s | 18.0 buc
+    [01-010243] Cartus filtrant PRM1TX4C8S | 12.0 buc
+    [16-003005] Livrare si ambalare | 2.0 buc
+
+OFERTA S02721 | LA FANTANA S.R.L. | 2026-08-25 15:08 | Odoo: Comandă de vânzare | cerere: Cartușe 10 µm de 40 inch | conversații: c2115460
+  Ofertă S02721 v1 trimisă în m2152228:
+    [01-010260] Cartus filtrant PRM10TX4C8S | 14.0 buc
+    [16-003005] Livrare si ambalare | 1.0 buc
+  Confirmare de comandă S02721 v1 trimisă în m2153316:
+    [01-010260] Cartus filtrant PRM10TX4C8S | 14.0 buc
+    [16-003005] Livrare si ambalare | 1.0 buc
+
+OFERTA S02724 | BLEJAN DAN P.F. | 2026-08-26 11:28 | Odoo: Ofertă trimisă | cerere: Carcasă filtrantă duplex cu cartușe; Sterilizator UV pentru apă | conversații: c2146148
+  Ofertă S02724 v1 trimisă în m2152388:
+    [01-009081] Carcasa filtranta duplex 10, racord 1" | 1.0 buc
+    [01-010011] Consola de prindere pt carcasa duplex | 1.0 buc
+    [01-009054] Cheie carcasa filtranta - U | 1.0 buc
+    [01-010016] Cartus filtrant 10&quot; inox 70 mcr, prindere sx -doe | 1.0 buc
+    [01-010038] Cartus filtrant proxis prm10tx247 | 3.0 buc
+    [27-001229] Sistem UV apa_405C AL2_Debit 1,8 m3/h_Doza UV 30mJ/cm2_Putere_33W_Racord 3/4"_SITA | 1.0 buc
+    [-] Reducere: 8.00% | 1.0 buc
+
+OFERTA email-c2152484 | Cardilater Fishing SRL | 2026-08-26 16:05 | Odoo: nu e în lista Odoo | cerere: Zeolit în big-bag | conversații: c2152484
+  preț în email [m2152484]: Zeolit 400 EUR/tonă fără TVA și fără transport; big-bag de 1200 kg; granulații 0,5-1,5 / 1,5-3 / 3-5 mm; transport Pallex estimat 60-70 EUR.
+
+OFERTA S02725 | TIMSTYLE SRL | 2026-08-27 09:07 | Odoo: Ofertă trimisă | cerere: Sistem eliminare amoniu, filtrare și UV pentru apă de foraj | conversații: c2115972
+  Ofertă S02725 v1 trimisă în m2152516:
+    [13-001217] - FNC60 - Filtru cu nisip, 60L mediu filtrant, racord 1" - spalare volumetrica | None 
+    [13-001272] FECM 50/V, Statie ecomix A - simplex, 50L mediu filtrant, racord 1" | None 
+    [27-001155] Sistem UV apa_VIQUA VH410_Debit 3.2 m3/h_Doza UV 40 mJ/cm2_Putere 60 W_Racord 3/4"-1"_VIQUA | None 
+
+OFERTA S02728 | HVAC PRO INSTAL S.R.L. | 2026-08-27 09:53 | Odoo: Comandă de vânzare | cerere: Dedurizator galvanic IPS KalyxX BlueLine | conversații: c2152612
+  Ofertă S02728 v1 trimisă în m2152612:
+    [13-001107] Dedurizator galvanic IPS KalyxX BlueLine G3/4" Termen livrare: 5 zile | 1.0 buc
+    [16-003005] Livrare si ambalare | 1.0 buc
+  Factură proformă S02728 v1 trimisă în m2156900:
+    [13-001107] Dedurizator galvanic IPS KalyxX BlueLine G3/4" | 1.0 buc
+    [16-003005] Livrare si ambalare | 1.0 buc
+  Factură proformă S02728 v2 trimisă în m2156932:
+    [13-001108] Dedurizator galvanic IPS KalyxX BlueLine G1" | 1.0 buc
+    [16-003005] Livrare si ambalare | 1.0 buc
+
+OFERTA S02735 | DRAXL MAIER SISTEME TEHNICE ROMANIA S.R.L. | 2026-08-28 09:07 | Odoo: Ofertă trimisă | cerere: Soluție tratare apă GELPHOS L 25 kg | conversații: c2153156
+  Ofertă S02735 v1 trimisă în m2153284:
+    [12-002023] GELPHOS L 25 KG | 12.0 buc
+    [16-003006] Transport marfa | None 
+
+OFERTA S02738 | GUHRING S.R.L. | 2026-08-28 15:05 | Odoo: Comandă de vânzare | cerere: Încărcare 3 butelii purificator apă (iulie) | conversații: c2099492
+  Confirmare de comandă S02738 v1 trimisă în m2153444:
+    [16-001004] Inlocuire rasina in 2 x butelie P42 - masa filtranta + manopera | None 
+
+OFERTA email-c2153604 | TALPAC SRL CONSTANTA | 2026-08-31 12:24 | Odoo: nu e în lista Odoo | cerere: Nisip cuarțos 3 mc pentru licitație | conversații: c2153604
+  preț în email [m2153604]: Nisip cuarțos 1-3 mm big bag, 1350 lei/tonă fără TVA cu transport inclus; 4,5 t = 6075 lei + TVA; livrare 2-3 săptămâni, plată 100% în avans.
+
+OFERTA S02741 | HCS SANISHOP S.R.L. | 2026-08-31 12:47 | Odoo: Ofertă trimisă | cerere: Stație de dedurizare pentru apartament | conversații: c2116964
+  Ofertă S02741 v1 trimisă în m2153636:
+    [13-001179] DEC 75/V - Statie dedurizare simplex, 75L rasina, vana Clack CI - 1.25" | 1.0 buc
+    [13-001237] DEC 75/V - Statie dedurizare simplex, 75L rasina, vana Clack CI - 1" | 1.0 buc
+
+OFERTA S02742 | ROV HEIZ CONSULT SRL | 2026-08-31 15:36 | Odoo: Ofertă trimisă | cerere: Tratare apă foraj restaurant Hesburger A1 | conversații: c2153764
+  Ofertă S02742 v1 trimisă în m2153764:
+    [01-008048] Filtru impuritati NW400 - 1.5" purjare manuala + membrana lavabila 150 microni | 1.0 buc
+    [01-008049] Consola de prindere pentru carcasa cintropur NW 280/340/400 | 1.0 buc
+    [13-001246] DEC 100-1.25/duplex, Statie dedurizare - duplex, racord 1.25", 100L rasina pe fiecare coloana - Vane Clack - C | 1.0 buc
+    [27-001156] Sistem UV apa_VP 950_Debit 8 m3/h_Doza UV 40 mJ/cm2_Putere 96 W_Racord 1" 1/2"_VIQUA | 1.0 buc
+
+OFERTA S02743 | IONEL MOCANU | 2026-08-31 16:10 | Odoo: Ofertă trimisă | cerere: Instalație dedurizare penthouse Brașov | conversații: c2153828
+  Ofertă S02743 v1 trimisă în m2153828:
+    [13-001179] DEC 75/V - Statie dedurizare simplex, 75L rasina, vana Clack CI - 1,25" | 1.0 Units
+  preț în email [m2153828]: Filtru de impurități NW400 cu mesh nylon 150 microni: 1620 lei fără TVA.
+
+OFERTA S02746 | CORAL CONSTRUCT S.R.L. | 2026-09-01 09:23 | Odoo: Comandă de vânzare | cerere: Revizie de toamnă Aumovio Iași | conversații: c2117252
+  Ofertă S02746 v1 trimisă în m2153892:
+    [01-010136] Prm5tx2/114 cartus filtrant 5microni, 20" big blue | 1.0 buc
+    [16-002001] Deplasare la beneficiar o persoana + diurna | 600.0 buc
+    [16-001011] Service mentenanta constatare tehnica - locatie 1 - Statie dedurizare mobila - JUDO JMBH-2 | None 
+    [16-001011] Service mentenanta constatare tehnica - locatie 2 - Statie dedurizare simplex CLACK - tank 14x52 | None 
+    [16-001010] Service mentenanta constatare tehnica - locatie 3 - Statie tratare apa cu filtru carbune Clack 10x54, cu stati | None 
+
+OFERTA S02748 | MONTIN SA | 2026-09-01 09:53 | Odoo: Comandă de vânzare | cerere: Stație de dedurizare obiectiv PARKLANE | conversații: c2117124
+  Ofertă S02748 v1 trimisă în m2153956:
+    [01-008018] Filtru impuritati nw500 - 2" | 1.0 buc
+    [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 | 1.0 buc
+    [23-001219] Contor apa rece axial cu cadran uscat - 2"-ZENNER - cu generator de impuls 1/10L - cu racorduri (o-landezi) si | 1.0 buc
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 1.0 buc
+    [11-002098] Rezervor PE - stocare chimicale 50L | 1.0 buc
+    [13-001164] Statie dedurizare duplex 2x700L, Vana RX99 - 2" | 1.0 buc
+    [-] Reducere: 15.00% | 1.0 buc
+  Confirmare de comandă S02748 v1 trimisă în m2154404:
+    [01-008018] Filtru impuritati nw500 - 2" | 1.0 buc
+    [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 | 1.0 buc
+    [23-001219] Contor apa rece axial cu cadran uscat - 2"-ZENNER - cu generator de impuls 1/10L - cu racorduri (o-landezi) si | 1.0 buc
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 1.0 buc
+    [11-002098] Rezervor PE - stocare chimicale 50L | 1.0 buc
+    [13-001164] Statie dedurizare duplex 2x700L, Vana RX99 - 2" | 1.0 buc
+    [16-002001] Deplasare la beneficiar - Popesti Leordeni, asamblare statie pe pozitie, incarcare cu rasina si PIF | None 
+
+OFERTA S02750 | PASIROM INTERACTIV S.R.L. | 2026-09-01 11:25 | Odoo: Ofertă trimisă | cerere: Debitmetru electromagnetic DN 65 | conversații: c2117348
+  Ofertă S02750 v1 trimisă în m2154020:
+    [23-001172] Debitmetru electromagnetic APLISENS - DN 65 - cu elemente separate [ modular] - 8 m cablu | 1.0 buc
+
+OFERTA S02751 | MP BANEASA MOARA S.A. | 2026-09-01 12:04 | Odoo: Ofertă trimisă | cerere: Masă filtrantă și manoperă înlocuire în 2 filtre | conversații: c2154052
+  Ofertă S02751 v1 trimisă în m2154052:
+    [14-002033] Nisip cuartos 2-4 mm b | 100.0 kg
+    [14-002007] Rasina eliminare ARSEN - AQUA AS | 425.0 L
+    [14-005031] DISTRIBUTOR 50MM WITH BOTTOM BASKET D1196-09 | 2.0 buc
+    [16-002001] Deplasare la beneficiar, inlocuire masa filtranta in cele doua filtre - repunere in functiune | None 
+
+OFERTA S02753 | B-WORKS S.R.L. | 2026-09-01 12:20 | Odoo: Ofertă trimisă | cerere: Sistem 2 filtre Big Blue + UV | conversații: c2154084
+  Ofertă S02753 v1 trimisă în m2154084:
+    [01-009135] Sistem Filtrare Big F Pro 256 - 2 stages + UV | 1.0 buc
+
+OFERTA S02755 | B-WORKS S.R.L. | 2026-09-01 12:55 | Odoo: Ofertă trimisă | cerere: Filtrare pentru reducerea turbidității | conversații: c2154116
+  Ofertă S02755 v1 trimisă în m2154116:
+    [01-008018] Filtru impuritati nw500 - 2" cu mesh de 300 microni | 1.0 buc
+    [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 | 1.0 buc
+    [13-001301] FMC 250 - Filtru multimedia, 250L mediu filtrant, vana Clack CI, racord 1.5" | 2.0 buc
+    [-] Reducere: 20.00% | 1.0 buc
+
+OFERTA S02756 | ARTROM STEEL TUBES S.A. | 2026-09-01 15:02 | Odoo: Comandă de vânzare | cerere: Intervenție verificare instalație apă potabilă | conversații: c2117380
+  Ofertă S02756 v1 trimisă în m2154244:
+    [16-002001] Deplasare la beneficiar - interventie de mentenanta la statia de tratare apa - PUT 1/2/3/ si recirculare apa | None 
+  Confirmare de comandă S02756 v1 trimisă în m2155428:
+    [16-002001] Deplasare la beneficiar - interventie de mentenanta la statia de tratare apa - PUT 1/2/3/ si recirculare apa | None 
+
+OFERTA email-c2154340 | PETROUZINEX SRL | 2026-09-01 16:22 | Odoo: nu e în lista Odoo | cerere: Filtru desnisipator PN6 DN40 | conversații: c2154340
+  preț în email [m2154340]: Filtru NW400, cca 300 euro.
+
+OFERTA S02757 | Giani Iancu | 2026-09-02 11:48 | Odoo: Ofertă trimisă | cerere: Componente sistem tratare apă (coloane, vane Clack, Katalox) | conversații: c2154436
+  Ofertă S02757 v1 trimisă în m2154436:
+    [14-003076] COLOANA 16x65-4 CANATURE | 2.0 buc
+    [14-001008] Vana clack ws1 ci filter meter (backwash only) | 2.0 buc
+    [14-001018] By-pass 1" - clack | 2.0 buc
+    [14-003062] PVC ADAPTER 4"x2.5" | 2.0 buc
+    [14-001036] FITTING 1.25" PLASTIC BSPT SET | 2.0 buc
+    [14-001019] Dlfc housing 1" FOR WS2 | 2.0 buc
+    [14-001020] Dlfc restrictor 1" (9-25 gpm) 17GPM | 2.0 buc
+    [14-001010] Transformer 230/12v 50hz | 2.0 buc
+    [14-005026] DISTRIBUTOR 1.05" WITH BOTTOM BASKET D1196-07 para distribuitor inferioara+ riser tube[ tub central] | 2.0 buc
+    [14-001011] Top basket 1" | 2.0 buc
+    [14-002104] Mediu filtrant Katalox light | 226.0 L
+    [14-002033] Nisip cuartos 2-4 mm b | 25.0 kg
+    [14-003074] COLOANE 14x65-4 CANATURE | 1.0 buc
+    [14-001008] Vana clack ws1 ci filter meter (backwash only) | 1.0 buc
+    [14-001018] By-pass 1" - clack | 1.0 buc
+    [14-003062] PVC ADAPTER 4"x2.5" | 1.0 buc
+    [14-001036] FITTING 1.25" PLASTIC BSPT SET | 1.0 buc
+    [14-001019] Dlfc housing 1" FOR WS2 | 1.0 buc
+    [14-001020] Dlfc restrictor 1" (9-25 gpm) 12GPM | 1.0 buc
+    [14-001010] Transformer 230/12v 50hz | 1.0 buc
+    [14-005026] DISTRIBUTOR 1.05" WITH BOTTOM BASKET D1196-07 | 1.0 buc
+    [14-001011] Top basket 1" | 1.0 buc
+    [14-002052] Carbune activ granular LG85 (0.6-2.4mm) pentru filtrare apa 2 saci x 20kg[40L fiecare] | 40.0 kg
+    [14-002033] Nisip cuartos 2-4 mm b | 25.0 kg
+    [23-001217] Contor apa rece axial cu cadran uscat - 1.25"-ZENNER - cu generator de impuls 1/10L - cu racorduri (o-landezi) | 1.0 buc
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 1.0 buc
+    [11-002098] Rezervor PE - stocare chimicale 50L | 1.0 buc
+    [11-002014] Senzor de nivel cu bratara de prindere pe filtrul de aspiratie hipoclorit | 1.0 buc
+  Ofertă S02757 v2 trimisă în m2155684:
+    [14-003076] COLOANA 16x65-4 CANATURE | 2.0 buc
+    [14-001008] Vana clack ws1 ci filter meter (backwash only) | 2.0 buc
+    [14-001018] By-pass 1" - clack | 2.0 buc
+    [14-003062] PVC ADAPTER 4"x2.5" | 2.0 buc
+    [14-001036] FITTING 1.25" PLASTIC BSPT SET | 2.0 buc
+    [14-001019] DLFC housing 1" w/o silencer | 2.0 buc
+    [14-001020] Dlfc restrictor 1" (9-25 gpm) 17GPM | 2.0 buc
+    [14-001010] Transformer 230/12v 50hz | 2.0 buc
+    [14-005026] DISTRIBUTOR 1.05" WITH BOTTOM BASKET D1196-07 para distribuitor inferioara+ riser tube[ tub central] | 2.0 buc
+    [14-001011] Top basket 1" | 2.0 buc
+    [14-002104] Mediu filtrant Katalox light | 226.0 L
+    [14-002033] Nisip cuartos 2-4 mm b | 25.0 kg
+    [14-003074] COLOANA 14x65-4 CANATURE | 1.0 buc
+    [14-001008] Vana clack ws1 ci filter meter (backwash only) | 1.0 buc
+    [14-001018] By-pass 1" - clack | 1.0 buc
+    [14-003062] PVC ADAPTER 4"x2.5" | 1.0 buc
+    [14-001036] FITTING 1.25" PLASTIC BSPT SET | 1.0 buc
+    [14-001019] DLFC housing 1" w/o silencer | 1.0 buc
+    [14-001020] Dlfc restrictor 1" (9-25 gpm) 12GPM | 1.0 buc
+    [14-001010] Transformer 230/12v 50hz | 1.0 buc
+    [14-005026] DISTRIBUTOR 1.05" WITH BOTTOM BASKET D1196-07 | 1.0 buc
+    [14-001011] Top basket 1" | 1.0 buc
+    [14-002052] Carbune activ granular LG85 (0.6-2.4mm) pentru filtrare apa 2 saci x 20kg[40L fiecare] | 40.0 kg
+    [14-002033] Nisip cuartos 2-4 mm b | 25.0 kg
+    [23-001217] Contor apa rece axial cu cadran uscat - 1.25"-ZENNER - cu generator de impuls 1/10L - cu racorduri (o-landezi) | 1.0 buc
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 1.0 buc
+    [11-002098] Rezervor PE - stocare chimicale 50L | 1.0 buc
+    [11-002014] Senzor de nivel cu bratara de prindere pe filtrul de aspiratie hipoclorit | 1.0 buc
+    [-] REDUCERE Reducere: 7.00% | 1.0 buc
+  preț în email [m2154436]: Pompa AML200 opțional, cca 1100 lei fără TVA.
+
+OFERTA S02763 | RAMIRA S.A. | 2026-09-03 10:32 | Odoo: Comandă de vânzare | cerere: Cartușe filtrante PRM1TX1 și PRM10TX2 | conversații: c2117924
+  Ofertă S02763 v1 trimisă în m2154660:
+    [01-010065] Cartus filtrant PRM1TX1 Cartuse de 1 micron - 10" lungime | 20.0 buc
+    [01-010202] Cartus filtrant proxis PRM10TX2 Cartuse de 10 microni - 20" lungime | 20.0 buc
+    [16-003005] Livrare si ambalare | 2.0 buc
+  Confirmare de comandă S02763 v1 trimisă în m2154756:
+    [01-010065] Cartus filtrant PRM1TX1 Cartuse de 1 micron - 10" lungime | 20.0 buc
+    [01-010202] Cartus filtrant proxis PRM10TX2 Cartuse de 10 microni - 20" lungime | 20.0 buc
+    [16-003005] Livrare si ambalare | 2.0 buc
+
+OFERTA S02765 | BLEJAN DAN P.F. | 2026-09-03 13:12 | Odoo: Comandă de vânzare | cerere: Sterilizator UV + filtru dublu + filtru simplex | conversații: c2154788
+  Ofertă S02765 v1 trimisă în m2154788:
+    [01-009002] Carcasa filtranta simplex 10", doua manometre, racord 1" | 1.0 buc
+    [01-009001] Consola de prindere pt carcasa simplex | 1.0 buc
+    [01-010016] Cartus filtrant 10&quot; inox 70 mcr, prindere sx -doe | 1.0 buc
+    [01-009081] Carcasa filtranta duplex 10, racord 1" | 1.0 buc
+    [01-010011] Consola de prindere pt carcasa duplex | 1.0 buc
+    [01-009054] Cheie carcasa filtranta - U | 1.0 buc
+    [01-010058] Cartus filtrant proxis prm25tx247 | 3.0 buc
+    [01-010068] Cartus filtrant prm1tx247 | 3.0 buc
+    [27-001229] Sistem UV apa_405C AL2_Debit 1,8 m3/h_Doza UV 30mJ/cm2_Putere_33W_Racord 3/4"_SITA | 1.0 buc
+    [-] Reducere: 8.00% | 1.0 buc
+
+OFERTA S02766 | PFEIFFER VACUUM ROMANIA SRL | 2026-09-03 14:49 | Odoo: Comandă de vânzare | cerere: Înlocuire masă filtrantă 6 butelii Gewapur | conversații: c2118244
+  Confirmare de comandă S02766 v1 trimisă în m2154916:
+    [16-001004] Inlocuire masa filtranta - 6 x Butelie 25 L Mixed Bed - manopera inclusa | None 
+    [16-003003] Livrare si ambalare pallex - intern | 2.0 buc
+
+OFERTA S02769 | ROMINSERV SRL | 2026-09-04 10:14 | Odoo: Comandă de vânzare | cerere: Stație de dedurizare duplex DEC 75; Stație dedurizare duplex DEC 75-1 (comandă PO) | conversații: c2155236, c2133284
+  Ofertă S02769 v1 trimisă în m2155236:
+    [13-001174] DEC 75-1/duplex, Statie dedurizare duplex twin, 75L rasina, vana Clack CITT - 1" Termen livrare: 15 zile | 1.0 buc
+  Confirmare de comandă S02769 v1 trimisă în m2167556:
+    [13-001174] DEC 75-1/duplex, Statie dedurizare duplex twin, 75L rasina, vana Clack CITT - 1" Termen livrare: 15 zile | 1.0 buc
+  preț în email [m2155332]: Montaj, deplasare și manoperă: ±4200 lei fără TVA
+
+OFERTA S02778 | SERGIANA PRODIMPEX S.R.L. | 2026-09-04 14:45 | Odoo: Ofertă trimisă | cerere: Stație de dedurizare 10 mc/h pentru apă caldă | conversații: c2155364
+  Ofertă S02778 v1 trimisă în m2155364:
+    [01-008018] Filtru impuritati nw500 - 2" | 1.0 buc
+    [01-008015] Consola de prindere pentru carcasa cintropur NW 500/650/800 | 1.0 buc
+    [13-001302] DEC 250-1.5/duplex, Statie dedurizare - duplex, racord 1.5", 250L rasina pe fiecare coloana - Vana Clack - CI  | 1.0 buc
+    [-] Reducere: 7.00% | 1.0 buc
+  preț în email [m2155364]: Montaj, asamblare și PIF: ±1750 EUR fără TVA
+
+OFERTA S02783 | INTEUROSPORT S.R.L. | 2026-09-07 13:07 | Odoo: Ofertă trimisă | cerere: Nisip cuarțos 0,4-0,8 mm, 7 tone în big bag | conversații: c2155716
+  Ofertă S02783 v1 trimisă în m2155716:
+    [14-002084] Nisip cuartos uscat difertie granulatii la big bag - ECO granulatie solicitata 0.4-0.8mm | 7000.0 kg
+
+OFERTA S02790 | A.G. RONECO FARM S.R.L. | 2026-09-08 16:03 | Odoo: Comandă de vânzare | cerere: Mentenanță stație de dedurizare la ferma Feldioara | conversații: c2119652
+  Ofertă S02790 v1 trimisă în m2156164:
+    [16-002001] Deplasare la beneficiar, constatare tehnica, curatare sistem de aspiratie saramura, verificare vana si setari, | None 
+  Confirmare de comandă S02790 v1 trimisă în m2156292:
+    [16-002001] Deplasare la beneficiar, constatare tehnica, curatare sistem de aspiratie saramura, verificare vana si setari, | None 
+
+OFERTA S02791 | PUROLITE S.R.L. | 2026-09-09 08:37 | Odoo: Ofertă trimisă | cerere: Filtre Y inox DN50 și DN100 PN16 cu site de rezervă | conversații: c2119620
+  Ofertă S02791 v1 trimisă în m2156260:
+    [01-008169] FILTRU Y INOX 240L DN50 PN16 material corp: inox CF8M; material intern: inox, F316; mesh:3mm; lungime: 230mm;  | 3.0 buc
+    [01-008159] FILTRU Y INOX 240L DN100 PN16 material corp: inox CF8M; material intern: inox, F316; mesh:3mm; lungime: 350mm; | 1.0 buc
+    [01-008171] SITA INOX FILTRU Y INOX 240, DN50 PN16 -250 MICRONI | 6.0 buc
+    [01-008191] SITA INOX FILTRU Y INOX 240, DN100 PN16 - 250 MICRONI | 2.0 buc
+
+OFERTA S02713 | A.J.T. FARMING S.R.L. | 2026-09-09 12:03 | Odoo: Comandă de vânzare | cerere: Înlocuire membrane osmotice, pe bază de contract | conversații: c2156356
+  Confirmare de comandă S02713 v1 trimisă în m2156356:
+    [08-002232] Membrana osmotica PWG 4040ND Termen livrare: 7 sapt. | 12.0 buc
+    [-] Interventie schimb membrane osmoza | None 
+  Factură proformă S02713 v1 trimisă în m2156356:
+
+OFERTA S02795 | PROINSTAL SRL | 2026-09-09 12:23 | Odoo: Comandă de vânzare | cerere: Instalație de clorinare de 1 țol pentru bloc operator; Comandă pompă dozatoare TPG603 și contor Zenner | conversații: c2156388, c2120100
+  Ofertă S02795 v1 trimisă în m2156388:
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 1.0 buc
+    [23-001216] Contor apa rece axial cu cadran uscat - 1"-ZENNER - cu generator de impuls 1/10L - cu racorduri (o-landezi) si | 1.0 buc
+    [11-002098] Rezervor PE - stocare chimicale 50L | 1.0 buc
+    [-] Reducere: 15.00% | 1.0 buc
+  Confirmare de comandă S02795 v1 trimisă în m2156644:
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 1.0 buc
+    [23-001216] Contor apa rece axial cu cadran uscat - 1"-ZENNER - cu generator de impuls 1/10L - cu racorduri (o-landezi) si | 1.0 buc
+    [-] Reducere: 15.00% | 1.0 buc
+
+OFERTA S02797 | PROINSTAL SRL | 2026-09-09 12:23 | Odoo: Ofertă trimisă | cerere: Sistem UV pentru un robinet, bloc operator | conversații: c2156388
+  Ofertă S02797 v1 trimisă în m2156388:
+    [27-001229] Sistem UV apa_405C AL2_Debit 1,8 m3/h_Doza UV 30mJ/cm2_Putere_33W_Racord 3/4"_SITA | 1.0 buc
+    [27-001168] Sistem UV apa_VIQUA VH200_Debit 1,6 m3/h_Doza UV 40mJ/cm2_Putere 35 W_Racord 3/4" - 1"_VIQUA | 1.0 buc
+  preț în email [m2156388]: Sistem UV AK-JZ4 de 10 W: 190 EUR fără TVA/buc, transport inclus
+
+OFERTA S02807 | VLADOF CONSTRUCT SRL | 2026-09-11 15:42 | Odoo: Ofertă trimisă | cerere: Stație de clorinare Complex studențesc Regie-UPB | conversații: c2118116
+  Ofertă S02807 v1 trimisă în m2157316:
+    [01-008099] Filtru automat cu cos filtrant - orizontal, sita din inox -100 micron - SUF 4" Culoare albastru - vopsit epoxy | 1.0 buc
+    [11-002053] POMPA DOZATOARE SOLENOIDALA TPG 500, DIGITALA CU DEBIT CONSTANT AJUSTABIL MANUAL SAU PROPORTIONAL, IN FUNCTIE  | 2.0 buc
+    [11-002007] LANCE DE ASPIRATIE CU SENZOR DE NIVEL PENTRU REZERVOR 250L, CONEXIUNI 4x6mm | 2.0 buc
+    [23-003020] REZERVOR STOCARE CHIMICALE 250 L | 1.0 buc
+    [11-002168] Vas de retentie model T 300 pentru SER 250. Material: PE. Dimensiuni (HxD): 875x670 mm | 1.0 buc
+    [11-002169] Placa de ranforsare pentru rezervor SER 250 - 250L / Grosime:10mm/Material PP | 1.0 buc
+    [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 | 1.0 buc
+    [11-002158] Panou K800 model KPS06PM00000, pentru pH/Clor liber: 0-14 pH / clor, H2O2, PAA, brom: 0÷0,5 / 1 / 2 / 5 / 10 / | 1.0 buc
+    [11-002159] Senzor de clor liber anorganic model FCL5: 0-2 ppm, 45° C, 1 bar, 6-9 pH, (ØxL) 24x222 mm, corp din PVC, iesir | 1.0 buc
+    [11-002004] Cablu pentru senzori FCL, TCL, DCL, PAA, H2O2, O3, brom. Lungime: 1m | 1.0 buc
+    [-] Reducere: 8.00% | 1.0 buc
+
+OFERTA S02810 | KUKA AUTOMATIZARE ROMANIA S.R.L. | 2026-09-11 16:31 | Odoo: Ofertă trimisă | cerere: Antiscalant pentru instalație de osmoză | conversații: c2157380
+  Ofertă S02810 v1 trimisă în m2157380:
+    [12-002026] ANTISCALANT PENTRU INTRETINEREA INSTALATIILOR DE OSMOZA - GEL ANTISCALANT RO1 - 25KG | 2.0 buc
+  Ofertă S02810 v2 trimisă în m2158596:
+    [12-002026] ANTISCALANT PENTRU INTRETINEREA INSTALATIILOR DE OSMOZA - GEL ANTISCALANT RO1 - 25KG | 1.0 buc
+
+OFERTA S02814 | UNITATEA MILITARA NR. 01829 | 2026-09-14 15:10 | Odoo: Comandă de vânzare | cerere: Înlocuire masă filtrantă Turbidex și contor cu impulsuri | conversații: c2151492
+  Ofertă S02814 v1 trimisă în m2157732:
+    [14-002008] Turbidex | 622.0 L
+    [14-002033] Nisip cuartos 2-4 mm b | 150.0 kg
+    [23-001219] Contor apa rece axial cu cadran uscat - 2"-ZENNER - cu generator de impuls 1/10L - cu racorduri (o-landezi) si | 1.0 buc
+    [16-001015] Livrare materiale, inlocuire masa filtranta si contor, reparametrizare - PIF | None 
+
+OFERTA S02816 | Lacusta Nicu Cristian | 2026-09-14 15:51 | Odoo: Ofertă trimisă | cerere: Carcasă inox pentru sac filtrant mărimea #4 | conversații: c2097284
+  Ofertă S02816 v1 trimisă în m2157796:
+    [01-009049] Carcasa filtranta #4[2M] Model - RBFP14-2-1SAP Vessel model: RBFP Series Filter vessel type: Filter Bag Lid cl | 1.0 buc
+    [01-009141] Carcasa filtranta #4[2M] Model - HD14-1-1SAP Vessel model: HD Series Filter vessel type: Filter Bag Lid closur | 1.0 buc
+
+OFERTA S02821 | ASTROLAB OIL SERVICES Co. | 2026-09-15 10:09 | Odoo: Ofertă trimisă | cerere: 15 membrane osmoză Hydranautics CPA3 | conversații: c2157572
+  Ofertă S02821 v1 trimisă în m2157956:
+    [08-002107] Osmotic Membrane - Hydranautics - 8040 - CPA3 | 15.0 Units
+
+OFERTA email-c2158052 | Hotel Șoimul Poiana Brașov | 2026-09-16 09:09 | Odoo: nu e în lista Odoo | cerere: Stație de dedurizare pentru cuptoarele bucătăriei | conversații: c2158052
+  preț în email [m2158180]: Stație dedurizare 25 L semi-industrială ~816 EUR fără TVA, plus filtru recomandat ~60 EUR
+
+OFERTA S02826 | VECTORSKY SYSTEMS S.R.L. | 2026-09-16 09:48 | Odoo: Comandă de vânzare | cerere: Pompă dozare Seko, antiscalant RO1 și contor pentru osmoză | conversații: c2158212
+  Ofertă S02826 v1 trimisă în m2158212:
+    [11-002022] Pompa dozatoare solenoidala akl603, analogica, cu debit constant ajustabil manual, doua domenii de frecventa d | 1.0 buc
+    [11-002023] Pompa dozatoare solenoidala apg603, analogica cu debit constant ajustabil manual sau proportional in functie d | 1.0 buc
+    [23-001216] Contor apa rece axial cu cadran uscat - 1"-ZENNER - cu generator de impuls 1/10L - cu racorduri (o-landezi) si | 1.0 buc
+    [12-002026] ANTISCALANT PENTRU INTRETINEREA INSTALATIILOR DE OSMOZA - GEL ANTISCALANT RO1 - 25KG Termen livrare: 5 zile | 1.0 buc
+  Confirmare de comandă S02826 v1 trimisă în m2163108:
+    [11-002023] Pompa dozatoare solenoidala apg603, analogica cu debit constant ajustabil manual sau proportional in functie d | 1.0 buc
+    [23-001216] Contor apa rece axial cu cadran uscat - 1"-ZENNER - cu generator de impuls 1/10L - cu racorduri (o-landezi) si | 1.0 buc
+    [12-002026] ANTISCALANT PENTRU INTRETINEREA INSTALATIILOR DE OSMOZA - GEL ANTISCALANT RO1 - 25KG Termen livrare: 5 zile | 1.0 buc
+  Factură proformă S02826 v1 trimisă în m2163108:
+
+OFERTA S02828 | ALFATUR PREST SRL | 2026-09-16 09:59 | Odoo: Comandă de vânzare | cerere: Debitmetru electromagnetic DN80 pentru apă potabilă | conversații: c2158244
+  Ofertă S02828 v1 trimisă în m2158244:
+    [23-001166] Debitmetru electromagnetic APLISENS - DN 80 - cu elemente separate [ modular] Termen livrare: 10 zile | 1.0 buc
+
+OFERTA S02829 | Ion Dusceac - PF | 2026-09-16 10:11 | Odoo: Ofertă trimisă | cerere: Dedurizator galvanic IPS KalyxX Blue Line 3/4" | conversații: c2158276
+  Ofertă S02829 v1 trimisă în m2158276:
+    [13-001107] Dedurizator galvanic IPS KalyxX BlueLine G3/4" RACORD CONECTARE - 3/4" FI | 1.0 Units
+    [13-001108] Dedurizator galvanic IPS KalyxX BlueLine G1" RACORD CONECTARE - 1" FI | 1.0 Units
+  Ofertă S02829 v2 trimisă în m2158404:
+    [13-001107] Dedurizator galvanic IPS KalyxX BlueLine G3/4" RACORD CONECTARE - 3/4" FI | 1.0 Units
+  preț în email [m2158276]: Filtru de 10" cu cartuș inox lavabil, opțional, ~400 lei cu TVA
+
+OFERTA S02837 | LAVMI PERLA S.R.L. | 2026-09-17 09:43 | Odoo: Comandă de vânzare | cerere: Membrane osmotice 8040 ESPA2 MAX, 9 buc | conversații: c2122596
+  Confirmare de comandă S02837 v1 trimisă în m2158660:
+    [08-002193] Membrana osmotica 8040 ESPA2 MAX Termen livrare: 15 zile | 9.0 buc
+
+OFERTA S02863 | ARTROM STEEL TUBES S.A. | 2026-09-23 15:11 | Odoo: Comandă de vânzare | cerere: Piese schimb instalație tratare apă potabilă; Piese schimb instalație tratare apă potabilă | conversații: c2124804, c2125636
+  Ofertă S02863 v1 trimisă în m2159716:
+    [11-002100] Bile curatare senzor - panou k800 | 2.0 buc
+    [21-001038] kit reactivi clor liber, 100teste, Hi93701-01 | 1.0 buc
+    [01-008017] Filtru impuritati nw800 - 3" | 2.0 buc
+    [14-001128] WS2 Drive Cap Assembly | 3.0 buc
+    [13-001166] WS2 Spacer Stack Downflow | 10.0 buc
+    [14-001163] ANSAMBLU PISTON VANE CLACK 2" - 10 set WS2 Piston Downflow | 10.0 buc
+    [14-001162] WS2/QC/P DN Brine Piston | 10.0 buc
+    [-] Cartus filtrant 10 microni 5" - pachet de 10 bucati | None 
+    [-] Cartus filtrant 5 microni 5" - pachet de 10 bucati | None 
+    [-] Reducere: 3.00% | 1.0 buc
+  Confirmare de comandă S02863 v1 trimisă în m2160420:
+    [11-002100] Bile curatare senzor - panou k800 | 2.0 buc
+    [21-001038] kit reactivi clor liber, 100teste, Hi93701-01 | 1.0 buc
+    [01-008017] Filtru impuritati nw800 - 3" | 2.0 buc
+    [14-001128] WS2 Drive Cap Assembly | 3.0 buc
+    [13-001166] WS2 Spacer Stack Downflow | 10.0 buc
+    [14-001163] ANSAMBLU PISTON VANE CLACK 2" - 10 set WS2 Piston Downflow | 10.0 buc
+    [14-001162] WS2/QC/P DN Brine Piston | 10.0 buc
+    [-] Cartus filtrant 10 microni 5" - pachet de 10 bucati | None 
+    [01-010258] Cartus filtrant 50 microni 5" - pachet de 10 bucati | None 
+    [-] Reducere: 3.00% | 1.0 buc
+
+OFERTA S02864 | ADICON S.R.L. | 2026-09-24 09:16 | Odoo: Ofertă trimisă | cerere: Demineralizator manual cu rășină pat mixt | conversații: c2159780
+  Ofertă S02864 v1 trimisă în m2159780:
+    [13-001071] Filtru demineralizare, coloana fibra 30L - rasina mixta, racord 1/2" Termen livrare: 10 zile | 1.0 buc
+    [13-001079] Conductivmetru on-line, Display LCD, cu posibilitate setare alarma Termen livrare: 10 zile | 1.0 buc
+    [14-002101] Rasina demineralizare pat mixt pure resin pmb101-2 mixed bed | 25.0 L
+
+OFERTA S02869 | KDC TERMICE BRASOV S.R.L. | 2026-09-24 15:31 | Odoo: Ofertă trimisă | cerere: Debitmetru (turbină) pentru vană Clack 1-1.25" | conversații: c2125092
+  Ofertă S02869 v1 trimisă în m2159940:
+    [13-001304] WS1 Meter Asy | 1.0 buc
+    [13-001305] WS1 Turbine Asy | 1.0 buc
+    [13-001306] O-ring 215 | 1.0 buc
+    [16-003005] Livrare si ambalare | 1.0 buc
+
+OFERTA S02874 | KDC TERMICE BRASOV S.R.L. | 2026-09-25 12:02 | Odoo: Comandă de vânzare | cerere: Sare pentru septembrie și octombrie – 120 saci | conversații: c2125668
+  Confirmare de comandă S02874 v1 trimisă în m2160324:
+    [12-002006] Sare tablete AKRO - dedurizare 25 kg | 60.0 buc
+
+OFERTA S02873 | KDC TERMICE BRASOV S.R.L. | 2026-09-25 12:02 | Odoo: Comandă de vânzare | cerere: Sare pentru septembrie și octombrie – 120 saci | conversații: c2125668
+  Confirmare de comandă S02873 v1 trimisă în m2160324:
+    [12-002006] Sare tablete AKRO - dedurizare 25 kg | 60.0 buc
+
+OFERTA S02875 | GUHRING S.R.L. | 2026-09-25 13:27 | Odoo: Comandă de vânzare | cerere: Încărcare 3 butelii purificator apă (iulie) | conversații: c2099492
+  Confirmare de comandă S02875 v1 trimisă în m2160612:
+    [16-001004] Inlocuire rasina in 1 x butelie P42 - masa filtranta + manopera | None 
+
+OFERTA S02876 | PROINSTAL SRL | 2026-09-25 13:48 | Odoo: Anulat | cerere: Pompă dozatoare TPG 603 și contor apă 1" | conversații: c2125796
+  Confirmare de comandă S02876 v1 trimisă în m2160708:
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 1.0 buc
+    [23-001216] Contor apa rece axial cu cadran uscat - 1"-ZENNER - cu generator de impuls 1/10L - cu racorduri (o-landezi) si | 1.0 buc
+    [-] Reducere: 15.00% | 1.0 buc
+
+OFERTA S02879 | FABRICA DE BERE BUNA S.R.L. | 2026-09-28 09:04 | Odoo: Comandă de vânzare | cerere: Lampă UV și teacă de cuarț de schimb | conversații: c2124580
+  Confirmare de comandă S02879 v1 trimisă în m2160868:
+    [27-004595] Teaca de Quartz 23 x 1.5 x 680 mm SO | 1.0 buc
+    [27-004654] O-ring D23 | 1.0 buc
+    [16-003005] Livrare si ambalare | 1.0 buc
+
+OFERTA S02882 | ACET S.A. | 2026-09-28 09:54 | Odoo: Ofertă trimisă | cerere: Pompă dozatoare Tekna EVO TPG 803 | conversații: c2126308
+  Ofertă S02882 v1 trimisă în m2160996:
+    [11-002013] Pompa dozatoare solenoidala tpg 803, digitala cu debit constant ajustabil manual sau proportional, in functie  | 1.0 buc
+
+OFERTA S02853 | UBITECH CONSTRUCTII S.R.L. | 2026-09-29 12:33 | Odoo: Ofertă trimisă | cerere: Tratare apă potabilă spital: filtru, clorinare, sisteme UV | conversații: c2157348
+  Ofertă S02853 v1 trimisă în m2161924:
+    [01-008187] STF FMA-1006E - Filtru cu autocuratare - DN150 | 1.0 buc
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 2.0 buc
+    [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 | 2.0 buc
+    [11-002026] LANCE DE ASPIRATIE CU SENZOR DE NIVEL PENTRU REZERVOR 100L, CONEXIUNI 4x6mm | 2.0 buc
+    [11-002151] Panou K800 model KPW05 pentru clor liber, H2O2, PAA, brom. Domeniu de masura pentru clor: 0÷0,5 / 1 / 2 / 5 /  | 2.0 buc
+    [11-002159] Senzor de clor liber anorganic model FCL5: 0-2 ppm, 45° C, 1 bar, 6-9 pH, (ØxL) 24x222 mm, corp din PVC, iesir | 2.0 buc
+    [11-002004] Cablu pentru senzori FCL, TCL, DCL, PAA, H2O2, O3, brom. Lungime: 1 m | 2.0 buc
+    [27-001232] Sistem UV apa_Pureline ECO 85_Debit 79 m3/h_Doza UV 30 mJ/cm2_Putere 750 W_Racord DN100_NUVONIC - Inox 304 Inc | 2.0 buc
+    [27-001235] Sistem UV apa_PureLIne ECO 125_Debit 142,4 m3/h_Doza UV 30mJ/cm2_Putere 1,08 kW_Racord DN125_NUVONIC - inox 30 | 1.0 buc
+  preț în email [m2161924]: Variantă alternativă: 2 x Pureline ECO 40 DN75 = 28700 EUR
+  preț în email [m2161924]: 1 x Pureline ECO 85 DN100 pe circuitul DN150 = 18219 EUR
+
+OFERTA S02891 | PALD ENGINEERING SRL | 2026-09-29 14:30 | Odoo: Ofertă trimisă | cerere: Filtru mecanic autocurățare DN100, 100 microni; Instalație filtrare Turbidex duplex – 2 filtre; Sterilizator UV 60 m³/h DN100 | conversații: c2161956
+  Ofertă S02891 v1 trimisă în m2161956:
+    [01-008099] Filtru automat cu cos filtrant - orizontal, sita din inox -100 micron - SUF 4" - DN100 - Vopsit epoxy albastru | 1.0 buc
+    [01-008126] Filtru cu turbidex - BS-4272HF/111, 792 L masa filtranta - vana RX-111A- DTF 2” | 2.0 buc
+    [27-001254] Sistem UV apa_AM 60 RM_Debit 60 m3/h_Doza UV 25mJ/cm2_Putere 400W_Racord DN80_316_RM_SITA_ cu sistem de curata | 1.0 buc
+    [-] Reducere: 15.00% | 1.0 buc
+
+OFERTA S02894 | COMPANIA DE UTILITATI PUBLICE DUNAREA BRAILA SA | 2026-09-30 14:38 | Odoo: Ofertă trimisă | cerere: Antiscalant pentru osmoză inversă – 500 kg | conversații: c2162180
+  Ofertă S02894 v1 trimisă în m2162180:
+    [12-002026] ANTISCALANT PENTRU INTRETINEREA INSTALATIILOR DE OSMOZA - GEL ANTISCALANT RO1 - 25KG Termen livrare: 15 zile | 20.0 buc
+
+OFERTA S02897 | Pfeiffer Vacuum Romania SRL | 2026-10-01 09:29 | Odoo: nu e în lista Odoo | cerere: Înlocuire masă filtrantă la 6 butelii Gewapur | conversații: c2127492
+  Confirmare de comandă S02897 v1 trimisă în m2162340:
+    [16-001004] Inlocuire masa filtranta - 6 x Butelie 25 L Mixed Bed - manopera inclusa | None 
+    [16-003003] Livrare si ambalare pallex - intern | 2.0 buc
+
+OFERTA S02900 | Claudia Mihai | 2026-10-01 13:07 | Odoo: nu e în lista Odoo | cerere: Filtru pentru eliminarea arsenului din apă | conversații: c2162436
+  Ofertă S02900 v1 trimisă în m2162436:
+    [-] Filtru - 50L - cu rasina AQUA AS - Vana clack CI -time - 1" | None 
+  preț în email [m2162436]: Sistem de dezinfecție UV Viqua VH410 recomandat suplimentar, cost aproximativ 5500 lei cu TVA
+
+OFERTA S02901 | Comuna Peciu Nou | 2026-10-02 09:16 | Odoo: nu e în lista Odoo | cerere: Cărbune activ 8 tone pentru stația de tratare | conversații: c2162660
+  Ofertă S02901 v1 trimisă în m2162660:
+    [14-002052] Carbune activ granular LG85 (0.6-2.4mm) pentru filtrare apa | 8000.0 kg
+  preț în email [m2162660]: La livrare în saci big bag de 500 kg prețul unitar scade cu încă ~0,5 lei/kg
+
+OFERTA S02902 | CELECTRO | 2026-10-02 11:31 | Odoo: nu e în lista Odoo | cerere: Două stații de dedurizare duplex (175 L și 16 L) | conversații: c2127748
+  Ofertă S02902 v1 trimisă în m2162724:
+    [13-001173] DEC 16-1/duplex, Statie dedurizare duplex twin, 16L rasina, vana Clack CITT - 1" | 1.0 buc
+    [13-001307] DEC 175-1.5/duplex, Statie dedurizare - duplex, racord 1.5", 175L rasina pe fiecare coloana - Vane Clack - CI  | 1.0 buc
+    [-] Reducere: 10.00% | 1.0 buc
+
+OFERTA S02903 | Knauf Insulation SRL | 2026-10-02 12:39 | Odoo: nu e în lista Odoo | cerere: Inspecție tehnică stație de dedurizare | conversații: c2128036
+  Confirmare de comandă S02903 v1 trimisă în m2162788:
+    [16-002001] Deplasare la beneficiar - verificare instalatie de dedurizare - teste functionale - rezolvare problema E102 | None 
+
+OFERTA S02907 | primaria draganesti | 2026-10-02 15:25 | Odoo: nu e în lista Odoo | cerere: Ofertă actualizată stație tratare apă Drăgănești | conversații: c2128260
+  Ofertă S02907 v1 trimisă în m2163140:
+    [01-008153] FILTRU Y 221 - DN80 PN16 | 1.0 buc
+    [23-001188] Contor-ZENNER - WPD DN80 cu modul EDC MBus si impuls - 1/100 | 1.0 buc
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 1.0 buc
+    [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 | 1.0 buc
+    [23-003032] Rezervor stocare polipropilena suprateran - 6.5mc - Lxd = 2250x 1950mm | 2.0 buc
+    [23-001200] HYDRO 2 CRE32-2-1 DN100 400V -Grup 1A+1R cu doua pompe Grundfos cu convertizoare integrate in motoare. -Comple | 1.0 buc
+    [01-008174] Filtru deferizare si demanganizare cu Pyrolox - 3672PA - vana RX-111A- DTF 2” | 4.0 buc
+    [01-008098] Filtru cu Carbune Activ - 3672AT, 560 L masa filtranta - vana RX-111A- DTF 2” | 4.0 buc
+    [23-001188] Contor-ZENNER - WPD DN80 cu modul EDC MBus si impuls - 1/100 | 1.0 buc
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 1.0 buc
+    [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 | 1.0 buc
+    [16-001015] Estimare materiale + manopera de PIF si Montaj - in cadrul camerei tehnice de 6x8m | None 
+
+OFERTA S02908 | Her&stra cyprinus (Tanase Tudor) | 2026-10-05 09:45 | Odoo: nu e în lista Odoo | cerere: Antiscalant RO1 pentru osmoză, 40 litri | conversații: c2163492
+  Ofertă S02908 v1 trimisă în m2163492:
+    [12-002026] ANTISCALANT PENTRU INTRETINEREA INSTALATIILOR DE OSMOZA - GEL ANTISCALANT RO1 - 25KG | 2.0 buc
+
+OFERTA S02909 | ELECTROTERM (Marius Ciotlausi) | 2026-10-05 10:45 | Odoo: nu e în lista Odoo | cerere: Stație de dedurizare industrială EWS 100 duplex | conversații: c2163524
+  Ofertă S02909 v1 trimisă în m2163524:
+    [13-001248] DEC 100-1/duplex, Statie dedurizare duplex twin, 100L rasina, vana Clack CITT - 1" | 1.0 buc
+
+OFERTA S02910 | MASPEX ROMANIA S.R.L. | 2026-10-05 12:50 | Odoo: nu e în lista Odoo | cerere: Reparație generator de ozon G-P60 GY072S12TW0027 | conversații: c2163588
+  Confirmare de comandă S02910 v1 trimisă în m2163588:
+    [16-003002] Livrare si ambalare externa - Livrare palet - Vatra Dornei - Germania si retur | 2.0 buc
+    [16-001016] Piese si manopera de schimb - reparatie GENERATOR OZON GP-60 [ GY072S12TW0027] | None 
+
+OFERTA S02916 | RAP Confectionery | 2026-10-05 15:38 | Odoo: nu e în lista Odoo | cerere: Cartușe filtrante Proxis PRM5TX3 | conversații: c2128868
+  Ofertă S02916 v1 trimisă în m2163812:
+    [01-010067] Cartus filtrant proxis prm5tx3 Termen livrare: 7 sapt. | 18.0 buc
+    [16-002005] AMBALARE LIVRARE ASIGURARE | 1.0 buc
+  Confirmare de comandă S02916 v1 trimisă în m2167908:
+    [01-010067] Cartus filtrant proxis prm5tx3 Termen livrare: 7 sapt. | 18.0 buc
+    [16-002005] AMBALARE LIVRARE ASIGURARE | 1.0 buc
+
+OFERTA S02917 | Hotel Avanti Beach, Venus | 2026-10-06 10:04 | Odoo: nu e în lista Odoo | cerere: Stație filtrare și dedurizare apă pentru hotel | conversații: c2163940
+  Ofertă S02917 v1 trimisă în m2163940:
+    [01-008048] Filtru impuritati NW400 - 1.5" - echipat cu membrana lavabila din nylon 150 microni | 1.0 Units
+    [01-008049] Consola de prindere pentru carcasa cintropur NW 280/340/400 | 1.0 Units
+    [13-001297] DEC 150-1,25/duplex, Statie dedurizare duplex alternating, 150L rasina, vane Clack CI - 1,25" | 1.0 Units
+    [13-001278] DEC 150-1.5/duplex, Statie dedurizare - duplex, racord 1.5", 150L rasina pe fiecare coloana - Vana Clack - CI  | 1.0 Units
+  preț în email [m2163940]: Contorul cerut poate fi un debitmetru electromagnetic 1.5" cu 4-20mA și MODBUS, aproximativ 7000 lei fără TVA
+
+OFERTA S02921 | pald.ro | 2026-10-06 14:29 | Odoo: nu e în lista Odoo | cerere: Stație de dedurizare pentru licitația UMF Timișoara | conversații: c2129476
+  Ofertă S02921 v1 trimisă în m2164260:
+    [13-001263] DEC 50-1/duplex, Statie dedurizare duplex twin, 50L rasina, vana Clack CITT - 1" | 1.0 buc
+    [-] Reducere: 15.00% | 1.0 buc
+  preț în email [m2164324]: Extinderea garanției la 3 ani: cost suplimentar de 6-7%
+
+OFERTA S02922 | TICKET SOFT S.R.L. | 2026-10-07 09:34 | Odoo: nu e în lista Odoo | cerere: Mase filtrante și manoperă de înlocuire, instalația NOBEL; Mase filtrante și manoperă de înlocuire, instalația NOBEL | conversații: c2164484, c2131556
+  Ofertă S02922 v1 trimisă în m2164484:
+    [14-002033] Nisip cuartos 2-4 mm b | 125.0 kg
+    [14-002034] Nisip cuartos 0,8-1,2 mm, b | 100.0 kg
+    [14-002032] Nisip cuartos 0,4-0,8 mm b | 100.0 kg
+    [14-002038] Mediu filtrant hydroanthracite 0,8 – 1,6 mm | 75.0 L
+    [14-002052] Carbune activ granular LG85 (0.6-2.4mm) pentru filtrare apa | 120.0 kg
+    [14-002100] Rasina dedurizare PURE RESIN PC003 | 100.0 L
+    [16-002001] Deplasare - golire si inlocuire mase filtrante in instalatie | None 
+  Confirmare de comandă S02922 v1 trimisă în m2166212:
+    [14-002033] Nisip cuartos 2-4 mm b | 125.0 kg
+    [14-002034] Nisip cuartos 0,8-1,2 mm, b | 100.0 kg
+    [14-002032] Nisip cuartos 0,4-0,8 mm b | 100.0 kg
+    [14-002038] Mediu filtrant hydroanthracite 0,8 – 1,6 mm | 75.0 L
+    [14-002052] Carbune activ granular LG85 (0.6-2.4mm) pentru filtrare apa | 120.0 kg
+    [14-002100] Rasina dedurizare PURE RESIN PC003 | 100.0 L
+    [16-002001] Deplasare - golire si inlocuire mase filtrante in instalatie | None 
+
+OFERTA S02925 | Aconstantinese Mihai | 2026-10-07 10:01 | Odoo: nu e în lista Odoo | cerere: 6 dedurizatoare galvanice KalyxX 3/4 Blue Line | conversații: c2164580
+  Ofertă S02925 v1 trimisă în m2164580:
+    [13-001107] Dedurizator galvanic IPS KalyxX BlueLine G3/4" | 6.0 buc
+
+OFERTA S02926 | ZERNOFF S.R.L. | 2026-10-07 10:31 | Odoo: nu e în lista Odoo | cerere: Carcasă filtrantă multicartuș inox și cartușe 40" pentru etanol | conversații: c2164612
+  Ofertă S02926 v1 trimisă în m2164612:
+    [01-009079] Carcasa filtranta inox, multicartus, MVB7S4D80P8L Primeste 7 cartuse de 40" - prindere P8 | 1.0 Units
+    [01-009078] Manometru,ventil de aerisire si prelevare probe-pentru carcase SV si MVB XGS-SS010BU-D63 | 1.0 Units
+    [01-010263] Cartus filtrant starfine SFM5K4P8E Cartuse P8 de 40" PP pliata, finete de filtrare 5 microni | 7.0 Units
+
+OFERTA S02931 | Cornu Boulangerie SRL | 2026-10-08 09:28 | Odoo: nu e în lista Odoo | cerere: Un palet de sare pentru dedurizare | conversații: c2130436
+  Confirmare de comandă S02931 v1 trimisă în m2165252:
+    [12-002006] Sare tablete AKRO - dedurizare 25 kg | 40.0 buc
+
+OFERTA S02932 | ANTREPRIZA CONNECTING CORPORATE S.R.L. | 2026-10-08 09:37 | Odoo: nu e în lista Odoo | cerere: 3 dedurizatoare galvanice KalyxX 3/4 | conversații: c2130468
+  Confirmare de comandă S02932 v1 trimisă în m2165348:
+    [13-001107] Dedurizator galvanic IPS KalyxX BlueLine G3/4" | 3.0 buc
+
+OFERTA S02933 | VLADOF CONSTRUCT SRL | 2026-10-08 10:22 | Odoo: nu e în lista Odoo | cerere: Stație de clorinare Complex studențesc Regie-UPB | conversații: c2118116
+  Ofertă S02933 v1 trimisă în m2165412:
+    [01-008099] Filtru automat cu cos filtrant - orizontal, sita din inox -100 micron - SUF 4" Culoare albastru - vopsit epoxy | 1.0 buc
+    [11-002053] POMPA DOZATOARE SOLENOIDALA TPG 500, DIGITALA CU DEBIT CONSTANT AJUSTABIL MANUAL SAU PROPORTIONAL, IN FUNCTIE  | 2.0 buc
+    [11-002007] LANCE DE ASPIRATIE CU SENZOR DE NIVEL PENTRU REZERVOR 250L, CONEXIUNI 4x6mm | 2.0 buc
+    [23-003020] REZERVOR STOCARE CHIMICALE 250 L | 1.0 buc
+    [11-002168] Vas de retentie model T 300 pentru SER 250. Material: PE. Dimensiuni (HxD): 875x670 mm | 1.0 buc
+    [11-002169] Placa de ranforsare pentru rezervor SER 250 - 250L / Grosime:10mm/Material PP | 1.0 buc
+    [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 | 1.0 buc
+    [11-002158] Panou K800 model KPS06PM00000, pentru pH/Clor liber: 0-14 pH / clor, H2O2, PAA, brom: 0÷0,5 / 1 / 2 / 5 / 10 / | 1.0 buc
+    [11-002159] Senzor de clor liber anorganic model FCL5: 0-2 ppm, 45° C, 1 bar, 6-9 pH, (ØxL) 24x222 mm, corp din PVC, iesir | 1.0 buc
+    [11-002004] Cablu pentru senzori FCL, TCL, DCL, PAA, H2O2, O3, brom. Lungime: 1m | 1.0 buc
+    [-] Reducere: 8.00% | 1.0 buc
+  Factură proformă S02933 v1 trimisă în m2165828:
+
+OFERTA S02919 | UTI CONSTRUCTION AND FACILITY MANAGEMENT SA | 2026-10-08 12:45 | Odoo: nu e în lista Odoo | cerere: Stație de dedurizare pentru licitația Spital Buftea; Sterilizator UV PN16 (fișa F5-06); Stație de clorinare (fișa F5-07) | conversații: c2165604
+  Ofertă S02919 v1 trimisă în m2165604:
+    [27-001300] Sistem_UV_apa_AM 96 ECO PLUS 316L_Putere 666W_doza UV 40 mJ/cmp@UVT 90%_debit max.55 m3/h_SITA | 1.0 buc
+    [27-001301] Optiune presiune 16_BAR_pentru sitem UV apa_AM96_SITA | 1.0 buc
+    [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 | 1.0 buc
+    [11-002026] LANCE DE ASPIRATIE CU SENZOR DE NIVEL PENTRU REZERVOR 100L, CONEXIUNI 4x6mm | 1.0 buc
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 1.0 buc
+    [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 | 1.0 buc
+    [13-001308] DEC 700-2QC/duplex, Statie dedurizare - duplex, racord 2QC", 700L rasina pe fiecare coloana - Vana Clack - CI  | 1.0 buc
+    [13-001164] Statie dedurizare duplex 2x700L, Vana RX99 - 2" | 1.0 buc
+
+OFERTA S02934 | PORR CONSTRUCT SRL | 2026-10-08 12:51 | Odoo: nu e în lista Odoo | cerere: Sterilizator UV apă potabilă 40 m³/h (fișa F5-06); Kit de clorinare (fișa F5-07); Stație de dedurizare duplex 15 m³/h (fișa F5-23) | conversații: c2129828
+  Ofertă S02934 v1 trimisă în m2165636:
+    [27-001300] Sistem_UV_apa_AM 96 ECO PLUS 316L_Putere 666W_doza UV 40 mJ/cmp@UVT 90%_debit max.55 m3/h_SITA | 1.0 buc
+    [27-001301] Optiune presiune 16_BAR_pentru sitem UV apa_AM96_SITA | 1.0 buc
+    [11-002027] Rezervor v=100 l, material: polietilena. dimensiuni: d=460, h=640 | 1.0 buc
+    [11-002026] LANCE DE ASPIRATIE CU SENZOR DE NIVEL PENTRU REZERVOR 100L, CONEXIUNI 4x6mm | 1.0 buc
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 1.0 buc
+    [23-001189] Contor-ZENNER - WPD DN100 cu modul EDC MBus si impuls - 1/100 | 1.0 buc
+    [13-001308] DEC 700-2QC/duplex, Statie dedurizare - duplex, racord 2QC", 700L rasina pe fiecare coloana - Vana Clack - CI  | 1.0 buc
+    [13-001164] Statie dedurizare duplex 2x700L, Vana RX99 - 2" | 1.0 buc
+
+OFERTA S02935 | ALLINOX BIO ENERGY S.R.L. | 2026-10-08 13:11 | Odoo: nu e în lista Odoo | cerere: Membrane osmoză 4040 (echivalent CSM) | conversații: c2165700
+  Ofertă S02935 v1 trimisă în m2165700:
+    [08-002233] Membrana osmotica ULTRAMAR - ULP-4040 Termen livrare: 15 zile | 12.0 buc
+
+OFERTA email-c2166244 | Eco Life Style | 2026-10-09 12:54 | Odoo: nu e în lista Odoo | cerere: Echipament potabilizare apă din puț forat, 3,6 m³/h | conversații: c2166244
+  preț în email [m2166244]: Utilaje varianta 1: 10-11.000 € fără TVA
+  preț în email [m2166244]: Utilaje varianta 2: aprox. 5-6.000 € fără TVA
+
+OFERTA S02941 | Banica Silviu | 2026-10-09 14:19 | Odoo: nu e în lista Odoo | cerere: Filtru grosier NW400 și 2 filtre multimedia FMC 80 | conversații: c2131716
+  Ofertă S02941 v1 trimisă în m2166372:
+    [01-008048] Filtru impuritati NW400 - 1.5" | 1.0 buc
+    [01-008049] Consola de prindere pentru carcasa cintropur NW 280/340/400 | 1.0 buc
+    [13-001309] FMC 80 - Filtru multimedia, 80L mediu filtrant, vana Clack TC, racord 1" | 2.0 buc
+  preț în email [m2166372]: Stație de clorinare opțională: aprox. 800-1000 €
+  preț în email [m2166372]: Sistem UV de 1" opțional: aprox. 800-1000 €
+
+OFERTA S02950 | ACTIVITATEA GOSCOM SA, Orăștie | 2026-10-14 09:13 | Odoo: nu e în lista Odoo | cerere: 4 pompe dozatoare solenoidale TPG 603 digitale; Comandă 4 pompe dozatoare TPG 603 | conversații: c2132932, c2133860
+  Ofertă S02950 v1 trimisă în m2167300:
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 4.0 buc
+  Confirmare de comandă S02950 v1 trimisă în m2168100:
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 4.0 buc
+
+OFERTA S02955 | CARPATHIAN SPRINGS S.A. | 2026-10-14 15:19 | Odoo: nu e în lista Odoo | cerere: 3 distrugătoare catalitice de ozon | conversații: c2165860
+  Ofertă S02955 v1 trimisă în m2167812:
+    [10-001082] Distrugator de ozon Qn= 20Nmc/h. Cmax[%]= 12 Distrugator de ozon catalitic cu evacuare fortata -Masa catalitic | 3.0 buc
+
+OFERTA S02834 | SERBAN INDUSTRIAL CONSTRUCT SRL | 2026-10-15 10:12 | Odoo: Comandă de vânzare | cerere: Filtru deferizare FDC 150 cu pompă dozare | conversații: c2168132
+  Ofertă S02834-1 v1 trimisă în m2168132:
+    [13-001303] FDC 150 - filtru deferizare demanganizare, vana Clack CI, racord 1.25" | 1.0 buc
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 1.0 buc
+    [11-002098] Rezervor PE - stocare chimicale 50L | 1.0 buc
+    [23-001216] Contor apa rece axial cu cadran uscat - 1"-ZENNER - cu generator de impuls 1/10L - cu racorduri (o-landezi) si | 1.0 buc
+    [-] Reducere: 9.00% | 1.0 buc
+  Factură proformă S02834-1 v1 trimisă în m2168196:
+  Confirmare de comandă S02834-1 v1 trimisă în m2168196:
+    [13-001303] FDC 150 - filtru deferizare demanganizare, vana Clack CI, racord 1.25" | 1.0 buc
+    [11-002012] Pompa dozatoare solenoidala tpg 603, digitala cu debit constant ajustabil manual sau proportional, in functie  | 1.0 buc
+    [11-002098] Rezervor PE - stocare chimicale 50L | 1.0 buc
+    [23-001216] Contor apa rece axial cu cadran uscat - 1"-ZENNER - cu generator de impuls 1/10L - cu racorduri (o-landezi) si | 1.0 buc
+    [-] Reducere: 9.00% | 1.0 buc

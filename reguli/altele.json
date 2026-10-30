@@ -1,0 +1,323 @@
+[
+  {
+    "cod": "RA-01",
+    "titlu": "Tratare ape uzate (stații de epurare, separatoare de hidrocarburi, efluent): AKRO refuză, nu activează în domeniu",
+    "explicatie": "AKRO nu lucrează cu ape uzate, adică apa murdară rămasă după folosire. Când i se cere o stație de epurare, separatoare de hidrocarburi sau tratarea apei rămase de la spălarea filtrelor ori de la osmoză, răspunde că nu activează în domeniu. Uneori adaugă că se ocupă de apa pentru potabilizare și de apa tehnică. Dacă stația de ape uzate e doar o poziție dintr-o licitație, AKRO ofertează restul și o lasă pe aceea deoparte, fără să explice în email.",
+    "categorie": "Altele / neclar",
+    "cand": "Clientul cere o stație de tratare a apelor uzate, separatoare de hidrocarburi sau tratarea efluentului (spălare filtre, concentrat osmoză), separat sau ca poziție într-o licitație.",
+    "clarificari": [
+      "Când cererea e doar pentru ape uzate, AKRO răspunde că nu activează în tratarea apelor uzate. În două din cele trei cazuri își precizează și domeniul: ape primare pentru potabilizare și ape tehnice (o dată adaugă și demineralizarea)."
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "într-o licitație cu mai multe fișe tehnice, AKRO ofertează doar pozițiile de apă primară și lasă deoparte stația de ape uzate, fără să explice în email de ce"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2151972",
+        "src": "m2151972",
+        "citat": "Firma AKRO nu activeaza in tratarea apelor uzate, prin urmare nu va putem prezenta o propunere in aceasta directie.",
+        "pentru": "clarificare",
+        "nota": "stație de ape uzate medicale pentru o clinică dentară, refuzată. AKRO își precizează domeniul"
+      },
+      {
+        "conv": "c2158308",
+        "src": "m2158308",
+        "citat": "Solicitarea dumneavoastra vine din domeniul epurarii apelor [ tratarii apelor uzate] – iar in acest sector nu activam.",
+        "pentru": "clarificare",
+        "nota": "tratarea apei rămase de la demineralizare și pretratare, refuzată. AKRO își precizează domeniul, inclusiv demineralizarea"
+      },
+      {
+        "conv": "c2124612",
+        "src": "m2159652",
+        "citat": "Din pacate in sectorul de tratare al apelor uzate nu activam, si nici nu avem in portofoliu produse aferente.",
+        "pentru": "clarificare",
+        "nota": "separatoare de hidrocarburi pentru licitație, refuzate, fără precizarea domeniului"
+      },
+      {
+        "conv": "c2129828",
+        "src": "m2165636",
+        "citat": "Va rog sa regasiti anexata cotatia de pret pentru 3 din echipamentele solicitate",
+        "pentru": "ofertă",
+        "nota": "din cele 4 fișe ale licitației, AKRO ofertează 3 și nu ofertează stația completă de ape uzate (F5-20), fără explicație"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "RA-02",
+    "titlu": "Echipament de producere apă distilată (distilator): AKRO refuză, nu are distilatoare în portofoliu",
+    "explicatie": "Clientul care cere un distilator, adică un aparat care produce apă distilată, primește un răspuns negativ. AKRO îi spune că nu are distilatoare sau echipamente asemănătoare în portofoliu.",
+    "categorie": "Altele / neclar",
+    "cand": "Clientul cere un distilator sau un echipament echivalent pentru producerea apei distilate.",
+    "clarificari": [
+      "AKRO răspunde că nu are distilatoare sau echipamente similare în portofoliu."
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2135396",
+        "src": "m2135396",
+        "citat": "Din pacate nu avem in portofoliu de produse si distilatoare",
+        "pentru": "clarificare",
+        "nota": "cerere de echivalent GFL pentru 200 l/zi apă distilată, refuzată"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "RA-03",
+    "titlu": "Tratare apă potabilă pentru rezervoarele unui spital: filtru cu autocurățare, clorinare pe recirculare și UV pe distribuitor",
+    "explicatie": "După o întâlnire cu proiectantul unui spital, AKRO a pregătit tratarea apei pentru cele două rezervoare de apă potabilă. A cerut diametrele conductelor, debitele și presiunile din punctele unde se montează sistemele UV, care dezinfectează apa cu lumină ultravioletă, apoi datele cerute de producătorul UV. Oferta a cuprins un filtru cu autocurățare pe conducta comună, câte o clorinare pe recircularea fiecărui bazin și trei sisteme UV după distribuitor, fără montaj. La cerere, AKRO a notat echipamentele pe schema proiectantului și a corectat textul descriptiv.",
+    "categorie": "Altele / neclar",
+    "cand": "Proiectantul unui spital cere soluția de tratare pentru rezervoare de apă potabilă (bazine cu recirculare și distribuitor spre consumatori), după o întâlnire, și trimite schemele instalației.",
+    "clarificari": [
+      "Ce diametre au conductele spre punctele de consum unde se montează UV?",
+      "Care este debitul maxim pe fiecare traseu și presiunea maximă în punctele de montaj UV?",
+      "Pe ce diametru se face aspirația din fiecare bazin (neconcordanțe între schemele de flux și de amplasament)?",
+      "Pentru producătorul UV: debitul maxim de proiect, UVT minim al apei și cerința de dezinfecție (doza RED sau standardul)."
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "01-008187",
+          "rol": "filtru STF cu autocurățare DN150 pe aducțiunea comună a rezervoarelor"
+        },
+        {
+          "ref": "11-002012",
+          "rol": "pompă dozatoare TPG 603, câte una pe recircularea fiecărui bazin"
+        },
+        {
+          "ref": "11-002027",
+          "rol": "rezervor de 100 L pentru hipoclorit"
+        },
+        {
+          "ref": "11-002026",
+          "rol": "lance de aspirație cu senzor de nivel"
+        },
+        {
+          "ref": "11-002151",
+          "rol": "panou K800 KPW05 pentru clor liber"
+        },
+        {
+          "ref": "11-002159",
+          "rol": "senzor de clor liber anorganic FCL5 0-2 ppm"
+        },
+        {
+          "ref": "11-002004",
+          "rol": "cablu pentru senzorul de clor"
+        },
+        {
+          "ref": "27-001232",
+          "rol": "sistem UV Pureline ECO 85 DN100 cu autowiper, pe ieșirile din distribuitor"
+        },
+        {
+          "ref": "27-001235",
+          "rol": "sistem UV Pureline ECO 125 DN125 cu autowiper"
+        },
+        {
+          "ref": null,
+          "nume": "Pureline ECO 40 DN75 cu autowiper",
+          "rol": "variantă mai mică și mai economică, propusă doar în textul emailului la recomandarea producătorului"
+        }
+      ],
+      "servicii": [
+        "livrarea la beneficiar inclusă. Montajul și PIF neincluse",
+        "schema clientului cu pozițiile echipamentelor notate și textul descriptiv pentru proiect, actualizat după echipamentele ofertate"
+      ],
+      "documente": [
+        "fișa tehnică și desenul general (DWG/PDF) al filtrului STF FMA-1006E",
+        "fișa PureLine ECO",
+        "broșura PLC a sistemelor UV"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2157348",
+        "src": "m2157348",
+        "citat": "Diametrele conductelor aferente celor doua puncte de consum [ care pleaca din distribuitorul general]",
+        "pentru": "clarificare",
+        "nota": "după întâlnire, AKRO cere diametrele, debitul maxim și presiunea pentru dimensionarea UV"
+      },
+      {
+        "conv": "c2157348",
+        "src": "m2157860",
+        "citat": "pe ce diametru de teava se face aceasta aspiratie din fiecare bazin",
+        "pentru": "clarificare",
+        "nota": "AKRO semnalează neconcordanța dintre schemele de flux și de amplasament la aspirația din bazine"
+      },
+      {
+        "conv": "c2157348",
+        "src": "m2097380",
+        "citat": "Debitul maxim de proiect pentru fiecare echipament (m³/h)",
+        "pentru": "clarificare",
+        "nota": "AKRO transmite întrebările producătorului UV: debit maxim, UVT minim și cerința de dezinfecție"
+      },
+      {
+        "conv": "c2157348",
+        "src": "m2161924",
+        "citat": "2 sisteme de clorinare [ cate una pentru fiecare recirculare de bazin] compuse din:",
+        "pentru": "ofertă",
+        "nota": "oferta: filtru STF pe aducțiune, clorinare pe fiecare recirculare și 3 sisteme UV Pureline ECO"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "RA-04",
+    "titlu": "Licitație cu fișe tehnice F5 pentru apă potabilă: ofertă directă pe ipoteze declarate, cu variante de calitate",
+    "explicatie": "Când un constructor trimite pentru licitație fișele tehnice din formularul F5, fără date de montaj, AKRO nu mai pune întrebări. Ofertează direct și scrie în email ce a presupus, de exemplu țeava DN100 și o presiune de cel mult 10 bar. Pentru stația de dedurizare dă două variante, una cu vană Clack din SUA și una cu vană Runxin din China, explică diferența de calitate și îi cere clientului să aleagă.",
+    "categorie": "Altele / neclar",
+    "cand": "Un constructor trimite pentru licitație fișele tehnice F5 (sterilizator UV, kit de clorinare, stație de dedurizare duplex etc.) fără alte date de montaj.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "27-001300",
+          "rol": "sterilizator UV SITA AM 96 ECO PLUS pentru fișa UV"
+        },
+        {
+          "ref": "27-001301",
+          "rol": "opțiunea de presiune 16 bar pentru UV (PN16 cerut în fișă)"
+        },
+        {
+          "ref": "11-002027",
+          "rol": "rezervor de 100 L PE din kitul de clorinare"
+        },
+        {
+          "ref": "11-002026",
+          "rol": "lance de aspirație cu senzor de nivel"
+        },
+        {
+          "ref": "11-002012",
+          "rol": "pompă dozatoare TPG 603 cu kit de injecție, dozare din meniul pompei, fără tablou separat"
+        },
+        {
+          "ref": "23-001189",
+          "rol": "contor mecanic DN100 cu modul inductiv 1/100, semnal către pompă"
+        },
+        {
+          "ref": "13-001308",
+          "rol": "varianta de dedurizare duplex cu vană Clack (SUA)"
+        },
+        {
+          "ref": "13-001164",
+          "rol": "varianta de dedurizare duplex cu vană Runxin (China). Clientul alege una"
+        }
+      ],
+      "servicii": [
+        "livrarea la beneficiar inclusă. Montajul și PIF neincluse"
+      ],
+      "documente": [
+        "fișele tehnice ale echipamentelor ofertate: sterilizatorul UV, pompa dozatoare, vasul de stocare, contorul și cele două stații de dedurizare"
+      ],
+      "conditii": [
+        "ipotezele lipsă se declară în email (țeavă DN100, presiune maximă 10 bar)",
+        "garanție standard 12 luni, extensibilă până la 5 ani contra cost (5% din valoarea proiectului pe an)"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2129828",
+        "src": "m2165636",
+        "citat": "am considerat teava de montaj DN100 si presiune in teava nu mai mare de 10bar",
+        "pentru": "ofertă",
+        "nota": "fără clarificări, AKRO declară ipotezele pentru kitul de clorinare"
+      },
+      {
+        "conv": "c2129828",
+        "src": "m2165636",
+        "citat": "trebuie sa alegeti o varianta din cele doua propuse de statii de dedurizare",
+        "pentru": "ofertă",
+        "nota": "pentru dedurizare AKRO dă două variante (Clack și Runxin) și explică diferențele de calitate"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "RA-05",
+    "titlu": "Piese de schimb pentru o instalație livrată anterior: AKRO semnalează diferențele față de comenzile anterioare și cere confirmare",
+    "explicatie": "Clientul care are deja o instalație de la AKRO trimite o listă de piese de schimb și consumabile. AKRO o compară cu ce a cumpărat clientul înainte și semnalează diferențele în email, de exemplu cartușe cu altă finețe decât în trecut sau două pungi de bile de curățare în loc de una. Când finețea diferă, îi cere clientului să confirme ce vrea. Oferta păstrează reducerea negociată anterior.",
+    "categorie": "Altele / neclar",
+    "cand": "Clientul cu o instalație AKRO cere o listă de piese de schimb și consumabile (cartușe, bile de curățare senzor, reactivi, piese de vană).",
+    "clarificari": [
+      "Când finețea cartușelor cerute diferă de cea cumpărată în trecut, AKRO cere clientului să confirme varianta dorită.",
+      "AKRO semnalează cantitățile ajustate față de cerere (de exemplu 2 pungi de bile de curățare în loc de una)."
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "11-002100",
+          "rol": "bilele de curățare a senzorului de clor, ofertate 2 pungi în loc de una cerută"
+        }
+      ],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "reducerea de 3% negociată anterior cu clientul se păstrează"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2124804",
+        "src": "m2159716",
+        "citat": "acum s-au ofertat cartuse de 10 microni si de 5 microni",
+        "pentru": "clarificare",
+        "nota": "AKRO compară cu achizițiile anterioare (50 și 10 microni) și cere confirmarea. Clientul comandă apoi cartușe de 50 microni"
+      },
+      {
+        "conv": "c2124804",
+        "src": "m2159716",
+        "citat": "Am adaugat 2 pungi de bile de curatare a senzorului de clor.",
+        "pentru": "ofertă",
+        "nota": "oferta S02863: 2 pungi de bile de curățare în loc de una cerută"
+      },
+      {
+        "conv": "c2124804",
+        "src": "m2159716",
+        "citat": "Am mentinut si acordat si discountul de 3% solicitat in trecut.",
+        "pentru": "ofertă",
+        "nota": "reducerea de 3% din trecut se păstrează în ofertă"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "RA-06",
+    "titlu": "Proiect de tratare cu montaj în sarcina clientului: AKRO precizează lucrările pe care le asigură clientul",
+    "explicatie": "Uneori clientul comandă un pachet de echipamente negociat fără montaj din partea AKRO. La confirmarea comenzii, AKRO îi scrie clar ce rămâne în sarcina lui: materialele și montajul dozării, traseele de apă până în camera tehnică, racordurile cu robinet, flotorul bazinului și montajul echipamentelor. Clientul primește odată cu ele și schema de montaj a instalației de clorinare.",
+    "categorie": "Altele / neclar",
+    "cand": "Clientul comandă un pachet de echipamente (pompe, filtre, clorinare, osmoză, UV) negociat fără montaj AKRO.",
+    "clarificari": [
+      "AKRO enumeră ce asigură clientul: materialele și montajul dozării, traseele de apă până în camera tehnică, racordurile DN80 cu robinet, flotorul bazinului și montajul echipamentelor."
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [
+        "schema de montaj a instalației de clorinare"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2139524",
+        "src": "m2139524",
+        "citat": "Trebuie sa asigurati montajul statiei de osmoza langa bazinul existent",
+        "pentru": "clarificare",
+        "nota": "la confirmarea comenzii, AKRO listează lucrările rămase în sarcina clientului"
+      }
+    ],
+    "contradictii": []
+  }
+]

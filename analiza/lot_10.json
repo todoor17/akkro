@@ -1,0 +1,747 @@
+[
+  {
+    "conv": "c2116452",
+    "tip": "furnizor",
+    "client": {"text": "Airwatec SA (Cintropur)", "src": "m2116452", "citat": "Hochstrasse 104d Tel. +32 (0)87 59 83 30 info@airwatec.com"},
+    "descriere": {"text": "Airwatec (Cintropur) confirmă comanda AKRO PO1434 (carcase Cintropur NW400/NW500, console, saci filtranți) cu factură proformă 112969; AKRO trimite dovada plății.", "src": "m2116452", "citat": "Ref. Order: PO1434 Order Number: 112969"},
+    "cereri": []
+  },
+  {
+    "conv": "c2153124",
+    "tip": "furnizor",
+    "client": {"text": "GEL (gel.it)", "src": "m2116644", "citat": "export@gel.it Via E. Ferrari, 1 - 60022 Castelfidardo"},
+    "descriere": {"text": "AKRO cere la GEL o cotație actualizată și cantitatea minimă pentru GELPHOS L 25 kg; furnizorul răspunde cu prețuri nete pentru 4 și 12 bucăți.", "src": "m2153124", "citat": "Is it possible to send us an updated price quotation for GELPHOS L 25kg"},
+    "cereri": []
+  },
+  {
+    "conv": "c2153156",
+    "tip": "client",
+    "client": {"text": "Draxlmaier Procese de Productie Romania S.R.L.", "src": "m2153156", "citat": "Draxlmaier Procese de Productie Romania S.R.L."},
+    "descriere": null,
+    "cereri": [
+      {
+        "titlu": "Soluție tratare apă GELPHOS L 25 kg",
+        "categorie": "12-Chimicale pentru conditionare si intretinere",
+        "cerinta": {"text": "Cere ofertă pentru 10 bidoane soluție de tratare apă GELPHOS L 25 kg pentru locația Codlea.", "src": "m2153156", "citat": "10 buc Solutie tratare apa GELPHOS L25 Kg"},
+        "cerinte_finale": [
+          {"camp": "cantitate", "text": "12 bidoane x 25 kg GELPHOS L (minimul de producție)", "src": "m2153284", "citat": "cotatia de pret pentru 12 bidoane x 25 kg"},
+          {"camp": "loc livrare", "text": "Locația Draxlmaier din Codlea", "src": "m2153156", "citat": "Pentru locația noastră Draxlmaier din Codlea vă solicităm oferta pentru"}
+        ],
+        "clarificari": [
+          {"intrebare": null, "raspuns": {"text": "AKRO nu are produsul pe stoc și cere producătorului termen, cantitate minimă și preț actualizat.", "src": "m2153156", "citat": "Din pacate pe stoc nu tinem acest produs."}, "schimbare": "Produsul se aduce la comandă de la producător."},
+          {"intrebare": null, "raspuns": {"text": "Producătorul acceptă minim 12 bucăți; discount 10% pentru palet întreg de 40 bucăți; livrare 2-4 săptămâni.", "src": "m2153284", "citat": "Aceasta este minimul de bucati pe care producatorul il poate accepta in productie."}, "schimbare": "Cantitatea crește de la 10 la 12 bidoane (minim de producție); opțiune palet de 40 buc cu 10% discount."}
+        ],
+        "telefon": [],
+        "fisa_securitate": [],
+        "oferte": ["S02735"],
+        "oferta_in_text": [],
+        "rezultat": {"valoare": "necunoscut", "text": null, "src": null, "citat": null}
+      }
+    ]
+  },
+  {
+    "conv": "c2116516",
+    "tip": "furnizor",
+    "client": {"text": "Alamo Water Poland Sp. z o.o.", "src": "m2116516", "citat": "Alamo Water Poland Sp. z o.o."},
+    "descriere": {"text": "Coordonare cu Alamo Water Poland pentru comanda separată P01436 (PMB101-2) și ridicarea comenzii P01380 (dimensiuni paleți, transport Raben/Dachser).", "src": "m2153188", "citat": "It is a separate order, so it is not a must to be added on the current transport."},
+    "cereri": []
+  },
+  {
+    "conv": "c2116676",
+    "tip": "client",
+    "client": {"text": "G-Mining Services (Certej Project)", "src": "m2116676", "citat": "Procurement Lead Certej Project G-Mining Services"},
+    "descriere": null,
+    "cereri": [
+      {
+        "titlu": "Tratare apă menajeră P302 – proiect Certej",
+        "categorie": "Altele / neclar",
+        "cerinta": null,
+        "cerinte_finale": [
+          {"camp": "aplicație", "text": "Pachetul P302 Domestic Water Treatment, faza de studiu de fezabilitate a proiectului minier Certej", "src": "m2116676", "citat": "Thank you for your participation in the competitive bidding process for P302 (Domestic Water Treatment)."}
+        ],
+        "clarificari": [
+          {"intrebare": null, "raspuns": {"text": "Procesul RFQ pentru faza de fezabilitate s-a încheiat; AKRO va fi invitată la RFP în Q3-2027 sau ulterior.", "src": "m2116676", "citat": "we intend to invite your company to participate in this upcoming RFP process"}, "schimbare": "Ofertarea trece într-un proces RFP viitor (Q3-2027 sau mai târziu)."}
+        ],
+        "telefon": [],
+        "fisa_securitate": [],
+        "oferte": [],
+        "oferta_in_text": [],
+        "rezultat": {"valoare": "necunoscut", "text": null, "src": null, "citat": null}
+      }
+    ]
+  },
+  {
+    "conv": "c2116708",
+    "tip": "furnizor",
+    "client": {"text": "Alamo Water Poland Sp. z o.o.", "src": "m2116708", "citat": "Alamo Water Poland Sp. z o.o."},
+    "descriere": {"text": "Aviz de livrare PS2605197_1400 de la Alamo Water Poland pentru comanda AKRO P01411 (vane și componente Clack).", "src": "m2116708", "citat": "Terms of delivery: Ex Works Stare Babice, Poland - Customer reference: #P01411"},
+    "cereri": []
+  },
+  {
+    "conv": "c2153348",
+    "tip": "furnizor",
+    "client": {"text": "FILTERFLO S.R.L.", "src": "m2153348", "citat": "Client FILTERFLO S.R.L."},
+    "descriere": {"text": "AKRO trimite către Filterflo comanda de achiziție P01439 (cartușe PRM10TX4C8S) și așteaptă confirmarea.", "src": "m2153348", "citat": "Please find attached our new order ."},
+    "cereri": []
+  },
+  {
+    "conv": "c2116804",
+    "tip": "furnizor",
+    "client": {"text": "Xylem Hungary Kft.", "src": "m2116804", "citat": "Best regards, Xylem Hungary Kft."},
+    "descriere": {"text": "Raportul Xylem Hungary cu stadiul comenzilor deschise ale AKRO, redirecționat intern.", "src": "m2116804", "citat": "Kindly find enclosed our latest report detailing the current status of your open orders."},
+    "cereri": []
+  },
+  {
+    "conv": "c2116836",
+    "tip": "furnizor",
+    "client": {"text": "FILTERFLO SRL", "src": "m2116836", "citat": "Via Copernico 2/4 20082 - Binasco MI P.Iva 11451800152"},
+    "descriere": {"text": "Filterflo trimite confirmarea de comandă OC26/--2340 pentru comanda AKRO P01439 (cartușe PROXIS melt-blown, livrare 18/09/2026).", "src": "m2116836", "citat": "Here enclosed you can find our order acknowledgement."},
+    "cereri": []
+  },
+  {
+    "conv": "c2153476",
+    "tip": "furnizor",
+    "client": {"text": "Lucian Aiftimie", "src": "m2153476", "citat": "Client Shipping address: LUCIAN AIFTIMIE"},
+    "descriere": {"text": "AKRO trimite comanda de achiziție P01440 către Lucian Aiftimie pentru înlocuirea rășinii la 2 butelii P42 din inox.", "src": "m2153476", "citat": "Iti trimit anexata comanda pentru luni – inlocuire a rasinii la 2 butelii P42"},
+    "cereri": []
+  },
+  {
+    "conv": "c2116900",
+    "tip": "furnizor",
+    "client": {"text": "Alamo Water Poland Sp. z o.o.", "src": "m2116900", "citat": "Alamo Water Poland Sp. z o.o."},
+    "descriere": {"text": "Aviz de livrare PS2605239_1400 de la Alamo Water Poland pentru comanda AKRO P01380 (componente Clack, rășină PC003).", "src": "m2116900", "citat": "Terms of delivery: Ex Works Stare Babice, Poland - Customer reference: #P01380"},
+    "cereri": []
+  },
+  {
+    "conv": "c2116964",
+    "tip": "client",
+    "client": {"text": "HCS Sanishop SRL", "src": "m2116964", "citat": "Cu stima HCS Sanishop Judet: Brasov"},
+    "descriere": null,
+    "cereri": [
+      {
+        "titlu": "Stație de dedurizare pentru apartament",
+        "categorie": "13-Filtre multistrat diferite medii",
+        "cerinta": {"text": "Cere preț pentru o stație de dedurizare pentru un apartament cu consumatori simultani.", "src": "m2116964", "citat": "Rog pret pt o statie de dedurizare:"},
+        "cerinte_finale": [
+          {"camp": "debit", "text": "Consumatori simultani: duș A 30 l/min, duș B 12 l/min, bucătărie 12 l/min (cca 3,24 m³/h)", "src": "m2116964", "citat": "dus A- 30 l/min ,dus B cu 12 l/min si bucatarie cu 12 l/min"},
+          {"camp": "aplicație", "text": "Apartament cu boiler de 300 l ACM", "src": "m2116964", "citat": "Am un boiler de 300 l acm ,bransament de apa de Dn 32"},
+          {"camp": "racord", "text": "Branșament DN 32", "src": "m2116964", "citat": "Am un boiler de 300 l acm ,bransament de apa de Dn 32"},
+          {"camp": "altele", "text": "Presiune statică în rețeaua Brașov 5-6 bar (necesită regulator de presiune)", "src": "m2116964", "citat": "Presiunea satatica din reteaua orasului Brasov este de 5-6 bari"},
+          {"camp": "tip echipament", "text": "Dedurizator simplex 75 L rășină, vană Clack CI 1\" sau 1.25\", tanc saramură 200 L", "src": "m2153636", "citat": "Va trimitem anexate doua dedurizatoare simplex cu 75 L – cu vane CLACK CI"}
+        ],
+        "clarificari": [
+          {"intrebare": null, "raspuns": {"text": "Pentru debitul de 3,2 mc/h e necesară o butelie 13x54 cu 75 L rășină; se ofertează două variante (vană 1.25\" și 1\").", "src": "m2153636", "citat": "atunci suntem obligati sa mergem pe o butelie de presiune cu dimensiunile de 13x54"}, "schimbare": "Dimensionare la butelie 13x54 (75 L rășină), două variante de racord."},
+          {"intrebare": {"text": "Clientul cere fișele tehnice.", "src": "m2117060", "citat": "ma puteti ajuta si cu fisele tehnice?"}, "raspuns": {"text": "AKRO trimite fișele; stațiile sunt identice, diferă doar racordul și țeava distribuitorului.", "src": "m2153668", "citat": "doar racordul de intrare/iesire este diferit + teava distribuitorului interior"}, "schimbare": "Se trimit fișele tehnice ale celor două variante."}
+        ],
+        "telefon": [],
+        "fisa_securitate": [],
+        "oferte": ["S02741"],
+        "oferta_in_text": [],
+        "rezultat": {"valoare": "necunoscut", "text": null, "src": null, "citat": null}
+      }
+    ]
+  },
+  {
+    "conv": "c2116996",
+    "tip": "marketing",
+    "client": null,
+    "descriere": {"text": "Spuretek Filtration oferă nesolicitat cartușe filtrante pentru lichide la comandă.", "src": "m2116996", "citat": "We offer one-stop customized filter cartridge solutions for liquid filtration"},
+    "cereri": []
+  },
+  {
+    "conv": "c2153604",
+    "tip": "client",
+    "client": {"text": "TALPAC SRL CONSTANTA", "src": "m2153604", "citat": "Companie: TALPAC SRL CONSTANTA"},
+    "descriere": null,
+    "cereri": [
+      {
+        "titlu": "Nisip cuarțos 3 mc pentru licitație",
+        "categorie": "14-Componente pentru filtre multistrat",
+        "cerinta": {"text": "Cere ofertă pentru 3 mc nisip cuarțos de râu spălat și sortat 2-3 mm, pentru o licitație.", "src": "m2153604", "citat": "NISIP CUARTOS DE RAU SPALAT SI SORTAT 2-3MM = 3 MC"},
+        "cerinte_finale": [
+          {"camp": "cantitate", "text": "3 mc nisip (cca 4,5-4,7 tone)", "src": "m2153604", "citat": "3 mc de nisip inseamna aproximativ 4.5-4.7 tone."},
+          {"camp": "aplicație", "text": "Licitație pentru înlocuirea unui tronson de conductă de țiței Recea-Mislea, jud. Prahova", "src": "m2153604", "citat": "In vederea participarii la licitatie pentru inlocuirea unui tronson de conducta de titei"},
+          {"camp": "termen", "text": "Oferta cerută în aceeași zi, 31.08.2026", "src": "m2153604", "citat": "Asteptam oferta dumneavoastra astazi, 31.08.2026, pentru care va multumim!"}
+        ],
+        "clarificari": [
+          {"intrebare": null, "raspuns": {"text": "AKRO poate furniza doar nisip de carieră spălat și uscat, granulație 1-3 mm, în big bag.", "src": "m2153604", "citat": "singura varianta pe care o putem furniza ar fi nisip de cariera spalat si uscat"}, "schimbare": "Nisip de carieră 1-3 mm în loc de nisip de râu 2-3 mm."}
+        ],
+        "telefon": [],
+        "fisa_securitate": [],
+        "oferte": [],
+        "oferta_in_text": [
+          {"text": "Nisip cuarțos 1-3 mm big bag, 1350 lei/tonă fără TVA cu transport inclus; 4,5 t = 6075 lei + TVA; livrare 2-3 săptămâni, plată 100% în avans.", "src": "m2153604", "citat": "La 4.5 tone x 1350 lei = 6075 lei + TVA"}
+        ],
+        "rezultat": {"valoare": "necunoscut", "text": null, "src": null, "citat": null}
+      }
+    ]
+  },
+  {
+    "conv": "c2117124",
+    "tip": "client",
+    "client": {"text": "SC MONTIN SA", "src": "m2117124", "citat": "SC MONTIN SA str. Poligonului, nr.3, Ploiesti, jud.Prahova"},
+    "descriere": null,
+    "cereri": [
+      {
+        "titlu": "Stație de dedurizare obiectiv PARKLANE",
+        "categorie": "13-Filtre multistrat diferite medii",
+        "cerinta": {"text": "Cere ofertă pentru o stație de dedurizare (fără potabilitate) pentru obiectivul PARKLANE, debit 11-12 mc/h din 2 foraje.", "src": "m2117124", "citat": "Pentru Obiectivul PARKLANE , va rugam oferta pentru statie dedurizare, fara potabilitate."},
+        "cerinte_finale": [
+          {"camp": "debit", "text": "11-12 mc/h de la 2 foraje", "src": "m2117124", "citat": "Debit total 11-12mc /h de la 2 foraje."},
+          {"camp": "calitate apă", "text": "Apă subterană din puț forat Parklane, Popești Leordeni (raport de încercări Biosol atașat)", "src": "m2117124", "citat": "Put forat - Parklane, Soseaua Oltenitei,nr 216,Popesti Leordeni"},
+          {"camp": "tip echipament", "text": "Filtru impurități NW500 2\"", "src": "m2153956", "citat": "pentru retinere impuritati – NW500 – fisa tehnica anexata"},
+          {"camp": "tip echipament", "text": "Stație de clorinare volumetrică: pompă dozatoare TPG603, rezervor 50 L, contor apă rece 2\"", "src": "m2153956", "citat": "O statie de clorinare volumetrica:"},
+          {"camp": "tip echipament", "text": "Stație de dedurizare duplex 700 L cu vană RX99 2\"", "src": "m2153956", "citat": "Statia de dedurizare de 700L duplex cu vana RX 99"},
+          {"camp": "termen", "text": "Livrare estimată 3-5 săptămâni de la comanda fermă", "src": "m2153956", "citat": "Termen estimat de livrare a produselor 3-5 saptamani de la comanda ferma."},
+          {"camp": "altele", "text": "Asamblare și PIF incluse în confirmarea de comandă (anexa 1 la contract)", "src": "m2154404", "citat": "Confirmarea de comanda cu interventia de asamblare si PIF a statiei de dedurizare la Popesti Leordeni"},
+          {"camp": "altele", "text": "Plată: 50% avans din utilaje, 50% la gata de livrare, servicii la 15 zile de la intervenție", "src": "m2154404", "citat": "50% din valoarea utilajelor in avans;"},
+          {"camp": "loc livrare", "text": "Park Lane, Șos. Olteniței nr. 245, Popești Leordeni; contact Roșu George", "src": "m2128292", "citat": "LIVRARE STATIE DEDURIZARE - PARK LANE SOS OLTENITEI NR 245 POPESTI LEORDENI"}
+        ],
+        "clarificari": [
+          {"intrebare": null, "raspuns": {"text": "AKRO a clarificat instalația cu Dl Roșu și propune filtru NW500, clorinare volumetrică și dedurizare duplex 700 L (ca la Filipeștii de Târg); montajul și PIF nu sunt incluse în ofertă.", "src": "m2153956", "citat": "Am discutat cu Dl Rosu ieri si totul este clar din punct de vedere al instalatiei."}, "schimbare": "Soluția se extinde la filtru + clorinare + dedurizare duplex 700 L."},
+          {"intrebare": null, "raspuns": {"text": "După discuția telefonică, se trimit confirmarea de comandă cu asamblare și PIF, draftul de contract și factura de avans 50%.", "src": "m2154404", "citat": "Draftul de contract in format editabil"}, "schimbare": "Se adaugă asamblarea și PIF-ul; se încheie contract nr. 129."},
+          {"intrebare": null, "raspuns": {"text": "Pentru FAM, AKRO indică producătorii: Airwatec/Cintropur, Zenner, SEKO, Euro-Clear.", "src": "m2155012", "citat": "Pentru FAM va las mai jos producatorii la toate produsele din oferta prezentata"}, "schimbare": "Se precizează producătorii echipamentelor."},
+          {"intrebare": null, "raspuns": {"text": "Restul facturilor se pot achita cu bilet la ordin avalizat la 30 de zile.", "src": "m2163300", "citat": "Am primit aprobare si pentru achitarea cu BO – avalizat la 30 de zile"}, "schimbare": "Plata restului facturilor prin BO avalizat la 30 de zile."}
+        ],
+        "telefon": [
+          {"text": "S-a stabilit comanda cu asamblare și PIF, contractul și avansul de 50%.", "src": "m2154404", "citat": "Conform discutiei telefonice, va rog sa regasiti anexate:"}
+        ],
+        "fisa_securitate": [],
+        "oferte": ["S02748"],
+        "oferta_in_text": [],
+        "rezultat": {"valoare": "acceptată", "text": "Comandă confirmată cu asamblare și PIF, contract și avans; marfa livrată în octombrie 2026.", "src": "m2154404", "citat": "Confirmarea de comanda cu interventia de asamblare si PIF"}
+      }
+    ]
+  },
+  {
+    "conv": "c2153764",
+    "tip": "client",
+    "client": {"text": "ROV HEIZ CONSULT SRL", "src": "m2153764", "citat": "AKRO SRL ROV HEIZ CONSULT SRL, Daniela"},
+    "descriere": null,
+    "cereri": [
+      {
+        "titlu": "Tratare apă foraj restaurant Hesburger A1",
+        "categorie": "13-Filtre multistrat diferite medii",
+        "cerinta": {"text": "Cere ofertă de preț și fișe tehnice pentru articolele din lista atașată, apă din foraj de adâncime, analiza apei atașată.", "src": "m2153764", "citat": "Va rugam sa ne transmiteti oferta de pret si fise tehnice pentru articolele din lista atasata."},
+        "cerinte_finale": [
+          {"camp": "calitate apă", "text": "Apă din foraj de adâncime, potabilă conform buletinului", "src": "m2153764", "citat": "Apa este captata din subteran printr-un foraj de adancime."},
+          {"camp": "aplicație", "text": "Apă pentru aparate de cafea, mașini de spălat, electrocasnice și uz menajer (dedurizare totală)", "src": "m2153764", "citat": "apa va fi utilizata pentru aparate de cafea, masini de spalat si alte electrocasnice"},
+          {"camp": "debit", "text": "Maxim 4,8 mc/h, 24/24", "src": "m2153764", "citat": "dimensionat sa poata furniza apa 24/24 cu un debit maxim de 4.8mc/h"},
+          {"camp": "tip echipament", "text": "Filtru impurități NW400 cu purjare manuală", "src": "m2153764", "citat": "Un filtru de impuritati NW400 – cu purjare manuala"},
+          {"camp": "tip echipament", "text": "Stație dedurizare duplex alternant, vane Clack 1.25\", 100 L rășină pe coloană", "src": "m2153764", "citat": "O statie de dedurizare duplex alternant cu vane clack de 1.25"},
+          {"camp": "tip echipament", "text": "Sistem UV 96 W pentru maxim 8 mc/h", "src": "m2153764", "citat": "Un sistem UV de 96 W – capabil sa trateze un debit de pana la 8 mc/h"}
+        ],
+        "clarificari": [
+          {"intrebare": null, "raspuns": {"text": "Clientul dorește oricum dedurizare totală; AKRO propune filtru + dedurizare duplex + UV.", "src": "m2153764", "citat": "Am inteles de la dumneavoastra ca se doreste oricum o dedurizare totala la apa"}, "schimbare": "Dedurizare totală plus dezinfecție UV, dimensionate la 4,8 mc/h."}
+        ],
+        "telefon": [
+          {"text": "S-a discutat că apa este potabilă conform buletinului și că se dorește dedurizare totală.", "src": "m2153764", "citat": "Conform discutiei telefonice, va transmitem si in scris ca apa conform buletinului trimis este potabila."}
+        ],
+        "fisa_securitate": [],
+        "oferte": ["S02742"],
+        "oferta_in_text": [],
+        "rezultat": {"valoare": "necunoscut", "text": null, "src": null, "citat": null}
+      }
+    ]
+  },
+  {
+    "conv": "c2153828",
+    "tip": "client",
+    "client": {"text": "S.C. FIX IMPORT EXPORT S.R.L. (Ionel Mocanu)", "src": "m2153828", "citat": "S.C. FIX IMPORT EXPORT S.R.L."},
+    "descriere": null,
+    "cereri": [
+      {
+        "titlu": "Instalație dedurizare penthouse Brașov",
+        "categorie": "13-Filtre multistrat diferite medii",
+        "cerinta": {"text": "Cere o instalație de tratare a apei pentru un penthouse dintr-un bloc din Brașov.", "src": "m2153828", "citat": "Dorim o instalație de tratare apa pentru un penthouse (et 5) într-un bloc din Brasov"},
+        "cerinte_finale": [
+          {"camp": "debit", "text": "Debit simultan necesar 51,5 l/min (cca 3,1 m³/h)", "src": "m2153828", "citat": "Necesar: 24,5 + 15 + 12 = 51,5 litri/minut (echivalentul a ~3,1 m³/h)."},
+          {"camp": "racord", "text": "Conductă separată DN 40", "src": "m2153828", "citat": "o conducta separata de ceilalti consumatori (DN 40)"},
+          {"camp": "altele", "text": "Presiune statică 5-6 bar la apometru", "src": "m2153828", "citat": "Presiunea statică la apometrul din demisol este de 5-6 bari."},
+          {"camp": "loc livrare", "text": "Brașov, str. Carpaților nr. 14", "src": "m2153828", "citat": "într-un bloc din Brasov , str. Carpaților nr 14."},
+          {"camp": "tip echipament", "text": "Dedurizator simplex 75 L rășină, vană Clack 1.25\", semi-industrial", "src": "m2153828", "citat": "va recomandam un dedurizator de 75 L rasina simplex"}
+        ],
+        "clarificari": [
+          {"intrebare": null, "raspuns": {"text": "AKRO nu ține dedurizatoare casnice; pentru 3,1 mc/h coloana trebuie să aibă minim 330 mm diametru, deci recomandă 75 L simplex.", "src": "m2153828", "citat": "cel mai mic dedurizator care poate face fata unui debit instant de 3.1 mc/h"}, "schimbare": "Se propune un dedurizator semi-industrial 75 L și, opțional, filtru NW400."}
+        ],
+        "telefon": [],
+        "fisa_securitate": [],
+        "oferte": ["S02743"],
+        "oferta_in_text": [
+          {"text": "Filtru de impurități NW400 cu mesh nylon 150 microni: 1620 lei fără TVA.", "src": "m2153828", "citat": "costul este 1620 de lei fara TVA"}
+        ],
+        "rezultat": {"valoare": "necunoscut", "text": null, "src": null, "citat": null}
+      }
+    ]
+  },
+  {
+    "conv": "c2117252",
+    "tip": "client",
+    "client": {"text": "CORAL CONSTRUCT S.R.L.", "src": "m2153892", "citat": "AKRO SRL CORAL CONSTRUCT S.R.L., Vlad Rau"},
+    "descriere": null,
+    "cereri": [
+      {
+        "titlu": "Revizie de toamnă Aumovio Iași",
+        "categorie": "16-Prestari servicii",
+        "cerinta": {"text": "Cere programarea reviziei la Aumovio Iași în săptămâna 45 și valoarea consumabilelor necesare.", "src": "m2117252", "citat": "As dori sa stabilim programarea reviziei la Aumovio Iasi in Saptamana 45"},
+        "cerinte_finale": [
+          {"camp": "termen", "text": "Săptămâna 45 (02-06.11.2026)", "src": "m2117252", "citat": "in Saptamana 45 (02.11-06.1.2026)."},
+          {"camp": "loc livrare", "text": "Aumovio Iași", "src": "m2117252", "citat": "programarea reviziei la Aumovio Iasi"}
+        ],
+        "clarificari": [
+          {"intrebare": {"text": "Clientul întreabă de disponibilitate și valoarea consumabilelor.", "src": "m2117252", "citat": "Imi puteti spune daca aveti disponibilitate si de asemenea, valoarea consumabilelor necesare pentru aceasta revizie?"}, "raspuns": {"text": "Intervenția se poate programa în perioada indicată; singurul consumabil este cartușul stației de osmoză 01-010136.", "src": "m2153892", "citat": "singurul consumabil este cartusul de la statia de osmoza - cod 01-010136"}, "schimbare": "Consumabile limitate la cartușul de osmoză; confirmare finală telefonic."}
+        ],
+        "telefon": [
+          {"text": "Confirmarea programării se va face telefonic cu 1-2 săptămâni înainte.", "src": "m2153892", "citat": "ne vom auzi la telefon cu 1-2 saptamani inainte pentru confirmare"}
+        ],
+        "fisa_securitate": [],
+        "oferte": ["S02746"],
+        "oferta_in_text": [],
+        "rezultat": {"valoare": "necunoscut", "text": null, "src": null, "citat": null}
+      }
+    ]
+  },
+  {
+    "conv": "c2117348",
+    "tip": "client",
+    "client": {"text": "Pasirom Interactiv", "src": "m2153988", "citat": "From: Pasirom Interactiv <pasirominteractiv@gmail.com>"},
+    "descriere": null,
+    "cereri": [
+      {
+        "titlu": "Debitmetru electromagnetic DN 65",
+        "categorie": "23-Diverse materiale, consumabile",
+        "cerinta": {"text": "Cere preț și termen de livrare pentru un debitmetru electromagnetic DN 65, ieșire 4-20 mA, alimentare 230 V.", "src": "m2117348", "citat": "debitmetru electromagnetic dn 65,cu urmatoarele caracteristici:"},
+        "cerinte_finale": [
+          {"camp": "tip echipament", "text": "Debitmetru electromagnetic DN 65", "src": "m2117348", "citat": "debitmetru electromagnetic dn 65,cu urmatoarele caracteristici:"},
+          {"camp": "altele", "text": "Ieșire în curent unificat 4-20 mA", "src": "m2117348", "citat": "iesire in curent unificat 4 - 20 mA"},
+          {"camp": "tensiune", "text": "Alimentare 230 V", "src": "m2117348", "citat": "- alimentare 230 V Acesta este pt achizitie"},
+          {"camp": "loc livrare", "text": "Tulcea", "src": "m2117348", "citat": "Acesta este pt achizitie Locatia: Tulcea"}
+        ],
+        "clarificari": [],
+        "telefon": [],
+        "fisa_securitate": [],
+        "oferte": ["S02750"],
+        "oferta_in_text": [],
+        "rezultat": {"valoare": "fără răspuns", "text": "AKRO a cerut feedback la ofertă, fără răspuns în conversație.", "src": "m2155652", "citat": "va rog sa ne transmiteti un feedback cu privire la oferta anexata"}
+      }
+    ]
+  },
+  {
+    "conv": "c2154052",
+    "tip": "client",
+    "client": {"text": "MP BANEASA MOARA S.A.", "src": "m2154052", "citat": "AKRO SRL MP BANEASA MOARA S.A., Titel Marin"},
+    "descriere": null,
+    "cereri": [
+      {
+        "titlu": "Masă filtrantă și manoperă înlocuire în 2 filtre",
+        "categorie": "14-Componente pentru filtre multistrat",
+        "cerinta": null,
+        "cerinte_finale": [
+          {"camp": "tip echipament", "text": "Masă filtrantă pentru înlocuire în două filtre 21x62", "src": "m2154052", "citat": "Masa filtranta necesara pentru inlocuirea in cele doua filtre 21x62"},
+          {"camp": "altele", "text": "2 crepine inferioare (recomandat de înlocuit)", "src": "m2154052", "citat": "2 crepine inferioare [ de preferat ar fi sa se inlocuiasca si acestea daca se umbla la masa]"},
+          {"camp": "altele", "text": "Manoperă de înlocuire", "src": "m2154052", "citat": "Manopera de inlocuire ."}
+        ],
+        "clarificari": [],
+        "telefon": [
+          {"text": "Cererea pentru masa filtrantă, crepine și manopera s-a stabilit telefonic.", "src": "m2154052", "citat": "Conform discutiei telefonice, va trimit anexata cotatia de pret pentru:"}
+        ],
+        "fisa_securitate": [],
+        "oferte": ["S02751"],
+        "oferta_in_text": [],
+        "rezultat": {"valoare": "necunoscut", "text": null, "src": null, "citat": null}
+      }
+    ]
+  },
+  {
+    "conv": "c2154084",
+    "tip": "client",
+    "client": {"text": "B-WORKS S.R.L.", "src": "m2154084", "citat": "AKRO SRL B-WORKS S.R.L., Szoke Barna"},
+    "descriere": null,
+    "cereri": [
+      {
+        "titlu": "Sistem 2 filtre Big Blue + UV",
+        "categorie": "01-Filtre impuritati",
+        "cerinta": null,
+        "cerinte_finale": [
+          {"camp": "tip echipament", "text": "Sistem Big F Pro 256 cu 2 trepte de filtrare și UV", "src": "m2154084", "citat": "Las anexata si o fotografie cu acesta si fisa tehnica. [ MODEL BIG F PRO 256]"}
+        ],
+        "clarificari": [],
+        "telefon": [],
+        "fisa_securitate": [],
+        "oferte": ["S02753"],
+        "oferta_in_text": [],
+        "rezultat": {"valoare": "necunoscut", "text": null, "src": null, "citat": null}
+      }
+    ]
+  },
+  {
+    "conv": "c2154116",
+    "tip": "client",
+    "client": {"text": "B-WORKS S.R.L.", "src": "m2154116", "citat": "AKRO SRL B-WORKS S.R.L., Szoke Barna"},
+    "descriere": null,
+    "cereri": [
+      {
+        "titlu": "Filtrare pentru reducerea turbidității",
+        "categorie": "13-Filtre multistrat diferite medii",
+        "cerinta": null,
+        "cerinte_finale": [
+          {"camp": "debit", "text": "10 m³/h", "src": "m2154116", "citat": "Pentru debitul de 10m3/h - am considerat o viteza de filtrare de <18m/h"},
+          {"camp": "calitate apă", "text": "Turbiditate de maxim 14-15 NTU, de redus la 0-2 NTU", "src": "m2154116", "citat": "La aceasta viteza se reduce turbiditatea de la maxim 14-15 NTU la valori de 0-2NTU."},
+          {"camp": "tip echipament", "text": "Filtru grosier NW500 cu mesh 300 microni", "src": "m2154116", "citat": "Filtru grosier NW500 [ ca cel ce il punem mereu la dedurizatoare"},
+          {"camp": "tip echipament", "text": "2 filtre cu câte 250 L nisip + antracit, montate în paralel", "src": "m2154116", "citat": "2 filtre cu cate 250L nisip + antracit – ce vor trebui montate in paralel"}
+        ],
+        "clarificari": [],
+        "telefon": [],
+        "fisa_securitate": [],
+        "oferte": ["S02755"],
+        "oferta_in_text": [],
+        "rezultat": {"valoare": "necunoscut", "text": null, "src": null, "citat": null}
+      }
+    ]
+  },
+  {
+    "conv": "c2117380",
+    "tip": "client",
+    "client": {"text": "ARTROM STEEL TUBES S.A.", "src": "m2117380", "citat": "Serviciul Management Resurse Energetice ARTROM STEEL TUBES S.A."},
+    "descriere": null,
+    "cereri": [
+      {
+        "titlu": "Intervenție verificare instalație apă potabilă",
+        "categorie": "16-Prestari servicii",
+        "cerinta": {"text": "Solicită o persoană specializată pentru verificarea funcționării instalației de filtrare a apei potabile și ofertă tehnico-economică.", "src": "m2117380", "citat": "Solicitam prezenta unei persoane specializate pentru verificare functionare echipamente instalatie de filtrare apa potabila"},
+        "cerinte_finale": [
+          {"camp": "loc livrare", "text": "ARTROM, Slatina, str. Drăgănești nr. 30", "src": "m2117380", "citat": "Draganesti street no. 30, 230119, Slatina, Olt, Romania,"},
+          {"camp": "termen", "text": "Intervenție programată marți 15.09.2026", "src": "m2156996", "citat": "am programat interventia de mentenanta la instalatia de tratare pentru data MARTI - 15.09.2026."}
+        ],
+        "clarificari": [
+          {"intrebare": {"text": "Clientul cere datele CI și numărul de înmatriculare pentru accesul tehnicianului.", "src": "m2120580", "citat": "Va rog sa trimiteti date carte de identitate (serie , nr.)si nr. inmatriculare AUTO"}, "raspuns": {"text": "AKRO trimite numărul mașinii și CI-ul tehnicianului.", "src": "m2157060", "citat": "Masina cu care va ajunge in locatie colegul, are numarul de inmatriculare BV-93-ECO"}, "schimbare": "Date de acces în incintă pentru tehnician."}
+        ],
+        "telefon": [],
+        "fisa_securitate": [],
+        "oferte": ["S02756"],
+        "oferta_in_text": [],
+        "rezultat": {"valoare": "acceptată", "text": "Clientul trimite comanda semnată; intervenția s-a efectuat pe 15.09.2026 și PV-ul a fost semnat.", "src": "m2118724", "citat": "Va multumim pentru oferta transmisa ,atachat gasiti comanda semnata."}
+      }
+    ]
+  },
+  {
+    "conv": "c2117476",
+    "tip": "client",
+    "client": {"text": "Carpathian Springs (Valvis Holding)", "src": "m2117476", "citat": "Atasat Contractul semnat de Carpathian."},
+    "descriere": null,
+    "cereri": [
+      {
+        "titlu": "Contract vânzare-cumpărare ozonare Carpathian",
+        "categorie": "10-Ozonatoare",
+        "cerinta": null,
+        "cerinte_finale": [
+          {"camp": "altele", "text": "Contractul trebuie semnat inclusiv cu anexa de clauze speciale anti-mită", "src": "m2117476", "citat": "inclusiv Anexa cu Clauze speciale anti-mita, obligatorie pentru toate contractele incheiate de Carpathian"}
+        ],
+        "clarificari": [
+          {"intrebare": null, "raspuns": {"text": "AKRO va semna contractul la întoarcerea directorului din concediu.", "src": "m2154276", "citat": "Contractul se va semna la intoarcerea acestuia la birou"}, "schimbare": "Semnarea de către AKRO amânată până la finalul săptămânii."}
+        ],
+        "telefon": [],
+        "fisa_securitate": [],
+        "oferte": [],
+        "oferta_in_text": [],
+        "rezultat": {"valoare": "acceptată", "text": "Clientul a trimis contractul semnat.", "src": "m2117476", "citat": "Atasat Contractul semnat de Carpathian."}
+      }
+    ]
+  },
+  {
+    "conv": "c2117508",
+    "tip": "furnizor",
+    "client": {"text": "Drop Kiosidis S.A.", "src": "m2117508", "citat": "Export and Growth Manager Drop Kiosidis S.A."},
+    "descriere": {"text": "AKRO întreabă producătorul Drop dacă există cartuș de 40-50 microni pentru filtrul SUFV 4\" al unui client (fabrică de ceramică); Drop răspunde că nu există și propune o a treia treaptă (filtru cu discuri DP 4\" sau filtru cu cartuș HF40P2).", "src": "m2117828", "citat": "Here by you will find the recommended solutions for the third stage of filtration."},
+    "cereri": []
+  },
+  {
+    "conv": "c2154340",
+    "tip": "client",
+    "client": {"text": "PETROUZINEX SRL", "src": "m2154340", "citat": "PETROUZINEX SRL nu este responsabila pentru orice fel de pierderi de date"},
+    "descriere": null,
+    "cereri": [
+      {
+        "titlu": "Filtru desnisipator PN6 DN40",
+        "categorie": "01-Filtre impuritati",
+        "cerinta": {"text": "Cere ofertă de preț pentru un filtru desnisipator PN6, DN40, 1 bucată.", "src": "m2154340", "citat": "Transmitem solicitarea noastra de oferta pret cu privire la: Filtru desnisipator, PN6, DN40"},
+        "cerinte_finale": [
+          {"camp": "tip echipament", "text": "Filtru desnisipator PN6", "src": "m2154340", "citat": "Filtru desnisipator, PN6, DN40"},
+          {"camp": "racord", "text": "DN40", "src": "m2154340", "citat": "Filtru desnisipator, PN6, DN40"},
+          {"camp": "cantitate", "text": "1 bucată", "src": "m2154340", "citat": "Filtru desnisipator, PN6, DN40 – 1 buc"}
+        ],
+        "clarificari": [
+          {"intrebare": {"text": "AKRO întreabă ce tip de filtru (mecanic sau automat cu masă filtrantă), debitul, încărcarea cu turbiditate și dacă există fișă tehnică.", "src": "m2154340", "citat": "Doriti un filtru mecanic sau unul automat?"}, "raspuns": null, "schimbare": "Cerere neprecizată; AKRO propune orientativ filtrul NW400."}
+        ],
+        "telefon": [],
+        "fisa_securitate": [],
+        "oferte": [],
+        "oferta_in_text": [
+          {"text": "Filtru NW400, cca 300 euro.", "src": "m2154340", "citat": "iar acesta costa in jur a 300 euro."}
+        ],
+        "rezultat": {"valoare": "necunoscut", "text": null, "src": null, "citat": null}
+      }
+    ]
+  },
+  {
+    "conv": "c2117604",
+    "tip": "furnizor",
+    "client": {"text": "Polaqua Group", "src": "m2117604", "citat": "Please download new price list from our webside: https://www.polaquagroup.com/EN-H48/downloads.html"},
+    "descriere": {"text": "Polaqua Group anunță clienților creșteri de prețuri și o nouă listă de prețuri V2026 V7 (dedurizatoare, cabinete, rășini, controlere RO).", "src": "m2117604", "citat": "We hereby inform you that the following price lists are subject to change:"},
+    "cereri": []
+  },
+  {
+    "conv": "c2117668",
+    "tip": "altele",
+    "client": null,
+    "descriere": {"text": "Email nesolicitat de tip propunere de investiții (probabil înșelătorie), fără legătură cu activitatea AKRO.", "src": "m2117668", "citat": "I seek a long-term strategic partnership to diversify into foreign direct investment"},
+    "cereri": []
+  },
+  {
+    "conv": "c2117636",
+    "tip": "client",
+    "client": {"text": "Carpathian Springs (Valvis Holding)", "src": "m2117636", "citat": "Atasat Contractul semnat de Carpathian."},
+    "descriere": null,
+    "cereri": [
+      {
+        "titlu": "Contract vânzare-cumpărare ozonare Carpathian",
+        "categorie": "10-Ozonatoare",
+        "cerinta": null,
+        "cerinte_finale": [
+          {"camp": "altele", "text": "Contract cu anexa de clauze speciale anti-mită obligatorie", "src": "m2117636", "citat": "inclusiv Anexa cu Clauze speciale anti-mita, obligatorie pentru toate contractele incheiate de Carpathian"}
+        ],
+        "clarificari": [],
+        "telefon": [],
+        "fisa_securitate": [],
+        "oferte": [],
+        "oferta_in_text": [],
+        "rezultat": {"valoare": "acceptată", "text": "AKRO trimite contractul semnat și din partea sa.", "src": "m2117636", "citat": "Atasat gasiti contractul semnat."}
+      }
+    ]
+  },
+  {
+    "conv": "c2117700",
+    "tip": "marketing",
+    "client": null,
+    "descriere": {"text": "Nettuno oferă nesolicitat produse de curățare și creme de protecție pentru echipele de mentenanță.", "src": "m2117700", "citat": "We supply skin-safe hand cleaners and protective creams for maintenance teams in workplaces."},
+    "cereri": []
+  },
+  {
+    "conv": "c2117732",
+    "tip": "client",
+    "client": {"text": "TDF Pompe", "src": "m2117732", "citat": "Mail: cristian.marin@tdfpompe.ro www.tdfpompe.ro"},
+    "descriere": null,
+    "cereri": [
+      {
+        "titlu": "Lampă UV XLR30 cod 60061985",
+        "categorie": "27-Uv",
+        "cerinta": {"text": "Cere ofertă pentru articolul 60061985 LAMP,XLR30,UV,220,1000.", "src": "m2117732", "citat": "Am rugamintea sa ne ofertati articolul : 60061985 /LAMP,XLR30,UV,220,1000"},
+        "cerinte_finale": [
+          {"camp": "tip echipament", "text": "Lampă UV XLR30, 220 V, cod 60061985", "src": "m2117732", "citat": "60061985 /LAMP,XLR30,UV,220,1000"}
+        ],
+        "clarificari": [
+          {"intrebare": {"text": "Clientul trimite un cod suplimentar primit de la clientul final și întreabă dacă e corect.", "src": "m2117796", "citat": "Am mai primit acest cod de la client, va rog sa imi spuneti daca este ok."}, "raspuns": null, "schimbare": "Cod suplimentar de verificat (nu apare în textul emailului)."}
+        ],
+        "telefon": [],
+        "fisa_securitate": [],
+        "oferte": [],
+        "oferta_in_text": [],
+        "rezultat": {"valoare": "necunoscut", "text": null, "src": null, "citat": null}
+      }
+    ]
+  },
+  {
+    "conv": "c2154372",
+    "tip": "altele",
+    "client": null,
+    "descriere": {"text": "AKRO trimite procesul verbal de punere în funcțiune de la Carpathian Springs către colaboratorul de service (Ecofusion / L. Karoly).", "src": "m2154372", "citat": "Iti trimit anexat procesul verbal de la Carpathian Springs ."},
+    "cereri": []
+  },
+  {
+    "conv": "c2117764",
+    "tip": "client",
+    "client": {"text": "Euromarket (EWWE) – Doina Grinea", "src": "m2117764", "citat": "Email: doina@euromarket-ro.com Web: www.euromarket-ro.com"},
+    "descriere": null,
+    "cereri": [
+      {
+        "titlu": "Instalație dezinfecție UV apă uzată 56 mc/h",
+        "categorie": "27-Uv",
+        "cerinta": {"text": "Cere ofertă tehnică și de preț pentru o instalație de sterilizare UV a apei uzate cu debit 56 mc/h, cu fișă tehnică atașată.", "src": "m2117764", "citat": "o instalatie de sterilizare cu UV a apei uzate cu Q = 56 mc/h."},
+        "cerinte_finale": [
+          {"camp": "debit", "text": "56 m³/h", "src": "m2117764", "citat": "Debit vehiculat m3/h 56"},
+          {"camp": "racord", "text": "DN 250", "src": "m2117764", "citat": "Conexiune DN de racordare 250"},
+          {"camp": "tensiune", "text": "220 V / 50 Hz", "src": "m2117764", "citat": "Alimentare V/Hz 220/50"},
+          {"camp": "aplicație", "text": "Stație de epurare (Chilia Veche / Sulina), apă uzată", "src": "m2117764", "citat": "CL8 STATIE NOUA DE EPURARE IN LOCALITATEA CHILIA VECHE."},
+          {"camp": "altele", "text": "Presiune maximă de operare 3 bar", "src": "m2117764", "citat": "Presiunea de operare maxima 3 bar"},
+          {"camp": "altele", "text": "6 lămpi, putere instalată 1,32 kW, durată de viață lămpi 9000 h", "src": "m2117764", "citat": "Puterea instalata kW 1,32"}
+        ],
+        "clarificari": [],
+        "telefon": [],
+        "fisa_securitate": [],
+        "oferte": [],
+        "oferta_in_text": [],
+        "rezultat": {"valoare": "necunoscut", "text": null, "src": null, "citat": null}
+      }
+    ]
+  },
+  {
+    "conv": "c2154436",
+    "tip": "client",
+    "client": {"text": "Raimach SRL (Giani Iancu)", "src": "m2154436", "citat": "Notice: This message was sent from the Raimach SRL ERP platform."},
+    "descriere": null,
+    "cereri": [
+      {
+        "titlu": "Componente sistem tratare apă (coloane, vane Clack, Katalox)",
+        "categorie": "14-Componente pentru filtre multistrat",
+        "cerinta": {"text": "Trimite cererea de ofertă RHPO-00014 pentru un sistem de tratare a apei (listă de produse atașată).", "src": "m2154436", "citat": "Vă transmitem în atașament cererea noastră de ofertă RHPO-00014 , referință: sistem tratare apa."},
+        "cerinte_finale": [
+          {"camp": "aplicație", "text": "Reținerea clorului liber rezidual", "src": "m2154436", "citat": "in cazul aplicatiei dumneavoastra - clorul liber rezidual"}
+        ],
+        "clarificari": [
+          {"intrebare": null, "raspuns": {"text": "Pietrișul ofertat este 2-4 mm, nu 3-5 mm.", "src": "m2154436", "citat": "pietrisul ofertat de AKRO este de granulatie 2-4mm nu 3-5"}, "schimbare": "Granulație pietriș 2-4 mm în loc de 3-5 mm."},
+          {"intrebare": null, "raspuns": {"text": "Modulul de relee pentru WS1CI nu s-a ofertat, vanele Clack CI au deja 2 ieșiri de releu.", "src": "m2154436", "citat": "modul /placa relee pentru WS1CI - nu am ofertat"}, "schimbare": "Modulul de relee eliminat."},
+          {"intrebare": null, "raspuns": {"text": "În locul pompei AML s-a ofertat pompa SEKO TPG603 digitală.", "src": "m2154436", "citat": "am ofertat o pompa tot SEKO - model TPG603 -digitala"}, "schimbare": "Pompă TPG603 în loc de AML."},
+          {"intrebare": null, "raspuns": {"text": "Mixerul static DN40 nu este în portofoliu și nu s-a ofertat.", "src": "m2154436", "citat": "NU AM OFERTAT MIXER STATIC DN40 - nu avem disponibil in portofoliu"}, "schimbare": "Mixer static DN40 exclus."},
+          {"intrebare": null, "raspuns": {"text": "AKRO trimite oferta revizuită.", "src": "m2155684", "citat": "Va las anexata oferta de pret revizuita pentru echipamentele solicitate."}, "schimbare": "Ofertă S02757 revizuită (v2)."}
+        ],
+        "telefon": [],
+        "fisa_securitate": [],
+        "oferte": ["S02757"],
+        "oferta_in_text": [
+          {"text": "Pompa AML200 opțional, cca 1100 lei fără TVA.", "src": "m2154436", "citat": "costa in jur de 1100 de lei fara TVA"}
+        ],
+        "rezultat": {"valoare": "necunoscut", "text": null, "src": null, "citat": null}
+      }
+    ]
+  },
+  {
+    "conv": "c2117924",
+    "tip": "client",
+    "client": {"text": "Ramira S.A.", "src": "m2117924", "citat": "Ramira S.A. Vasile Lucaciu 160, 430402, Baia Mare, România"},
+    "descriere": null,
+    "cereri": [
+      {
+        "titlu": "Cartușe filtrante PRM1TX1 și PRM10TX2",
+        "categorie": "01-Filtre impuritati",
+        "cerinta": {"text": "Cere preț și termen pentru câte 20 buc (sau un bax) de cartușe PRM1TX1 10\" 1 µm și PRM10TX2 20\" 10 µm.", "src": "m2117924", "citat": "Va rog sa ne trimiteti o oferta de pret si un termen de livrare pentru cate 20 buc sau un bax de filtre:"},
+        "cerinte_finale": [
+          {"camp": "cantitate", "text": "20 cartușe PRM1TX1, 1 micron, 10\"", "src": "m2154660", "citat": "20 cartuse x PRM1TX1 – cartuse de 1 micron"},
+          {"camp": "cantitate", "text": "20 cartușe PRM10TX2, 10 microni, 20\"", "src": "m2154660", "citat": "20 cartuse x PRM10TX2 – cartuse de 10 microni"},
+          {"camp": "altele", "text": "Codul pentru 10 µm nu e sigur; important e gradul de filtrare de 10 µm", "src": "m2117924", "citat": "nu stim sigur daca acesta este codul , ideea este ca filtrele sa fie de 10"},
+          {"camp": "loc livrare", "text": "Ramira, Vasile Lucaciu 160, Baia Mare", "src": "m2118020", "citat": "Livrare la Adresă Vasile Lucaciu 160"}
+        ],
+        "clarificari": [
+          {"intrebare": null, "raspuns": {"text": "Cartușele de 10\" sunt în stoc la Brașov; cele de 20\" se comandă la producător, cca 4 săptămâni.", "src": "m2154660", "citat": "trebuiesc comandate la producator – termen de livrare aprox 4 saptamani de la comanda."}, "schimbare": "Livrare parțială posibilă pentru cartușele de 10\"."},
+          {"intrebare": {"text": "AKRO întreabă dacă clientul dorește livrare parțială a cartușelor de 10\" din stoc.", "src": "m2154756", "citat": "In cazul in care va sunt necesare mai repede cartusele de 10"}, "raspuns": null, "schimbare": "Altfel comanda se livrează integral când sosesc cartușele de 20\"."}
+        ],
+        "telefon": [],
+        "fisa_securitate": [],
+        "oferte": ["S02763"],
+        "oferta_in_text": [],
+        "rezultat": {"valoare": "acceptată", "text": "Clientul trimite comanda nr. 2612956 pe baza ofertei; AKRO confirmă.", "src": "m2118020", "citat": "Am atasa comanda cu nr.2612956 pe baza ofertei primite."}
+      }
+    ]
+  },
+  {
+    "conv": "c2154724",
+    "tip": "furnizor",
+    "client": {"text": "FILTERFLO S.R.L.", "src": "m2154724", "citat": "Client FILTERFLO S.R.L."},
+    "descriere": {"text": "AKRO trimite către Filterflo comanda de achiziție P01450 (cartușe PRM10TX2 și PRM1TX1) și așteaptă confirmarea.", "src": "m2154724", "citat": "Please find attached our order P01450."},
+    "cereri": []
+  },
+  {
+    "conv": "c2118116",
+    "tip": "client",
+    "client": {"text": "VLADOF CONSTRUCT SRL", "src": "m2118116", "citat": "Petre Scrieciu-manager de proiect 0769070998 VLADOF CONSTRUCT SRL"},
+    "descriere": null,
+    "cereri": [
+      {
+        "titlu": "Stație de clorinare Complex studențesc Regie-UPB",
+        "categorie": "11-Pompe de dozare",
+        "cerinta": {"text": "Cere un specialist în șantier (Complex studențesc Regie-UPB) pentru containerul stației de clorinare și lucrările de montaj, cu participarea proiectantului.", "src": "m2118116", "citat": "rugamintea de a trimite un specialist in santier(Complex studentesc Regie-UPB -Splaiul Independentei,nr.290,sect.6,Bucuresti)"},
+        "cerinte_finale": [
+          {"camp": "aplicație", "text": "Sistemul trebuie să îndeplinească minim caietul de sarcini al proiectantului", "src": "m2157316", "citat": "sistemul pe care il ofertam trebuie sa indeplineasca minim caietul de sarcini"},
+          {"camp": "tip echipament", "text": "Filtru automat orizontal SUF 4\" cu sită de 100 microni", "src": "m2157316", "citat": "Filtru automat orizontal – cu sita de 100 microni – SUF"},
+          {"camp": "tip echipament", "text": "2 pompe de dozare TPG 500 (1 activă + 1 rezervă), rezervor 250 L cu vas de retenție", "src": "m2157316", "citat": "2 pompe de dozare TPG 500 – [1 A+1R]"},
+          {"camp": "tip echipament", "text": "Contor DN100 mecanic cu generator de impuls", "src": "m2157316", "citat": "Un contor DN100 mecanic cu generator de impuls"},
+          {"camp": "tip echipament", "text": "Panou K800 cu măsurare pH, temperatură și clor liber rezidual", "src": "m2157316", "citat": "Un panou K800 cu masuratoare de pH, temperatura, si clor liber rezidual anorganic"},
+          {"camp": "loc livrare", "text": "Complex studențesc Regie-UPB, Splaiul Independenței nr. 290, București", "src": "m2118116", "citat": "Complex studentesc Regie-UPB -Splaiul Independentei,nr.290,sect.6,Bucuresti"}
+        ],
+        "clarificari": [
+          {"intrebare": {"text": "AKRO întreabă dacă se actualizează oferta Intergroup din 2025, cum funcționează automatizarea, ce presiuni sunt și pe ce firmă se face achiziția.", "src": "m2154948", "citat": "Doriti sa actualizam aceasta oferta sau detaliile tehnice s-au modificat si se doreste altceva?"}, "raspuns": {"text": "După discuția cu proiectantul Mugur Vintilă, sistemul trebuie să îndeplinească minim caietul de sarcini; se trimite oferta actualizată.", "src": "m2157316", "citat": "Am discutat cu dl Mugur Vintila si am clarificat ca sistemul pe care il ofertam trebuie sa indeplineasca minim caietul de sarcini"}, "schimbare": "Ofertă nouă S02807 conform caietului de sarcini (filtru SUF, 2 stații de clorinare, panou K800)."},
+          {"intrebare": null, "raspuns": {"text": "Ofertă actualizată cu noile condiții agreate de Managerul General AKRO.", "src": "m2165412", "citat": "Va las anexata oferta de pret actualizata cu noile conditii agreate de Managerul General AKRO."}, "schimbare": "Ofertă S02933 cu condiții comerciale noi."},
+          {"intrebare": {"text": "AKRO întreabă pe ce firmă se face achiziția.", "src": "m2165668", "citat": "Imi puteti confirma pe ce firma se face achizita?"}, "raspuns": {"text": "Achiziția se face pe Vladof Construct, care trimite contractul semnat și avansul.", "src": "m2131236", "citat": "Atasat contractul semnat/stampilat, respectiv dovada platii avansului (35%)."}, "schimbare": "Cumpărător: Vladof Construct; avans 35%."}
+        ],
+        "telefon": [
+          {"text": "Clientul a discutat telefonic cu Spectra înainte de a cere vizita în șantier.", "src": "m2118116", "citat": "Ca urmare a discutiei telefonice purtate va transmit rugamintea"},
+          {"text": "AKRO a încercat de mai multe ori, fără succes, să contacteze clientul telefonic.", "src": "m2154948", "citat": "Am incercat sa iau legatura cu dumneavoastra in mai multe randuri prin intermediul telefonului"},
+          {"text": "S-a stabilit trimiterea draftului de contract, a anexei cu oferta și a proformei de avans 35%.", "src": "m2165828", "citat": "In baza discutiei telefonice, va rog sa regasiti anexate:"}
+        ],
+        "fisa_securitate": [],
+        "oferte": ["S02807", "S02933"],
+        "oferta_in_text": [],
+        "rezultat": {"valoare": "acceptată", "text": "Contract semnat și avans de 35% plătit.", "src": "m2131236", "citat": "Atasat contractul semnat/stampilat, respectiv dovada platii avansului (35%)."}
+      }
+    ]
+  },
+  {
+    "conv": "c2154788",
+    "tip": "client",
+    "client": {"text": "Blejan Dan (persoană fizică)", "src": "m2154788", "citat": "AKRO SRL BLEJAN DAN P.F., Blejan Dan"},
+    "descriere": null,
+    "cereri": [
+      {
+        "titlu": "Sterilizator UV + filtru dublu + filtru simplex",
+        "categorie": "27-Uv",
+        "cerinta": null,
+        "cerinte_finale": [
+          {"camp": "tip echipament", "text": "Carcasă filtrantă dublă Atlasfiltri cu 2 cartușe", "src": "m2154788", "citat": "O carcasa dubla [ cu 2 cartuse] – Atlasfiltri"},
+          {"camp": "tip echipament", "text": "Cartuș inox lavabil 70 microni și 3 cartușe PP 10 microni", "src": "m2154788", "citat": "1 cartus din inox lavabil manual – 70 microni"},
+          {"camp": "tip echipament", "text": "Sistem UV complet (inițial Viqua VH200, alternativ SITA)", "src": "m2154788", "citat": "Un sistem UV complet Viqua VH200."},
+          {"camp": "aplicație", "text": "Montaj pe ieșirea din bazinul de stocare apă (apă din foraj)", "src": "m2154788", "citat": "Aceasta statie trebuie montata pe iesirea din bazinul de stocare apa."}
+        ],
+        "clarificari": [
+          {"intrebare": null, "raspuns": {"text": "AKRO trimite oferta cu UV alternativ produs de SITA (Italia).", "src": "m2154788", "citat": "Va trimit anexata oferta de pret cu alternativa UV [ productie SITA -Italia]."}, "schimbare": "UV SITA în loc de Viqua VH200."},
+          {"intrebare": null, "raspuns": {"text": "Oferta finală după discuția din 03.09.2026, cu livrare ramburs sau plată prin bancă.", "src": "m2154788", "citat": "Va rog sa regasiti anexata oferta de pret finala in baza discutiei din 03.09.2026."}, "schimbare": "Ofertă finală cu filtru simplex adăugat și reducere 8%."}
+        ],
+        "telefon": [],
+        "fisa_securitate": [],
+        "oferte": ["S02765"],
+        "oferta_in_text": [],
+        "rezultat": {"valoare": "necunoscut", "text": null, "src": null, "citat": null}
+      }
+    ]
+  },
+  {
+    "conv": "c2154820",
+    "tip": "furnizor",
+    "client": {"text": "Alamo Water Poland Sp. z o.o.", "src": "m2118308", "citat": "Alamo Water Poland Sp. z o.o."},
+    "descriere": {"text": "AKRO cere stadiul comenzilor P01372 (rezervoare 24\") și P01436 (350 L PMB101-2); Alamo comunică paletul pregătit, iar AKRO organizează ridicarea prin Raben.", "src": "m2154820", "citat": "Do you have any news about the readiness of the orders:"},
+    "cereri": []
+  },
+  {
+    "conv": "c2118244",
+    "tip": "client",
+    "client": {"text": "Pfeiffer Vacuum Romania SRL", "src": "m2118244", "citat": "Purchasing-Logistic Department T+40 372 530 709 Bogdan.Pop@buschgroup.com Pfeiffer Vacuum Romania"},
+    "descriere": null,
+    "cereri": [
+      {
+        "titlu": "Înlocuire masă filtrantă 6 butelii Gewapur",
+        "categorie": "14-Componente pentru filtre multistrat",
+        "cerinta": {"text": "Trimite comanda de achiziție 4501129210 pentru reîncărcarea / înlocuirea masei filtrante la 6 butelii Gewapur.", "src": "m2118244", "citat": "Va transmit atasat o noua comanda de achizitie."},
+        "cerinte_finale": [
+          {"camp": "cantitate", "text": "6 butelii Gewapur – înlocuire masă filtrantă", "src": "m2118244", "citat": "INLOCUIRE MASA FILTRANTA 6,00 EA 1.112,67 / EA 6.676,02"},
+          {"camp": "altele", "text": "Transportul și manopera incluse în preț", "src": "m2118244", "citat": "ESTE INCLUS TRANSPORT SI MANOPERA IN PRET."},
+          {"camp": "buget", "text": "6.676,02 RON fără TVA", "src": "m2118244", "citat": "Valoare totala fara TVA 6.676,02 RON"},
+          {"camp": "termen", "text": "Livrare 08-Sep-2026", "src": "m2118244", "citat": "BUTELIE GEWAPUR 08-Sep-2026"}
+        ],
+        "clarificari": [],
+        "telefon": [],
+        "fisa_securitate": [],
+        "oferte": ["S02766"],
+        "oferta_in_text": [],
+        "rezultat": {"valoare": "acceptată", "text": "Comandă fermă a clientului, confirmată de AKRO; înlocuirea rășinii finalizată și buteliile livrate.", "src": "m2154916", "citat": "Va trimitem anexata confirmarea!"}
+      }
+    ]
+  }
+]

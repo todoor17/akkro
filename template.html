@@ -1,0 +1,511 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nomenclator produse</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #f6f7f9; --surface: #ffffff; --text: #1d232b; --muted: #5f6b7a; --border: #dfe3e8;
+    --accent: #1f6feb; --accent-soft: #e7f0ff; --row-hover: #f2f6fc;
+    --ok: #1a7f37; --ok-soft: #e6f4ea; --bad: #b42318; --bad-soft: #fdecea; --warn: #9a6700; --warn-soft: #fff4d6;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #11151a; --surface: #191f26; --text: #e6e9ed; --muted: #9aa5b1; --border: #2b333d;
+      --accent: #5b9dff; --accent-soft: #1b2a40; --row-hover: #1f2731;
+      --ok: #5cc27a; --ok-soft: #173322; --bad: #ff8577; --bad-soft: #3a1c1a; --warn: #e6b450; --warn-soft: #362b12;
+    }
+  }
+  * { box-sizing: border-box; }
+  ::selection { background: var(--accent-soft); color: var(--text); }
+  :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  html { scrollbar-color: var(--border) transparent; }
+  /* desktop: the page fills the viewport and only the table scrolls */
+  body { margin: 0; background: var(--bg); color: var(--text); font: 14px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    display: flex; flex-direction: column; height: 100vh; height: 100dvh; }
+  header { padding: 16px 20px 8px; }
+  h1 { margin: 0; font-size: 20px; line-height: 1.25; }
+  .sub { color: var(--muted); font-size: 12px; margin-top: 2px; }
+  /* run summary: collapsed to one line, expands into three small tables */
+  .summary { margin-top: 6px; font-size: 12px; color: var(--muted); }
+  .summary > summary { display: flex; align-items: baseline; gap: 6px; width: fit-content; max-width: 100%; cursor: pointer; list-style: none; border-radius: 4px; }
+  .summary > summary::-webkit-details-marker { display: none; }
+  .summary > summary::before { content: ""; flex: none; align-self: center; width: 0; height: 0; border-left: 5px solid currentColor; border-block: 4px solid transparent; transition: transform .15s ease-out; }
+  .summary[open] > summary::before { transform: rotate(90deg); }
+  .summary > summary:hover .summary-title { color: var(--text); }
+  .summary-title { font-weight: 600; }
+  .summary-line { font-variant-numeric: tabular-nums; }
+  .summary-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, max-content)); gap: 8px 32px; margin-top: 8px; }
+  .summary h2 { margin: 0 0 4px; font-size: 12px; font-weight: 600; color: var(--text); }
+  .summary dl { display: grid; grid-template-columns: auto auto; gap: 2px 16px; margin: 0; }
+  .summary dt { margin: 0; }
+  .summary dd { margin: 0; text-align: right; font-weight: 600; color: var(--text); font-variant-numeric: tabular-nums; }
+  @media (prefers-reduced-motion: reduce) { .summary > summary::before { transition: none; } }
+  .panel { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; margin: 8px 20px 12px; padding: 12px; }
+  .filters { display: grid; grid-template-columns: minmax(220px, 2fr) repeat(4, minmax(140px, 1fr)); gap: 10px 12px; }
+  .filters label { display: flex; flex-direction: column; gap: 4px; min-width: 0; font-size: 12px; color: var(--muted); }
+  input[type=search], select { font: inherit; color: var(--text); background: var(--surface); border: 1px solid var(--border); border-radius: 6px; height: 32px; padding: 0 8px; width: 100%; min-width: 0; }
+  input[type=search]::placeholder { color: var(--muted); }
+  input[type=search]:hover, select:hover { border-color: var(--muted); }
+  button { font: inherit; color: var(--text); background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 5px 10px; cursor: pointer; }
+  button:hover:not(:disabled) { border-color: var(--accent); }
+  button:disabled { opacity: .45; cursor: default; }
+  .bar { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--border); }
+  .counter { font-weight: 600; white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .columns { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-left: auto; font-size: 12px; color: var(--muted); }
+  .chip { border-radius: 999px; padding: 3px 10px; font-size: 12px; white-space: nowrap; }
+  .view { display: inline-flex; }
+  .view button { border-radius: 0; }
+  .view button:first-child { border-radius: 6px 0 0 6px; }
+  .view button:last-child { border-radius: 0 6px 6px 0; margin-left: -1px; }
+  .view button[aria-pressed=true] { position: relative; background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+  .chip[aria-pressed=true] { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+  .table-wrap { flex: 1 1 auto; min-height: 240px; overflow: auto; margin: 0 20px 16px; border: 1px solid var(--border); border-radius: 8px; background: var(--surface); }
+  /* fixed layout: column widths come from <colgroup> (COLUMNS[].width), never from the rows on screen,
+     so sorting, filtering or "Arată încă" can't resize them; wider than the window -> the table scrolls */
+  table { border-collapse: collapse; width: 100%; table-layout: fixed; }
+  th, td { padding: 6px 8px; border-bottom: 1px solid var(--border); text-align: left; vertical-align: top; }
+  th { position: sticky; top: 0; background: var(--surface); font-size: 12px; font-weight: 600; color: var(--muted); z-index: 1; box-shadow: 0 1px 0 var(--border); vertical-align: bottom; overflow-wrap: anywhere; }
+  th.num { text-align: right; }
+  th[aria-sort] { color: var(--text); }
+  .sort { all: unset; display: flex; align-items: center; gap: 2px; cursor: pointer; user-select: none; }
+  .sort:hover { color: var(--text); }
+  .sort:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 2px; }
+  th.num .sort { flex-direction: row-reverse; }
+  .arrow { display: inline-flex; width: 12px; color: var(--accent); }
+  tbody:last-child tr:last-child > * { border-bottom: 0; }
+  tbody tr:hover { background: var(--row-hover); }
+  /* category accordions: one tbody per category, header row + its products */
+  .group-row th, .sub-row th { position: static; z-index: auto; padding: 0; color: var(--text); font-size: 13px; box-shadow: none; white-space: normal; }
+  .group-row th { background: var(--bg); }
+  .sub-row th { background: var(--surface); font-weight: 500; }
+  .group-row:hover, .sub-row:hover, .more-row:hover { background: none; }
+  .toggle { all: unset; box-sizing: border-box; display: flex; align-items: center; gap: 8px; width: 100%; padding: 8px; cursor: pointer; }
+  .sub-toggle { padding-left: 30px; }
+  .toggle:hover { background: var(--row-hover); }
+  .toggle:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
+  .toggle .chev { flex: none; color: var(--muted); transition: transform .15s ease-out; }
+  .toggle[aria-expanded=true] .chev { transform: rotate(90deg); }
+  .info { display: inline-flex; flex: none; margin-left: -2px; color: var(--muted); cursor: help; }
+  .info:hover { color: var(--accent); }
+  /* inverted colours (text on surface swapped) so it reads as a tooltip in light and dark mode */
+  .tip { position: fixed; z-index: 10; max-width: min(340px, calc(100vw - 16px)); padding: 7px 10px; border-radius: 6px; background: var(--text); color: var(--surface); font-size: 12px; line-height: 1.45; box-shadow: 0 4px 14px rgb(0 0 0 / .18); pointer-events: none; }
+  .tip[hidden] { display: none; }
+  .group-count { margin-left: auto; padding-left: 12px; color: var(--muted); font-weight: 400; white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .more-row td { padding: 8px; text-align: center; }
+  @media (prefers-reduced-motion: reduce) { .toggle .chev { transition: none; } }
+  td.num { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; overflow: hidden; text-overflow: ellipsis; }
+  td.ref { font-variant-numeric: tabular-nums; }
+  /* every text cell: two lines at most inside its fixed column; markOverflow() adds the full text as a tooltip only when it's cut */
+  .clamp { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; overflow-wrap: anywhere; }
+  .muted { color: var(--muted); }
+  td a { color: var(--accent); text-decoration: none; text-underline-offset: 2px; }
+  td a:hover { text-decoration: underline; }
+  td a.unsure::after { content: " (de confirmat)"; color: var(--warn); font-size: 11px; }
+  .badge { display: inline-block; border-radius: 999px; padding: 1px 8px; font-size: 12px; white-space: nowrap; }
+  .s-cu { background: var(--ok-soft); color: var(--ok); }
+  .s-fara { background: var(--bad-soft); color: var(--bad); }
+  .s-conf { background: var(--warn-soft); color: var(--warn); }
+  .alert { color: var(--warn); font-size: 12px; }
+  .empty { padding: 48px 16px; text-align: center; color: var(--muted); }
+  @media (max-width: 1500px) {
+    th, td { padding: 6px; }
+  }
+  @media (max-width: 900px) {
+    .filters { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .filters label:first-child { grid-column: 1 / -1; }
+  }
+  @media (max-width: 700px) {
+    /* phone: the page scrolls; the table fills the screen once reached */
+    body { display: block; height: auto; }
+    header, .panel, .table-wrap { margin-left: 16px; margin-right: 16px; }
+    header { padding-left: 0; padding-right: 0; }
+    .table-wrap { max-height: calc(100dvh - 24px); }
+    .columns { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin: 0 -12px; padding: 0 12px; width: calc(100% + 24px); }
+    .columns span { flex-shrink: 0; }
+  }
+</style>
+</head>
+<body>
+<header>
+  __NAV__
+  <h1>Nomenclator produse</h1>
+  <details class="summary">
+    <summary><span class="summary-title">Rezumat</span> <span class="summary-line">__SUMMARY_LINE__</span></summary>
+    <div class="summary-grid">__SUMMARY__</div>
+  </details>
+</header>
+
+<section class="panel">
+  <div class="filters">
+    <label>Caută după nume sau referință
+      <input type="search" id="search" placeholder="de ex. lampă uv sau 27-003" autocomplete="off">
+    </label>
+    <label>Categorie <select id="f-category"></select></label>
+    <label>Subcategorie <select id="f-subcategory"></select></label>
+    <label>Status fișă
+      <select id="f-status">
+        <option value="">Toate</option>
+        <option value="cu fișă">Cu fișă</option>
+        <option value="fișă de confirmat">Fișă de confirmat</option>
+        <option value="fără fișă">Fără fișă</option>
+      </select>
+    </label>
+    <label>Tip produs <select id="f-type"></select></label>
+  </div>
+  <div class="bar">
+    <div class="counter" id="counter" aria-live="polite"></div>
+    <button id="reset" type="button">Șterge filtrele</button>
+    <div class="view" role="group" aria-label="Mod de afișare">
+      <button type="button" data-view="groups" aria-pressed="true">Pe categorii</button>
+      <button type="button" data-view="list" aria-pressed="false">Listă simplă</button>
+    </div>    <div class="columns" id="columns"><span>Arată și coloanele:</span></div>
+  </div>
+</section>
+
+<div class="table-wrap">
+  <table id="table">
+    <colgroup id="colgroup"></colgroup>
+    <thead><tr id="head"></tr></thead>
+  </table>
+</div>
+
+<div class="tip" id="tip" role="tooltip" hidden></div>
+
+<script>
+const PRODUCTS = /*__PRODUCTS__*/[];
+const DESCRIPTIONS = /*__DESCRIPTIONS__*/{}; // category / subcategory name -> what its products are used for
+const PAGE_SIZE = 100; // rows rendered per open category; "Arată încă" adds another batch
+const PRICE_PLACEHOLDER = 1; // Odoo default price: shown as "–"
+
+const nf = new Intl.NumberFormat("ro-RO", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+const qf = new Intl.NumberFormat("ro-RO", { maximumFractionDigits: 3 });
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const fold = s => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+const price = p => (p.price === null || p.price === PRICE_PLACEHOLDER ? null : p.price);
+const STATUS_ORDER = ["cu fișă", "fișă de confirmat", "fără fișă"]; // status sorts by this, not alphabetically
+const statusClass = { "cu fișă": "s-cu", "fără fișă": "s-fara", "fișă de confirmat": "s-conf" };
+const statusHelp = {
+  "cu fișă": "Fișa tehnică e chiar a acestui produs.",
+  "fișă de confirmat": "Documentul găsit e legat de produs, dar nu e chiar fișa lui: e pentru o familie de produse, pentru materialul din el sau e un document general. Cineva care cunoaște produsul trebuie să spună dacă se poate folosi.",
+  "fără fișă": "Nu am găsit nicio fișă tehnică pentru acest produs în folderul din Drive.",
+};
+// status badge tooltip: the general meaning, and for "fișă de confirmat" the reason given for each document found
+const statusTitle = p => p.status !== "fișă de confirmat" ? statusHelp[p.status]
+  : [statusHelp[p.status], ...p.sheets.filter(s => s.note).map(s => `${s.name}: ${s.note}`)].join("\n\n");
+// Romanian plural: 1 produs, 2-19 produse, 20+ "de produse" (except 101-119, 201-219, ...)
+const productCount = n => {
+  const r = n % 100;
+  return `${n.toLocaleString("ro-RO")} ${n === 1 ? "produs" : n > 0 && (r === 0 || r >= 20) ? "de produse" : "produse"}`;
+};
+const ARROW = { 1: '<svg width="10" height="10" viewBox="0 0 10 10" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m2 6.5 3-3 3 3"/></svg>',
+  "-1": '<svg width="10" height="10" viewBox="0 0 10 10" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m2 3.5 3 3 3-3"/></svg>' };
+const INFO = '<svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" aria-hidden="true"><circle cx="8" cy="8" r="6.25"/><path d="M8 7.25v3.75M8 5v.01"/></svg>';
+const CHEVRON = '<svg class="chev" width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 4 4 4-4 4"/></svg>';
+
+// key, title, cell renderer, sort value; `extra` columns are toggled from the chips
+const COLUMNS = [
+  { key: "category", title: "Categorie", cls: "cat", cell: p => `<span class="muted">${esc(p.category)}</span>` },
+  { key: "subcategory", title: "Subcategorie", cls: "subcat", cell: p => `<span class="muted">${esc(p.subcategory)}</span>` },
+  { key: "name", title: "Nume", cls: "name" },
+  { key: "ref", title: "Referință internă", cls: "ref" },
+  { key: "type", title: "Tip produs" },
+  { key: "price", title: "Preț vânzare", cls: "num", sort: price, cell: p => price(p) === null ? '<span title="Prețul nu e completat în Odoo">–</span>' : nf.format(p.price) },
+  { key: "cost", title: "Cost", cls: "num", cell: p => p.cost === null ? '<span title="Costul nu e completat în Odoo">–</span>' : nf.format(p.cost) },
+  { key: "sheets", title: "Fișă tehnică", cls: "sheets", sort: p => p.sheets.map(s => s.name).join(" "),
+    cell: p => p.sheets.map(s => `<a href="${esc(s.url)}" target="_blank" rel="noopener" title="${esc(s.note || (s.exact ? "Deschide fișa în Drive" : statusHelp["fișă de confirmat"]))}"${s.exact ? "" : ' class="unsure"'}>${esc(s.name)}</a>`).join("<br>") },
+  { key: "status", title: "Status fișă", plain: true, sort: p => STATUS_ORDER.indexOf(p.status), cell: p => `<span class="badge ${statusClass[p.status]}" title="${esc(statusTitle(p))}">${esc(p.status)}</span>` },
+  { key: "alerts", title: "De corectat", cls: "alerts", sort: p => p.alerts.join(", "), cell: p => p.alerts.map(a => `<span class="alert">${esc(a)}</span>`).join("<br>") },
+  { key: "favorite", title: "Favorite", extra: true },
+  { key: "responsible", title: "Responsabil", extra: true },
+  { key: "tags", title: "Etichete produs", extra: true },
+  { key: "qty_stock", title: "Cantitate în stoc", extra: true, cls: "num", cell: p => p.qty_stock === null ? "" : qf.format(p.qty_stock) },
+  { key: "qty_forecast", title: "Cantitate prognozată", extra: true, cls: "num", cell: p => p.qty_forecast === null ? "" : qf.format(p.qty_forecast) },
+  { key: "qty_atp", title: "Available to promise", extra: true, cls: "num", cell: p => p.qty_atp === null ? "" : qf.format(p.qty_atp) },
+  { key: "activity_exception", title: "Activitate Excepție Decorare", extra: true },
+];
+// fixed column widths in px (table-layout: fixed); extra window width is shared out proportionally
+const WIDTHS = { category: 150, subcategory: 200, name: 320, ref: 120, type: 120, price: 100, cost: 100, sheets: 260, status: 150,
+  alerts: 150, favorite: 100, responsible: 140, tags: 140, qty_stock: 110, qty_forecast: 110, qty_atp: 110, activity_exception: 150 };
+
+const $ = id => document.getElementById(id);
+// open: expanded categories, openSub: expanded subcategories (subKey), all closed on load;
+// shown: product rows rendered per open subcategory
+const state = { search: "", category: "", subcategory: "", status: "", type: "", sortKey: "category", sortDir: 1, extra: new Set(), open: new Set(), openSub: new Set(), shown: new Map() };
+const subKey = (category, subcategory) => `${category}\u0000${subcategory}`;
+const LIST_KEY = "\u0000list"; // state.shown entry for the plain list view
+// view: "groups" (category / subcategory accordions) or "list" (plain table); remembered per browser
+state.view = (() => { try { return localStorage.getItem("nomenclator-view") === "list" ? "list" : "groups"; } catch (e) { return "groups"; } })();
+const byName = (a, b) => String(a).localeCompare(String(b), "ro", { numeric: true });
+
+function loadExtraColumns() {
+  try { JSON.parse(localStorage.getItem("nomenclator-columns") || "[]").forEach(k => state.extra.add(k)); } catch (e) { /* storage unavailable */ }
+}
+function saveExtraColumns() {
+  try { localStorage.setItem("nomenclator-columns", JSON.stringify([...state.extra])); } catch (e) { /* storage unavailable */ }
+}
+
+function countBy(list, key) {
+  const counts = new Map();
+  list.forEach(p => counts.set(p[key], (counts.get(p[key]) || 0) + 1));
+  return [...counts].sort((a, b) => byName(a[0], b[0]));
+}
+
+function fillSelect(select, entries, allLabel, value, emptyLabel = "(necompletat)") {
+  select.innerHTML = `<option value="">${esc(allLabel)}</option>` +
+    entries.map(([v, n]) => `<option value="${esc(v)}">${esc(v || emptyLabel)} (${productCount(n)})</option>`).join("");
+  select.value = entries.some(([v]) => v === value) ? value : "";
+}
+
+function fillSubcategories() {
+  const inCategory = state.category ? PRODUCTS.filter(p => p.category === state.category) : PRODUCTS;
+  fillSelect($("f-subcategory"), countBy(inCategory, "subcategory"), "Toate", state.subcategory, "(fără subcategorie)");
+  state.subcategory = $("f-subcategory").value;
+}
+
+function visibleColumns() {
+  return COLUMNS.filter(c => !c.extra || state.extra.has(c.key));
+}
+
+function filtered() {
+  const q = fold(state.search.trim());
+  const rows = PRODUCTS.filter(p =>
+    (!state.category || p.category === state.category) &&
+    (!state.subcategory || p.subcategory === state.subcategory) &&
+    (!state.status || p.status === state.status) &&
+    (!state.type || p.type === state.type) &&
+    (!q || p.search.includes(q)));
+  const col = COLUMNS.find(c => c.key === state.sortKey);
+  const value = col.sort || (p => p[col.key]);
+  return rows.sort((a, b) => {
+    const va = value(a), vb = value(b);
+    const emptyA = va === null || va === "", emptyB = vb === null || vb === "";
+    if (emptyA || emptyB) return emptyA - emptyB; // empty values always last
+    const cmp = typeof va === "number" ? va - vb : String(va).localeCompare(String(vb), "ro", { numeric: true });
+    return cmp * state.sortDir || a.row - b.row;
+  });
+}
+
+function renderHead() {
+  $("colgroup").innerHTML = visibleColumns().map(c => `<col style="width: ${WIDTHS[c.key]}px">`).join("");
+  $("head").innerHTML = visibleColumns().map(c => {
+    const sorted = c.key === state.sortKey;
+    const aria = sorted ? ` aria-sort="${state.sortDir > 0 ? "ascending" : "descending"}"` : "";
+    const label = c.noSort
+      ? `<span title="Toate produsele au aceeași valoare în această coloană, nu are ce sorta">${esc(c.title)}</span>`
+      : `<button type="button" class="sort" title="Sortează">${esc(c.title)}<span class="arrow">${sorted ? ARROW[state.sortDir] : ""}</span></button>`;
+    return `<th data-key="${c.key}" class="${c.cls === "num" ? "num" : ""}"${aria}>${label}</th>`;
+  }).join("");
+}
+
+// filtered + sorted rows grouped by category, then subcategory; both always in code order (01, 08, 10, ...)
+// sorting by Categorie / Subcategorie reorders the accordions themselves (inside them every row has the same value)
+function groupBy(list, key) {
+  const groups = new Map();
+  list.forEach(p => (groups.get(p[key]) || groups.set(p[key], []).get(p[key])).push(p));
+  const dir = state.sortKey === key ? state.sortDir : 1;
+  return [...groups].sort((a, b) => byName(a[0], b[0]) * dir);
+}
+const groupedRows = () => groupBy(filtered(), "category");
+
+// text cells are wrapped in .clamp (2 lines, max width); numbers and the status badge stay as they are
+const cellHtml = (p, c) => {
+  const content = c.cell ? c.cell(p) : esc(p[c.key]);
+  return c.cls === "num" || c.plain || !content ? content : `<div class="clamp">${content}</div>`;
+};
+const rowHtml = (p, cols) => "<tr>" + cols.map(c => `<td class="${c.cls || ""}">${cellHtml(p, c)}</td>`).join("") + "</tr>";
+
+// full text as a tooltip, only on cells that are actually cut (more than 2 lines or wider than the max)
+function markOverflow() {
+  const cut = [...$("table").querySelectorAll(".clamp")]
+    .filter(el => el.scrollHeight > el.clientHeight + 1 || el.scrollWidth > el.clientWidth + 1);
+  $("table").querySelectorAll(".clamp[title]").forEach(el => el.removeAttribute("title"));
+  cut.forEach(el => { el.title = el.innerText.trim(); });
+}
+const moreHtml = (rest, cols, attrs = "") => rest <= 0 ? "" :
+  `<tr class="more-row"${attrs}><td colspan="${cols.length}"><button type="button" class="more">` +
+  `Arată încă ${Math.min(rest, PAGE_SIZE).toLocaleString("ro-RO")} (mai sunt ${productCount(rest)})</button></td></tr>`;
+
+// accordion header; categories / subcategories with a text in descrieri_categorii.json get an info icon
+// (tooltip on hover, see showTip) and the same text as the button's accessible description
+const toggleHtml = (cls, open, label, count) => {
+  const about = DESCRIPTIONS[label];
+  return `<button type="button" class="toggle ${cls}" aria-expanded="${open}"${about ? ` aria-description="${esc(about)}"` : ""}>` +
+    `${CHEVRON}<span><span class="muted">${cls === "group-toggle" ? "Categorie" : "Subcategorie"}:</span> ${esc(label)}</span>${about ? `<span class="info" data-tip="${esc(about)}">${INFO}</span>` : ""}` +
+    `<span class="group-count">${productCount(count)}</span></button>`;
+};
+
+// one tooltip for every info icon, placed under the icon and kept inside the window; appears instantly
+function showTip(icon) {
+  const tip = $("tip");
+  tip.textContent = icon.dataset.tip;
+  tip.hidden = false;
+  const r = icon.getBoundingClientRect(), t = tip.getBoundingClientRect();
+  const left = Math.min(Math.max(8, r.left + r.width / 2 - t.width / 2), window.innerWidth - t.width - 8);
+  const below = r.bottom + 6 + t.height <= window.innerHeight - 8;
+  tip.style.left = `${left}px`;
+  tip.style.top = `${below ? r.bottom + 6 : r.top - 6 - t.height}px`;
+}
+const hideTip = () => { $("tip").hidden = true; };
+
+function subcategoryHtml(category, subcategory, list, cols) {
+  const key = subKey(category, subcategory);
+  const open = state.openSub.has(key);
+  const shown = state.shown.get(key) || PAGE_SIZE;
+  return `<tr class="sub-row" data-sub="${esc(subcategory)}"><th colspan="${cols.length}" scope="row">` +
+    toggleHtml("sub-toggle", open, subcategory || "(fără subcategorie)", list.length) + "</th></tr>" +
+    (open ? list.slice(0, shown).map(p => rowHtml(p, cols)).join("") + moreHtml(list.length - shown, cols, ` data-sub="${esc(subcategory)}"`) : "");
+}
+
+// plain list view: every filtered product in one table, a batch at a time
+function listHtml(rows, cols) {
+  const shown = state.shown.get(LIST_KEY) || PAGE_SIZE;
+  return `<tbody class="list">${rows.slice(0, shown).map(p => rowHtml(p, cols)).join("")}${moreHtml(rows.length - shown, cols)}</tbody>`;
+}
+
+function groupHtml(category, list, cols) {
+  const open = state.open.has(category);
+  return `<tbody class="group" data-cat="${esc(category)}">` +
+    `<tr class="group-row"><th colspan="${cols.length}" scope="rowgroup">${toggleHtml("group-toggle", open, category, list.length)}</th></tr>` +
+    (open ? groupBy(list, "subcategory").map(([sub, rows]) => subcategoryHtml(category, sub, rows, cols)).join("") : "") +
+    "</tbody>";
+}
+
+function render() {
+  const isList = state.view === "list";
+  const rows = isList ? filtered() : [];
+  const groups = isList ? [] : groupedRows();
+  const total = isList ? rows.length : groups.reduce((n, [, list]) => n + list.length, 0);
+  const cols = visibleColumns();
+  const table = $("table");
+  table.querySelectorAll("tbody").forEach(b => b.remove());
+  table.insertAdjacentHTML("beforeend", !total
+    ? `<tbody><tr><td class="empty" colspan="${cols.length}">Niciun produs nu se potrivește cu filtrele alese. Încearcă alt cuvânt la căutare sau apasă „Șterge filtrele”.</td></tr></tbody>`
+    : isList ? listHtml(rows, cols) : groups.map(([name, list]) => groupHtml(name, list, cols)).join(""));
+  document.querySelectorAll(".view button").forEach(b => b.setAttribute("aria-pressed", b.dataset.view === state.view));
+  const hasFilters = state.search || state.category || state.subcategory || state.status || state.type;
+  $("counter").textContent = !hasFilters ? productCount(PRODUCTS.length)
+    : total ? `${productCount(total)} din ${PRODUCTS.length.toLocaleString("ro-RO")}` : "Niciun produs găsit";
+  $("reset").disabled = !hasFilters;
+  renderHead();
+  markOverflow();
+}
+
+function update(changes) {
+  Object.assign(state, changes);
+  state.shown.clear(); // a new filter or sort starts every category from its first rows
+  render();
+}
+
+// re-rendering replaces the buttons, so focus goes back to the same control in the new DOM
+function refocus(category, selector, subcategory) {
+  const group = $("table").querySelector(`tbody[data-cat="${CSS.escape(category)}"]`);
+  const scope = subcategory === undefined ? "" : `tr[data-sub="${CSS.escape(subcategory)}"] `;
+  const target = group?.querySelector(scope + selector);
+  target?.focus();
+  return Boolean(target);
+}
+
+function init() {
+  loadExtraColumns();
+  // a column where every product has the same value (e.g. Favorite = "Normal") has nothing to sort
+  COLUMNS.forEach(c => {
+    const value = c.sort || (p => p[c.key]);
+    c.noSort = new Set(PRODUCTS.map(p => String(value(p) ?? ""))).size < 2;
+  });
+  fillSelect($("f-category"), countBy(PRODUCTS, "category"), "Toate", "");
+  fillSelect($("f-type"), countBy(PRODUCTS, "type"), "Toate", "");
+  fillSubcategories();
+
+  const chips = $("columns");
+  COLUMNS.filter(c => c.extra).forEach(c => {
+    const chip = document.createElement("button");
+    chip.type = "button";
+    chip.className = "chip";
+    chip.textContent = c.title;
+    chip.setAttribute("aria-pressed", state.extra.has(c.key));
+    chip.addEventListener("click", () => {
+      state.extra.has(c.key) ? state.extra.delete(c.key) : state.extra.add(c.key);
+      chip.setAttribute("aria-pressed", state.extra.has(c.key));
+      saveExtraColumns();
+      render();
+    });
+    chips.appendChild(chip);
+  });
+
+  let timer;
+  $("search").addEventListener("input", e => { clearTimeout(timer); timer = setTimeout(() => update({ search: e.target.value }), 150); });
+  $("f-category").addEventListener("change", e => { state.category = e.target.value; state.subcategory = ""; fillSubcategories(); update({}); });
+  $("f-subcategory").addEventListener("change", e => update({ subcategory: e.target.value }));
+  $("f-status").addEventListener("change", e => update({ status: e.target.value }));
+  $("f-type").addEventListener("change", e => update({ type: e.target.value }));
+  $("reset").addEventListener("click", () => {
+    $("search").value = ""; $("f-category").value = ""; $("f-status").value = ""; $("f-type").value = "";
+    Object.assign(state, { search: "", category: "", subcategory: "", status: "", type: "" });
+    fillSubcategories();
+    update({});
+    $("search").focus(); // the reset button is now disabled
+  });
+  $("head").addEventListener("click", e => {
+    const th = e.target.closest("th");
+    if (!th || !th.querySelector("button")) return;
+    const key = th.dataset.key;
+    update(key === state.sortKey ? { sortDir: -state.sortDir } : { sortKey: key, sortDir: 1 });
+    $("head").querySelector(`th[data-key="${key}"] button`).focus(); // the header was re-rendered
+  });
+  const flip = (set, key) => set.has(key) ? set.delete(key) : set.add(key);
+  $("table").addEventListener("click", e => {
+    const button = e.target.closest(".toggle, .more");
+    if (!button) return;
+    if (button.closest("tbody").classList.contains("list")) { // "Arată încă" in the plain list
+      state.shown.set(LIST_KEY, (state.shown.get(LIST_KEY) || PAGE_SIZE) + PAGE_SIZE);
+      render();
+      $("table").querySelector("tbody.list .more")?.focus();
+      return;
+    }
+    const category = button.closest("tbody").dataset.cat;
+    if (button.classList.contains("group-toggle")) {
+      flip(state.open, category);
+      render();
+      refocus(category, ".group-toggle");
+      return;
+    }
+    const subcategory = button.closest("tr").dataset.sub;
+    const key = subKey(category, subcategory);
+    if (button.classList.contains("more")) {
+      state.shown.set(key, (state.shown.get(key) || PAGE_SIZE) + PAGE_SIZE);
+      render();
+      refocus(category, ".more", subcategory) || refocus(category, ".sub-toggle", subcategory);
+      return;
+    }
+    flip(state.openSub, key);
+    render();
+    refocus(category, ".sub-toggle", subcategory);
+  });
+  document.querySelectorAll(".view button").forEach(b => b.addEventListener("click", () => {
+    state.view = b.dataset.view;
+    try { localStorage.setItem("nomenclator-view", state.view); } catch (e) { /* storage unavailable */ }
+    render();
+  }));
+  // info tooltips: on hover over the icon, and on keyboard focus of its accordion header
+  const table = $("table");
+  table.addEventListener("mouseover", e => { const icon = e.target.closest(".info"); if (icon) showTip(icon); });
+  table.addEventListener("mouseout", e => { const icon = e.target.closest(".info"); if (icon && !icon.contains(e.relatedTarget)) hideTip(); });
+  table.addEventListener("focusin", e => {
+    const icon = e.target.closest(".toggle")?.querySelector(".info");
+    if (icon && e.target.matches(":focus-visible")) showTip(icon);
+  });
+  table.addEventListener("focusout", hideTip);
+  table.addEventListener("click", hideTip, true); // the click re-renders the table and removes the icon
+  document.querySelector(".table-wrap").addEventListener("scroll", hideTip, { passive: true });
+  let resizeTimer; // column widths change with the window, so the cut cells change too
+  window.addEventListener("resize", () => { clearTimeout(resizeTimer); resizeTimer = setTimeout(markOverflow, 150); });
+  render();
+}
+
+init();
+</script>
+</body>
+</html>

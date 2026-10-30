@@ -1,0 +1,877 @@
+[
+  {
+    "cod": "R08-01",
+    "titlu": "Stație de osmoză nouă fără date de dimensionare: AKRO cere analiza apei brute, debitele și consumul înainte de dimensionare",
+    "explicatie": "Se aplică atunci când un client cere o stație nouă de osmoză inversă, adică filtrare prin membrane foarte fine care scot aproape toate sărurile din apă, dar nu dă datele pentru dimensionare. AKRO întreabă de unde vine apa, dacă există un buletin de analiză, ce debit maxim pe oră și ce consum pe zi are clientul și ce calitate vrea la ieșire. Fără analiza apei brute nu definitivează fluxul de tratare. Până atunci dă cel mult un buget estimativ, pe ipoteze spuse clientului.",
+    "categorie": "08-Osmoza si filtrare pe membrane",
+    "cand": "Clientul cere o stație sau o instalație nouă de osmoză inversă, dar lipsesc datele de dimensionare: buletinul de analiză al apei brute, debitul real (al sursei sau cel dorit la ieșire) ori consumul zilnic. Nu se aplică osmozelor casnice și nici osmozelor foarte mari fără caiet de sarcini, pe care AKRO nu le ofertează.",
+    "clarificari": [
+      "De unde provine apa brută?",
+      "Există un buletin de analiză (turbiditate, pH, fier, mangan, duritate, sodiu, clor liber rezidual, cloruri, indice SDI, conductivitate, microbiologie)?",
+      "Există un flux de tratare montat (descriere, desen sau chiar o schemă de mână)?",
+      "Care este debitul maxim orar de apă tratată și consumul maxim în 24 de ore? În câte schimburi se lucrează?",
+      "Debitul dat este al sursei sau cel dorit la ieșire? Ce debit și ce presiune sunt disponibile în locul de montaj?",
+      "La ce calitate trebuie să ajungă apa osmozată?"
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2099908",
+        "src": "m2099908",
+        "citat": "pentru o dimensionare corecta a instalatiei vom mai avea nevoie de cateva informatii printre care:",
+        "pentru": "clarificare",
+        "nota": "AKRO deschide lista de întrebări după cererea unei osmoze de 6-7 m³/h pentru o spălătorie"
+      },
+      {
+        "conv": "c2099908",
+        "src": "m2099908",
+        "citat": "Care este consumul de apa maxim in 24 h?",
+        "pentru": "clarificare",
+        "nota": "consumul zilnic, alături de sursă, buletin, fluxul existent și numărul de schimburi"
+      },
+      {
+        "conv": "c2104804",
+        "src": "m2141060",
+        "citat": "12 mc/h este debitul din sursa sau debitul ce se doreste a se obtine?",
+        "pentru": "clarificare",
+        "nota": "la sursa la care osmoza e obligatorie, AKRO întreabă ce înseamnă debitul dat și dă bugetul pe o ipoteză de 16-18 m³/h în sursă"
+      },
+      {
+        "conv": "c2104804",
+        "src": "m2141060",
+        "citat": "Care este debitul de apa disponibil in sursa si presiunea in locul unde se doreste a se instala statia?",
+        "pentru": "clarificare",
+        "nota": "debitul și presiunea disponibile"
+      },
+      {
+        "conv": "c2142916",
+        "src": "m2144260",
+        "citat": "fara a avea un buletin de analiza al apei brute , nu putem definitiva un flux de tratare",
+        "pentru": "clarificare",
+        "nota": "fără analiza apei brute AKRO dă doar un interval de buget pentru situații standard"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R08-03",
+    "titlu": "Instalații cu osmoză fără specificație: buget estimativ în textul emailului, în euro fără TVA, doar pentru echipamente, cu excluderile numite",
+    "explicatie": "La o cerere de instalație cu osmoză pentru care clientul nu are încă o listă de echipamente, AKRO scrie bugetul direct în email, aproximativ, în euro și fără TVA. Suma acoperă doar furnizarea echipamentelor. AKRO spune și ce rămâne în afara ei, după caz bazinul final de stocare, transportul, montajul, PIF-ul (pornirea și reglarea instalației la client), automatizarea sau execuția pe inox. Într-un caz oferta oficială a venit abia după ce clientul a cerut-o și a dat codul fiscal al firmei.",
+    "categorie": "08-Osmoza si filtrare pe membrane",
+    "cand": "Clientul cere o instalație nouă de tratare cu osmoză, pentru bugetare sau ca să afle soluția, fără o listă de echipamente, iar AKRO are destule date (analiza apei sau o ipoteză spusă clientului) ca să propună un flux. Nu se aplică unei cereri de achiziție cu lista completă de echipamente, la care AKRO a trimis direct oferta atașată (conversația 157).",
+    "clarificari": [
+      "Aveți nevoie de o ofertă oficială? Dacă da, CUI-ul firmei."
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "buget aproximativ în euro, fără TVA, scris în textul emailului, doar pentru furnizarea echipamentelor (la cererea internă de la Spectra, preț net de achiziție)",
+        "AKRO numește ce nu intră în buget: după caz bazinul final de stocare, pompa de consum, UV-ul, transportul, montajul, PIF-ul, automatizarea sau execuția pe inox",
+        "într-o conversație oferta oficială din Odoo a fost emisă abia după ce clientul a cerut-o și a dat CUI-ul firmei"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2099908",
+        "src": "m2137988",
+        "citat": "ar ajunge la aproximativ 67000 euro fara TVA.",
+        "pentru": "ofertă",
+        "nota": "varianta 1 (foraj și osmoză), buget în text, fără bazinul final de 10 mc"
+      },
+      {
+        "conv": "c2099908",
+        "src": "m2137988",
+        "citat": "bugetul pentru furnizarea de echipamente ar fi de aproximativ 32000 euro [ fara bazinul final de stocare de 10mc]",
+        "pentru": "ofertă",
+        "nota": "varianta 3, bazinul final exclus"
+      },
+      {
+        "conv": "c2104804",
+        "src": "m2141060",
+        "citat": "Buget pentru filtru + clorinare 12 mc/h – aproximativ 1500 euro fara TVA",
+        "pentru": "ofertă",
+        "nota": "bugetare pentru o primărie, scrisă în email: varianta fără osmoză"
+      },
+      {
+        "conv": "c2104804",
+        "src": "m2141060",
+        "citat": "atunci se poate obtine apa potabila cu un debit total de 12mc/h cu un buget la echipamente de aprox 59000euro",
+        "pentru": "ofertă",
+        "nota": "varianta cu osmoză, buget doar pe echipamente. Automatizarea by-pass-ului nu e inclusă"
+      },
+      {
+        "conv": "c2142916",
+        "src": "m2144260",
+        "citat": "In bugetul acesta nu se poate discuta de confectie pe inox, si nu acopera cerinte precum – sa acopere montajul",
+        "pentru": "ofertă",
+        "nota": "excluderile bugetului estimativ: execuția pe inox, montajul, automatizarea SCADA"
+      },
+      {
+        "conv": "c2142916",
+        "src": "m2148836",
+        "citat": "Furnizarea echipamentelor de mai sus [ strict livrare] – ajunge la 18200 euro fara TVA.",
+        "pentru": "ofertă",
+        "nota": "buget în text, înainte de oferta din Odoo"
+      },
+      {
+        "conv": "c2142916",
+        "src": "m2148836",
+        "citat": "Aveti nevoie sa trimitem o oferta oficiala in acest sens? Daca Da, va rugam sa ne furnizati un Cui de firma.",
+        "pentru": "clarificare",
+        "nota": "AKRO întreabă dacă vrea ofertă oficială. Oferta S02677 a urmat după ce clientul a dat CUI-ul"
+      },
+      {
+        "conv": "c2111076",
+        "src": "m2147748",
+        "citat": "Buget echipamente– 72000 euro NET [ adica la achizitie]",
+        "pentru": "ofertă",
+        "nota": "buget total pe echipamente, ca preț net de achiziție pentru Spectra"
+      },
+      {
+        "conv": "c2111076",
+        "src": "m2147748",
+        "citat": "Obligatoriu va trebui si un bazin de stocare final",
+        "pentru": "ofertă",
+        "nota": "bazinul final, pompa de consum și UV-ul rămân neincluse, ca și transportul, montajul și PIF-ul"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R08-04",
+    "titlu": "Apă demineralizată din apă de rețea sau puțin încărcată: filtru mecanic, cărbune activ, dedurizare duplex și osmoză, urmate de bazin, UV și pompă",
+    "explicatie": "Clientul care vrea apă demineralizată pentru producție, vopsitorie, cosmetice sau cazan, pornind de la apă de rețea ori de la o sursă puțin încărcată, primește de la AKRO același lanț de bază. Apa trece printr-un filtru mecanic, prin cărbune activ care reține clorul din rețea, printr-o dedurizare duplex, cu două coloane de rășină care lucrează pe rând, și apoi prin osmoză. În două conversații lanțul a continuat cu un bazin de stocare și UV, iar într-una și cu pompa de consum. Montajul a intrat în ofertă când clientul l-a cerut.",
+    "categorie": "08-Osmoza si filtrare pe membrane",
+    "cand": "Clientul vrea apă demineralizată sau osmozată (producție, vopsitorie, cosmetice, spălătorie, cazan) dintr-o apă de rețea sau puțin încărcată, iar AKRO are analiza apei sau clientul a descris deja fluxul dorit.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "01-008048",
+          "rol": "filtru mecanic NW400 la intrare"
+        },
+        {
+          "ref": "01-008049",
+          "rol": "consola filtrului NW"
+        },
+        {
+          "ref": "13-001171",
+          "rol": "filtru cu cărbune activ pentru clorul rezidual"
+        },
+        {
+          "ref": "13-001297",
+          "rol": "stație de dedurizare duplex înaintea osmozei"
+        },
+        {
+          "ref": "08-002231",
+          "rol": "stația de osmoză"
+        },
+        {
+          "ref": "23-003029",
+          "rol": "bazin de stocare a permeatului"
+        },
+        {
+          "ref": "23-001141",
+          "rol": "pompă de consum cu convertizor"
+        },
+        {
+          "ref": "27-001155",
+          "rol": "UV la ieșirea din bazin"
+        }
+      ],
+      "servicii": [
+        "montaj, când clientul cere și execuția instalației (conversația 157)"
+      ],
+      "documente": [
+        "fișele tehnice ale echipamentelor, ca linkuri, odată cu oferta oficială (conversația 188)"
+      ],
+      "conditii": [
+        "bazinul de stocare, UV-ul de la ieșire și pompa de consum apar în fluxul din conversația 188. În conversația 157 au fost bazin și două UV-uri, fără pompă. În varianta pe rețea din conversația 56 bazinul final a rămas în afara bugetului",
+        "în conversația 157 fluxul a urmat lista clientului, identică cu linia existentă, cu filtre de nisip înaintea celor cu cărbune"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2142916",
+        "src": "m2144260",
+        "citat": "12-20000 euro pentru echipamente demineralizare cu 0.5-1mc/h [ atentie vorbim strict de echipamente] – care ar include standard:",
+        "pentru": "ofertă",
+        "nota": "fluxul standard pentru ape puțin încărcate: filtrare mecanică, cărbune, dedurizare, osmoză, bazin din PE, UV, pompă"
+      },
+      {
+        "conv": "c2142916",
+        "src": "m2148836",
+        "citat": "Statie de osmoza semi-industriala MO240000TP5 cu 4 membrane 4040 filmtec",
+        "pentru": "ofertă",
+        "nota": "fluxul concret, ofertat apoi în S02677"
+      },
+      {
+        "conv": "c2099908",
+        "src": "m2137988",
+        "citat": "O statie de dedurizare duplex cu 175L – vane de comanda 1.5” Ci Clack",
+        "pentru": "ofertă",
+        "nota": "varianta pe apa de rețea: filtrare grosieră, două filtre cu cărbune, duplex, osmoză de 3 m³/h"
+      },
+      {
+        "conv": "c2099908",
+        "src": "m2137988",
+        "citat": "Doua filtre de carbune de 200L fiecare [ pentru retinere clor rezidual]",
+        "pentru": "ofertă",
+        "nota": "cărbunele reține clorul rezidual din apa de rețea"
+      },
+      {
+        "conv": "c2140964",
+        "src": "m2140964",
+        "citat": "Sistem complet de producere apa demineralizata pentru statia de osmoza 3 mc/h care trebuie sa cuprinda:",
+        "pentru": "cerere",
+        "nota": "cererea de achiziție de la vopsitorie: sistem de apă demineralizată de 3 m³/h, cu lista echipamentelor"
+      },
+      {
+        "conv": "c2140964",
+        "src": "m2140964",
+        "citat": "Revin in prima faza cu oferta pentru capitolul 2 - instalatia de osmoza",
+        "pentru": "ofertă",
+        "nota": "oferta: NW500, filtre cu nisip și cu cărbune, duplex, osmoză, bazin de 10 mc, două UV-uri și montaj"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R08-05",
+    "titlu": "Apă de foraj cu fier, mangan și conductivitate mare: oxidare, filtre Pyrolux și cărbune înaintea osmozei",
+    "explicatie": "Dacă apa vine dintr-un foraj sau puț cu mult fier, mangan, amoniu sau cloruri, iar clientul vrea apă osmozată sau potabilă, AKRO pune mai multe trepte înaintea osmozei. Apa e filtrată grosier și primește un oxidant, într-una dintre propuneri clor, stă într-un bazin de contact și e pompată prin filtre cu Pyrolux, care rețin fierul și manganul. Urmează filtrele cu cărbune și osmoza, cu dozare de antiscalant. Într-un caz AKRO a numit acest flux obligatoriu.",
+    "categorie": "08-Osmoza si filtrare pe membrane",
+    "cand": "Sursa e un foraj sau un puț cu apă foarte încărcată (fier, mangan, amoniu, cloruri sau conductivitate mare), iar clientul vrea apă osmozată sau potabilă.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "flux: filtrare grosieră, dozare de oxidant (clorinare, într-una dintre propuneri), bazin de contact, grup de pompare, baterie de filtre cu Pyrolux, baterie de filtre cu cărbune, osmoză cu dozator de antiscalant. Într-o propunere și un dedurizator parțial"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2099908",
+        "src": "m2137988",
+        "citat": "Varianta 1 - tratare foraj pana la osmozare – debit de produs – 3mc/h",
+        "pentru": "ofertă",
+        "nota": "fluxul pe foraj: două dozări de oxidant și sodă, bazin de contact, Pyrolux, cărbune, dedurizare parțială, antiscalant"
+      },
+      {
+        "conv": "c2099908",
+        "src": "m2137988",
+        "citat": "Baterie de filtre cu pyrolux",
+        "pentru": "ofertă",
+        "nota": "treapta cu Pyrolux pentru fier și mangan"
+      },
+      {
+        "conv": "c2111076",
+        "src": "m2147748",
+        "citat": "Pentru a reduce fierul, manganul , clorurile , conductivitatea si amoniul – trebuie urmatorul flux obligatoriu",
+        "pentru": "ofertă",
+        "nota": "puț forat pentru un campus hotelier, flux numit obligatoriu"
+      },
+      {
+        "conv": "c2111076",
+        "src": "m2147748",
+        "citat": "3 filtre pyrolux 4272 cu skid Euroclear – net 15500 euro",
+        "pentru": "ofertă",
+        "nota": "după clorinare și bazin vin Pyrolux, cărbune și osmoza de 12 m³/h cu dozator de antiscalant"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R08-06",
+    "titlu": "Mai multe surse sau obiective: AKRO propune variante cu buget separat și recomandă varianta fără osmoză când apa o permite",
+    "explicatie": "Când clientul are două surse de apă sau poate ajunge la rezultat și fără osmoză, AKRO îi trimite mai multe variante, fiecare cu bugetul ei. Unde apa o permite, propune doar filtrare cu dezinfecție sau o dedurizare, iar osmoza rămâne acolo unde nu se poate fără ea. Într-un caz AKRO a spus chiar că apa din foraj nu merită tratată.",
+    "categorie": "08-Osmoza si filtrare pe membrane",
+    "cand": "Clientul are două surse de apă (foraj și rețea, sau două surse ale unei primării) ori obiectivul poate fi atins și fără osmoză.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "variante comparate pe sursă: doar filtrare cu clorinare sau doar dedurizare acolo unde apa o permite, osmoză doar unde e obligatorie, fiecare cu bugetul ei"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2099908",
+        "src": "m2137988",
+        "citat": "Sunt 3 variante in situatia data:",
+        "pentru": "ofertă",
+        "nota": "foraj cu osmoză, rețea doar cu dedurizare, rețea cu osmoză"
+      },
+      {
+        "conv": "c2099908",
+        "src": "m2137988",
+        "citat": "Din punctul nostru de vedere, apa din foraj nu merita a fi tratata.",
+        "pentru": "ofertă",
+        "nota": "AKRO recomandă să nu se trateze forajul"
+      },
+      {
+        "conv": "c2104804",
+        "src": "m2141060",
+        "citat": "atunci tot ce trebuie facut – este eventual filtrare+ dezinfectie:",
+        "pentru": "ofertă",
+        "nota": "sursa Stadion: fără osmoză, doar filtrare și dezinfecție"
+      },
+      {
+        "conv": "c2104804",
+        "src": "m2141060",
+        "citat": "atunci lucrurile se complica pentru ca trebuie obligatoriu osmoza!",
+        "pentru": "ofertă",
+        "nota": "sursa Moara Arsă: osmoză obligatorie"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R08-07",
+    "titlu": "Apă potabilă cu osmoză: doar o parte din debit trece prin osmoză, se amestecă prin by-pass și urmează clorinarea finală",
+    "explicatie": "Pentru apă potabilă dintr-o sursă cu prea multe săruri dizolvate, AKRO nu trece toată apa prin osmoză. Doar o parte din debit e osmozată, iar restul, doar filtrat, se amestecă cu ea printr-un by-pass, adică o conductă de ocolire, până când valorile intră în normă. La final se face o clorinare a întregii ape, pentru dezinfecție.",
+    "categorie": "08-Osmoza si filtrare pe membrane",
+    "cand": "Clientul cere apă potabilă sau menajeră dintr-o sursă cu săruri peste normă (de exemplu sulfați și duritate, sau cloruri și conductivitate).",
+    "clarificari": [],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "osmoză pe o parte din debit, amestecată prin by-pass cu apă doar filtrată",
+        "clorinare finală pentru dezinfecție"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2104804",
+        "src": "m2141060",
+        "citat": "Cele doua surse – apa bruta filtrata6mc/h se amesteca cu apa osmozata 6/mc",
+        "pentru": "ofertă",
+        "nota": "apa brută doar filtrată se amestecă cu permeatul, adică apa ieșită din osmoză, ca să intre în normele de potabilitate"
+      },
+      {
+        "conv": "c2104804",
+        "src": "m2141060",
+        "citat": "Apoi o clorinare generala pentru dezinfectie",
+        "pentru": "ofertă",
+        "nota": "clorinare finală"
+      },
+      {
+        "conv": "c2111076",
+        "src": "m2147748",
+        "citat": "Clorinare finala – SEKO – net 700-800 euro",
+        "pentru": "ofertă",
+        "nota": "osmoza de 12 m³/h include by-pass pentru amestec și e urmată de clorinarea finală"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R08-08",
+    "titlu": "Osmoză alimentată din rețea: presiune minimă de circa 4 bar, altfel se adaugă grup de pompare",
+    "explicatie": "Când propune o osmoză alimentată direct din rețea sau dintr-o sursă cu presiune necunoscută, AKRO fie întreabă ce debit și ce presiune sunt în locul de montaj, fie scrie condiția în propunere. Osmoza are nevoie la intrare de o presiune stabilă de cel puțin 4 până la 4,5 bar. Dacă rețeaua nu o are, AKRO spune că trebuie adăugat un grup de pompare care să ridice presiunea.",
+    "categorie": "08-Osmoza si filtrare pe membrane",
+    "cand": "AKRO propune o osmoză alimentată direct din rețea sau dintr-o sursă cu presiune necunoscută.",
+    "clarificari": [
+      "Ce debit și ce presiune sunt disponibile în punctul de montaj?"
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "grup de pompare pentru creșterea presiunii, dacă rețeaua nu asigură stabil minimum 4-4,5 bar (și debitul necesar)"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2099908",
+        "src": "m2137988",
+        "citat": "In reteaua existenta trebuie sa fie disponibil un debit de minim 6 mc/h si o presiune de minim 4 bar",
+        "pentru": "ofertă",
+        "nota": "condiție pentru varianta pe rețea. Altfel se montează o pompă de creștere a presiunii"
+      },
+      {
+        "conv": "c2142916",
+        "src": "m2148836",
+        "citat": "daca reteaua actuala nu furnizeaza o presiune stabila pe intrare de minim 4-4.5 bar.",
+        "pentru": "ofertă",
+        "nota": "grupul de pompare poate fi necesar"
+      },
+      {
+        "conv": "c2104804",
+        "src": "m2141060",
+        "citat": "Care este debitul de apa disponibil in sursa si presiunea in locul unde se doreste a se instala statia?",
+        "pentru": "clarificare",
+        "nota": "AKRO întreabă presiunea înainte de osmoză"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R08-09",
+    "titlu": "Client final interesat de costurile de exploatare: AKRO estimează consumabilele pe mc și ritmul de schimbare a membranelor",
+    "explicatie": "Unui client final care vrea să știe și cât îl costă exploatarea unei stații de osmoză noi, AKRO îi dă, odată cu fluxul propus, o estimare. Într-un caz a calculat costul consumabilelor, adică sarea și reactivii, pe fiecare metru cub de apă produsă. A spus și cât de des se schimbă membranele: la unu sau doi ani pe o apă de foraj cu conductivitate mare, cam o dată pe an pe apa de rețea.",
+    "categorie": "08-Osmoza si filtrare pe membrane",
+    "cand": "Clientul final cere o stație de osmoză nouă și vrea să cunoască și costurile de exploatare (consumabile, mentenanță), iar AKRO îi trimite fluxul propus. Intermediarii care au cerut doar un buget nu au primit această estimare.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "cost estimat al consumabilelor (sare, reactivi) pe mc de apă produsă, fără energie și apa trimisă la canal",
+        "frecvența estimată de schimbare a membranelor"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2099908",
+        "src": "m2099908",
+        "citat": "costurile de CAPEX si OPEX optimizate",
+        "pentru": "cerere",
+        "nota": "clientul cere de la început o soluție cu costuri de investiție și de exploatare optimizate"
+      },
+      {
+        "conv": "c2099908",
+        "src": "m2137988",
+        "citat": "costul pe mc de apa osmozata in cazul acesta ajunge la +-9.5lei/mc",
+        "pentru": "ofertă",
+        "nota": "costul consumabilelor pe varianta cu foraj (pe rețea: aproximativ 1 leu pe mc)"
+      },
+      {
+        "conv": "c2099908",
+        "src": "m2137988",
+        "citat": "care pe o astfel de conductivitate estimam ca se vor schimba la 1-2 ani.",
+        "pentru": "ofertă",
+        "nota": "ritmul de schimbare a membranelor pe o apă de foraj cu conductivitate mare"
+      },
+      {
+        "conv": "c2142916",
+        "src": "m2107588",
+        "citat": "materiale si montaj, punere in functiune, instruire, mentenanta si consumabile",
+        "pentru": "cerere",
+        "nota": "clientul cere ca oferta să cuprindă și mentenanța și consumabilele"
+      },
+      {
+        "conv": "c2142916",
+        "src": "m2148836",
+        "citat": "estimez o rata de inlocuire a membranelor de aproximativ 1 data /an.",
+        "pentru": "ofertă",
+        "nota": "ritmul de înlocuire pe apa de rețea"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R08-10",
+    "titlu": "Client final nou pentru o stație de osmoză: AKRO trimite fotografia unei stații de 3 mc/h dintr-o fabrică de șervețele umede",
+    "explicatie": "Unui client final nou care cere o stație de osmoză industrială sau semi-industrială, AKRO îi trimite în primele mesaje o fotografie cu o stație de 3 metri cubi pe oră, folosită la o fabrică de șervețele umede din Constanța. Într-un caz poza a plecat împreună cu variantele de dimensionare, în celălalt chiar din primul răspuns, alături de etapele proiectului.",
+    "categorie": "08-Osmoza si filtrare pe membrane",
+    "cand": "Un client final nou (beneficiarul instalației) cere o stație de osmoză industrială sau semi-industrială de câțiva metri cubi pe oră.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [
+        "fotografie cu o stație de osmoză de 3 mc/h, montată la începutul lui 2024 la o fabrică de șervețele umede din Constanța"
+      ],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2099908",
+        "src": "m2099908",
+        "citat": "Trimit anexata si o fotografie cu o statie de 3mc/h",
+        "pentru": "ofertă",
+        "nota": "fotografia trimisă în al doilea răspuns, cu variantele de dimensionare"
+      },
+      {
+        "conv": "c2142916",
+        "src": "m2142916",
+        "citat": "Las anexata o fotografie cu o statie de osmoza de 3mc/h",
+        "pentru": "ofertă",
+        "nota": "aceeași fotografie, din primul răspuns, la proiectul de cosmetice"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R08-11",
+    "titlu": "Proiect care depășește furnizarea de echipamente standard: AKRO declină sau restrânge oferta la echipamente",
+    "explicatie": "Dacă clientul cere o osmoză foarte mare, peste 25 sau 30 de metri cubi pe oră, fără caiet de sarcini, ori un proiect întreg cu proiectare, execuție și tratarea apelor uzate, AKRO nu ofertează în forma cerută. Explică motivul: osmozele atât de mari se construiesc pe locul final, iar apele uzate nu sunt specialitatea AKRO. Pentru osmoza mare a enumerat și ce lipsea, de la caietul de sarcini la buget, și a renunțat la propunere. La proiectul întreg a ofertat doar echipamentele de tratare.",
+    "categorie": "08-Osmoza si filtrare pe membrane",
+    "cand": "Clientul cere o osmoză foarte mare (peste 25-30 mc/h) fără caiet de sarcini sau un proiect complet cu proiectare, execuție și tratarea apelor uzate.",
+    "clarificari": [
+      "Există un caiet de sarcini sau fișe tehnice pentru instalația cerută?",
+      "Cine se ocupă de pretratare (pregătirea apei pentru osmoză)?",
+      "Care este bugetul alocat?",
+      "Câte linii de osmoză sunt prevăzute?"
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "AKRO explică de ce nu ofertează în forma cerută: osmozele de peste 25-30 mc/h se construiesc pe poziția finală, iar tratarea apelor uzate nu e specialitatea AKRO",
+        "se ofertează cel mult furnizarea echipamentelor de tratare, fără proiectare, execuție sau stație de neutralizare"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2135204",
+        "src": "m2135204",
+        "citat": "In mod normal, instalatiile de osmoza mai mari de 25-30 mc/h se construiesc pe pozitia finala",
+        "pentru": "clarificare",
+        "nota": "osmoză de 80 m³/h pentru o seră: AKRO nu face propunere"
+      },
+      {
+        "conv": "c2135204",
+        "src": "m2135204",
+        "citat": "Nu ne este clar cine se ocupa de partea de pretrare",
+        "pentru": "clarificare",
+        "nota": "printre neclarități: pretratarea, caietul de sarcini, bugetul, numărul de linii"
+      },
+      {
+        "conv": "c2142916",
+        "src": "m2148836",
+        "citat": "consider ca la acest moment nu suntem pregatiti sa acceptam un astfel de proiect.",
+        "pentru": "ofertă",
+        "nota": "AKRO refuză proiectarea și execuția și ofertează doar echipamentele"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R08-12",
+    "titlu": "Osmoză casnică cu trepte de filtrare: AKRO cere capacitatea și fișa tehnică și precizează că nu are osmoze sub chiuvetă",
+    "explicatie": "Când cineva cere o osmoză descrisă prin numărul de trepte și un afișaj TDS, care arată cât de multe săruri dizolvate are apa, AKRO bănuiește un sistem casnic, de pus sub chiuvetă. Întreabă ce capacitate și ce pretratare are și dacă există o fișă tehnică. Îi spune deschis clientului că nu are osmoze de sub chiuvetă în portofoliu.",
+    "categorie": "08-Osmoza si filtrare pe membrane",
+    "cand": "Clientul cere un sistem de osmoză descris prin numărul de trepte și afișaj TDS (tip casnic, sub chiuvetă).",
+    "clarificari": [
+      "Ce capacitate are sistemul și ce pretratare? Există fișă tehnică?"
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2112996",
+        "src": "m2150052",
+        "citat": "Nu e foarte clar care este gabaritul sistemului [ cat produce] si partea de pretatare.",
+        "pentru": "clarificare",
+        "nota": "capacitatea și pretratarea lipsesc din cerere. AKRO întreabă și de fișa tehnică"
+      },
+      {
+        "conv": "c2112996",
+        "src": "m2150052",
+        "citat": "ma duce cu gandul la sistemele de osmoza de sub chiuveta [ casnice] – si nu avem asa ceva in portofoliu.",
+        "pentru": "clarificare",
+        "nota": "AKRO nu vinde osmoze casnice"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R08-13",
+    "titlu": "Membrane de schimb cu model și cantitate date: AKRO ofertează direct același model, cu livrare în 1-3 săptămâni",
+    "explicatie": "Clientul care cere membrane de osmoză de schimb și dă modelul exact și cantitatea primește oferta direct, fără întrebări. AKRO ofertează chiar modelul cerut, cu livrare sau ridicare în una până la trei săptămâni de la comandă. În două cazuri membranele erau în stocul furnizorului din Belgia. Când cererea a cerut documentație tehnică, AKRO a atașat și fișa tehnică a membranei.",
+    "categorie": "08-Osmoza si filtrare pe membrane",
+    "cand": "Clientul cere membrane osmotice de înlocuire indicând modelul exact (HSRO 390 FF, ESPA2 MAX 8040, CPA3) și o cantitate obișnuită, de câteva bucăți până la câteva zeci. La un lot de o sută de bucăți AKRO a întrebat întâi locul și termenul de livrare.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "08-002144",
+          "rol": "Filmtec HSRO 390-FF, când se cere acest model"
+        },
+        {
+          "ref": "08-002193",
+          "rol": "Hydranautics ESPA2 MAX 8040, când se cere acest model"
+        },
+        {
+          "ref": "08-002107",
+          "rol": "Hydranautics CPA3 8040, când se cere acest model"
+        }
+      ],
+      "servicii": [],
+      "documente": [
+        "fișa tehnică a membranei, când cererea o solicită"
+      ],
+      "conditii": [
+        "livrare sau ridicare în 1-3 săptămâni de la comandă. În două conversații, din stocul furnizorului din Belgia",
+        "transport în sarcina AKRO sau, la clientul din străinătate, ridicare de la depozitul AKRO din Brașov"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2112228",
+        "src": "m2149380",
+        "citat": "La acest moment produsele sunt in stocul furnizor din Belgia si estimam livrarea in termen de 1-2 saptamani de la comanda.",
+        "pentru": "ofertă",
+        "nota": "15 membrane HSRO 390 FF ofertate direct, din stocul din Belgia"
+      },
+      {
+        "conv": "c2157572",
+        "src": "m2157956",
+        "citat": "Please find attached our best offer for the osmotic membranes CPA 3 – Hydranautics x 15 pcs",
+        "pentru": "ofertă",
+        "nota": "același model din cerere, ofertat direct, cu ridicare în 1-2 săptămâni"
+      },
+      {
+        "conv": "c2157572",
+        "src": "m2157956",
+        "citat": "I have also attached the data sheet of the product",
+        "pentru": "ofertă",
+        "nota": "fișa tehnică CPA3 atașată, cum cerea cererea de ofertă"
+      },
+      {
+        "conv": "c2122596",
+        "src": "m2122596",
+        "citat": "Produsele sunt in stoc la furnizorul nostru din BELGIA – la acest moment",
+        "pentru": "ofertă",
+        "nota": "oferta directă pentru 9 membrane ESPA2 MAX, din stocul din Belgia"
+      },
+      {
+        "conv": "c2122596",
+        "src": "m2158660",
+        "citat": "Produsele sunt disponibile in stocul furnizor la acest moment si estimam livrarea in termen de maxim 2-3 saptamani.",
+        "pentru": "ofertă",
+        "nota": "9 membrane ESPA2 MAX confirmate pe comanda fermă"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R08-14",
+    "titlu": "Membrane din stocul furnizorului: AKRO leagă prețul de stocul și de lista de prețuri din acel moment",
+    "explicatie": "La membranele de osmoză luate din stocul unui furnizor european, AKRO leagă prețul de situația din acel moment. Într-un caz a spus că prețul e valabil doar pentru bucățile aflate atunci în stoc. Când un client a amânat achiziția, AKRO l-a avertizat că la lotul următor prețul se poate schimba și trebuie confirmat din nou. Altui client i-a păstrat prețul de anul trecut, cât timp producătorul nu anunțase scumpiri.",
+    "categorie": "08-Osmoza si filtrare pe membrane",
+    "cand": "AKRO ofertează membrane osmotice din stocul unui furnizor european.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "08-002144",
+          "rol": "membrana HSRO 390-FF, cu preț valabil pentru stocul curent"
+        },
+        {
+          "ref": "08-002193",
+          "rol": "membrana ESPA2 MAX 8040, cu preț legat de stocul curent sau păstrat de anul trecut"
+        }
+      ],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "preț valabil pentru stocul curent al furnizorului. La un lot următor prețul se poate schimba și se reconfirmă",
+        "prețul vechi se poate menține cât timp producătorul nu anunță majorări"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2112228",
+        "src": "m2149380",
+        "citat": "Pretul transmis este valid strict pentru stocul curent [ sunt 32 de bucati disponibile la acest moment]",
+        "pentru": "ofertă",
+        "nota": "prețul HSRO legat de cele 32 de bucăți din stoc"
+      },
+      {
+        "conv": "c2112484",
+        "src": "m2151620",
+        "citat": "In this case please take into consideration that the given price was for the current BELGIUM stocks!",
+        "pentru": "ofertă",
+        "nota": "clientul amână. AKRO avertizează că prețul ținea de stocul curent"
+      },
+      {
+        "conv": "c2122596",
+        "src": "m2122596",
+        "citat": "Pentru moment, putem mentine pretul de anul trecut pentru acest reper.",
+        "pentru": "ofertă",
+        "nota": "prețul se menține cât timp producătorul nu anunță majorări"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R08-15",
+    "titlu": "Membrane în cantitate mare: AKRO întreabă locul livrării și urgența, apoi verifică stocul european înainte de ofertă",
+    "explicatie": "Când clientul cere multe membrane deodată, de exemplu o sută de bucăți, și nu spune unde și când le vrea, AKRO întreabă întâi locul livrării și cât de urgent e. Apoi verifică disponibilitatea în depozitul european și abia după aceea trimite oferta. Aceasta a inclus livrarea până la fabrica clientului, plata integrală în avans și fișa tehnică a membranei, iar prețul a fost prezentat ca final, cu reducerea maximă deja aplicată.",
+    "categorie": "08-Osmoza si filtrare pe membrane",
+    "cand": "Clientul cere un lot foarte mare de membrane (o sută de bucăți) dintr-un model dat, fără termen sau loc de livrare.",
+    "clarificari": [
+      "Membranele se livrează la aceeași fabrică?",
+      "Care e termenul de livrare dorit, e urgent?"
+    ],
+    "oferta": {
+      "produse": [
+        {
+          "ref": "08-002193",
+          "rol": "modelul cerut, după confirmarea stocului în depozitul din Belgia"
+        }
+      ],
+      "servicii": [
+        "livrare inclusă până la fabrica clientului"
+      ],
+      "documente": [
+        "fișa tehnică a membranei, atașată la ofertă"
+      ],
+      "conditii": [
+        "stocul verificat în depozitul din Belgia înainte de ofertă. Livrare estimată în 10-14 zile de la comandă",
+        "plată 100% în avans",
+        "preț prezentat ca ofertă finală, cu reducerea maximă inclusă"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2112484",
+        "src": "m2149540",
+        "citat": "I need to check the availability of this in the European Stocks",
+        "pentru": "clarificare",
+        "nota": "AKRO verifică stocul european înainte de ofertă"
+      },
+      {
+        "conv": "c2112484",
+        "src": "m2149540",
+        "citat": "Are this membranes needed -in the same fabric in MEDGIDIA?",
+        "pentru": "clarificare",
+        "nota": "locul livrării"
+      },
+      {
+        "conv": "c2112484",
+        "src": "m2149540",
+        "citat": "What is the delivery time required?",
+        "pentru": "clarificare",
+        "nota": "urgența"
+      },
+      {
+        "conv": "c2112484",
+        "src": "m2149764",
+        "citat": "please find attached our best offer for the 100pieces ESPA 2 MAX 8040 –with delivery to MEDGIDIA included",
+        "pentru": "ofertă",
+        "nota": "ofertă cu livrarea inclusă până la fabrică"
+      },
+      {
+        "conv": "c2112484",
+        "src": "m2149764",
+        "citat": "this amount of membranes are available at this moment in the BELGIUM warehouse",
+        "pentru": "ofertă",
+        "nota": "cele 100 de membrane sunt confirmate în depozitul din Belgia"
+      },
+      {
+        "conv": "c2112484",
+        "src": "m2149764",
+        "citat": "At this moment we have an estimated delivery term of 10-14 days from order.",
+        "pentru": "ofertă",
+        "nota": "termenul de livrare estimat"
+      },
+      {
+        "conv": "c2112484",
+        "src": "m2149764",
+        "citat": "Kindly note that we have already included our maximum possible discount",
+        "pentru": "ofertă",
+        "nota": "prețul e prezentat ca final, cu reducerea maximă"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R08-16",
+    "titlu": "Piese sau mentenanță pentru o osmoză existentă neidentificată: AKRO cere producătorul, fotografii cu plăcuțele și modelul exact",
+    "explicatie": "Dacă clientul vrea o piesă sau o mentenanță pentru o stație de osmoză existentă, iar din cerere nu se vede exact ce echipament are, AKRO nu ofertează până nu îl identifică. Cere numele producătorului și fotografii cu plăcuțele pompei, ale stațiilor de osmoză și ale modulelor montate după ele. La membrane vrea modelul montat, ca să poată aduce fie originalul, fie un echivalent.",
+    "categorie": "08-Osmoza si filtrare pe membrane",
+    "cand": "Clientul cere o piesă (de exemplu pompa de înaltă presiune) sau mentenanța unei osmoze existente, iar din cerere AKRO nu poate identifica exact echipamentul.",
+    "clarificari": [
+      "Cine este producătorul pompei sau al stației?",
+      "Fotografii cu plăcuța motorului și cu plăcuța hidraulică a pompei",
+      "Fotografii de ansamblu cu liniile de tratare și cu plăcuțele stațiilor de osmoză și ale modulelor EDI",
+      "Din ce an sunt montate liniile și ce mentenanță s-a făcut până acum?",
+      "Ce model de membrane e montat (pentru original sau echivalent)?"
+    ],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": []
+    },
+    "dovezi": [
+      {
+        "conv": "c2157572",
+        "src": "m2157572",
+        "citat": "Regarding the high pressure pump, we also might have it available in our portfolio",
+        "pentru": "clarificare",
+        "nota": "pompa din cerere se ofertează doar după identificare. Membranele se ofertează direct"
+      },
+      {
+        "conv": "c2157572",
+        "src": "m2157572",
+        "citat": "Photograph with the hydraulic label [ pump head]",
+        "pentru": "clarificare",
+        "nota": "fotografii cu plăcuțele pompei"
+      },
+      {
+        "conv": "c2156036",
+        "src": "m2156036",
+        "citat": "ne-ar ajuta fotografii cu placutele statiilor de osmoza respectiv a modulelor EDI",
+        "pentru": "clarificare",
+        "nota": "mentenanța stațiilor Herco: identificarea modelului din fotografii"
+      },
+      {
+        "conv": "c2156036",
+        "src": "m2156036",
+        "citat": "trebuie sa stim exact modelul din instalatie in ideea de a veni ori cu originalul ori cu echivalent",
+        "pentru": "clarificare",
+        "nota": "modelul membranelor pentru original sau echivalent"
+      }
+    ],
+    "contradictii": []
+  },
+  {
+    "cod": "R08-17",
+    "titlu": "Cerere internă de la Spectra: AKRO trimite fluxul cu prețuri nete pe echipament, iar Spectra își pune adaosul",
+    "explicatie": "Când o colegă de la Spectra, firmă din același grup, cere o soluție de tratare pentru clientul ei, AKRO nu face ofertă oficială. Îi trimite fluxul cu prețul net de achiziție pentru fiecare echipament, iar Spectra își pune singură adaosul. Transportul, montajul și punerea în funcțiune le calculează tot Spectra.",
+    "categorie": "08-Osmoza si filtrare pe membrane",
+    "cand": "O colegă de la Spectra (firmă din grup) cere recomandarea unei soluții complete de tratare pentru clientul ei.",
+    "clarificari": [],
+    "oferta": {
+      "produse": [],
+      "servicii": [],
+      "documente": [],
+      "conditii": [
+        "prețuri nete de achiziție pe fiecare echipament, în email, fără ofertă Odoo",
+        "transportul, montajul și PIF-ul le calculează Spectra, care își pune și adaosul"
+      ]
+    },
+    "dovezi": [
+      {
+        "conv": "c2111076",
+        "src": "m2111076",
+        "citat": "Poti te rog sa imi recomanzi o solutie completa de tratare a apei pentru un client.",
+        "pentru": "cerere",
+        "nota": "cererea vine de la Spectra pentru clientul ei"
+      },
+      {
+        "conv": "c2111076",
+        "src": "m2147748",
+        "citat": "Adaos iti pui cum consideri.",
+        "pentru": "ofertă",
+        "nota": "AKRO dă prețuri nete. Adaosul îl stabilește Spectra"
+      }
+    ],
+    "contradictii": []
+  }
+]

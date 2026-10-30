@@ -1,0 +1,131 @@
+
+####################################################################################################
+OFERTA S02728 | client: HVAC PRO INSTAL S.R.L. | trimisă: 2026-08-27 09:53 | Odoo: Comandă de vânzare | conversații: c2152612 (nr. 350)
+
+####################################################################################################
+RÂND c2152612 (nr. 350) | stare: Completă | categorie: 13-Filtre multistrat diferite medii | cerere: Dedurizator galvanic IPS KalyxX BlueLine
+CERINȚA: Cere ofertă pentru un dedurizator galvanic IPS KalyxX BlueLine. [m2152612] «Rog oferta dedurizator galvanic IPS KalyxX BlueLine»
+CERINȚĂ FINALĂ (racord): 1 inch (ofertat inițial la 3/4 inch) [m2156932] «revin cu factura proforma pentru dedurizatorul de 1”»
+CERINȚĂ FINALĂ (loc livrare): Strada Partizanilor nr. 108B, Cluj-Napoca [m2120324] «Strada Partizanilor, Nr. 108B, Cluj-Napoca»
+CLARIFICARE: întrebare - → răspuns După discuția telefonică, AKRO trimite proforma pentru dedurizatorul de 1 inch. [m2156932] «Conform discutiei telefonice, revin cu factura proforma pentru dedurizatorul de 1”» | schimbare: Racordul s-a schimbat de la 3/4 inch (oferta S02728) la 1 inch.
+TELEFON: Oferta a fost trimisă după o discuție telefonică. [m2152612] «Conform discutiei telefonice, va rog sa regasiti anexata oferta de pret pentru un dedurizator galvanic Blue Line»
+TELEFON: Telefonic s-a stabilit proforma pentru dedurizatorul de 1 inch. [m2156932] «Conform discutiei telefonice, revin cu factura proforma pentru dedurizatorul de 1”»
+REZULTAT: acceptată — Clientul cere proforma pentru plată; AKRO mulțumește pentru comandă. [m2120324] «Puteți va rog sa ne trimiteți o proforma sau factura de avans pentru a achita produsul.»
+PREȚURI Ofertă S02728 v1 (2026-08-27), total 760.82 RON:
+  [13-001107] Dedurizator galvanic IPS KalyxX BlueLine G3/4" Termen livrare: 5 zile | 1.0 buc × 600.78 RON | referință
+  [16-003005] Livrare si ambalare | 1.0 buc × 28.0 RON | referință
+  termen: Modul de livrare: In sarcina Akro
+  termen: Termen de plata: 100% in avans
+PREȚURI Factură proformă S02728 v1 (2026-09-10), total 760.82 RON:
+  [13-001107] Dedurizator galvanic IPS KalyxX BlueLine G3/4" | 1.0 buc × 600.78 RON | referință
+  [16-003005] Livrare si ambalare | 1.0 buc × 28.0 RON | referință
+  termen: Termen de plata: 100% in avans Valoare fără taxe 628,78 RON
+  termen: Modul de livrare: In sarcina Akro
+PREȚURI Factură proformă S02728 v2 (2026-09-10), total 954.9 RON:
+  [13-001108] Dedurizator galvanic IPS KalyxX BlueLine G1" | 1.0 buc × 761.17 RON | referință
+  [16-003005] Livrare si ambalare | 1.0 buc × 28.0 RON | referință
+  termen: Termen de plata: 100% in avans Valoare fără taxe 789,17 RON
+  termen: Modul de livrare: In sarcina Akro
+VÂNDUTĂ 2026-08-27 09:53 | lanț: fără comandă | lipsește: ['nicio comandă către furnizor nu e legată sigur (în Odoo sau în PDF-ul comenzii) de această vânzare']
+
+====================================================================================================
+CONVERSAȚIA c2152612 (nr. 350) | subiect: RE: AKRO :: Cerere oferta
+Partener (după adrese): hvacproinstal@gmail.com HVAC Pro Instal | grupare nesigură: nu
+OFERTĂ S02728 v1 trimisă 2026-08-27 09:53 în m2152612 (Odoo: Comandă de vânzare): [13-001107] Dedurizator galvanic IPS KalyxX BlueLine G3/4" Termen livrare: 5 zile x1.0 buc; [16-003005] Livrare si ambalare x1.0 buc
+OFERTĂ S02728 v1 trimisă 2026-09-10 14:20 în m2156900 (Odoo: Comandă de vânzare): [13-001107] Dedurizator galvanic IPS KalyxX BlueLine G3/4" x1.0 buc; [16-003005] Livrare si ambalare x1.0 buc
+OFERTĂ S02728 v2 trimisă 2026-09-10 14:31 în m2156932 (Odoo: Comandă de vânzare): [13-001108] Dedurizator galvanic IPS KalyxX BlueLine G1" x1.0 buc; [16-003005] Livrare si ambalare x1.0 buc
+
+--- MESAJ m2152612 | 2026-08-27 09:53 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: hvacproinstal@gmail.com <hvacproinstal@gmail.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: AKRO :: Cerere oferta
+Buna ziua,
+
+Va multumim pentru solicitarea dumneavoastra!
+
+Conform discutiei telefonice, va rog sa regasiti anexata oferta de pret pentru un dedurizator galvanic Blue Line – de ľ”
+
+Produsul este in stoc si putem organiza livrarea in termen de maxim 1-2 zile din momentul comenzii si transmiterii confirmarii de comanda.
+
+Asteptam cu interes raspunsul dumneavoastra!
+
+O zi cu spor!
+
+Numai bine,
+[CITAT DIN MESAJE ANTERIOARE / REDIRECȚIONATE]
+From: Akro <office@akro.ro>
+Sent: Wednesday, August 26, 2026 6:01 PM
+To: sales@akro.ro
+Subject: AKRO :: Cerere oferta
+
+O noua cerere a fost trimisa de pe site:
+
+Denumire produs: Dedurizator galvanic IPS KalyxX
+Link produs: https://akro.ro/produse/produs/dedurizator-galvanic-ips-kalyxx/
+
+Nume: HVAC PRO INSTAL
+Prenume: SRL
+Adresa de email: hvacproinstal@gmail.com
+Numar de telefon: 0742756000
+Cantitate: 1
+Companie: HVAC PRO INSTAL SRL
+Mesaj: Buna ziu. Rog oferta dedurizator galvanic IPS KalyxX BlueLine
+
+UTM Parameters: {"utm_campaign":"","utm_source":"","utm_medium":"","utm_term":"","utm_content":"","gclid":"","gad_source":"","gad_campaignid":"","gbraid":""}
+
+Akro © 2026
+[ATAȘAMENT: Oferta - S02728 - HVAC PRO INSTAL - 27.08.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2120324 | 2026-09-10 14:15 | Inbox | EXTERN
+De la: HVAC Pro Instal <hvacproinstal@gmail.com>
+Către: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: Re: AKRO :: Cerere oferta
+Buna ziua,
+
+Puteți va rog sa ne trimiteți o proforma sau factura de avans pentru a achita produsul.
+
+Datele firmei:
+
+SC HVAC PRO INSTAL SRL
+
+CUI: 40963328
+
+Adresă livrare:
+
+Strada Partizanilor, Nr. 108B, Cluj-Napoca
+
+Contact: Andrei - 0742 754 167
+
+Mulțumesc!
+
+--- MESAJ m2156900 | 2026-09-10 14:20 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: HVAC Pro Instal <hvacproinstal@gmail.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: AKRO :: Cerere oferta
+Buna ziua,
+
+Va multumim pentru comanda!
+
+Va rog sa regasiti anexata factura proforma pentru produsul solicitat.
+
+De indata ce ne trimiteti confirmarea de plata, organizam transportul la adresa indicata – in atentia D-ului Andrei.
+
+Numai bine,
+[ATAȘAMENT: Factură proforma HVAC PRO INSTAL - 10.09.2026.pdf | ofertă Odoo, parsată mai sus]
+
+--- MESAJ m2156932 | 2026-09-10 14:31 | Sent Items | AKRO
+De la: AKRO Romania , Alexandru Soare <alexandru.soare@akro.ro>
+Către: HVAC Pro Instal <hvacproinstal@gmail.com>
+Cc: office@akro.ro, andrei.dobrei@akro.ro
+Subiect: RE: AKRO :: Cerere oferta
+Buna ziua,
+
+Conform discutiei telefonice, revin cu factura proforma pentru dedurizatorul de 1”
+
+Asteptam confirmarea de plata !
+
+Cu respect,
+[ATAȘAMENT: Factura proforma - HVAC PRO INSTAL - kalyx 1 - 10.09.2026.pdf | ofertă Odoo, parsată mai sus]

@@ -1,0 +1,603 @@
+﻿Secțiune;Element;Număr;Detalii;Conversații
+Mesaje citite din PST;Deleted Items;13;;
+Mesaje citite din PST;Deleted Items/Spam;3;;
+Mesaje citite din PST;Inbox;1131;;
+Mesaje citite din PST;Sent Items;1058;;
+Mesaje citite din PST;Total;2205;;
+Mesaje excluse;newsletter sau mesaj automat, fără răspuns de la AKRO;73;;
+Mesaje excluse;răspuns automat (de ex. plecat din birou);41;;
+Mesaje excluse;emailul nu a ajuns (notificare automată);10;;
+Mesaje excluse;spam;4;;
+Mesaje excluse;invitație de calendar;2;;
+Mesaje în conversații;Total;2075;în 660 conversații;
+Control;în conversații + excluse = citite;2205;"2075 + 130 = 2205; citite: 2205 -> corect";
+Înregistrări pe stare;Completă;150;în 143 conversații;5, 7, 8, 15.2, 27, 30, 31, 46, 47, 51, 53, 55.1, 56, 57, 65, 67, 69, 73, 80, 81, 82.1, 83, 84, 86, 97, 103, 104, 112, 113, 114, 121.1, 131, 137, 138, 140.1, 142, 146.1, 149, 153, 154, 157.1, 157.2, 162, 169, 171, 173, 176, 187, 188, 200, 204, 206, 207, 210, 216, 219, 226.1, 226.2, 234, 242, 248, 249, 251, 257, 261, 263, 272, 278, 280, 281, 284, 292, 296, 301, 305, 310, 320, 326, 328, 331.1, 334, 336, 338, 339.1, 339.2, 345, 347, 350, 363, 372, 374, 375, 376, 377, 378, 379, 383, 386, 394, 395, 397, 400, 404, 407, 415, 426, 428, 438, 453.1, 454, 458.1, 459, 469, 470, 471, 472, 482, 509, 510, 512, 516, 526, 527, 533, 545, 556.2, 556.1, 556.3, 560, 563, 565, 569, 571, 575, 580, 585, 586, 589, 595, 601, 606.3, 606.2, 606.1, 608, 613, 614, 619.1, 632, 646, 649
+Înregistrări pe stare;Fără ofertă;83;în 73 conversații;6, 14, 15.1, 16, 34, 37, 40, 41, 54, 68.1, 68.2, 72, 82.2, 85, 94, 96, 100, 102, 105, 107, 109, 115, 121.2, 124, 133, 140.2, 146.2, 156, 164, 168, 170, 172.2, 172.1, 178.2, 178.1, 180, 191.2, 197.3, 197.1, 197.2, 215, 232, 266, 283.1, 283.2, 288, 303, 316, 331.2, 332, 333, 337, 391, 393, 424, 425.1, 425.2, 435, 451, 453.2, 457, 473, 475, 486, 494, 508, 521, 532, 536, 539, 541, 561, 593, 596, 602, 606.4, 612.1, 612.2, 631, 643.2, 643.1, 647.1, 647.2
+Înregistrări pe stare;Fără cerință clară;37;în 31 conversații;4, 25, 75.2, 95, 150, 194, 196, 201, 238.1, 238.2, 277, 299, 306.3, 306.4, 306.1, 306.2, 321, 365, 380, 381, 382, 398, 432.2, 432.1, 442, 453.3, 458.2, 501, 523, 544, 605, 607, 619.2, 619.3, 620, 621, 630
+Înregistrări pe stare;După vânzare;53;în 51 conversații;1, 17, 18, 19, 21, 23, 26, 33, 50, 55.3, 55.2, 75.1, 93, 117, 132, 148.1, 148.2, 181, 186, 191.1, 192, 199, 230, 245, 247, 254, 259, 271, 273, 276, 279, 302, 313, 330, 331.3, 351, 352, 384, 389, 403, 431, 446, 483, 568, 579, 588, 603, 629, 637, 638, 642, 658, 660
+Înregistrări pe stare;Nu e cerere de ofertă;377;în 377 conversații;2, 3, 9, 10, 11, 12, 13, 20, 22, 24, 28, 29, 32, 35, 36, 38, 39, 42, 43, 44, 45, 48, 49, 52, 58, 59, 60, 61, 62, 63, 64, 66, 70, 71, 74, 76, 77, 78, 79, 87, 88, 89, 90, 91, 92, 98, 99, 101, 106, 108, 110, 111, 116, 118, 119, 120, 122, 123, 125, 126, 127, 128, 129, 130, 134, 135, 136, 139, 141, 143, 144, 145, 147, 151, 152, 155, 158, 159, 160, 161, 163, 165, 166, 167, 174, 175, 177, 179, 182, 183, 184, 185, 189, 190, 193, 195, 198, 202, 203, 205, 208, 209, 211, 212, 213, 214, 217, 218, 220, 221, 222, 223, 224, 225, 227, 228, 229, 231, 233, 235, 236, 237, 239, 240, 241, 243, 244, 246, 250, 252, 253, 255, 256, 258, 260, 262, 264, 265, 267, 268, 269, 270, 274, 275, 282, 285, 286, 287, 289, 290, 291, 293, 294, 295, 297, 298, 300, 304, 307, 308, 309, 311, 312, 314, 315, 317, 318, 319, 322, 323, 324, 325, 327, 329, 335, 340, 341, 342, 343, 344, 346, 348, 349, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 364, 366, 367, 368, 369, 370, 371, 373, 385, 387, 388, 390, 392, 396, 399, 401, 402, 405, 406, 408, 409, 410, 411, 412, 413, 414, 416, 417, 418, 419, 420, 421, 422, 423, 427, 429, 430, 433, 434, 436, 437, 439, 440, 441, 443, 444, 445, 447, 448, 449, 450, 452, 455, 456, 460, 461, 462, 463, 464, 465, 466, 467, 468, 474, 476, 477, 478, 479, 480, 481, 484, 485, 487, 488, 489, 490, 491, 492, 493, 495, 496, 497, 498, 499, 500, 502, 503, 504, 505, 506, 507, 511, 513, 514, 515, 517, 518, 519, 520, 522, 524, 525, 528, 529, 530, 531, 534, 535, 537, 538, 540, 542, 543, 546, 547, 548, 549, 550, 551, 552, 553, 554, 555, 557, 558, 559, 562, 564, 566, 567, 570, 572, 573, 574, 576, 577, 578, 581, 582, 583, 584, 587, 590, 591, 592, 594, 597, 598, 599, 600, 604, 609, 610, 611, 615, 616, 617, 618, 622, 623, 624, 625, 626, 627, 628, 633, 634, 635, 636, 639, 640, 641, 644, 645, 648, 650, 651, 652, 653, 654, 655, 656, 657, 659
+Înregistrări pe stare;Client neidentificat;3;în 3 conversații;249, 443, 549
+Înregistrări pe stare;Grupare nesigură;118;în 111 conversații;2, 10, 21, 36, 43, 48, 52, 55.2, 55.1, 55.3, 57, 63, 66, 70, 76, 77, 79, 92, 107, 110, 111, 120, 123, 125, 143, 145, 147, 148.2, 148.1, 152, 159, 163, 165, 173, 174, 177, 184, 185, 190, 191.2, 191.1, 193, 195, 196, 199, 204, 205, 208, 223, 231, 236, 245, 252, 256, 265, 275, 293, 295, 308, 317, 322, 327, 335, 341, 344, 349, 357, 362, 399, 401, 418, 422, 425.1, 425.2, 427, 431, 436, 440, 441, 447, 449, 453.2, 453.3, 453.1, 456, 472, 483, 484, 491, 492, 493, 496, 517, 518, 520, 523, 528, 530, 534, 538, 542, 564, 581, 584, 588, 591, 594, 609, 615, 618, 621, 623, 624, 640, 641, 650, 651, 660
+Conversații pe tip;Client;283;;
+Conversații pe tip;Furnizor (AKRO cumpără);293;;
+Conversații pe tip;Discuție internă AKRO;20;;
+Conversații pe tip;Reclamă sau ofertă nesolicitată;32;;
+Conversații pe tip;Altele;32;;
+Conversații pe tip;Total conversații / înregistrări;660;700 înregistrări (o conversație cu cereri diferite are câte o înregistrare pe cerere);
+Produse ofertate în afara nomenclatorului;Displacement to the beneficiary, asembly of the unit and comissioning;2;Linia nu are cod și niciun produs din nomenclator nu are un nume apropiat.;194
+Produse ofertate în afara nomenclatorului;Materials + manwork - mounting system [ we have calculated this services considering a max hydraulic circuit of 2m in each side inlet/outlet +2 manual valves - and a max circuit of backwash of 5m from the softener to the drainage;2;Linia nu are cod și niciun produs din nomenclator nu are un nume apropiat.;194
+Produse ofertate în afara nomenclatorului;"Cartus filtrant 10 microni 5"" - pachet de 10 bucati";2;Linia nu are cod și niciun produs din nomenclator nu are un nume apropiat.;510, 526
+Produse ofertate în afara nomenclatorului;Schimb rasina demineralizare x 2 butelii standard;1;Linia nu are cod și niciun produs din nomenclator nu are un nume apropiat.;55
+Produse ofertate în afara nomenclatorului;Schimb rasina demineralizare x 1 butelie P42;1;Linia nu are cod și niciun produs din nomenclator nu are un nume apropiat.;55
+Produse ofertate în afara nomenclatorului;"DEC 350 - Dedurizator cu 350L rasina - simplex, Vana Clack 2"" CI , coloana 24x72, vas saramura 750L";1;Linia nu are cod și niciun produs din nomenclator nu are un nume apropiat.;73
+Produse ofertate în afara nomenclatorului;Mentenanta - filtru cu tank 10 x 44 , 2 x statii dedurizare Twin + statie de osmoza Aquatech 6 membrane - 4040.;1;Linia nu are cod și niciun produs din nomenclator nu are un nume apropiat.;142
+Produse ofertate în afara nomenclatorului;"Masa filtranta, vana de comanda Clack CI 1.5"" si componente interne noi pentru reabilitare Filtru Nobel FCV 07/T [ din vechiul filtru se va pastra strict coloana de presiune]";1;Linia nu are cod și niciun produs din nomenclator nu are un nume apropiat.;321
+Produse ofertate în afara nomenclatorului;"Masa filtranta, vana de comanda Clack TT 1"" si componente interne noi pentru reabilitare Statie dedurizare AS 450/V [ din vechea statie se vor pastra strict coloanele de presiune si tankul de saramura] - dar va fi incarcata cu ECOMIX";1;Linia nu are cod și niciun produs din nomenclator nu are un nume apropiat.;321
+Produse ofertate în afara nomenclatorului;Baterie filtrare compusa din 3 x Filtre Skid 4872 FRP cu 1000L carbune Sorbotech LGCO100 /fiecare;1;Linia nu are cod și niciun produs din nomenclator nu are un nume apropiat.;330
+Produse ofertate în afara nomenclatorului;Interventie schimb membrane osmoza;1;Linia nu are cod și niciun produs din nomenclator nu are un nume apropiat.;431
+Produse ofertate în afara nomenclatorului;"Cartus filtrant 5 microni 5"" - pachet de 10 bucati";1;Linia nu are cod și niciun produs din nomenclator nu are un nume apropiat.;510
+Produse ofertate în afara nomenclatorului;"Filtru - 50L - cu rasina AQUA AS - Vana clack CI -time - 1""";1;Linia nu are cod și niciun produs din nomenclator nu are un nume apropiat.;565
+Potriviri cu nomenclatorul de confirmat;"Cartus filtrant 50 microni 5"" - pachet de 10 bucati";1;"-> [01-010258] Cartus filtrant PRD050TX19, 50"", 50 microni (Produsul cu numele cel mai apropiat (50% din cuvinte comune).)";526
+Linii de serviciu legate după nume de produse service (de confirmat);Reducere: 15.00%;12;-> [] Reducere;53, 306, 321, 375, 432, 438, 533, 556, 601
+Linii de serviciu legate după nume de produse service (de confirmat);Reducere: 8.00%;8;-> [] Reducere;84, 238, 397, 398
+Linii de serviciu legate după nume de produse service (de confirmat);Reducere: 13.00%;5;-> [] Reducere;148, 210
+Linii de serviciu legate după nume de produse service (de confirmat);Inlocuire masa filtranta - 6 x Butelie 25 L Mixed Bed - manopera inclusa;4;-> [16-001004] MANOPERA PENTRU MONTAJ HIDRAULIC - robineti, fittinguri, tevi;86, 263, 400, 563
+Linii de serviciu legate după nume de produse service (de confirmat);Reducere: 10.00%;4;-> [] Reducere;114, 173, 210, 569
+Linii de serviciu legate după nume de produse service (de confirmat);Reducere: 7.00%;3;-> [] Reducere;113, 153, 407
+Linii de serviciu legate după nume de produse service (de confirmat);REDUCERE Reducere: 15.00%;2;-> [] Reducere;5, 321
+Linii de serviciu legate după nume de produse service (de confirmat);Deplasare la beneficiar, transport echipamente, inlocuire membrane osmotice, PIF;2;-> [16-002001] Deplasare la beneficiar o persoana + diurna;25
+Linii de serviciu legate după nume de produse service (de confirmat);Deplasare la beneficiar, manopera de inlocuire membrane in cadrul instalatiei de osmoza mici [ 11 buc x 4040 ], reglare instalatie;2;-> [16-002001] Deplasare la beneficiar o persoana + diurna;46, 131
+Linii de serviciu legate după nume de produse service (de confirmat);Deplasare la beneficiar, transport masa filtranta, inlocuire masa filtranta, inlocuire crepine, incarcare masa noua;2;-> [16-002001] Deplasare la beneficiar o persoana + diurna;257, 310
+Linii de serviciu legate după nume de produse service (de confirmat);Deplasare la beneficiar - Verificare instalatie de clorinare + filtre, operatiune de mentenanta - constatare;2;-> [16-002001] Deplasare la beneficiar o persoana + diurna;331
+Linii de serviciu legate după nume de produse service (de confirmat);Deplasare la beneficiar - interventie de mentenanta la statia de tratare apa - PUT 1/2/3/ si recirculare apa;2;-> [16-002001] Deplasare la beneficiar o persoana + diurna;383
+Linii de serviciu legate după nume de produse service (de confirmat);Deplasare la beneficiar, constatare tehnica, curatare sistem de aspiratie saramura, verificare vana si setari, reglaje si teste;2;-> [16-002001] Deplasare la beneficiar o persoana + diurna;428
+Linii de serviciu legate după nume de produse service (de confirmat);Reducere: 3.00%;2;-> [] Reducere;510, 526
+Linii de serviciu legate după nume de produse service (de confirmat);Deplasare - golire si inlocuire mase filtrante in instalatie;2;-> [16-002001] Deplasare la beneficiar o persoana + diurna;605, 629
+Linii de serviciu legate după nume de produse service (de confirmat);Reducere: 9.00%;2;-> [] Reducere;660
+Linii de serviciu legate după nume de produse service (de confirmat);Transport echipamente, asamblare pe locatie, mutare automatizare, materiale si manopera de montaj , PIF, teste functionale.;1;-> [16-001015] MATERIALE PENTRU MONTAJ;21
+Linii de serviciu legate după nume de produse service (de confirmat);Inlocuire rasina in 2 x butelie P42 - masa filtranta + manopera;1;-> [16-001004] MANOPERA PENTRU MONTAJ HIDRAULIC - robineti, fittinguri, tevi;55
+Linii de serviciu legate după nume de produse service (de confirmat);Inlocuire rasina in 1 x butelie P42 - masa filtranta + manopera;1;-> [16-001004] MANOPERA PENTRU MONTAJ HIDRAULIC - robineti, fittinguri, tevi;55
+Linii de serviciu legate după nume de produse service (de confirmat);Reducere: 5.00% Eficientizare transport;1;-> [] Reducere;69
+Linii de serviciu legate după nume de produse service (de confirmat);Interventie de montaj pompa dozatoare, PIF;1;-> [16-001015] MATERIALE PENTRU MONTAJ;75
+Linii de serviciu legate după nume de produse service (de confirmat);Deplasare la beneficiar, transport mase filtrante, manopera de inlocuire masa filtranta, PIF.;1;-> [16-002001] Deplasare la beneficiar o persoana + diurna;80
+Linii de serviciu legate după nume de produse service (de confirmat);Deplasare la beneficiar, interventie de mentenanta verificare instalatie Filtru nobel + dedurizare clack;1;-> [16-002001] Deplasare la beneficiar o persoana + diurna;103
+Linii de serviciu legate după nume de produse service (de confirmat);Masa filtranta + manopera de inlocuire masa in cadrul filtrului existent;1;-> [16-001004] MANOPERA PENTRU MONTAJ HIDRAULIC - robineti, fittinguri, tevi;103
+Linii de serviciu legate după nume de produse service (de confirmat);Deplasare la beneficiar, asablare si PIF filtru, materiale de montaj [PVC] si adaptare la reteaua de apa cu By-pass;1;-> [16-001015] MATERIALE PENTRU MONTAJ;103
+Linii de serviciu legate după nume de produse service (de confirmat);Deplasare la beneficiar, manopera de inlocuire masa filtranta dedurizator , verificare statie si PIF;1;-> [16-002001] Deplasare la beneficiar o persoana + diurna;148
+Linii de serviciu legate după nume de produse service (de confirmat);O singura deplasare la beneficiar, materiale de montaj, manopera de montaj si PIF - in cadrul Containerului, manopera de inlocuire masa filtranta in dedurizator vechi;1;-> [16-001015] MATERIALE PENTRU MONTAJ;148
+Linii de serviciu legate după nume de produse service (de confirmat);Deplasare la beneficiar, inlocuire piese - verificare instalatie;1;-> [16-002001] Deplasare la beneficiar o persoana + diurna;150
+Linii de serviciu legate după nume de produse service (de confirmat);Deplasare la beneficiar, interventie de mentenanta - curatare - Statie dedurizare FRASINU;1;-> [16-002001] Deplasare la beneficiar o persoana + diurna;191
+Linii de serviciu legate după nume de produse service (de confirmat);Plăți în avans Avans(ref: AKF 260469pe 07.08.2026);1;-> [] Avans;207
+Linii de serviciu legate după nume de produse service (de confirmat);Manopera de inlocuire rasina;1;-> [16-001004] MANOPERA PENTRU MONTAJ HIDRAULIC - robineti, fittinguri, tevi;216
+Linii de serviciu legate după nume de produse service (de confirmat);Deplasare la beneficiar, transport echipamente, inlocuire masa filtranta si componente din statia de dedurizare;1;-> [16-002001] Deplasare la beneficiar o persoana + diurna;234
+Linii de serviciu legate după nume de produse service (de confirmat);Deplasare la beneficiar, constatare, verificare sistem - repunere in functiune;1;-> [16-002001] Deplasare la beneficiar o persoana + diurna;261
+Linii de serviciu legate după nume de produse service (de confirmat);Deplasare la beneficiar, materiale si manopera de montaj;1;-> [16-001015] MATERIALE PENTRU MONTAJ;306
+Linii de serviciu legate după nume de produse service (de confirmat);Deplasari echipe service, transport echipamente, Automatizare - senzor de nivel cu vana de comanda electrica pentru inchidere circuit de apa - la nivel maxim bazin 500mc, Punere in functiune grup pompare si filtre;1;-> [16-001010] MANOPERA PENTRU SERVICE SI PIF - LA SISTEME DE TRATARE APA;330
+Linii de serviciu legate după nume de produse service (de confirmat);Livrare materiale, inlocuire masa filtranta si contor, reparametrizare - PIF;1;-> [16-001015] MATERIALE PENTRU MONTAJ;331
+Linii de serviciu legate după nume de produse service (de confirmat);Transport marfa;1;-> [16-003006] Transport extern de la furnizor;363
+Linii de serviciu legate după nume de produse service (de confirmat);Deplasare la beneficiar - Popesti Leordeni, asamblare statie pe pozitie, incarcare cu rasina si PIF;1;-> [16-002001] Deplasare la beneficiar o persoana + diurna;375
+Linii de serviciu legate după nume de produse service (de confirmat);Service mentenanta constatare tehnica - locatie 1 - Statie dedurizare mobila - JUDO JMBH-2;1;-> [16-001011] Constatare si analiza tehnica.Proiectare;378
+Linii de serviciu legate după nume de produse service (de confirmat);Service mentenanta constatare tehnica - locatie 2 - Statie dedurizare simplex CLACK - tank 14x52;1;-> [16-001011] Constatare si analiza tehnica.Proiectare;378
+Linii de serviciu legate după nume de produse service (de confirmat);Service mentenanta constatare tehnica - locatie 3 - Statie tratare apa cu filtru carbune Clack 10x54, cu statie dedurizare twin Clack - 10x44, osmoza AQUATECH - 4 membrane x 4040;1;-> [16-001010] MANOPERA PENTRU SERVICE SI PIF - LA SISTEME DE TRATARE APA;378
+Linii de serviciu legate după nume de produse service (de confirmat);Deplasare la beneficiar, inlocuire masa filtranta in cele doua filtre - repunere in functiune;1;-> [16-002001] Deplasare la beneficiar o persoana + diurna;380
+Linii de serviciu legate după nume de produse service (de confirmat);Reducere: 20.00%;1;-> [] Reducere;382
+Linii de serviciu legate după nume de produse service (de confirmat);REDUCERE Reducere: 7.00%;1;-> [] Reducere;394
+Linii de serviciu legate după nume de produse service (de confirmat);Deplasare la beneficiar - verificare instalatie de dedurizare - teste functionale - rezolvare problema E102;1;-> [16-002001] Deplasare la beneficiar o persoana + diurna;575
+Linii de serviciu legate după nume de produse service (de confirmat);Estimare materiale + manopera de PIF si Montaj - in cadrul camerei tehnice de 6x8m;1;-> [16-001015] MATERIALE PENTRU MONTAJ;580
+Linii de serviciu legate după nume de produse service (de confirmat);Piese si manopera de schimb - reparatie GENERATOR OZON GP-60 [ GY072S12TW0027];1;-> [16-001016] Service generator ozon seria SMA 700;588
+Atașamente care nu se pot citi;EU Declaration of Conformity SUF Series.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2143684 2026-07-30 12:13";1
+Atașamente care nu se pot citi;IWF-80A-DN80.PNG;;"imagine, nu se citește automat; mesaj m2134308 2026-07-01 11:56";5
+Atașamente care nu se pot citi;BS 4272GT- 111.PNG;;"imagine, nu se citește automat; mesaj m2134308 2026-07-01 11:56";5
+Atașamente care nu se pot citi;BS-4272AT-111.PNG;;"imagine, nu se citește automat; mesaj m2134308 2026-07-01 11:56";5
+Atașamente care nu se pot citi;2.0.F22 - Proces Verbal de punere in functiune - COCA COLA - 24.06.2026.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2134692 2026-07-02 10:14";17
+Atașamente care nu se pot citi;WhatsApp Image 2026-07-02 at 09.19.04 (1).jpeg;;"imagine, nu se citește automat; mesaj m2134756 2026-07-02 10:18";17
+Atașamente care nu se pot citi;WhatsApp Image 2026-07-02 at 09.19.04.jpeg;;"imagine, nu se citește automat; mesaj m2134756 2026-07-02 10:18";17
+Atașamente care nu se pot citi;20260706_082441.jpg;;"imagine, nu se citește automat; mesaj m2099268 2026-07-07 11:32";17
+Atașamente care nu se pot citi;20260706_082445.jpg;;"imagine, nu se citește automat; mesaj m2099268 2026-07-07 11:32";17
+Atașamente care nu se pot citi;Oferta ST OARTA - Akro.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2134724 2026-07-02 10:16";18
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - Comuna CRIZBAV - 02.07.2026 - 1.jpeg;;"imagine, nu se citește automat; mesaj m2134788 2026-07-02 10:23";19
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - Comuna CRIZBAV - 02.07.2026 - 2.jpeg;;"imagine, nu se citește automat; mesaj m2134788 2026-07-02 10:23";19
+Atașamente care nu se pot citi;Contract 97 - PRIMARIA SOARS - semnat - 21.07.2026.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2139012 2026-07-21 08:48";21
+Atașamente care nu se pot citi;1125_-940218160924_001.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2135044 2026-07-02 15:25";26
+Atașamente care nu se pot citi;02.Parte desenata.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2135108 2026-07-03 10:01";31
+Atașamente care nu se pot citi;Detalii transport - US.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2155172 2026-09-04 09:25";33
+Atașamente care nu se pot citi;WhatsApp Image 2026-07-03 at 12.02.32.jpeg;;"imagine, nu se citește automat; mesaj m2135268 2026-07-03 12:22";35
+Atașamente care nu se pot citi;WhatsApp Image 2026-07-03 at 12.02.32 (1).jpeg;;"imagine, nu se citește automat; mesaj m2135268 2026-07-03 12:22";35
+Atașamente care nu se pot citi;WhatsApp Image 2026-07-03 at 12.02.32 (2).jpeg;;"imagine, nu se citește automat; mesaj m2135268 2026-07-03 12:22";35
+Atașamente care nu se pot citi;WhatsApp Image 2026-07-03 at 12.02.32 (3).jpeg;;"imagine, nu se citește automat; mesaj m2135268 2026-07-03 12:22";35
+Atașamente care nu se pot citi;IMG20260706102059.jpg;;"imagine, nu se citește automat; mesaj m2098916 2026-07-06 11:49";46
+Atașamente care nu se pot citi;IMG20260706102059.jpg;;"imagine, nu se citește automat; mesaj m2135812 2026-07-13 10:39";46
+Atașamente care nu se pot citi;IMG20260715160332.jpg;;"imagine, nu se citește automat; mesaj m2101732 2026-07-16 10:35";46
+Atașamente care nu se pot citi;IMG20260715160303.jpg;;"imagine, nu se citește automat; mesaj m2101732 2026-07-16 10:35";46
+Atașamente care nu se pot citi;IMG20260716101051.jpg;;"imagine, nu se citește automat; mesaj m2101732 2026-07-16 10:35";46
+Atașamente care nu se pot citi;IMG20260715160409.jpg;;"imagine, nu se citește automat; mesaj m2101732 2026-07-16 10:35";46
+Atașamente care nu se pot citi;IMG20260715160336.jpg;;"imagine, nu se citește automat; mesaj m2101732 2026-07-16 10:35";46
+Atașamente care nu se pot citi;IMG20260716101059.jpg;;"imagine, nu se citește automat; mesaj m2101732 2026-07-16 10:35";46
+Atașamente care nu se pot citi;IMG20260716101103.jpg;;"imagine, nu se citește automat; mesaj m2101732 2026-07-16 10:35";46
+Atașamente care nu se pot citi;IMG20260715160325.jpg;;"imagine, nu se citește automat; mesaj m2101732 2026-07-16 10:35";46
+Atașamente care nu se pot citi;Schema tratare apa spital.dwg;;"fișier .dwg, nu se citește automat; mesaj m2099332 2026-07-07 14:21";51
+Atașamente care nu se pot citi;masina de spalat.jpg;;"imagine, nu se citește automat; mesaj m2116068 2026-08-27 10:40";55
+Atașamente care nu se pot citi;masina de spalatt.jpg;;"imagine, nu se citește automat; mesaj m2116068 2026-08-27 10:40";55
+Atașamente care nu se pot citi;Rezultate IMAGE SERICES.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2099908 2026-07-09 09:28";56
+Atașamente care nu se pot citi;Rezultate IMAGE SERICES.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2136548 2026-07-13 16:01";56
+Atașamente care nu se pot citi;WhatsApp Image 2026-07-13 at 14.14.46.jpeg;;"imagine, nu se citește automat; mesaj m2100548 2026-07-13 14:30";57
+Atașamente care nu se pot citi;WhatsApp Image 2026-07-13 at 08.21.04 (1).jpeg;;"imagine, nu se citește automat; mesaj m2135524 2026-07-13 08:50";63
+Atașamente care nu se pot citi;WhatsApp Image 2026-07-13 at 08.21.04 (2).jpeg;;"imagine, nu se citește automat; mesaj m2135524 2026-07-13 08:50";63
+Atașamente care nu se pot citi;WhatsApp Image 2026-07-13 at 08.21.05.jpeg;;"imagine, nu se citește automat; mesaj m2135524 2026-07-13 08:50";63
+Atașamente care nu se pot citi;WhatsApp Image 2026-07-13 at 08.21.04.jpeg;;"imagine, nu se citește automat; mesaj m2135524 2026-07-13 08:50";63
+Atașamente care nu se pot citi;WhatsApp Image 2026-07-14 at 10.33.24 (1).jpeg;;"imagine, nu se citește automat; mesaj m2136740 2026-07-14 10:43";63
+Atașamente care nu se pot citi;WhatsApp Image 2026-07-14 at 10.33.24.jpeg;;"imagine, nu se citește automat; mesaj m2136740 2026-07-14 10:43";63
+Atașamente care nu se pot citi;WhatsApp Image 2026-07-14 at 10.37.42.jpeg;;"imagine, nu se citește automat; mesaj m2136740 2026-07-14 10:43";63
+Atașamente care nu se pot citi;Start UP - Ozone Module 2.jpeg;;"imagine, nu se citește automat; mesaj m2139204 2026-07-21 10:21";63
+Atașamente care nu se pot citi;Start Up - Ozone Module.jpeg;;"imagine, nu se citește automat; mesaj m2139204 2026-07-21 10:21";63
+Atașamente care nu se pot citi;Start UP - ozone Generator.jpeg;;"imagine, nu se citește automat; mesaj m2139204 2026-07-21 10:21";63
+Atașamente care nu se pot citi;PCB.jpg;;"imagine, nu se citește automat; mesaj m2107044 2026-07-30 11:13";63
+Atașamente care nu se pot citi;a2cfee44-465f-4e2d-acb6-2d1ad9dd94c2.jpg;;"imagine, nu se citește automat; mesaj m2155780 2026-09-07 14:29";63
+Atașamente care nu se pot citi;5ec5fe26-7a39-4b36-8b20-9ab4dfd2ffde.jpg;;"imagine, nu se citește automat; mesaj m2155780 2026-09-07 14:29";63
+Atașamente care nu se pot citi;1ee116eb-e63d-445e-a878-23494a22c6c2.jpg;;"imagine, nu se citește automat; mesaj m2155780 2026-09-07 14:29";63
+Atașamente care nu se pot citi;WhatsApp Image 2026-07-06 at 09.48.07.jpeg;;"imagine, nu se citește automat; mesaj m2135748 2026-07-13 10:29";66
+Atașamente care nu se pot citi;WhatsApp Image 2026-07-06 at 09.48.07.jpeg;;"imagine, nu se citește automat; mesaj m2135844 2026-07-13 10:39";67
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - Comuna Budila - 24.07.2026.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2141380 2026-07-24 10:29";75
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - Comuna Budila - 24.07.2026.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2155492 2026-09-04 16:29";75
+Atașamente care nu se pot citi;f.Akro 001.jpg;;"imagine, nu se citește automat; mesaj m2100836 2026-07-14 11:24";79
+Atașamente care nu se pot citi;f.Akro 001.jpg;;"imagine, nu se citește automat; mesaj m2136868 2026-07-14 12:01";79
+Atașamente care nu se pot citi;FT - Nisip.PNG;;"imagine, nu se citește automat; mesaj m2136932 2026-07-14 12:36";82
+Atașamente care nu se pot citi;Raport de incercare nr. 185_President Mineral Water.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2101060 2026-07-14 13:24";84
+Atașamente care nu se pot citi;Raport de incercare nr. 185_President Mineral Water.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2137092 2026-07-14 15:30";84
+Atașamente care nu se pot citi;F5 SCHELA.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2101124 2026-07-15 09:04";85
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - Pfeiffer - 22.07.2026.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2140772 2026-07-22 16:55";86
+Atașamente care nu se pot citi;Screenshot_2026-07-15-10-09-08-93_7352322957d4404136654ef4adb64504.jpg;;"imagine, nu se citește automat; mesaj m2101252 2026-07-15 10:09";87
+Atașamente care nu se pot citi;Screenshot_2026-07-15-10-09-08-93_7352322957d4404136654ef4adb64504.jpg;;"imagine, nu se citește automat; mesaj m2137380 2026-07-15 10:17";88
+Atașamente care nu se pot citi;Aquaz all in_EU Declaration of Conformity.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2137668 2026-07-15 14:17";94
+Atașamente care nu se pot citi;20260714_141527.jpg;;"imagine, nu se citește automat; mesaj m2101796 2026-07-16 11:52";100
+Atașamente care nu se pot citi;20260714_141530.jpg;;"imagine, nu se citește automat; mesaj m2101796 2026-07-16 11:52";100
+Atașamente care nu se pot citi;20260714_141535.jpg;;"imagine, nu se citește automat; mesaj m2101796 2026-07-16 11:52";100
+Atașamente care nu se pot citi;20260714_141518.jpg;;"imagine, nu se citește automat; mesaj m2101796 2026-07-16 11:52";100
+Atașamente care nu se pot citi;Propunere flux de tratare_Draft 1.jpg;;"imagine, nu se citește automat; mesaj m2103716 2026-07-21 18:20";104
+Atașamente care nu se pot citi;DESCRIPTION - GP60.PNG;;"imagine, nu se citește automat; mesaj m2109540 2026-08-05 17:03";104
+Atașamente care nu se pot citi;Schema generala_Carpathian_apa tehnologica.png;;"imagine, nu se citește automat; mesaj m2109540 2026-08-05 17:03";104
+Atașamente care nu se pot citi;1059 10.06.2026 PRODAC.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2102308 2026-07-17 13:09";107
+Atașamente care nu se pot citi;F006 STATIE DE DEDURIZARE.PDF;;"PDF scanat, textul nu se poate citi automat; mesaj m2102116 2026-07-17 11:09";109
+Atașamente care nu se pot citi;F006 STATIE DE DEDURIZARE.PDF;;"PDF scanat, textul nu se poate citi automat; mesaj m2138372 2026-07-17 11:14";109
+Atașamente care nu se pot citi;F006 STATIE DE DEDURIZARE.PDF;;"PDF scanat, textul nu se poate citi automat; mesaj m2102148 2026-07-17 11:43";109
+Atașamente care nu se pot citi;Statie eliminare turbiditate+duritate+fier+mangan+dezinfectie.jpg;;"imagine, nu se citește automat; mesaj m2138852 2026-07-20 15:09";114
+Atașamente care nu se pot citi;Statie tratare casnica - eliminare turbiditate si nitrati + dezinfectie.jpg;;"imagine, nu se citește automat; mesaj m2138852 2026-07-20 15:09";114
+Atașamente care nu se pot citi;model statie dedurizare - simplex - individual.jpg;;"imagine, nu se citește automat; mesaj m2138852 2026-07-20 15:09";114
+Atașamente care nu se pot citi;Conventie Stabilus_22.07.2026.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2104740 2026-07-23 09:04";117
+Atașamente care nu se pot citi;RO_55775667987.xls;;"fișierul nu conține text; mesaj m2102564 2026-07-20 14:15";119
+Atașamente care nu se pot citi;VTSRO_LS9374853040.xls;;"fișierul nu conține text; mesaj m2103268 2026-07-21 14:54";119
+Atașamente care nu se pot citi;"ATEST PZH Sorbotech LG; LAG; LGCO; GGCO.pdf";;"PDF scanat, textul nu se poate citi automat; mesaj m2142628 2026-07-28 13:28";121
+Atașamente care nu se pot citi;GOST Sorbotech.jpg;;"imagine, nu se citește automat; mesaj m2142628 2026-07-28 13:28";121
+Atașamente care nu se pot citi;Sorbotech LGCO 85 EN.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2142628 2026-07-28 13:28";121
+Atașamente care nu se pot citi;Atest PZH LG_LAG_LGCO_GG_GGCO_wzor.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2143748 2026-07-30 12:35";121
+Atașamente care nu se pot citi;"ATEST PZH Sorbotech LG; LAG; LGCO; GGCO.pdf";;"PDF scanat, textul nu se poate citi automat; mesaj m2143716 2026-07-30 12:27";123
+Atașamente care nu se pot citi;Atest PZH LG_LAG_LGCO_GG_GGCO_wzor.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2107300 2026-07-30 12:34";123
+Atașamente care nu se pot citi;Contract CRIBER_21.07.2026_.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2104708 2026-07-23 08:52";130
+Atașamente care nu se pot citi;Validat PAFS NUL 22762 24.07.2026.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2105220 2026-07-24 10:21";130
+Atașamente care nu se pot citi;Validat PAFS NUL 22762 24.07.2026.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2141412 2026-07-24 10:32";130
+Atașamente care nu se pot citi;Plansa put.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2103332 2026-07-21 15:08";133
+Atașamente care nu se pot citi;atașament 1;;"fișier fără extensie, nu se citește automat; mesaj m2140228 2026-07-22 11:23";140
+Atașamente care nu se pot citi;PPWR_Anexa VIII.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2103908 2026-07-22 09:59";141
+Atașamente care nu se pot citi;Untitled Attachment;;"fișier fără extensie, nu se citește automat; mesaj m2103908 2026-07-22 09:59";141
+Atașamente care nu se pot citi;PPWR_Anexa VIII.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2140132 2026-07-22 10:00";141
+Atașamente care nu se pot citi;atașament 2;;"fișier fără extensie, nu se citește automat; mesaj m2140132 2026-07-22 10:00";141
+Atașamente care nu se pot citi;atașament 3;;"fișier fără extensie, nu se citește automat; mesaj m2140132 2026-07-22 10:00";141
+Atașamente care nu se pot citi;IMG_3719.JPEG;;"imagine, nu se citește automat; mesaj m2104068 2026-07-22 10:21";142
+Atașamente care nu se pot citi;IMG_3725.JPEG;;"imagine, nu se citește automat; mesaj m2104068 2026-07-22 10:21";142
+Atașamente care nu se pot citi;IMG_3706.JPEG;;"imagine, nu se citește automat; mesaj m2104068 2026-07-22 10:21";142
+Atașamente care nu se pot citi;IMG_3711.JPEG;;"imagine, nu se citește automat; mesaj m2104068 2026-07-22 10:21";142
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - CORAL - FUERDA - 24.07.2026 -3.jpeg;;"imagine, nu se citește automat; mesaj m2142564 2026-07-28 12:41";142
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - CORAL - FUERDA - 24.07.2026 -2.jpeg;;"imagine, nu se citește automat; mesaj m2142564 2026-07-28 12:41";142
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - CORAL - FUERDA - 24.07.2026 -1.jpeg;;"imagine, nu se citește automat; mesaj m2142564 2026-07-28 12:41";142
+Atașamente care nu se pot citi;DESCRIPTION - GP60.PNG;;"imagine, nu se citește automat; mesaj m2140420 2026-07-22 13:11";146
+Atașamente care nu se pot citi;G-P60 ELECTRICAL DRAWING.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2140420 2026-07-22 13:11";146
+Atașamente care nu se pot citi;Analize apa RICHTER_260701_204600.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2105348 2026-07-24 12:06";146
+Atașamente care nu se pot citi;CC 23056 AKRO  JOB 45811.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2105124 2026-07-24 06:52";159
+Atașamente care nu se pot citi;CC 23080 AKRO JOB 45857.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2106020 2026-07-27 14:13";159
+Atașamente care nu se pot citi;CC 23093 AKRO  JOB 45878.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2106532 2026-07-29 10:04";159
+Atașamente care nu se pot citi;CC 23163 AKRO  JOB 45962.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2110276 2026-08-06 14:53";159
+Atașamente care nu se pot citi;CC 23260 AKRO  JOB 45812.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2117444 2026-09-01 15:07";159
+Atașamente care nu se pot citi;CC 23308 AKRO  JOB 46249.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2117988 2026-09-03 11:20";159
+Atașamente care nu se pot citi;CC 23386 AKRO JOB 46456.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2121220 2026-09-14 10:41";159
+Atașamente care nu se pot citi;CC 23458 AKRO  JOB 46594.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2124708 2026-09-23 09:22";159
+Atașamente care nu se pot citi;CC 23559 AKRO  JOB 46706.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2129220 2026-10-06 10:18";159
+Atașamente care nu se pot citi;CC 23567 AKRO  JOB 46818.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2129892 2026-10-07 11:07";159
+Atașamente care nu se pot citi;CC 23616 AKRO  JOB 46924.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2132580 2026-10-13 12:09";159
+Atașamente care nu se pot citi;65c6d599-ba2b-423c-b32e-5807c1f2d8ba.jpg;;"imagine, nu se citește automat; mesaj m2141252 2026-07-24 08:57";163
+Atașamente care nu se pot citi;65c6d599-ba2b-423c-b32e-5807c1f2d8ba.jpg;;"imagine, nu se citește automat; mesaj m2141252 2026-07-24 08:57";163
+Atașamente care nu se pot citi;20260724_080953.jpg;;"imagine, nu se citește automat; mesaj m2141252 2026-07-24 08:57";163
+Atașamente care nu se pot citi;1059 10.06.2026 PRODAC.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2105188 2026-07-24 09:04";164
+Atașamente care nu se pot citi;GRHP_SCHEMA FUNCTIONALA GENERALA - Copy.dwg;;"fișier .dwg, nu se citește automat; mesaj m2105188 2026-07-24 09:04";164
+Atașamente care nu se pot citi;f.Akro 001.jpg;;"imagine, nu se citește automat; mesaj m2105540 2026-07-24 15:59";165
+Atașamente care nu se pot citi;f.Akro 001.jpg;;"imagine, nu se citește automat; mesaj m2141860 2026-07-24 16:03";165
+Atașamente care nu se pot citi;Transaction_DR00014885131473.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2106276 2026-07-28 12:52";176
+Atașamente care nu se pot citi;Schema echipamente - filtrare - ARTROM.png;;"imagine, nu se citește automat; mesaj m2142212 2026-07-27 12:31";177
+Atașamente care nu se pot citi;20170913_162122.jpg;;"imagine, nu se citește automat; mesaj m2144484 2026-07-31 16:08";177
+Atașamente care nu se pot citi;20170913_162010.jpg;;"imagine, nu se citește automat; mesaj m2144484 2026-07-31 16:08";177
+Atașamente care nu se pot citi;20170913_162016.jpg;;"imagine, nu se citește automat; mesaj m2144484 2026-07-31 16:08";177
+Atașamente care nu se pot citi;20170913_162020.jpg;;"imagine, nu se citește automat; mesaj m2144484 2026-07-31 16:08";177
+Atașamente care nu se pot citi;P_20171005_102729.jpg;;"imagine, nu se citește automat; mesaj m2144484 2026-07-31 16:08";177
+Atașamente care nu se pot citi;Example of the room  - but there are no filters installed where we need to put our activated carbon ones.jpg;;"imagine, nu se citește automat; mesaj m2144484 2026-07-31 16:08";177
+Atașamente care nu se pot citi;0791_260129100203_001 (1).pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2110308 2026-08-06 17:36";177
+Atașamente care nu se pot citi;Canature.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2142500 2026-07-28 11:57";180
+Atașamente care nu se pot citi;93111177978_inv.xls;;"fișierul nu conține text; mesaj m2097220 2026-07-28 13:15";182
+Atașamente care nu se pot citi;EU Declaration of Conformity SUF Series.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2107140 2026-07-30 11:27";183
+Atașamente care nu se pot citi;1172_-940316153130_001.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2142692 2026-07-28 14:44";184
+Atașamente care nu se pot citi;Comanda BIOTEHNOS nr. 319 29.07.2026, .pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2142820 2026-07-29 09:42";186
+Atașamente care nu se pot citi;Statie de 3mch - Constanta.jpg;;"imagine, nu se citește automat; mesaj m2142916 2026-07-29 10:34";188
+Atașamente care nu se pot citi;17bba65b-88a2-44fb-b132-acbe079fbe7d.jpg;;"imagine, nu se citește automat; mesaj m2142916 2026-07-29 10:34";188
+Atașamente care nu se pot citi;buletin apa primarie.docx;;"fișierul nu conține text; mesaj m2111844 2026-08-13 04:56";188
+Atașamente care nu se pot citi;buletine_analize_finale.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2111844 2026-08-13 04:56";188
+Atașamente care nu se pot citi;WhatsApp Image 2026-08-07 at 11.35.44.jpeg;;"imagine, nu se citește automat; mesaj m2110564 2026-08-07 13:13";191
+Atașamente care nu se pot citi;WhatsApp Video 2026-08-10 at 11.26.17.mp4;;"fișier .mp4, nu se citește automat; mesaj m2111012 2026-08-10 12:23";191
+Atașamente care nu se pot citi;WhatsApp Video 2026-08-10 at 11.26.17.mp4;;"fișier .mp4, nu se citește automat; mesaj m2147364 2026-08-11 09:57";191
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - Greentech - 11.08.2026.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2148260 2026-08-12 16:19";191
+Atașamente care nu se pot citi;BS-3200D2-RV_CE_EN.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2143524 2026-07-30 10:20";194
+Atașamente care nu se pot citi;CE_Declaration_BlueSoft_D2_2024.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2143524 2026-07-30 10:20";194
+Atașamente care nu se pot citi;Canature - NSF Certificate.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2143524 2026-07-30 10:20";194
+Atașamente care nu se pot citi;Canature - TUV Certificate.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2143524 2026-07-30 10:20";194
+Atașamente care nu se pot citi;CE DECLARATION.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2143524 2026-07-30 10:20";194
+Atașamente care nu se pot citi;ISO9001-2015 EN.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2143524 2026-07-30 10:20";194
+Atașamente care nu se pot citi;Contract - ARTROM STEEL TUBES - 03.08.2026.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2145508 2026-08-05 09:37";199
+Atașamente care nu se pot citi;Situatie facturi.png;;"imagine, nu se citește automat; mesaj m2146308 2026-08-06 14:29";200
+Atașamente care nu se pot citi;atașament 1;;"fișier fără extensie, nu se citește automat; mesaj m2143812 2026-07-30 12:52";201
+Atașamente care nu se pot citi;65c6d599-ba2b-423c-b32e-5807c1f2d8ba.jpg;;"imagine, nu se citește automat; mesaj m2107492 2026-07-30 16:10";204
+Atașamente care nu se pot citi;52cd8dff-e139-4cc1-a9ea-4056e27ab8c9.jpg;;"imagine, nu se citește automat; mesaj m2107492 2026-07-30 16:10";204
+Atașamente care nu se pot citi;Canature.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2144292 2026-07-31 12:31";210
+Atașamente care nu se pot citi;Canature - NSF Certificate.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2144292 2026-07-31 12:31";210
+Atașamente care nu se pot citi;Conduita - Airbus - semnat - 03.08.2026.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2144516 2026-08-03 11:58";210
+Atașamente care nu se pot citi;PV Punere in Functiune CRIE Stabilus.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2110660 2026-08-07 15:47";211
+Atașamente care nu se pot citi;The Family Butchers - Situatie - 03.08.2026.png;;"imagine, nu se citește automat; mesaj m2144548 2026-08-03 12:22";212
+Atașamente care nu se pot citi;OFERTA AKRO.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2144676 2026-08-04 08:51";215
+Atașamente care nu se pot citi;image.png;;"imagine, nu se citește automat; mesaj m2144868 2026-08-04 11:48";215
+Atașamente care nu se pot citi;Cum a fost livrat.jpg;;"imagine, nu se citește automat; mesaj m2144900 2026-08-04 12:59";218
+Atașamente care nu se pot citi;plastic prindere modul - rupt - cum a fost livrat.jpg;;"imagine, nu se citește automat; mesaj m2144900 2026-08-04 12:59";218
+Atașamente care nu se pot citi;dd10ab82-dbc6-4e5a-b185-5b051f6dd3a6.jpg;;"imagine, nu se citește automat; mesaj m2144900 2026-08-04 12:59";218
+Atașamente care nu se pot citi;b6bacc3f-f9fd-4310-9793-1c3fbcd9238d.jpg;;"imagine, nu se citește automat; mesaj m2144900 2026-08-04 12:59";218
+Atașamente care nu se pot citi;b5fba3bf-8783-4504-b35d-f3d1a54f4bed.jpg;;"imagine, nu se citește automat; mesaj m2144900 2026-08-04 12:59";218
+Atașamente care nu se pot citi;0aac0480-caa5-43a2-a0e6-0a2b2acef122.jpg;;"imagine, nu se citește automat; mesaj m2144900 2026-08-04 12:59";218
+Atașamente care nu se pot citi;59565b44-e69c-4951-92b4-1673d1862721.jpg;;"imagine, nu se citește automat; mesaj m2144900 2026-08-04 12:59";218
+Atașamente care nu se pot citi;Ce i-am facut - reconstructie.jpg;;"imagine, nu se citește automat; mesaj m2144900 2026-08-04 12:59";218
+Atașamente care nu se pot citi;Situatie facturi - Purolite - 05.08.2026.png;;"imagine, nu se citește automat; mesaj m2145668 2026-08-05 13:33";230
+Atașamente care nu se pot citi;atașament 5;;"fișier fără extensie, nu se citește automat; mesaj m2109092 2026-08-05 14:26";230
+Atașamente care nu se pot citi;Situatie facturi - Purolite - 05.08.2026.png;;"imagine, nu se citește automat; mesaj m2109092 2026-08-05 14:26";230
+Atașamente care nu se pot citi;Situatie facturi - Purolite - 05.08.2026.png;;"imagine, nu se citește automat; mesaj m2146948 2026-08-10 09:47";230
+Atașamente care nu se pot citi;PV Punere in Functiune CRIE Stabilus.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2146820 2026-08-07 16:19";245
+Atașamente care nu se pot citi;Buletin analiza apa_Greendrill.jpeg;;"imagine, nu se citește automat; mesaj m2111076 2026-08-10 15:33";249
+Atașamente care nu se pot citi;Buletin analiza apa_Greendrill.jpeg;;"imagine, nu se citește automat; mesaj m2147044 2026-08-10 16:10";249
+Atașamente care nu se pot citi;F.Akro 001.jpg;;"imagine, nu se citește automat; mesaj m2111140 2026-08-11 08:49";252
+Atașamente care nu se pot citi;F.Akro 001.jpg;;"imagine, nu se citește automat; mesaj m2147204 2026-08-11 09:34";252
+Atașamente care nu se pot citi;Contract nr 40043_AKRO.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2111332 2026-08-11 13:24";259
+Atașamente care nu se pot citi;2.0.F22 - Proces Verbal de punere in functiune - CONRAD CONSISTAL - 11.03.2026 - 2.jpg;;"imagine, nu se citește automat; mesaj m2147908 2026-08-12 10:00";261
+Atașamente care nu se pot citi;2.0.F22 - Proces Verbal de punere in functiune - CONRAD CONSISTAL - 11.03.2026 - 1.jpg;;"imagine, nu se citește automat; mesaj m2147908 2026-08-12 10:00";261
+Atașamente care nu se pot citi;CONRAD - 13.08.2026.png;;"imagine, nu se citește automat; mesaj m2148676 2026-08-13 11:53";261
+Atașamente care nu se pot citi;2.0.F22 - Proces Verbal de punere in functiune - CONRAD CONSISTAL - 11.03.2026 - 1.jpg;;"imagine, nu se citește automat; mesaj m2148676 2026-08-13 11:53";261
+Atașamente care nu se pot citi;2.0.F22 - Proces Verbal de punere in functiune - CONRAD CONSISTAL - 11.03.2026 - 2.jpg;;"imagine, nu se citește automat; mesaj m2148676 2026-08-13 11:53";261
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - CONRAD - 26.08.2026.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2152740 2026-08-27 11:51";261
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - CONRAD CONSISTAL - 10.09.2026 - 1 din 2.jpeg;;"imagine, nu se citește automat; mesaj m2157668 2026-09-14 14:41";261
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - CONRAD CONSISTAL - 10.09.2026 - 2 din 2.jpeg;;"imagine, nu se citește automat; mesaj m2157668 2026-09-14 14:41";261
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - Pfeiffer Vacuum - 14.08.2026.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2149348 2026-08-14 15:12";263
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - Pfeiffer Vacuum - 14.08.2026.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2149700 2026-08-17 12:25";263
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - Pfeiffer Vacuum - 14.08.2026.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2112708 2026-08-17 12:43";263
+Atașamente care nu se pot citi;2962_HERCO_6.05.2019_PROFORMA-INV.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2148036 2026-08-12 13:40";264
+Atașamente care nu se pot citi;WhatsApp Image 2026-08-12 at 13.27.27.jpeg;;"imagine, nu se citește automat; mesaj m2148068 2026-08-12 13:43";265
+Atașamente care nu se pot citi;WhatsApp Image 2026-08-12 at 15.30.26.jpeg;;"imagine, nu se citește automat; mesaj m2148292 2026-08-12 16:23";271
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - MASPEX ROMANIA - 08.08.2026.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2148292 2026-08-12 16:23";271
+Atașamente care nu se pot citi;signed and stamped documents.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2121348 2026-09-14 13:22";275
+Atașamente care nu se pot citi;Filtru NW400  si statie clorinare.jpg;;"imagine, nu se citește automat; mesaj m2148708 2026-08-13 12:21";277
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - ERTEX - mentenanta - 13.08.2026.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2148996 2026-08-13 16:17";279
+Atașamente care nu se pot citi;SAL_FIN- DECLARATIE.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2149092 2026-08-14 08:31";282
+Atașamente care nu se pot citi;Hygienic certificate Filter Anthracite AKRO SRL.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2127172 2026-09-29 11:53";295
+Atașamente care nu se pot citi;WhatsApp Image 2026-08-17 at 14.22.36.jpeg;;"imagine, nu se citește automat; mesaj m2149828 2026-08-17 14:25";296
+Atașamente care nu se pot citi;WhatsApp Image 2026-08-17 at 14.22.35 (3).jpeg;;"imagine, nu se citește automat; mesaj m2149828 2026-08-17 14:25";296
+Atașamente care nu se pot citi;WhatsApp Image 2026-08-17 at 14.22.35 (2).jpeg;;"imagine, nu se citește automat; mesaj m2149828 2026-08-17 14:25";296
+Atașamente care nu se pot citi;WhatsApp Image 2026-08-17 at 14.22.35 (1).jpeg;;"imagine, nu se citește automat; mesaj m2149828 2026-08-17 14:25";296
+Atașamente care nu se pot citi;WhatsApp Image 2026-08-17 at 14.22.35.jpeg;;"imagine, nu se citește automat; mesaj m2149828 2026-08-17 14:25";296
+Atașamente care nu se pot citi;FT - Nisip.PNG;;"imagine, nu se citește automat; mesaj m2150084 2026-08-18 09:26";305
+Atașamente care nu se pot citi;FT - Nisip.PNG;;"imagine, nu se citește automat; mesaj m2152324 2026-08-26 11:03";305
+Atașamente care nu se pot citi;OFERTA DE PRET.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2113476 2026-08-19 10:31";308
+Atașamente care nu se pot citi;OFERTA DE PRET.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2150692 2026-08-19 10:43";310
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de Service - Apa Canal Turnu Rosu - 29.09.2026.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2161892 2026-09-29 11:55";310
+Atașamente care nu se pot citi;certificat+licență 655 2023.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2161892 2026-09-29 11:55";310
+Atașamente care nu se pot citi;Hygienic certificate Filter Anthracite AKRO SRL.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2161892 2026-09-29 11:55";310
+Atașamente care nu se pot citi;1219_-940407093053_001.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2113348 2026-08-19 08:41";314
+Atașamente care nu se pot citi;~WRD0002.jpg;;"imagine, nu se citește automat; mesaj m2113316 2026-08-18 22:28";316
+Atașamente care nu se pot citi;Akro_Sketch_0826.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2116868 2026-08-28 13:24";317
+Atașamente care nu se pot citi;Akro_Sketch_0826.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2153380 2026-08-28 13:55";317
+Atașamente care nu se pot citi;WhatsApp Image 2025-07-14 at 17.55.44.jpeg;;"imagine, nu se citește automat; mesaj m2113444 2026-08-19 10:29";320
+Atașamente care nu se pot citi;WhatsApp Image 2025-07-14 at 17.55.44 (1).jpeg;;"imagine, nu se citește automat; mesaj m2113444 2026-08-19 10:29";320
+Atașamente care nu se pot citi;SKM_C250i260723114500.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2150756 2026-08-19 11:19";321
+Atașamente care nu se pot citi;PV Conrad.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2116132 2026-08-27 11:27";327
+Atașamente care nu se pot citi;PV Solitaire invest.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2116132 2026-08-27 11:27";327
+Atașamente care nu se pot citi;IMG-20260824-WA0002.jpg;;"imagine, nu se citește automat; mesaj m2114980 2026-08-24 09:11";331
+Atașamente care nu se pot citi;2.1.F22 - Proces Verbal de punere in functiune - UBITECH CONSTRUCTII - 02.02.2022.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2151556 2026-08-24 09:45";331
+Atașamente care nu se pot citi;image.png;;"imagine, nu se citește automat; mesaj m2153924 2026-09-01 09:33";331
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - UM01829 - 10.09.2026 2 din 2.jpeg;;"imagine, nu se citește automat; mesaj m2157700 2026-09-14 14:53";331
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - UM01829 - 10.09.2026 1 din 2.jpeg;;"imagine, nu se citește automat; mesaj m2157700 2026-09-14 14:53";331
+Atașamente care nu se pot citi;image.png;;"imagine, nu se citește automat; mesaj m2158020 2026-09-15 11:10";331
+Atașamente care nu se pot citi;WhatsApp Image 2026-10-02 at 14.02.43.jpeg;;"imagine, nu se citește automat; mesaj m2163044 2026-10-02 14:18";331
+Atașamente care nu se pot citi;WhatsApp Image 2026-10-02 at 14.01.21.jpeg;;"imagine, nu se citește automat; mesaj m2163044 2026-10-02 14:18";331
+Atașamente care nu se pot citi;CI LASZLO KAROLY.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2163044 2026-10-02 14:18";331
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - UM01829 - 06.10.2026 - 2 din 3.jpeg;;"imagine, nu se citește automat; mesaj m2165060 2026-10-07 16:14";331
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - UM01829 - 06.10.2026 - 3 din 3.jpeg;;"imagine, nu se citește automat; mesaj m2165060 2026-10-07 16:14";331
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - UM01829 - 06.10.2026 - 1 din 3.jpeg;;"imagine, nu se citește automat; mesaj m2165060 2026-10-07 16:14";331
+Atașamente care nu se pot citi;SAL_FIN - GDPR.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2152292 2026-08-26 08:32";342
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - SOLITAIRE - 26.08.2026.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2152772 2026-08-27 12:01";352
+Atașamente care nu se pot citi;WhatsApp Image 2026-09-01 at 11.49.18.jpeg;;"imagine, nu se citește automat; mesaj m2154084 2026-09-01 12:20";381
+Atașamente care nu se pot citi;comanda semnata.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2118724 2026-09-04 15:19";383
+Atașamente care nu se pot citi;CI LASZLO KAROLY.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2157060 2026-09-11 10:23";383
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - ARTROM STEEL TUBES - 15.09.2026 - 2 din 3.jpeg;;"imagine, nu se citește automat; mesaj m2159524 2026-09-22 08:31";383
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - ARTROM STEEL TUBES - 15.09.2026 - 3 din 3.jpeg;;"imagine, nu se citește automat; mesaj m2159524 2026-09-22 08:31";383
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - ARTROM STEEL TUBES - 15.09.2026 - 1 din 3.jpeg;;"imagine, nu se citește automat; mesaj m2159524 2026-09-22 08:31";383
+Atașamente care nu se pot citi;PV_service.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2124452 2026-09-22 14:00";383
+Atașamente care nu se pot citi;Contract vc ozon AKRO CS 0826.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2117476 2026-09-01 15:15";384
+Atașamente care nu se pot citi;Contract vc ozon AKRO CS 0826.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2154276 2026-09-01 15:18";384
+Atașamente care nu se pot citi;Contract vc ozon AKRO CS 0826_semnat.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2117636 2026-09-01 21:46";389
+Atașamente care nu se pot citi;CONTRACT_AKRO_VLADOF C.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2131236 2026-10-09 09:35";397
+Atașamente care nu se pot citi;Contract - VLADOF CONSTRUCT - 09.10.2026.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2166404 2026-10-09 15:01";397
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - PFEIFFER VACUUM ROMANIA - 10.09.2026.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2156740 2026-09-10 10:18";400
+Atașamente care nu se pot citi;Statie dedurizare twin.jpg;;"imagine, nu se citește automat; mesaj m2155236 2026-09-04 10:14";404
+Atașamente care nu se pot citi;Statie dedurizare twin.jpg;;"imagine, nu se citește automat; mesaj m2164356 2026-10-06 15:00";404
+Atașamente care nu se pot citi;Order-10045_2026-09-07.tar;;"atașament periculos: conține programul «Order-10045_2026-09-07.exe»; nu e inclus și nu trebuie deschis; mesaj m2118884 2026-09-07 08:18";412
+Atașamente care nu se pot citi;Detalii transport - US.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2155812 2026-09-07 16:08";418
+Atașamente care nu se pot citi;Detalii transport - US.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2119140 2026-09-07 16:25";418
+Atașamente care nu se pot citi;Detalii transport - US.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2119396 2026-09-08 09:19";418
+Atașamente care nu se pot citi;Bill of Landing -I24342-METAL-UND TOOLS-FLUME-MESH-HOLLA-090126 - USA - intrare.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2158532 2026-09-16 13:17";418
+Atașamente care nu se pot citi;SKM_450i26091712530.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2122980 2026-09-17 12:56";418
+Atașamente care nu se pot citi;DOC889.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2160132 2026-09-25 11:53";418
+Atașamente care nu se pot citi;Scanned_from_a_Lexmark_Multifunction_Product09-23-2026-164236.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2160132 2026-09-25 11:53";418
+Atașamente care nu se pot citi;atașament 4;;"fișier fără extensie, nu se citește automat; mesaj m2127076 2026-09-29 11:48";418
+Atașamente care nu se pot citi;atașament 5;;"fișier fără extensie, nu se citește automat; mesaj m2127076 2026-09-29 11:48";418
+Atașamente care nu se pot citi;PO 10266_08-09-2026.tar;;"atașament periculos: conține programul «PO 10266_08-09-2026.exe»; nu e inclus și nu trebuie deschis; mesaj m2119268 2026-09-08 09:01";420
+Atașamente care nu se pot citi;atașament 2;;"fișier fără extensie, nu se citește automat; mesaj m2121028 2026-09-14 09:12";425
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - A.G. RONECO_09.09.2026 1 din 2.jpeg;;"imagine, nu se citește automat; mesaj m2157508 2026-09-14 12:04";428
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - A.G. RONECO_09.09.2026 2 din 2.jpeg;;"imagine, nu se citește automat; mesaj m2157508 2026-09-14 12:04";428
+Atașamente care nu se pot citi;Contract Akro.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2119844 2026-09-09 14:52";431
+Atașamente care nu se pot citi;EXEMPLU STATIE DUPLEX - TWIN.jpg;;"imagine, nu se citește automat; mesaj m2156452 2026-09-09 13:48";434
+Atașamente care nu se pot citi;EXEMPLU STATIE DUPLEX TWIN.jpg;;"imagine, nu se citește automat; mesaj m2156452 2026-09-09 13:48";434
+Atașamente care nu se pot citi;IMG-20210505-WA0005.jpg;;"imagine, nu se citește automat; mesaj m2156452 2026-09-09 13:48";434
+Atașamente care nu se pot citi;IMG-20210505-WA0006.jpg;;"imagine, nu se citește automat; mesaj m2156452 2026-09-09 13:48";434
+Atașamente care nu se pot citi;IMG-20210505-WA0009.jpg;;"imagine, nu se citește automat; mesaj m2156452 2026-09-09 13:48";434
+Atașamente care nu se pot citi;IMG-20210505-WA0010.jpg;;"imagine, nu se citește automat; mesaj m2156452 2026-09-09 13:48";434
+Atașamente care nu se pot citi;IMG-20210505-WA0011.jpg;;"imagine, nu se citește automat; mesaj m2156452 2026-09-09 13:48";434
+Atașamente care nu se pot citi;IMG-20210505-WA0012.jpg;;"imagine, nu se citește automat; mesaj m2156452 2026-09-09 13:48";434
+Atașamente care nu se pot citi;schita rezervor.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2120612 2026-09-11 11:00";446
+Atașamente care nu se pot citi;FMA-1006E - TRILINGUAL GENERAL DRAWING.DWG;;"fișier .dwg, nu se citește automat; mesaj m2157348 2026-09-11 16:22";453
+Atașamente care nu se pot citi;0040325_IS_Ob.03_SCHEMA FUNCTIOANALA GOSPODARIE APA POTABILA.dwg;;"fișier .dwg, nu se citește automat; mesaj m2121508 2026-09-14 15:41";453
+Atașamente care nu se pot citi;0040325_IS_Ob.06_SCHEMA FUNCTIONALA IRIGATII SPATII VERZI.dwg;;"fișier .dwg, nu se citește automat; mesaj m2121508 2026-09-14 15:41";453
+Atașamente care nu se pot citi;0040325_ISI_Ob.03_SCHEMA FUNCTIONALA GOSPODARIE STINGERE INCENDIU CU APA.dwg;;"fișier .dwg, nu se citește automat; mesaj m2121508 2026-09-14 15:41";453
+Atașamente care nu se pot citi;0040325_IS-Ob-03-AMPLASARE ECHIPAMENTE SUBSOL.dwg;;"fișier .dwg, nu se citește automat; mesaj m2121508 2026-09-14 15:41";453
+Atașamente care nu se pot citi;NUVONIC.png;;"imagine, nu se citește automat; mesaj m2097380 2026-09-21 10:35";453
+Atașamente care nu se pot citi;Formular vamal DHL AWB 5751612506.zip;;"atașament periculos: conține programul «Formular vamal DHL AWB 5751612506.js»; nu e inclus și nu trebuie deschis; mesaj m2097316 2026-09-15 06:01";462
+Atașamente care nu se pot citi;Schema gospodarie stingere incendiu -1 din 2.png;;"imagine, nu se citește automat; mesaj m2157924 2026-09-15 08:37";464
+Atașamente care nu se pot citi;Schema gospodarie stingere incendiu -2 din 2.png;;"imagine, nu se citește automat; mesaj m2157924 2026-09-15 08:37";464
+Atașamente care nu se pot citi;Schema gospodarie stingere incendiu -1 din 2.png;;"imagine, nu se citește automat; mesaj m2121732 2026-09-15 09:00";465
+Atașamente care nu se pot citi;Schema gospodarie stingere incendiu -2 din 2.png;;"imagine, nu se citește automat; mesaj m2121732 2026-09-15 09:00";465
+Atașamente care nu se pot citi;NUVONIC.png;;"imagine, nu se citește automat; mesaj m2123780 2026-09-21 10:16";465
+Atașamente care nu se pot citi;Detalii transport - US.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2158724 2026-09-17 10:20";483
+Atașamente care nu se pot citi;Order-1004552_2026-09-17.tar;;"atașament periculos: conține programul «Order-1004552_2026-09-17.exe»; nu e inclus și nu trebuie deschis; mesaj m2097348 2026-09-17 14:06";485
+Atașamente care nu se pot citi;CC 23460 AKRO  JOB 46123.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2124676 2026-09-23 09:15";507
+Atașamente care nu se pot citi;CC 23460 AKRO  JOB 46123 REV1 .pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2124964 2026-09-24 10:28";507
+Atașamente care nu se pot citi;SCHEMA FLUX -Demineralizare.png;;"imagine, nu se citește automat; mesaj m2159780 2026-09-24 09:16";512
+Atașamente care nu se pot citi;AKRO 9001.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2159844 2026-09-24 13:46";515
+Atașamente care nu se pot citi;AKRO 14001.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2159844 2026-09-24 13:46";515
+Atașamente care nu se pot citi;WhatsApp Image 2026-09-24 at 14.31.58.jpeg;;"imagine, nu se citește automat; mesaj m2125092 2026-09-24 14:33";516
+Atașamente care nu se pot citi;Debitmetru 1-1.25.jpg;;"imagine, nu se citește automat; mesaj m2159940 2026-09-24 15:31";516
+Atașamente care nu se pot citi;Discutie - pe tema Carpathian.png;;"imagine, nu se citește automat; mesaj m2165764 2026-10-08 14:16";517
+Atașamente care nu se pot citi;WhatsApp Image 2026-09-24 at 14.31.58.jpeg;;"imagine, nu se citește automat; mesaj m2159908 2026-09-24 14:52";518
+Atașamente care nu se pot citi;Septembrie 2026.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2125252 2026-09-24 16:23";521
+Atașamente care nu se pot citi;DOC889.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2125476 2026-09-25 09:41";523
+Atașamente care nu se pot citi;DHL_Express_Formular_Contact_si_AWB_236-47892145.pdf.rar;;"atașament periculos: conține programul «DHL_Express_Formular_Contact_si_AWB_236-47892145.pdf.js»; nu e inclus și nu trebuie deschis; mesaj m2125508 2026-09-25 09:48";524
+Atașamente care nu se pot citi;CINTROPUR - Certificate of quality and origin.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2165124 2026-10-08 08:45";526
+Atașamente care nu se pot citi;ACS CINTROPUR NW 500 - 650 - 800 - 2024 - 2029.PDF;;"PDF scanat, textul nu se poate citi automat; mesaj m2165124 2026-10-08 08:45";526
+Atașamente care nu se pot citi;f.Akro 001.jpg;;"imagine, nu se citește automat; mesaj m2126436 2026-09-28 11:39";528
+Atașamente care nu se pot citi;schita rezervor_20 mc.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2125764 2026-09-25 13:08";532
+Atașamente care nu se pot citi;atașament 1;;"fișier fără extensie, nu se citește automat; mesaj m2161252 2026-09-28 13:30";548
+Atașamente care nu se pot citi;atașament 1;;"fișier fără extensie, nu se citește automat; mesaj m2161316 2026-09-28 13:30";548
+Atașamente care nu se pot citi;atașament 6;;"fișier fără extensie, nu se citește automat; mesaj m2161316 2026-09-28 13:30";548
+Atașamente care nu se pot citi;atașament 7;;"fișier fără extensie, nu se citește automat; mesaj m2161316 2026-09-28 13:30";548
+Atașamente care nu se pot citi;atașament 5;;"fișier fără extensie, nu se citește automat; mesaj m2161444 2026-09-28 13:30";548
+Atașamente care nu se pot citi;atașament 1;;"fișier fără extensie, nu se citește automat; mesaj m2161508 2026-09-28 13:30";548
+Atașamente care nu se pot citi;atașament 5;;"fișier fără extensie, nu se citește automat; mesaj m2161572 2026-09-28 13:30";548
+Atașamente care nu se pot citi;atașament 1;;"fișier fără extensie, nu se citește automat; mesaj m2161636 2026-09-28 13:30";548
+Atașamente care nu se pot citi;Detalii tehnice amanuntite - filtru turbidex.png;;"imagine, nu se citește automat; mesaj m2161956 2026-09-29 14:30";556
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - PFEIFFER VACUUM ROMANIA - 08.10.2026.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2165444 2026-10-08 10:48";563
+Atașamente care nu se pot citi;ACS CINTROPUR NW 500 - 650 - 800 - 2024 - 2029.PDF;;"PDF scanat, textul nu se poate citi automat; mesaj m2127588 2026-10-01 10:02";564
+Atașamente care nu se pot citi;ACS_CINTROPUR NW280+340+400_2024-2029.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2127588 2026-10-01 10:02";564
+Atașamente care nu se pot citi;ACS_UV Range CINTROPUR 2025_2030.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2127588 2026-10-01 10:02";564
+Atașamente care nu se pot citi;CINTROPUR - Certificate of quality and origin.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2127588 2026-10-01 10:02";564
+Atașamente care nu se pot citi;aqua AS.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2162436 2026-10-01 13:07";565
+Atașamente care nu se pot citi;Scanned_from_a_Lexmark_Multifunction_Product09-23-2026-164236.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2162564 2026-10-01 15:14";568
+Atașamente care nu se pot citi;warehouse 090126.png;;"imagine, nu se citește automat; mesaj m2128836 2026-10-05 12:44";570
+Atașamente care nu se pot citi;SKM_450i26100711570.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2164740 2026-10-07 12:47";570
+Atașamente care nu se pot citi;Sorbotech LGCO 85 EN.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2162660 2026-10-02 09:16";571
+Atașamente care nu se pot citi;Atest PZH LG_LAG_LGCO_GG_GGCO_wzor.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2162660 2026-10-02 09:16";571
+Atașamente care nu se pot citi;2.0.F23 - Proces Verbal de service - KNAUF INSULATION - 06.10.2026.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2164388 2026-10-06 15:37";575
+Atașamente care nu se pot citi;Schema echipamente Crama Ceptura  - 02.10.2026.png;;"imagine, nu se citește automat; mesaj m2163012 2026-10-02 14:13";581
+Atașamente care nu se pot citi;1311_-940521150404_001.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2163012 2026-10-02 14:13";581
+Atașamente care nu se pot citi;Screenshot 2026-10-02 154912.png;;"imagine, nu se citește automat; mesaj m2163204 2026-10-02 15:51";581
+Atașamente care nu se pot citi;C-DA AKRO NR. 15454.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2133636 2026-10-14 15:20";589
+Atașamente care nu se pot citi;C-DA AKRO NR. 15454 REFACUTA.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2133668 2026-10-14 15:34";589
+Atașamente care nu se pot citi;IT13_Schema functionala incalzire.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2129476 2026-10-06 13:48";601
+Atașamente care nu se pot citi;FT_IT14_Statie de dedurizare 3 mch.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2129476 2026-10-06 13:48";601
+Atașamente care nu se pot citi;IT13_Schema functionala incalzire.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2164228 2026-10-06 14:11";601
+Atașamente care nu se pot citi;FT_IT14_Statie de dedurizare 3 mch.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2164228 2026-10-06 14:11";601
+Atașamente care nu se pot citi;SKM_450i26100711570.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2129924 2026-10-07 12:12";609
+Atașamente care nu se pot citi;atașament 5;;"fișier fără extensie, nu se citește automat; mesaj m2129956 2026-10-07 12:24";609
+Atașamente care nu se pot citi;atașament 6;;"fișier fără extensie, nu se citește automat; mesaj m2129956 2026-10-07 12:24";609
+Atașamente care nu se pot citi;atașament 1;;"fișier fără extensie, nu se citește automat; mesaj m2164900 2026-10-07 14:57";609
+Atașamente care nu se pot citi;Scanned_from_a_Lexmark_Multifunction_Product09-28-2026-114130.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2130116 2026-10-07 14:49";610
+Atașamente care nu se pot citi;DOC889.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2164996 2026-10-07 15:43";610
+Atașamente care nu se pot citi;DOC889.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2130276 2026-10-07 16:41";610
+Atașamente care nu se pot citi;F.AKRO 001.jpg;;"imagine, nu se citește automat; mesaj m2130564 2026-10-08 10:51";615
+Atașamente care nu se pot citi;F.AKRO 001.jpg;;"imagine, nu se citește automat; mesaj m2165476 2026-10-08 10:55";615
+Atașamente care nu se pot citi;IMG-20210215-WA0008.jpg;;"imagine, nu se citește automat; mesaj m2167812 2026-10-14 15:19";621
+Atașamente care nu se pot citi;IMG-20210215-WA0009.jpg;;"imagine, nu se citește automat; mesaj m2167812 2026-10-14 15:19";621
+Atașamente care nu se pot citi;WhatsApp Image 2026-10-09 at 13.47.36.jpeg;;"imagine, nu se citește automat; mesaj m2166372 2026-10-09 14:19";632
+Atașamente care nu se pot citi;AKRO 9001.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2166532 2026-10-12 10:43";635
+Atașamente care nu se pot citi;AKRO 14001.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2166532 2026-10-12 10:43";635
+Atașamente care nu se pot citi;CUI_2025.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2166532 2026-10-12 10:43";635
+Atașamente care nu se pot citi;WhatsApp Image 2026-10-12 at 08.21.40 (4).jpeg;;"imagine, nu se citește automat; mesaj m2166660 2026-10-12 16:02";638
+Atașamente care nu se pot citi;WhatsApp Image 2026-10-12 at 08.21.40 (1).jpeg;;"imagine, nu se citește automat; mesaj m2166660 2026-10-12 16:02";638
+Atașamente care nu se pot citi;1349_-940602140630_001.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2167556 2026-10-14 13:17";649
+Atașamente care nu se pot citi;comanda  AKRO.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2133860 2026-10-15 09:28";658
+Atașamente care nu se pot citi;comanda  AKRO.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2168100 2026-10-15 09:56";658
+Atașamente care nu se pot citi;OP AKRO.pdf;;"PDF scanat, textul nu se poate citi automat; mesaj m2134148 2026-10-15 13:39";660
+Contradicții email / Odoo de verificat;Oferta VIISOARA;;"emailuri: acceptată; Odoo: Anulat (S02576)";148.2
+Contradicții email / Odoo de verificat;COMANDA PROINSTAL;;"emailuri: acceptată; Odoo: Anulat (S02876)";533
+Mențiuni de fișă de securitate;text (AKRO);;2026-07-01 13:30 · m2134404 · 1m3 de apa bruta – pe alimentarea osmozei.  Las anexata si fisa de securitate a produsului nostru.  Asteptam cu interes raspunsul dumneav;8
+Mențiuni de fișă de securitate;atașament (AKRO);;2026-07-01 13:30 · m2134404 · EN_Scheda di sicurezza N_SS 222_CLP_14_GEL ANTISCALANT RO1.pdf;8
+Mențiuni de fișă de securitate;atașament (AKRO);;2026-07-01 13:30 · m2134404 · RM_Scheda di sicurezza N_SS 222_CLP_14_GEL ANTISCALANT RO1.pdf;8
+Mențiuni de fișă de securitate;text (AKRO);;2026-07-03 09:10 · m2135076 · 1m3 de apa bruta – pe alimentarea osmozei.  Las anexata si fisa de securitate a produsului nostru.  La comanda a minim 2 bidoane – se aco;30
+Mențiuni de fișă de securitate;atașament (AKRO);;2026-07-03 09:10 · m2135076 · EN_Scheda di sicurezza N_SS 222_CLP_14_GEL ANTISCALANT RO1.pdf;30
+Mențiuni de fișă de securitate;atașament (AKRO);;2026-07-03 09:10 · m2135076 · RM_Scheda di sicurezza N_SS 222_CLP_14_GEL ANTISCALANT RO1.pdf;30
+Mențiuni de fișă de securitate;atașament (AKRO);;2026-07-28 13:28 · m2142628 · kch_Sorbotech_LG_95_95_AW_85_R_EN_27_06_2017.pdf;121
+Mențiuni de fișă de securitate;text (partener);;"2026-07-30 11:43 · m2107204 · .2022. Vă rugăm să ne transmiteți un atest valabil la zi.  -Fișa de securitate, documentul primit este pentru seria ""Sorbotech LG 95; 95 A";121
+Mențiuni de fișă de securitate;text (AKRO);;"2026-07-30 12:35 · m2143748 · tul actualizat [ am anexat documentul vechi din greseala];  Fisa de securitate nu acopera si LGCO85.  Legat de verificarea hidraulica, deb";121
+Mențiuni de fișă de securitate;atașament (AKRO);;2026-07-30 10:20 · m2143524 · Pressure Tank REACH BY SGS-EN.pdf;194
+Mențiuni de fișă de securitate;atașament (AKRO);;2026-07-30 10:20 · m2143524 · SGP PE MSDS - Tank (HDPE).pdf;194
+Mențiuni de fișă de securitate;atașament (AKRO);;2026-09-11 16:31 · m2157380 · EN_Scheda di sicurezza N_SS 222_CLP_14_GEL ANTISCALANT RO1.pdf;454
+Mențiuni de fișă de securitate;atașament (AKRO);;2026-09-11 16:31 · m2157380 · RM_Scheda di sicurezza N_SS 222_CLP_14_GEL ANTISCALANT RO1.pdf;454
+Mențiuni de fișă de securitate;atașament (AKRO);;2026-09-16 09:48 · m2158212 · EN_Scheda di sicurezza N_SS 222_CLP_14_GEL ANTISCALANT RO1.pdf;470
+Mențiuni de fișă de securitate;atașament (AKRO);;2026-09-16 09:48 · m2158212 · RM_Scheda di sicurezza N_SS 222_CLP_14_GEL ANTISCALANT RO1.pdf;470
+Mențiuni de fișă de securitate;atașament (AKRO);;2026-10-02 15:38 · m2163172 · EN_Scheda di sicurezza N_SS 222_CLP_17_GEL ANTISCALANT RO1.pdf;541
+Mențiuni de fișă de securitate;text (AKRO);;2026-09-30 14:38 · m2162180 · 1m3 de apa bruta – pe alimentarea osmozei.  Las anexata si fisa de securitate a produsului nostru.  Pentru orice alte intrebari sau infor;560
+Mențiuni de fișă de securitate;atașament (AKRO);;2026-09-30 14:38 · m2162180 · EN_Scheda di sicurezza N_SS 222_CLP_14_GEL ANTISCALANT RO1.pdf;560
+Mențiuni de fișă de securitate;atașament (AKRO);;2026-09-30 14:38 · m2162180 · RM_Scheda di sicurezza N_SS 222_CLP_14_GEL ANTISCALANT RO1.pdf;560
+Mențiuni de fișă de securitate;atașament (AKRO);;2026-10-02 09:16 · m2162660 · kch_Sorbotech_LG_95_95_AW_85_R_EN_27_06_2017.pdf;571
+Mențiuni de fișă de securitate;atașament (partener);;2026-10-02 12:42 · m2128132 · EN_Scheda di sicurezza N_SS 222_CLP_17_GEL ANTISCALANT RO1.pdf;576
+Mențiuni de fișă de securitate;atașament (AKRO);;2026-10-05 09:45 · m2163492 · EN_Scheda di sicurezza N_SS 222_CLP_14_GEL ANTISCALANT RO1.pdf;585
+Mențiuni de fișă de securitate;atașament (AKRO);;2026-10-05 09:45 · m2163492 · RM_Scheda di sicurezza N_SS 222_CLP_14_GEL ANTISCALANT RO1.pdf;585
+Cereri pe categorie de produs;13-Filtre multistrat diferite medii;75;;
+Cereri pe categorie de produs;01-Filtre impuritati;42;;
+Cereri pe categorie de produs;14-Componente pentru filtre multistrat;41;;
+Cereri pe categorie de produs;11-Pompe de dozare;38;;
+Cereri pe categorie de produs;16-Prestari servicii;35;;
+Cereri pe categorie de produs;27-Uv;23;;
+Cereri pe categorie de produs;Altele / neclar;18;;
+Cereri pe categorie de produs;12-Chimicale pentru conditionare si intretinere;16;;
+Cereri pe categorie de produs;08-Osmoza si filtrare pe membrane;14;;
+Cereri pe categorie de produs;10-Ozonatoare;10;;
+Cereri pe categorie de produs;23-Diverse materiale, consumabile;7;;
+Cereri pe categorie de produs;21-Aparatura de analiza si control;3;;
+Cereri pe categorie de produs;25-Produse ocazionale unicate;1;;
+Oferte din lista Odoo fără email în PST;S02481;;2026-07-02 · Covaci Florica P.F. · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02484;;2026-07-02 · Vlase Constantin Codrin P.F. · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02489;;2026-07-03 · LORSO SERVICE S.R.L. · Ofertă;
+Oferte din lista Odoo fără email în PST;S02529;;2026-07-14 · STOICA CONSTANTIN I.I. · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02545;;2026-07-16 · MASPEX ROMANIA S.R.L., Cupsan Valentin · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02548;;2026-07-16 · ALEXANDRU MANEA - P.F. · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02556;;2026-07-16 · PROINSTAL SRL, Cristian Soimosan · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02562;;2026-07-20 · CONSTANTIN TODORAN P.F., Constantin Todoran · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02579;;2026-07-23 · MURFATLAR VINUL ROMANIA S.A., Lucian Stan · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02583;;2026-07-23 · COMUNA BUDILA I.P., Csíki Kálmán · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02588;;2026-07-24 · NAGY I. STEFAN IOAN I.I., Nagy Stefan · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02602;;2026-07-28 · GAMAN FLORIAN P.F., Gaman Florian · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02626;;2026-08-04 · MASPEX ROMANIA S.R.L., Cupsan Valentin · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02635;;2026-08-05 · RENSO RETAIL S.R.L., Nandor Szeles Tofalvi · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02646;;2026-08-07 · PRESIDENT MINERAL WATER SOCIETATE CU RASPUNDERE LIMITATĂ · Anulat;
+Oferte din lista Odoo fără email în PST;S02659;;2026-08-11 · ECO FUSION DEVELOPMENT S.R.L. · Ofertă trimisă;
+Oferte din lista Odoo fără email în PST;S02660;;2026-08-12 · ANTREPRIZA CONNECTING CORPORATE S.R.L., Mateiasi Laurentiu · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02663;;2026-08-12 · ERTEX INTERNATIONAL S.R.L., Catalin-Marian Proca · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02665;;2026-08-13 · KROGAN RECICLARE SRL · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02669;;2026-08-13 · OVIDIU NEAGOE P.F. · Ofertă trimisă;
+Oferte din lista Odoo fără email în PST;S02670;;2026-08-13 · OVIDIU NEAGOE P.F. · Ofertă trimisă;
+Oferte din lista Odoo fără email în PST;S02684;;2026-08-17 · SOLITAIRE INVEST S.R.L. · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02685;;2026-08-17 · VESELIN MITEV · Ofertă;
+Oferte din lista Odoo fără email în PST;S02687;;2026-08-17 · PATEA DUMITRU · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02702;;2026-08-20 · PRB CLARUM SRL, Penu Bogdan · Ofertă;
+Oferte din lista Odoo fără email în PST;S02703;;2026-08-20 · PRB CLARUM SRL, Penu David Eugen · Anulat;
+Oferte din lista Odoo fără email în PST;S02710;;2026-08-24 · ARTROM STEEL TUBES S.A., Dinca Ionela · Ofertă;
+Oferte din lista Odoo fără email în PST;S02714;;2026-08-24 · REGIA PUBLICA LOCALA A PADURILOR KRONSTADT R.A., Raduly Zoltan · Ofertă trimisă;
+Oferte din lista Odoo fără email în PST;S02729;;2026-08-27 · PATACHI LUCIAN EUGEN P.F. · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02731;;2026-08-27 · RUSEVI S.R.L., Sebastian Taposu · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02732;;2026-08-27 · AUTORO SRL, OVIDIU PARIA · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02733;;2026-08-27 · AUTORO SRL, OVIDIU PARIA · Ofertă trimisă;
+Oferte din lista Odoo fără email în PST;S02745;;2026-09-01 · ARTBRUTARIA MICU S.R.L., Micu Maier · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02754;;2026-09-01 · B-WORKS S.R.L., Szoke Barna · Ofertă;
+Oferte din lista Odoo fără email în PST;S02777;;2026-09-04 · AGROLAND BULZA S.R.L., Bulza Petru · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02782;;2026-09-07 · ILIVAS COMSERV S.R.L., Puscasu Ilie · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02788;;2026-09-08 · DIRECTIA GENERALA DE ASISTENTA SOCIALA SI PROTECTIA COPILULUI, Cristina Anca Lazarim · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02798;;2026-09-10 · POLIMER GAZ CONDUCTE, Serghei Cocîrlă · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02801;;2026-09-10 · HVAC PRO INSTAL S.R.L., Administrator · Ofertă trimisă;
+Oferte din lista Odoo fără email în PST;S02804;;2026-09-11 · ECO FUSION DEVELOPMENT S.R.L., LASZLO KAROLY · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02817;;2026-09-14 · ECO FUSION DEVELOPMENT S.R.L., LASZLO KAROLY · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02819;;2026-09-15 · BENEDEK ERVIN · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02833;;2026-09-16 · SERBAN INDUSTRIAL CONSTRUCT SRL, Florin Serban · Ofertă;
+Oferte din lista Odoo fără email în PST;S02847;;2026-09-18 · POLIMER GAZ CONDUCTE, Serghei Cocîrlă · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02856;;2026-09-22 · DAMIAN DRAGOS - P.F. · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02861;;2026-09-23 · RENSO RETAIL S.R.L., Nandor Szeles Tofalvi · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02862;;2026-09-23 · RENSO RETAIL S.R.L., Nandor Szeles Tofalvi · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02865;;2026-09-24 · FABRICA DE BERE BUNA S.R.L., Alexandru Geamanu · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02866;;2026-09-24 · WESTTIM CANNING CORPORATION S.R.L., Adrian Dodoiu · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02871;;2026-09-25 · DIMEX-2000 COMPANY SRL, ITU ELISABETA · Ofertă;
+Oferte din lista Odoo fără email în PST;S02881;;2026-09-28 · The Family Butchers Romania S.R.L., Dragos Raia · Ofertă trimisă;
+Oferte din lista Odoo fără email în PST;S02885;;2026-09-28 · Doru Iulian Andreescu P.F. · Comandă de vânzare;
+Oferte din lista Odoo fără email în PST;S02893;;2026-09-29 · ROMPLANT CONSULT S.R.L., Radu Arseni · Comandă de vânzare;
+Oferte din emailuri care nu sunt în lista Odoo;S02430;;2026-07-02 11:59 · ANEXA 1 la CTR 97 - Oferta - S02430 - COMUNA SOARS - 02.07.2026.pdf;21
+Oferte din emailuri care nu sunt în lista Odoo;S02458;;2026-07-17 13:35 · Oferta - S02458 - F HAUS - oferta cu filtre mecanice - 17.07.2026.pdf;51
+Oferte din emailuri care nu sunt în lista Odoo;S02637;;2026-08-05 17:03 · Oferta - S02637.pdf;104
+Oferte din emailuri care nu sunt în lista Odoo;S02637;;2026-08-27 12:22 · Comanda - S02637 - CARPATHIAN SPRINGS- 27.08.2026.pdf;104
+Oferte din emailuri care nu sunt în lista Odoo;S02571-1;;2026-07-27 09:31 · Oferta - S02571-1.pdf;140
+Oferte din emailuri care nu sunt în lista Odoo;S01922;;2026-07-22 12:32 · Comanda - S01922 - CORAL CONSTRUCT - 22.07.2026.pdf;142
+Oferte din emailuri care nu sunt în lista Odoo;S01872;;2026-07-22 15:09 · Oferta - S01872.pdf;149
+Oferte din emailuri care nu sunt în lista Odoo;S01872;;2026-07-27 09:42 · Comanda - S01872 - TERAX - 27.07.2026.pdf;149
+Oferte din emailuri care nu sunt în lista Odoo;S01872;;2026-07-27 09:42 · Factură proforma - TERAX - 27.07.2026.pdf;149
+Oferte din emailuri care nu sunt în lista Odoo;S02469;;2026-07-29 12:17 · Comanda - S02469 - Carpathian Springs - 29.07.2026.pdf;192
+Oferte din emailuri care nu sunt în lista Odoo;S02405;;2026-08-18 10:15 · Oferta - S02405.pdf;306
+Oferte din emailuri care nu sunt în lista Odoo;S02068;;2026-08-18 10:15 · Oferta - S02068.pdf;306
+Oferte din emailuri care nu sunt în lista Odoo;S02021;;2026-08-18 10:15 · Oferta - S02021.pdf;306
+Oferte din emailuri care nu sunt în lista Odoo;S02121;;2026-08-18 10:15 · Oferta - S02121.pdf;306
+Oferte din emailuri care nu sunt în lista Odoo;S02357;;2026-08-20 14:50 · Factură proforma - Fabrica de Zahar Ludus - 20.08.2026.pdf;328
+Oferte din emailuri care nu sunt în lista Odoo;S02357;;2026-08-20 14:50 · Comanda - S02357 - Fabrica de Zahar Ludus - 20.08.2026.pdf;328
+Oferte din emailuri care nu sunt în lista Odoo;S02400;;2026-08-24 09:36 · Comanda - S02400 - ARTROM STEEL TUBES - 24.08.2026.pdf;330
+Oferte din emailuri care nu sunt în lista Odoo;S02933;;2026-10-08 10:22 · Oferta - S02933 - VLADOF CONSTRUCT - 08.10.2026.pdf;397
+Oferte din emailuri care nu sunt în lista Odoo;S02933;;2026-10-08 14:52 · Factură proforma - VLADOF CONSTRUCT - 08.10.2026.pdf;397
+Oferte din emailuri care nu sunt în lista Odoo;S02897;;2026-10-01 09:29 · Comanda - S02897- Pfeiffer Vacuum - 01.10.2026.pdf;563
+Oferte din emailuri care nu sunt în lista Odoo;S02900;;2026-10-01 13:07 · Oferta - S02900 - Claudia Mihai - 01.10.2026.pdf;565
+Oferte din emailuri care nu sunt în lista Odoo;S02902;;2026-10-02 11:31 · Oferta - S02902 - CELECTRO - 02.10.2026.pdf;569
+Oferte din emailuri care nu sunt în lista Odoo;S02901;;2026-10-02 09:16 · Oferta - S02901 - Comuna Peciu Nou - 02.10.2026.pdf;571
+Oferte din emailuri care nu sunt în lista Odoo;S02903;;2026-10-02 12:39 · Comanda - S02903 - KNAUF INSULATION - 02.10.2026.pdf;575
+Oferte din emailuri care nu sunt în lista Odoo;S02907;;2026-10-02 15:25 · Oferta - S02907 - Primaria Draganesti Neamt - 02.10.2026.pdf;580
+Oferte din emailuri care nu sunt în lista Odoo;S02908;;2026-10-05 09:45 · Oferta - S02908 - HER & STRA CYPRINUS - 05.10.2026.pdf;585
+Oferte din emailuri care nu sunt în lista Odoo;S02909;;2026-10-05 10:45 · Oferta - S02909 - ELECTROTERM - 05.10.2026.pdf;586
+Oferte din emailuri care nu sunt în lista Odoo;S02910;;2026-10-05 12:50 · Comanda - S02910 - MASPEX - 05.10.2026.pdf;588
+Oferte din emailuri care nu sunt în lista Odoo;S02916;;2026-10-05 15:38 · Oferta - S02916 - RAP CONFECTIONERY - 05.10.2026.pdf;589
+Oferte din emailuri care nu sunt în lista Odoo;S02916;;2026-10-14 15:48 · Comanda - S02916 - RAP CONFECTIONERY - 14.10.2026.pdf;589
+Oferte din emailuri care nu sunt în lista Odoo;S02917;;2026-10-06 10:04 · Oferta - S02917 - Hotel Avanti Beach - 06.10.2026.pdf;595
+Oferte din emailuri care nu sunt în lista Odoo;S02921;;2026-10-06 14:29 · Oferta - S02921 - PALD - 06.10.2026.pdf;601
+Oferte din emailuri care nu sunt în lista Odoo;S02922;;2026-10-07 09:34 · Oferta - S02922 - Ticket Soft - 07.10.2026.pdf;605
+Oferte din emailuri care nu sunt în lista Odoo;S02934;;2026-10-08 12:51 · Oferta - S02934 - PORR CONSTRUCT - 08.10.2026.pdf;606
+Oferte din emailuri care nu sunt în lista Odoo;S02925;;2026-10-07 10:01 · Oferta - S02925 - ACONSTANTINESE MIHAI- 07.10.2026.pdf;607
+Oferte din emailuri care nu sunt în lista Odoo;S02926;;2026-10-07 10:31 · Oferta - S02926 - ZERNOFF - 07.10.2026.pdf;608
+Oferte din emailuri care nu sunt în lista Odoo;S02931;;2026-10-08 09:28 · Comanda - S02931 - Cornu Boulangerie - 08.10.2026.pdf;613
+Oferte din emailuri care nu sunt în lista Odoo;S02932;;2026-10-08 09:37 · Comanda - S02932 - Antrepriza - 08.10.2026.pdf;614
+Oferte din emailuri care nu sunt în lista Odoo;S02919;;2026-10-08 12:45 · Oferta - S02919 - UTI CONSTRUCTION AND FACILITY MANAGEMENT - 08.10.2026.pdf;619
+Oferte din emailuri care nu sunt în lista Odoo;S02935;;2026-10-08 13:11 · Oferta - S02935 - ALLINOX BIO ENERGY - 08.10.2026.pdf;620
+Oferte din emailuri care nu sunt în lista Odoo;S02955;;2026-10-14 15:19 · Oferta - S02955 - Carpathian Springs - 14.10.2026.pdf;621
+Oferte din emailuri care nu sunt în lista Odoo;S02922;;2026-10-09 12:21 · Comanda - S02922 - Ticket Soft - 09.10.2026.pdf;629
+Oferte din emailuri care nu sunt în lista Odoo;S02941;;2026-10-09 14:19 · Oferta - S02941 - Banica Silviu - 09.10.2026.pdf;632
+Oferte din emailuri care nu sunt în lista Odoo;S02950;;2026-10-14 09:13 · Oferta - S02950 - Activitatea GOSCOM - 14.10.2026.pdf;646
+Oferte din emailuri care nu sunt în lista Odoo;S02950;;2026-10-15 09:56 · Comanda - S02950 - ACTIVITATEA GOSCOM - 15.10.2026.pdf;658
+
+Eșantion de verificare;Nr.;Subiect;Client;Stare;Semne;Verificat de;Data verificării;Rezultat (corect / ce diferă)
+Eșantion de verificare;38;Order readiness confirmation USDRR/2026/01467 AKRO SRL;Euro-Clear Ltd.;Nu e cerere de ofertă;;;;
+Eșantion de verificare;41;RE: Oferta pret-SK260703MGFC-1-GFL/Echivalent;InfiniTrade Comp.;Fără ofertă;;;;
+Eșantion de verificare;106;R: Price request for new products. - FA 20 SX;ATLAS FILTRI S.r.l.;Nu e cerere de ofertă;;;;
+Eșantion de verificare;109;Cerere oferta pret statie dedurizare, cresa Al. cel Bun, jud. Neamt;SC MOLDOCOR SA;Fără ofertă;;;;
+Eșantion de verificare;128;OF-00045456 - Re: Grup pompare Soars.;SC RECONDI SRL;Nu e cerere de ofertă;;;;
+Eșantion de verificare;130;FW: Solicitare bazin de 10mc - AKRO ROMANIA;CRIBER NET S.R.L.;Nu e cerere de ofertă;;;;
+Eșantion de verificare;141;Solicitare documente conformitate PPWR – ambalaje/materiale de ambalare furnizate;prodal.ro;Nu e cerere de ofertă;;;;
+Eșantion de verificare;159;Factura de la Seko Sieta;SEKO SIETA SRL;Nu e cerere de ofertă;Grupare nesigură;;;
+Eșantion de verificare;228;Cotatie transport Polonia - Romania;lkwelt.ro;Nu e cerere de ofertă;;;;
+Eșantion de verificare;280;RE: Rog oferta de pret;TERMOSISTEM EHP SRL;Completă;;;;
+Eșantion de verificare;298;Re: Price request and estimated delivery time - ESPA 2 MAX;AQUA-COM NV;Nu e cerere de ofertă;;;;
+Eșantion de verificare;432.2;Oferte bloc operator;PROINSTAL SRL;Fără cerință clară;;;;
+Eșantion de verificare;443;informare DAVID - Xylem;;Nu e cerere de ofertă;Client neidentificat;;;
+Eșantion de verificare;464;Spital Pneumoftiziologie si boli infectioase - BRASOV;;Nu e cerere de ofertă;;;;
+Eșantion de verificare;467;S-a emis Factura ASC35692;ASCOMI TRADE COMPANY S.R.L.;Nu e cerere de ofertă;;;;
+Eșantion de verificare;484;COMANDA - 1484 - AKRO ROMANIA - 17.09.2026;Aplisens SRL;Nu e cerere de ofertă;Grupare nesigură;;;
+Eșantion de verificare;492;Comanda P01490 - AKRO ROMANIA - 18.09.2026;Aplisens SRL;Nu e cerere de ofertă;Grupare nesigură;;;
+Eșantion de verificare;595;RE: Solicitare ofertă – stație filtrare și dedurizare apă – Hotel Avanti Beach, Venus;Hotel Avanti Beach, Venus;Completă;;;;
+Eșantion de verificare;621;Distrugatoare de Ozon;CARPATHIAN SPRINGS S.A.;Fără cerință clară;Grupare nesigură;;;
+Eșantion de verificare;628;Comanda pentru STOC;BEGA MINERALE INDUSTRIALE S.A.;Nu e cerere de ofertă;;;;
